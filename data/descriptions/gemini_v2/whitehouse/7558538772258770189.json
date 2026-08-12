@@ -1,0 +1,172 @@
+{
+  "video_id": "7558538772258770189",
+  "visual_action": "The video opens with a close-up on a landline telephone. It then cuts to clips of Democratic politicians Maxine Waters, Hakeem Jeffries, and Charles Schumer speaking. Interspersed are B-roll shots of law enforcement apprehending people at night, and a person raising an American flag. The final segment is a montage of Donald Trump in various settings: disembarking a plane, as a silhouette in a doorway flanked by marines, waving at a large crowd, working at a McDonald's fry station, at a grocery store checkout, signing a document, and pointing at supporters. The video ends with a black and white shot of the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips throughout the second half of the video and is mentioned by name in the audio: 'President Trump will never stop fighting for you.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The audio states, 'Democrats in Congress have shut down the federal government because they care more about funding health care for illegal immigrants...'"
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The speaker identifies herself in the audio as 'White House Press Secretary Karoline Leavitt.' On-screen text also displays this name."
+    },
+    {
+      "name": "Charles Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on screen speaking in a legislative chamber, confirmed by face-ID."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on screen speaking in what appears to be a news broadcast, confirmed by face-ID."
+    },
+    {
+      "name": "Maxine Waters",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown on screen speaking to a reporter outdoors, confirmed by face-ID."
+    },
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The audio opens with 'Thank you for calling the White House comment line...' and the video ends with an image of the building."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Thank you for calling",
+      "role": "overlay"
+    },
+    {
+      "text": "comment line...",
+      "role": "overlay"
+    },
+    {
+      "text": "Hello America",
+      "role": "overlay"
+    },
+    {
+      "text": "this is White House",
+      "role": "overlay"
+    },
+    {
+      "text": "Press Secretary",
+      "role": "overlay"
+    },
+    {
+      "text": "Karoline Leavitt",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats in Congress",
+      "role": "overlay"
+    },
+    {
+      "text": "have shut down",
+      "role": "overlay"
+    },
+    {
+      "text": "the federal government",
+      "role": "overlay"
+    },
+    {
+      "text": "because they care",
+      "role": "overlay"
+    },
+    {
+      "text": "more about funding",
+      "role": "overlay"
+    },
+    {
+      "text": "health care for",
+      "role": "overlay"
+    },
+    {
+      "text": "illegal immigrants",
+      "role": "overlay"
+    },
+    {
+      "text": "than they care",
+      "role": "overlay"
+    },
+    {
+      "text": "about serving you",
+      "role": "overlay"
+    },
+    {
+      "text": "the American people.",
+      "role": "overlay"
+    },
+    {
+      "text": "In the meantime",
+      "role": "overlay"
+    },
+    {
+      "text": "President Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "will never stop",
+      "role": "overlay"
+    },
+    {
+      "text": "fighting for",
+      "role": "overlay"
+    },
+    {
+      "text": "you",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A woman identifying herself as White House Press Secretary Karoline Leavitt delivers a message as if on the White House comment line. She claims that Democrats in Congress have shut down the federal government because they prioritize funding healthcare for 'illegal immigrants' over serving 'the American people.' She concludes by assuring the listener that President Trump will 'never stop fighting for you.'",
+  "emojis_present": [],
+  "audio_music": "The video begins with the sound of a phone call message, featuring a woman's voice over a solemn, patriotic-sounding piano melody. At around the 21-second mark, after the narration ends, the music transitions to an upbeat, instrumental hip-hop track that plays over a montage of Donald Trump.",
+  "editing_pacing": "The video uses slow pans initially, then moves to quick cuts between politicians and B-roll to match the narration. The final section is a fast-paced montage of Donald Trump set to music, featuring a radial blur transition effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Frustration",
+    "Pride",
+    "Patriotism",
+    "Reassurance"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democrats have shut down the government because they prioritize providing healthcare to undocumented immigrants over serving American citizens, but Donald Trump will continue to fight for the American people.",
+  "intended_effect": "To generate anger towards Democrats while portraying Donald Trump as the sole advocate for American citizens.",
+  "uncertainty_flags": [
+    "Uncertain if the opening audio is an actual recording from the White House comment line or a dramatization created for the video.",
+    "The provided audio transcript spells the press secretary's name as 'Caroline Levin,' while the on-screen text and common knowledge suggest 'Karoline Leavitt.'"
+  ]
+}

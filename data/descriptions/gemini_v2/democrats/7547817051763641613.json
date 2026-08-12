@@ -1,0 +1,59 @@
+{
+  "video_id": "7547817051763641613",
+  "visual_action": "The video is a slideshow of still images. It starts with a close-up photo of Donald Trump smiling. It then cuts to a document where text is arranged in the shape of a woman's torso. The text is a dialogue between 'Donald' and 'Jeffrey'. The video flashes between the Trump photo, the document, and the document superimposed over the Trump photo. It concludes with an older photograph of Jeffrey Epstein and Donald Trump standing together.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photo of Donald Trump is shown repeatedly. His name ('Donald') and signature ('Donald J. Trump') appear on the document shown on screen. He is also named in the on-screen overlay text: 'Trump lying...'"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen overlay text ('writing Epstein a bday card'). His name ('Jeffrey') appears on the document shown on screen. A photograph of him with Donald Trump is shown at the end of the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions '...only for Dems to pull the receipts'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump lying about writing Epstein a bday card only for Dems to pull the receipts",
+      "role": "overlay"
+    },
+    {
+      "text": "Voice Over: There must be more to life than having everything. Donald Yes, there is, but I won't tell you what it is. Jeffrey Nor will I, since I also know what it is. Donald We have certain things in common, Jeffrey. Jeffrey Yes, we do, come to think of it. Donald Enjoyzas never age, have you noticed that? Jeffrey As a matter of fact, it was clear to me the last time I saw you. Donald A pal is a wonderful thing. Happy Birthday - and may every day be another wonderful secret. Donald J. Trump [Signature]",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only an instrumental music track plays.",
+  "emojis_present": [
+    "🆗"
+  ],
+  "audio_music": "A quirky, somewhat jaunty instrumental track ('Ohhhh — Silly Silly' by Silly Silly) plays throughout the video. The lighthearted tone creates an ironic or mocking contrast with the serious nature of the allegations.",
+  "editing_pacing": "The video is a slow-paced slideshow consisting of static images with simple cuts between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Scandal",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump lied about his relationship with Jeffrey Epstein, as evidenced by a birthday card he allegedly wrote which reveals a close, secretive bond between them.",
+  "intended_effect": "To convince the viewer that Donald Trump is dishonest and had an inappropriately close and secretive relationship with Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The full text of the document shown on screen is difficult to transcribe perfectly due to image quality and the stylistic text arrangement. One line in particular ('Enjoyzas never age...') appears to contain a typo or is illegible."
+  ]
+}

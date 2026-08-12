@@ -1,0 +1,129 @@
+{
+  "video_id": "7551224892134264119",
+  "visual_action": "The video displays a static screenshot of a tweet from an account called 'FactPost'. This tweet shows photos of Donald Trump and Jimmy Kimmel side-by-side. The video then cuts to a second static screenshot, this one of a tweet from Donald J. Trump, with an overlay caption at the top that reads 'Trump's gloating about government censorship'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A tweet from the account 'Donald J. Trump @realDonaldTrump' is shown, and he is pictured in a photo in the first tweet."
+    },
+    {
+      "name": "Jimmy Kimmel",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of both on-screen tweets, which claim his show, 'Jimmy Kimmel Live!', has been pulled off the air. He is also pictured in a photo."
+    },
+    {
+      "name": "Brendan Carr",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the 'FactPost' tweet as 'Trump's FCC Chair Brendan Carr'."
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the 'FactPost' tweet in the phrase '...over Kimmel's monologue on Charlie Kirk.'"
+    },
+    {
+      "name": "Stephen Colbert",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by his last name in Donald Trump's tweet: '...worse ratings than even Colbert...'"
+    },
+    {
+      "name": "Seth Meyers",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced as 'Seth' in Donald Trump's tweet: 'That leaves Jimmy and Seth, two total losers, on Fake News NBC.'"
+    },
+    {
+      "name": "Jimmy Fallon",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced as 'Jimmy' in Donald Trump's tweet in the context of NBC hosts: 'That leaves Jimmy and Seth, two total losers, on Fake News NBC.'"
+    },
+    {
+      "name": "ABC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in both tweets as the network for 'Jimmy Kimmel Live!'"
+    },
+    {
+      "name": "Federal Communications Commission",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced as 'FCC' in the first on-screen tweet."
+    },
+    {
+      "name": "NBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in Donald Trump's tweet as 'Fake News NBC' and urged to 'Do it NBC!!!'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "ABC has pulled Jimmy Kimmel Live! off the air.",
+      "role": "overlay"
+    },
+    {
+      "text": "This comes after Trump's FCC Chair Brendan Carr threatened to revoke ABC's broadcast licenses over Kimmel's monologue on Charlie Kirk.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's gloating about government censorship",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "Great News for America: The ratings challenged Jimmy Kimmel Show is CANCELLED. Congratulations to ABC for finally having the courage to do what had to be done. Kimmel has ZERO talent, and worse ratings than even Colbert, if that's possible. That leaves Jimmy and Seth, two total losers, on Fake News NBC. Their ratings are also horrible. Do it NBC!!! President DJT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video, only a music track.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, lo-fi instrumental track plays consistently throughout the video, creating a somber mood. The fingerprinted track is 'i was only temporary' by my head is empty, .diedlonely.",
+  "editing_pacing": "The video is a simple slideshow, transitioning from one static screenshot of a tweet to another.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is celebrating government censorship after his FCC chair's threats allegedly led to ABC cancelling 'Jimmy Kimmel Live!'.",
+  "intended_effect": "To cause alarm about the threat of government censorship under Trump and to provoke outrage at his apparent celebration of it.",
+  "uncertainty_flags": [
+    "The authenticity of the tweets from 'FactPost' and 'Donald J. Trump' shown in the screenshots cannot be verified from the video alone."
+  ]
+}

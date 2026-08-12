@@ -1,0 +1,69 @@
+{
+  "video_id": "7665003167574265102",
+  "visual_action": "A man in a suit, Jamieson Greer, is shown speaking outdoors in what appears to be a live news interview for CNBC. A news chyron with his name and title, along with a stock ticker, is displayed at the bottom of the screen. The video is framed with added text overlays at the top and synchronized with his speech.",
+  "cast": [
+    {
+      "name": "Jamieson Greer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and is identified by the face-ID in the context and a CNBC chyron that reads 'JAMIESON GREER U.S. TRADE REPRESENTATIVE'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The top caption refers to the speaker as 'trump's trade rep', and the chyron mentions the 'TRUMP ADMINISTRATION'S TARIFF STRATEGY'."
+    },
+    {
+      "name": "Canada",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The country is the central topic of Jamieson Greer's comments and is mentioned in both the top caption ('...beef with canada') and the CNBC chyron ('...TARIFFS ON CANADA')."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "why is trump's trade rep saying we have beef with canada 😭",
+      "role": "caption"
+    },
+    {
+      "text": "JAMIESON GREER U.S. TRADE REPRESENTATIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP ADMINISTRATION'S TARIFF STRATEGY",
+      "role": "chyron"
+    },
+    {
+      "text": "NEW ORDERS TO IMPOSE 50% TARIFFS ON CANADA",
+      "role": "chyron"
+    },
+    {
+      "text": "CANADA, THEY, THEY DID NOT USE TO MAKE IT WAS IN THE CANADA ESSENTIALLY LIMITED THE VEHICLES UNLESS OUR AUTO TO PRODUCE THERE IN THE US-CANADA SO THEY DID A VERY TRUMPIAN HERE.\" SO WE HAVE A LONG OF THESE TENSIONS. I DON'T THAT THERE'S SITUATION WHERE IF A COMPANY'S OFFSHORING TO ANOTHER COUNTRY, GOING TO HAVE 100% GUARANTEE ABLE TO GET IT INTO THE UNITED",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Jamieson Greer, identified as a Trump administration trade representative, discusses the history of trade tensions between the U.S. and Canada, focusing on the auto industry. He claims that in the 1960s, Canada implemented a \"very Trumpian\" policy by requiring U.S. automakers to produce vehicles in Canada in order to sell them there. He states there is a long history of these tensions and that companies offshoring production should not have a \"100% guarantee\" of getting their products back into the U.S. market.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio consists solely of spoken dialogue from the news broadcast, with no accompanying music or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head clip taken from a news broadcast. The primary editing consists of added text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "alarm",
+    "incredulity"
+  ],
+  "cultural_references": [],
+  "central_claim": "A Trump administration trade representative is publicly framing the U.S. trade relationship with Canada as a long-standing conflict, implying continued tensions are justified.",
+  "intended_effect": "To create concern and criticism regarding the Trump administration's confrontational approach to trade policy with a key ally, Canada.",
+  "uncertainty_flags": []
+}

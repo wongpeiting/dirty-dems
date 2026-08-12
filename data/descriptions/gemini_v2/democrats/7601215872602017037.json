@@ -1,0 +1,101 @@
+{
+  "video_id": "7601215872602017037",
+  "visual_action": "The video is a slideshow of three static images. The first is a screenshot of a fake tweet from an account called 'FactPost' claiming Don Lemon has been arrested. It shows a photo of Lemon next to a fabricated legal statement. The second image is a fake screenshot of a New York Times article detailing the arrest. The third is a screenshot of a tweet from the 'Democrats' account stating 'FREE DON LEMON. PROTECT FREE SPEECH.'",
+  "cast": [
+    {
+      "name": "Don Lemon",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His photo is shown at the beginning, and his name is mentioned throughout the on-screen text as the subject of a fabricated arrest."
+    },
+    {
+      "name": "Abbe Lowell",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is named in the fabricated legal statement and New York Times article as Don Lemon's attorney. The text reads 'STATEMENT FROM ABBE LOWELL' and 'Abbe Lowell, a lawyer for Mr. Lemon...'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The final image is a screenshot of a tweet from the account 'Democrats' (@TheDemocrats)."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The masthead 'The New York Times' appears on a fabricated article screenshot used to advance the video's narrative."
+    },
+    {
+      "name": "Trump Justice Department",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A fine-print portion of the fabricated lawyer's statement, visible in the OCR transcript, mentions 'the Trump Justice Department'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Don Lemon has been arrested by federal agents after covering Minnesota protests.",
+      "role": "overlay"
+    },
+    {
+      "text": "STATEMENT FROM ABBE LOWELL, ATTORNEY FOR DON LEMON",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times",
+      "role": "overlay"
+    },
+    {
+      "text": "Abbe Lowell, a lawyer for Mr. Lemon, vowed to fight the charges.",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Don Lemon was taken into custody by federal agents last night in Los Angeles, where he was covering the Grammy awards,\" Mr. Lowell said in a statement on Friday. \"Don has been a journalist for 30 years, and his constitutionally protected work in Minneapolis was no different than what he has always done.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Mr. Lowell added, \"This unprecedented attack on the First Amendment and transparent attempt to distract attention from the many crises facing this administration will not stand. Don will fight these charges vigorously and thoroughly in court.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "FREE DON LEMON. PROTECT FREE SPEECH.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only a dramatic, powerful song plays.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, powerful song with swelling choral-style vocals plays throughout the video, creating a serious and urgent tone.",
+  "editing_pacing": "A slow-paced slideshow of three static screenshots.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a fabricated narrative using staged screenshots of social media posts and a news article. The initial tweet from 'FactPost', the legal statement, and the New York Times article are all faked to create a false story about Don Lemon's arrest to make a political point about freedom of the press.",
+  "emotions_signaled": [
+    "outrage",
+    "alarm",
+    "sense of injustice"
+  ],
+  "cultural_references": [
+    "Grammy Awards"
+  ],
+  "central_claim": "The post fabricates the arrest of journalist Don Lemon to argue that freedom of the press is under attack and must be defended.",
+  "intended_effect": "To provoke outrage and alarm about a fabricated attack on press freedom, and to rally support for the protection of free speech.",
+  "uncertainty_flags": []
+}

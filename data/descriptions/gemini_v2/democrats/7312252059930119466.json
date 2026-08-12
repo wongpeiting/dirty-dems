@@ -1,0 +1,47 @@
+{
+  "video_id": "7312252059930119466",
+  "visual_action": "A slideshow of still photos displays various rooms and hallways inside the White House, all elaborately decorated for Christmas. The images show Christmas trees, garlands, lights, and other festive displays. One hallway is decorated with a candy and circus theme, while other rooms feature red or white color schemes with ornate chandeliers and furniture.",
+  "cast": [
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'Holidays at the White House' and the video shows interior shots of the building."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video was posted by the official account '@democrats'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "✨Holidays at the White House✨",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists entirely of music.",
+  "emojis_present": [
+    "✨"
+  ],
+  "audio_music": "An upbeat, high-pitched, fast-tempo synth-pop cover of a song that sounds like \"Last Christmas\" by Wham! plays throughout the video, creating a festive and energetic mood.",
+  "editing_pacing": "The video is a simple slideshow of still images, with cuts between photos timed to the music's beat.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "festivity",
+    "holiday cheer",
+    "pride"
+  ],
+  "cultural_references": [
+    "The audio is a cover of the popular Christmas song \"Last Christmas,\" originally performed by Wham!."
+  ],
+  "central_claim": "The White House is beautifully decorated for the holiday season.",
+  "intended_effect": "To share the festive holiday decorations at the White House and evoke feelings of holiday cheer and national pride.",
+  "uncertainty_flags": []
+}

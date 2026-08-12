@@ -1,0 +1,90 @@
+{
+  "video_id": "7532177901131746574",
+  "visual_action": "The video starts with Donald Trump speaking while seated in a chair, with a chyron from C-SPAN 2 indicating he is taking questions from reporters in Turnberry, Scotland. The video then abruptly cuts to a CNN news segment where an anchor stands next to a large screen displaying 'TRUMP'S NET APPROVAL RATING'. The screen lists several issues, including the 'EPSTEIN CASE', with negative point values next to them.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown speaking in the first clip, making a claim about his poll numbers. The second clip is a news segment analyzing his approval rating."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referenced by Trump as 'ridiculous Epstein stuff' and listed on the CNN graphic as 'EPSTEIN CASE' with a -37 point rating."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news segment used to counter Trump's claim is identified as a CNN broadcast by its on-screen logo and branding."
+    },
+    {
+      "name": "unnamed CNN anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A male news anchor is shown presenting the poll data in the CNN segment."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP TAKES QUESTIONS FROM REPORTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "TURNBERRY, SCOTLAND",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN 2",
+      "role": "chyron"
+    },
+    {
+      "text": "DO YOU KNOW THAT MY POLL NUMBERS ARE UP 4.5 POINTS SINCE THIS RIDICULOUS EPSTEIN STUFF?",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP'S NET APPROVAL RATING",
+      "role": "overlay"
+    },
+    {
+      "text": "UNDERWATER ON ALL MAJOR ISSUES",
+      "role": "overlay"
+    },
+    {
+      "text": "IMMIGRATION: -14 PTS\nTHE ECONOMY: -14 PTS\nFOREIGN POLICY: -14 PTS\nTRADE: -15 PTS\nEPSTEIN CASE: -37 PTS",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump claims his poll numbers have increased by four and a half points since the 'ridiculous Epstein stuff' began.",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of Donald Trump's speech until the cut, at which point a loud, comedic 'record scratch' or 'wrong answer' buzzer sound effect plays. The rest of the clip is silent.",
+  "editing_pacing": "A static shot of Trump speaking is followed by a single, abrupt hard cut to a static shot of a CNN news report, creating a stark contrast.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "skepticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's assertion that his poll numbers have risen in relation to the Epstein case is false; in reality, the issue has significantly harmed his approval rating.",
+  "intended_effect": "To portray Donald Trump as dishonest or out of touch with reality by immediately contradicting his claim with supposed factual data.",
+  "uncertainty_flags": []
+}

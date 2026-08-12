@@ -1,0 +1,99 @@
+{
+  "video_id": "7532911757463915831",
+  "visual_action": "A slideshow of images and a short video clip. It begins with a screenshot of a tweet from an account called \"FactPost\" showing photos of Donald Trump and Sean 'Diddy' Combs together, claiming Trump is considering pardoning Diddy. This is followed by a 2012 video clip of Trump calling Diddy a \"good friend.\" Then, a screenshot of a \"Deadline\" news article is shown, reiterating that a pardon is being \"seriously considered.\" The video ends with another photo of Trump and Diddy together.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears in photos and a video clip, is named in on-screen text, and speaks in the audio."
+    },
+    {
+      "name": "Sean 'Diddy' Combs",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears in photos, is named in on-screen text, and is spoken about by Donald Trump."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in two photographs alongside Donald Trump and Sean 'Diddy' Combs."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle of the Twitter account shown in a screenshot."
+    },
+    {
+      "name": "Deadline",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name of the publication shown in a screenshot of an article."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New reporting reveals Trump is 'seriously considering' pardoning Diddy.",
+      "role": "overlay"
+    },
+    {
+      "text": "2012",
+      "role": "overlay"
+    },
+    {
+      "text": "You know, Diddy's a good friend of mine.",
+      "role": "caption"
+    },
+    {
+      "text": "He's a good guy. I'm gonna stick up for him.",
+      "role": "caption"
+    },
+    {
+      "text": "DEADLINE",
+      "role": "overlay"
+    },
+    {
+      "text": "Nearly two months after Trump publicly entertained the notion of a Diddy pardon in an Oval Office gaggle, a comprehensive get out of jail card for Combs is being 'seriously considered,' an administration source tells Deadline.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "In a video clip, Donald Trump states: \"You know, Diddy's a good friend of mine. He's a good guy. I'm gonna stick up for him.\"",
+  "emojis_present": [],
+  "audio_music": "A slow, dramatic, and ominous synthesizer track plays continuously throughout the video, creating a serious and tense mood.",
+  "editing_pacing": "The video is a slow-paced slideshow of static images (screenshots and photos) and one short, static video clip, with simple cuts between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "concern",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "Sean 'Diddy' Combs"
+  ],
+  "central_claim": "Donald Trump's close friendship with Sean 'Diddy' Combs, evidenced by past praise and current reporting, suggests he would abuse his power to pardon the controversial figure.",
+  "intended_effect": "To generate disapproval of Donald Trump by linking him to Sean 'Diddy' Combs and implying he would issue a pardon based on personal loyalty rather than justice.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet and the 'Deadline' article screenshot cannot be verified from the video alone."
+  ]
+}

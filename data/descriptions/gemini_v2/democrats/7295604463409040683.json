@@ -1,0 +1,108 @@
+{
+  "video_id": "7295604463409040683",
+  "visual_action": "A fast-paced montage of video clips that alternates between Donald Trump and Joe Biden. Trump is shown sitting in a chair making hand gestures, speaking at a podium, and standing on a stage. Biden is shown smiling at a podium, walking into a factory, speaking with two other men (including Jim Clyburn), and signing a document at a desk. Text overlays describe the actions or policies of each politician.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips and contrasted with Joe Biden. The on-screen text 'MAGAnomics' is superimposed over a clip of him."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips and contrasted with Donald Trump. The on-screen text 'Bidenomics' is superimposed over a clip of him."
+    },
+    {
+      "name": "Jim Clyburn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly in a clip standing and talking with Joe Biden."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The term 'MAGAnomics' is used to label and frame Donald Trump's economic policies."
+    },
+    {
+      "name": "Big Pharma",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions 'taking on Big Pharma' as part of Biden's policies."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAGAnomics 😩✋",
+      "role": "overlay"
+    },
+    {
+      "text": "Bidenomics 😄",
+      "role": "overlay"
+    },
+    {
+      "text": "tax giveaways to the wealthy",
+      "role": "overlay"
+    },
+    {
+      "text": "empowering the middle class and American workers",
+      "role": "overlay"
+    },
+    {
+      "text": "BIDENOMICS MADE IN AMERICA",
+      "role": "other"
+    },
+    {
+      "text": "cutting social programs",
+      "role": "overlay"
+    },
+    {
+      "text": "Investing in clean energy and taking on Big Pharma",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT JOE BIDEN\nINVESTING IN AMERICA\nWEST COLUMBIA, SOUTH CAROLINA",
+      "role": "other"
+    },
+    {
+      "text": "raising costs for families",
+      "role": "overlay"
+    },
+    {
+      "text": "lowering costs",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set entirely to music.",
+  "emojis_present": [
+    "😩",
+    "✋",
+    "😄"
+  ],
+  "audio_music": "The video features a consistent, upbeat electronic track ('Slow' by Aganz Leet) that plays throughout, creating a modern, energetic feel that drives the fast-paced editing.",
+  "editing_pacing": "The video uses a fast-paced montage style with quick cuts that alternate between clips of Donald Trump and Joe Biden, creating a direct visual comparison and contrast.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride (associated with Biden's accomplishments)",
+    "Disapproval (associated with Trump's policies)",
+    "Optimism (linked to 'Bidenomics')",
+    "Concern (linked to 'MAGAnomics')"
+  ],
+  "cultural_references": [],
+  "central_claim": "Biden's economic policies ('Bidenomics') empower workers and lower costs for families, while Trump's policies ('MAGAnomics') benefit the wealthy by cutting social programs and raising costs.",
+  "intended_effect": "To persuade viewers to support Joe Biden's economic agenda by portraying it as beneficial for ordinary Americans, while framing Donald Trump's as harmful and favoring the rich.",
+  "uncertainty_flags": []
+}

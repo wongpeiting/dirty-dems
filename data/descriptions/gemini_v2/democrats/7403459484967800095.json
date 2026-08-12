@@ -1,0 +1,75 @@
+{
+  "video_id": "7403459484967800095",
+  "visual_action": "A slideshow of still photos from a large political convention. The first shot is a wide view of the stage and a massive crowd, with a large screen showing Barack Obama waving. The next shot shows enthusiastic supporters in the crowd, with one woman holding a sign reading \"NOW\" with the Obama campaign logo. The third shot shows Michelle Obama on stage holding the hands of her two young daughters. The final shot is of the large screen again, this time showing Barack and Michelle Obama embracing and laughing, with American flags on either side.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown waving and embracing Michelle Obama on a large screen at the convention."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown walking on stage with her daughters and embracing Barack Obama on a large screen."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly identifies the event as the \"Democratic National Convention\"."
+    },
+    {
+      "name": "Malia Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown as a young girl walking on stage with her mother, Michelle Obama."
+    },
+    {
+      "name": "Sasha Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown as a young girl walking on stage with her mother, Michelle Obama."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POV: it's 2008 and you're attending the Democratic National Convention",
+      "role": "overlay"
+    },
+    {
+      "text": "NOW",
+      "role": "other"
+    },
+    {
+      "text": "Voting",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, sentimental, and uplifting instrumental track plays throughout the video, creating a nostalgic and hopeful mood.",
+  "editing_pacing": "The video is a slow-paced slideshow of four still photographs.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "nostalgia",
+    "hope",
+    "pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "The 2008 Democratic National Convention, which nominated Barack Obama, was a moment of great hope and excitement.",
+  "intended_effect": "To evoke feelings of nostalgia, pride, and fondness for the Obama era among viewers.",
+  "uncertainty_flags": []
+}

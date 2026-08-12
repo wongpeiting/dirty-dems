@@ -1,0 +1,104 @@
+{
+  "video_id": "7271021704011320619",
+  "visual_action": "The video opens on a shot of a Fox News Republican presidential debate stage. It then cuts to a series of still photographs of Republican politicians: Mike Pence, Ron DeSantis, Nikki Haley, Vivek Ramaswamy, and Tim Scott. A red text box with the words 'MAGA Extremist' is overlaid on each politician's photo.",
+  "cast": [
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photo of Mike Pence is shown with the label 'MAGA Extremist'."
+    },
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photo of Ron DeSantis is shown with the label 'MAGA Extremist'."
+    },
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photo of Nikki Haley is shown with the label 'MAGA Extremist'."
+    },
+    {
+      "name": "Vivek Ramaswamy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photo of Vivek Ramaswamy is shown with the label 'MAGA Extremist'."
+    },
+    {
+      "name": "Tim Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photo of Tim Scott is shown with the label 'MAGA Extremist'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the event as the '2024 Republican Debate Edition'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The debate stage is branded with the 'FOX NEWS' logo."
+    },
+    {
+      "name": "MAGA movement",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text 'MAGA Extremist' is overlaid on every candidate's photo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FOX NEWS DEMOCRACY 24",
+      "role": "overlay"
+    },
+    {
+      "text": "2024 Republican Debate Edition",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS REPUBLICAN DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "MAGA Extremist",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice says, \"Choose your character,\" at the beginning of the video.",
+  "emojis_present": [],
+  "audio_music": "The video features a continuous, upbeat, electronic music track reminiscent of a video game character selection screen. A voiceover says 'Choose your character' at the start, reinforcing the theme.",
+  "editing_pacing": "The video is a fast-paced slideshow, cutting between still photos of politicians in time with the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "alarm"
+  ],
+  "cultural_references": [
+    "Video game character selection screens (e.g., the 'Choose your character' audio cue and music style)."
+  ],
+  "central_claim": "All the 2024 Republican presidential candidates are identical 'MAGA Extremists,' making the primary a meaningless choice between the same extreme options.",
+  "intended_effect": "To mock the Republican primary field and portray all its candidates as dangerously extreme.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "7661001849805212959",
+  "visual_action": "The video starts with a photograph of politicians Zohran Mamdani, Bernie Sanders, and Alexandria Ocasio-Cortez on a stage in front of a large crowd holding signs that say \"ZOHRAN\". They are holding hands with their arms raised. The image then transitions with a blurry swirl effect into a red-toned Soviet propaganda poster depicting a man and a woman holding a hammer and sickle aloft.",
+  "cast": [
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is identified by face recognition and is the central figure in the first photograph, with the crowd holding signs bearing his name, \"ZOHRAN\"."
+    },
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visually identifiable in the photograph on stage, to the left of Zohran Mamdani."
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visually identifiable in the photograph on stage, to the right of Zohran Mamdani."
+    },
+    {
+      "name": "Soviet Union",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video's second half is dominated by a Soviet propaganda poster featuring the hammer and sickle, implying a comparison between the politicians shown and the ideology of the USSR."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ZOHRAN",
+      "role": "other"
+    },
+    {
+      "text": "Союз Советских Социалистических Республик есть социалистическое государство рабочих и крестьян. Статья 1-ая Конституции СССР",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A female vocalist sings the lyrics, \"I think I've seen this film before, and I didn't like the ending.\"",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, and foreboding song featuring a female vocalist plays throughout. The lyrics suggest a negative, repeating pattern.",
+  "editing_pacing": "The video consists of two static images connected by a single, fast swirl transition.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Warning",
+    "Foreboding"
+  ],
+  "cultural_references": [
+    "The audio is a clip from the song 'exile' by Taylor Swift, specifically the line 'I think I've seen this film before, and I didn't like the ending,' which is a popular meme format on TikTok to signal a negative recurring situation."
+  ],
+  "central_claim": "The political movement of Zohran Mamdani, supported by Bernie Sanders and Alexandria Ocasio-Cortez, is analogous to Soviet communism and will lead to a similarly disastrous outcome.",
+  "intended_effect": "To create fear and distrust towards the depicted politicians by visually associating them with Soviet communism.",
+  "uncertainty_flags": [
+    "The Cyrillic text on the Soviet poster is somewhat blurry, and the transcription is a best effort."
+  ]
+}

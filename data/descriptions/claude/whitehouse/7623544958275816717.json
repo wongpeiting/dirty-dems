@@ -1,0 +1,87 @@
+{
+  "video_id": "7623544958275816717",
+  "visual_action": "The video opens with a series of shots of the White House South Portico decorated with rainbow-colored columns (red, orange, yellow, green, blue, purple) — imagery from a Pride Month event. A close-up shows two women emerging from the South Portico entrance flanked by U.S. Marines in dress whites; one woman wears a light green pantsuit and waves, the other wears a rainbow-gradient dress. A subsequent shot shows the White House balcony with a large Progress Pride flag (rainbow + transgender + brown/black stripes + chevron) hanging centrally between two large American flags. Another shot shows a crowd on the South Lawn watching performers on a stage with rainbow-colored columns in the background; a performer in a silver sequined jumpsuit sings into a microphone. The video then cuts to a black screen with the text \"two years later ❤️.\" This transitions to footage of Donald Trump and Melania Trump walking solemnly in formal dark attire, flanked by military personnel and a fire truck, in what appears to be a ceremonial procession. Next, Trump appears outdoors in a royal blue suit, standing with others on a green lawn watching as a U.S. flag is unfurled or presented. The video ends with a wide exterior shot of the White House South Portico showing white columns (undecorated), an American flag flying on a flagpole in the foreground under a blue sky — presenting the White House in its standard, undecorated appearance.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in post-'two years later' segment walking in dark suit with red tie alongside Melania Trump in ceremonial setting, and again in blue suit on a lawn"
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Walks alongside Donald Trump in dark formal dress during ceremonial procession scene"
+    },
+    {
+      "name": "unnamed woman in green pantsuit",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears emerging from White House South Portico entrance waving, wearing light green pantsuit, during the Pride event footage"
+    },
+    {
+      "name": "unnamed woman in rainbow dress",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Walks out alongside the woman in the green pantsuit, wearing a rainbow-gradient dress, during the Pride event footage"
+    },
+    {
+      "name": "unnamed performer in silver jumpsuit",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Performing on South Lawn stage in a silver sequined jumpsuit during the Pride event crowd shot"
+    },
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Account is @whitehouse; building appears throughout all scenes"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "two years later ❤️",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A single line of audio is heard: \"And just like that, I'm back to loving life again.\" The line plays as the video transitions from the Pride-decorated White House scenes (labeled as the 'before') to the Trump-era White House scenes (labeled \"two years later\"), framing the latter as the positive resolution.",
+  "emojis_present": [
+    "❤️",
+    "🇺🇸"
+  ],
+  "audio_music": "Original sound; the spoken audio line \"And just like that, I'm back to loving life again\" appears to be a trending or chosen audio clip used to editorialize the visual contrast. No background music is described beyond this line.",
+  "editing_pacing": "Sequential before/after structure: several shots of Pride-decorated White House (rainbow columns, Progress Pride flag, outdoor performance, women in rainbow attire), then a black title card reading \"two years later ❤️\", then shots of Trump-era White House (ceremonial procession, flag presentation, undecorated South Portico). Pacing is moderate, slideshow-style with clean cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "relief — signaled by the audio line 'back to loving life again' paired with the transition away from Pride imagery",
+    "pride/patriotism — signaled by American flag shots, military presence, and the undecorated White House in the final frame",
+    "contrast/satisfaction — the before/after structure implies a valued change"
+  ],
+  "cultural_references": [
+    "Pride Month / LGBTQ+ Pride flag imagery (rainbow columns, Progress Pride flag)",
+    "Before/after transformation format (common social media trope)",
+    "'And just like that' — possible reference to the Sex and the City revival series title, used colloquially as a trending audio phrase"
+  ],
+  "central_claim": "The official @whitehouse account presents the replacement of Biden-era Pride Month White House decorations with Trump-era imagery as a welcome and positive \"transformation,\" framing it as a return to normalcy or preferred values.",
+  "intended_effect": "Viewers are intended to feel satisfaction or approval at the visual contrast between the rainbow-decorated Biden White House and the undecorated Trump White House, reinforced by the audio line about \"loving life again.\"",
+  "uncertainty_flags": [
+    "The identity of the woman in the green pantsuit emerging from the White House is not confirmed from visual alone — could be Jill Biden or another official",
+    "The exact event depicted in the Pride footage (year/occasion) is not confirmed by on-screen text",
+    "The ceremonial procession with Trump and Melania Trump — the specific occasion is unclear (could be a state funeral, memorial, or other formal event)",
+    "The audio 'And just like that, I'm back to loving life again' may be a specific trending sound with added cultural context not fully identified here"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "video_id": "7598697966760742157",
+  "visual_action": "An AI-generated, painterly image shows a figure resembling Donald Trump and a penguin walking away from the camera across a vast snowy landscape toward distant mountains. The penguin holds a small American flag. Footprints trail behind them. Another flag, red and white, is planted in the snow in the distance. The video ends with a black and white title card for \"THE WHITE HOUSE\" shown over imagery of the building and a helicopter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A figure strongly resembling Donald Trump (identified by build, hair, and clothing) is the central subject of the main visual."
+    },
+    {
+      "name": "Dr. Ainley",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The narrator says, \"Dr. Ainley explained that even if he caught him and brought him back...\""
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A title card with the text \"THE WHITE HOUSE\" appears at the end of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A narrator with a distinctive German accent, in the style of a nature documentary, describes a penguin that has abandoned its colony and is inexplicably heading towards distant mountains, a journey to certain death. The narrator quotes a \"Dr. Ainley\" who confirms the penguin's resolute, self-destructive path. The narration ends with the question, \"But why?\".",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and epic orchestral score plays throughout, creating a melancholic and dramatic tone appropriate for a documentary about a tragic journey.",
+  "editing_pacing": "The video consists of a single, static AI-generated image with a very slow zoom out effect for most of its runtime. It concludes with a fade to black and a simple, black-and-white title card sequence.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video's primary visual is a surreal, AI-generated image depicting former President Donald Trump and a penguin walking together across a vast, snowy landscape. The penguin is shown holding a small American flag. This scene is a complete fabrication intended for satirical effect.",
+  "emotions_signaled": [
+    "mockery",
+    "pity",
+    "melancholy",
+    "satire"
+  ],
+  "cultural_references": [
+    "The audio is from a well-known scene in Werner Herzog's 2007 documentary 'Encounters at the End of the World', which has become an internet meme about existential dread or futile journeys.",
+    "The music is a slowed-down organ version of Gigi D'Agostino's song 'L'Amour Toujours', which is specifically associated with the 'Wandering Penguin' meme."
+  ],
+  "central_claim": "The video satirically portrays Donald Trump as being on a delusional, isolated, and self-destructive journey, directly comparing him to the 'insane' penguin from the Werner Herzog documentary.",
+  "intended_effect": "To frame Donald Trump as a pathetic, misguided, and lonely figure on a pointless quest, thereby mocking his political ambitions and character.",
+  "uncertainty_flags": [
+    "The identity of the red and white flag in the background of the AI image is unclear, though it resembles the flag of Greenland."
+  ]
+}

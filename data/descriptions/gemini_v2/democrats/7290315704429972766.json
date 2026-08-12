@@ -1,0 +1,105 @@
+{
+  "video_id": "7290315704429972766",
+  "visual_action": "A slideshow displays still photos of Republican politicians. It begins with Donald Trump at a podium, followed by Ron DeSantis, Mike Pence, Vivek Ramaswamy, Nikki Haley, and Chris Christie in various settings. Each image is accompanied by an overlay text that describes a specific policy or action attributed to that person.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the first person shown, and the opening on-screen text uses him as the benchmark for being 'extreme'."
+    },
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of him is shown with a text overlay describing his actions."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of him is shown with a text overlay describing his actions."
+    },
+    {
+      "name": "Vivek Ramaswamy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of him is shown with a text overlay describing his beliefs."
+    },
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of her is shown with a text overlay describing her actions."
+    },
+    {
+      "name": "Chris Christie",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of him is shown with a text overlay describing his actions."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The initial on-screen text refers to '2024 GOP candidates'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"2024 GOP candidates aren't as extreme as Donald Trump\"",
+      "role": "overlay"
+    },
+    {
+      "text": "signed laws that allowed book bans and attacked LGBTQ+ children",
+      "role": "overlay"
+    },
+    {
+      "text": "led the charge to repeal the Affordable Care Act",
+      "role": "overlay"
+    },
+    {
+      "text": "believes the voting age should be raised to 25",
+      "role": "overlay"
+    },
+    {
+      "text": "endorsed a plan to end Medicare",
+      "role": "overlay"
+    },
+    {
+      "text": "championed tax cuts for the wealthy and corporations",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of music.",
+  "emojis_present": [],
+  "audio_music": "A quirky, comical, and slightly bumbling instrumental track ('Comic Walk' by Sidney Torch) plays throughout the video, creating a mocking and unserious tone.",
+  "editing_pacing": "The video is a slideshow of static images, with each image held for a few seconds before cutting to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "alarm",
+    "concern"
+  ],
+  "cultural_references": [
+    "The music is 'Comic Walk' by Sidney Torch, famously used as the theme for the TV show 'Monty Python's Flying Circus'."
+  ],
+  "central_claim": "Various 2024 GOP presidential candidates are just as extreme as Donald Trump, as evidenced by their controversial policy positions.",
+  "intended_effect": "To mock the idea that any of the 2024 Republican candidates are moderate alternatives to Donald Trump and to characterize the entire field as dangerously extreme.",
+  "uncertainty_flags": []
+}

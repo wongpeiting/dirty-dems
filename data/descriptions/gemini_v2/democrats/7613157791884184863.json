@@ -1,0 +1,55 @@
+{
+  "video_id": "7613157791884184863",
+  "visual_action": "The video starts with a close-up still image of Donald Trump looking to his right. The camera then performs a slow, dramatic zoom-in on his neck, just below his ear. As it zooms, a faint image of another man's face becomes visible, appearing as if it were a tattoo on Trump's neck.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of the still image that the video is based on."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is digitally superimposed onto Donald Trump's neck."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "do you guys see that??",
+      "role": "overlay"
+    },
+    {
+      "text": "what is that??",
+      "role": "overlay"
+    },
+    {
+      "text": "omg",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a whimsical, questioning musical track.",
+  "emojis_present": [],
+  "audio_music": "A whimsical, playful, and slightly goofy instrumental track plays throughout. Its curious tone builds suspense for the zoom-in and reveal, a style common in meme videos.",
+  "editing_pacing": "The video consists of a single, slow, dramatic zoom into a still photograph, ending in a close-up.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A face identifiable as Jeffrey Epstein is digitally superimposed onto Donald Trump's neck to create the appearance of a tattoo, implying a hidden connection between the two.",
+  "emotions_signaled": [
+    "mockery",
+    "suspicion",
+    "humor"
+  ],
+  "cultural_references": [
+    "The video uses a common meme format where the camera slowly zooms in on a seemingly normal image to reveal a hidden or photoshopped detail, often accompanied by curious music."
+  ],
+  "central_claim": "The video visually implies a secret and incriminating connection between Donald Trump and Jeffrey Epstein.",
+  "intended_effect": "To create a negative association between Donald Trump and Jeffrey Epstein in the viewer's mind through mockery and insinuation.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is nonsensical and does not match the instrumental audio of the video."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "video_id": "7136190066682055979",
+  "visual_action": "The clip shows President Joe Biden at what appears to be an official White House event or press briefing. He is standing at a podium with multiple microphones, wearing a dark navy suit and a purple-and-gold striped tie. Bookshelves with red, green, and dark blue volumes are visible in the background, along with an American flag. The video follows Biden as he speaks at the podium, then turns and steps away, briefly interacting/standing near another man in a dark suit with a blue tie. The camera tracks Biden from a close-up side/profile view during his remarks to a rear shot as he moves away from the podium. The overlay text \"President Biden😎\" remains persistent throughout all frames.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Face-ID confirmed on screen; on-screen text reads 'President Biden😎'; he is seen speaking at a podium with presidential microphones and an American flag"
+    },
+    {
+      "name": "unnamed aide or official",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man in a dark suit with a blue tie is visible in later frames standing near Biden as he steps away from the podium; face not identified"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden😎",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No transcript was provided. Biden appears to be speaking at the podium but no specific dialogue is captured in the Whisper transcript. The audio is likely original speech audio from the event.",
+  "emojis_present": [
+    "😎"
+  ],
+  "audio_music": "No commercial music matched by fingerprint. Audio appears to be original speech/event audio — Biden speaking at a podium. No distinct meme sound, music track, or comedic audio effect is identifiable from the frames. Likely ambient room audio and Biden's voice throughout.",
+  "editing_pacing": "Slow continuous pan/tracking shot; no fast cuts or dramatic effects; functions as a simple, flattering highlight reel moment.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "admiration — the 😎 sunglasses emoji paired with 'President Biden' signals a cool/confident framing",
+    "pride — the presidential setting and steady, flattering camera angle present Biden positively"
+  ],
+  "cultural_references": [
+    "😎 sunglasses emoji — internet shorthand for 'cool' or 'badass', used here as a framing device to cast Biden as confident and stylish"
+  ],
+  "central_claim": "President Biden is being presented as cool and confident in an official presidential setting.",
+  "intended_effect": "Viewers are meant to feel admiration or pride toward President Biden, reinforced by the 😎 emoji overlay and the formal White House backdrop.",
+  "uncertainty_flags": [
+    "The specific event/date of this White House appearance is not identifiable from the frames alone",
+    "No audio transcript was provided, so the exact content of Biden's remarks is unknown",
+    "The unnamed man in the later frames could not be identified"
+  ]
+}

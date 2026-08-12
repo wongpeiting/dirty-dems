@@ -1,0 +1,61 @@
+{
+  "video_id": "7563821561329782030",
+  "visual_action": "A group of six people in formal wear perform a synchronized dance in a line. The man in the center is Argentinian President Javier Milei. The faces of Donald Trump and Bernie Sanders are digitally superimposed onto two of the other dancers. The setting is an indoor event space with a patterned carpet and a yellow and blue backdrop.",
+  "cast": [
+    {
+      "name": "Argentina",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'argentina after taking our soybean and beef sales...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is digitally superimposed on a dancer, and the on-screen text mentions him: 'receiving $40 billion from trump'."
+    },
+    {
+      "name": "Javier Milei",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure shown dancing, visually representing Argentina in the context of the post."
+    },
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face is digitally superimposed on the dancer at the far left of the line."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "argentina after taking our soybean and beef sales while also receiving $40 billion from trump",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from the Kid Cudi song \"Maui Wowie,\" specifically: \"Going back to Honolulu just to get that, that Maui Waui, that Maui Waui.\"",
+  "emojis_present": [],
+  "audio_music": "The video features the upbeat hip-hop track 'Maui Wowie' by Kid Cudi throughout. Its jaunty and celebratory tone serves to mock the subjects shown.",
+  "editing_pacing": "The video is a single, continuous shot with no cuts or edits to the pacing.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The faces of Donald Trump and Bernie Sanders have been digitally superimposed onto the bodies of two men dancing alongside Argentinian President Javier Milei. The original, unaltered video features Milei dancing with his own entourage.",
+  "emotions_signaled": [
+    "Mockery",
+    "Indignation",
+    "Amusement"
+  ],
+  "cultural_references": [
+    "Maui Wowie by Kid Cudi"
+  ],
+  "central_claim": "Argentina is celebrating after profiting from US agricultural trade and receiving billions from Donald Trump, to the detriment of the United States.",
+  "intended_effect": "To mock Donald Trump and portray his policies as benefiting foreign countries like Argentina at America's expense.",
+  "uncertainty_flags": []
+}

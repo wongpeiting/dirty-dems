@@ -1,0 +1,46 @@
+{
+  "video_id": "7623136713904377101",
+  "visual_action": "A short video clip shows Lindsey Graham walking through a building. This is followed by a still photo of him at what appears to be Disney World, with a sparkly filter effect overlaid. The final shot is another still photo of him at a restaurant table, circled in red, pouring a drink.",
+  "cast": [
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Lindsey Graham is shown in video and still photos, and is named in the on-screen text."
+    },
+    {
+      "name": "Disney",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states that Lindsey Graham is at \"disney world\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "lindsey graham taking a break from defunding health care to hang out at disney world in the middle of a war",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists solely of the song \"Beauty and the Beast (Finale)\" playing, with lyrics such as \"Certain as the sun, rising in the...\"",
+  "emojis_present": [],
+  "audio_music": "A grand, orchestral Disney song, identified as \"Beauty and the Beast (Finale)\", plays throughout the video. The romantic, fairy-tale quality of the music creates an ironic contrast with the critical political message in the on-screen text.",
+  "editing_pacing": "The video consists of a short clip of a person walking, followed by a quick succession of two still photos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "Disney World",
+    "Beauty and the Beast"
+  ],
+  "central_claim": "Lindsey Graham has misplaced priorities, taking a vacation at Disney World while neglecting important issues like healthcare funding and a war.",
+  "intended_effect": "To generate disapproval and mockery of Lindsey Graham by portraying him as out of touch and neglectful of his duties.",
+  "uncertainty_flags": []
+}

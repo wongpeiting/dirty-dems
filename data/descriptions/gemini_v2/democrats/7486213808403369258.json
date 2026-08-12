@@ -1,0 +1,98 @@
+{
+  "video_id": "7486213808403369258",
+  "visual_action": "The video first shows a news clip of a man identified as Michael Waltz speaking. It then cuts to a screenshot of a mobile phone group chat titled 'Houthi PC small group', which shows that 'Michael Waltz added you to the group' and sent a message.",
+  "cast": [
+    {
+      "name": "Michael Waltz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in a news clip and is identified by the on-screen text 'Michael Waltz:'. A screenshot of a group chat also shows 'Michael Waltz added you to the group.'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: 'this Trump-hating journalist'."
+    },
+    {
+      "name": "Houthis",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The group chat in the screenshot is titled 'Houthi PC small group' and a message mentions 'coordination on Houthis'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Michael Waltz:",
+      "role": "overlay"
+    },
+    {
+      "text": "I'm not a conspiracy theorist, but... somehow this Trump-hating journalist got sucked into this group chat.",
+      "role": "overlay"
+    },
+    {
+      "text": "also Michael Waltz:",
+      "role": "overlay"
+    },
+    {
+      "text": "Houthi PC small group",
+      "role": "other"
+    },
+    {
+      "text": "19 members",
+      "role": "other"
+    },
+    {
+      "text": "Yesterday",
+      "role": "other"
+    },
+    {
+      "text": "Michael Waltz added you to the group.",
+      "role": "other"
+    },
+    {
+      "text": "Disappearing message time was set to 1 week.",
+      "role": "other"
+    },
+    {
+      "text": "Michael Waltz",
+      "role": "other"
+    },
+    {
+      "text": "Team- establishing a principles group for coordination on Houthis, particularly",
+      "role": "other"
+    },
+    {
+      "text": "+ MAR added MAR.",
+      "role": "other"
+    },
+    {
+      "text": "GTON, DC",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video is overlaid with a quote attributed to Michael Waltz from the news clip: \"I'm not a conspiracy theorist, but... somehow this Trump-hating journalist got sucked into this group chat.\" The actual audio from the clip is replaced by music.",
+  "emojis_present": [],
+  "audio_music": "The video features the song 'I Love You, I'm Sorry' by Gracie Abrams, a soft and melancholic pop track that plays continuously, creating an ironic contrast with the political content.",
+  "editing_pacing": "The video uses a simple, slow-paced cut from a news clip to a static screenshot.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The screenshot of the group chat is presented as evidence but is likely a fabricated or 'staged fake document' created for satirical effect to mock Michael Waltz by making it appear he created the very group chat he was complaining about.",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "Gracie Abrams"
+  ],
+  "central_claim": "Michael Waltz hypocritically complained about being added to a group chat that the video alleges he actually created himself.",
+  "intended_effect": "To portray Michael Waltz as hypocritical, foolish, and dishonest.",
+  "uncertainty_flags": [
+    "The authenticity of the group chat screenshot cannot be verified from the video; it is presented as genuine but could be a fabrication for satirical purposes."
+  ]
+}

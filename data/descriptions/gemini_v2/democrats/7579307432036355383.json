@@ -1,0 +1,74 @@
+{
+  "video_id": "7579307432036355383",
+  "visual_action": "A screenshot of two tweets is superimposed over footage of Donald Trump speaking at a rally. The first tweet is from 'The White House' and includes a short video of people walking along a border fence. The second tweet is a reply from musician Sabrina Carpenter condemning the first one. Below Trump, a podium sign reads 'TRUMP VANCE MAKE AMERICA GREAT AGAIN 2024'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in the background footage, speaking at a rally."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet from the official '@WhiteHouse' account is shown, forming the basis of the narrative."
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of her reply tweet is shown, where she condemns the White House's video. Her music is also used."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on the 'TRUMP VANCE' podium sign."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The White House @WhiteHouse · 15h\nHave you ever tried this one?\nBye bye 👋",
+      "role": "overlay"
+    },
+    {
+      "text": "Sabrina Carpenter @SabrinaAnnLynn\nthis video is evil and disgusting. Do not ever involve me or my music to benefit your inhumane agenda.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP VANCE\nMAKE AMERICA GREAT AGAIN\n2024",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A female voice says, \"Have you ever tried this one?\" which mirrors the text in the on-screen tweet from The White House.",
+  "emojis_present": [
+    "🖕",
+    "👋"
+  ],
+  "audio_music": "The entire video features the upbeat pop song 'Juno' by Sabrina Carpenter. A female voice speaks a single line over the music near the start. The cheerful music creates a sharp contrast with the artist's on-screen condemnation of its use in a political context.",
+  "editing_pacing": "The video is a static composition, showing screenshots layered over a still or very slowly moving background clip of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "righteous anger"
+  ],
+  "cultural_references": [
+    "Sabrina Carpenter",
+    "The song 'Juno'"
+  ],
+  "central_claim": "The post leverages Sabrina Carpenter's angry condemnation of the White House using her music for a border-related video to imply that Donald Trump's agenda is similarly 'evil, disgusting, and inhumane'.",
+  "intended_effect": "To associate Donald Trump with an 'inhumane' agenda that is being rejected by a popular cultural figure, aiming to turn her fans against him.",
+  "uncertainty_flags": [
+    "The post's messaging is complex, as it originates from the @democrats account but uses a celebrity's criticism of the (presumably Democratic) White House to attack Donald Trump."
+  ]
+}

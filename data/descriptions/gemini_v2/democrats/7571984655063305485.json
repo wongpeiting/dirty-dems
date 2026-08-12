@@ -1,0 +1,65 @@
+{
+  "video_id": "7571984655063305485",
+  "visual_action": "The video shows a static screenshot of a tweet from 'FactPost'. The tweet criticizes the Trump administration and includes a side-by-side photo of Donald Trump and an older man, presumably a coal miner. The video then cuts to a full-screen, still image of Trump sitting in a luxurious, gold-decorated room, followed by a full-screen, still image of the man standing outside a modest rural home.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of Donald Trump is shown, and the on-screen text refers to the 'Trump administration'."
+    },
+    {
+      "name": "Unnamed coal miner",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of an older man, implied to be a coal miner, is shown in the tweet and as a full-screen image. The on-screen text features a quote attributed to coal miners."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a screenshot of a tweet from the account 'FactPost' @factpostnews."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Coal miners speak out after the Trump administration removed black lung protections:",
+      "role": "overlay"
+    },
+    {
+      "text": "“They’re doing everything they can to hurt the working man. They ain’t worried about the miners or people in West Virginia or coal miners anywhere. All they’re worried about is the almighty dollar in DC. They don’t care about the little people that put them there.”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video's audio is the song 'Solidarity Forever' sung by a male vocalist. The lyrics heard are about the power of labor versus the wealthy who 'have taken untold millions that they never toiled to earn'.",
+  "emojis_present": [],
+  "audio_music": "The video features the classic labor union folk anthem 'Solidarity Forever' by Pete Seeger throughout. The song's somber but resolute tone is used to evoke a sense of working-class struggle and injustice.",
+  "editing_pacing": "The video is a slow-paced slideshow consisting of a static screenshot of a tweet followed by two full-screen still photos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Sympathy",
+    "Contempt"
+  ],
+  "cultural_references": [
+    "Solidarity Forever (song)",
+    "Pete Seeger"
+  ],
+  "central_claim": "The Trump administration betrayed working-class people like coal miners by removing their health protections, highlighting a stark contrast between Trump's lavish lifestyle and the struggles of his supporters.",
+  "intended_effect": "To generate anger toward Donald Trump and sympathy for the miners, portraying him as a wealthy elite who is out of touch with and harms the working class.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet and the quote within it is not independently verifiable from the video.",
+    "The identity of the man depicted as a coal miner is not specified."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "video_id": "7432715058553130283",
+  "visual_action": "A single, static shot shows the rapper Cardi B speaking at a podium in front of a large, blurred-out crowd. She is looking down at a phone she is holding. There are text overlays at the top and bottom of the screen.",
+  "cast": [
+    {
+      "name": "Cardi B",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, identified by her face and the on-screen text 'Cardi B'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is the subject of Cardi B's speech and is named in both the on-screen text and the audio."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Cardi B: Kamala Harris changed my mind about voting",
+      "role": "overlay"
+    },
+    {
+      "text": "I believe her when she says she will lower the cost of food and housing. I believe her when she says she is going to pass a ban on price gouging on groceries.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The speaker, identified as Cardi B, states she was not going to vote this year until Kamala Harris joined the race and changed her mind. She expresses complete faith in Harris's promises to address economic issues, stating she believes Harris will lower the cost of food and housing, pass a ban on price gouging on groceries, and provide Americans with '$25,000 in down payment assistance'.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a woman's speech with crowd cheers and applause interspersed throughout. There is no music.",
+  "editing_pacing": "The video is a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Inspiration",
+    "Hope",
+    "Trust"
+  ],
+  "cultural_references": [
+    "Cardi B"
+  ],
+  "central_claim": "Rapper Cardi B endorses Kamala Harris, stating that Harris's promises to tackle economic issues like the cost of housing and groceries convinced her to vote.",
+  "intended_effect": "To leverage Cardi B's celebrity influence to persuade viewers, especially younger ones, to support and vote for Kamala Harris.",
+  "uncertainty_flags": [
+    "The audio of the speech sounds heavily edited and unnatural, with choppy phrasing (e.g., 'Kamala was Harris'), raising questions about whether the speech is presented in its original context or is potentially synthesized."
+  ]
+}

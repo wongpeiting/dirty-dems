@@ -1,0 +1,50 @@
+{
+  "video_id": "7631329469952789774",
+  "visual_action": "In a grand hall in what appears to be the White House, Donald Trump enters, playfully mimes a golf swing behind a pillar, and then walks across a checkerboard-patterned floor to greet a group of men standing on a staircase. The men are dressed in matching team apparel. A military band is partially visible playing instruments. A large painting of Trump celebrating with an American flag is visible on the wall.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown walking, making a golf swing, and greeting the team. He is also identified in the on-screen text: 'President Trump'."
+    },
+    {
+      "name": "Oklahoma State Men's Golf Team",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen text explicitly identifies them: 'President Trump greets the Oklahoma State Men's Golf Team'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump greets the Oklahoma State Men's Golf Team with a golf swing 🇺🇸😅",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set entirely to instrumental music. The provided transcript 'We'll be right back' does not appear to match the audio.",
+  "emojis_present": [
+    "🇺🇸",
+    "😅"
+  ],
+  "audio_music": "An upbeat, electronic instrumental track with a driving beat plays throughout the video. The music serves to create a hype-filled, energetic atmosphere. According to music identification, the track changes around the 8.5-second mark, but maintains a similar style and tempo.",
+  "editing_pacing": "The video consists of a single, continuous shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Admiration",
+    "Amusement"
+  ],
+  "cultural_references": [
+    "Oklahoma State Men's Golf Team"
+  ],
+  "central_claim": "President Trump is a charismatic leader who personally welcomes and celebrates champion American athletes at the White House.",
+  "intended_effect": "To portray Donald Trump as a powerful, relatable, and fun president who supports American success and sports.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('We'll be right back.') does not correspond to the audio in the video, which is instrumental music."
+  ]
+}

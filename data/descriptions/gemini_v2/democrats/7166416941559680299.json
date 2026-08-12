@@ -1,0 +1,63 @@
+{
+  "video_id": "7166416941559680299",
+  "visual_action": "A split-screen video. On the left, under the word 'TALKING', is a montage of clips of Donald Trump speaking at various events. On the right, under the word 'DELIVERING', is a single, continuous clip of Joe Biden sitting at a desk outdoors, signing a document. He is surrounded by a group of people, including Kamala Harris, who are watching and clapping.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown on the left side of the split screen in multiple clips, speaking about infrastructure. The audio is composed entirely of his voice."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown on the right side of the split screen, signing a document, positioned as the one who is 'delivering'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible standing behind Joe Biden as he signs the document."
+    },
+    {
+      "name": "Thomas R Carper",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd of people behind Joe Biden."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TALKING",
+      "role": "overlay"
+    },
+    {
+      "text": "DELIVERING",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a montage of clips of Donald Trump speaking about infrastructure. He says things like, \"We'll talk about infrastructure,\" \"pass a one trillion dollar infrastructure plan,\" \"who's better at infrastructure than Trump,\" and \"I want to rebuild our infrastructure.\" The audio then devolves into a rapid-fire, layered repetition of just the word \"infrastructure\" over and over.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of edited speech clips of Donald Trump. There is no music. The editing creates a repetitive and increasingly fast-paced soundscape focused on the word 'infrastructure' to create a sense of empty rhetoric.",
+  "editing_pacing": "The video uses a split-screen format. The left side features a fast-paced montage with quick cuts between different clips of Donald Trump. The right side is a single, static shot of Joe Biden signing a document.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Pride",
+    "Contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump only talked about passing an infrastructure bill, while Joe Biden successfully delivered one.",
+  "intended_effect": "To portray Joe Biden as an effective president who follows through on promises, in contrast to Donald Trump, who is depicted as all talk and no action.",
+  "uncertainty_flags": []
+}

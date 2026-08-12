@@ -1,0 +1,77 @@
+{
+  "video_id": "7657206084108651790",
+  "visual_action": "A screenshot of a tweet from an account named 'FactPost' is displayed over an animated background of a waving American flag with sparkles. An animated bald eagle flies across the screen. The tweet text announces a Supreme Court decision on birthright citizenship and includes two images: a legal document from the Supreme Court and a photo of a person at a protest holding a sign that reads 'PROTECT BIRTHRIGHT CITIZENSHIP'.",
+  "cast": [
+    {
+      "name": "Supreme Court of the United States",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text states, 'The Supreme Court has upheld birthright citizenship...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text mentions '...blocking a Trump executive order...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet screenshot shows the account name 'FactPost' and handle '@factpostnews'."
+    },
+    {
+      "name": "unnamed protestor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A person is shown in a photo within the tweet, holding a sign."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Supreme Court has upheld birthright citizenship in an 6-3 decision, blocking a Trump executive order the administration had hoped would accelerate mass deportations.",
+      "role": "overlay"
+    },
+    {
+      "text": "PROTECT BIRTHRIGHT CITIZENSHIP",
+      "role": "other"
+    },
+    {
+      "text": "SUPREME COURT OF THE UNITED STATES",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "A loud, bass-boosted, electronic version of the 'Star Spangled Banner' plays throughout the video, creating a celebratory and patriotic tone.",
+  "editing_pacing": "The video is static, showing a single image (a tweet screenshot) over an animated background.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents its claim via a fabricated tweet from a seemingly fictional news source, 'FactPost', to give the impression of a neutral, third-party news report about a supposed Supreme Court decision.",
+  "emotions_signaled": [
+    "Patriotism",
+    "Triumph",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Supreme Court has protected birthright citizenship by blocking a Trump executive order that was intended to enable mass deportations.",
+  "intended_effect": "To signal a major political and legal victory, evoke feelings of patriotic pride and triumph, and frame the Democratic position as constitutionally correct.",
+  "uncertainty_flags": [
+    "The 'FactPost' news account appears to be a fabrication created for the video, but its authenticity cannot be definitively verified without external research."
+  ]
+}

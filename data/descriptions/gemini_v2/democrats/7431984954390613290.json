@@ -1,0 +1,70 @@
+{
+  "video_id": "7431984954390613290",
+  "visual_action": "The video is a slideshow of still images. First, two photos of Donald Trump are shown with quotes overlaid as text. The top image is a close-up of Trump speaking, and the bottom shows him gesturing at a rally. The video then cuts to a screenshot of a news article with the headline \"Trump tells women he ‘will be your protector’ as GOP struggles with outreach to female voters,\" which is displayed over a photo of Trump speaking at a microphone.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in all photos, his name appears in the on-screen text of the news headline, and his past quotes are displayed on screen."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news headline on screen reads, \"...as GOP struggles with outreach to female voters.\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "And when you're a star they let you do it.",
+      "role": "overlay"
+    },
+    {
+      "text": "You can do anything.",
+      "role": "overlay"
+    },
+    {
+      "text": "Grab them by the p*ssy",
+      "role": "overlay"
+    },
+    {
+      "text": "POLITICS",
+      "role": "other"
+    },
+    {
+      "text": "Trump tells women he ‘will be your protector’ as GOP struggles with outreach to female voters",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only a background music track.",
+  "emojis_present": [],
+  "audio_music": "A slow, emotional pop song (identified as 'I Love You, I'm Sorry' by Gracie Abrams) plays throughout the video. The somber and reflective tone of the music creates an ironic and critical mood when juxtaposed with the on-screen text.",
+  "editing_pacing": "The video is a slow-paced slideshow, consisting of two static screens that transition once.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "irony",
+    "disgust",
+    "outrage",
+    "skepticism"
+  ],
+  "cultural_references": [
+    "Gracie Abrams"
+  ],
+  "central_claim": "Donald Trump's promise to be a 'protector' of women is hypocritical and untrustworthy, given his past recorded comments about sexually assaulting women.",
+  "intended_effect": "To make viewers, particularly female voters, distrust Donald Trump and view his promises as insincere and offensive.",
+  "uncertainty_flags": []
+}

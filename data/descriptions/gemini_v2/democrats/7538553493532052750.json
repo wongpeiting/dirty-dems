@@ -1,0 +1,81 @@
+{
+  "video_id": "7538553493532052750",
+  "visual_action": "The video shows a static screenshot of a tweet from an account called 'FactPost'. The tweet contains text, a photograph of Donald Trump sitting at a desk signing a document while several men stand behind him, and a bar chart. The video then slowly zooms in on the bar chart.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in the tweet text: \"New analysis finds Trump and Republicans' budget bill...\". Also pictured in a photograph included in the tweet."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the tweet text: \"New analysis finds Trump and Republicans' budget bill...\"."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet is from the account 'FactPost' with the handle '@factpostnews'."
+    },
+    {
+      "name": "Congressional Budget Office",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The bar chart is labeled with 'Source: CBO'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New analysis finds Trump and Republicans' budget bill will make the bottom 20% of Americans poorer while the top 10% will get meaningfully richer.",
+      "role": "overlay"
+    },
+    {
+      "text": "This is the largest transfer of wealth from the poor to the rich from a single law in history.",
+      "role": "overlay"
+    },
+    {
+      "text": "Under the \"Big Beautiful Bill,\" the poor get poorer while the rich get richer",
+      "role": "overlay"
+    },
+    {
+      "text": "Change due to the \"Big Beautiful Bill\" in average annual household resources as a percent of income after taxes and transfers, 2026-2034 average",
+      "role": "overlay"
+    },
+    {
+      "text": "Source: CBO",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it only features instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, low-pitched, ominous electronic drone plays throughout the video, creating a sense of dread and seriousness.",
+  "editing_pacing": "The video consists of a single, slow zoom-in on a static image of a tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "injustice",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "A budget bill by Donald Trump and the Republican Party will cause the largest transfer of wealth from the poor to the rich in history.",
+  "intended_effect": "To generate anger and alarm towards Trump and Republican economic policies, framing them as harmful to the poor and beneficial only to the wealthy.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet is not verifiable; it could be a fabricated screenshot."
+  ]
+}

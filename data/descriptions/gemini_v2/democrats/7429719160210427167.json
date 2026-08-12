@@ -1,0 +1,134 @@
+{
+  "video_id": "7429719160210427167",
+  "visual_action": "A split-screen news clip from Fox News's 'Hannity'. Initially, sports commentator Stephen A. Smith is shown on the left, while B-roll footage of Vice President Kamala Harris at various events (with a CNN logo visible) is shown on the right. The format then changes to a side-by-side debate between Sean Hannity and Stephen A. Smith.",
+  "cast": [
+    {
+      "name": "Stephen A. Smith",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text \"Stephen A. Smith RIPS into Trump on Fox News\" and is shown speaking throughout the clip."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the central subject of the debate. Stephen A. Smith says, \"...and you're bragging about Donald Trump.\" Sean Hannity defends his mental acuity."
+    },
+    {
+      "name": "Sean Hannity",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He appears on screen debating Stephen A. Smith, and the chyron for his show, 'Hannity', is visible."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown in B-roll footage at the beginning of the clip, and a chyron reads \"STEPHEN A SMITH ON THE STATE OF KAMALA'S CAMPAIGN\"."
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Sean Hannity states, \"Now Senator Lindsey Graham is about to come on this show.\""
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on the broadcast's chyron."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible on the B-roll footage of Kamala Harris."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Stephen A. Smith RIPS into Trump on Fox News 😭💀",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "STEPHEN A SMITH ON THE STATE OF KAMALA'S CAMPAIGN",
+      "role": "chyron"
+    },
+    {
+      "text": "HANNITY",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "SENATOR LINDSEY GRAHAM COMING UP",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "overlay"
+    },
+    {
+      "text": "WEDNESDAY",
+      "role": "overlay"
+    },
+    {
+      "text": "KNOW",
+      "role": "overlay"
+    },
+    {
+      "text": "SOMEBODY",
+      "role": "overlay"
+    },
+    {
+      "text": "LUCID",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "DIALED",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "In a heated debate on Sean Hannity's Fox News show, commentator Stephen A. Smith forcefully rejects the idea that Donald Trump is mentally fit. Smith expresses disbelief, saying \"I know you're not talking about somebody being lucid and cogent... and you're bragging about Donald Trump. We can't be watching the same stuff.\" Hannity defends Trump, stating he has spent hours with him and found him to be \"so dialed in.\"",
+  "emojis_present": [
+    "😭",
+    "💀"
+  ],
+  "audio_music": "The audio consists entirely of the spoken dialogue from the news segment, featuring a heated verbal exchange. No music is present.",
+  "editing_pacing": "The video is a clip from a news show, primarily featuring a static split-screen of the two speakers. Quick cuts show B-roll footage at the beginning. Large, bold, yellow text overlays pop onto the screen to emphasize words as they are spoken, a common style for social media clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "conflict",
+    "mockery",
+    "disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "Stephen A. Smith strongly refutes any claims of Donald Trump's mental sharpness and lucidity during an appearance on Fox News.",
+  "intended_effect": "To showcase a prominent media personality forcefully challenging a pro-Trump narrative on a conservative network, thereby validating criticism of Trump's cognitive abilities.",
+  "uncertainty_flags": []
+}

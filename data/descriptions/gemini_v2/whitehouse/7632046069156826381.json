@@ -1,0 +1,79 @@
+{
+  "video_id": "7632046069156826381",
+  "visual_action": "In what appears to be the Oval Office, Donald Trump is seated at the Resolute Desk. Standing behind him is a group of several men and one woman who is holding a toddler. The woman speaks emotionally, and Trump listens before responding to her and the group. The setting is formal, with portraits on the walls and flags behind the group.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown prominently at his desk, identified by face, and speaks for a significant portion of the video."
+    },
+    {
+      "name": "Sierra",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The caption identifies her by name ('Sierra’s 2-year-old son...') and she speaks about her son's medical journey."
+    },
+    {
+      "name": "Sierra's son",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption and his mother's speech are entirely about him and his recovery from deafness. He is shown being held by his mother."
+    },
+    {
+      "name": "Regeneron",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The company is praised by name by the mother for developing the drug, and is also named in the on-screen text."
+    },
+    {
+      "name": "FDA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states that the FDA approved the new drug."
+    },
+    {
+      "name": "fake news",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donald Trump mentions the term 'fake news' when joking about how the media will cover the story."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump announces the FDA has approved a new drug from Regeneron called Otarmeni — a gene therapy curing a rare disease causing deafness.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman named Sierra tearfully recounts how her son was deaf but can now hear thanks to a new drug and surgery from Regeneron. She says he now loves music and dancing. Donald Trump calls the story incredible and then jokes that even the 'fake news' has to be impressed, though they will find a way to make it a 'bad story.' He thanks the woman and compliments her 'beautiful boy.'",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists solely of dialogue within the room. There is no music or added sound effects.",
+  "editing_pacing": "The video is a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Hope",
+    "Gratitude",
+    "Pride",
+    "Heartwarming",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Under President Trump's leadership, the FDA has approved a life-changing Regeneron gene therapy that cured a toddler's deafness.",
+  "intended_effect": "To create a positive and heartwarming association with the Trump administration by highlighting a major medical breakthrough and to simultaneously mock the news media.",
+  "uncertainty_flags": []
+}

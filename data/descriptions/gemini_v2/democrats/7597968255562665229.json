@@ -1,0 +1,58 @@
+{
+  "video_id": "7597968255562665229",
+  "visual_action": "A static image of a digital greeting card with a pink border against a blue sky with clouds. A cut-out photo of Donald Trump wearing a red 'MAKE AMERICA GREAT AGAIN' hat is on the right side. Text appears sequentially on the card, as if being typed.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is shown in a photo, and a fabricated letter is attributed to him and signed 'Thanks, Trump'. A voice impersonates him reading the letter."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: 'people are still asking for the Epstein files.'"
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by its acronym 'ICE' in the on-screen text: 'releasing ICE on US citizens'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Dear Greenland,\n\nEven after bombing other countries, releasing ICE on US citizens, AND raising prices, people are still asking for the Epstein files. This is not good for me. So I will be taking Greenland.",
+      "role": "meme_text"
+    },
+    {
+      "text": "Thanks, Trump",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "A voice impersonating Donald Trump reads the text of a fabricated letter addressed to Greenland. The letter complains that despite 'bombing other countries, releasing ice on U.S. citizens and raising prices,' people are still asking for the 'Epstein files.' Concluding 'This is not good for me,' the letter announces, 'So I will be taking Greenland. Thanks, Trump.'",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "A voiceover impersonating Donald Trump speaks over a light, gentle, slightly childlike instrumental tune that plays consistently throughout the video.",
+  "editing_pacing": "Static image. The text appears on screen sequentially, as if being typed out.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a completely fabricated letter as if written by Donald Trump. His photo is cut out and superimposed onto a digital greeting card. The audio is a voice impersonation (or AI-generated voice) of Trump reading the satirical text.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video satirizes Donald Trump by portraying him as wanting to nonsensically 'take' Greenland as a childish distraction from various political problems and scandals.",
+  "intended_effect": "To ridicule Donald Trump and portray his political motivations as absurd and self-serving.",
+  "uncertainty_flags": [
+    "It is unclear if the voiceover is a human impersonator or an AI-generated deepfake voice."
+  ]
+}

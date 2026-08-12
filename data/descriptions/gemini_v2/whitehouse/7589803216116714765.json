@@ -1,0 +1,72 @@
+{
+  "video_id": "7589803216116714765",
+  "visual_action": "The video opens with a scene from the movie Gladiator, where a general on horseback rallies his troops in a dark, misty forest. An on-screen caption re-frames this as \"President Trump preparing his team for 2026\". The video then cuts to a montage of clips featuring Donald Trump: looking serious in front of American flags, walking next to a fighter jet, walking with military personnel, wearing a red \"MAKE AMERICA GREAT AGAIN\" hat with \"45-47\" on the side, walking with Melania Trump, and wearing a white hat with \"USA\" and \"45-47\". The montage ends with black-and-white shots of the White House and a helicopter, with the text \"THE WHITE HOUSE\" overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Identified by face recognition and on-screen text \"President Trump\". He is the subject of the entire montage."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, appearing briefly in a clip walking alongside Donald Trump."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a title card reading \"THE WHITE HOUSE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump preparing his team for 2026",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "45-47",
+      "role": "other"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a monologue from the film Gladiator. A character says, \"Hold the line. Stay with me. Brothers, what we do in life echoes in eternity... At my signal, unleash hell.\"",
+  "emojis_present": [
+    "😤"
+  ],
+  "audio_music": "The video starts with dramatic dialogue from a film, layered with an orchestral score. At around the 9-second mark, when the montage of Donald Trump begins, the audio switches to a high-energy, fast-paced electronic dance music track. This creates a powerful, epic, and hype-filled mood.",
+  "editing_pacing": "The video uses a movie clip followed by a fast-cut montage. The montage clips are very short and presented with a dark, stylized color grade and a vignette effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "strength",
+    "anticipation",
+    "power",
+    "seriousness"
+  ],
+  "cultural_references": [
+    "The video uses the opening battle preparation scene and dialogue from the movie 'Gladiator' (2000), featuring the character Maximus Decimus Meridius played by Russell Crowe."
+  ],
+  "central_claim": "Donald Trump is a powerful, general-like leader preparing his team for a major political battle or initiative in 2026.",
+  "intended_effect": "To portray Donald Trump as a strong, decisive leader and build anticipation and support for his future political plans.",
+  "uncertainty_flags": []
+}

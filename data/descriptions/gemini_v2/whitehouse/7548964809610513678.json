@@ -1,0 +1,110 @@
+{
+  "video_id": "7548964809610513678",
+  "visual_action": "The video is a commemorative montage about the September 11th attacks. It opens with somber, cinematic shots of the 9/11 Memorial in New York City, including the reflecting pools and engraved names of victims. It then transitions to a montage of archival news clips and amateur footage from 9/11, showing the Twin Towers on fire, smoke billowing over the city, people fleeing in the streets, and the response from firefighters and police. This is followed by scenes of national unity, such as people lining up to donate blood, holding signs of support for first responders, and raising American flags. The video includes pre-9/11 footage of the Twin Towers and the Statue of Liberty. It concludes with modern-day footage of the Tribute in Light, police officers paying respect, and large American flags, ending on a black-and-white image of the White House.",
+  "cast": [
+    {
+      "name": "Billy Graham",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A text overlay at the beginning reads \"VOICEOVER BY BILLY GRAHAM\" and his speech provides the narration for the entire video."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the official @whitehouse account and concludes with a title card featuring an image of the building and the text \"THE WHITE HOUSE\"."
+    },
+    {
+      "name": "American people",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about the American people's experience of 9/11 and their subsequent unity, with the voiceover referring to \"we all,\" \"our country,\" and \"our nation.\""
+    },
+    {
+      "name": "God",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The narrator's speech concludes with a prayer: \"that we will feel the loving arms of God wrapped around us... May God bless you all.\""
+    },
+    {
+      "name": "unnamed news reporters",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The voices of news reporters are heard in archival clips announcing the attacks on the World Trade Center."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VOICEOVER BY BILLY GRAHAM",
+      "role": "overlay"
+    },
+    {
+      "text": "WORLD TRADE CENTER NEW YORK CITY",
+      "role": "chyron"
+    },
+    {
+      "text": "SEPTEMBER 11, 2001 8:53 am",
+      "role": "chyron"
+    },
+    {
+      "text": "YOU'RE WATCHING NBC'S \"TODAY\"",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT PLANE CRASHES INTO WORLD TRADE CENTER",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "Reports that the White House is being evacuated after explosions in New York",
+      "role": "chyron"
+    },
+    {
+      "text": "Thank You!",
+      "role": "other"
+    },
+    {
+      "text": "GOD BLESS AMERICA",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A speech by Billy Graham is played over the video, layered with archival news reports of the 9/11 attacks. Graham speaks of the horror and shock of the event, stating that \"September 11 will go down in our history as a day to remember.\" He praises the courageous firefighters and police and the unity of the American people, noting that the tragedy, instead of tearing the country apart, \"has united us and we've become a family.\" He frames the aftermath as a choice for the nation to either \"implode\" or \"become stronger through all of this struggle to rebuild.\" The speech concludes with a prayer for the nation to feel God's comfort and to trust in Him, reaffirming that it is a day to remember.",
+  "emojis_present": [],
+  "audio_music": "The video features a continuous, somber, and poignant orchestral score. It begins with a reflective tone, then swells with dramatic and emotional intensity during the montage of the attacks and their aftermath, before shifting to a more hopeful and uplifting feel during scenes of national unity and remembrance. The music serves to create a solemn, patriotic, and ultimately resilient mood.",
+  "editing_pacing": "The video is a montage with a mix of pacing. It uses slow, cinematic shots for the modern-day memorial footage at the beginning and end. The core of the video consists of archival footage edited with moderately paced cuts, dissolves, and fades to create a flowing narrative of the event and its aftermath. The footage has a grainy, film-like filter applied for stylistic consistency.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Sorrow",
+    "Remembrance",
+    "Patriotism",
+    "Unity",
+    "Resilience",
+    "Hope"
+  ],
+  "cultural_references": [],
+  "central_claim": "The September 11th attacks, though a horrific tragedy, ultimately united the American people and demonstrated the nation's resilience and strength to rebuild.",
+  "intended_effect": "To evoke solemn remembrance for the victims of 9/11 while fostering a sense of national pride, unity, and hope in the country's ability to overcome tragedy.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,47 @@
+{
+  "video_id": "7459899415134735662",
+  "visual_action": "A medium shot of Pete Hegseth, a man in a grey button-down shirt, sitting in a leather chair and speaking. He gestures with his hand. The setting appears to be a study or office with shelves of books and bottles in the background. Text is overlaid on the video.",
+  "cast": [
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown on screen speaking for the entire duration of the video and is identified by the authoritative face-ID."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies Pete Hegseth as \"Trump's Defense Secretary nominee\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Wow. Listen to what Trump's Defense Secretary nominee said about women:",
+      "role": "overlay"
+    },
+    {
+      "text": "I'M STRAIGHT UP JUST SAYING WE SHOULD NOT HAVE WOMEN IN COMBAT ROLES. IT HASN'T MADE US MORE EFFECTIVE, HASN'T MADE US MORE LETHAL, HAS MADE FIGHTING MORE COMPLICATED.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Pete Hegseth states directly, \"we should not have women in combat roles.\" He argues that doing so has not made the military more effective or lethal, but has made fighting \"more complicated.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of a man's speech. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static shot of a person speaking (a talking-head clip) with text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "outrage",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's nominee for Defense Secretary, Pete Hegseth, believes women should be barred from combat roles in the military.",
+  "intended_effect": "To generate shock and disapproval of Pete Hegseth's views and, by extension, of Donald Trump for nominating him.",
+  "uncertainty_flags": []
+}

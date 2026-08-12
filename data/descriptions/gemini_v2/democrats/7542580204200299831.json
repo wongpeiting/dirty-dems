@@ -1,0 +1,69 @@
+{
+  "video_id": "7542580204200299831",
+  "visual_action": "The video shows Donald Trump sitting at a desk in an office setting, speaking. An overlay caption instructs the viewer to watch his hand. The video then zooms in on Trump's left hand, which appears to twitch or tremor, and replays this moment. A news-style chyron from RSBN is visible at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and the entire video focuses on his hand movement."
+    },
+    {
+      "name": "RSBN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for RSBN (Right Side Broadcasting Network) is visible on the chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "pay close attention to his hand 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE WASHINGTON, D.C.",
+      "role": "chyron"
+    },
+    {
+      "text": "RSBN",
+      "role": "chyron"
+    },
+    {
+      "text": "10:55 AM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "POSSIBLE NATIONAL GUARD DEPLOYMENT TO CHICAGO",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SLAMS BLUE STATE GOVERNOR",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"...come to think of it, there's your trophy for the World Cup.\" This is immediately followed by a dubbed-over audio clip of a woman's voice exclaiming in a shocked tone, \"Oh my god, what is that?\" and \"What is that?\" This reaction audio is repeated as the video replays the footage of Trump's hand.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio begins with Donald Trump's natural speaking voice. It is then abruptly replaced by a popular, pre-existing audio clip of a woman exclaiming in shock. This added soundbite is used to create a dramatic and mocking effect, directing the viewer's reaction to the visual of Trump's hand.",
+  "editing_pacing": "The video uses a zoom and a slow-motion replay to isolate and emphasize a brief, subtle movement of Donald Trump's hand.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Concern",
+    "Suspicion"
+  ],
+  "cultural_references": [
+    "The audio clip of a woman saying \"OMG What Is That\" is a popular TikTok sound used as a reaction meme."
+  ],
+  "central_claim": "The video implies that Donald Trump has a concerning and strange physical tic or health problem, evidenced by his hand's involuntary movement.",
+  "intended_effect": "To raise doubts about Donald Trump's physical health and fitness for office, and to encourage mockery of his physical state.",
+  "uncertainty_flags": [
+    "The fingerprinted music provided in the context was not audible in the video; the audio consists only of dialogue and a viral soundbite."
+  ]
+}

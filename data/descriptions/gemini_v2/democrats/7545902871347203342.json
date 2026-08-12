@@ -1,0 +1,121 @@
+{
+  "video_id": "7545902871347203342",
+  "visual_action": "Representative Ro Khanna speaks at a podium during an outdoor press conference. He is flanked by several other people, including Marjorie Taylor Greene. A crowd with signs is visible behind the press conference participants. The footage is from a C-SPAN broadcast.",
+  "cast": [
+    {
+      "name": "Ro Khanna",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker at the press conference, identified by face-ID, on-screen text, and the chyron."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The press conference is explicitly about the 'Epstein files,' as stated in the on-screen text and chyron."
+    },
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Visibly present on screen standing behind Ro Khanna (confirmed by face-ID) and is also named by Khanna in his speech."
+    },
+    {
+      "name": "Thomas Massie",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named by Ro Khanna in his speech and mentioned in the C-SPAN chyron as co-hosting the news conference."
+    },
+    {
+      "name": "Nancy Mace",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named by Ro Khanna as a supporter of the effort to release the files."
+    },
+    {
+      "name": "Lauren Boebert",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named by Ro Khanna in his speech as 'Congresswoman Balbert', which is likely a reference to Lauren Boebert."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Ro Khanna states, 'We know we have 212 Democrats'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Ro Khanna states, 'we have four Republicans, courageous Republicans'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep. Khanna on the release of the Epstein files:",
+      "role": "overlay"
+    },
+    {
+      "text": "REPS. KHANNA & MASSIE HOLD A NEWS CONFERENCE ON EPSTEIN FILES",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "THERE IS SOMETHING THAT IS ROTTEN IN WASHINGTON.",
+      "role": "caption"
+    },
+    {
+      "text": "LESS THAN 1% OF THESE FILES HAVE BEEN RELEASED.",
+      "role": "caption"
+    },
+    {
+      "text": "WE ARE DEMANDING TODAY ON THE DISCHARGE PETITION THAT ALL OF THE FILES BE RELEASED.",
+      "role": "caption"
+    },
+    {
+      "text": "WE KNOW WE HAVE 212 DEMOCRATS AND WE HAVE FOUR REPUBLICANS, COURAGEOUS REPUBLICANS LIKE THOMAS MASSIE, NANCY MACE, WHO WAS SO EMOTIONAL YESTERDAY AFTER TALKING TO THE SURVIVORS, CONGRESSWOMAN BOEBERT AND CONGRESSWOMAN MARJORIE TAYLOR GREENE.",
+      "role": "caption"
+    },
+    {
+      "text": "WE NEED JUST TWO MORE SIGNATURES TO FORCE THE RELEASE.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Rep. Ro Khanna speaks at a press conference, stating that 'there is something that is rotten in Washington' because less than 1% of the files related to Jeffrey Epstein have been released. He announces that they are using a discharge petition to demand the release of all the files. Khanna states they have the support of 212 Democrats and four Republicans—Thomas Massie, Nancy Mace, Lauren Boebert, and Marjorie Taylor Greene—and need just two more signatures to succeed.",
+  "emojis_present": [],
+  "audio_music": "Clear audio of a person speaking at an outdoor press conference, with ambient background noise of a crowd. There is no music.",
+  "editing_pacing": "A single, static shot from a press conference. Large, white caption text appears on screen, synchronized with the speaker's words.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Outrage",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "A bipartisan group in Congress is only two signatures away from forcing the full release of the Jeffrey Epstein files, which are being unjustly withheld.",
+  "intended_effect": "To generate public pressure on members of Congress to sign the discharge petition and to foster a sense of outrage over the lack of transparency.",
+  "uncertainty_flags": [
+    "The speaker says 'Congresswoman Balbert', which is almost certainly a mispronunciation or transcription error for 'Lauren Boebert'."
+  ]
+}

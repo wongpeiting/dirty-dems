@@ -1,0 +1,64 @@
+{
+  "video_id": "7092134689808354602",
+  "visual_action": "A congresswoman speaks at a podium in a legislative chamber, followed by a cut to a shot of Kevin McCarthy sitting in what appears to be an interview setting.",
+  "cast": [
+    {
+      "name": "unnamed Democratic congresswoman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "An unnamed woman is shown speaking at a podium to represent the Democratic party's action."
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is shown while on-screen text criticizes the Republican vote on insulin prices."
+    },
+    {
+      "name": "House Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads, 'House Democrats pass bill to cap insulin costs at $35 a month'."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads, '193 House Republicans vote to keep insulin prices high'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "House Democrats pass bill to cap insulin costs at $35 a month",
+      "role": "chyron"
+    },
+    {
+      "text": "193 House Republicans vote to keep insulin prices high",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of cheering sounds followed by a musical sting.",
+  "emojis_present": [],
+  "audio_music": "The video opens with the sound of a crowd cheering enthusiastically. When the scene cuts to Kevin McCarthy, a short, dramatic musical sting with a slightly ominous tone plays.",
+  "editing_pacing": "A single, quick cut juxtaposes the two scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "celebration",
+    "disapproval",
+    "condemnation"
+  ],
+  "cultural_references": [],
+  "central_claim": "House Democrats passed a bill to lower insulin costs, while House Republicans voted against it.",
+  "intended_effect": "To generate approval for Democrats and disapproval for Republicans on the issue of healthcare costs.",
+  "uncertainty_flags": []
+}

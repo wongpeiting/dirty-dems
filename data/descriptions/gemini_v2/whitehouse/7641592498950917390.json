@@ -1,0 +1,72 @@
+{
+  "video_id": "7641592498950917390",
+  "visual_action": "A montage shows law enforcement officers in action at night. In one scene, a man in a yellow hoodie is apprehended. In other scenes, heavily armed officers in camouflage and tactical gear raid a building and escort a different man out of what appears to be a tattoo parlor named 'Underworld'. A close-up shot shows the back of a vest with the text 'POLICE' and 'U.S. BORDER PATROL'.",
+  "cast": [
+    {
+      "name": "criminal illegal aliens",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'BAD NEWS FOR CRIMINAL ILLEGAL ALIENS'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states 'NICE IS DEPORTING TODAY', which is interpreted as a typo for 'ICE IS DEPORTING TODAY' based on the context of immigration enforcement."
+    },
+    {
+      "name": "U.S. Border Patrol",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The words 'U.S. BORDER PATROL' are visible on the back of an officer's uniform."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "BAD NEWS FOR CRIMINAL ILLEGAL ALIENS, NICE IS DEPORTING TODAY.",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    },
+    {
+      "text": "U.S. BORDER PATROL",
+      "role": "other"
+    },
+    {
+      "text": "TATTOO",
+      "role": "other"
+    },
+    {
+      "text": "UNDERWORLD",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio contains a single, brief vocalization that sounds like a soft 'Oh' or an exhale.",
+  "emojis_present": [
+    "👋"
+  ],
+  "audio_music": "An intense, rhythmic, and bass-heavy electronic track plays throughout, creating a tone of action, force, and urgency, similar to an action movie score.",
+  "editing_pacing": "The video is a montage with fast cuts between different scenes of law enforcement action.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "intimidation",
+    "satisfaction",
+    "pride",
+    "sense of security"
+  ],
+  "cultural_references": [],
+  "central_claim": "The administration is actively and forcefully apprehending and deporting undocumented immigrants deemed to be criminals.",
+  "intended_effect": "To project an image of strength and control regarding immigration enforcement and to reassure supporters that the administration is taking a hardline stance.",
+  "uncertainty_flags": [
+    "The on-screen text 'NICE' is interpreted as a typo for 'ICE' based on context and OCR data."
+  ]
+}

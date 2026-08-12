@@ -1,0 +1,62 @@
+{
+  "video_id": "7285861592821026078",
+  "visual_action": "A slideshow of still images. First, a photo of Kevin McCarthy smiling and pointing up at a plaque that reads 'SPEAKER OF THE HOUSE KEVIN MCCARTHY'. Second, a more somber photo of McCarthy looking downcast. Third, a screenshot of a tweet from the account 'Pop Base' announcing that McCarthy has been removed as US House Speaker.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is depicted in two photographs, and named on a plaque ('SPEAKER OF THE HOUSE KEVIN MCCARTHY') and in a tweet shown on screen ('Kevin McCarthy has been removed as US House Speaker')."
+    },
+    {
+      "name": "Pop Base",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the Twitter/X account '@PopBase' is displayed."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "SPEAKER OF THE HOUSE\nKEVIN MCCARTHY",
+      "role": "other"
+    },
+    {
+      "text": "the day",
+      "role": "overlay"
+    },
+    {
+      "text": "the music",
+      "role": "overlay"
+    },
+    {
+      "text": "died.",
+      "role": "overlay"
+    },
+    {
+      "text": "Pop Base @PopBase\n\nKevin McCarthy has been removed as US House Speaker, making him the shortest-serving since 1876.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The lyrics sung are from the song 'American Pie': \"the day the music died\".",
+  "emojis_present": [],
+  "audio_music": "The video is set to the slow, melancholic section of the song 'American Pie' by Don McLean, creating a somber and mock-tragic atmosphere that aligns with the on-screen text about 'the day the music died'.",
+  "editing_pacing": "A slow-paced slideshow of three still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude",
+    "somberness"
+  ],
+  "cultural_references": [
+    "The song 'American Pie' by Don McLean, with its famous line 'the day the music died', is used to frame McCarthy's removal as a tragic-seeming but historic event.",
+    "Pop Base, a pop culture news account, is shown as the source of the news, framing a political event through a pop culture lens."
+  ],
+  "central_claim": "Kevin McCarthy's historically short and unsuccessful tenure as Speaker of the House has come to an end.",
+  "intended_effect": "To mock Kevin McCarthy for his removal as Speaker of the House and frame it as a historic failure.",
+  "uncertainty_flags": []
+}

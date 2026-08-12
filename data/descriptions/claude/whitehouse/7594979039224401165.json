@@ -1,0 +1,60 @@
+{
+  "video_id": "7594979039224401165",
+  "visual_action": "The video has two key scenes. Scene 1: Against a black background, white text reads \"Say the word on the beat challenge IMPOSSIBLE.\" Below that is a game-show-style grid of 8 tiles (4 per row) showing alternating images of Donald Trump raising his fist in front of American flags and 🔥 fire emoji tiles. A counter reads \"3/5\" at the top of the grid. Decorative stickers appear around the grid: a megaphone, red lightning bolts, a red exclamation mark, and a lightbulb. Scene 2: A dark, near-black frame shows a helicopter (appearing to be Marine One) taking off or landing at what appears to be the White House South Lawn at dusk/night. Overlaid in white is the official White House logo (building icon) and the text \"THE WHITE HOUSE.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Multiple photo tiles in the beat-challenge grid show a man in a dark suit with sunglasses raising his fist in front of American flags, consistent with widely circulated Trump rally/campaign imagery."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Official White House logo and 'THE WHITE HOUSE' text overlay on the second scene; posted by @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Say the word on the beat challenge\nIMPOSSIBLE",
+      "role": "overlay"
+    },
+    {
+      "text": "3/5",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A voiceover counts \"One, two, three, go!\" twice, providing the beat cue for the challenge format.",
+  "emojis_present": [
+    "🇺🇸",
+    "🔥"
+  ],
+  "audio_music": "Original sound; a rhythmic countdown voice saying \"One, two, three, go!\" twice, used to time the beat challenge interaction.",
+  "editing_pacing": "Short-form social media format; static graphic layout for the challenge grid with minimal cuts. The grid tiles are the main visual focus. Ends with a branded White House closing card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement — conveyed by the 'IMPOSSIBLE' challenge framing, fire emojis, lightning bolt stickers, and energetic countdown audio",
+    "pride — evoked by the American flag imagery and Trump fist-raise photos combined with the official White House branding"
+  ],
+  "cultural_references": [
+    "'Say the word on the beat' TikTok challenge trend — a popular format where participants must say a specific word in rhythm with a countdown beat",
+    "🔥 fire emoji as internet slang for something impressive or exciting",
+    "Marine One helicopter imagery as a symbol of presidential power"
+  ],
+  "central_claim": "The official White House account is using a popular TikTok \"say the word on the beat\" challenge format, featuring Trump imagery and fire emojis, to create viral engagement around the word/theme indicated by the cheat sheet grid.",
+  "intended_effect": "Encourage viewers to participate in the beat challenge, increasing engagement and associating the White House/Trump with a fun, viral social media trend.",
+  "uncertainty_flags": [
+    "The specific word the challenge is asking viewers to say is not fully visible — the caption references a 'cheat sheet' but it is cut off ('Cap a...'). The grid pattern of Trump photos and fire emojis may encode the word visually (e.g., alternating images spelling something), but it is unclear from the keyframes alone.",
+    "The exact event/photo from which the Trump fist-raise image is taken is not confirmed, though it is consistent with post-assassination-attempt rally imagery from summer 2024."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "video_id": "7535200707062795534",
+  "visual_action": "The video shows clips of Donald Trump on a White House balcony, waving, accompanied by several other men. It also includes wider shots of the White House exterior and grounds.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown on a White House balcony. The on-screen text refers to 'when we had a president' in a nostalgic tone, contrasting him with the current president."
+    },
+    {
+      "name": "the current U.S. President",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text implies a current president is 'creating distractions from his name being in the Epstein files', in contrast to the previous president shown (Trump)."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name is mentioned in the on-screen text in the phrase 'the Epstein files'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account, making them the author of the message."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Thinking back to when we had a president whose main priority wasn't creating distractions from his name being in the Epstein files",
+      "role": "overlay"
+    },
+    {
+      "text": "why is he up there? 😭",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A female voice says, \"Just enjoy it. It feels like a party every day.\" This audio is taken from an external source and used for effect.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The video begins with a female voice speaking dialogue. After she finishes, a gentle and nostalgic acoustic guitar melody begins and plays for the remainder of the clip.",
+  "editing_pacing": "The video uses slow pacing with only a few cuts between static or slow-moving shots of Donald Trump and the White House.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Suspicion",
+    "Contempt"
+  ],
+  "cultural_references": [
+    "The audio 'It feels like a party every day' is a well-known line from the character Cassie Howard in the TV show 'Euphoria'."
+  ],
+  "central_claim": "The post uses nostalgia for Donald Trump's presidency to imply that the current president is compromised by a connection to Jeffrey Epstein.",
+  "intended_effect": "To create nostalgia for Donald Trump's time in office while casting suspicion and contempt upon the current president by linking him to the Epstein scandal.",
+  "uncertainty_flags": [
+    "The post is from the @democrats account but appears to be pro-Trump in a nostalgic way, which is a highly unusual political message for this account."
+  ]
+}

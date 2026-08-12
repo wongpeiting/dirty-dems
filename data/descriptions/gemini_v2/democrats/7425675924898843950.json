@@ -1,0 +1,129 @@
+{
+  "video_id": "7425675924898843950",
+  "visual_action": "A slideshow of screenshots of news articles. The first shows a photo of JD Vance with a headline about him 'creating stories'. The subsequent screenshots show headlines from CNN and Vanity Fair accusing Donald Trump and JD Vance of lying about various topics, including the Hurricane Helene response, abortion, and in speeches. One screenshot includes a photo of Donald Trump at a rally.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in a photograph and named in two on-screen headlines: 'JD Vance admits he is willing to 'create stories' to get media attention' and 'Yes, JD Vance Lied About Abortion...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the sole subject of the sarcastic audio commentary and is named in multiple on-screen headlines, such as 'Fact check: Six days of Trump lies about the Hurricane Helene response'."
+    },
+    {
+      "name": "Daniel Dale",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears in the byline of a CNN article screenshot: 'By Daniel Dale, CNN'."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and name are visible on screenshots of news articles."
+    },
+    {
+      "name": "Vanity Fair",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Vanity Fair logo is visible on a screenshot of a news article."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "US elections 2024",
+      "role": "overlay"
+    },
+    {
+      "text": "JD Vance admits he is willing to 'create stories' to get media attention",
+      "role": "overlay"
+    },
+    {
+      "text": "Fact check: Six days of Trump lies about the Hurricane Helene response",
+      "role": "overlay"
+    },
+    {
+      "text": "By Daniel Dale, CNN",
+      "role": "overlay"
+    },
+    {
+      "text": "Updated 2:50 PM EDT, Mon October 7, 2024",
+      "role": "overlay"
+    },
+    {
+      "text": "VANITY FAIR",
+      "role": "overlay"
+    },
+    {
+      "text": "POLITICS",
+      "role": "overlay"
+    },
+    {
+      "text": "Yes, JD Vance Lied About Abortion, And No, You Shouldn't Trust Anything He or Donald Trump Says About Reproductive Rights",
+      "role": "overlay"
+    },
+    {
+      "text": "Opinion",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump and his allies are whipping up a whirlwind of lies about the hurricanes",
+      "role": "overlay"
+    },
+    {
+      "text": "😋😋😋",
+      "role": "overlay"
+    },
+    {
+      "text": "Fact check: Trump, on a lying spree, made at least 40 separate false claims in two Pennsylvania speeches",
+      "role": "overlay"
+    },
+    {
+      "text": "Updated 5:29 PM EDT, Thu October 10, 2024",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "Live TV",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A person, speaking in a sarcastic tone, defends Donald Trump by saying it's \"rich to say that Donald Trump is a threat to democracy when he peacefully gave over power.\" The speaker repeatedly says variations of \"don't check that\" after making other false claims on Trump's behalf, such as him \"saving Obamacare.\" Each sarcastic line is followed by a laugh track from an audience.",
+  "emojis_present": [
+    "😋"
+  ],
+  "audio_music": "A comedic spoken-word audio clip featuring a prominent laugh track that punctuates the speaker's sarcastic statements.",
+  "editing_pacing": "A slow-paced slideshow consisting of static screenshots of news articles.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "distrust"
+  ],
+  "cultural_references": [
+    "Audio from a 'Weekend Update' segment on Saturday Night Live, featuring comedian Bowen Yang."
+  ],
+  "central_claim": "Donald Trump and JD Vance are habitual liars, as evidenced by numerous news headlines, making any defense of them, like the sarcastic audio clip used, absurd.",
+  "intended_effect": "To mock Donald Trump and JD Vance and persuade viewers that they are untrustworthy.",
+  "uncertainty_flags": [
+    "The three emojis shown on screen are non-standard graphics that combine the 'Thinking Face' emoji with a tongue sticking out. They have been represented in this data as '😋', the 'Face Savoring Food' emoji, as a placeholder for a unicode character with a tongue."
+  ]
+}

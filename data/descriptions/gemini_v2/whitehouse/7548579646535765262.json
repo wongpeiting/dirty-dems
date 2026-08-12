@@ -1,0 +1,57 @@
+{
+  "video_id": "7548579646535765262",
+  "visual_action": "A static shot of the White House is shown, with an American flag in the foreground flying at half-mast. A screenshot of a tweet from Donald J. Trump is overlaid on the video. The clip ends with a black-and-white montage of the White House and a helicopter, followed by a title card.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A purported tweet from 'Donald J. Trump @realDonaldTrump' is shown on screen, containing a supposed order from him."
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet states, 'In honor of Charlie Kirk, a truly Great American Patriot...'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and features the building prominently."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump\n\nIn honor of Charlie Kirk, a truly Great American Patriot, I am ordering all American Flags throughout the United States lowered to Half Mast until Sunday evening at 6 P.M.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no audible speech. The only sounds are ambient outdoor noises, including what sounds like a flagpole's halyard clanking against the pole in the wind.",
+  "emojis_present": [
+    "🙏"
+  ],
+  "audio_music": "The video has a somber tone, with only ambient, diegetic sound from outdoors. There is no music or narration.",
+  "editing_pacing": "The video consists of a long, static shot, followed by a brief, black-and-white closing sequence. The overall pacing is very slow and solemn.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A fabricated screenshot of a tweet from Donald J. Trump is superimposed on the video. This staged document creates a false context for the footage of the flag at half-mast, implying Trump ordered the honor for Charlie Kirk.",
+  "emotions_signaled": [
+    "Somberness",
+    "Respect",
+    "Satire"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump has ordered all American flags to be flown at half-mast in honor of conservative commentator Charlie Kirk.",
+  "intended_effect": "To present a fabricated event as real, which could either mislead viewers or, for those who recognize the fabrication, serve as satire mocking Donald Trump and Charlie Kirk.",
+  "uncertainty_flags": []
+}

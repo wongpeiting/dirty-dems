@@ -1,0 +1,141 @@
+{
+  "video_id": "7569098807003090231",
+  "visual_action": "The video is a vertical-format clip consisting of a static black upper portion and a lower portion showing a live CNN broadcast. The CNN footage is from Spanberger HQ in Richmond, Virginia, at 8:52–8:53 PM ET on election night. Abigail Spanberger, a blonde woman wearing a red blazer over a white blouse, stands at a podium with two microphones, speaking to a large, enthusiastic crowd behind her. She gestures with her hands throughout the speech. The CNN lower-third chyrons cycle through several race results: Virginia Attorney General (Jones 51.0% vs. Miyares 48.6%), New Jersey Governor (Sherrill 58.9% vs. Ciattarelli 40.6%), and a countdown timer showing NY Polls close at 9P ET (counting down from ~7:08). A \"BREAKING NEWS\" banner reads \"MINUTES AWAY: POLLS CLOSE IN CONTENTIOUS RACE FOR NYC MAYOR.\" The upper portion of the screen shows a persistent white text overlay quoting Spanberger. Below the CNN footage, yellow subtitle-style captions display her speech word by word: \"SO NOW THAT,\" \"THE CAMPAIGN,\" \"IS OVER,\" \"ELECTION,\" \"NEXT.\" \"VOTERS MADE,\" \"OUR CHOICE.\"",
+  "cast": [
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Face-ID confirmed; named in on-screen overlay as 'Gov-elect Spanberger'; she is speaking at the podium at her HQ"
+    },
+    {
+      "name": "Jason Miyares",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "CNN chyron shows 'MIYARES 1,133,846 48.6%' in the Virginia Attorney General race results"
+    },
+    {
+      "name": "Sherrill",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "CNN chyron shows 'SHERRILL 606,872 58.9%' in the New Jersey Governor race results"
+    },
+    {
+      "name": "Ciattarelli",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "CNN chyron shows 'CIATTARELLI 418,547 40.6%' in the New Jersey Governor race results"
+    },
+    {
+      "name": "Jones",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "CNN chyron shows 'JONES 1,189,305 51.0%' in the Virginia Attorney General race"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Gov-elect Spanberger:\n\"Now that the campaign is over, the real work begins\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Spanberger HQ\nRichmond, Virginia\n8:52 PM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "MINUTES AWAY: POLLS CLOSE IN CONTENTIOUS RACE FOR NYC MAYOR",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "NY POLLS CLOSE 9P ET",
+      "role": "chyron"
+    },
+    {
+      "text": "07:08 MIN SEC",
+      "role": "chyron"
+    },
+    {
+      "text": "VIRGINIA ATTORNEY GENERAL\nJONES 1,189,305 51.0%\nMIYARES 1,133,846 48.6%",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN ELECTION",
+      "role": "chyron"
+    },
+    {
+      "text": "NEW JERSEY GOVERNOR\nSHERRILL 606,872 58.9%\nCIATTARELLI 418,547 40.6%",
+      "role": "chyron"
+    },
+    {
+      "text": "SO NOW THAT",
+      "role": "caption"
+    },
+    {
+      "text": "THE CAMPAIGN",
+      "role": "caption"
+    },
+    {
+      "text": "IS OVER,",
+      "role": "caption"
+    },
+    {
+      "text": "ELECTION,",
+      "role": "caption"
+    },
+    {
+      "text": "NEXT.",
+      "role": "caption"
+    },
+    {
+      "text": "VOTERS MADE",
+      "role": "caption"
+    },
+    {
+      "text": "OUR CHOICE",
+      "role": "caption"
+    },
+    {
+      "text": "time to get to work 💪",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Spanberger delivers a victory speech at her campaign headquarters. Key lines: \"So now that the campaign is over, the real work begins. Because this was never about just winning an election. It was about what comes next. It's about the governing. Virginia voters made our choice tonight, and that choice was loud and clear. We are going to work to lower costs of renting, buying, or staying in your home. We are going to cut red tape and build homes families can actually afford. We are going to work.\"",
+  "emojis_present": [
+    "💪"
+  ],
+  "audio_music": "The audio is entirely Spanberger's live election-night victory speech with crowd noise and applause in the background. No music or additional sound effects are present. The account labels this \"original sound,\" consistent with a straight recording of the speech broadcast on CNN.",
+  "editing_pacing": "Static CNN broadcast footage held in a fixed lower-frame window throughout; no cuts within the clip; yellow word-by-word karaoke-style captions appear beneath; persistent white quote overlay at top.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "optimism — Spanberger's upbeat, forward-looking speech framing victory as the start of work",
+    "pride — crowd enthusiasm and celebratory setting",
+    "determination — repeated emphasis on 'we are going to work'"
+  ],
+  "cultural_references": [],
+  "central_claim": "Governor-elect Abigail Spanberger, having won Virginia's gubernatorial election, declares that the campaign victory is just the beginning and commits to governing by lowering housing costs and cutting red tape.",
+  "intended_effect": "To inspire enthusiasm and confidence in Spanberger's leadership among Democratic supporters, framing her election win as a mandate for action on kitchen-table issues like housing affordability.",
+  "uncertainty_flags": [
+    "The exact election cycle (year) for this Virginia gubernatorial race is not specified in the on-screen text; based on context clues (CNN chyrons showing NJ Governor and NYC Mayor races simultaneously) this appears to be a November 2025 election night, which is after the original knowledge cutoff but consistent with today's date of August 11, 2026.",
+    "The OCR transcript is noisy and some chyron vote totals may be slightly misread; values used in on_screen_text are best estimates from the clearest frames.",
+    "It is unclear who the unnamed people flanking Spanberger on stage are — they are not identified."
+  ]
+}

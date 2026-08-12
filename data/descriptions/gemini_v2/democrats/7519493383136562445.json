@@ -1,0 +1,82 @@
+{
+  "video_id": "7519493383136562445",
+  "visual_action": "The video first shows a static screenshot of a news headline and article text dated 'June 23'. The text claims that Donald Trump expected an 'Israel-Iran ceasefire' to last 'forever'. The video then cuts to two clips of Donald Trump speaking outdoors, dated 'June 24', where he states that the ceasefire was violated.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text ('President Donald Trump'), and he is shown speaking in the second half of the video."
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text as part of the 'Israel-Iran ceasefire'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text as part of the 'Israel-Iran ceasefire'."
+    },
+    {
+      "name": "NBC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as the source of the interview in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "June 23",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump says he expects the Israel-Iran ceasefire will last 'forever'",
+      "role": "overlay"
+    },
+    {
+      "text": "In a phone interview with NBC News, President Donald Trump said he didn't believe Israel and Iran \"will ever be shooting at each other again.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "June 24 🤨",
+      "role": "overlay"
+    },
+    {
+      "text": "They both violated it.",
+      "role": "chyron"
+    },
+    {
+      "text": "They couldn't rein people back.",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"They both violated it. They couldn't rein people back.\"",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "A dramatic, heavy orchestral piece plays throughout the video, creating a sense of irony and foreboding. The TikTok sound label identifies it as 'dance of the knights by sergei prokofiev'.",
+  "editing_pacing": "The video consists of a static image followed by two quick cuts of a talking-head clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "The use of Sergei Prokofiev's 'Dance of the Knights', a famous piece of classical music often used in popular culture to signal drama or conflict."
+  ],
+  "central_claim": "Donald Trump is portrayed as incompetent for confidently predicting a ceasefire would last 'forever,' only for it to fail the very next day.",
+  "intended_effect": "To mock Donald Trump and portray him as a foolish and unsuccessful leader regarding foreign policy.",
+  "uncertainty_flags": []
+}

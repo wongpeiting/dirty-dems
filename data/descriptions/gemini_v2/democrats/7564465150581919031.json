@@ -1,0 +1,70 @@
+{
+  "video_id": "7564465150581919031",
+  "visual_action": "The video displays two static images in sequence. The first is a screenshot of a tweet from an account named 'FactPost', featuring a photo of Melania Trump next to a photo of a demolished building. The second image is a split-screen 'before and after' meme. The top panel, labeled 'east wing before trump', shows an elegantly decorated White House hallway with Christmas trees. The bottom panel, labeled 'east wing after trump', shows a building in the process of being demolished by construction equipment.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her face is shown in a photo, her name is in the on-screen tweet ('Melania Trump'), and her voice is heard throughout the video's audio track."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned in the on-screen tweet ('Trump's East Wing demolition') and in the text overlays ('before trump', 'after trump')."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are visible on the screenshot of the tweet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "other"
+    },
+    {
+      "text": "Melania Trump has declined to comment on Trump's East Wing demolition.",
+      "role": "other"
+    },
+    {
+      "text": "Maintaining the East Wing, including its holiday decorations, has historically been the First Lady's responsibility.",
+      "role": "other"
+    },
+    {
+      "text": "east wing before trump",
+      "role": "overlay"
+    },
+    {
+      "text": "east wing after trump",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An audio recording of Melania Trump's voice is played. She complains in a frustrated tone about having to work on Christmas decorations, saying, \"who gives a f*** about Christmas stuff and decoration?\" She then laments that when she does work on Christmas planning, she is criticized about \"the children that they were separated,\" and exclaims, \"Give me a f***ing break.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a spoken-word recording of Melania Trump speaking. There is no background music or other sound.",
+  "editing_pacing": "A static slideshow showing two consecutive images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A 'before' photo shows the White House interior decorated for Christmas, while an 'after' photo shows an unrelated demolition site. On-screen text labels these 'east wing before trump' and 'east wing after trump' to create the false visual claim that the Trump administration demolished part of the White House.",
+  "emotions_signaled": [
+    "mockery",
+    "outrage",
+    "contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration was destructive and disdainful of American traditions, symbolized by Melania Trump's recorded complaints about her Christmas duties and a fabricated image of them demolishing the White House East Wing.",
+  "intended_effect": "To generate negative sentiment towards Melania and Donald Trump by portraying them as destructive, uncaring, and hypocritical.",
+  "uncertainty_flags": [
+    "The provided music fingerprint data (ACRCloud) conflicts with the video's actual audio, which is only a spoken-word recording of Melania Trump and has no music.",
+    "The nature of the 'FactPost' Twitter account shown in the video is unclear; it may be a parody or satirical account used for framing."
+  ]
+}

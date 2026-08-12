@@ -1,0 +1,73 @@
+{
+  "video_id": "7463215454203563307",
+  "visual_action": "The video shows a clip from a Fox News broadcast. It begins with a red and yellow \"ALERT\" graphic, then cuts to an exterior shot of the U.S. District Court in Seattle, Washington. Fox News branding, including a logo and a breaking news chyron, is visible at the bottom of the screen throughout the clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump is named in the top overlay text (\"...Trump's 'blatantly unconstitutional' birthright citizenship attack\") and the Fox News chyron (\"FEDERAL JUDGE SLAMS TRUMP BIRTHRIGHT CITIZENSHIP EXEC ORDER...\"). He is also the subject of the news report's audio."
+    },
+    {
+      "name": "Judge Coughenour",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the audio as the judge who made the ruling against Trump's order. The on-screen text that animates with the audio also reads \"JUDGE COUGHENOUR SLAMMING TRUMP'S...\""
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The clip is from a Fox News broadcast, and their logo is visible on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "A judge just blocked Trump's “blatantly unconstitutional” birthright citizenship attack 🙌",
+      "role": "overlay"
+    },
+    {
+      "text": "ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. DISTRICT COURT SEATTLE, WA",
+      "role": "chyron"
+    },
+    {
+      "text": "FEDERAL JUDGE SLAMS TRUMP BIRTHRIGHT CITIZENSHIP EXEC ORDER AS “BLATANTLY UNCONSTITUTIONAL”",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A Fox News anchor delivers a news alert reporting that a hearing in Seattle regarding Donald Trump's executive order to end birthright citizenship has concluded. The anchor states that \"Judge Cooner\" (Coughenour) slammed the order, quoting the judge's description of it as a \"blatantly unconstitutional order.\"",
+  "emojis_present": [
+    "🙌"
+  ],
+  "audio_music": "The video begins with a dramatic whoosh sound effect and a short, tense news alert jingle. The rest of the clip features a male news anchor speaking, with no other prominent music or sound effects. The overall tone is serious and urgent.",
+  "editing_pacing": "The video is a single, continuous clip from a news broadcast. Text overlays are added on top, with a main caption at the top and additional text that appears word-by-word, synchronized with the anchor's speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Vindication",
+    "Triumph",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "A federal judge has blocked Donald Trump's executive order intended to end birthright citizenship, ruling that it is \"blatantly unconstitutional.\"",
+  "intended_effect": "To highlight a legal defeat for Donald Trump, casting his actions as unconstitutional and celebrating the judicial check on his power.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,68 @@
+{
+  "video_id": "7628602205376990477",
+  "visual_action": "The video starts with a black-and-white clip of a man in a cap walking down the stairs of an airplane. It then transitions to a montage of color clips of Donald Trump: taking a selfie with a woman at a factory, speaking at a rally, signing a document while surrounded by people, and walking down a red carpet at a port with a large ship in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown in multiple positive clips throughout the video montage and is the subject of the on-screen text comparing tax returns."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video opens with a clip of a man deplaning, juxtaposed with text about 'Tax returns last year'. Given the account (@whitehouse) and the comparison to Trump, this figure is meant to represent the current president, Joe Biden."
+    },
+    {
+      "name": "IRS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text cites 'IRS data' and mentions the 'IRS deadline'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Tax returns last year: $3,167",
+      "role": "overlay"
+    },
+    {
+      "text": "Tax returns under Trump: Nearly $3,500",
+      "role": "overlay"
+    },
+    {
+      "text": "Average tax refund is up $350 compared to last year as IRS deadline approaches",
+      "role": "overlay"
+    },
+    {
+      "text": "Average tax refund up nearly 11% from a year ago, IRS data shows",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from the song 'Young Dumb & Broke' by Khalid, specifically the line 'Young, dumb, broke high school kids'.",
+  "emojis_present": [
+    "🤑",
+    "🦅"
+  ],
+  "audio_music": "The song 'Young Dumb & Broke' by Khalid plays throughout the video. It is an upbeat, contemporary pop/R&B track that gives the video a modern, almost 'vibey' feel.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different short clips, each featuring a text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Prosperity",
+    "Nostalgia",
+    "Pride"
+  ],
+  "cultural_references": [
+    "The song 'Young Dumb & Broke' by recording artist Khalid is used as the soundtrack."
+  ],
+  "central_claim": "Tax refunds for average Americans were significantly higher during the Trump administration compared to the subsequent year under the current administration.",
+  "intended_effect": "To persuade viewers that they were financially better off under Donald Trump's economic policies and to generate support for his leadership.",
+  "uncertainty_flags": []
+}

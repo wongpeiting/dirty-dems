@@ -1,0 +1,59 @@
+{
+  "video_id": "7630956000463293709",
+  "visual_action": "A static photo of a younger Donald and Melania Trump is shown. This quickly cuts to a stock-style clip of hands cleaning a pair of black-framed eyeglasses with a blue cloth. The video then cuts to a second static photo, this one showing Donald Trump with Jeffrey Epstein.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in two photographs, one with Melania Trump and another with Jeffrey Epstein."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in the final photograph alongside Donald Trump. The juxtaposition with him is the point of the video."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the first photograph alongside Donald Trump."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [],
+  "spoken_summary": "The audio consists of several overlapping, loud, and angry-sounding shouted exclamations in a language that sounds like Finnish. There is no discernible English speech. The tone is one of shock and outrage, featuring what sound like expletives.",
+  "emojis_present": [],
+  "audio_music": "The audio is not music but a series of overlapping sound clips of people shouting frantically in a foreign language (likely Finnish). The sounds are distorted and high-energy, escalating into screams and what sound like expletives, creating a chaotic and shocking effect. This appears to be a popular meme sound used for reaction videos.",
+  "editing_pacing": "The video uses three very fast cuts to create a slideshow effect, moving from one static image to a short clip and then to a final static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "disgust",
+    "suspicion"
+  ],
+  "cultural_references": [
+    "The visual trope of a person cleaning their glasses to signify a 'double take' or seeing something unbelievable."
+  ],
+  "central_claim": "The video implies a damning association between Donald Trump and convicted sex offender Jeffrey Epstein.",
+  "intended_effect": "To shock the viewer and create a strong negative association between Donald Trump and Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The specific language and origin of the meme audio are unclear, though it sounds like Finnish.",
+    "The provided music fingerprint ('Joe Byron — Zox The Fox') does not match the audible content of the video, which is meme-style shouting."
+  ]
+}

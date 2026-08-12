@@ -1,0 +1,46 @@
+{
+  "video_id": "7536628857726668087",
+  "visual_action": "A montage of video clips shows JD Vance on various vacations and outings. He is seen standing in front of Mount Rushmore, walking with his family at an amusement park, skiing on a snowy mountain, and walking on a dock in a marina.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Visible in multiple clips on vacation, identified by authoritative face-ID."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Implied by the on-screen text 'convinced gng to make me VP'. 'gng' is likely a reference to him or his campaign, and the VP role is directly tied to the presidential candidate."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "convinced gng to make me VP just so taxpayers could bankroll my vacations",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from the song 'Lifestyle' by Rich Gang, including the line 'I done did a lot of shit just to live this here lifestyle.' There is no other dialogue.",
+  "emojis_present": [],
+  "audio_music": "The entire video is set to the upbeat, braggadocious hip-hop song 'Lifestyle' by Rich Gang. The music and lyrics are used ironically to mock the subject of the video, suggesting a lavish and unearned lifestyle.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different vacation scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "resentment"
+  ],
+  "cultural_references": [
+    "Lifestyle (song by Rich Gang)"
+  ],
+  "central_claim": "JD Vance is using his position as Vice President to have his lavish vacations paid for by taxpayers.",
+  "intended_effect": "To portray JD Vance as an out-of-touch and entitled politician who is misusing public funds, thereby generating negative sentiment towards him.",
+  "uncertainty_flags": [
+    "The meaning of the acronym 'gng' in the on-screen text is not explicitly clear, though it is inferred to refer to Donald Trump or his campaign."
+  ]
+}

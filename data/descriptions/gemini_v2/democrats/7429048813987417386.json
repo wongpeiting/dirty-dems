@@ -1,0 +1,69 @@
+{
+  "video_id": "7429048813987417386",
+  "visual_action": "The video is a slideshow of two images. The first image shows a photo of actress Sarah Jessica Parker with a headline above it that reads: \"'For the Love of My Country': Sarah Jessica Parker Endorses Kamala Harris and Tim Walz\". The second image shows a woman with long hair, seen from behind, holding a blue \"HARRIS WALZ\" campaign sign up to a window. A fluffy cat sits on the windowsill next to her.",
+  "cast": [
+    {
+      "name": "Sarah Jessica Parker",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her name and photo appear in the first slide with the text, \"'For the Love of My Country': Sarah Jessica Parker Endorses Kamala Harris and Tim Walz\"."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name appears in the headline \"...Endorses Kamala Harris and Tim Walz\" and on the campaign sign \"HARRIS WALZ\"."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears in the headline \"...Endorses Kamala Harris and Tim Walz\" and on the campaign sign \"HARRIS WALZ\"."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video was posted by the @democrats account, promoting the party's presidential ticket."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "'For the Love of My Country': Sarah Jessica Parker Endorses Kamala Harris and Tim Walz",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS\nWALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "KamalaHarris.com",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is accompanied by instrumental music.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, jazzy instrumental track plays throughout the short video.",
+  "editing_pacing": "A simple slideshow consisting of two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "positivity",
+    "patriotism"
+  ],
+  "cultural_references": [
+    "Sarah Jessica Parker"
+  ],
+  "central_claim": "Actress Sarah Jessica Parker has endorsed the Kamala Harris and Tim Walz presidential ticket.",
+  "intended_effect": "To generate positive sentiment for the Harris/Walz ticket by highlighting a well-known celebrity's endorsement and associating the campaign with cultural relevance.",
+  "uncertainty_flags": []
+}

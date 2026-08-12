@@ -1,0 +1,58 @@
+{
+  "video_id": "7281752552054541611",
+  "visual_action": "The video is a montage contrasting two US presidents. The first half shows various clips of Donald Trump: sitting with his arms crossed, speaking outdoors, in an office, and on a stage with a CNN logo. The second half shows various clips of Joe Biden: speaking at a podium, signing documents, smiling at events, interacting with factory workers, and taking a selfie with a supporter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in a montage in the first half of the video, and his economic policy is the subject of the on-screen text."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in a montage in the second half of the video, and his economic policy is the subject of the on-screen text."
+    },
+    {
+      "name": "Jim Clyburn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly in a clip standing next to Joe Biden."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAGAnomics: cutting taxes for the wealthy and big corporations, while raising costs for the middle class",
+      "role": "overlay"
+    },
+    {
+      "text": "Bidenomics: Taking on Big Pharma, investing in clean energy, increasing wages, and lowering costs for American families 🤗",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is set entirely to music.",
+  "emojis_present": [
+    "🤗"
+  ],
+  "audio_music": "The video features two contrasting musical pieces. The first half, accompanying clips of Donald Trump, has a loud, chaotic, and distorted heavy metal or hard rock track, creating an ominous and tense mood. The music abruptly switches in the second half, accompanying clips of Joe Biden, to a gentle, uplifting choral piece with a hopeful and serene tone.",
+  "editing_pacing": "The video is a fast-paced montage composed of many short clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anxiety (associated with Trump and the chaotic music)",
+    "Disapproval (of 'MAGAnomics')",
+    "Hope (associated with Biden and the uplifting music)",
+    "Pride (in 'Bidenomics')"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden's economic policies ('Bidenomics') help American families and workers, whereas Donald Trump's policies ('MAGAnomics') harm the middle class while benefiting the wealthy and corporations.",
+  "intended_effect": "To create a strong negative association with Donald Trump's economic policies and a positive association with Joe Biden's, encouraging support for Biden and the Democratic party.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,87 @@
+{
+  "video_id": "7664717083657211149",
+  "visual_action": "A clip from a Fox News interview on 'Jesse Watters Primetime' is shown. Jesse Watters interviews Karoline Leavitt, who is identified by a chyron as White House Press Secretary. They are sitting at a desk on an outdoor set at night, with a crowd of people visible in the background.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown speaking, identified by a face-ID match and an on-screen chyron. The post's central claim, presented in an overlay, is about her words."
+    },
+    {
+      "name": "Jesse Watters",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is the interviewer in the clip, identified by the on-screen chyron 'JESSE WATTERS PRIMETIME'."
+    },
+    {
+      "name": "Gen Z",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text states 'Karoline Leavitt really just called Gen Z lazy...' and Leavitt says in the clip, 'this generation, my generation... Gen Z and those younger than me...'"
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on screen throughout the clip."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The Fox News chyron reads 'DEMS GO FULL COMMIE BEFORE MIDTERMS'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Karoline Leavitt really just called Gen Z lazy...",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICA 250",
+      "role": "chyron"
+    },
+    {
+      "text": "JESSE WATTERS PRIMETIME",
+      "role": "chyron"
+    },
+    {
+      "text": "DEMS GO FULL COMMIE BEFORE MIDTERMS",
+      "role": "chyron"
+    },
+    {
+      "text": "KAROLINE LEAVITT WHITE HOUSE PRESS SECRETARY",
+      "role": "chyron"
+    },
+    {
+      "text": "DEMS OPEN THE GATE FOR COMMIES",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "In a Fox News interview, Karoline Leavitt agrees with the host, Jesse Watters, that complaining is gaining traction. She states that her generation, Gen Z, has been raised with \"silver spoons in their mouths\" and had everything handed to them. She contrasts this with American values of \"meritocracy and hard work\" and pulling oneself up by one's bootstraps. When Watters asks if it's \"laziness,\" Leavitt replies, \"A little bit.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the news interview clip. There is no music or other sound.",
+  "editing_pacing": "The video is a single, continuous clip from a broadcast, featuring standard news interview editing with cuts between a shot of the host, a shot of the guest, and a wide two-shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "indignation",
+    "disapproval",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "Karoline Leavitt, identified as the White House Press Secretary, believes Gen Z is somewhat lazy and has been raised with entitlement, contrary to American values of hard work.",
+  "intended_effect": "To generate disapproval and anger towards Karoline Leavitt and the political movement she represents, particularly among Gen Z viewers.",
+  "uncertainty_flags": []
+}

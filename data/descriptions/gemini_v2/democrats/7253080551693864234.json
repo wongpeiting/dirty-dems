@@ -1,0 +1,55 @@
+{
+  "video_id": "7253080551693864234",
+  "visual_action": "A woman acts out a meme format in three parts. First, she looks seriously at the camera with a disapproving expression. Second, she looks to the side and lip-syncs. Third, she reacts with exaggerated alarm, shaking her head and hands with a motion blur effect applied.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text in all three segments refers to \"Republicans\" and their positions on various issues."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is the woman on screen performing and lip-syncing throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans claiming that guns aren't the problem, mental health is",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans ignoring the climate crisis",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans when women have a say over their reproductive health care",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a popular meme sound clip featuring a voice saying \"Light work, no reaction\" twice, followed by a distorted, slowed-down, and alarmed voice saying, \"Whoa. Okay, it's got a little kick.\" The woman in the video lip-syncs to this audio.",
+  "emojis_present": [],
+  "audio_music": "The audio is a viral sound clip used as a meme format. A high-pitched voice says a line, then a deeper male voice repeats it: \"Light work, no reaction.\" This is followed by the deeper voice reacting with surprise in a distorted, slow-motion effect: \"Whoa. Okay, it's got a little kick.\" The audio is used to create a comedic contrast between nonchalance and an overreaction.",
+  "editing_pacing": "The video consists of three static shots with jump cuts between them. The final shot has a motion blur/ghosting visual effect added to emphasize the performer's panicked reaction.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "frustration",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "The video uses the popular 'Light work, no reaction' TikTok meme format, which originates from a clip of streamer Kai Cenat tasting drinks."
+  ],
+  "central_claim": "The Republican Party dismisses the severity of gun violence and the climate crisis but reacts with disproportionate alarm when women have autonomy over their reproductive health.",
+  "intended_effect": "To mock the Republican Party for what the post portrays as hypocritical and misplaced priorities, encouraging viewers to agree with this critique.",
+  "uncertainty_flags": [
+    "The provided music fingerprint (Athon Mao — Laiba Anjum) does not seem to match the prominent meme audio heard in the video, which is from a viral clip of streamer Kai Cenat. The Whisper transcript was empty."
+  ]
+}

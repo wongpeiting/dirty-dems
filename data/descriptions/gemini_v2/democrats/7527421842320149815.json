@@ -1,0 +1,76 @@
+{
+  "video_id": "7527421842320149815",
+  "visual_action": "Donald Trump, standing outdoors at a podium in front of reporters, speaks in response to an off-screen question. The setting appears to be the White House lawn. A Fox News chyron is at the bottom of the screen. Karoline Leavitt stands beside him.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure shown and is heard speaking throughout the video, answering a question about redrawing congressional maps."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visible standing next to Donald Trump but does not speak."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks Donald Trump a question about redrawing the congressional map."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears in the Fox News chyron, which reads: 'TRUMP: RECEIVED \"VERY QUICK BRIEFING\" ON EPSTEIN'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video clip is branded with the Fox News logo and a news chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump admits to gerrymandering: “We’ll pick up 5 seats” 😳",
+      "role": "caption"
+    },
+    {
+      "text": "BREAKING NEWS\nTRUMP: RECEIVED \"VERY QUICK BRIEFING\" ON EPSTEIN\nFOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "ARE YOU CALLING FOR A COMPLETE REDRAWING OF THE CONGRESSIONAL MAP? JUST A VERY SIMPLE REDRAWING. WE PICK UP FIVE SEATS, BUT WE HAVE A COUPLE OF OTHER STATES WHERE WE'LL PICK UP SEATS ALSO.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump, \"Are you calling for a complete redrawing of the congressional map?\" Trump responds, \"No, no, just a very simple redrawing. We pick up five seats.\" He adds that there are a \"couple of other states where we'll pick up seats also.\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of dialogue from a press gaggle with ambient outdoor sounds. There is no music.",
+  "editing_pacing": "The video is a single, static shot. The only editing is the addition of a top caption and animated text overlays that transcribe the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump admitted to gerrymandering by stating that a \"simple redrawing\" of congressional maps would allow his party to \"pick up five seats.\"",
+  "intended_effect": "To portray Donald Trump as corrupt and willing to manipulate electoral maps for political gain, thereby provoking disapproval from the viewer.",
+  "uncertainty_flags": []
+}

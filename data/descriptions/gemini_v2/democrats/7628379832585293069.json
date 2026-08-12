@@ -1,0 +1,106 @@
+{
+  "video_id": "7628379832585293069",
+  "visual_action": "The video is a slideshow of memes mocking Donald Trump. The first meme is a two-panel image titled 'WHAT DOCTORS LOOK LIKE'. On the left, under 'TO TRUMP:', is a photoshopped painting of Donald Trump as Jesus Christ healing a man. On the right, under 'TO EVERYONE ELSE:', are two promotional photos of the casts of medical TV dramas. The next scene is a two-panel meme with photos of Trump, captioned with a fabricated dialogue where he is asked if he posted a picture of himself as Jesus Christ and replies, 'I *thought* it was me as a doctor...' The video then shows the Trump-as-Jesus painting again with the text 'DOES THIS LOOK LIKE A DOCTOR TO YOU?'. The final image is a photoshopped picture of a Spirit Halloween costume package for a Jesus costume, with the title edited to read 'Doctor'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is shown in photos and digitally added to a painting. He is the central subject of the video's mockery."
+    },
+    {
+      "name": "Jesus Christ",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A meme caption reads, 'Did you post that picture of yourself depicted as Jesus Christ?'. The imagery used is of him."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official '@democrats' account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WHAT DOCTORS LOOK LIKE",
+      "role": "overlay"
+    },
+    {
+      "text": "TO TRUMP:",
+      "role": "overlay"
+    },
+    {
+      "text": "TO EVERYONE ELSE:",
+      "role": "overlay"
+    },
+    {
+      "text": "Did you post that picture of yourself depicted as Jesus Christ?",
+      "role": "meme_text"
+    },
+    {
+      "text": "Me, I— I did post it, and I *thought* it was me as a doctor...",
+      "role": "meme_text"
+    },
+    {
+      "text": "DOES THIS LOOK LIKE A DOCTOR TO YOU?",
+      "role": "overlay"
+    },
+    {
+      "text": "SPIRIT",
+      "role": "other"
+    },
+    {
+      "text": "Doctor",
+      "role": "overlay"
+    },
+    {
+      "text": "Includes:",
+      "role": "other"
+    },
+    {
+      "text": "-White Robe",
+      "role": "other"
+    },
+    {
+      "text": "-Red Sash",
+      "role": "other"
+    },
+    {
+      "text": "Beard sold separately",
+      "role": "other"
+    },
+    {
+      "text": "ADULT Size Costume",
+      "role": "other"
+    },
+    {
+      "text": "ONE SIZE FITS MOST",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists only of background music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, slightly melancholic and instrumental pop track plays throughout the video. According to fingerprinting, the music changes from one track to another around the 7.5-second mark, though the mood remains consistent. The somber tone creates a satirical contrast with the mocking visuals.",
+  "editing_pacing": "The video is a slow-paced slideshow of four static images, each held on screen for several seconds.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Donald Trump's face is digitally superimposed onto a painting depicting Jesus Christ healing a sick man. Additionally, the word 'Doctor' is photoshopped onto the packaging of a Jesus-themed Halloween costume. These manipulations are used to create a satirical narrative mocking Trump.",
+  "emotions_signaled": [
+    "Mockery",
+    "Ridicule"
+  ],
+  "cultural_references": [
+    "Grey's Anatomy",
+    "Jesus Christ",
+    "Spirit Halloween"
+  ],
+  "central_claim": "Donald Trump is so narcissistic and delusional that he would mistake a painting depicting him as Jesus Christ for a picture of himself as a doctor.",
+  "intended_effect": "To ridicule Donald Trump and portray him as absurdly egotistical.",
+  "uncertainty_flags": []
+}

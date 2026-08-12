@@ -1,0 +1,61 @@
+{
+  "video_id": "7657593873790717197",
+  "visual_action": "The video shows a clip of JD Vance speaking in front of an American flag, followed by a clip of Donald Trump speaking in an office setting. The final shot is a close-up of a horse's face and eye, staring at a wooden wall. The same text is overlaid on all three clips.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A clip of him speaking is shown at the beginning of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A clip of him speaking is shown in the middle of the video."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "JD Vance says, \"...not that they're gonna agree with Republicans all the time...\" The video juxtaposes two prominent Republicans."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "JD Vance says, \"if Democrats were willing...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "something's not adding up....",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video juxtaposes a clip of JD Vance saying he wishes Democrats would work with Republicans on \"lowering housing prices\" with a clip of Donald Trump saying, \"And I want to drive housing prices up.\"",
+  "emojis_present": [],
+  "audio_music": "The video begins with a slow, pensive piano track playing under JD Vance's dialogue. When the video cuts to Donald Trump and the final horse meme, the music abruptly switches to a quirky, comical tune to underscore the absurdity of the contradiction.",
+  "editing_pacing": "The video consists of three distinct clips cut together in sequence: a clip of JD Vance, a clip of Donald Trump, and a final reaction shot of a horse, which is a common meme format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "confusion",
+    "suspicion"
+  ],
+  "cultural_references": [
+    "The video ends with a reaction meme clip of a horse staring at a wall, used online to signify bewilderment or observing something nonsensical."
+  ],
+  "central_claim": "Prominent Republicans JD Vance and Donald Trump have publicly stated directly contradictory goals regarding housing prices.",
+  "intended_effect": "To make the Republican Party appear inconsistent and untrustworthy on economic policy, and to mock its leaders.",
+  "uncertainty_flags": []
+}

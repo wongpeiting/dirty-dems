@@ -1,0 +1,68 @@
+{
+  "video_id": "7654690556559297806",
+  "visual_action": "Donald Trump is shown speaking at a podium to a large, cheering crowd. Many in the crowd are wearing yellow and orange safety vests. The footage is framed as a news broadcast from 'FOX NOW', with a chyron at the bottom of the screen. The video has a red border, a text overlay at the top, and a Republican Party elephant logo at the bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "His face is clearly visible, he is speaking, and the on-screen text identifies him as 'President Trump'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the '@republicans' account and features the Republican elephant logo at the bottom of the screen."
+    },
+    {
+      "name": "Mack Trucks",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news chyron at the bottom of the screen reads 'TRUMP VISITS MACK TRUCK FACILITY IN PENNSYLVANIA'."
+    },
+    {
+      "name": "FOX NOW",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news chyron includes the text 'LIVENOW FROM FOX NOW'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump: We will pass the SAVE America Act to protect our sacred American elections! 🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVENOW FROM FOX NOW",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP VISITS MACK TRUCK FACILITY IN PENNSYLVANIA",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"And we will pass the SAVE America Act to protect our sacred American elections,\" which is met with applause from the crowd.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's speech and the sounds of a large crowd cheering and applauding in the background. There is no music.",
+  "editing_pacing": "The video consists of a single, static shot of Donald Trump speaking at a rally. There are no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Resolve"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump promises to pass the 'SAVE America Act' to protect US elections.",
+  "intended_effect": "To rally support for Trump's stance on election security and portray him as a strong leader committed to protecting American elections.",
+  "uncertainty_flags": []
+}

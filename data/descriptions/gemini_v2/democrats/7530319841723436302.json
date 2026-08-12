@@ -1,0 +1,66 @@
+{
+  "video_id": "7530319841723436302",
+  "visual_action": "Grainy, dark footage from a party or social event with purple and red lighting. Several people in suits are in a crowd. A man identified by text as Donald Trump is shown interacting with another man identified as Jeffrey Epstein. A woman is also visible nearby. The footage is framed as a news clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads \"WOW !! New footage uncovered of Trump and Epstein\" and a man resembling him is shown in the video clip."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads \"WOW !! New footage uncovered of Trump and Epstein\" and a chyron points to a man with the label \"JEFFREY EPSTEIN\"."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text \"CNN EXCLUSIVE\" appears as a chyron on the video footage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WOW !! New footage uncovered of Trump and Epstein",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN EXCLUSIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "FEBRUARY 3, 1999",
+      "role": "chyron"
+    },
+    {
+      "text": "JEFFREY EPSTEIN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of a musical track with some non-lyrical vocalizations.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "A repetitive, rhythmic instrumental track plays continuously throughout the video. The music has a mysterious or slightly tense feel and includes some non-lyrical vocalizations.",
+  "editing_pacing": "The video consists of a single, continuous clip with static text overlays and chyrons. There are no cuts or complex edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Scandal"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post presents what it calls 'new footage' to highlight a past association between Donald Trump and Jeffrey Epstein, implying a scandalous connection.",
+  "intended_effect": "To create suspicion and negative sentiment towards Donald Trump by linking him to the controversial figure Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The provided audio transcript ('My My My...') appears to be a misinterpretation of the non-lyrical vocalizations in the background music."
+  ]
+}

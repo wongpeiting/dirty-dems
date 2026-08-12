@@ -1,0 +1,62 @@
+{
+  "video_id": "7555879332363652366",
+  "visual_action": "A video clip of Donald Trump speaking at a podium in front of an American flag. The footage is framed as a Fox News broadcast, with a chyron at the bottom identifying the location as Quantico, VA, and the event as Trump addressing top military leaders.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and is the sole speaker in the video."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and a broadcast-style chyron are visible at the bottom of the screen throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: We want war because we wanna have no wars but you have to... be there and you...sometimes you have to do it",
+      "role": "overlay"
+    },
+    {
+      "text": "QUANTICO, VA",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: TRUMP ADDRESSES TOP MILITARY LEADERS",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "WHEN WE GO WITH THE WORD 'WAR' ... AND, WE WANT WAR BECAUSE WE WANT TO HAVE NO WARS, BUT YOU HAVE TO BE THERE AND, YOU KNOW, SOMETIMES YOU HAVE TO DO IT.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"we want war because we want to have no wars, but you have to be there, and, you know, sometimes you have to do it.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's speech. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a single, static shot from a news broadcast, with added text overlays and captions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump makes contradictory and incoherent statements about wanting war in order to have no wars.",
+  "intended_effect": "To portray Donald Trump as linguistically confused and potentially dangerous regarding foreign policy, thereby generating mockery or concern.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,51 @@
+{
+  "video_id": "7659446354762042638",
+  "visual_action": "A large group of men in uniform (dark shirts, khaki pants, white face coverings) stand in formation on a grassy lawn in front of a large neoclassical building. They are holding American flags and other flags, including some that appear to be historical or group-specific. They participate in a call-and-response chant led by an unseen speaker.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'this is trump's america.'"
+    },
+    {
+      "name": "unnamed protestors",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A large group of men in uniform are shown rallying. The on-screen text identifies them as 'white supremacists.'"
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man's voice is heard leading the crowd in chants."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "on america's 250th birthday, white supremacists rallied in washington, d.c. this is trump's america.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A speaker leads a crowd in a series of call-and-response chants. The speaker shouts phrases like 'Life, liberty, victory!' and 'Reclaim America!', which the crowd then shouts back in unison.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of the ambient sound of the rally, specifically a man's voice leading chants and a large crowd shouting responses. There is no music.",
+  "editing_pacing": "The video consists of a single, continuous shot that pans slowly across the rally.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "outrage",
+    "fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "White supremacist groups rallied in Washington D.C. on America's 250th birthday, and this event is characteristic of the country under Donald Trump's influence.",
+  "intended_effect": "To generate alarm and outrage by associating Donald Trump with white supremacist movements.",
+  "uncertainty_flags": []
+}

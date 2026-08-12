@@ -1,0 +1,74 @@
+{
+  "video_id": "7565999101611887885",
+  "visual_action": "The video displays a static screenshot of a tweet from an account called 'FactPost'. The tweet text is shown alongside a split-screen image featuring a serious-looking Donald Trump next to a photo of people receiving food at a food line. After a few seconds, the video cuts to a close-up of a blonde woman speaking at what appears to be a press podium.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is pictured in the tweet and his administration is named in the text: 'The Trump administration has refused to release funding...'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet states that food assistance will be lost 'due to Republicans' government shutdown.'"
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown speaking in the second half of the video, delivering the line in the audio."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are displayed on the screenshot of the tweet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Over 40 million Americans will lose food assistance in the coming days due to Republicans' government shutdown.",
+      "role": "overlay"
+    },
+    {
+      "text": "The Trump administration has refused to release funding set aside to keep food assistance programs running during emergencies.",
+      "role": "overlay"
+    },
+    {
+      "text": "The ballroom is the president's main priority.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A female voice states, \"The ballroom is the president's main priority.\" This line is also displayed as a caption on screen.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber instrumental piece, identified as 'The Last Candle' by Jacob Miller, plays continuously throughout the video, creating a serious and melancholic tone.",
+  "editing_pacing": "The video has a slow pace, consisting of a single static image of a tweet followed by a single, static video clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "outrage",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration and Republicans are callously ignoring the needs of 40 million Americans losing food assistance, prioritizing frivolous matters instead.",
+  "intended_effect": "To provoke anger towards Donald Trump and the Republican Party by portraying them as out-of-touch and uncaring.",
+  "uncertainty_flags": [
+    "The identity of the woman speaking is unknown.",
+    "The context of the spoken quote, 'The ballroom is the president's main priority,' is not provided and is likely used out of context for satirical or critical effect."
+  ]
+}

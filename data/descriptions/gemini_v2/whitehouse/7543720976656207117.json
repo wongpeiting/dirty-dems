@@ -1,0 +1,55 @@
+{
+  "video_id": "7543720976656207117",
+  "visual_action": "JD Vance stands at a podium with the Seal of the President of the United States, giving a speech to an unseen audience. Behind him, a group of men, mostly wearing casual work clothes and hats, are standing and listening. An American flag is visible behind the group. The video ends with a series of black-and-white shots including a building with columns, a helicopter, and the White House exterior, with text branding overlaid.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face recognition, he is the sole speaker in the video. The post caption refers to him as 'Mr. VP'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned by JD Vance as 'national Democrats' and on-screen text as 'Democrats' in the context of a political attack."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Find Someone Who Loves You As Much As Democrats Love Giving Free Health Care to Illegal Aliens",
+      "role": "overlay"
+    },
+    {
+      "text": "updates from the Trum",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "JD Vance addresses the audience, specifically some high school seniors, and offers them \"relationship advice\" from his perspective as a married man. The advice is a political statement: \"Find yourself somebody who loves you as much as national Democrats love giving health care benefits to illegal aliens.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of JD Vance's speech, with the natural acoustics of the room and some audience reaction sounds like clapping at the end. There is no musical soundtrack.",
+  "editing_pacing": "The video is primarily a single, static shot of a talking head. It cuts at the end to a short black-and-white branding outro montage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The video's central punchline is framed using the meme format 'Find someone who loves you as much as X loves Y'."
+  ],
+  "central_claim": "The Democratic Party prioritizes providing free healthcare to undocumented immigrants over the needs of American citizens.",
+  "intended_effect": "To generate anger towards the Democratic Party and amusement at their expense, while portraying the speaker's administration as standing against these policies.",
+  "uncertainty_flags": [
+    "The chyron at the bottom of the screen is partially cut off, showing only '...updates from the Trum...'. The full text cannot be determined."
+  ]
+}

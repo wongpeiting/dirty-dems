@@ -1,0 +1,99 @@
+{
+  "video_id": "7520681793872252215",
+  "visual_action": "The video is a slideshow of still images. It begins with a screenshot of a tweet from an account called 'FactPost', which claims Gavin Newsom is suing Fox News. The tweet includes a split image of Newsom and Fox News host Jesse Watters. This is followed by a photo of Newsom speaking in front of a California flag, and then a screenshot of a news article from POLITICO with a highlighted quote from Newsom about the lawsuit.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named as the subject of a lawsuit against Fox News in on-screen text: 'Governor Gavin Newsom has sued Fox News...'. His photo is also shown."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named as the defendant in a lawsuit in on-screen text: 'Governor Gavin Newsom has sued Fox News for defamation...'"
+    },
+    {
+      "name": "Jesse Watters",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen text as the host who aired the video: '...after host Jesse Watters aired a deceptively edited video...'. His photo is also shown."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the article screenshot: '...lie to the American people on Donald Trump's behalf...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle (@factpostnews) of the Twitter/X account shown in the initial screenshot."
+    },
+    {
+      "name": "POLITICO",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Cited as the source of a statement from Newsom in an on-screen text screenshot: 'Newsom told POLITICO in a statement...'"
+    },
+    {
+      "name": "Dominion",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned for context in the article screenshot: '...just like it did in the Dominion case...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "other"
+    },
+    {
+      "text": "Governor Gavin Newsom has sued Fox News for defamation after host Jesse Watters aired a deceptively edited video of Newsom.",
+      "role": "overlay"
+    },
+    {
+      "text": "“Until Fox is willing to be truthful, I will keep fighting against their propaganda machine.”",
+      "role": "overlay"
+    },
+    {
+      "text": "“If Fox News wants to lie to the American people on Donald Trump's behalf, it should face consequences — just like it did in the Dominion case,” Newsom told POLITICO in a statement. “Until Fox is willing to be truthful, I will keep fighting against their propaganda machine.”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set to music.",
+  "emojis_present": [
+    "😮‍💨"
+  ],
+  "audio_music": "A serious, somewhat dramatic instrumental track plays consistently throughout the video.",
+  "editing_pacing": "The video is a slow-paced slideshow of three still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "indignation",
+    "righteousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Gavin Newsom is suing Fox News for defamation, portraying himself as a fighter against the network's 'propaganda machine.'",
+  "intended_effect": "To rally support for Gavin Newsom and to cast Fox News as a dishonest and harmful media organization that must be held accountable.",
+  "uncertainty_flags": [
+    "The nature and reliability of the 'FactPost' account shown in the screenshot is not established.",
+    "The video presents a claim about a lawsuit, but does not itself provide primary evidence of the legal filing."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "video_id": "7251690392821714219",
+  "visual_action": "The video displays a static image of Donald Trump and Mike Pence walking outdoors on a covered walkway. An on-screen caption appears over them. The video then cuts to a second static image of Joe Biden and Kamala Harris walking together outdoors, smiling. A different on-screen caption appears over them.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in the first image and is the subject of the on-screen text: 'The only administration since the Great Depression to leave office with fewer jobs'."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown walking alongside Donald Trump in the first static image."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in the second image and is the subject of the on-screen text: 'Under President Biden, more jobs have been created...'"
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown walking alongside Joe Biden in the second static image."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The only administration since the Great Depression to leave office with fewer jobs",
+      "role": "caption"
+    },
+    {
+      "text": "Under President Biden, more jobs have been created in two years than in any president's four year term",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of music.",
+  "emojis_present": [],
+  "audio_music": "The video begins with a somber, slightly melancholic instrumental track ('The Winner Is...' by DeVotchKa). When the image switches from Trump to Biden, the music changes to a more upbeat, triumphant instrumental track ('How It Ends' by DeVotchKa), creating a strong emotional contrast between the two halves of the video.",
+  "editing_pacing": "The video is a simple slideshow, consisting of two static images with text overlays, with a single cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Failure",
+    "Pride",
+    "Success"
+  ],
+  "cultural_references": [
+    "The music tracks, 'The Winner Is...' and 'How It Ends' by DeVotchKa, are prominently featured in the 2006 film 'Little Miss Sunshine'."
+  ],
+  "central_claim": "The Biden administration has achieved unprecedented job growth, while the Trump administration oversaw a net loss of jobs, the worst record since the Great Depression.",
+  "intended_effect": "To convince the viewer that the Biden administration is economically successful and superior to the preceding Trump administration.",
+  "uncertainty_flags": []
+}

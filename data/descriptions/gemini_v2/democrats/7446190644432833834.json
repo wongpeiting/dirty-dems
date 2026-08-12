@@ -1,0 +1,126 @@
+{
+  "video_id": "7446190644432833834",
+  "visual_action": "A televised interview segment featuring Donald Trump and an interviewer, identified as Kristen Welker of 'Meet the Press'. The two are seated across from each other in a formal setting with American flags in the background. The video cuts between shots of Trump, the interviewer, and a two-shot of them as they discuss healthcare policy.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the subject of the interview, the on-screen text, and is shown speaking throughout the video."
+    },
+    {
+      "name": "Kristen Welker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown interviewing Donald Trump and asking questions about his healthcare plan. Her program, 'Meet the Press', is watermarked on the video."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump refers to his signature healthcare law, saying \"Obamacare stinks.\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says if he comes up with a better plan he would present it to \"Democrats.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump says he still only has “concepts” of a health care plan",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU SAID DURING THE CAMPAIGN YOU HAD",
+      "role": "caption"
+    },
+    {
+      "text": "'CONCEPTS OF A PLAN.'",
+      "role": "caption"
+    },
+    {
+      "text": "DO YOU HAVE AN ACTUAL PLAN AT THIS POINT FOR HEALTH CARE?",
+      "role": "caption"
+    },
+    {
+      "text": "YES, WE HAVE CONCEPTS OF A PLAN THAT WOULD BE BETTER",
+      "role": "caption"
+    },
+    {
+      "text": "STILL, JUST CONCEPTS?",
+      "role": "caption"
+    },
+    {
+      "text": "DO YOU HAVE A FULLY DEVELOPED PLAN?",
+      "role": "caption"
+    },
+    {
+      "text": "LET ME EXPLAIN.",
+      "role": "caption"
+    },
+    {
+      "text": "WE HAVE THE BIGGEST HEALTH CARE COMPANIES LOOKING AT.",
+      "role": "caption"
+    },
+    {
+      "text": "WE HAVE DOCTORS. WE'RE ALWAYS LOOKING.",
+      "role": "caption"
+    },
+    {
+      "text": "BECAUSE OBAMACARE STINKS. IT'S LOUSY.",
+      "role": "caption"
+    },
+    {
+      "text": "THERE ARE BETTER ANSWERS.",
+      "role": "caption"
+    },
+    {
+      "text": "IF WE COME UP WITH A BETTER ANSWER, I WOULD PRESENT THAT",
+      "role": "caption"
+    },
+    {
+      "text": "ANSWER TO DEMOCRATS AND EVERYBODY ELSE,",
+      "role": "caption"
+    },
+    {
+      "text": "AND I'D DO SOMETHING ABOUT IT.",
+      "role": "caption"
+    },
+    {
+      "text": "MEET THE PRESS",
+      "role": "other"
+    },
+    {
+      "text": "NBC NEWS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "In an interview, Kristen Welker presses Donald Trump on whether he has a concrete healthcare plan, reminding him that he previously only had \"concepts.\" Trump confirms he still has \"concepts of a plan that would be better\" but not a fully developed one. He deflects by stating he's always looking for alternatives with doctors and healthcare companies because \"Obamacare stinks. It's lousy.\"",
+  "emojis_present": [
+    "🤡"
+  ],
+  "audio_music": "A slightly quirky, repetitive instrumental track ('Paying 2 Live' by LECHE DUMFUK) plays throughout the interview segment, creating a mocking and trivializing tone.",
+  "editing_pacing": "The video uses standard interview editing, cutting between the interviewer and Donald Trump as they speak. It is paced like a typical talking-head news clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "skepticism"
+  ],
+  "cultural_references": [
+    "Meet the Press"
+  ],
+  "central_claim": "Donald Trump still lacks a specific, developed healthcare plan, offering only vague \"concepts\" despite years of promises to replace the Affordable Care Act.",
+  "intended_effect": "To portray Donald Trump as unprepared and evasive on a major policy issue, thereby undermining his credibility and competence.",
+  "uncertainty_flags": []
+}

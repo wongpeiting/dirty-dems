@@ -1,0 +1,160 @@
+{
+  "video_id": "7429491526604033323",
+  "visual_action": "The video shows musician Bruce Springsteen on stage at a large political rally in a stadium, playing a guitar and speaking to the crowd. There are shots of the large, cheering audience, many of whom are holding up their phones to record. Behind Springsteen are large banners, including an American flag and one that says \"VOTE\".",
+  "cast": [
+    {
+      "name": "Bruce Springsteen",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person shown on stage speaking and endorsing the candidates."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Bruce Springsteen explicitly states he is casting his vote for \"Kamala Harris and Tim Walz\" and the on-screen text says he endorsed her."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Bruce Springsteen explicitly states he is casting his vote for \"Kamala Harris and Tim Walz\" and the on-screen text says he endorsed him."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Bruce Springsteen says, \"Donald Trump is running to be an American tyrant.\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Bruce Springsteen just endorsed Kamala Harris and Tim Walz 💙🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS | WALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "ATLANTA, GA",
+      "role": "chyron"
+    },
+    {
+      "text": "SHE'S",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT",
+      "role": "overlay"
+    },
+    {
+      "text": "UNITED STATES",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "BE",
+      "role": "overlay"
+    },
+    {
+      "text": "TYRANT",
+      "role": "overlay"
+    },
+    {
+      "text": "NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS",
+      "role": "overlay"
+    },
+    {
+      "text": "ITS",
+      "role": "overlay"
+    },
+    {
+      "text": "HISTORY",
+      "role": "overlay"
+    },
+    {
+      "text": "MEANS",
+      "role": "overlay"
+    },
+    {
+      "text": "DEEPLY",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT'S",
+      "role": "overlay"
+    },
+    {
+      "text": "NOVEMBER 5TH",
+      "role": "overlay"
+    },
+    {
+      "text": "MY",
+      "role": "overlay"
+    },
+    {
+      "text": "VOTE",
+      "role": "overlay"
+    },
+    {
+      "text": "KAMALA",
+      "role": "overlay"
+    },
+    {
+      "text": "WALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "VOTE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Bruce Springsteen speaks at a rally, stating that while Kamala Harris is running to be president, \"Donald Trump is running to be an American tyrant.\" He claims Trump doesn't understand the country or \"what it means to be deeply American.\" Springsteen concludes by declaring, \"That's why November 5th, I'm casting my vote for Kamala Harris and Tim Walz.\"",
+  "emojis_present": [
+    "💙",
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists of Bruce Springsteen speaking over an upbeat, anthemic rock track, identified as his song \"Dancing In the Dark.\" The music plays continuously, creating a feeling of energy and momentum suitable for a political rally.",
+  "editing_pacing": "The editing style consists of cuts between different angles of the political rally, including wide shots of the crowd and medium shots of the speaker. The pacing is driven by dynamic, large-font text overlays that appear word-by-word, synchronized with the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Hope",
+    "Urgency",
+    "Fear"
+  ],
+  "cultural_references": [
+    "Bruce Springsteen",
+    "Dancing In the Dark (song)"
+  ],
+  "central_claim": "Bruce Springsteen endorses Kamala Harris and Tim Walz for office while portraying their opponent, Donald Trump, as a dangerous tyrant unfit to lead.",
+  "intended_effect": "To persuade viewers to vote for Harris and Walz by leveraging a powerful celebrity endorsement and framing the election as a choice between democracy and tyranny.",
+  "uncertainty_flags": [
+    "It is ambiguous whether Bruce Springsteen should be categorized in 'cast' (as the main political actor in the video) or 'cultural_references' (as a non-political celebrity). He is included in both to capture his dual role as a political endorser and a cultural icon."
+  ]
+}

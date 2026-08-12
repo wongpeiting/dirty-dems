@@ -1,0 +1,66 @@
+{
+  "video_id": "7522897457559244087",
+  "visual_action": "A static screenshot of a tweet from an account named \"FactPost\". The tweet includes two photos. The left photo shows Donald Trump in a suit, smiling and giving a thumbs-up. The right photo shows a person's midsection, holding a stack of red \"MAKE AMERICA GREAT AGAIN\" hats.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photo of Donald Trump is on screen, and the text of the tweet discusses his actions, referring to \"Trump's bill\" and stating \"Mr. Trump told him...\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to \"Republican holdouts on Trump's bill\"."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet is from the account \"FactPost\" with the handle \"@factpostnews\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New reporting reveals that Republican holdouts on Trump's bill were swayed to vote yes after Trump gave them signed merch:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Mr. Trump told him he could go to the pro shop and pick out a shirt.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic steel guitar melody plays throughout the video. The sound is widely known from internet memes (often associated with SpongeBob SquarePants) to signal sadness, failure, or patheticness, giving the post a mocking tone.",
+  "editing_pacing": "The video consists of a single static image with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "The audio is a well-known meme sound, often referred to as 'sad SpongeBob music,' used to convey failure or sadness in a humorous way."
+  ],
+  "central_claim": "Republican politicians were persuaded to vote for a bill by Donald Trump after he offered them signed merchandise.",
+  "intended_effect": "To make the viewer see Donald Trump and the Republican politicians involved as unserious and corrupt, who can be bribed with merchandise.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet shown on screen cannot be verified from the video alone."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "video_id": "7662867775332928782",
+  "visual_action": "A static image is shown. On the left is a close-up of Donald Trump. On the right is a man identified by text as Todd Blanche, speaking at a podium with an American flag in the background. Text is overlaid on the bottom half of the screen.",
+  "cast": [
+    {
+      "name": "Todd Blanche",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is named and quoted in the on-screen text: \"Trump's Attorney General nominee Todd Blanche...\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face is shown on screen, and he is named in the on-screen text: \"Trump's Attorney General nominee... Trump and Epstein's relationship\""
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text as \"Mr. Epstein\" and \"Epstein\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“It isn’t a crime to party with Mr. Epstein. It isn’t a crime to have went to his island.”",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump’s Attorney General nominee Todd Blanche thinks you should stop caring about Trump and Epstein’s relationship",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it consists of a static image with background music.",
+  "emojis_present": [],
+  "audio_music": "A serious, somewhat ominous orchestral score plays throughout the short clip, creating a dramatic and concerning tone.",
+  "editing_pacing": "The video is a static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "outrage",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's Attorney General nominee, Todd Blanche, dismisses the seriousness of associating with Jeffrey Epstein by stating it is not a crime.",
+  "intended_effect": "To create alarm and disapproval of Todd Blanche and, by extension, Donald Trump, for downplaying the significance of a relationship with Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The authenticity and context of the quote attributed to Todd Blanche cannot be verified from the video alone."
+  ]
+}

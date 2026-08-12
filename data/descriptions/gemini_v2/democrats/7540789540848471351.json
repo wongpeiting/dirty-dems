@@ -1,0 +1,151 @@
+{
+  "video_id": "7540789540848471351",
+  "visual_action": "The video shows a montage of clips from a C-SPAN broadcast of a virtual DNC press call on redistricting. An unnamed man begins speaking, but is interrupted by a Black woman, identified as Texas State Rep. Collier. She announces she is being forced to leave the call, stating she was told it is a \"felony\" for her to be on it. She appears to argue with someone off-screen before disconnecting. The video then cuts between the reactions of other participants on the call, primarily Cory Booker, who speaks with outrage, and Gavin Newsom, who listens with a serious expression. An unnamed white man from the beginning of the clip is also shown looking distressed.",
+  "cast": [
+    {
+      "name": "Texas State Rep. Collier",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "An overlay text identifies her as \"Texas State Rep. Collier forced to hang up a press call.\" She speaks, saying, \"I have to leave. They said it's a felony for me to do this.\""
+    },
+    {
+      "name": "Cory Booker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is visually identified and speaks at length in reaction to Rep. Collier leaving the call, saying \"That is outrageous... what they're trying to do right there is silence an American leader, silence a Black woman.\""
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on the video call listening to the other participants but does not speak."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Cory Booker says, \"Representative Collier in the bathroom has more dignity than Donald Trump in the Oval Office.\""
+    },
+    {
+      "name": "Shelby Reese",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her name appears on a black screen, indicating she is a participant in the video call."
+    },
+    {
+      "name": "unnamed male speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A white man speaks at the beginning of the clip and is shown again at the end looking distressed."
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The chyron reads \"DNC CHAIR HOLDS PRESS CALL ON REDISTRICTING\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Texas State Rep. Collier forced to hang up a press call: “I have to leave. They said it’s a felony for me to do this”",
+      "role": "overlay"
+    },
+    {
+      "text": "DNC CHAIR HOLDS PRESS CALL ON REDISTRICTING",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "AND ALL OF OUR",
+      "role": "caption"
+    },
+    {
+      "text": "THEY SAID IT'S A",
+      "role": "caption"
+    },
+    {
+      "text": "FELONY FOR ME TO DO",
+      "role": "caption"
+    },
+    {
+      "text": "FLOOR OR IN THE",
+      "role": "caption"
+    },
+    {
+      "text": "BATHROOM.",
+      "role": "caption"
+    },
+    {
+      "text": "Shelby Reese",
+      "role": "other"
+    },
+    {
+      "text": "THAT, THAT'S,",
+      "role": "caption"
+    },
+    {
+      "text": "THAT IS OUTRAGEOUS.",
+      "role": "caption"
+    },
+    {
+      "text": "REPRESENTATIVE",
+      "role": "caption"
+    },
+    {
+      "text": "BATHROOM HAS MORE",
+      "role": "caption"
+    },
+    {
+      "text": "DIGNITY THAN DONALD",
+      "role": "caption"
+    },
+    {
+      "text": "SILENCE AN AMERICAN",
+      "role": "caption"
+    },
+    {
+      "text": "AND THIS IS WHAT",
+      "role": "caption"
+    },
+    {
+      "text": "WHAT THIS IS ABOUT,",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "During a virtual press call, Texas State Rep. Collier abruptly interrupts another speaker to announce she must leave, explaining, \"They said it's a felony for me to do this.\" After she disconnects, Cory Booker passionately condemns the unseen individuals forcing her off the call, calling it an \"outrageous\" attempt to \"silence a Black woman.\" He argues that this incident exemplifies the unjust lengths to which opponents in Texas will go to suppress Democratic leaders' voices.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of dialogue from the virtual press conference. There is no music or other sound design.",
+  "editing_pacing": "The video uses quick cuts between the different speakers on the video call, highlighting the dramatic interruption by Rep. Collier and the subsequent emotional reactions from other participants. Large, bold captions are overlaid to emphasize key phrases from the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "alarm",
+    "sympathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans in Texas are using threats of felony charges to intimidate and silence Black female Democratic officials, preventing them from speaking to the press.",
+  "intended_effect": "To generate outrage at the perceived authoritarian and racist tactics of Texas Republicans and to build solidarity for Democratic officials.",
+  "uncertainty_flags": [
+    "The identity of the first male speaker is not provided.",
+    "The identity of 'Shelby Reese' is not clarified.",
+    "The full context of why Rep. Collier was being threatened with a felony for participating in the call is not explained in the clip."
+  ]
+}

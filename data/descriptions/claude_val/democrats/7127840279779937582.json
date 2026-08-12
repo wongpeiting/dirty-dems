@@ -1,0 +1,63 @@
+{
+  "video_id": "7127840279779937582",
+  "visual_action": "A young man with dark curly hair, wearing a dark navy ribbed sweater over an olive green shirt, sits at a table in what appears to be a modern home interior with white walls. He faces the camera directly throughout the clip. His facial expressions shift across the frames: starting with a neutral/deadpan look, then wide-eyed surprise/excitement, then speaking, then a calm composed expression, then back to speaking, then calm again, then tilting his head upward with an upward gaze (a \"slay\" or impressed reaction pose), and finally a steady neutral stare into the camera. The same on-screen caption text persists throughout the first six frames. In the last two frames the caption disappears and the man's reaction expressions carry the content. No other people or settings appear.",
+  "cast": [
+    {
+      "name": "unnamed young man (content creator/reactor)",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Visible on screen across all 8 keyframes as the sole on-camera subject"
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'President Biden nominated the first Black woman to sit on the Supreme Court'"
+    },
+    {
+      "name": "Ketanji Brown Jackson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "OCR captures 'KBJ slayss' — KBJ is a widely recognized abbreviation for Ketanji Brown Jackson, the first Black woman nominated to the Supreme Court"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden nominated the first Black woman to sit on the Supreme Court.",
+      "role": "overlay"
+    },
+    {
+      "text": "KBJ slayss",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No Whisper transcript was provided, but the video appears to use original audio. Based on the account (@democrats), the visual context, and the on-screen text, the spoken content likely echoes or reacts to the statement that President Biden nominated the first Black woman to sit on the Supreme Court. The creator's shifting expressions (surprise, excitement, composed pride) serve as a reaction. The final OCR text \"KBJ slayss\" suggests an affirmative/celebratory verbal or caption-based exclamation about Ketanji Brown Jackson.",
+  "emojis_present": [],
+  "audio_music": "No commercial music matched by fingerprint; labeled as original sound. Audio is likely the creator's own voice speaking to camera, possibly with no background music, functioning as a straightforward talking-head reaction video. No identifiable meme audio or sound effects discernible from the keyframes alone.",
+  "editing_pacing": "Static single-camera talking-head format with no cuts visible across the sampled keyframes; the framing remains consistent throughout. The only dynamic element is the subject's changing facial expressions and head position from frame to frame, suggesting a continuous take or minimal editing. Pacing is calm and conversational.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement — conveyed by the wide-eyed expression in frame 2",
+    "pride — conveyed by the composed, direct-to-camera gaze and the affirming 'KBJ slayss' text",
+    "admiration — conveyed by the upward head tilt and upward gaze in frame 7 (a 'slay' reaction pose)"
+  ],
+  "cultural_references": [
+    "'Slay' / 'slayss' — internet slang used as an affirmation of excellence, popularized in LGBTQ+ and Black cultural spaces and widely adopted across TikTok as a celebratory reaction format",
+    "Talking-head reaction video format — a common TikTok content format where a creator reacts with exaggerated facial expressions to a stated fact or piece of news"
+  ],
+  "central_claim": "President Biden's nomination of Ketanji Brown Jackson as the first Black woman to sit on the Supreme Court is a historic and celebrated achievement worth praising.",
+  "intended_effect": "Inspire pride and enthusiasm in viewers about Biden's nomination of KBJ, encouraging them to celebrate the historic milestone.",
+  "uncertainty_flags": [
+    "No Whisper transcript provided — exact spoken words of the creator are unknown; description of audio is inferred from visual context and account identity",
+    "The creator's identity is not established — face-ID returned no match against the political roster, and they may be a known influencer or creator not in the political database",
+    "'KBJ slayss' in OCR may be caption text added in post-production or a spoken phrase — unclear from keyframes alone",
+    "It is unclear whether the video was posted contemporaneously with KBJ's nomination (2022) or later as a retrospective highlight — the account context does not specify the post date"
+  ]
+}

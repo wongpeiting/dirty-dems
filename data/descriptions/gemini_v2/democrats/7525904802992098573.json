@@ -1,0 +1,102 @@
+{
+  "video_id": "7525904802992098573",
+  "visual_action": "The video displays a screenshot of a tweet from an account named 'FactPost'. The tweet claims that metadata analysis shows the Jeffrey Epstein prison video released by the DOJ was 'likely modified'. Below the text is a side-by-side display of a photo of Jeffrey Epstein with Donald Trump and a still from prison surveillance footage. The video then transitions to two stacked clips of the same surveillance footage, showing a hallway outside prison cells with a person lying on the floor. The top clip is time-stamped '8/9/2019 11:58:58 PM' and the bottom is '8/10/2019 12:00:02 AM'.",
+  "cast": [
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen tweet ('New analysis of the Epstein prison video...') and shown in a photograph."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a photograph standing next to Jeffrey Epstein."
+    },
+    {
+      "name": "Department of Justice (DOJ)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen tweet as the source of the video footage: '...the video released by the DOJ...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle of the account shown in the screenshot: 'FactPost @factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New analysis of the Epstein prison video metadata shows the video released by the DOJ was 'likely modified':",
+      "role": "overlay"
+    },
+    {
+      "text": "\"The file appears to have been assembled from at least two source clips, saved multiple times, exported, and then uploaded to the DOJ's website, where it was presented as 'raw' footage.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "160 SW 2- 80",
+      "role": "overlay"
+    },
+    {
+      "text": "RT WORLD",
+      "role": "overlay"
+    },
+    {
+      "text": "8/9/2019",
+      "role": "overlay"
+    },
+    {
+      "text": "11:58:58 PM",
+      "role": "overlay"
+    },
+    {
+      "text": "8/10/2019",
+      "role": "overlay"
+    },
+    {
+      "text": "12:00:02 AM",
+      "role": "overlay"
+    },
+    {
+      "text": "PLAY",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, and somewhat ominous instrumental track plays throughout the video, creating a mysterious and conspiratorial mood.",
+  "editing_pacing": "The video consists of two static shots, presented in a slideshow style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "distrust",
+    "intrigue"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Department of Justice released a modified version of the prison surveillance video related to Jeffrey Epstein's death, implying a cover-up.",
+  "intended_effect": "To make the viewer question the official account of Jeffrey Epstein's death and distrust the Department of Justice.",
+  "uncertainty_flags": [
+    "The identity of the person on the floor in the surveillance footage is not explicitly confirmed.",
+    "The nature and reliability of the 'FactPost' source are unknown from the video alone."
+  ]
+}

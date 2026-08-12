@@ -1,0 +1,85 @@
+{
+  "video_id": "7424307589841734954",
+  "visual_action": "Former President Barack Obama speaks at a podium in front of a red and white striped background. He is filmed from the waist up. A news chyron from MSNBC is visible at the bottom of the screen throughout the clip.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible on screen speaking for the entire video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen text \"Obama DESTROYS Trump's 'concepts of a plan'\" and in the MSNBC chyron."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Obama names her towards the end of his speech, saying, \"Kamala Harris... she has an actual plan.\""
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The MSNBC logo appears on the news chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Obama DESTROYS Trump's \"concepts of a plan\" 😂😂",
+      "role": "overlay"
+    },
+    {
+      "text": "> BREAKING NEWS OBAMA ON TRUMP: \"ALL HE THINKS ABOUT IS HIS MONEY, HIS EGO & HIS STATUS\" PITTSBURGH, PA",
+      "role": "chyron"
+    },
+    {
+      "text": "OBAMA MOCKS TRUMP'S \"CONCEPTS OF A PLAN\" PITTSBURGH, PA",
+      "role": "chyron"
+    },
+    {
+      "text": "OR TRY IT AT HOME",
+      "role": "caption"
+    },
+    {
+      "text": "I HAVE A CONCEPT OF A PLAN TO DO THE DISHES",
+      "role": "caption"
+    },
+    {
+      "text": "IF IT WOULDN'T WORK FOR YOU WHY IN THE HECK SHOULD IT WORK FOR THE PRESIDENT OF THE UNITED STATES",
+      "role": "caption"
+    },
+    {
+      "text": "KAMALA HARRIS SHE DOESN'T HAVE CONCEPTS FOR A PLAN SHE HAS AN ACTUAL PLAN",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Barack Obama mocks the phrase \"concepts of a plan,\" which he implies is something Donald Trump would say. He makes a joke comparing it to telling a spouse, \"I have a concept of a plan to do the dishes.\" He argues that if such a vague statement wouldn't work in a personal relationship, it shouldn't be acceptable from a president. He then contrasts this by stating that Kamala Harris has an \"actual plan\" to improve people's lives.",
+  "emojis_present": [
+    "😂",
+    "🤣"
+  ],
+  "audio_music": "The audio consists solely of Barack Obama's speech, with the sounds of audience laughter and applause in the background. There is no music.",
+  "editing_pacing": "The video is a single, static shot of a talking head, with text overlays and captions added.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump lacks substantive policy, offering only vague \"concepts of a plan,\" whereas Kamala Harris has actual, concrete plans.",
+  "intended_effect": "To persuade the viewer that Trump is unqualified and unserious, while portraying Kamala Harris as competent and prepared.",
+  "uncertainty_flags": []
+}

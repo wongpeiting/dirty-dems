@@ -1,0 +1,119 @@
+{
+  "video_id": "7618668141467536653",
+  "visual_action": "A montage of clips showing Donald Trump in various presidential settings: in the Oval Office being presented with the FIFA World Cup trophy, disembarking Air Force One, speaking at podiums, and walking through the White House. Text overlays appear listing large corporate investments. The montage is intercut with a clip of actor Jonah Hill from the film 'The Wolf of Wall Street' looking ecstatic.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of every clip in the montage."
+    },
+    {
+      "name": "Gianni Infantino",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown presenting the World Cup trophy to Donald Trump in the opening shot."
+    },
+    {
+      "name": "AT&T",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text states: 'AT&T announced a $250 billion investment...'"
+    },
+    {
+      "name": "Mitsubishi",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text states: 'Mitsubishi announced a $3.9 billion investment in energy.'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a logo shot featuring the text 'THE WHITE HOUSE' over an image of the building."
+    },
+    {
+      "name": "Robert F Kennedy Jr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID in the context, though not clearly visible in the video."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID in the context, though not clearly visible in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP RIGHT EVERY TIME",
+      "role": "other"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "AT&T announced a $250 billion investment to build our wireless network and data infrastructure across the country.",
+      "role": "overlay"
+    },
+    {
+      "text": "Mitsubishi announced a $3.9 billion investment in energy.",
+      "role": "overlay"
+    },
+    {
+      "text": "22 Million dollars in three Fu*king hours",
+      "role": "meme_text"
+    },
+    {
+      "text": "Total U.S. and Foreign Investments:",
+      "role": "overlay"
+    },
+    {
+      "text": "$10.5 Trillion",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a mix of music and a movie quote. It features rap lyrics like \"They got the mic, turned to a million, then we all rich\" and is interrupted by a dialogue clip from 'The Wolf of Wall Street': \"22 million dollars in three f***ing hours!\" A second, slower rap track then plays for the remainder of the video.",
+  "emojis_present": [
+    "🤑"
+  ],
+  "audio_music": "The video starts with an energetic, hype-focused rap track ('Wolf of Wall Street — Gorilla goon'). At about 5 seconds, it cuts to a spoken-word clip from a movie. Around the 9-second mark, the music switches to a second, slower rap track with reverb ('Money Trees (slowed+reverb) — Casinoz') that plays until the end. The overall effect is celebratory and emphasizes wealth and success.",
+  "editing_pacing": "A fast-paced montage with quick cuts between different clips of Donald Trump, accompanied by text overlays and an intercut reaction clip from a movie.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "excitement",
+    "confidence"
+  ],
+  "cultural_references": [
+    "A clip of actor Jonah Hill from the movie 'The Wolf of Wall Street' is used as a reaction shot.",
+    "The FIFA World Cup trophy is shown being presented to Donald Trump."
+  ],
+  "central_claim": "During his presidency, Donald Trump secured $10.5 trillion in US and foreign investment, demonstrating massive economic success.",
+  "intended_effect": "To impress the viewer with Trump's economic record and portray him as a successful and effective leader.",
+  "uncertainty_flags": [
+    "The provided face-ID context identified Robert F. Kennedy Jr. and Pete Hegseth, but they were not clearly visible or identifiable in the video.",
+    "The provided OCR text listed investments from Hyundai, Lego, Meta, Ford, Biogen, and Rolls-Royce, but these texts did not appear in the final video."
+  ]
+}

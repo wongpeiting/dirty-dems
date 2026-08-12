@@ -1,0 +1,51 @@
+{
+  "video_id": "7627141553311550734",
+  "visual_action": "In a hallway that appears to be inside a stadium or arena, a man in a dark suit identified by on-screen text as 'Mayor Mamdani' approaches and greets two large costumed baseball-headed mascots, Mr. and Mrs. Met. He shakes Mrs. Met's hand and then gives her a hug, and then shakes Mr. Met's hand. Several other people are in the background.",
+  "cast": [
+    {
+      "name": "Mayor Mamdani",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"Mayor Mamdani meets Mr. and Mrs. Met\" and the video shows him interacting with the mascots."
+    },
+    {
+      "name": "New York Mets",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The team's mascots, Mr. and Mrs. Met, are shown on screen, and the audio voiceover says \"It's about the Mets, baby. Love the Mets.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Mayor Mamdani meets Mr. and Mrs. Met 💙🧡",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a popular meme voiceover. A man's voice says, \"It's not always about the money, Spider-Man. It's about the Mets, baby. Love the Mets. All right, baby, let's go get a home run, baby.\"",
+  "emojis_present": [
+    "💙",
+    "🧡"
+  ],
+  "audio_music": "A popular viral meme audio featuring a male voiceover. The audio begins with a serious, dramatic tone for the first line, then shifts to an upbeat, enthusiastic, and celebratory tone for the lines about the Mets.",
+  "editing_pacing": "The video consists of a single, continuous handheld shot that follows the main subject.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Humor",
+    "Enthusiasm"
+  ],
+  "cultural_references": [
+    "Spider-Man",
+    "Mr. Met",
+    "Mrs. Met",
+    "The 'It's about the Mets, baby' viral audio meme, which remixes dialogue from the 'Marvel's Spider-Man' video game."
+  ],
+  "central_claim": "Mayor Mamdani is a relatable and enthusiastic supporter of the local New York Mets baseball team.",
+  "intended_effect": "To generate positive sentiment for Mayor Mamdani by showing him as a personable fan who shares in local community pride.",
+  "uncertainty_flags": []
+}

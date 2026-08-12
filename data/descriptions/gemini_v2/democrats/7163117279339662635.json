@@ -1,0 +1,68 @@
+{
+  "video_id": "7163117279339662635",
+  "visual_action": "A split-screen video shows President Joe Biden speaking at a podium on the left side. On the right side, still images of Marjorie Taylor Greene, Vern Buchanan, and Ted Cruz are displayed sequentially as Biden names and criticizes each of them.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on the left side of the split-screen, speaking at a podium for the entire video."
+    },
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her still image is shown on the right side of the screen while Biden says her name and claims she had '$180,000 in business loans forgiven'."
+    },
+    {
+      "name": "Vern Buchanan",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His still image is shown while Biden names him ('Representative Vern Buchanan of Florida') and claims he received '$2,300,000' in forgiven loans."
+    },
+    {
+      "name": "Ted Cruz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His still image is shown while Biden identifies him as 'the great senator from Texas' and quotes him as calling student loan recipients 'slackers'."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the top of the video explicitly names the 'GOP'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GOP condemns student loan relief, but received forgiveness on PPP loans",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Joe Biden criticizes several Republican members of Congress for condemning his student loan relief plan, accusing them of hypocrisy. He names Marjorie Taylor Greene, Vern Buchanan, and Ted Cruz, citing the large amounts of PPP business loans they or their businesses had forgiven. Biden quotes Greene calling the plan 'unfair' despite receiving '$180,000' in forgiven loans, Buchanan calling it 'reckless' despite receiving '$2.3 million', and Cruz calling recipients 'slackers'. He ends by rhetorically asking, 'Who in the hell do they think they are?'",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Joe Biden's speech, with ambient crowd noise and applause audible at the end. There is no background music.",
+  "editing_pacing": "The video uses a static split-screen format. The left side is a continuous shot of a talking head (Joe Biden), while the right side is a simple slideshow of still images that change to correspond with the person being discussed in the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republican politicians who oppose student loan forgiveness are hypocrites because they personally benefited from large-scale forgiveness of their own PPP business loans.",
+  "intended_effect": "To generate anger towards the named Republican politicians and the GOP for their perceived hypocrisy, and to build support for the student loan relief policy.",
+  "uncertainty_flags": [
+    "The identity of Vern Buchanan is based on his name being spoken and a corresponding image being shown, as he was not in the authoritative face-ID list."
+  ]
+}

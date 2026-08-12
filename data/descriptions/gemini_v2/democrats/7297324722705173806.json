@@ -1,0 +1,112 @@
+{
+  "video_id": "7297324722705173806",
+  "visual_action": "A montage of video clips from a United States Senate session shows various senators speaking from their desks or at a podium. The video repeatedly cuts to Senator Tommy Tuberville, who is shown objecting to proceedings. Other senators, including Dan Sullivan, Maggie Hassan, Lindsey Graham, and Jon Ossoff, are shown speaking critically about the situation. On-screen text identifies the speakers and provides context about military nominations being blocked.",
+  "cast": [
+    {
+      "name": "Tommy Tuberville",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is repeatedly shown on screen, identified by the on-screen text \"SEN. TOMMY TUBERVILLE (R-AL)\", is the subject of the video's main title text, is spoken about by other senators, and speaks himself, saying \"I object.\""
+    },
+    {
+      "name": "Dan Sullivan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking and identified by on-screen text \"SEN. DAN SULLIVAN (R-AK)\". He makes several arguments against Tuberville's holds."
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking and identified by on-screen text \"SEN. LINDSEY GRAHAM (R-SC)\". He states that the holds are doing \"great damage to our military.\""
+    },
+    {
+      "name": "Maggie Hassan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking and identified by on-screen text \"SEN. MAGGIE HASSAN (D-NH)\". She says, \"Objection is heard.\""
+    },
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking and identified by on-screen text \"SEN. JON OSSOFF (D-GA)\". He says \"I object\" and addresses the \"Senator from Alabama.\""
+    },
+    {
+      "name": "Xi Jinping",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Senator Dan Sullivan: \"Xi Jinping is watching this right now...\""
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Senator Dan Sullivan: \"So is Putin. They're loving it.\""
+    },
+    {
+      "name": "United States Military",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The central topic of discussion, referred to in the on-screen text \"military nominations\" and spoken about by senators as being damaged by the holds."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Tommy Tuberville is blocking more than 300 military nominations",
+      "role": "overlay"
+    },
+    {
+      "text": "SEN. TOMMY TUBERVILLE (R-AL)",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. DAN SULLIVAN (R-AK)",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. MAGGIE HASSAN (D-NH)",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. LINDSEY GRAHAM (R-SC)",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. JON OSSOFF (D-GA)",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video is a compilation of senators, including Republicans, criticizing Senator Tommy Tuberville for his hold on military promotions. Senator Dan Sullivan warns that the holds will affect 89% of general officer positions and claims that adversaries like Xi Jinping and Vladimir Putin are \"loving it.\" Senator Lindsey Graham tells Tuberville directly that his actions are causing \"great damage to our military.\" These criticisms are intercut with clips of Tuberville repeatedly stating, \"I object\" or \"Reserving the right to object.\"",
+  "emojis_present": [],
+  "audio_music": "A subtle, tense instrumental track plays under the spoken dialogue throughout the video, adding a sense of seriousness and drama to the proceedings.",
+  "editing_pacing": "The video uses a fast-paced montage style, with quick cuts between different speakers on the Senate floor to build a cohesive narrative criticizing Senator Tuberville's actions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Frustration",
+    "Anger",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Senator Tommy Tuberville's blockade of over 300 military nominations is a unilateral action that is actively harming U.S. national security, drawing criticism from his own party and delighting American adversaries.",
+  "intended_effect": "To generate disapproval and anger towards Senator Tommy Tuberville by portraying his actions as reckless and detrimental to the United States military and national security.",
+  "uncertainty_flags": []
+}

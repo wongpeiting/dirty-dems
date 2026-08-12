@@ -1,0 +1,72 @@
+{
+  "video_id": "7665028183342845198",
+  "visual_action": "The video opens with two separate clips from historical dramas edited together to appear as a conversation. A woman says a line, followed by a man reacting. The video then cuts to a fast-paced montage of Donald Trump in various settings: walking from an overhead view wearing a 'USA' hat, clapping on stage, speaking as a silhouette against bright lights, greeting a group of workers, speaking at a presidential podium, and waving to large crowds. There are also brief shots of a military helicopter and Trump disembarking from a plane resembling Air Force One.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole subject of the montage that makes up the majority of the video."
+    },
+    {
+      "name": "The United States King",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text and spoken dialogue refer to 'The United States King', an epithet clearly meant to refer to Donald Trump, whose montage immediately follows."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative context as being present on screen, likely in a crowd or background shot."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative context as being present on screen, likely in a crowd or background shot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE UNITED STATES KING IS COMING BACK",
+      "role": "overlay"
+    },
+    {
+      "text": "NO HE'S NOT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video begins with a dubbed dialogue over movie clips. A female voice says, \"The United States King is coming back.\" A male voice replies, \"No, he's not.\" The rest of the video is purely musical.",
+  "emojis_present": [],
+  "audio_music": "The video starts with spoken dialogue. After the first few seconds, a driving, hype-style hip-hop track with a repetitive high-pitched vocal sample begins and plays over the montage of Donald Trump until the end.",
+  "editing_pacing": "The video consists of a short introductory dialogue scene followed by a fast-paced montage with quick cuts between various clips.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The opening sequence is a fabricated interaction. A clip of actress Julianna Margulies from one production is spliced with a clip of actor Robert Pattinson from another, and new audio is dubbed over them to create a fake dialogue about 'The United States King' coming back.",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Confidence",
+    "Hype"
+  ],
+  "cultural_references": [
+    "Robert Pattinson",
+    "Julianna Margulies",
+    "The King (2019 film)",
+    "The Mists of Avalon (2001 miniseries)",
+    "The meme format of splicing unrelated movie clips and dubbing new dialogue to create a fake conversation."
+  ],
+  "central_claim": "Despite doubts from detractors, Donald Trump is making an inevitable and powerful political comeback.",
+  "intended_effect": "To generate excitement and confidence among supporters for Donald Trump's return, portraying it as a major, cinematic event.",
+  "uncertainty_flags": [
+    "While the authoritative context identifies Jd Vance and Pete Hegseth as being on screen, they are not clearly identifiable in the footage upon visual inspection."
+  ]
+}

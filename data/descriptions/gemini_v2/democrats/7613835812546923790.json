@@ -1,0 +1,95 @@
+{
+  "video_id": "7613835812546923790",
+  "visual_action": "A video displays a screenshot of a fabricated tweet from the White House. The tweet contains the text 'MAGA' and an image from a Pokémon video game with the text 'make america great again' superimposed. The video then shows the same Pokémon image, but the text is replaced with 'stop protecting pedophiles', with the caption 'fixed it for them'. The video concludes with an image of the Pokémon characters Jessie, James, and Meowth, with the faces of Donald Trump, Joe Biden, and Ghislaine Maxwell, respectively, photoshopped onto their bodies.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A fabricated tweet is shown from the account '@WhiteHouse'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is photoshopped onto the body of the Pokémon anime character Jessie. His slogan 'MAGA' is also shown on screen."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is photoshopped onto the body of the Pokémon anime character James."
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her face is photoshopped onto the body of the Pokémon anime character Meowth."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "dawg look what the White House posted 😭😭",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House",
+      "role": "overlay"
+    },
+    {
+      "text": "@WhiteHouse",
+      "role": "overlay"
+    },
+    {
+      "text": "MAGA 🇺🇸⚡",
+      "role": "overlay"
+    },
+    {
+      "text": "make america great again",
+      "role": "meme_text"
+    },
+    {
+      "text": "fixed it for them",
+      "role": "overlay"
+    },
+    {
+      "text": "stop protecting pedophiles",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in this video; it is set entirely to music.",
+  "emojis_present": [
+    "😭",
+    "🇺🇸",
+    "⚡"
+  ],
+  "audio_music": "The video plays the 'Team Rocket's Motto' theme music from the Pokémon anime throughout. This music is associated with the show's recurring villains, creating a mocking and villainous tone for the figures depicted.",
+  "editing_pacing": "A slideshow of static images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video begins with a fabricated tweet attributed to the White House. It then shows images from a Pokémon video game with text superimposed on them. The final image digitally superimposes the faces of Joe Biden, Donald Trump, and Ghislaine Maxwell onto the bodies of the Pokémon characters James, Jessie, and Meowth (Team Rocket) to portray them as a team of villains.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt",
+    "outrage"
+  ],
+  "cultural_references": [
+    "Pokémon",
+    "Team Rocket",
+    "Jessie",
+    "James",
+    "Meowth"
+  ],
+  "central_claim": "Joe Biden and Donald Trump are both villainous figures who are complicit in protecting pedophiles, as represented by their association with Ghislaine Maxwell and their depiction as the Pokémon villains, Team Rocket.",
+  "intended_effect": "To engender contempt and disgust for both Donald Trump and Joe Biden by associating them with each other, Ghislaine Maxwell, and a heinous crime, while using a pop-culture reference to portray them as cartoonish villains.",
+  "uncertainty_flags": [
+    "The identity of the person whose face is on the character Meowth is visually consistent with Ghislaine Maxwell, but this is not confirmed by an authoritative source."
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "video_id": "7611656972483529997",
+  "visual_action": "An edited clip from a Fox News broadcast. A man, identified by a chyron as Chris Wright, speaks outdoors from Corpus Christi, TX. The video cuts to split screens showing him alongside a male and a female Fox News anchor in a studio. At one point, Wright tilts his head back, closes his eyes, and appears to be basking in the sun. The editing includes quick zooms, particularly on the female anchor's face as she smiles subtly, and a fast, spinning globe transition.",
+  "cast": [
+    {
+      "name": "Chris Wright",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure shown speaking and is identified by the on-screen text \"CHRIS WRIGHT | ENERGY SECRETARY\". The post's caption is about him."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is repeatedly mentioned in on-screen text, including the overlay \"bro Trump's energy sec\" and chyrons like \"SOON: TRUMP IN TX TO TOUT ENERGY, ECON AGENDA\" and \"PRESIDENT TRUMP TODAY IN CORPUS CHRISTI, TX\"."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on the broadcast graphics throughout the video."
+    },
+    {
+      "name": "unnamed female anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A blonde woman is shown in a split-screen view reacting to Chris Wright. She is not identified by name."
+    },
+    {
+      "name": "unnamed male anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man with grey hair is shown in a split-screen view and speaks briefly at the end of the clip. He is not identified by name."
+    },
+    {
+      "name": "Bill Clinton",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears in a news ticker at the bottom of the screen: \"NOW: BILL CLINTON DEPOSED IN EPSTEIN PROBE\"."
+    },
+    {
+      "name": "John Cornyn",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears partially in a news ticker: \"CORNYN WAS FI...\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "bro Trump's energy sec is on another planet 💀",
+      "role": "overlay"
+    },
+    {
+      "text": "CORPUS CHRISTI, TX",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE | 1:32 PM CT",
+      "role": "chyron"
+    },
+    {
+      "text": "► CHRIS WRIGHT | ENERGY SECRETARY",
+      "role": "chyron"
+    },
+    {
+      "text": "SOON: TRUMP IN TX TO TOUT ENERGY, ECON AGENDA",
+      "role": "chyron"
+    },
+    {
+      "text": "ALERT | ► PRESIDENT TRUMP TODAY IN CORPUS CHRISTI, TX",
+      "role": "chyron"
+    },
+    {
+      "text": "►FOX NEWS CORNYN WAS FI...",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: BILL CLINTON DEPOSED IN EPSTEIN PROBE",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP HEADS TO TEXAS TO TALK ABOUT ECONOMY",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS channel",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Over a musical track, Chris Wright says, \"...when you start in a deep hole, you've got to dig awful hard... to get positive, but I think you're on a tremendous trajectory.\" Another male voice, likely an anchor, says, \"...stop digging...\"",
+  "emojis_present": [
+    "💀",
+    "😳"
+  ],
+  "audio_music": "A continuous, dreamy indie/electronic track, identified as 'Champagne Coast' by Blood Orange, plays throughout the video. The music gives the news clip a surreal and mocking tone, especially during the moment where Chris Wright closes his eyes and tilts his head back.",
+  "editing_pacing": "The video is heavily edited in a meme-like style with quick cuts, zooms, and split-screen reaction shots. It features a fast spinning globe transition effect, departing from the style of a typical news clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement",
+    "confusion"
+  ],
+  "cultural_references": [
+    "The song 'Champagne Coast' by Blood Orange is used as the soundtrack.",
+    "The editing style of taking a news clip and setting it to incongruous music to create a comedic or mocking effect is a common internet meme format."
+  ],
+  "central_claim": "Donald Trump's Energy Secretary, Chris Wright, is behaving strangely and appears out of touch during a live news interview.",
+  "intended_effect": "To make the viewer mock or question the competence of Chris Wright and, by extension, the Trump administration.",
+  "uncertainty_flags": []
+}

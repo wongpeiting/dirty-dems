@@ -1,0 +1,129 @@
+{
+  "video_id": "7530013682831494414",
+  "visual_action": "A young Black man with an afro hairstyle speaks directly to the camera outdoors in a grassy area. A screenshot of a New York Times article headline appears on screen briefly as he talks.",
+  "cast": [
+    {
+      "name": "Unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The man appears on screen throughout the video, speaking to the camera."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker opens by saying, 'Trump really wants this Epstein stuff to go away,' and concludes, 'Trump is banking that enough time will have passed... and people will forget about this.'"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker repeatedly refers to 'this Epstein stuff' and the 'Epstein Files'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker states, 'Republicans in the House have went so far as to going on summer recess early to avoid having to vote...'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker mentions that in the Rules Committee, 'Democrats were prepared to take up a vote to release the files.'"
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A New York Times headline shown on screen reads, 'Johnson Cuts Short House Session to Avoid Vote on Releasing Epstein Files.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP REALLY WANTS",
+      "role": "caption"
+    },
+    {
+      "text": "THIS EPSTEIN STUFF",
+      "role": "caption"
+    },
+    {
+      "text": "TO GO AWAY.",
+      "role": "caption"
+    },
+    {
+      "text": "SUMMER RECESS EARLY",
+      "role": "caption"
+    },
+    {
+      "text": "TO VOTE ON",
+      "role": "caption"
+    },
+    {
+      "text": "THE FILES OR NOT",
+      "role": "caption"
+    },
+    {
+      "text": "COMMITTEE",
+      "role": "caption"
+    },
+    {
+      "text": "RECESSED WITHOUT THE",
+      "role": "caption"
+    },
+    {
+      "text": "ESSENTIALLY NO LEGISLATION",
+      "role": "caption"
+    },
+    {
+      "text": "THE FLOOR",
+      "role": "caption"
+    },
+    {
+      "text": "BE VOTED ON",
+      "role": "caption"
+    },
+    {
+      "text": "UNTIL AFTER THE",
+      "role": "caption"
+    },
+    {
+      "text": "RECESS IN SEPTEMBER.",
+      "role": "caption"
+    },
+    {
+      "text": "Johnson Cuts Short House Session to Avoid Vote on Releasing Epstein Files",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The speaker claims that Donald Trump wants the Jeffrey Epstein scandal to disappear, and that House Republicans are helping him by going into an early summer recess to avoid a vote on releasing the Epstein files. He explains that the Rules Committee was recessed just as Democrats prepared to hold a vote, effectively blocking any legislation from reaching the House floor until September. The speaker concludes this is a deliberate delay tactic by Trump, hoping the public will lose interest.",
+  "emojis_present": [],
+  "audio_music": "The video consists of only spoken dialogue with no background music or sound effects.",
+  "editing_pacing": "The video is a single static talking-head shot with one news article screenshot appearing as an overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "distrust",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The New York Times"
+  ],
+  "central_claim": "House Republicans, acting on behalf of Donald Trump, prematurely sent Congress into recess to block a vote on releasing Jeffrey Epstein's files.",
+  "intended_effect": "To persuade the viewer that Republicans and Donald Trump are engaged in a cover-up related to Jeffrey Epstein, thereby fostering distrust and anger towards them.",
+  "uncertainty_flags": []
+}

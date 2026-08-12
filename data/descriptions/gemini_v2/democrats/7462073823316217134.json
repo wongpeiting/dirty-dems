@@ -1,0 +1,165 @@
+{
+  "video_id": "7462073823316217134",
+  "visual_action": "The video starts with a clip of Joe Biden speaking from a desk with American flags in the background. It then cuts to a static image of a screenshot of a tweet from the account 'FactPost'. The tweet shows an image of Donald Trump from behind, speaking to a large, seated audience in an ornate room. Overlaid on the image is a list of names under the heading 'THE BILLIONAIRES AT TRUMP'S INAUGURATION:' and the text 'TOTAL NET WORTH = $1 TRILLION'.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on screen speaking at the beginning of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Is named in the on-screen text 'THE BILLIONAIRES AT TRUMP'S INAUGURATION:' and is shown from behind in the associated image."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "Tim Cook",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "Jeff Bezos",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "Sundar Pichai",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "Miriam Adelson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "John Paulson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "Isaac Perlmutter",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "Shou Chew",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "Bernard Arnault",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "Sergey Brin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed by name in the on-screen text as a billionaire at Trump's inauguration."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle '@factpostnews' appear on the tweet screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence.",
+      "role": "caption"
+    },
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The oligarchs are out in full force",
+      "role": "overlay"
+    },
+    {
+      "text": "THE BILLIONAIRES AT TRUMP'S INAUGURATION:",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk\nTim Cook\nMark Zuckerberg\nJeff Bezos\nSundar Pichai\nMiriam Adelson",
+      "role": "overlay"
+    },
+    {
+      "text": "John Paulson\nIsaac Perlmutter\nShou Chew\nBernard Arnault\nSergey Brin",
+      "role": "overlay"
+    },
+    {
+      "text": "TOTAL NET WORTH = $1 TRILLION",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Joe Biden states, \"Today, an oligarchy is taking shape in America of extreme wealth, power, and influence.\" The rest of the video is instrumental music.",
+  "emojis_present": [],
+  "audio_music": "The video features a continuous, ominous, and dramatic synth track ('To Vendo Ovni' by Smokiller/Leomin) that plays under Biden's speech and through the reveal of the tweet, creating a sense of alarm and foreboding.",
+  "editing_pacing": "The editing is slow, consisting of a single cut from a static talking-head shot of Joe Biden to a static image of a tweet screenshot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden warns against the rise of an oligarchy, which the post implies is embodied by Donald Trump and his association with extremely wealthy billionaires.",
+  "intended_effect": "To persuade viewers that Donald Trump is enabling an American oligarchy and that Joe Biden is the one warning against this danger.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet and the accuracy of its claims (i.e., whether all the listed individuals were at Trump's inauguration and their combined net worth) cannot be verified from the video alone."
+  ]
+}

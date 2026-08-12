@@ -1,0 +1,61 @@
+{
+  "video_id": "7615682622404054285",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named 'FactPost'. The tweet text makes an allegation about Jeffrey Epstein's ranch in New Mexico. Below the text are two side-by-side photos: an aerial view of a large ranch-style building on the left, and a photo of Jeffrey Epstein with Donald Trump on the right. After a few seconds, the video cuts to a different still photo of Jeffrey Epstein standing alone outdoors in a dry, hilly landscape.",
+  "cast": [
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is pictured in two separate photos and named in the on-screen text: \"Epstein's New Mexico ranch\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in a photograph standing next to Jeffrey Epstein."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and logo for this account are shown as the author of the tweet screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "State authorities are searching Epstein's New Mexico ranch where strangled girls' bodies are allegedly buried.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; the audio consists only of a musical track.",
+  "emojis_present": [],
+  "audio_music": "A slow, eerie, and ominous instrumental track plays throughout the video, creating a suspenseful and disturbing atmosphere.",
+  "editing_pacing": "The video is a slow-paced slideshow consisting of two static images with a single cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Horror",
+    "Suspicion",
+    "Dread"
+  ],
+  "cultural_references": [],
+  "central_claim": "State authorities are searching Jeffrey Epstein's New Mexico ranch for the bodies of 'strangled girls,' and Donald Trump is associated with Epstein.",
+  "intended_effect": "To shock the viewer with a horrific claim about Jeffrey Epstein and to create a negative association between Epstein and Donald Trump by proximity.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' Twitter/X account and the veracity of its claim could not be determined from the video itself."
+  ]
+}

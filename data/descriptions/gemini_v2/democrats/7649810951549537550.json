@@ -1,0 +1,53 @@
+{
+  "video_id": "7649810951549537550",
+  "visual_action": "A screenshot of a tweet from the Democratic Party is shown against a black, starry background. The tweet features a photo of a man, identified as Lindsey Graham by the context, looking around in what appears to be a theme park. The video has animated, glowing sparkles floating across the screen and a small cartoon ballerina character flies across the right side. The entire frame slowly zooms in on the tweet.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The on-screen text shows a tweet from the account 'Democrats' with the handle '@TheDemocrats'."
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post caption reads 'send lindsey graham back to disney 🪄' and the on-screen tweet says 'send him back to Disney World for good' over a photo of him."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "In November, let's send him back to Disney World for good",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only instrumental music.",
+  "emojis_present": [
+    "🪄"
+  ],
+  "audio_music": "The video features a whimsical, orchestral, and magical-sounding instrumental track throughout, identified as 'WHOLE LOTTA MAGICK' by Maurice Smooth. The style reinforces the Disney theme of the post.",
+  "editing_pacing": "The video consists of a slow zoom-in on a static screenshot, with animated overlays.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Animated sparkles and a cartoon ballerina are superimposed over the screenshot of the tweet to create a whimsical, 'magical' effect consistent with the Disney theme.",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "Disney World"
+  ],
+  "central_claim": "Lindsey Graham should be voted out of office in the November election.",
+  "intended_effect": "To mock Lindsey Graham and persuade viewers to vote against him.",
+  "uncertainty_flags": []
+}

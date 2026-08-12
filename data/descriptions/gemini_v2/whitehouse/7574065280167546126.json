@@ -1,0 +1,76 @@
+{
+  "video_id": "7574065280167546126",
+  "visual_action": "Donald Trump is shown giving a speech at a podium in front of a blue backdrop for the \"MCDONALD'S IMPACT SUMMIT 2025\". The video intersperses shots of him speaking with B-roll footage of the audience applauding, a McDonald's bag filled with hamburgers, and an embroidered blue cloth with the Presidential Seal and the text \"Donald J. Trump 45-47\". There is also a montage of Trump shaking hands with various people and posing for photos in front of American flags. The video concludes with a black-and-white shot of the White House and the text \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears throughout the video giving a speech and is the central figure."
+    },
+    {
+      "name": "McDonald's",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The event is the \"MCDONALD'S IMPACT SUMMIT 2025,\" and the company's logo and branding are featured prominently. Trump speaks extensively about the company."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and concludes with a title card that reads \"THE WHITE HOUSE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE GOLDEN AGE",
+      "role": "overlay"
+    },
+    {
+      "text": "LOCALLY OWNED ★ NATIONALLY LOVED",
+      "role": "overlay"
+    },
+    {
+      "text": "MCDONALD'S IMPACT SUMMIT 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "Hamburger",
+      "role": "other"
+    },
+    {
+      "text": "Donald J Trump\n45-47",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump addresses an audience at a McDonald's summit, calling the company one of the greatest in the world. He humorously refers to himself as the \"very first former McDonald's fry cook ever to become president.\" He states that as president, he is fighting to support small businesses and create an economy where everyone, from cashiers to franchisees, can succeed. He concludes by linking the American flag with the McDonald's golden arches, praising the company's employees for their hard work.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "An uplifting and slightly grand instrumental track with an orchestral feel plays consistently in the background throughout the speech.",
+  "editing_pacing": "The video is a polished montage with multiple camera angles of the speaker, cutaways to an applauding audience, and cinematic B-roll footage. The pacing is steady and professional.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The entire video appears to be a synthetic, AI-generated creation. The visuals, while high-quality, have a hyper-realistic and slightly unnatural cinematic quality. Donald Trump's voice, though a close imitation, has a smooth, consistent cadence that is characteristic of AI voice cloning. The event itself, the \"McDonald's Impact Summit 2025,\" is likely fictional, created to stage this political message. The embroidered cloth reading \"Donald J Trump 45-47\" is a fabricated item to assert his status as both the 45th and 47th president.",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Admiration",
+    "Relatability"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump, as both the 45th and 47th President, is a champion of iconic American small businesses and their hardworking employees, as exemplified by his support for McDonald's.",
+  "intended_effect": "To generate positive sentiment for Donald Trump by portraying him as a presidential figure who is relatable and supportive of everyday American workers and businesses.",
+  "uncertainty_flags": [
+    "The determination that the video is entirely AI-generated is a judgment based on subtle visual and auditory cues; the generation is of a very high quality, making it difficult to be 100% certain without forensic analysis."
+  ]
+}

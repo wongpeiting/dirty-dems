@@ -1,0 +1,116 @@
+{
+  "video_id": "7468760397802163499",
+  "visual_action": "A news clip shows Donald Trump sitting in a chair in an office setting, next to another man in a suit. An off-screen reporter asks Trump a question. A CNN news chyron is visible at the bottom of the screen. The setting appears to be the Oval Office, with a fireplace in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown on screen answering a reporter's question and is the subject of the video's framing text."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A reporter asks Trump for his reaction to a Time Magazine cover featuring Elon Musk, and the on-screen text says \"Trump snaps about Elon Musk being on the cover of Time Magazine\"."
+    },
+    {
+      "name": "Time Magazine",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The magazine is the subject of both the reporter's question and Trump's dismissive response."
+    },
+    {
+      "name": "unnamed Japanese Prime Minister",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is sitting next to Trump, and the CNN chyron reads \"TRUMP, JAPANESE PRIME MINISTER MEETING AT WHITE HOUSE\"."
+    },
+    {
+      "name": "Bre S",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video displays on-screen text that reads \"Reply to Bre S's comment\"."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and news chyron are visible at the bottom of the screen throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Reply to Bre S's comment",
+      "role": "overlay"
+    },
+    {
+      "text": "Someone is going to be BIGLY mad.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump snaps about Elon Musk being on the cover of Time Magazine",
+      "role": "overlay"
+    },
+    {
+      "text": "DO YOU HAVE A REACTION",
+      "role": "overlay"
+    },
+    {
+      "text": "TO THE NEW TIME MAGAZINE",
+      "role": "overlay"
+    },
+    {
+      "text": "COVER THAT HAS ELON MUSK",
+      "role": "overlay"
+    },
+    {
+      "text": "SITTING BEHIND YOUR RESOLUTE DESK?",
+      "role": "overlay"
+    },
+    {
+      "text": "IS TIME MAGAZINE STILL IN BUSINESS?",
+      "role": "overlay"
+    },
+    {
+      "text": "I DIDN'T EVEN KNOW THAT.",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP, JAPANESE PRIME MINISTER MEETING AT WHITE HOUSE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump, \"Do you have a reaction to the new time magazine cover that has Elon musk sitting behind your resolute desk?\" After a brief pause where a translator speaks in Japanese, Trump replies dismissively, \"Is time magazine still in business? I didn't even know that.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of dialogue: a female reporter's voice asking a question, followed by a female voice speaking in Japanese (likely a translator), and finally Donald Trump's voice responding. There is no music.",
+  "editing_pacing": "The video is a single, static news clip with text overlays added to it. The text appears sequentially to match the spoken dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Schadenfreude"
+  ],
+  "cultural_references": [
+    "BIGLY"
+  ],
+  "central_claim": "Donald Trump is petty and angry about Elon Musk being featured on the cover of Time Magazine, as shown by his dismissive response to a reporter's question.",
+  "intended_effect": "To make the viewer mock Donald Trump and see him as insecure and jealous.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "7537359826104454414",
+  "visual_action": "The video is a slideshow of three static images. First, a screenshot of a tweet from 'FactPost' shows a picture of Donald Trump speaking at a podium next to a picture of AriZona Iced Tea cans. Second, a close-up photo of AriZona Iced Tea cans on a shelf appears with three broken heart emojis overlaid. Third, a screenshot of a Newsweek article about the potential price increase is displayed.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in a photo and named in the on-screen text: 'due to Trump's tariffs.'"
+    },
+    {
+      "name": "AriZona Beverage Company",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire post is about the company's product, AriZona Iced Tea, and its price. The company is named in the Newsweek article screenshot."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle '@factpostnews' are visible in the first screenshot of a tweet."
+    },
+    {
+      "name": "Newsweek",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The publication's name appears as the masthead for the article shown in the final screenshot."
+    },
+    {
+      "name": "Don Vultaggio",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is named and quoted in the Newsweek article screenshot as the person from the AriZona Beverage Company who commented on the price."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The publication is mentioned in the Newsweek article as the outlet Don Vultaggio spoke to."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews AriZona Iced Tea has been forced to consider raising their prices from $0.99 for the first time in over 30 years due to Trump's tariffs.",
+      "role": "overlay"
+    },
+    {
+      "text": "GREAT BUY! 99¢",
+      "role": "other"
+    },
+    {
+      "text": "💔💔💔",
+      "role": "overlay"
+    },
+    {
+      "text": "Newsweek\nSince the early 1990s, the AriZona Beverage Company has held the price of its \"Big Can\" drinks at $0.99, but Don Vultaggio told The New York Times: \"At some point the consumer is going to have to pay the price.\"\n\"I hate even the thought of it,\" Vultaggio added. \"It would be a hell of a shame after 30-plus years.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken dialogue, only a musical track.",
+  "emojis_present": [
+    "💔"
+  ],
+  "audio_music": "A slow, sad, and melancholic accordion-like melody plays throughout the video, creating a mournful and disappointed tone.",
+  "editing_pacing": "The video is a slow-paced slideshow of three static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "disappointment",
+    "blame"
+  ],
+  "cultural_references": [
+    "AriZona Iced Tea, as a well-known consumer product famous for its long-standing 99-cent price."
+  ],
+  "central_claim": "Donald Trump's tariffs are directly responsible for forcing AriZona Iced Tea to consider raising its iconic 99-cent price for the first time in over 30 years.",
+  "intended_effect": "To generate negative sentiment towards Donald Trump by linking his economic policies to the potential price increase of a beloved, affordable consumer product.",
+  "uncertainty_flags": []
+}

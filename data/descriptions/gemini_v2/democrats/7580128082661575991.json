@@ -1,0 +1,78 @@
+{
+  "video_id": "7580128082661575991",
+  "visual_action": "A screenshot of a tweet from the account 'FactPost' rotates and zooms into view against a black background. The tweet text discusses an FDA recall of shredded cheese due to metal fragments. Below the text are two images: a close-up of Joe Biden smiling and squinting, and a picture of shredded cheese. The video then cuts to a second image, a meme featuring a photo of Robert F. Kennedy Jr. in front of an American flag with the text 'LISTEN UP LIBERAL' and 'CHEESE METAL'. This image also rotates.",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of Robert F. Kennedy Jr. is the subject of the final meme, which reads 'LISTEN UP LIBERAL CHEESE METAL'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A close-up photo of Joe Biden is featured in the initial tweet screenshot next to a picture of shredded cheese."
+    },
+    {
+      "name": "Food and Drug Administration (FDA)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet text states, 'The FDA has recalled over 1 million bags of shredded cheese...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are displayed on the tweet screenshot shown in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The FDA has recalled over 1 million bags of shredded cheese due to possible contamination from metal fragments.",
+      "role": "overlay"
+    },
+    {
+      "text": "LISTEN UP LIBERAL",
+      "role": "meme_text"
+    },
+    {
+      "text": "CHEESE METAL",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "A distorted, reverbed male voice repeats the lyric, \"Beefing with my chick while I'm in jail.\"",
+  "emojis_present": [],
+  "audio_music": "A repetitive, heavily distorted, and reverbed audio clip from the song 'Beefing With My Chick' by Amilio plays throughout. The effect is chaotic and typical of meme audio.",
+  "editing_pacing": "The video consists of two static meme images that slowly rotate and zoom, transitioning from one to the next. The pacing is slow and driven by the looping audio.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor",
+    "absurdity"
+  ],
+  "cultural_references": [
+    "Kevin Gates",
+    "Amilio",
+    "'Listen up liberal' meme format",
+    "Memes mocking Robert F. Kennedy Jr.'s voice"
+  ],
+  "central_claim": "The post mocks Robert F. Kennedy Jr. by using an absurd meme that connects a fake news story about metal in cheese to the nonsensical phrase 'CHEESE METAL,' which is intended to parody his distinctive voice.",
+  "intended_effect": "To make the audience laugh at and ridicule Robert F. Kennedy Jr.",
+  "uncertainty_flags": [
+    "The 'FactPost' account appears to be a fabricated news source created for the meme."
+  ]
+}

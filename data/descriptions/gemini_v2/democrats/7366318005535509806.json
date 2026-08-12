@@ -1,0 +1,106 @@
+{
+  "video_id": "7366318005535509806",
+  "visual_action": "A political ad contrasts clips of Donald Trump speaking about immigrants with emotional footage of crying migrant children, families being separated at the border, and people in detention facilities. This is contrasted with a clip of Joe Biden signing a document, followed by footage of families being happily reunited. The ad concludes with more clips of Trump speaking at a rally and text on a black screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown and heard speaking throughout the ad, and his immigration policies are the central topic."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown signing a document and speaking, and the ad positions his actions as a positive contrast to Trump's. The on-screen text identifies it as a 'Biden ad'."
+    },
+    {
+      "name": "Biden for President",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A credit at the end of the ad reads 'PAID FOR BY BIDEN FOR PRESIDENT'."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A graphic of an article from The New York Times is shown on screen to support claims about Trump's future immigration plans."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "this new Biden ad doesn't hold back",
+      "role": "overlay"
+    },
+    {
+      "text": "2017 TRUMP RIPPED FAMILIES APART.",
+      "role": "overlay"
+    },
+    {
+      "text": "[Child] Daddy!",
+      "role": "overlay"
+    },
+    {
+      "text": "2021",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP SEPARATED MOTHERS FROM THEIR CHILDREN.",
+      "role": "overlay"
+    },
+    {
+      "text": "NOW TRUMP WILL DO SO MUCH WORSE.",
+      "role": "overlay"
+    },
+    {
+      "text": "[Child] I don't want them to stop my father.",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times",
+      "role": "other"
+    },
+    {
+      "text": "Sweeping Raids, Giant Camps and Mass Deportations: Inside Trump's 2025 Immigration Plans",
+      "role": "other"
+    },
+    {
+      "text": "[Child] I don't want them to deport him.",
+      "role": "overlay"
+    },
+    {
+      "text": "STOP TRUMP.",
+      "role": "overlay"
+    },
+    {
+      "text": "PAID FOR BY BIDEN FOR PRESIDENT",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The ad features multiple audio clips of Donald Trump describing immigrants as people who 'bring in drugs,' 'crime,' and are 'rapists.' He also calls them 'animals' and justifies family separation as a deterrent, saying 'they don't come.' Trump promises to 'begin the largest deportation operation in American history.' This is contrasted with a news report about the Biden administration creating a task force to 'reunite families,' and a clip of Joe Biden stating that separating children from parents 'violates every notion of who we are as a nation.' The audio also includes the sound of children crying and speaking pleadingly.",
+  "emojis_present": [],
+  "audio_music": "A dramatic and ominous, non-lyrical score plays throughout the video, increasing in tension. The music is layered with the sounds of children crying, which enhances the emotional and distressing tone of the ad.",
+  "editing_pacing": "The video uses fast-paced cuts, alternating between clips of Donald Trump speaking, text overlays, and emotionally charged B-roll footage of crying children and families at the border. The editing creates a stark contrast between the negative imagery associated with Trump's policies and brief, positive imagery of family reunions under Biden.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Sadness",
+    "Anger",
+    "Empathy"
+  ],
+  "cultural_references": [
+    "The New York Times"
+  ],
+  "central_claim": "Donald Trump enacted cruel family separation policies and dehumanized immigrants during his presidency, and he plans to implement even more extreme mass deportations if re-elected, while Joe Biden has worked to reunite these families.",
+  "intended_effect": "To evoke fear and anger towards Donald Trump's immigration policies and rhetoric, and to position Joe Biden as a compassionate leader in order to persuade viewers to vote against Trump.",
+  "uncertainty_flags": []
+}

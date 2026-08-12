@@ -1,0 +1,57 @@
+{
+  "video_id": "7559664284779711799",
+  "visual_action": "Melania Trump stands at a podium with the Seal of the President of the United States, delivering a formal address. She is in a well-lit room, wearing a black blazer and white collared shirt. The video is primarily a static, medium shot of her speaking. At the end, the video cuts to a black and white credit sequence showing the White House.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Is the sole speaker shown on screen for the majority of the video, delivering an address."
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Melania Trump repeatedly refers to him by name ('President Putin') as the person she has been communicating and cooperating with."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a credit screen that reads 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FLOTUS Announces Efforts to Bring Ukrainian Children Home ❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "First Lady Melania Trump gives a speech announcing diplomatic efforts with Russian President Vladimir Putin to reunite Ukrainian children with their families. She states she has had an \"open channel of communication\" with Putin for the past three months, following a letter she sent him \"last August.\" She reports that this cooperation has resulted in the successful reunification of eight children with their families in the last 24 hours.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists entirely of Melania Trump's spoken words, with natural room acoustics. There is no music or other sound.",
+  "editing_pacing": "The editing is very slow, consisting of a single static talking-head shot for the duration of the speech, followed by a brief credit sequence at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "compassion",
+    "hope"
+  ],
+  "cultural_references": [],
+  "central_claim": "Melania Trump has successfully negotiated with Vladimir Putin to begin reuniting Ukrainian children, who were in Russia, with their families.",
+  "intended_effect": "To portray Melania Trump as a compassionate and effective diplomat achieving positive humanitarian results.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,92 @@
+{
+  "video_id": "7427943595694427438",
+  "visual_action": "Musician Lizzo speaks at a podium at an indoor political rally in Detroit, Michigan. The backdrop is covered in signs for the Harris/Walz campaign. The crowd is shown cheering and holding up signs.",
+  "cast": [
+    {
+      "name": "Lizzo",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Lizzo is the main speaker in the video and is identified by an on-screen text overlay: \"Lizzo: 'It's about damn time!!'\"."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Lizzo's speech is about America being ready for its \"first woman president\" at a rally for the \"HARRIS WALZ\" ticket, whose names appear on signs and the backdrop."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on campaign signage reading \"HARRIS WALZ\" on the backdrop and held by the crowd."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the official @democrats account and features a rally for the Democratic presidential ticket."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Lizzo: \"It's about damn time!!\" 🎉",
+      "role": "overlay"
+    },
+    {
+      "text": "DETROIT, MI",
+      "role": "chyron"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "IT'S ABOUT DAMN TIME",
+      "role": "other"
+    },
+    {
+      "text": "DETROIT votes EARLY",
+      "role": "other"
+    },
+    {
+      "text": "vote",
+      "role": "other"
+    },
+    {
+      "text": "MICHIGAN",
+      "role": "other"
+    },
+    {
+      "text": "MADAM PRESIDENT",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Lizzo asks the audience, \"if you ask me if America's ready for its first woman president, I only got one thing to say: It's about damn time!\" She repeats the line to enthusiastic cheers from the crowd. She concludes by saying, \"I love you all, God bless you, God bless America, and I will see you at the polls, baby! Let's go!\"",
+  "emojis_present": [
+    "🎉"
+  ],
+  "audio_music": "An upbeat, funky R&B track plays throughout the video, creating a celebratory and high-energy atmosphere that complements Lizzo's enthusiastic speech.",
+  "editing_pacing": "The video uses a few cuts between a medium shot of Lizzo at the podium, a wider shot of the stage, and shots of the cheering crowd. The pacing is standard for a rally highlight clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "celebration",
+    "pride"
+  ],
+  "cultural_references": [
+    "Lizzo",
+    "\"About Damn Time\" (Lizzo song)"
+  ],
+  "central_claim": "Musician Lizzo argues it is \"about damn time\" for America to elect a woman president, offering an enthusiastic endorsement for the Harris/Walz ticket at a campaign rally.",
+  "intended_effect": "To generate excitement and support for the Democratic ticket by leveraging Lizzo's celebrity appeal and framing the election of a female president as a historic and celebratory moment.",
+  "uncertainty_flags": []
+}

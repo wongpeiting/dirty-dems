@@ -1,0 +1,108 @@
+{
+  "video_id": "7108508949229522222",
+  "visual_action": "A woman speaks directly to the camera in a talking-head format. In the background, an animated bar chart illustrates changes in wealth distribution in the U.S. between the years 2000 and 2021. The chart compares the share of household wealth held by the \"Top 1%\" versus the \"Bottom 90%,\" showing the gap closing and then inverting, with the top 1% eventually holding more wealth. The speaker points to the chart data as she makes her arguments.",
+  "cast": [
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A woman appears on screen for the entire video, speaking directly to the camera and presenting the post's argument."
+    },
+    {
+      "name": "Top 1% of earners",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about the increasing share of wealth held by this group, referred to as the 'Top 1%' on screen and the 'ultra-wealthy' in the audio."
+    },
+    {
+      "name": "Federal Reserve",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'SOURCE: Federal Reserve' appears on the on-screen graphic."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Top 1% Now Has Larger Share Of Wealth Than Bottom 90%",
+      "role": "overlay"
+    },
+    {
+      "text": "SOURCE: Federal Reserve",
+      "role": "overlay"
+    },
+    {
+      "text": "Household Wealth in U.S.",
+      "role": "overlay"
+    },
+    {
+      "text": "👨‍💼💰",
+      "role": "overlay"
+    },
+    {
+      "text": "👷👩🧑🏿",
+      "role": "overlay"
+    },
+    {
+      "text": "26.8%",
+      "role": "overlay"
+    },
+    {
+      "text": "38%",
+      "role": "overlay"
+    },
+    {
+      "text": "Top 1%",
+      "role": "overlay"
+    },
+    {
+      "text": "Bottom 90%",
+      "role": "overlay"
+    },
+    {
+      "text": "2000",
+      "role": "overlay"
+    },
+    {
+      "text": "32.3%",
+      "role": "overlay"
+    },
+    {
+      "text": "30.2%",
+      "role": "overlay"
+    },
+    {
+      "text": "2021",
+      "role": "overlay"
+    },
+    {
+      "text": "It's time for the ultra-wealthy to pay their fair share in taxes.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The speaker argues that wealth inequality in America has increased over the past two decades, which she claims proves that \"trickle-down economics does not work for the American people.\" She presents data showing that in 2000, the bottom 90% of Americans held nearly 40% of the nation's wealth while the top 1% held about 27%. She contrasts this with data from the previous year (2021), stating that the top 1% now holds more wealth than the middle and lower classes combined. She concludes, \"It's time to ensure that the ultra-wealthy are paying their fair share in taxes.\"",
+  "emojis_present": [
+    "👨‍💼",
+    "💰",
+    "👷",
+    "👩",
+    "🧑🏿"
+  ],
+  "audio_music": "The video consists of speech only, with no background music or sound effects.",
+  "editing_pacing": "The video uses a static talking-head shot with animated background graphics that update to display different data points from the years 2000 and 2021.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "injustice"
+  ],
+  "cultural_references": [],
+  "central_claim": "Growing wealth inequality over the past two decades proves that trickle-down economics has failed, and the ultra-wealthy must be taxed more to pay their fair share.",
+  "intended_effect": "To persuade viewers that wealth inequality is a critical and worsening problem, and to build support for policies that increase taxes on the wealthiest Americans.",
+  "uncertainty_flags": []
+}

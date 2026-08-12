@@ -1,0 +1,119 @@
+{
+  "video_id": "7610986343606390029",
+  "visual_action": "A montage of clips showing law enforcement officers apprehending and deporting people. The officers wear vests that say \"POLICE BORDER PATROL\" and \"POLICE ICE\". People, mostly young men, are shown being escorted in handcuffs, boarding airplanes at day and night, and sitting inside a packed airplane. One shot shows a phone displaying a satirical Instagram post for a \"CBP HOME\" app that promises a financial bonus for \"self deportation\". The video includes shots of planes on the tarmac and one taking off. It ends with a black-and-white logo for \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Unnamed migrants",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is a montage centered on groups of people being apprehended by law enforcement and boarded onto airplanes for deportation."
+    },
+    {
+      "name": "U.S. Customs and Border Protection (CBP)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Officers are shown wearing vests that say \"POLICE U.S. BORDER PATROL\", and a satirical on-screen ad is for a \"CBP HOME\" app."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Officers are shown wearing vests that say \"POLICE ICE\" and \"POLICE ERO\" (Enforcement and Removal Operations, an ICE directorate)."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with a logo screen reading \"THE WHITE HOUSE\"."
+    },
+    {
+      "name": "Department of Homeland Security (DHS)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A mock Instagram post shown on a phone is attributed to the DHS, with text reading \"dhs homeland security ad for self deportation\" and showing it was \"Liked by dhsgov\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POLICE BORDER PATROL",
+      "role": "other"
+    },
+    {
+      "text": "Instagram",
+      "role": "overlay"
+    },
+    {
+      "text": "CBP HOME",
+      "role": "overlay"
+    },
+    {
+      "text": "Receive a $1,000 credit bonus",
+      "role": "overlay"
+    },
+    {
+      "text": "Continue",
+      "role": "overlay"
+    },
+    {
+      "text": "Liked by dhsgov",
+      "role": "overlay"
+    },
+    {
+      "text": "dhs homeland security ad for self deportation",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE U.S. BORDER PATROL",
+      "role": "other"
+    },
+    {
+      "text": "POLICE ERO",
+      "role": "other"
+    },
+    {
+      "text": "POLICE ICE",
+      "role": "other"
+    },
+    {
+      "text": "CLYDE",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio consists entirely of the lyrics to the song \"You'll Always Find Your Way Back Home.\" The lyrics speak of leaving and returning, stating \"You can say goodbye and you can say hello, but you'll always find a way back home,\" and \"everybody knows you'll always find a way back home.\"",
+  "emojis_present": [
+    "📲"
+  ],
+  "audio_music": "The video is set to the upbeat, optimistic Disney pop-rock song \"You'll Always Find Your Way Back Home\" from \"Hannah Montana: The Movie.\" The cheerful music plays continuously, creating a starkly ironic contrast with the visuals of arrests and deportations.",
+  "editing_pacing": "The video is a fast-paced montage with rapid cuts between different scenes of immigration enforcement actions.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video features a staged, satirical advertisement for a fake government app called \"CBP Home.\" This ad, presented as an Instagram post, uses cartoonish graphics to offer a \"$1,000 credit bonus\" for \"self deportation,\" which is a fabrication designed to mock immigrants.",
+  "emotions_signaled": [
+    "Irony",
+    "Mockery",
+    "Triumph",
+    "Intimidation"
+  ],
+  "cultural_references": [
+    "The song \"You'll Always Find Your Way Back Home\" from the Disney movie \"Hannah Montana: The Movie\", starring Miley Cyrus.",
+    "Instagram"
+  ],
+  "central_claim": "The White House is actively enforcing immigration laws by deporting large numbers of people who are in the country illegally, sending them \"back home.\"",
+  "intended_effect": "To signal to supporters that the administration is tough on illegal immigration, while simultaneously mocking and intimidating undocumented immigrants.",
+  "uncertainty_flags": [
+    "The \"CBP Home App\" is treated as a satirical fabrication for the purpose of this analysis, but its absolute non-existence as a real-world proposal cannot be confirmed."
+  ]
+}

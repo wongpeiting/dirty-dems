@@ -1,0 +1,71 @@
+{
+  "video_id": "7433796576327273770",
+  "visual_action": "Kamala Harris and Tim Walz are shown standing together, seemingly backstage at an event. As an unseen announcer casts California's votes for Harris, she looks up and appears emotional. Walz and others begin to cheer and clap enthusiastically. Walz then shakes Harris's hand and gives her a hug to congratulate her.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her face is shown reacting to the announcement, and she is named in the on-screen text (\"the moment Kamala Harris became our nominee\") and audio (\"Kamala Harris\")."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face is shown standing next to Kamala Harris and congratulating her."
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "unknown",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice announces, \"California, we proudly cast our 482 votes for the next President, Kamala Harris.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the moment Kamala Harris became our nominee. today we get out and vote!",
+      "role": "overlay"
+    },
+    {
+      "text": "California, we proudly cast our 482 votes",
+      "role": "chyron"
+    },
+    {
+      "text": "for the next President, Kamala Harris.",
+      "role": "chyron"
+    },
+    {
+      "text": "[cheers]",
+      "role": "chyron"
+    },
+    {
+      "text": "Congratulations.",
+      "role": "chyron"
+    },
+    {
+      "text": "Amazing.",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An announcer for the California delegation proudly casts their 482 votes for Kamala Harris to be the next President. This is followed by loud cheering. Tim Walz then congratulates Harris, saying \"Congratulations\" and \"Amazing.\"",
+  "emojis_present": [],
+  "audio_music": "Diegetic audio from the event, consisting of a spoken announcement followed by loud cheers and applause from a crowd. No music is present.",
+  "editing_pacing": "The video consists of a single, continuous shot capturing the event in real time.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "celebration",
+    "inspiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris has officially secured the Democratic presidential nomination, a celebratory moment that should motivate people to vote.",
+  "intended_effect": "To generate excitement and pride around Kamala Harris's nomination and to encourage viewers to vote.",
+  "uncertainty_flags": []
+}

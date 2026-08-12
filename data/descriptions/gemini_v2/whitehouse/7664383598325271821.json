@@ -1,0 +1,61 @@
+{
+  "video_id": "7664383598325271821",
+  "visual_action": "In a crowded soccer stadium, Donald Trump stands on a winners' podium alongside other officials and awards gold medals to a line of soccer players in red and yellow uniforms. The players receive the medals, shake hands, and walk off the podium. Banners in the background read \"FIFA WORLD CUP 2026 THE FINAL\" and \"CHAMPIONS\". The final shot shows the entire team celebrating with a trophy on the podium as Trump claps beside them.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the central figure shown on a podium awarding medals to soccer players."
+    },
+    {
+      "name": "FIFA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads \"POTUS gives medals to the FIFA World Cup Champions\" and a banner in the background reads \"FIFA WORLD CUP 2026\"."
+    },
+    {
+      "name": "Spain men's national football team",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A team of soccer players wearing red and yellow uniforms, consistent with Spain's national team, are shown receiving medals. A Spanish flag is also visible in the background."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POTUS gives medals to the FIFA World Cup Champions",
+      "role": "caption"
+    },
+    {
+      "text": "FIFA WORLD CUP 2026 THE FINAL",
+      "role": "other"
+    },
+    {
+      "text": "CHAMPIONS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of an upbeat song with Spanish vocals.",
+  "emojis_present": [],
+  "audio_music": "A high-energy, celebratory reggaeton or Latin pop song with a strong beat and male vocals in Spanish plays throughout the entire video.",
+  "editing_pacing": "The video consists of a few static shots of the medal ceremony, with one cut to a wider view of the team celebrating at the end. The pacing is standard.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Donald Trump has been digitally composited into footage of a soccer medal ceremony. He is shown awarding medals to players, appearing to replace the original dignitaries who were present at the event.",
+  "emotions_signaled": [
+    "Pride",
+    "Celebration",
+    "Excitement"
+  ],
+  "cultural_references": [
+    "FIFA World Cup"
+  ],
+  "central_claim": "Donald Trump, as President, presided over the 2026 FIFA World Cup final, awarding medals to the winning team.",
+  "intended_effect": "To create a sense of pride by portraying Donald Trump as a leader on the world stage at a major international sporting event.",
+  "uncertainty_flags": []
+}

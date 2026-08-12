@@ -1,0 +1,105 @@
+{
+  "video_id": "7419723262826925354",
+  "visual_action": "A static selfie of Kamala Harris and Joe Biden, both smiling at the camera. Text is overlaid on top of the image in a list format. In the background, a blue sign says 'DEMOCRATS PROTECT ABORTION' and another partially visible sign says 'STATE HOUSE'.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is shown prominently in the selfie and named in the on-screen text: 'Kamala Harris and Tim Walz win the election'."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text as the running mate: 'Kamala Harris and Tim Walz win the election'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned negatively in the on-screen text: 'We never have to listen to Trump lie about our democracy or rant about Hannibal Lecter ever again'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post's goals include winning a 'Democratic House and Senate', and a sign in the background reads 'DEMOCRATS PROTECT ABORTION'. The account is also @democrats."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown smiling in the selfie alongside Kamala Harris but is not mentioned in the text, which focuses on the Harris/Walz ticket."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Our Fall Wish List:",
+      "role": "overlay"
+    },
+    {
+      "text": "-Kamala Harris and Tim Walz win the election",
+      "role": "overlay"
+    },
+    {
+      "text": "-We win a Democratic House and Senate",
+      "role": "overlay"
+    },
+    {
+      "text": "-We protect reproductive freedom",
+      "role": "overlay"
+    },
+    {
+      "text": "-We protect voting rights",
+      "role": "overlay"
+    },
+    {
+      "text": "-We never have to listen to Trump lie about our democracy or rant about Hannibal Lecter ever again",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATS PROTECT ABORTION",
+      "role": "other"
+    },
+    {
+      "text": "Unite for Kamala Harris",
+      "role": "other"
+    },
+    {
+      "text": "STATE HOU",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only music.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, somewhat dreamy indie pop track ('Everything Is Embarrassing' by Sky Ferreira) plays throughout, creating a hopeful and aspirational mood that aligns with the 'Wish List' theme.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Hope",
+    "Aspiration",
+    "Party Pride",
+    "Antagonism"
+  ],
+  "cultural_references": [
+    "Hannibal Lecter"
+  ],
+  "central_claim": "The Democratic Party's goals for the fall are to elect the Harris/Walz ticket, win control of Congress, protect rights, and ensure Donald Trump is no longer a part of the political discourse.",
+  "intended_effect": "To energize and rally Democratic voters around a clear set of policy and electoral goals while reinforcing negative views of Donald Trump.",
+  "uncertainty_flags": [
+    "The face-ID context did not detect Joe Biden, but he is clearly visible in the selfie.",
+    "Handwritten text on a blue sticky note is partially illegible but appears to say 'Unite for Kamala Harris'."
+  ]
+}

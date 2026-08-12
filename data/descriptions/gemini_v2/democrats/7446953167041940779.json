@@ -1,0 +1,65 @@
+{
+  "video_id": "7446953167041940779",
+  "visual_action": "Joe Biden stands at a podium with the presidential seal, flanked by American flags, delivering a speech directly to the camera in what appears to be a press room or official venue. The shot is static and frames him from the chest up.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person on screen, speaking for the duration of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post's caption reads \"Trump will inherit a strong economy...\". Biden's speech repeatedly refers to the \"next president,\" implying Trump."
+    },
+    {
+      "name": "Herbert Hoover",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Biden mentions him by name as a point of comparison: \"...or, like Herbert Hoover, be the only president to lose jobs in his administration?\""
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Biden mentions him by name when discussing factors affecting inflation: \"...Putin's war in Ukraine...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Come back to this in 4 years.",
+      "role": "overlay"
+    },
+    {
+      "text": "DURING MY PRESIDENCY, WE CREATED 60 MILLION NEW JOBS IN AMERICA. WILL THE NEXT PRESIDENT CREATE JOBS? OR, LIKE HERBERT HOOVER, BE THE ONLY PRESIDENT TO LOSE JOBS IN HIS ADMINISTRATION? DURING MY PRESIDENCY, WE SEE THE LOWEST AVERAGE UNEMPLOYMENT RATE OF ANY ADMINISTRATION IN 50 YEARS. WILL THE UNEMPLOYMENT BE HIGHER OR LOWER IN THE NEXT FOUR YEARS? WE HAVE HAD A STRONG ECONOMIC GROWTH OF 3% ON AVERAGE ON A YEARLY BASIS. WILL THE NEXT PRESIDENT HAVE A STRONGER OR WEAKER ECONOMIC GROWTH? AND INFLATION. YES, INFLATION. WE'RE BATTLING THROUGH WORLDWIDE EFFECTS OF THE PANDEMIC, PUTIN'S WAR IN UKRAINE AND SUPPLY CHAIN DISRUPTIONS. I'M LEAVING THE NEXT PRESIDENT WITH AN INFLATION THAT'S NEAR 2%. WHERE WILL INFLATION BE AT THE END OF THE NEXT PRESIDENT'S TERM? LOOK, THESE ARE SIMPLE, WELL ESTABLISHED ECONOMIC BENCHMARKS USED TO MEASURE THE STRENGTH OF ANY ECONOMY, THE SUCCESS OR FAILURE OF ANY PRESIDENT'S FOUR YEARS IN OFFICE. THEY'RE NOT POLITICAL OR RHETORICAL OPINIONS. THEY'RE JUST FACTS.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Joe Biden outlines what he presents as the economic successes of his presidency, including creating \"60 million new jobs,\" achieving the lowest average unemployment in 50 years, strong economic growth, and lowering inflation to near 2%. He repeatedly poses rhetorical questions, asking whether the \"next president\" will be able to match these figures or will perform worse, comparing a potential job-losing president to Herbert Hoover. He attributes inflationary pressures to the pandemic, Putin's war in Ukraine, and supply chain issues. He concludes by stating that these economic benchmarks are not opinions, but \"just facts.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Joe Biden's spoken remarks. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Confidence",
+    "Apprehension"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Biden administration has built a historically strong economy, and the next president (implied to be Donald Trump) will likely fail to match these achievements.",
+  "intended_effect": "To persuade viewers of the Biden administration's economic success and to create doubt about the economic competency of a potential Trump presidency.",
+  "uncertainty_flags": [
+    "President Biden's claim of having created '60 million new jobs' is stated clearly in both the audio and on-screen captions, but the figure itself is exceptionally high and may be a verbal misstatement."
+  ]
+}

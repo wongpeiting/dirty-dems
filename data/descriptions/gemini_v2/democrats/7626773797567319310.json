@@ -1,0 +1,84 @@
+{
+  "video_id": "7626773797567319310",
+  "visual_action": "The video presents a contrast using two consecutive four-panel grids. The first grid shows static, serious-looking headshots of four men in suits: Donald Trump (top left), Lindsey Graham (top right), Patrick McHenry (bottom left), and J.D. Vance (bottom right). The color is slightly desaturated. The video then cuts to a second four-panel grid with more vibrant, positive-looking photos: a politician waving next to an American flag, another speaking cheerfully at a microphone, one waving to a large crowd, and a happy couple posing for a photo. These images depict active campaigning and positive public engagement.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a static photo in the top-left panel of the first grid."
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a static photo in the top-right panel of the first grid."
+    },
+    {
+      "name": "Patrick McHenry",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a static photo in the bottom-left panel of the first grid."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a static photo in the bottom-right panel of the first grid."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The four individuals shown in the first, negatively-coded segment are all prominent Republican politicians, representing the 'old perspective' being criticized."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video was posted by the official @democrats account and contrasts the Republican figures with a positive, energetic montage, implying this represents the Democratic party's 'new perspective'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "stop there, and let me correct it",
+      "role": "overlay"
+    },
+    {
+      "text": "i wanna live a life from a new perspective!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists solely of the song \"New Perspective\" by Panic! At The Disco. The lyrics sung align with the on-screen text: \"Stop there, and let me correct it... I wanna live a life from a new perspective!\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat, energetic pop-rock track ('New Perspective' by Panic! At The Disco) plays throughout, creating a feeling of positive change and forward momentum.",
+  "editing_pacing": "The video is a simple slideshow, consisting of two static four-panel images with one cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disapproval",
+    "Hope",
+    "Optimism"
+  ],
+  "cultural_references": [
+    "New Perspective by Panic! At The Disco"
+  ],
+  "central_claim": "The Republican party, represented by figures like Trump and Graham, is an old and negative perspective, whereas the Democratic party offers a positive and new way forward.",
+  "intended_effect": "To encourage viewers to contrast the two parties and choose the Democrats for a more hopeful future.",
+  "uncertainty_flags": [
+    "The provided face-ID context indicated 'none detected', which is incorrect as Donald Trump is clearly visible. The other Republican figures were identified based on visual recognition.",
+    "The specific individuals in the second, pro-Democrat montage were not identified and appear to be generic representations of the party."
+  ]
+}

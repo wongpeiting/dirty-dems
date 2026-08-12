@@ -1,0 +1,90 @@
+{
+  "video_id": "7286595350389935391",
+  "visual_action": "The video is a slideshow of three images. First, a screenshot of a tweet from Kevin McCarthy (@SpeakerMcCarthy) that reads, \"Bring it on.\" Second, a screenshot of a tweet from Jon Cooper (@joncoopertweets) announcing that McCarthy lost his speakership due to empowering \"MAGA extremists.\" The final image is a photograph of Donald Trump and Kevin McCarthy standing together indoors, with text overlays reading \"✨MAGA Legacy✨\", \"Trump's Presidency 2017-2021 🙏\", and \"McCarthy's Speakership 2023-2023 🙏\".",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name, Twitter handle (@SpeakerMcCarthy), and face are shown in a tweet screenshot. A photo of him is shown with the label \"McCarthy's Speakership 2023-2023\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of him is shown with the label \"Trump's Presidency 2017-2021\". The video is framed as being about the \"MAGA Legacy\"."
+    },
+    {
+      "name": "Jon Cooper",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from his account, @joncoopertweets, is shown on screen."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text refers to \"MAGA extremists\" and the \"MAGA Legacy\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kevin McCarthy @SpeakerMcCarthy",
+      "role": "overlay"
+    },
+    {
+      "text": "Bring it on.",
+      "role": "overlay"
+    },
+    {
+      "text": "Jon Cooper @joncoopertweets",
+      "role": "overlay"
+    },
+    {
+      "text": "🚨🚨 MAJOR BREAKING: Kevin McCarthy's shortsighted decision to empower the MAGA extremists in his party just cost him the speakership.",
+      "role": "overlay"
+    },
+    {
+      "text": "✨MAGA Legacy✨",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's Presidency\n2017-2021 🙏",
+      "role": "overlay"
+    },
+    {
+      "text": "McCarthy's Speakership\n2023-2023🙏",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only a background music track.",
+  "emojis_present": [
+    "✨",
+    "🙏",
+    "🚨"
+  ],
+  "audio_music": "The video is set entirely to the Taylor Swift song 'Karma.' The upbeat pop track creates a mocking and triumphant tone, as the lyrics about someone getting their just deserts are paired with imagery of Kevin McCarthy's political downfall.",
+  "editing_pacing": "The video is a simple slideshow of static images with no cuts, transitions, or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Schadenfreude",
+    "Mockery",
+    "Triumph"
+  ],
+  "cultural_references": [
+    "Taylor Swift",
+    "Karma (song by Taylor Swift)"
+  ],
+  "central_claim": "Kevin McCarthy's very short tenure as Speaker was the direct and deserved consequence (karma) of his decision to align with Donald Trump and the MAGA movement.",
+  "intended_effect": "To mock Kevin McCarthy and the MAGA movement for his failed speakership and to frame it as a predictable political failure.",
+  "uncertainty_flags": []
+}

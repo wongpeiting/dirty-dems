@@ -1,0 +1,88 @@
+{
+  "video_id": "7240990196081282350",
+  "visual_action": "A slideshow of three still images of Ron DeSantis. The first shows him in white boots with a CNN chyron announcing his 2024 presidential run. The second shows him looking sullen next to a smiling Joe Biden, with a Fox News chyron calling his announcement a 'disaster on Twitter'. The third is a close-up of DeSantis with a wide-eyed expression, with text stating he would consider pardons for Jan. 6 rioters.",
+  "cast": [
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in all three photos and named in all on-screen text overlays."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a photograph standing next to Ron DeSantis."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo appears on the first on-screen text overlay."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo appears on the second on-screen text overlay."
+    },
+    {
+      "name": "Twitter",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the Fox News on-screen text: '...announcement a disaster on Twitter'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "CNN politics",
+      "role": "chyron"
+    },
+    {
+      "text": "Florida Gov. Ron DeSantis announces he's running for president in 2024",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS channel",
+      "role": "chyron"
+    },
+    {
+      "text": "Much-hyped Ron DeSantis presidential announcement a disaster on Twitter",
+      "role": "chyron"
+    },
+    {
+      "text": "Ron DeSantis declares candidacy for president",
+      "role": "chyron"
+    },
+    {
+      "text": "Ron DeSantis says he would consider presidential pardons for Jan. 6 rioters",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a popular comedic meme sound. A high-pitched voice says, 'It got worse... but I feel like it's about to get worser.' This is followed by a slap sound and a scream, after which the voice exclaims, 'It got worser! It got worser!'",
+  "emojis_present": [],
+  "audio_music": "A comedic meme audio track is laid over a trap instrumental beat ('Trip Wire [Trap Instrumental Beat] — Alvin Remix'). The voiceover uses a mocking tone to describe a situation escalating from bad to worse, punctuated by sound effects, to create a humorous and critical effect.",
+  "editing_pacing": "The video is a simple slideshow of three still images, with cuts timed to the beats and escalations in the comedic audio track.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "alarm"
+  ],
+  "cultural_references": [
+    "The audio is a popular internet/TikTok meme known as the 'It Got Worser' sound, used to comedically narrate a situation's decline."
+  ],
+  "central_claim": "Ron DeSantis's presidential campaign has been a series of escalating failures, culminating in a disastrous announcement and the adoption of extreme positions like considering pardons for January 6th rioters.",
+  "intended_effect": "To frame Ron DeSantis as an incompetent and failing candidate and to mock his presidential ambitions.",
+  "uncertainty_flags": []
+}

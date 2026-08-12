@@ -1,0 +1,98 @@
+{
+  "video_id": "7622725653682474254",
+  "visual_action": "The video is a slow-motion montage composed of several distinct scenes. Scene 1: Donald Trump walks confidently along a red carpet at a port/harbor, wearing a dark navy suit and a red \"Gulf of America\" hat, with American flags and a large cargo ship visible behind him; a Secret Service agent follows. Scene 2: Trump is shown from behind, silhouetted, walking on a stage with a patriotic red/white/blue banner at a packed indoor rally, crowd visible in background. Scene 3: Close-up of a stern-looking bald man in a dark suit with a burgundy tie at what appears to be a congressional event (likely a joint session/State of the Union-type address), with the overlay text \"Deporting illegals.\" Scene 4: Close-up of a bald man in a navy suit with a light blue tie, appearing to smirk slightly, at a similar legislative setting, with overlay text \"Securing elections.\" Scene 5: Close-up of Trump smiling broadly, wearing a navy suit with a purple/pink patterned tie and American flag lapel pin. Scene 6: Side profile close-up of Trump in a dark suit, raising his fist in a determined gesture, dramatic lighting. Scene 7: Close-up of a dark-haired woman wearing glasses and a black-and-white keffiyeh-patterned scarf/outfit, visibly frowning, seated at what appears to be a congressional chamber; a button reading \"FUCK ICE\" is visible; a man in front of her has eyes closed; overlay text reads \"Ending fraud.\" Scene 8: Close-up of a Black man in a dark suit with a light blue tie and a congressional pin, looking downcast and displeased, seated in what appears to be a congressional chamber; a green item is visible to his right; overlay text reads \"Securing the border.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Recognizable face and distinctive hair shown in multiple scenes; wears 'Gulf of America' red hat in Scene 1; prominent smiling and fist-raising shots"
+    },
+    {
+      "name": "unnamed bald man (Scene 3)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Close-up of stern bald man at congressional event paired with 'Deporting illegals' overlay; identity not confirmed from visual alone"
+    },
+    {
+      "name": "unnamed bald man (Scene 4)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Close-up of bald man with smirk at congressional event paired with 'Securing elections' overlay; identity not confirmed from visual alone"
+    },
+    {
+      "name": "Rashida Tlaib",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Dark-haired woman with glasses wearing black-and-white keffiyeh-patterned outfit, appearing displeased at congressional session; visually consistent with Rep. Rashida Tlaib; 'FUCK ICE' button visible on her outfit"
+    },
+    {
+      "name": "unnamed Black congressman (Scene 8)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Black man in dark suit with congressional pin, looking displeased, paired with 'Securing the border' overlay; identity not confirmed from visual alone"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Gulf of America",
+      "role": "overlay"
+    },
+    {
+      "text": "Deporting illegals",
+      "role": "caption"
+    },
+    {
+      "text": "Securing elections",
+      "role": "caption"
+    },
+    {
+      "text": "Ending fraud",
+      "role": "caption"
+    },
+    {
+      "text": "Securing the border",
+      "role": "caption"
+    },
+    {
+      "text": "FUCK ICE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "No substantive spoken dialogue is audible. The Whisper transcript only captures \"We'll be right back,\" which appears to be incidental or background audio. The video communicates primarily through visuals and on-screen text overlays rather than narration.",
+  "emojis_present": [],
+  "audio_music": "Described as \"original sound\" by the account; no music or narration is clearly identifiable from the transcript. The audio appears to be ambient or minimal, consistent with a dramatic slow-motion montage style.",
+  "editing_pacing": "Slow-motion editing throughout; cinematic close-ups and dramatic lighting; each scene lingers on a single subject for visual impact. Cuts between Trump-as-protagonist shots and reaction shots of apparent Democratic legislators seated at a congressional event. Patriotic imagery (flags, red carpet, rally stage) bookends the montage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride — evoked by heroic slow-motion shots of Trump walking confidently with American flags and a cargo ship",
+    "confidence/dominance — Trump's broad smile and raised-fist profile shot",
+    "disapproval/displeasure — reaction shots of legislators looking unhappy paired with policy action overlays"
+  ],
+  "cultural_references": [
+    "Slow-motion montage trope (cinematic hero walk)",
+    "'Gulf of America' — reference to Trump's renaming of the Gulf of Mexico",
+    "Keffiyeh — symbol of Palestinian solidarity, worn by the woman identified as Rashida Tlaib",
+    "'FUCK ICE' button — protest symbol against Immigration and Customs Enforcement"
+  ],
+  "central_claim": "Trump is taking decisive actions (deporting undocumented immigrants, securing elections, ending fraud, securing the border, renaming the Gulf of Mexico) that make Democrats visibly upset, framed as achievements for America.",
+  "intended_effect": "Produce pride and satisfaction in viewers who support Trump's agenda, while using unhappy Democratic legislators' faces as validation that the policies are working against their interests.",
+  "uncertainty_flags": [
+    "Identity of the bald man in Scene 3 ('Deporting illegals') is not confirmed — could be a Republican official reacting positively or another figure",
+    "Identity of the bald man in Scene 4 ('Securing elections') is not confirmed",
+    "Identity of the Black congressman in Scene 8 ('Securing the border') is not confirmed",
+    "The 'We'll be right back' transcript fragment is puzzling — may be from ambient audio bleed or a different source; the video does not appear to feature a broadcast segment",
+    "Rashida Tlaib identification is based on visual resemblance and contextual cues (keffiyeh, 'FUCK ICE' button, congressional setting) but not on-screen text confirmation"
+  ]
+}

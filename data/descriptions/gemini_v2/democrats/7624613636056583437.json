@@ -1,0 +1,49 @@
+{
+  "video_id": "7624613636056583437",
+  "visual_action": "An animated clip begins with a close-up of a single leaf falling from a tree branch against a dark, cloudy night sky. The camera pans down to reveal a large, two-story brick school building with a sign that reads 'JEROME HORWITZ ELEMENTARY'. A long line of cartoon children with slumped shoulders are trudging slowly and dejectedly into the school.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: '...after trump wanted $1.5 trillion for the military'."
+    },
+    {
+      "name": "U.S. Military",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text reads: '...$1.5 trillion for the military'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "heading into my defunded school after trump wanted $1.5 trillion for the military",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The only audio is a dramatic, instrumental music track.",
+  "emojis_present": [
+    "😞"
+  ],
+  "audio_music": "A dramatic and ominous cinematic score plays throughout the video, creating a sense of dread and sadness that matches the somber visuals.",
+  "editing_pacing": "The video consists of a single, continuous animated shot that slowly pans downward, revealing the scene in a deliberate and somber manner.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "dread",
+    "anger"
+  ],
+  "cultural_references": [
+    "The animated clip is from the movie 'Captain Underpants: The First Epic Movie'."
+  ],
+  "central_claim": "Donald Trump's desire for increased military spending directly leads to the defunding of public schools, creating a bleak environment for children.",
+  "intended_effect": "To evoke anger and sadness towards Donald Trump's budget priorities, portraying them as harmful to children's education.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is incorrect; there is no speech in the video, only instrumental music."
+  ]
+}

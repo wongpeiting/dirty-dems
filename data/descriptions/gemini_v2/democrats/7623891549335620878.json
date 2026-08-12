@@ -1,0 +1,65 @@
+{
+  "video_id": "7623891549335620878",
+  "visual_action": "The video displays a screenshot of a tweet from an account called \"FactPost.\" The tweet claims the CDC has paused testing for rabies, smallpox, and mpox due to layoffs. Below the text are two photos: one of Robert F. Kennedy Jr. making an intense, scrunched-up facial expression, and another of a gloved hand holding a blood vial and a swab. The video then slowly zooms in on the close-up photo of Kennedy's face, which remains on screen until the end.",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of him is featured prominently in the post, and the video zooms in on his face."
+    },
+    {
+      "name": "CDC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text of the tweet is about the CDC: \"The CDC has paused testing for...\" and \"...shrunk the CDC's virus teams.\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle of the account (@Factpostnews) are visible in the tweet screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost\n@Factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The CDC has paused testing for rabies, smallpox, and mpox.",
+      "role": "overlay"
+    },
+    {
+      "text": "This comes after widespread layoffs and resignations have significantly shrunk the CDC's virus teams.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio features a mashup of sound clips over music. A high-pitched female voice says, \"Like, oh, let's make fun of the girl who took a risk and put herself out there creatively.\" After a pause, a deep male voice says, \"Never.\" Another male voice then says, \"Oh dear.\"",
+  "emojis_present": [],
+  "audio_music": "The video features the dramatic, instrumental post-rock song \"Your Hand in Mine\" by Explosions In The Sky, which plays throughout. Layered on top of the music is a series of spoken-word audio clips from different sources, creating a meme-like, ironic effect.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot, followed by a slow, dramatic zoom-in on the photo of Robert F. Kennedy Jr.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "irony"
+  ],
+  "cultural_references": [
+    "The song 'Your Hand in Mine' by Explosions In The Sky, which is frequently used in memes to create a mock-serious or overly dramatic tone.",
+    "The audio is a mashup of popular sound clips used in TikTok memes. The female voice clip ('let's make fun of the girl...') originated from a viral video by creator Brittany Broski.",
+    "The slow zoom (Ken Burns effect) is a common meme editing technique used to add fake emotional weight to an image."
+  ],
+  "central_claim": "The post uses a screenshot of a tweet about the CDC's operational problems to mock Robert F. Kennedy Jr. by juxtaposing the news with his exaggerated facial expression.",
+  "intended_effect": "To ridicule Robert F. Kennedy Jr. and his public health stances by using him as a reaction image to alarming news, framed with ironic, dramatic music and audio.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet is not verifiable from the video alone; it may be a satirical account."
+  ]
+}

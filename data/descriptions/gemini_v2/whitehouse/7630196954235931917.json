@@ -1,0 +1,128 @@
+{
+  "video_id": "7630196954235931917",
+  "visual_action": "The video shows a clip from a Fox News broadcast, specifically 'The Ingraham Angle'. On a split screen, DHS Secretary Markwayne Mullin speaks during an interview, while a mugshot of an unnamed Black man is displayed on the right. Various news chyrons appear at the bottom of the screen throughout Mullin's speech. The video concludes with a black-and-white photo of a smiling woman, identified as Lauren Bullis, followed by text on a black screen.",
+  "cast": [
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking throughout the video and is identified by an on-screen chyron as 'MARKWAYNE MULLIN | DHS SECRETARY'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker repeatedly references the 'Biden administration' and on-screen chyrons read 'BIDEN NATURALIZED SUSPECT...' and 'UNDOING BIDEN'S BORDER MESS'."
+    },
+    {
+      "name": "unnamed suspect",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A mugshot of the man is shown while Markwayne Mullin discusses his alleged crimes. An on-screen chyron describes him as 'BIDEN NATURALIZED SUSPECT ACCUSED OF SPREE KILLING'."
+    },
+    {
+      "name": "Lauren Bullis",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of her is shown at the end of the video with the text 'In loving memory of Lauren Bullis', identifying her as a victim."
+    },
+    {
+      "name": "Tom Steyer",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A chyron appears with a quote attributed to him: 'TOM STEYER: \"ICE IS A CRIMINAL ORGANIZATION\"'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on screen, and the program is identified as 'The Ingraham Angle'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referred to as 'ICE' in a chyron quoting Tom Steyer."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This is our why.",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE INGRAHAM ANGLE",
+      "role": "chyron"
+    },
+    {
+      "text": "DEKALB COUNTY SHERIFF'S OFFICE",
+      "role": "overlay"
+    },
+    {
+      "text": "BIDEN NATURALIZED SUSPECT ACCUSED OF SPREE KILLING",
+      "role": "chyron"
+    },
+    {
+      "text": "MARKWAYNE MULLIN | DHS SECRETARY",
+      "role": "chyron"
+    },
+    {
+      "text": "TOM STEYER: \"ICE IS A CRIMINAL ORGANIZATION\"",
+      "role": "chyron"
+    },
+    {
+      "text": "UNDOING BIDEN'S BORDER MESS",
+      "role": "chyron"
+    },
+    {
+      "text": "In loving memory of Lauren Bullis",
+      "role": "overlay"
+    },
+    {
+      "text": "Open border policies have cost too many American lives.",
+      "role": "overlay"
+    },
+    {
+      "text": "This is our why.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Markwayne Mullin claims that a naturalized suspect had a known pattern of escalating criminal activity every April. He alleges that the Biden administration and law enforcement were aware of this pattern but allowed the individual to become a citizen instead of deporting him. Mullin states that this decision led to the man escalating his actions, resulting in \"the death of three innocent individuals.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of Markwayne Mullin's speaking voice for the majority of the clip. Towards the end, a somber, melancholic instrumental track ('The Wisp Sings' by Winter Aid) fades in and plays over the memorial photo and final text, creating a mournful and serious tone.",
+  "editing_pacing": "The editing is slow-paced, primarily consisting of a single, static news interview clip. The main visual changes are the different chyrons that appear at the bottom of the screen. The video cuts to a still memorial photo and then to text on a black screen at the conclusion.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Anger",
+    "Grief",
+    "Sadness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Biden administration's immigration policies are directly responsible for the deaths of innocent Americans because they allowed a known dangerous criminal to be naturalized instead of deported.",
+  "intended_effect": "To evoke anger and fear towards the Biden administration's immigration policies and to persuade viewers that these policies are making the country less safe.",
+  "uncertainty_flags": [
+    "The identity of the suspect in the mugshot is not specified.",
+    "The names of the other two victims mentioned are not provided.",
+    "Specific details about the alleged 'spree killing' are not given."
+  ]
+}

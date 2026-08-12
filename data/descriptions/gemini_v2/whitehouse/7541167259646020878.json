@@ -1,0 +1,65 @@
+{
+  "video_id": "7541167259646020878",
+  "visual_action": "Donald Trump, in a suit and red tie, stands outdoors speaking into a microphone to a crowd of people. Other individuals stand behind him. The video ends with a short black-and-white montage of the White House and a helicopter, with text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole speaker and the visual focus of the video."
+    },
+    {
+      "name": "National Guard",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly states, 'President Trump Thanks the National Guard & Law Enforcement in D.C.'"
+    },
+    {
+      "name": "Law Enforcement",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly states, 'President Trump Thanks the National Guard & Law Enforcement in D.C.'"
+    },
+    {
+      "name": "Pam",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "During his speech, Trump says, 'it's going to be, Pam, it's going to be at a level that's even far superior.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Thanks the National Guard & Law Enforcement in D.C.",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump states that crime numbers are \"way down\" to unprecedented levels and that he and others feel very safe. He thanks the audience, presumably law enforcement and military personnel, calling them \"incredible people\" who \"make the country run.\" He promises that D.C. will become the \"best capital ever\" and will look better than it ever has.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice speaking, with ambient background noise from an outdoor setting. There is no music or sound effects.",
+  "editing_pacing": "The video is primarily a single, static shot of Trump speaking. It concludes with a brief, black-and-white montage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Pride",
+    "Reassurance"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is taking credit for making Washington D.C. safer and is thanking law enforcement and the National Guard for their role in this achievement.",
+  "intended_effect": "To assure viewers that Trump is effectively managing crime and to foster gratitude and respect for law enforcement and the National Guard.",
+  "uncertainty_flags": [
+    "It is unclear who the person named 'Pam' is that Trump addresses in his speech."
+  ]
+}

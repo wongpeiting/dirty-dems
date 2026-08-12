@@ -1,0 +1,58 @@
+{
+  "video_id": "7627256230351867149",
+  "visual_action": "The video shows a young blonde woman (presumably Addison Rae, based on context) kneeling/sitting on the floor of what appears to be a production studio or rehearsal space, surrounded by equipment cases, speakers, and lighting rigs. She is wearing a white lace top and a black skirt/shorts, and is holding a blue object (appears to be a can or phone) in her hands. The camera appears to be handheld and somewhat shaky/blurry, panning around her across the ~8 frames. Overlaid on the upper portion of the video throughout is a screenshot of a tweet from the account @PopCrave (verified) reading: \"Addison Rae has filed a copyright claim against the Department of Homeland Security for using 'Diet Pepsi' on an ICE-related video.\"",
+  "cast": [
+    {
+      "name": "Addison Rae",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in the overlaid @PopCrave tweet: 'Addison Rae has filed a copyright claim...'; the woman shown on screen is contextually identified as Addison Rae via the music fingerprint ('Fame is a Gun — Addison Rae') and the studio/performance setting."
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the overlaid @PopCrave tweet: '...against the Department of Homeland Security for using Diet Pepsi on an ICE-related video.'"
+    },
+    {
+      "name": "Pop Crave",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet overlay shows the Pop Crave logo and handle @PopCrave as the source of the news."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pop Crave\n@PopCrave\nAddison Rae has filed a copyright claim against the Department of Homeland Security for using \"Diet Pepsi\" on an ICE-related video.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The Whisper transcript captures only repeated \"I\" sounds, suggesting either the audio is a song with minimal or indistinct lyrics, or the vocal content is not clearly speech. The ACRCloud fingerprint identifies the audio as \"Fame is a Gun\" by Addison Rae, which plays throughout the clip as background music. No spoken narration or dialogue is audible.",
+  "emojis_present": [],
+  "audio_music": "The audio track throughout the clip is \"Fame is a Gun\" by Addison Rae, as confirmed by the ACRCloud fingerprint. The song plays continuously under the visual content. It creates an ironic or pointed effect — using Addison Rae's own music to accompany a news story about her filing a copyright claim against the government for using a different one of her songs. The tone is light/upbeat relative to the legal subject matter.",
+  "editing_pacing": "Handheld, somewhat shaky camerawork with motion blur across several frames. The clip appears to be a single continuous shot panning around or zooming in/out on the subject. No cuts are visible between the keyframes. The overlaid tweet remains static throughout. Overall pacing is slow and casual.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "amusement/irony — the juxtaposition of Addison Rae's own song playing while a tweet about her copyright claim against the government is displayed",
+    "surprise or disbelief — the @democrats account captioning it 'yes exactly,' endorsing the action"
+  ],
+  "cultural_references": [
+    "Addison Rae — TikTok star and pop singer; her song 'Diet Pepsi' is the subject of the copyright claim described in the tweet overlay; her song 'Fame is a Gun' plays as the background audio, creating an ironic meta-reference",
+    "Diet Pepsi — Addison Rae's song, referenced in the @PopCrave tweet as the copyrighted work used without permission by DHS/ICE"
+  ],
+  "central_claim": "Addison Rae filed a copyright claim against the Department of Homeland Security for using her song \"Diet Pepsi\" in an ICE-related video, and the Democratic Party is signaling approval of this action.",
+  "intended_effect": "To generate viewer amusement and approval at the idea of a celebrity taking legal action against DHS/ICE over copyright use, framing it as a notable or fitting rebuke of the agency.",
+  "uncertainty_flags": [
+    "The woman on screen is not face-ID confirmed as Addison Rae by the InsightFace roster; she is inferred to be Addison Rae from the music fingerprint and studio context, but this is not certain.",
+    "The blue object she holds is ambiguous — could be a phone case or a can (possibly a Diet Pepsi can as a visual joke), but resolution is insufficient to confirm.",
+    "The @PopCrave tweet's authenticity as a real news event cannot be independently verified from the video alone; it may or may not be a real, accurately reported tweet.",
+    "No date is visible on the tweet overlay, so the timing of the copyright claim event cannot be confirmed from the video itself."
+  ]
+}

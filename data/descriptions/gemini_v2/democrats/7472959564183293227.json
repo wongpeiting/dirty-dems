@@ -1,0 +1,89 @@
+{
+  "video_id": "7472959564183293227",
+  "visual_action": "A static screenshot of a tweet from the account \"FactPost\" (@factpostnews). The tweet's text asks, \"Where's JD Vance?\". The tweet contains an image of Donald Trump and Elon Musk sitting side-by-side and smiling, in what appears to be a television studio setting. A news-style chyron at the bottom of the image reads \"EXCLUSIVE INTERVIEW WITH PRESIDENT TRUMP AND ELON MUSK\" and \"BREAKING NEWS\". A logo in the bottom left corner reads \"FOX ALT VS\".",
+  "cast": [
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post's caption is \"@J.D. Vance wya\" and the on-screen text asks \"Where's JD Vance?\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown visually in the image and is named in the on-screen chyron, \"PRESIDENT TRUMP\"."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown visually in the image, sitting next to Donald Trump, and is named in the on-screen chyron, \"ELON MUSK\"."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name \"FactPost\" and handle \"@factpostnews\" are visible as the author of the tweet shown on screen."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A logo that reads \"FOX ALT VS\" is visible in the corner of the interview image, referencing the news organization."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Where's JD Vance?",
+      "role": "overlay"
+    },
+    {
+      "text": "EXCLUSIVE INTERVIEW WITH PRESIDENT TRUMP AND ELON MUSK",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX ALT VS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue. The audio consists solely of a hip-hop music track.",
+  "emojis_present": [],
+  "audio_music": "The entire video features the energetic hip-hop track 'Sticky' by Tyler, The Creator. The music plays over the static image, giving the post a dynamic, meme-like feel.",
+  "editing_pacing": "Static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The image appears to be a staged fake news broadcast. The chyron ('EXCLUSIVE INTERVIEW WITH PRESIDENT TRUMP AND ELON MUSK') and the unusual 'FOX ALT VS' logo are likely fabricated and superimposed onto an image of Trump and Musk to create a satirical context for mocking J.D. Vance's absence.",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "Tyler, The Creator"
+  ],
+  "central_claim": "The post implies that J.D. Vance is absent from important events with key conservative-aligned figures like Donald Trump and Elon Musk, suggesting his irrelevance or exclusion.",
+  "intended_effect": "To mock J.D. Vance and encourage viewers to see him as unimportant or sidelined within his political sphere.",
+  "uncertainty_flags": [
+    "It is unclear if the 'FactPost' Twitter account is a real entity or part of the fabrication, but the news broadcast graphic within the tweet appears to be staged."
+  ]
+}

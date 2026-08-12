@@ -1,0 +1,79 @@
+{
+  "video_id": "7120392244682755374",
+  "visual_action": "A woman speaks directly to the camera against a plain white background. At the 5-second mark, a graphic appears behind her. The graphic, titled 'Republicans Repeatedly Vote Against Helping Americans,' depicts a stylized legislative chamber with blue and red sections. It cycles through three examples: a syringe icon with vote counts for an insulin bill, a baby bottle icon for a baby formula bill, and a gas can icon for a gas price gouging bill. In each case, the graphic shows that Democrats voted yes and a large number of Republicans voted no.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about the Republican Party's voting record. They are named in the opening caption ('Republicans are voting against the American people'), the main graphic ('Republicans Repeatedly Vote Against Helping Americans'), and throughout the narration."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The party is presented as the foil to the Republicans. Their votes are shown on screen ('220 DEMOCRATS VOTED YES') and they are mentioned in the audio ('voting against Democrats' plans'). The post is from the official 'democrats' account."
+    },
+    {
+      "name": "unnamed female speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is visually present and narrates the entire video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans are voting against the American people",
+      "role": "caption"
+    },
+    {
+      "text": "Republicans Repeatedly Vote Against Helping Americans",
+      "role": "overlay"
+    },
+    {
+      "text": "220 DEMOCRATS VOTED YES",
+      "role": "overlay"
+    },
+    {
+      "text": "193 REPUBLICANS VOTED NO",
+      "role": "overlay"
+    },
+    {
+      "text": "219 DEMOCRATS VOTED YES",
+      "role": "overlay"
+    },
+    {
+      "text": "192 REPUBLICANS VOTED NO",
+      "role": "overlay"
+    },
+    {
+      "text": "217 DEMOCRATS VOTED YES",
+      "role": "overlay"
+    },
+    {
+      "text": "203 REPUBLICANS VOTED NO",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman claims that Republicans are \"all talk and no action\" regarding helping Americans. She provides three examples of recent House votes: 193 Republicans voting against a bill to lower insulin costs, 192 voting against a bill to address the baby formula shortage, and 203 voting against a bill to combat gas price gouging. She concludes that Republicans' primary activity is \"voting against Democrats' plans to help the American people.\"",
+  "emojis_present": [],
+  "audio_music": "The video consists of a woman's spoken narration without any background music or sound effects.",
+  "editing_pacing": "The video is a static talking-head shot. The main editing consists of an informational graphic appearing behind the speaker, which then cycles through three different data points in a slideshow-like manner.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "frustration",
+    "disappointment",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican party consistently votes against legislation designed to help average Americans with critical issues like insulin costs, baby formula supply, and high gas prices.",
+  "intended_effect": "To persuade viewers that the Republican party is actively harming the interests of the American people and that the Democratic party is the one working to help them.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "7431693979982384427",
+  "visual_action": "A short, slow-paced slideshow using split-screen images to create contrasts. The first screen shows Kamala Harris at a podium at night, above Donald Trump at a podium during the day. The second screen shows a large, peaceful crowd at the Washington Monument at night, above a large crowd of protestors at the U.S. Capitol during the day, which includes Trump flags and signs about election fraud.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium in an image labeled 'hope'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium in an image labeled 'hate'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the official '@democrats' account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "hope vs hate",
+      "role": "overlay"
+    },
+    {
+      "text": "freedom vs fear",
+      "role": "overlay"
+    },
+    {
+      "text": "INVESTIGATE ELECTION FRAUD! PROSECUTE THOSE WHO ARE GUILTY",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A male voiceover delivers a philosophical quote: \"If you don't leave your past in the past, it will destroy your future. Live for what today has to offer.\"",
+  "emojis_present": [],
+  "audio_music": "The video features the slow, atmospheric, and melancholic song 'Cry' by Cigarettes After Sex, which plays continuously under a male voiceover, creating a somber and serious tone.",
+  "editing_pacing": "A slow-paced slideshow consisting of two static, split-screen compositions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "hope",
+    "fear",
+    "dread",
+    "solemnity"
+  ],
+  "cultural_references": [
+    "The song 'Cry' by Cigarettes After Sex.",
+    "Imagery strongly evocative of the January 6th United States Capitol attack."
+  ],
+  "central_claim": "The video frames the political choice between Democrats and Republicans as a stark moral contrast between hope and freedom versus hate and fear.",
+  "intended_effect": "To persuade viewers to associate the Democratic party with positive values and the Republican party under Donald Trump with negative, destructive forces.",
+  "uncertainty_flags": []
+}

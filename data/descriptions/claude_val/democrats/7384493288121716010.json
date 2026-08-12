@@ -1,0 +1,82 @@
+{
+  "video_id": "7384493288121716010",
+  "visual_action": "The video opens on a close-up of the Vice Presidential podium/lectern bearing the seal of the Vice President of the United States, flanked by American flags against a blue backdrop. It then cuts to wide and medium crowd shots inside a gymnasium-style arena, showing a large, diverse, energetic audience holding \"Biden Harris\" and \"Reproductive Freedom\" campaign signs. Subsequent frames show the full stage from a distance: a blue-draped stage with a row of American flags, a \"Trust Women\" banner above and a \"Restore Roe\" sign on the podium front, with a figure (face-ID'd as Kamala Harris) standing at the podium speaking. Crowd shots show supporters cheering, waving signs, and chanting. The video ends with a group of young supporters posing in front of the empty stage area, holding \"Biden Harris,\" \"Let's Go Joe,\" and smaller Biden-Harris signs, smiling and cheering.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Confirmed by authoritative face-ID; visible at the podium on stage with 'Trust Women' and 'Restore Roe' signage; the VP seal on the opening lectern also signals her role"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Account is @democrats; 'Biden Harris' campaign signage and 'Paid for by Biden for President' disclaimer visible on screen"
+    },
+    {
+      "name": "Biden-Harris Campaign",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Repeated 'Biden Harris' signs throughout crowd and 'PAID FOR BY BIDEN FOR PRESIDENT' disclaimer in OCR"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POV: You're fired up to restore Roe v. Wade",
+      "role": "overlay"
+    },
+    {
+      "text": "Trust WOMEN",
+      "role": "overlay"
+    },
+    {
+      "text": "Restore ROE",
+      "role": "overlay"
+    },
+    {
+      "text": "Reproductive FREEDOM",
+      "role": "overlay"
+    },
+    {
+      "text": "BIDEN HARRIS",
+      "role": "overlay"
+    },
+    {
+      "text": "LET'S GO Joe",
+      "role": "overlay"
+    },
+    {
+      "text": "PAID FOR BY BIDEN FOR PRESIDENT",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "No clearly transcribed spoken dialogue is provided in the transcript; the audio appears to be primarily music with crowd ambient noise. Kamala Harris is visible speaking at the podium but her words are not captured in the transcript. The crowd can be heard cheering.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, driving instrumental track identified as \"Nightcrawler\" by Zaenal Anwar plays from the start (~0.0s) and continues throughout the clip (~5.7s re-fingerprinted, consistent track). The music has an energetic, hype quality that underscores the rally atmosphere and crowd enthusiasm. Crowd cheering and ambient rally noise are audible beneath the music.",
+  "editing_pacing": "Fast-paced cuts between scenes: opening close-up of VP podium seal, then rapid crowd shots from multiple angles, wide stage shots, and a final group photo moment. The editing mimics a social-media POV format, building energy through quick transitions and crowd reaction shots. Slight camera movement/pan in crowd shots adds a handheld, immersive feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Enthusiasm and energy — conveyed by cheering crowd, upbeat music, and waving signs",
+    "Empowerment — conveyed by 'Trust Women,' 'Reproductive Freedom,' and 'Restore Roe' messaging",
+    "Rally excitement — conveyed by the packed gymnasium, diverse crowd holding signs, and fast editing"
+  ],
+  "cultural_references": [
+    "POV (point-of-view) TikTok format — the post opens with 'POV: You're fired up to restore Roe v. Wade,' a widely used TikTok storytelling convention that places the viewer in a first-person scenario"
+  ],
+  "central_claim": "Vice President Kamala Harris and the Biden-Harris campaign are rallying fired-up supporters around restoring Roe v. Wade and reproductive freedom as a central campaign issue.",
+  "intended_effect": "To energize viewers who support abortion rights, make them feel part of an enthusiastic movement, and motivate engagement or action around the Biden-Harris campaign's reproductive freedom platform.",
+  "uncertainty_flags": [
+    "Exact date and location of the rally are not specified in the provided context",
+    "Kamala Harris is visible at the podium but her spoken remarks are not captured in the transcript, so the content of her speech cannot be confirmed",
+    "The 'Restore Roe' sign on the podium front is partially obscured in some frames; OCR reads it as 'Restore Ro-' — likely 'Restore Roe'",
+    "No caption text was provided by the account beyond what appears on screen"
+  ]
+}

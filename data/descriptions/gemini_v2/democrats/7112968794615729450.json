@@ -1,0 +1,43 @@
+{
+  "video_id": "7112968794615729450",
+  "visual_action": "A static, close-up shot of Senator Elizabeth Warren speaking directly to the camera. She has short blonde hair, is wearing glasses, a black top, and a pink blazer. The background is an out-of-focus indoor setting.",
+  "cast": [
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the only person on screen, speaking for the entire video. The on-screen text also identifies her as 'Senator Warren'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Warren speaks about \"the Republicans who have worked for decades\" to overturn Roe v. Wade by appointing judges."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Warren on the overturning of Roe v. Wade",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Senator Elizabeth Warren argues that a \"small minority,\" specifically Republicans, have worked for decades to overturn Roe v. Wade. She claims they knew this goal was unpopular and couldn't be achieved through Congress or state ballot initiatives, so they instead focused on appointing \"extremist judges.\" She alleges these judges promised to follow the law but implicitly agreed to overturn the precedent, stating it was a \"wink wink, nod nod\" understanding to get them confirmed.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a woman's voice speaking, with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency",
+    "frustration",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican party subverted the democratic process by using judicial appointments over decades to overturn Roe v. Wade, knowing they couldn't achieve it through popular legislation.",
+  "intended_effect": "To generate anger towards the Republican party and the judicial confirmation process, and to mobilize voters who support abortion rights.",
+  "uncertainty_flags": []
+}

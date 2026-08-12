@@ -1,0 +1,56 @@
+{
+  "video_id": "7528520464495365390",
+  "visual_action": "The video starts with a static screenshot of a Rolling Stone article. The headline reads, \"TRUMP CLAIMS HE ‘NEVER WROTE A PICTURE IN MY LIFE.’ HE ACTUALLY DREW PLENTY OF THEM\". The video then cuts to a black-and-white line drawing of a city skyline with cars, stars, a moon, and what appears to be Donald Trump's signature at the bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen headline \"TRUMP CLAIMS HE 'NEVER WROTE A PICTURE IN MY LIFE'\" and his signature appears on the drawing shown."
+    },
+    {
+      "name": "Rolling Stone",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for \"Rolling Stone\" magazine is visible at the top of the article screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rolling Stone",
+      "role": "overlay"
+    },
+    {
+      "text": "SUBSCRIBE",
+      "role": "overlay"
+    },
+    {
+      "text": "A THOUSAND WORDS",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP CLAIMS HE ‘NEVER WROTE A PICTURE IN MY LIFE.’ HE ACTUALLY DREW PLENTY OF THEM",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice repeatedly asks, \"You sure about that?\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a repetitive, questioning voiceover layered on top of a simple, slap-like music track. The overall effect is mocking and skeptical.",
+  "editing_pacing": "The editing is very simple, consisting of one static shot of an article screenshot followed by a hard cut to another static shot of a drawing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "skepticism"
+  ],
+  "cultural_references": [
+    "The repeated audio line \"You sure about that?\" is a well-known meme from a sketch in the TV show 'I Think You Should Leave with Tim Robinson'."
+  ],
+  "central_claim": "Donald Trump is lying when he claims he has never drawn a picture, as evidenced by a Rolling Stone article and a drawing he signed.",
+  "intended_effect": "To mock Donald Trump, portray him as dishonest, and make viewers question his credibility.",
+  "uncertainty_flags": []
+}

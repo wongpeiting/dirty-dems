@@ -1,0 +1,60 @@
+{
+  "video_id": "7663544224318573838",
+  "visual_action": "Karoline Leavitt, wearing a pink blazer, speaks from the podium in the White House press briefing room. An overlay with text appears in the lower half of the screen as she speaks. The video ends with the White House logo on a black screen.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, shown in a close-up shot for the entire duration."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text \"THE WHITE HOUSE WASHINGTON\" is visible on the podium and in a final credit screen."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Karoline Leavitt refers to \"this president\" while speaking from the White House podium in 2026."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE WASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON\n\nHosting the World Cup\nhas Allowed the World to\nSee How Great America Is.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt states that hosting the World Cup has shown the world that the President and the United States can put on \"the greatest show in sports.\" She describes Americans as \"kind\" and \"hard-working\" and the U.S. as \"the best country on the planet.\" She adds that many foreign visitors have been pleasantly surprised by how lovely the country is and encourages everyone to visit and experience America for themselves.",
+  "emojis_present": [],
+  "audio_music": "Dialogue only, with no music or sound effects.",
+  "editing_pacing": "The video is a static, single shot of a talking head with simple text overlays appearing and disappearing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism"
+  ],
+  "cultural_references": [
+    "FIFA World Cup 2026"
+  ],
+  "central_claim": "Hosting the 2026 World Cup successfully demonstrated America's greatness and positive national character to the rest of the world.",
+  "intended_effect": "To make viewers feel proud of the United States and its ability to successfully host a major international event.",
+  "uncertainty_flags": []
+}

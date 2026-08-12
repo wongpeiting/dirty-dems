@@ -1,0 +1,89 @@
+{
+  "video_id": "7538934733309267214",
+  "visual_action": "The video opens with a vintage-style photograph of a young man with blonde hair sitting in a wicker chair with his arms crossed. It then cuts to a split-screen view of California Governor Gavin Newsom speaking at a podium in front of an audience. The top and bottom panels of the split-screen show the same footage but have different text overlays. This format continues as the text overlays change once more. Signs in the background read \"DEFEND DEMOCRACY\" and \"ELECTION RIGGING RESPONSE ACT\".",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the person shown speaking at the podium for the majority of the video, delivering the message contrasted in the on-screen text."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text mentions him by name: \"...they know what Donald Trump knows.\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to \"Republicans\" as the group seeking power through gerrymandering."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Ever since I was a kid...",
+      "role": "overlay"
+    },
+    {
+      "text": "I've been legit.",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans want the power that gerrymandering provides because they know what Donald Trump knows.",
+      "role": "overlay"
+    },
+    {
+      "text": "He will lose the midterms. Why else would you try to rig the system?",
+      "role": "overlay"
+    },
+    {
+      "text": "We're working through a very transparent, public process by putting the maps on the ballot and giving power to the people.",
+      "role": "overlay"
+    },
+    {
+      "text": "This will be the first redistricting that's ever done that. That's the difference.",
+      "role": "overlay"
+    },
+    {
+      "text": "LOS ANGELES 12:23 PM",
+      "role": "chyron"
+    },
+    {
+      "text": "DEFEND DEMOCRACY",
+      "role": "other"
+    },
+    {
+      "text": "ELECTION RIGGING RESPONSE ACT",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of a music track with lyrics.",
+  "emojis_present": [],
+  "audio_music": "The video features a continuous pop/hip-hop track with a confident but slightly melancholic tone. The music plays throughout the entire video. According to fingerprinting data, the track is initially 'Ever Since' by Mala kurka, and switches to 'Question of my first' by INISIAL BW at the 6-second mark.",
+  "editing_pacing": "The video has slow pacing. It consists of a still image followed by a static, split-screen shot of a person speaking. The primary edits are the changes in the text overlays rather than cuts in the video footage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Righteousness",
+    "Confidence",
+    "Suspicion"
+  ],
+  "cultural_references": [
+    "The format 'Ever since I was a kid... I've been legit' is a reference to a TikTok meme trend used to assert authenticity or a long-held characteristic."
+  ],
+  "central_claim": "Democrats are ensuring fair elections through transparent redistricting, whereas Republicans are attempting to rig the system with gerrymandering because they anticipate losing.",
+  "intended_effect": "To portray Democrats as protectors of democracy and fair processes, while casting Republicans as corrupt and afraid of the will of the people.",
+  "uncertainty_flags": [
+    "The provided authoritative face-ID did not detect Gavin Newsom, although he is clearly the person pictured speaking.",
+    "The provided transcript is empty, but the music track contains audible lyrics which match some of the on-screen text.",
+    "The audio fingerprint identifies two distinct music tracks, but to the human ear, it sounds like one continuous song."
+  ]
+}

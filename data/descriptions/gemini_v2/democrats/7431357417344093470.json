@@ -1,0 +1,48 @@
+{
+  "video_id": "7431357417344093470",
+  "visual_action": "Vice President Kamala Harris stands at a podium with the Seal of the Vice President of the United States, speaking to an unseen audience at night. She is flanked by two large American flags.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visually identified on screen, speaking at a podium."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, \"Kamala Harris speaks on Trump calling fellow Americans, 'the enemy from within.'\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kamala Harris speaks on Trump calling fellow Americans, “the enemy from within.”",
+      "role": "overlay"
+    },
+    {
+      "text": "VP Harris: “As Americans, we rise and fall together.”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Kamala Harris delivers a speech arguing that political disagreement does not make fellow Americans \"the enemy from within.\" She emphasizes that they are family, neighbors, and coworkers. She states, \"As Americans, we rise and fall together,\" and laments the division and chaos in the country, concluding with the hopeful message, \"It doesn't have to be this way.\"",
+  "emojis_present": [],
+  "audio_music": "A serious, reflective instrumental track plays quietly under Kamala Harris's speech for the first ~18 seconds, creating a somber and patriotic mood. The primary audio consists of her speech and the cheers and applause from the crowd.",
+  "editing_pacing": "The video consists of a single, static shot of Kamala Harris speaking at a podium.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Unity",
+    "Patriotism",
+    "Hope",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris offers a message of national unity in direct contrast to Donald Trump's alleged divisive rhetoric that labels fellow Americans as 'the enemy from within.'",
+  "intended_effect": "To portray Kamala Harris as a unifying leader and Donald Trump as a divisive one, and to inspire a sense of shared American identity and hope.",
+  "uncertainty_flags": []
+}

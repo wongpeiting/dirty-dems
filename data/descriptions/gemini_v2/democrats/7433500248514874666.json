@@ -1,0 +1,96 @@
+{
+  "video_id": "7433500248514874666",
+  "visual_action": "The video is a political advertisement presented as 'Kamala Harris' closing ad'. It begins with a montage of inspirational, Americana-style footage: farmers, factory workers, small business owners, and families, all under a sunrise or daytime setting. The ad then transitions to grainy, black-and-white footage of Donald Trump, JD Vance, and Elon Musk, which is followed by color footage of working-class people looking concerned. The ad pivots back to a hopeful tone with scenes of a political rally, patriotic imagery of American flags, and diverse groups of Americans in various settings (grocery store, auto shop, neighborhoods). The final section features Kamala Harris prominently: on stage at a large rally with Tim Walz, interacting with supporters, and delivering a speech from a podium to a massive, cheering nighttime crowd. The ad concludes with a call to vote.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her name is in the opening on-screen text, she is shown extensively throughout the second half of the ad, and her speech concludes the video. Face-ID confirmed her presence."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in a negative, black-and-white montage while the narrator discusses 'politicians' who look out for themselves. Face-ID confirmed his presence."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He appears briefly in a black-and-white clip standing next to Donald Trump. Face-ID confirmed his presence."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in a black-and-white clip while the narrator discusses 'billionaires'. Face-ID confirmed his presence."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He appears on stage with Kamala Harris at a rally, and their names 'HARRIS WALZ' are on the backdrop. Face-ID confirmed his presence."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kamala Harris' closing ad just dropped 😩🇺🇸",
+      "role": "caption"
+    },
+    {
+      "text": "A NEW WAY FORWARD",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "FREEDOM",
+      "role": "other"
+    },
+    {
+      "text": "VOTE BY NOVEMBER 5",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "PAID FOR BY HARRIS FOR PRESIDENT",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A narrator with a deep voice speaks over a montage, stating that in America, people 'rise' to challenges and that freedom is built on hard work. The tone shifts as the narrator claims that 'politicians started looking out for themselves and billionaires,' leaving working Americans behind. This is contrasted with a call to 'draw the line' and restore the promise of freedom for everyone, not just 'those at the top.' The ad concludes with excerpts from a Kamala Harris speech where she says, 'As Americans, we rise and fall together,' and pledges to 'seek common ground,' be a 'president for all Americans,' and asks for the viewer's vote.",
+  "emojis_present": [
+    "😩",
+    "🇺🇸"
+  ],
+  "audio_music": "The video is backed by a continuous, swelling orchestral score that creates an inspirational and patriotic mood. The music becomes slightly somber and ominous during the segment featuring political opponents, then builds back to a powerful, uplifting crescendo during the hopeful montage and Kamala Harris's speech.",
+  "editing_pacing": "The ad uses a montage style with steady, deliberate cuts that build a narrative arc. The pacing is cinematic, employing slow-motion for emotional emphasis and a stark stylistic shift to grainy black-and-white footage to visually separate the opponents from the ad's main message. The pace slows at the end to focus on Kamala Harris's speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Hope",
+    "Inspiration",
+    "Concern",
+    "Unity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris will restore the American promise of freedom and economic opportunity for all working people, in contrast to opponents like Donald Trump who serve only themselves and the wealthy.",
+  "intended_effect": "To persuade viewers to vote for Kamala Harris by portraying her as a unifying leader who champions everyday Americans, while casting her political opponents as self-serving elites who have failed the country.",
+  "uncertainty_flags": []
+}

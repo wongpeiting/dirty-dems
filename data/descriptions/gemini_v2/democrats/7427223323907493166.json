@@ -1,0 +1,73 @@
+{
+  "video_id": "7427223323907493166",
+  "visual_action": "Kamala Harris speaks at a podium during an outdoor campaign rally in Grand Rapids, Michigan. She is flanked by American flags with autumn foliage in the background. The video cuts between medium shots of Harris speaking and wider shots showing a large, cheering crowd of supporters.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Kamala Harris is the sole speaker featured in the video, shown delivering a speech at a rally."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire speech is about him, and the on-screen text asks, \"Awww, is Trump too tired to campaign?\""
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears in the \"HARRIS WALZ\" campaign logo in the top right of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Awww, is Trump too tired to campaign? 🥱",
+      "role": "overlay"
+    },
+    {
+      "text": "GRAND RAPIDS, MI",
+      "role": "chyron"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "EXHAUSTION",
+      "role": "caption"
+    },
+    {
+      "text": "THE TOUGHEST JOB IN THE WORLD",
+      "role": "caption"
+    },
+    {
+      "text": "vote",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Kamala Harris mocks Donald Trump, stating he is \"ducking debates and canceling interviews.\" She claims his own campaign team attributed this to \"exhaustion.\" Harris then uses this to question his capability, asking, \"If you are exhausted on the campaign trail, it raises real questions about whether you are fit for the toughest job in the world,\" to which the crowd cheers loudly.",
+  "emojis_present": [
+    "🥱"
+  ],
+  "audio_music": "The audio consists entirely of live sound from the political rally: Kamala Harris's speech and the enthusiastic reactions of the crowd, including laughter and loud cheering. There is no background music.",
+  "editing_pacing": "The video uses simple cuts between a medium shot of Kamala Harris speaking and wider shots showing the large crowd reacting to her speech. The pacing is straightforward, following the rhythm of the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "confidence",
+    "doubt (about opponent's fitness)"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's alleged exhaustion and avoidance of campaign events indicate he is not fit for the presidency.",
+  "intended_effect": "To convince viewers that Donald Trump lacks the stamina and fitness required to be president, thereby encouraging support for the Harris-Walz ticket.",
+  "uncertainty_flags": []
+}

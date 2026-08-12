@@ -1,0 +1,73 @@
+{
+  "video_id": "7273506927139687726",
+  "visual_action": "The video first shows a still image of Donald Trump looking downward with a serious expression. A text overlay of a Vox article headline appears. The scene then cuts to a clip of Joe Biden, wearing a tuxedo and aviator sunglasses, putting the sunglasses on while standing at a podium. A text overlay of a CNBC article headline appears over this clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a still image and named in an on-screen text overlay: 'After meeting with pharma lobbyists, Trump drops promise to negotiate drug prices'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a video clip and his administration is named in an on-screen text overlay: 'Biden administration unveils first 10 drugs subject to Medicare price negotiations'."
+    },
+    {
+      "name": "Vox",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Vox logo is visible on the first text overlay."
+    },
+    {
+      "name": "CNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNBC logo is visible on the second text overlay."
+    },
+    {
+      "name": "Medicare",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the CNBC headline: '...subject to Medicare price negotiations'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Vox\nAfter meeting with pharma lobbyists, Trump drops promise to negotiate drug prices",
+      "role": "overlay"
+    },
+    {
+      "text": "CNBC\nHEALTH AND SCIENCE\nBiden administration unveils first 10 drugs subject to Medicare price negotiations",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video; it is accompanied only by instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and dramatic instrumental track ('Remains' by Volker Bertelmann) plays throughout the video, creating a serious and weighty tone for the comparison being made.",
+  "editing_pacing": "The video uses a slow, slideshow-like pacing, with one simple cut between two static or near-static shots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Seriousness",
+    "Confidence"
+  ],
+  "cultural_references": [
+    "The clip of Joe Biden putting on his aviator sunglasses is a recurring visual trope used to portray him as cool and effective, sometimes associated with the 'Dark Brandon' internet persona."
+  ],
+  "central_claim": "Donald Trump broke his promise to negotiate drug prices after meeting with pharmaceutical lobbyists, while Joe Biden's administration is actively and successfully negotiating them.",
+  "intended_effect": "To portray Donald Trump as ineffective and beholden to corporate interests, while positioning Joe Biden as a successful leader who delivers for the American people.",
+  "uncertainty_flags": []
+}

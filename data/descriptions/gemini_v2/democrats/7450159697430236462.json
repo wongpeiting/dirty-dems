@@ -1,0 +1,121 @@
+{
+  "video_id": "7450159697430236462",
+  "visual_action": "A slideshow of screenshots of news headlines from NBC News, CNN, ABC News, and an unidentified newspaper. The headlines all report on Donald Trump's opposition to a government funding bill, which is pushing the government toward a shutdown.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the top overlay text ('Trump causing chaos...') and in every news headline shown, such as 'Trump opposes funding bill...'"
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the headline 'Government funding plan collapses after threats from Trump and Musk...' and in an article snippet."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced as 'GOP' in the CNN headline and 'Republicans' in an article snippet."
+    },
+    {
+      "name": "U.S. Congress",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the headline 'Pushing Congress Toward a Shutdown'."
+    },
+    {
+      "name": "NBC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news organization's logo and name appear at the top of the first screenshot."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news organization's logo and name appear at the top of the second screenshot."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news organization's logo appears at the top of the third screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump causing chaos before he's even sworn in 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "NBC NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "GOVERNMENT SHUTDOWN",
+      "role": "chyron"
+    },
+    {
+      "text": "Trump opposes funding bill, pushing government closer to a shutdown",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN Politics",
+      "role": "chyron"
+    },
+    {
+      "text": "GOP scraps government funding bill after Trump demands changes",
+      "role": "chyron"
+    },
+    {
+      "text": "abc NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "Government funding plan collapses after threats from Trump and Musk as shutdown looms",
+      "role": "chyron"
+    },
+    {
+      "text": "Trump Criticizes Spending Deal, Pushing Congress Toward a Shutdown",
+      "role": "chyron"
+    },
+    {
+      "text": "The president-elect weighed in against the huge spending package after Elon Musk had spent the day warning Republicans not to support it. The blowup left the compromise on life support.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only a music track plays.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "An upbeat, energetic track with a driving drum beat ('Drums of Freedom' by Wack Beats) plays consistently throughout the video, creating a sense of urgency or chaos.",
+  "editing_pacing": "A slideshow of static news headline screenshots, with quick cuts between each image timed to the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is already creating chaos and threatening a government shutdown before he has even been sworn into office.",
+  "intended_effect": "To generate alarm and criticism towards Donald Trump, portraying him as a chaotic and disruptive figure.",
+  "uncertainty_flags": []
+}

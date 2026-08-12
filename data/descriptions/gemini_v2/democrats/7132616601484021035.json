@@ -1,0 +1,43 @@
+{
+  "video_id": "7132616601484021035",
+  "visual_action": "A close-up, static shot of President Joe Biden speaking from a podium. He is wearing a dark suit and striped tie, with an American flag visible in the background. His expression is serious throughout the speech.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and speaks for the entire duration of the video. He is also identified by the on-screen text 'President Biden'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Biden repeatedly states, 'Every single Republican in Congress voted against this bill,' making them the central subject of his criticism."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden on Republicans voting against the American people",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "President Joe Biden repeatedly states that \"every single Republican in Congress\" voted against a bill that would lower prescription drug and healthcare costs, create a fairer tax system, tackle the climate crisis, lower energy costs, and create good-paying jobs. He frames the situation as a choice between protecting the \"already powerful\" and building a future where \"everybody has an even shot,\" declaring his belief in the latter.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Joe Biden's speech. At the very end of the clip, applause can be heard from an unseen audience.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts, zooms, or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Frustration",
+    "Seriousness",
+    "Condemnation"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican Party unanimously voted against the interests of the American people on key issues like healthcare, climate, and the economy.",
+  "intended_effect": "To portray the Republican Party as an obstacle to progress and harmful to the average American, thereby encouraging support for the Democratic agenda.",
+  "uncertainty_flags": []
+}

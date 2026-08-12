@@ -1,0 +1,65 @@
+{
+  "video_id": "7565986318220528951",
+  "visual_action": "Mike Johnson speaks at a podium. The video cuts twice to show informational graphics about the party breakdown in the House of Representatives and the Senate, respectively. At the end, a banner graphic appears over the shot of Johnson and others at the podium.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A man identified by face-ID as Mike Johnson is shown speaking at a podium."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Johnson says, 'They keep saying Republicans are in charge of government.' On-screen graphics also list the number of 'Republicans' in the House and Senate."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Johnson says, 'The Democrats are required to open the government.' On-screen graphics list the number of 'Democrats' in the House and Senate, and a final banner reads 'THE DEMOCRAT SHUTDOWN'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "be so fr lol",
+      "role": "meme_text"
+    },
+    {
+      "text": "Representatives by Party\nR Republicans 219\nD Democrats 213\nVacancies 3\nTotal Seats 435",
+      "role": "overlay"
+    },
+    {
+      "text": "Senators by Party\nR Republicans 53\nD Democrats 47\nIncludes 2 Independents who caucus with the Democrats\nTotal Seats 100",
+      "role": "overlay"
+    },
+    {
+      "text": "THE DEMOCRAT SHUTDOWN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Mike Johnson claims that Democrats are required to open the government. He refutes the idea that Republicans are in charge of the government, saying, 'We aren't,' and specifically, 'Not in the Senate.'",
+  "emojis_present": [],
+  "audio_music": "The video consists of Mike Johnson's speaking voice. Each time he makes a claim about Republicans not being in charge, a loud, distorted, screaming or horn-like sound effect plays for mocking, comedic effect. There is no musical score.",
+  "editing_pacing": "The video uses quick cuts from the speaker to informational graphics, timed with loud sound effects for comedic emphasis, in a style typical of meme or reaction videos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disbelief"
+  ],
+  "cultural_references": [
+    "The phrase 'be so fr lol' is internet slang for 'be so for real, laughing out loud'.",
+    "The use of a loud, distorted sound effect to interrupt a speaker is a common meme format used to signal that something absurd or false has been said."
+  ],
+  "central_claim": "Mike Johnson's claim that Republicans do not control the government is demonstrably false, as they hold majorities in both the House and the Senate.",
+  "intended_effect": "To mock Mike Johnson and portray his claims as absurdly false by using on-screen graphics as a direct fact-check.",
+  "uncertainty_flags": []
+}

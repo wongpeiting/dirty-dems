@@ -1,0 +1,83 @@
+{
+  "video_id": "7564071127224536334",
+  "visual_action": "The video shows a montage of scenes from an award ceremony. An older woman in a white dress speaks. Then, Donald Trump is shown smiling while holding a bronze statuette, flanked by the woman and another man. Another man is shown speaking with Trump in the Oval Office. There are close-up shots of the bronze award statue on a desk with an American flag in the background. The video concludes with a graphic of the White House outline and an American flag against a black background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually identified receiving an award and is the subject of the final title card, 'PRESIDENT DONALD J. TRUMP'."
+    },
+    {
+      "name": "Richard Nixon Foundation",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption identifies the event as the 'RICHARD NIXON FOUNDATION’S ARCHITECT OF PEACE AWARD'."
+    },
+    {
+      "name": "Richard Nixon",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is implicitly the namesake of the 'RICHARD NIXON FOUNDATION’S ARCHITECT OF PEACE AWARD' mentioned in the caption."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and features a final graphic with the text 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unidentified woman in a white dress is shown speaking and standing next to Donald Trump as he receives the award."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unidentified man with grey hair is shown standing next to Donald Trump and speaking with him in the Oval Office."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video has no discernible speech, only a continuous musical score. The provided transcript 'Thank you' is not audible in the clip.",
+  "emojis_present": [],
+  "audio_music": "A continuous, grand, and inspirational orchestral score plays throughout the video, creating a sense of prestige and honor.",
+  "editing_pacing": "The video is a slow-paced montage featuring static or slow-moving shots with simple cuts between scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Respect",
+    "Honor"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Donald Trump was honored with the Richard Nixon Foundation's 'Architect of Peace Award' at the White House.",
+  "intended_effect": "To portray Donald Trump as a respected and presidential leader being honored for his contributions to peace.",
+  "uncertainty_flags": [
+    "The identities of the man and woman presenting the award to Trump are unknown.",
+    "The exact text on the plaque of the award statue is not fully legible.",
+    "The provided transcript 'Thank you.' does not match the audio, which appears to be purely instrumental music."
+  ]
+}

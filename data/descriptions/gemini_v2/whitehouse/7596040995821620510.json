@@ -1,0 +1,57 @@
+{
+  "video_id": "7596040995821620510",
+  "visual_action": "Melania Trump stands at a podium with two microphones and delivers a speech directly to the camera. She is in a formal room with a painting on the wall behind her. At the end of the video, the First Lady's official seal is shown against a white background.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, delivering a lengthy address on artificial intelligence and creativity."
+    },
+    {
+      "name": "Mr. Yuan",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Melania Trump begins her speech by saying, \"Thank you, Mr. Yuan.\""
+    },
+    {
+      "name": "Zoom",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Melania Trump praises \"Zoom's leadership in the tech ad space.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FIRST LADY",
+      "role": "credit"
+    },
+    {
+      "text": "MELANIA TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Melania Trump delivers a speech about the potential of artificial intelligence, which she calls the engine of the \"age of imagination.\" She thanks a \"Mr. Yuan\" and Zoom for their leadership and outlines her mission to prepare America's youth to use AI in their education and careers. She encourages young people to be curious and use AI as a tool for creative exploration in fields like film, fashion, and music. However, she cautions them to never \"surrender your thinking to AI,\" emphasizing that while AI can generate information, only humans can create meaning and purpose. She urges them to pursue knowledge with passion, stating that \"knowledge is power.\"",
+  "emojis_present": [],
+  "audio_music": "The video features only Melania Trump's spoken voice, with no background music or sound effects.",
+  "editing_pacing": "The video consists of a single, static shot of Melania Trump speaking at a podium, followed by a cut to her official seal at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "inspiration",
+    "optimism",
+    "empowerment"
+  ],
+  "cultural_references": [],
+  "central_claim": "Young Americans should harness the power of artificial intelligence to fuel their creativity and ambitions, but must use it as a tool without sacrificing their own critical thinking and uniquely human ability to create meaning.",
+  "intended_effect": "To inspire young people to embrace new technology for creative purposes and to position the First Lady as a forward-thinking advocate for education and innovation.",
+  "uncertainty_flags": [
+    "The identity of 'Mr. Yuan' is not specified, though the context suggests he may be related to Zoom."
+  ]
+}

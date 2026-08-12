@@ -1,0 +1,100 @@
+{
+  "video_id": "7245357627448888622",
+  "visual_action": "A slideshow of still photos of Republican politicians. The video starts with a photo of Donald Trump at a podium. This is followed by a photo of Ron DeSantis shouting or laughing, then Mike Pence looking stern, Nikki Haley speaking at a press conference, and finally Tim Scott speaking with his hands raised. Each photo has text overlaid describing a political position or action attributed to that person.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in the first image and named in the on-screen text, which uses him as a benchmark for extremism: \"There's plenty of Republican presidential candidates that are less extreme than Trump\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video's opening text refers to \"Republican presidential candidates,\" making the party's candidates the collective subject of the post."
+    },
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo of him is shown with the overlay text \"*attacking the LGBTQ+ community* 😟\"."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo of him is shown with the overlay text \"*Led the charge to repeal the Affordable Care Act* 😤\"."
+    },
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo of her is shown with the overlay text \"*Supported cuts to Social Security and Medicare*\"."
+    },
+    {
+      "name": "Tim Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo of him is shown with the overlay text \"*Pushing for an extreme nationwide abortion ban* 😥\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“There's plenty of Republican presidential candidates that are less extreme than Trump”",
+      "role": "overlay"
+    },
+    {
+      "text": "*attacking the LGBTQ+ community* 😟",
+      "role": "overlay"
+    },
+    {
+      "text": "*Led the charge to repeal the Affordable Care Act* 😤",
+      "role": "overlay"
+    },
+    {
+      "text": "*Supported cuts to Social Security and Medicare*",
+      "role": "overlay"
+    },
+    {
+      "text": "*Pushing for an extreme nationwide abortion ban* 😥",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only background music.",
+  "emojis_present": [
+    "😟",
+    "😤",
+    "😥"
+  ],
+  "audio_music": "A continuous, upbeat, retro-sounding electronic track plays throughout the video, creating a playful, video-game-like tone. The music is identified as starting with 'I Loved You Once More' and transitioning to the 'Opening Theme - Wii Sports', maintaining a consistent style.",
+  "editing_pacing": "The video is a simple slideshow, presenting a series of still images with text overlays. Each image is held for a few seconds before cutting to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "concern",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "Wii Sports"
+  ],
+  "central_claim": "Other Republican presidential candidates hold policy positions that are just as extreme as Donald Trump's.",
+  "intended_effect": "To convince the viewer that the entire Republican presidential field is ideologically extreme and to generate opposition to these candidates based on their stated policy goals.",
+  "uncertainty_flags": [
+    "The emoji(s) on the slide about Nikki Haley are too blurry and pixelated to be identified with certainty."
+  ]
+}

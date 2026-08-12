@@ -1,0 +1,83 @@
+{
+  "video_id": "7612412505515674894",
+  "visual_action": "The video consists of two main visual scenes. Scene 1: A man speaking at a formal podium, visible from the chest up, in front of a dark navy blue curtain/background. He is wearing a dark navy suit jacket with an American flag lapel pin, a white dress shirt, and a navy/dark tie with a small dotted pattern. A black microphone is in front of his face. The Presidential Seal (\"PRESIDENT OF THE UNITED [STATES]\") is visible at the bottom of the podium. Scene 2: A dark, nearly black-and-white shot of what appears to be a helicopter (resembling Marine One) on or near a lawn — likely the White House South Lawn — with trees and fencing visible in the background. Overlaid on this dark scene is the official White House logo (a white icon of the White House building) and the text \"THE WHITE HOUSE.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The Presidential Seal on the podium identifies the speaker as the U.S. President; the account caption reads 'President Trump provides an update on Operation Epic Fury'; the speaker's appearance is consistent with Donald Trump."
+    },
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The 'THE WHITE HOUSE' logo/text appears as an on-screen overlay in scene 2; the posting account is @whitehouse."
+    },
+    {
+      "name": "Ayatollah Khamenei",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in transcript: 'Iran's formerly supreme leader, Ayatollah Khamenei, is dead.'"
+    },
+    {
+      "name": "Islamic Revolutionary Guard Corps (IRGC)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced multiple times in transcript: 'Revolutionary Guard facilities,' 'I once again urge the Revolutionary Guard...'"
+    },
+    {
+      "name": "CENTCOM",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in transcript: 'Earlier today, CENTCOM shared the news that three U.S. military service members have been killed in action.'"
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in transcript: 'Our resolve, and likewise that of Israel, has never been stronger.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "President Trump delivers a formal address describing a large-scale U.S.-led military operation called \"Operation Epic Fury\" targeting Iran. Key claims in the speech include: the operation has hit hundreds of targets in Iran including Revolutionary Guard facilities and air defense systems; nine Iranian ships and a naval building were destroyed; Iranian Supreme Leader Ayatollah Khamenei has been killed (\"Iran's formerly supreme leader, Ayatollah Khamenei, is dead\"); the entire Iranian military command has been eliminated or is seeking surrender/immunity; three U.S. service members have been killed in action. Trump frames the operation as necessary to prevent a nuclear-armed Iran, calls on Iranian military and police to lay down arms in exchange for immunity, and urges the Iranian people to \"take back your country.\" He closes with: \"God bless you to our incredible warriors, and God bless the United States of America.\"",
+  "emojis_present": [],
+  "audio_music": "Original speech audio — no background music. The audio is a continuous formal presidential address delivered at a podium, with no sound effects or music bed.",
+  "editing_pacing": "Minimal editing; the video appears to be a direct recording of a presidential statement at a podium, presented largely uncut. The second scene (White House logo over dark helicopter shot) functions as a title card or outro. Overall pacing is slow and formal, consistent with an official government video release.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "solemnity — Trump announces U.S. military deaths and calls for prayers for fallen service members",
+    "resolve/strength — repeated assertions of U.S. military superiority and unwavering objectives",
+    "urgency — ongoing combat operations described as continuing 'in full force'",
+    "grief — tribute to three service members killed in action",
+    "triumph — announcement of Khamenei's death and destruction of Iranian military assets",
+    "hope directed at Iranian people — appeal to Iranian patriots to 'seize this moment'"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump announces that the United States and its partners have launched a major military operation (\"Operation Epic Fury\") against Iran, resulting in the death of Supreme Leader Ayatollah Khamenei, destruction of key Iranian military infrastructure, and the deaths of three U.S. service members, while asserting the operation will continue until all objectives are achieved.",
+  "intended_effect": "To inform viewers of the launch and early results of a major U.S. military operation against Iran, project presidential authority and military strength, honor fallen service members, and frame the operation as a necessary and righteous defense of American security and global civilization.",
+  "uncertainty_flags": [
+    "The events described (Operation Epic Fury, death of Khamenei, U.S. strikes on Iran) appear to fall after the model's knowledge cutoff and cannot be independently verified from training data; however, per instructions, the video is treated as ground truth about real events.",
+    "The face of the speaker is partially obscured by the microphone in the keyframe; identification as Donald Trump is supported by the Presidential Seal, account identity (@whitehouse), and caption, but a direct face identification could not be made from the keyframes alone.",
+    "The exact date of this address is not provided in the caption or on-screen text.",
+    "The dark helicopter scene (scene 2) may be archival B-roll rather than footage from the day of the address; this cannot be confirmed."
+  ]
+}

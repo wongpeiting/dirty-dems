@@ -1,0 +1,132 @@
+{
+  "video_id": "7166293118457990446",
+  "visual_action": "The video opens with a young woman setting up a camera from a low angle. As she stands up, there is a loud bang and a bright flash of orange light. The video then cuts to a rapid montage of still photos of Democratic politicians, including Catherine Cortez Masto, Maggie Hassan, Michael Bennet, Tammy Duckworth, and Joe Biden. Each photo has an overlay from CBS News with the same headline. The final shot is of Joe Biden putting on aviator sunglasses.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The opening text reads \"Republicans: be ready for a rEd WavE 😤\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The news overlay text states \"Democrats retain control of Senate...\""
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is the first politician shown in the photo montage."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is the last politician shown in the photo montage, putting on sunglasses."
+    },
+    {
+      "name": "Maggie Hassan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo of her speaking at a podium appears in the montage."
+    },
+    {
+      "name": "Mark Kelly",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo of him appears in the montage, identified via authoritative face-ID."
+    },
+    {
+      "name": "Michael Bennet",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An outdoor photo of him appears in the montage."
+    },
+    {
+      "name": "Patty Murray",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as present on screen via authoritative face-ID."
+    },
+    {
+      "name": "Tammy Duckworth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo of her speaking at a podium appears in the montage."
+    },
+    {
+      "name": "John Fetterman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as present on screen via authoritative face-ID."
+    },
+    {
+      "name": "CBS NEWS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news logo and headline format are used as an overlay on the photos."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans: be ready for a rEd WavE 😤",
+      "role": "overlay"
+    },
+    {
+      "text": "CBS NEWS",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats retain control of Senate with victory in Nevada",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio begins with a fumbling sound, a loud bang, and a brief scream, which is then immediately followed by an upbeat dance music track.",
+  "emojis_present": [
+    "😤"
+  ],
+  "audio_music": "The video starts with ambient sound, a loud bang, and a scream. It then immediately cuts to the upbeat, high-energy dance track 'Hideaway' by Kiesza, which plays throughout the celebratory montage of Democratic politicians, creating a triumphant and mocking tone.",
+  "editing_pacing": "The video uses a hard cut from a single, continuous user-generated style clip into a fast-paced slideshow montage of still photos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude",
+    "triumph",
+    "celebration"
+  ],
+  "cultural_references": [
+    "The opening clip utilizes a TikTok meme format where an action results in a sudden, comedic explosion or failure.",
+    "The song 'Hideaway' by Kiesza is a well-known pop song used to create a celebratory mood."
+  ],
+  "central_claim": "Republicans' predictions of a 'Red Wave' failed spectacularly, as Democrats successfully retained control of the Senate.",
+  "intended_effect": "To create a sense of mockery towards Republicans and triumphant celebration among Democratic supporters.",
+  "uncertainty_flags": [
+    "The authoritative face-ID list includes Mark Kelly, Patty Murray, and John Fetterman, but it is difficult to visually confirm all of them in the rapid montage.",
+    "The man identified as Mark Kelly by the authoritative face-ID strongly resembles Senator Alex Padilla."
+  ]
+}

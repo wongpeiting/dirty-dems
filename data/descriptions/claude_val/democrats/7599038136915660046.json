@@ -1,0 +1,65 @@
+{
+  "video_id": "7599038136915660046",
+  "visual_action": "The video is a static slideshow-style post consisting of a single repeating image displayed across all keyframes. The image shows a smiling young man — identified by the on-screen text as Alex Pretti — wearing a bright blue hooded jacket, a helmet, and climbing/mountaineering harness and gloves. He appears to be outdoors in a rocky, icy environment, suggesting a mountaineering or climbing setting. The background shows a rock face and what appears to be ice or a frozen waterfall. The image is framed with a black letterbox border at top and bottom. The same overlay text appears on every frame throughout the video.",
+  "cast": [
+    {
+      "name": "Alex Pretti",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen overlay text reads 'this is Alex Pretti. he was a nurse and a US citizen. and Trump's federal agents killed him'; OCR also includes a colleague's social media post identifying him and describing their working relationship at the VA."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text states 'Trump's federal agents killed him', directly naming Trump as responsible."
+    },
+    {
+      "name": "Dimitri Drekonja",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "OCR captures a Bluesky social post attributed to 'Dimitri Drekonja, MD, MS @dimitridrekonja bsky.social' describing his relationship with Alex Pretti as a colleague at the VA."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "this is Alex Pretti. he was a nurse and a US citizen. and Trump's federal agents killed him",
+      "role": "overlay"
+    },
+    {
+      "text": "Dimitri Drekonja, MD, MS @dimitridrekonja bsky.social Alex Pretti was colleague at the VA. We hired him to recruit for our trial He became an ICU nurse- lover working with him. He was a kind person who lived to help and these fuckers executed him. White_ Hot: Rage",
+      "role": "overlay"
+    },
+    {
+      "text": "Dimitri Drekonja, MD, MS @dimitridrekonja bsky.social Alex from our time working together; while he was in nursing school: Later; he moved to ICU, working as a nurse to support critically ill Veterans. He had such a great attitude: We'd chat between patients about trying to get in a mountain bike ride together: Will never happen now",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The Whisper transcript is empty, indicating no spoken narration or dialogue. The post relies entirely on on-screen text to convey its message. The audio track plays throughout without any speech.",
+  "emojis_present": [],
+  "audio_music": "The audio track is identified as \"How To Never Stop Being Sad\" by dandelion hands, beginning at 0.0s and continuing from at least 6.0s onward. The track is a melancholic, subdued, emotionally sorrowful song — fitting the post's somber subject matter. There is no narration or spoken word. The music underscores a tone of grief and mourning throughout.",
+  "editing_pacing": "Static slideshow with a single photograph held throughout the entire clip. No cuts, transitions, or motion effects are visible. Text overlays remain persistent. The pacing is slow and contemplative, matching the somber musical tone.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "grief — evoked by the melancholic music and the framing of Alex Pretti as a victim who was killed",
+    "outrage — signaled by the quoted social media post using language like 'these fuckers executed him' and 'White Hot Rage'",
+    "sympathy — evoked by humanizing details about Pretti as a nurse who cared for veterans and had an adventurous spirit",
+    "indignation — directed at 'Trump's federal agents' named as responsible for his death"
+  ],
+  "cultural_references": [],
+  "central_claim": "Alex Pretti, a US citizen and ICU nurse who served veterans, was killed by Trump's federal agents, and his death represents a grave injustice.",
+  "intended_effect": "Evoke grief and moral outrage at the Trump administration's federal agents over the death of a sympathetic, ordinary American described as a dedicated nurse and outdoorsman.",
+  "uncertainty_flags": [
+    "The specific circumstances of Alex Pretti's death and the claim that 'Trump's federal agents killed him' cannot be independently verified from the video alone; this may reference an event after the model's knowledge cutoff.",
+    "The OCR text appears to be a screenshot of a Bluesky social media post by Dimitri Drekonja — it is unclear whether this text appears as a separate slide/frame or overlaid on the same image.",
+    "The man in the photograph is assumed to be Alex Pretti based on the on-screen text identification, but no face recognition confirmed this.",
+    "The word 'Nicollet' appears at the end of the OCR — its significance in context is unclear; may be a location or partial text artifact."
+  ]
+}

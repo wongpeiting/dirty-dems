@@ -1,0 +1,58 @@
+{
+  "video_id": "7574111421718367501",
+  "visual_action": "The video opens on a cloudy sky with the Washington Monument in the distance as a formation of six military jets flies overhead. The camera pans down to reveal the White House, where a formal ceremony is taking place on the South Portico. Donald Trump and a man in traditional Saudi attire, identified by text as the Saudi Crown Prince, are seen standing on a red carpet. The area is decorated with numerous American and Saudi Arabian flags, and military personnel in dress uniforms are lined up. The video concludes with a black-and-white graphic showing a helicopter over the White House with the text \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads \"President Trump Welcomes Saudi Crown Prince\". A person visually consistent with Donald Trump is shown at the White House."
+    },
+    {
+      "name": "Saudi Crown Prince",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads \"President Trump Welcomes Saudi Crown Prince\". A person in traditional Saudi attire is shown being welcomed at the White House."
+    },
+    {
+      "name": "U.S. Military",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "On-screen text identifies the jets as \"U.S. Military Jets\" and military personnel in uniform are shown on the ground."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "U.S. Military Jets Fly Over White House As President Trump Welcomes Saudi Crown Prince",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of the sound of military jets followed by ceremonial band music.",
+  "emojis_present": [
+    "🇺🇸",
+    "🇸🇦"
+  ],
+  "audio_music": "The video begins with the loud, roaring sound of military jets flying overhead. After the flyover, the audio transitions to formal, patriotic ceremonial music played by a brass band, fitting for a state welcome.",
+  "editing_pacing": "The video uses slow cuts and pans, creating a cinematic and stately feel. It transitions from the jet flyover to the ground ceremony before ending on a static title card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "respect"
+  ],
+  "cultural_references": [],
+  "central_claim": "The United States, under President Trump, honors its relationship with Saudi Arabia with a formal White House welcome featuring a military jet flyover.",
+  "intended_effect": "To evoke a sense of national pride and impress upon the viewer the strength and importance of the U.S.-Saudi diplomatic relationship.",
+  "uncertainty_flags": []
+}

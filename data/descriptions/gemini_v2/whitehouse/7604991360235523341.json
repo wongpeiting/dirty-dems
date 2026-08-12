@@ -1,0 +1,67 @@
+{
+  "video_id": "7604991360235523341",
+  "visual_action": "The video first shows several people in large, green, grassy costumes walking across a football field, made to look like walking bushes. It then cuts to a montage of aerial and ground-level shots of a long border wall in a desert landscape. Border patrol vehicles are seen driving on a dirt road next to the wall. The video concludes with a black and white title card showing the White House and the text 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: 'Illegals coming over the border under Joe Biden'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: '9 months of zero releases at the border under President Trump'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video ends with a logo and the text 'THE WHITE HOUSE', and the post is from the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Illegals coming over the border under Joe Biden",
+      "role": "overlay"
+    },
+    {
+      "text": "9 months of zero releases at the border under President Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video contains no spoken dialogue, only a dramatic musical score. The provided transcript 'We'll be right back' is incorrect.",
+  "emojis_present": [
+    "👑"
+  ],
+  "audio_music": "A dramatic, epic-sounding orchestral score plays throughout the video. The music, identified as 'Chapter 3 island theme' from the video game Fortnite, creates a serious and cinematic tone for both segments of the video.",
+  "editing_pacing": "The video is a montage that cuts between two contrasting scenarios: footage of people in bush costumes and cinematic shots of a border wall. The pacing is deliberate, not rushed.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Alarm",
+    "Pride",
+    "Security"
+  ],
+  "cultural_references": [
+    "The background music is the 'Chapter 3 island theme' from the popular video game Fortnite.",
+    "The footage of people dressed as walking bushes appears to be from a Super Bowl halftime show performance, recontextualized for a political message."
+  ],
+  "central_claim": "The Biden administration oversaw a chaotic border crisis, whereas the Trump administration maintained a secure border with 'zero releases'.",
+  "intended_effect": "To persuade viewers that Donald Trump's border policies were effective and secure, in stark contrast to the perceived failures of the Biden administration, and to generate support for a return to Trump's policies.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is incorrect as there is no spoken dialogue in the video."
+  ]
+}

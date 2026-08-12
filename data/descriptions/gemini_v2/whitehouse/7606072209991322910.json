@@ -1,0 +1,56 @@
+{
+  "video_id": "7606072209991322910",
+  "visual_action": "The video shows a clip of Joe Biden at a counter handing something to a person. It then cuts to a black screen with white text, followed by a clip of Barack Obama at a similar counter, also handing over a small item like a card or document.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A clip shows Joe Biden, identified by face, at a counter in what appears to be a check-in or verification process."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A clip shows Barack Obama, identified by face, at a counter in what appears to be a check-in or verification process."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption asks, 'Why are Dems so opposed to making Voter ID a requirement...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "actions > words",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unidentified female voice says, \"So today I want to talk about the term gaslighting.\"",
+  "emojis_present": [],
+  "audio_music": "The video opens with a female voice speaking. After she speaks, the upbeat pop song 'Hollaback Girl' by Gwen Stefani begins and plays for the remainder of the video, creating a confident and slightly confrontational mood.",
+  "editing_pacing": "The video uses a simple montage style with quick cuts between clips and a text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Irony",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Hollaback Girl (Gwen Stefani song)"
+  ],
+  "central_claim": "The Democratic Party is hypocritical and is \"gaslighting\" the public on the issue of voter ID, as their leaders like Joe Biden and Barack Obama use ID in other aspects of their lives.",
+  "intended_effect": "To persuade the viewer that the Democratic Party's opposition to voter ID laws is insincere and deceitful.",
+  "uncertainty_flags": [
+    "The original context of the clips showing Joe Biden and Barack Obama is not provided, making it unclear what specific action they are performing.",
+    "The provided face-ID context incorrectly states 'none detected' when both Joe Biden and Barack Obama are clearly visible."
+  ]
+}

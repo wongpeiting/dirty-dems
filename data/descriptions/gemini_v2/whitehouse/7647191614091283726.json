@@ -1,0 +1,49 @@
+{
+  "video_id": "7647191614091283726",
+  "visual_action": "Donald Trump speaks directly to the camera while seated at a desk in what appears to be the Oval Office. The shot is a static, medium close-up for the duration of his speech. The video concludes with a black screen showing a white line-drawing of the White House and text identifying him as president.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole speaker, visible on screen for the entire post, delivering a direct address."
+    },
+    {
+      "name": "Department of Justice",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states, 'the Department of Justice is beginning what we're calling the Model Cities Initiative' and that it 'will provide $300 million in grants'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POTUS announces the administration's next step in the successful war on crime",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that his administration is launching the \"Model Cities Initiative\" to combat violent crime. He claims his administration has already waged the \"most successful war on crime in American history,\" citing a record decline in the murder rate and a 60% reduction in fentanyl at the border. He states the Department of Justice will provide $300 million in grants to selected cities with populations over 100,000 to hire more police, modernize equipment, and improve law enforcement. He encourages local governments to apply for the grants at justice.gov/grants.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The video consists entirely of Donald Trump's spoken words with no background music, musical score, or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot, followed by a static credit screen at the very end. There are no cuts, zooms, or other editing effects during the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "reassurance",
+    "safety"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration is successfully reducing crime and is launching a new $300 million grant program, the \"Model Cities Initiative,\" to further fund local police and enhance public safety.",
+  "intended_effect": "To persuade viewers that the administration is effectively making the country safer and to encourage support for its law-and-order policies.",
+  "uncertainty_flags": []
+}

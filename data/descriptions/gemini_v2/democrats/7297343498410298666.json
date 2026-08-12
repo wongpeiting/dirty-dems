@@ -1,0 +1,64 @@
+{
+  "video_id": "7297343498410298666",
+  "visual_action": "The video is a slideshow of still images. It opens with side-by-side portraits of Joe Biden and Donald Trump. It then cuts to a photo of Donald Trump speaking at a podium in front of American flags. Next, it shows a photo of Joe Biden smiling while standing outside on a lawn. The video ends on a static screenshot of a tweet from 'The Democrats' account.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in two photographs and is the subject of the positive on-screen text and the final tweet screenshot."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in two photographs and is the subject of the negative on-screen text used for contrast."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'The Democrats' (@TheDemocrats) is shown at the end of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "there are two types of presidents...",
+      "role": "overlay"
+    },
+    {
+      "text": "those who leave office with fewer jobs than when they came to office",
+      "role": "overlay"
+    },
+    {
+      "text": "and those who have one of the strongest periods of job creation in our nation's history",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats @TheDemocrats Last month, our economy added 150,000 jobs. That's about 14 million jobs created under President @JoeBiden.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video, only background music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, driving electronic instrumental track (identified as a version of Lady Gaga's 'Bloody Mary') plays throughout the video, creating a sense of momentum and dramatic contrast.",
+  "editing_pacing": "The video is a simple slideshow of still images with text overlays, using basic cuts to transition between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Disapproval"
+  ],
+  "cultural_references": [
+    "The background music is an instrumental version of Lady Gaga's song 'Bloody Mary', which became a viral TikTok sound associated with the Netflix series 'Wednesday'."
+  ],
+  "central_claim": "Joe Biden's presidency has resulted in historic job creation, whereas Donald Trump's presidency ended with fewer jobs than it started with.",
+  "intended_effect": "To persuade viewers that Joe Biden's economic record is superior to Donald Trump's, thereby encouraging support for Biden and the Democratic party.",
+  "uncertainty_flags": []
+}

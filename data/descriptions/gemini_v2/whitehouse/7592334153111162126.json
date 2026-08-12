@@ -1,0 +1,51 @@
+{
+  "video_id": "7592334153111162126",
+  "visual_action": "The video begins with a clip from the cartoon 'SpongeBob SquarePants' where SpongeBob attempts to lift a stick with two marshmallows on it, straining comically in front of an unimpressed crowd of fish. This cartoon clip is then superimposed with transparency over a video of Donald Trump speaking at a podium with American flags in the background. The final section shows the clip of Trump alone, where he gestures as if lifting weights. The video concludes with a black-and-white montage of the White House and a helicopter, with 'THE WHITE HOUSE' text appearing on screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on screen speaking at a podium, identified by face recognition and on-screen text."
+    },
+    {
+      "name": "transgender weightlifters",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'President Trump imitating trans weightlifters:' and Trump's speech is a story mocking them."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump imitating trans weightlifters:",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video combines audio from two sources. First, dialogue from a 'SpongeBob SquarePants' cartoon announces, 'And now, with the addition of two, count them, two, marshmallows.' This is followed by Donald Trump speaking, telling a story to mock a weightlifter. He says, 'walks off the stage crying, her mother's crying... Guy gets up... And he walks up, bing, he could have gone, ding, ding, ding, ding.' The story contrasts a crying female competitor with a male competitor who lifts the weight with ease.",
+  "emojis_present": [
+    "🏋️‍♀️"
+  ],
+  "audio_music": "The video starts with audio from the cartoon, including dialogue and sound effects, accompanied by a dramatic, mock-heroic classical track ('Caesar's Entry'). This then cuts to the clear audio of Donald Trump's speech with no background music.",
+  "editing_pacing": "The video uses a layered editing technique, superimposing a cartoon clip over live-action footage. It transitions from the cartoon, to the overlay, to the live-action clip, and ends with a static branded outro. The pacing is deliberate, not rushed.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A semi-transparent clip from the cartoon 'SpongeBob SquarePants' is superimposed over a video of Donald Trump. This is done to visually equate Trump's verbal imitation of a 'weak' weightlifter with SpongeBob's comical inability to lift a stick with marshmallows.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule",
+    "contempt"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants"
+  ],
+  "central_claim": "Donald Trump's story about transgender weightlifters reveals they are as weak and absurd as SpongeBob SquarePants trying to lift marshmallows.",
+  "intended_effect": "To encourage the viewer to ridicule and feel contempt for transgender women in sports, and to see Trump as a common-sense truth-teller.",
+  "uncertainty_flags": []
+}

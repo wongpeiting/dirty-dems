@@ -1,0 +1,59 @@
+{
+  "video_id": "7187062837913718059",
+  "visual_action": "A close-up shot of Kevin McCarthy sitting in a legislative chamber with a serious expression on his face. Behind him, another man (Mike Johnson) is partially visible. A screenshot of a tweet from 'The Democrats' is overlaid on the bottom half of the screen.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is the main visual of the video, and the on-screen text is entirely about him becoming Speaker of the House."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The overlaid tweet is from the account 'The Democrats' (@TheDemocrats)."
+    },
+    {
+      "name": "MAGA Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text claims Kevin McCarthy handed power over to 'the most extreme MAGA Republicans'."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible sitting behind Kevin McCarthy, identified by facial recognition."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats @TheDemocrats\n\nAfter 15 tries, Kevin McCarthy secured himself the title of Speaker of the House by handing power over to the most extreme MAGA Republicans.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A mournful, slow slide guitar piece plays throughout the clip, creating a sad or mocking tone that resembles a 'sad trombone' effect to signify failure or a pyrrhic victory.",
+  "editing_pacing": "The video consists of a single, static close-up shot of Kevin McCarthy.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disappointment",
+    "alarm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kevin McCarthy became Speaker of the House only after making significant concessions and empowering the most extreme members of the Republican party.",
+  "intended_effect": "To portray Kevin McCarthy as a weak leader who compromised with extremists to gain power, thereby generating disapproval of him and the Republican party.",
+  "uncertainty_flags": []
+}

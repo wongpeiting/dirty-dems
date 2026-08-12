@@ -1,0 +1,167 @@
+{
+  "video_id": "7519954500665216269",
+  "visual_action": "The video shows a clip of Donald Trump at a press conference, framed as a CNN broadcast. An unseen female reporter asks him a question, and a brief shot shows her in the audience. Trump responds while seated at a desk. Next to him, another man, identified as Marco Rubio, is seen laughing and covering his face. The video cuts between close-ups of Trump, a wider shot of the stage, and the shot of the reporter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person being questioned and who responds throughout the video."
+    },
+    {
+      "name": "Mark Rutte",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The reporter's question is entirely about him, asking Trump, \"Mark Rutte, the NATO chief... he called you daddy earlier.\""
+    },
+    {
+      "name": "NATO",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The reporter refers to Mark Rutte as \"the NATO chief\" and asks Trump about his relationship with \"NATO allies.\""
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown sitting next to Trump, laughing in reaction to the exchange."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A female voice asks the question that drives the entire clip, and she is briefly shown on screen."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible on the chyron throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "What did he say?? 😄",
+      "role": "overlay"
+    },
+    {
+      "text": "MARK RUTTE,",
+      "role": "overlay"
+    },
+    {
+      "text": "THE NATO CHIEF.",
+      "role": "overlay"
+    },
+    {
+      "text": "WHO IS YOUR FRIEND?",
+      "role": "overlay"
+    },
+    {
+      "text": "HE CALLED YOU",
+      "role": "overlay"
+    },
+    {
+      "text": "\"DADDY\" EARLIER.",
+      "role": "overlay"
+    },
+    {
+      "text": "DO YOU REGARD YOUR",
+      "role": "overlay"
+    },
+    {
+      "text": "NATO ALLIES AS KIND",
+      "role": "overlay"
+    },
+    {
+      "text": "OF CHILDREN?",
+      "role": "overlay"
+    },
+    {
+      "text": "NO. HE LIKES ME.",
+      "role": "overlay"
+    },
+    {
+      "text": "I THINK HE LIKES ME.",
+      "role": "overlay"
+    },
+    {
+      "text": "IF HE DOESN'T,",
+      "role": "overlay"
+    },
+    {
+      "text": "I'LL COME BACK AND",
+      "role": "overlay"
+    },
+    {
+      "text": "I'LL HIT HIM HARD,",
+      "role": "overlay"
+    },
+    {
+      "text": "OKAY?",
+      "role": "overlay"
+    },
+    {
+      "text": "HE DID IT VERY",
+      "role": "overlay"
+    },
+    {
+      "text": "AFFECTIONATELY.",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU'RE MY DADDY.",
+      "role": "overlay"
+    },
+    {
+      "text": "In front of NATO too",
+      "role": "caption"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: EARLY INTEL REPORT ON IRAN NUCLEAR STRIKES \"WASN'T FINISHED\"",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP PRAISES DEFENSE SPENDING HIKES BY NATO ALLIES",
+      "role": "chyron"
+    },
+    {
+      "text": "NATO Summit\nThe Hague, Netherlands",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A reporter asks Donald Trump about NATO chief Mark Rutte allegedly calling him \"daddy\" and questions if Trump views NATO allies as children. Trump dismisses the framing, saying, \"No, he likes me.\" He then adds that if Rutte doesn't like him, \"I'll come back and I'll hit him hard.\" Trump concludes by saying Rutte's comment was affectionate, mimicking, \"Daddy, you're my daddy.\"",
+  "emojis_present": [
+    "😄"
+  ],
+  "audio_music": "A jarring, aggressive rap track, identified as 'FUCK MARK RUTTE' by sixmillionways2die, plays throughout the clip. Its tone is mocking and confrontational, framing the on-screen exchange in a negative and chaotic light.",
+  "editing_pacing": "The video uses quick cuts between the speaker (Trump), the questioner (a reporter in the audience), and a reaction shot of Marco Rubio laughing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "awkwardness",
+    "disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post highlights a bizarre press conference exchange to portray Donald Trump as having an unprofessional and ridiculous relationship with world leaders.",
+  "intended_effect": "To make the viewer see Donald Trump as foolish and incompetent on the world stage, thereby questioning his fitness for office.",
+  "uncertainty_flags": [
+    "The authenticity of the event described in the reporter's question (Mark Rutte calling Donald Trump 'daddy') cannot be verified from the video alone."
+  ]
+}

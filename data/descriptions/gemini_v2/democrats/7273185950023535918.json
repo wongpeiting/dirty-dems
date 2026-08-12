@@ -1,0 +1,78 @@
+{
+  "video_id": "7273185950023535918",
+  "visual_action": "The video first displays a screenshot of a tweet from 'The Democrats'. It then cuts to a single still photograph of a group of six smiling women, who appear to be politicians, posing together on a porch or deck. In the background is a body of water, a sandy beach, and trees.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video opens with a screenshot of a tweet from the official account 'The Democrats' (@TheDemocrats)."
+    },
+    {
+      "name": "Democratic women governors",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet text reads, 'Democratic women governors get the job done.' The women in the photo are implied to be this group."
+    },
+    {
+      "name": "Gretchen Whitmer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the group photograph of governors."
+    },
+    {
+      "name": "Maura Healey",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the group photograph of governors."
+    },
+    {
+      "name": "Janet Mills",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the group photograph of governors."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Democratic women governors get the job done. 🤌",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A popular audio clip plays featuring dialogue from a movie. A woman asks, \"What's wrong? What is it?\" and another woman replies enthusiastically, \"Oh, how I love being a woman!\" This is followed by a male singing voice.",
+  "emojis_present": [
+    "🤌"
+  ],
+  "audio_music": "A lighthearted, whimsical instrumental track plays throughout. The audio begins with a clip of dialogue: a woman asks \"What's wrong? What is it?\" and another replies \"Oh, how I love being a woman!\" The music then continues with a male vocal line. The overall effect is positive and celebratory.",
+  "editing_pacing": "Slideshow style, showing a static screenshot of a tweet, which then cuts to a single static photograph for the remainder of the video.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "joy",
+    "empowerment",
+    "solidarity"
+  ],
+  "cultural_references": [
+    "The audio features a clip from the movie 'White Oleander' (2002), where a character exclaims 'Oh, how I love being a woman!', which is a popular sound trend on TikTok used to express joy or appreciation."
+  ],
+  "central_claim": "Democratic women governors are effective and successful leaders.",
+  "intended_effect": "To evoke feelings of pride, female empowerment, and support for the Democratic Party's women governors.",
+  "uncertainty_flags": [
+    "Could not definitively identify all six women in the group photograph, though several prominent Democratic governors like Gretchen Whitmer, Maura Healey, and Janet Mills are recognizable."
+  ]
+}

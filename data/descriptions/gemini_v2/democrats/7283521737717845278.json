@@ -1,0 +1,56 @@
+{
+  "video_id": "7283521737717845278",
+  "visual_action": "A female news anchor or commentator is shown superimposed against a backdrop of the U.S. Capitol building. A moment later, a man with a mustache pops up next to her, also superimposed. They appear to be at a news desk. Text labels identify the woman as 'Democrats' and the man as 'Republicans'.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A blue on-screen label reads 'Democrats' pointing to the woman speaking."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A red on-screen label reads 'Republicans' pointing to the man speaking."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "*Republicans getting ready to shut down the government over partisan demands*",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman advises against a certain action, saying, \"Obviously don't go and do that... We can't condone anything of the sort.\" A man interrupts her, encouraging the opposite: \"Hey, you do whatever you like!\" He then yells emphatically, \"We can't live! Live!\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of dialogue from a TV clip, with a subtle, tense musical underscore throughout.",
+  "editing_pacing": "The video is a single, static shot featuring superimposed figures and text. The only edit is the pop-up appearance of the second person.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Two people from a TV clip (sports anchor Rebecca Lowe and actor Jason Sudeikis as Ted Lasso) have been digitally cut out and superimposed over a stock image of the U.S. Capitol building to create a political meme.",
+  "emotions_signaled": [
+    "Mockery",
+    "Frustration",
+    "Alarm"
+  ],
+  "cultural_references": [
+    "Jason Sudeikis",
+    "Ted Lasso",
+    "Rebecca Lowe",
+    "NBC Sports"
+  ],
+  "central_claim": "Republicans are behaving erratically and are willing to shut down the government, while Democrats are trying to act responsibly.",
+  "intended_effect": "To portray the Republican party as chaotic and unreasonable in contrast to the more measured Democratic party, framing the potential government shutdown as the fault of Republican extremism.",
+  "uncertainty_flags": []
+}

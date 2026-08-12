@@ -1,0 +1,61 @@
+{
+  "video_id": "7531780421906976055",
+  "visual_action": "The video starts with a still photograph of Donald Trump sitting at a desk, holding up a signed document. He is surrounded by a group of smiling and applauding men in suits. Text is overlaid on this image. The video then cuts to a grid of four screenshots of what appear to be news headlines against a plain white background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in the initial photograph and is named in one of the on-screen headlines: \"Trump's Medicaid cuts\"."
+    },
+    {
+      "name": "Planned Parenthood",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An on-screen headline reads: \"Planned Parenthood permanently closes 5 NorCal health centers including in the Bay Area\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"what happens in DC doesn't affect me\"",
+      "role": "meme_text"
+    },
+    {
+      "text": "Planned Parenthood permanently closes 5 NorCal health centers including in the Bay Area",
+      "role": "overlay"
+    },
+    {
+      "text": "Medicaid\nTrump's Medicaid cuts are coming for rural Americans: 'It's going to have to hit them first'",
+      "role": "overlay"
+    },
+    {
+      "text": "This mother relies on SNAP to help feed her kids. Now, she's bracing for cuts",
+      "role": "overlay"
+    },
+    {
+      "text": "Jul 25, 2025 - News\nNorth Carolina food bank warns it won't be able to meet demand after SNAP cuts",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is accompanied only by music.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the song 'Let Down' by Radiohead. The track has a melancholic and somber tone that plays continuously throughout, creating a feeling of sadness and concern that complements the negative headlines shown on screen.",
+  "editing_pacing": "The video has a very simple, static, slideshow-style editing, consisting of one still image followed by another.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "anxiety",
+    "sadness"
+  ],
+  "cultural_references": [
+    "Let Down by Radiohead"
+  ],
+  "central_claim": "Political decisions made in Washington D.C. by Donald Trump and his allies have severe, negative real-world consequences for Americans' access to healthcare and food.",
+  "intended_effect": "To persuade viewers that political actions have direct personal impacts and to generate concern and opposition towards the policies shown.",
+  "uncertainty_flags": []
+}

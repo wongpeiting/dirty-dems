@@ -1,0 +1,51 @@
+{
+  "video_id": "7143457926521359659",
+  "visual_action": "Vice President Kamala Harris speaks outdoors at a podium with two microphones. She is wearing a light-colored suit. An American flag is visible behind her. The shot is a close-up to medium shot of her speaking. She smiles as the crowd applauds.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visibly present and speaking throughout the video."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Harris credits him by name in her speech: \"...and because of our president, Joe Biden.\""
+    },
+    {
+      "name": "U.S. Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Harris thanks \"members of Congress\" in her speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VP Harris celebrating the Inflation Reduction Act's historic climate action",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Kamala Harris states that for decades the nation failed to address the climate crisis with enough urgency. She then credits members of Congress, state and local officials, labor leaders, climate activists, community organizers, and especially President Joe Biden for enabling recent progress. She concludes by saying, \"America is leading on climate, not just with declarations, but with action.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of Kamala Harris's speech, with the sound of an audience applauding after she mentions Joe Biden. There is no background music.",
+  "editing_pacing": "The video is a single, continuous shot of a person speaking, consistent with a talking-head style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "triumph",
+    "seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Thanks to President Biden and Democratic allies, America is now a leader in taking concrete action on climate change after decades of failure.",
+  "intended_effect": "To make the viewer feel proud of the Biden-Harris administration's accomplishments on climate change and credit them for their leadership.",
+  "uncertainty_flags": []
+}

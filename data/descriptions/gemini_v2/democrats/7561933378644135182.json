@@ -1,0 +1,68 @@
+{
+  "video_id": "7561933378644135182",
+  "visual_action": "A montage of video clips showing Donald Trump speaking at a podium in what appears to be the White House. He seems to be struggling to read from a script or teleprompter. The clips are sourced from news broadcasts, with chyrons from Fox News and a logo from NBC News visible. At one point, the video cuts to a screen of TV color bars and static.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown in multiple clips speaking at a podium, struggling to pronounce words."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A chyron on screen reads 'FOX NEWS ALERT'."
+    },
+    {
+      "name": "NBC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NBC News logo is visible in the top right corner of one of the clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "when he can't read 😩",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: WE'VE BEEN RIPPED OFF BY THE WHO",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "NBC NEWS",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump is shown struggling to pronounce several words. He says \"It's pergo-virus. Pergo-virus.\" In another clip, he seems to give up on a word, saying \"well, let's see how we say that.\" In a third, he attempts to sound out a drug name: \"IVF drug, go-null-f. So it's go-null-f.\"",
+  "emojis_present": [
+    "😩"
+  ],
+  "audio_music": "An upbeat, inspirational-sounding pop song ('Free To Be Me' by Francesca Battistelli) plays throughout the video, creating an ironic contrast with the visuals of Trump stumbling over his words. A bleep sound effect is used as a transition.",
+  "editing_pacing": "The video is a montage with quick cuts between different clips of Trump speaking, interspersed with a cut to TV static.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is portrayed as cognitively unfit or illiterate because he struggles to read and pronounce words correctly during public addresses.",
+  "intended_effect": "To make the viewer mock Donald Trump and question his competency.",
+  "uncertainty_flags": []
+}

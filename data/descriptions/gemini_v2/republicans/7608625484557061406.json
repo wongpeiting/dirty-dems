@@ -1,0 +1,93 @@
+{
+  "video_id": "7608625484557061406",
+  "visual_action": "The video opens with a news anchor, George Stephanopoulos, speaking, with a breaking news chyron at the bottom. The video then cuts to a slideshow of still images: a photo of Prince Andrew in a suit, a photo of him in a military uniform, a close-up photo of Bill Clinton looking sideways with a concerned expression, and finally a painting of Bill Clinton wearing a blue dress and reclining in a chair.",
+  "cast": [
+    {
+      "name": "George Stephanopoulos",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears as the news anchor delivering the fabricated report at the beginning of the video."
+    },
+    {
+      "name": "Prince Andrew",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of the fabricated news report, which claims he has been arrested. His photo appears on screen."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned in the audio as the reason for Prince Andrew's supposed arrest: \"presumably in connection with his relationship with Jeffrey Epstein.\""
+    },
+    {
+      "name": "Bill Clinton",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His photo appears as the punchline of the video after the mention of Epstein, followed by a painting of him in a dress, implying his connection to the scandal."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "SPECIAL REPORT",
+      "role": "chyron"
+    },
+    {
+      "text": "CE ANDREW HAS BEEN ARRESTED ON SUSPICION",
+      "role": "chyron"
+    },
+    {
+      "text": "UCT IN PUBLIC OFFICE",
+      "role": "chyron"
+    },
+    {
+      "text": "and we have some breaking news",
+      "role": "overlay"
+    },
+    {
+      "text": "some stunning news out of London",
+      "role": "overlay"
+    },
+    {
+      "text": "Andrew Mountbatten Windsor",
+      "role": "overlay"
+    },
+    {
+      "text": "the former Prince Andrew has been arrested",
+      "role": "overlay"
+    },
+    {
+      "text": "presumably in connection with his relationship with Jeffrey Epstein",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An audio clip of a news anchor, resembling George Stephanopoulos, delivers a fabricated breaking news report stating, \"Andrew Mountbatten-Windsor, the former Prince Andrew, has been arrested, presumably in connection with his relationship with Jeffrey Epstein.\"",
+  "emojis_present": [
+    "👀"
+  ],
+  "audio_music": "The audio begins with a news report voiceover set to dramatic, news-style music. This is overlaid with a tense, electronic track. At the moment Bill Clinton appears on screen, the music switches to the viral \"Oh No\" TikTok meme sound, which repeats \"oh no, oh no, oh no no no no,\" creating a mocking and accusatory tone.",
+  "editing_pacing": "The video starts as a talking-head news clip and then transitions into a slideshow of still images, with cuts timed to the audio to create a setup-punchline structure.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a fabricated news report announcing the arrest of Prince Andrew. It uses a clip of a real news anchor with what appears to be a superimposed chyron and edited or generated audio to create a false event. This fake news story is then used to pivot to and mock Bill Clinton by implying his involvement in the same scandal.",
+  "emotions_signaled": [
+    "Mockery",
+    "Suspicion",
+    "Alarm"
+  ],
+  "cultural_references": [
+    "The 'Oh No' TikTok meme sound"
+  ],
+  "central_claim": "The video fabricates a news story about Prince Andrew's arrest in connection to Jeffrey Epstein to imply that Bill Clinton is also guilty and should be concerned.",
+  "intended_effect": "To mock Bill Clinton and reinforce a negative narrative associating him with the Jeffrey Epstein scandal.",
+  "uncertainty_flags": [
+    "The audio of the news report could be a voice clone, selectively edited clips, or a soundalike, but it is definitively used to create a fabricated news event."
+  ]
+}

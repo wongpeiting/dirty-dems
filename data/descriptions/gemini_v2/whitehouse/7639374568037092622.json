@@ -1,0 +1,53 @@
+{
+  "video_id": "7639374568037092622",
+  "visual_action": "A static, wide shot taken at night on an airport tarmac. Air Force One is parked in the background. A long red carpet stretches from the plane towards the camera. On either side of the carpet, two long lines of young people, identified by on-screen text as Chinese students, wave small flags in unison. A group of men in suits, including Donald Trump, are walking down the red carpet away from the plane.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads 'Chinese students greet President Trump...'. He is also visually identifiable in the group walking on the red carpet."
+    },
+    {
+      "name": "Chinese students",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "On-screen text identifies the large group of flag-wavers as 'Chinese students'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Chinese students greet President Trump with a flag-waving ceremony upon his arrival in Beijing 🇺🇸🇨🇳",
+      "role": "overlay"
+    },
+    {
+      "text": "UNITED STATES",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of a large crowd of people chanting loudly and in unison in Chinese. The chant sounds like a welcome, repeating phrases. The provided transcript 'Hello, hello' is incorrect.",
+  "emojis_present": [
+    "🇺🇸",
+    "🇨🇳"
+  ],
+  "audio_music": "The only audio is the sound of a large crowd chanting in unison. There is no music or other sound design. The effect is one of a formal, organized, and grand welcome.",
+  "editing_pacing": "The video is a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "respect",
+    "formality"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump received a grand and highly organized welcome from students upon his arrival in Beijing, demonstrating his international stature.",
+  "intended_effect": "To make the viewer feel that the President is highly respected on the world stage.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is incorrect; the audio is a crowd chanting in Chinese, likely a welcome chant.",
+    "The exact date of this event is not specified in the video."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "video_id": "7629813150950493454",
+  "visual_action": "The video shows Donald Trump speaking at a podium with a blue backdrop that reads \"NO TAX ON TIPS\" and \"NEVADA\". As he says he is not a senior citizen, the video freezes. A graphical overlay, designed to look like a digital contact card or search result, appears over the center of the screen. This overlay shows a photo of Trump, his name, his age as \"79 years\", and his birthdate.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the only person shown and heard speaking. The video centers on his statement about not being a senior, which is immediately contradicted by an on-screen graphic showing his age."
+    },
+    {
+      "name": "Mejia",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The name appears in the C-SPAN news ticker at the bottom of the screen: \"MEJIA REPLACES MIKIE SHERRILL (D)\"."
+    },
+    {
+      "name": "Mikie Sherrill",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears in the C-SPAN news ticker at the bottom of the screen: \"MEJIA REPLACES MIKIE SHERRILL (D) WHO BECAME NJ GOVERNOR\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PRESIDENT TRUMP DISCUSSES NO TAX ON TIPS POLICY",
+      "role": "chyron"
+    },
+    {
+      "text": "ALERT MEJIA REPLACES MIKIE SHERRILL (D) WHO BECAME NJ GOVERNOR",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "NO TAX ON TIPS",
+      "role": "other"
+    },
+    {
+      "text": "LAS VEGAS NEVADA",
+      "role": "other"
+    },
+    {
+      "text": "Donald Trump > Age",
+      "role": "overlay"
+    },
+    {
+      "text": "79 years",
+      "role": "overlay"
+    },
+    {
+      "text": "June 14, 1946",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"Of course, I'm not a senior, so I, you know.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's speaking voice until the video freezes, at which point a single, loud, and dramatic bass-heavy 'boom' sound effect plays to emphasize the reveal of his age.",
+  "editing_pacing": "The video consists of a single static shot of a speaker. It employs a freeze-frame effect, followed by the appearance of a graphical overlay to create a punchline.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A fake information card, styled to look like a search result or phone UI element, is superimposed over the video. It displays Donald Trump's age (79) to directly contradict and mock his on-screen statement that he is 'not a senior'.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The use of a pop-up information card to fact-check a speaker in real-time is a common internet meme format."
+  ],
+  "central_claim": "Donald Trump is being dishonest or is delusional when he claims not to be a senior citizen, as he is 79 years old.",
+  "intended_effect": "To make the audience laugh at Donald Trump and view him as old and out of touch.",
+  "uncertainty_flags": []
+}

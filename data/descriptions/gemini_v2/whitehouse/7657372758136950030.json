@@ -1,0 +1,125 @@
+{
+  "video_id": "7657372758136950030",
+  "visual_action": "The video intersperses clips of Donald Trump speaking at a podium with a high-energy montage of famous moments from past FIFA World Cup matches. The montage includes shots of FIFA President Gianni Infantino, various soccer players scoring goals and celebrating (including Lionel Messi and Cristiano Ronaldo), fans in stadiums, and French President Emmanuel Macron celebrating. The video concludes with a graphic for the FIFA 2026 World Cup.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker throughout the video, and his face is shown repeatedly."
+    },
+    {
+      "name": "Gianni Infantino",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Donald Trump says \"through Gianni,\" and a clip of Infantino is shown immediately after."
+    },
+    {
+      "name": "Emmanuel Macron",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in a brief clip celebrating in the stands at a football match."
+    },
+    {
+      "name": "FIFA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The organization's name appears on the final graphic, and the video is about the World Cup, which it organizes."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Gianni,",
+      "role": "caption"
+    },
+    {
+      "text": "- he's",
+      "role": "caption"
+    },
+    {
+      "text": "we got",
+      "role": "caption"
+    },
+    {
+      "text": "And I",
+      "role": "caption"
+    },
+    {
+      "text": "I got the Olympics",
+      "role": "caption"
+    },
+    {
+      "text": "World",
+      "role": "caption"
+    },
+    {
+      "text": "president.",
+      "role": "caption"
+    },
+    {
+      "text": "they're",
+      "role": "caption"
+    },
+    {
+      "text": "I got",
+      "role": "caption"
+    },
+    {
+      "text": "to",
+      "role": "caption"
+    },
+    {
+      "text": "you",
+      "role": "caption"
+    },
+    {
+      "text": "is.",
+      "role": "caption"
+    },
+    {
+      "text": "said,",
+      "role": "caption"
+    },
+    {
+      "text": "I'll",
+      "role": "caption"
+    },
+    {
+      "text": "FIFA",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump speaks about how, through his friend \"Gianni,\" he secured both the Olympics and the World Cup for the United States. He laments that by the time the events happen, he won't be president and people will forget that he was the one who got them. He then says he decided, \"I'll run again and I'll shove it up their...\" The final word is bleeped out.",
+  "emojis_present": [],
+  "audio_music": "The video begins with Trump's speech over a subtle, atmospheric track. At around 8 seconds, as a fast-paced montage of soccer highlights begins, the music switches to a high-energy, celebratory electronic anthem that continues until the end of the video, creating a sense of hype and excitement.",
+  "editing_pacing": "The video alternates between static shots of Trump speaking and a fast-paced montage with rapid cuts of soccer highlights, creating a high-energy feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Accomplishment",
+    "Excitement",
+    "Defiance"
+  ],
+  "cultural_references": [
+    "FIFA World Cup",
+    "Tim Cahill",
+    "Toni Kroos",
+    "Lionel Messi",
+    "James Rodríguez",
+    "Cristiano Ronaldo",
+    "Kingsley Coman",
+    "iShowSpeed"
+  ],
+  "central_claim": "Donald Trump deserves credit for bringing the 2026 FIFA World Cup to the United States, and his presidential campaign is, in part, a way to reclaim that recognition.",
+  "intended_effect": "To associate Trump with the excitement of the World Cup, portray him as a successful dealmaker who delivers for the country, and energize his supporters with a message of defiance.",
+  "uncertainty_flags": []
+}

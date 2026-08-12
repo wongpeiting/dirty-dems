@@ -1,0 +1,73 @@
+{
+  "video_id": "7626553492777291039",
+  "visual_action": "The video opens with Donald Trump, wearing a 'MAKE AMERICA GREAT AGAIN' hat, and professional golfer Bryson DeChambeau sitting in a golf cart and having a short conversation. After a brief visual glitch effect, the video transitions to a montage of clips from various professional golf tournaments. The montage features several different famous golfers sinking puts, celebrating enthusiastically with fist pumps and raised arms, and crowds cheering. The clips span different eras of golf.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible at the start of the video, wearing a MAGA hat and speaking in a golf cart."
+    },
+    {
+      "name": "Bryson DeChambeau",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Professional golfer identified by face, sitting and speaking with Donald Trump in a golf cart."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video was posted by the @republicans account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "Blue Yonder",
+      "role": "other"
+    },
+    {
+      "text": "SCHEFFLER",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "In a golf cart, Bryson DeChambeau says \"Oh, I have,\" to which Donald Trump replies, \"I have, yeah. I have a great playlist.\" This line serves as an introduction to the subsequent montage set to music.",
+  "emojis_present": [
+    "⛳️",
+    "🇺🇸",
+    "🦅"
+  ],
+  "audio_music": "The video begins with dialogue. Following the line \"I have a great playlist,\" the upbeat and celebratory 1969 pop song \"I Want You Back\" by The Jackson 5 begins and plays throughout the montage of golf highlights.",
+  "editing_pacing": "The video starts with a single, static shot in a golf cart, then transitions into a fast-paced montage with quick cuts between various archival clips of golf highlights.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Pride",
+    "Nostalgia",
+    "Confidence"
+  ],
+  "cultural_references": [
+    "The Jackson 5",
+    "The Masters Tournament",
+    "Tiger Woods",
+    "Jack Nicklaus",
+    "Scottie Scheffler"
+  ],
+  "central_claim": "Donald Trump is associated with iconic moments of American victory and greatness, much like the legendary golfers featured in the video.",
+  "intended_effect": "To create a positive association between Donald Trump and feelings of success, victory, and American pride.",
+  "uncertainty_flags": [
+    "Could not definitively identify every golfer in the montage, though several famous ones are recognizable.",
+    "The on-screen text 'SCHEFFLER' from the OCR is not clearly visible in the video provided."
+  ]
+}

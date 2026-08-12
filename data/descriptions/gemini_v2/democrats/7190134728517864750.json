@@ -1,0 +1,45 @@
+{
+  "video_id": "7190134728517864750",
+  "visual_action": "Joe Biden, wearing a suit and aviator sunglasses, walks towards the camera in slow motion outdoors. A screenshot of a tweet from his official account is overlaid on the center of the screen.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the person shown walking in the video, and the on-screen text is a tweet from his account."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet mentions them: \"Republicans had no problem enacting a $2 trillion tax cut...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Joe Biden @JoeBiden United States government official\n\nRepublicans had no problem enacting a $2 trillion tax cut that overwhelmingly benefitted the wealthiest Americans and biggest corporations.\n\nNow, thanks to the Inflation Reduction Act, corporations will have to pay a minimum corporate tax of 15%.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is not speech but a popular meme sound. It features a female voice saying \"Your honor\" and \"Your honor, I'm slaying\" over an upbeat, glitchy electronic beat.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, repetitive, and glitchy electronic track characteristic of a TikTok meme sound. It features chopped vocal samples, including a female voice saying \"Your honor, I'm slaying.\" The effect is trendy and confident.",
+  "editing_pacing": "The video consists of a single slow-motion shot with a static text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Confidence",
+    "Triumph"
+  ],
+  "cultural_references": [
+    "The audio is a popular TikTok meme sound, often referred to as 'Your honor, I'm slaying,' used to signal that someone is succeeding or looking good."
+  ],
+  "central_claim": "Joe Biden successfully passed the Inflation Reduction Act to make corporations pay a minimum tax, in contrast to Republicans who passed tax cuts for the wealthy.",
+  "intended_effect": "To portray Joe Biden as a cool, confident, and effective leader who is achieving his policy goals and holding corporations accountable.",
+  "uncertainty_flags": []
+}

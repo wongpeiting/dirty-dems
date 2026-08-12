@@ -1,0 +1,103 @@
+{
+  "video_id": "7556296872470662413",
+  "visual_action": "A still image of Mike Johnson with a fake tweet overlay about a government shutdown transitions to a screenshot of a fabricated conversation with the AI 'Grok', which outlines a future scenario (dated September 26, 2025) where the Republican party controls the Presidency, Congress, and Supreme Court.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photo of him is shown, and he is named in on-screen text as \"SPEAKER JOHNSON\" and \"Speaker Mike Johnson\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in on-screen text as \"President Donald Trump\" leading the Executive Branch in a hypothetical future."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly states, \"Republicans control all three branches of the U.S. federal government\"."
+    },
+    {
+      "name": "Grok",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and logo for the AI chat interface \"Grok\" are visible on screen as the source of the displayed information."
+    },
+    {
+      "name": "NewsWire",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A logo and handle \"@NewsWire_US\" appear on a fake tweet overlay."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NewsWire @NewsWire_US",
+      "role": "overlay"
+    },
+    {
+      "text": "SPEAKER JOHNSON SAYS PRAYING FOR A VERY SHORT SHUTDOWN",
+      "role": "overlay"
+    },
+    {
+      "text": "Grok",
+      "role": "overlay"
+    },
+    {
+      "text": "which party controls all three branches of the us government?",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans control all three branches of the U.S. federal government as of September 26, 2025.",
+      "role": "overlay"
+    },
+    {
+      "text": "Here's a quick breakdown:",
+      "role": "overlay"
+    },
+    {
+      "text": "Executive Branch: President Donald Trump, a Republican, leads this branch following his 2024 election victory.",
+      "role": "overlay"
+    },
+    {
+      "text": "Legislative Branch: Republicans hold majorities in both the House of Representatives (with Speaker Mike Johnson) and the Senate.",
+      "role": "overlay"
+    },
+    {
+      "text": "Judicial Branch: While not partisan, the Supreme Court has a 6-3 conservative majority, shaped by Republican presidential appointments.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. The audio consists of a song with Portuguese lyrics playing throughout.",
+  "emojis_present": [],
+  "audio_music": "A slightly off-key, whimsical-sounding song with a male vocalist and simple instrumental backing plays throughout. The music sounds like a popular meme audio track, creating a mocking or sarcastic tone.",
+  "editing_pacing": "The video consists of two static images shown in sequence: first, a photo with a text overlay, and second, a screenshot.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video uses two fabricated elements: a fake tweet from 'NewsWire' overlaid on a picture of Mike Johnson, and a fabricated screenshot of an AI (Grok) chat. The Grok screenshot presents a hypothetical future (dated September 26, 2025) where Republicans control all branches of government as a factual AI response, in order to warn of that outcome.",
+  "emotions_signaled": [
+    "fear",
+    "anxiety",
+    "urgency",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Grok (AI chatbot)",
+    "Fake tweet meme format"
+  ],
+  "central_claim": "If Republicans win the election, they will gain complete control over all three branches of the U.S. government by 2025.",
+  "intended_effect": "To frighten viewers with the prospect of total Republican control of government and motivate them to vote for Democrats.",
+  "uncertainty_flags": []
+}

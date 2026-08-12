@@ -1,0 +1,58 @@
+{
+  "video_id": "7650186540504632607",
+  "visual_action": "Markwayne Mullin speaks at a podium with the Department of Justice seal. He is at a press conference, flanked by an unidentified man and woman. A red graphic overlay with text is at the top of the screen, and a Republican Party elephant logo is at the bottom.",
+  "cast": [
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face recognition and on-screen text as 'Secretary Mullin.' He is the sole speaker in the video."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads '...trafficked across Biden's open border...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the final spoken line: 'Because of President Trump's leadership, we're going into those sanctuary cities.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Secretary Mullin announces 146,000 children trafficked across Biden's open border have been resued",
+      "role": "overlay"
+    },
+    {
+      "text": "DEPARTMENT OF JUSTICE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Markwayne Mullin states that 146,000 trafficked children have been found, but nearly 300,000 are still missing. He speaks of reports that some children were \"raped 600 to 700 times.\" He challenges people of all political parties to support law enforcement in finding these children, asking, \"If you can't stand for law enforcement to go find these kids, who are you?\" Mullin claims that most of these children are found in \"sanctuary cities\" because the traffickers \"know they're safe\" there. He concludes by stating that due to \"President Trump's leadership,\" authorities will be \"going into those sanctuary cities.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a man's speech at a press conference, with ambient room noise.",
+  "editing_pacing": "The video is a single, static shot of a talking head at a press conference.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "horror",
+    "outrage",
+    "moral indignation"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Biden administration's open border policies and sanctuary cities are responsible for a large-scale child trafficking crisis, which Donald Trump's leadership will resolve.",
+  "intended_effect": "To provoke anger and fear regarding child trafficking, direct that anger towards Joe Biden and sanctuary cities, and present Donald Trump as the solution.",
+  "uncertainty_flags": [
+    "The on-screen text refers to the speaker as 'Secretary Mullin.' Markwayne Mullin is a U.S. Senator, not a cabinet Secretary, suggesting a possible error in the on-screen graphic.",
+    "The on-screen text contains a typo, 'resued,' which likely was intended to be 'rescued.'"
+  ]
+}

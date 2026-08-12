@@ -1,0 +1,55 @@
+{
+  "video_id": "7550692592531377422",
+  "visual_action": "Donald Trump and Melania Trump walk up the stairs onto Air Force One on an airport tarmac. At the top of the stairs, Donald Trump turns and waves. The video ends with a black-and-white title card showing the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown boarding Air Force One and is identified in on-screen text as 'President Trump'."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is shown boarding Air Force One with Donald Trump and is identified in on-screen text as 'First Lady Melania Trump'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a title card that reads 'THE WHITE HOUSE' over an image of the building."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump & First Lady Melania Trump Board Air Force One For U.K. State Visit",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio is entirely the loud ambient sound of jet engines.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of the loud, continuous ambient sound of jet engines on the airport tarmac, creating a sense of power and officialdom.",
+  "editing_pacing": "A single, continuous shot following the subjects, which then cuts to a final black-and-white title card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "sense of importance"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump and First Lady Melania Trump are undertaking official duties by traveling to the U.K. for a state visit.",
+  "intended_effect": "To project an image of presidential power and inform viewers of the Trumps' official diplomatic travel.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,52 @@
+{
+  "video_id": "7308790992402992430",
+  "visual_action": "A slideshow of three photos of former congressman George Santos. The first is his official portrait in front of an American flag. The second shows him in sunglasses surrounded by a media scrum. The third shows him indoors, looking agitated and pointing downwards.",
+  "cast": [
+    {
+      "name": "George Santos",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is a slideshow of his pictures, and the first on-screen text says 'Hi, this is George Santos!'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to being 'expelled by my own party.' As a Republican congressman, this refers to the Republican Party."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Hi, this is George Santos!",
+      "role": "overlay"
+    },
+    {
+      "text": "Before I got expelled by my own party",
+      "role": "overlay"
+    },
+    {
+      "text": "After I got expelled by my own party",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman's voice, identified as 'Britney', says 'Hi, this is Britney, 12 hours before my show... 12 hours after my show.' This audio is recontextualized by the on-screen text to refer to George Santos' expulsion from Congress.",
+  "emojis_present": [],
+  "audio_music": "A dramatic and somewhat melancholic pop track ('Shattered Glass' by HARI) plays throughout. A viral audio clip of Britney Spears speaking is layered over the music.",
+  "editing_pacing": "A slow-paced slideshow featuring three static images, each displayed for a few seconds.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The video uses a viral audio clip from Britney Spears describing her state before and after a show. This 'before/after' audio is a well-known meme format on TikTok."
+  ],
+  "central_claim": "George Santos's expulsion from Congress by his own party was a dramatic downfall that is framed as a subject for mockery using a popular meme format.",
+  "intended_effect": "To mock George Santos and derive humor from his political expulsion.",
+  "uncertainty_flags": []
+}

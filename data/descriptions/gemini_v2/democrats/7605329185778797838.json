@@ -1,0 +1,103 @@
+{
+  "video_id": "7605329185778797838",
+  "visual_action": "The video opens with a nostalgic-looking, sun-drenched photo of two silhouetted women on a beach, making heart shapes with their hands. It then transitions to a slideshow of four screenshots of tweets from Republican politicians (Marco Rubio, Lindsey Graham, John Thune, and J.D. Vance) from 2016 and an unspecified year, all expressing opposition to Donald Trump.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The opening text reads \"pov it's 2016 and you're a republican\". The video then shows tweets from multiple prominent Republican figures."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of all four tweets shown in the video, e.g., Marco Rubio's tweet calls him a \"con artist\" and Lindsey Graham's tweet says he is \"not a conservative Republican.\""
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A screenshot of his tweet from February 26, 2016, is shown, stating, \"Donald Trump is a con artist — and he cannot be our nominee. #NeverTrump\"."
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A screenshot of his tweet is shown, stating, \"Donald Trump is not a conservative Republican. He's an opportunist. He's not fit to be President of the United States.\""
+    },
+    {
+      "name": "John Thune",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A screenshot of his tweet from October 8, 2016, is shown, stating, \"Donald Trump should withdraw and Mike Pence should be our nominee effective immediately.\""
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned in John Thune's tweet as the preferred nominee over Donald Trump in 2016."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A screenshot of his tweet from March 31 is shown, stating, \"In 4 years, I hope people remember that it was those of us who empathized with Trump's voters who fought him most aggressively\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "pov it's 2016 and you're a republican",
+      "role": "overlay"
+    },
+    {
+      "text": "Marco Rubio @marcorubio\nDonald Trump is a con artist — and he cannot be our nominee.\n#NeverTrump\n11:31 PM · Feb 26, 2016",
+      "role": "other"
+    },
+    {
+      "text": "Lindsey Graham @LindseyGrahamSC · 18h\nDonald Trump is not a conservative Republican. He's an opportunist. He's not fit to be President of the United States.",
+      "role": "other"
+    },
+    {
+      "text": "Leader John Thune @LeaderJohnThune\nDonald Trump should withdraw and Mike Pence should be our nominee effective immediately.\n12:51 PM · Oct 8, 2016",
+      "role": "other"
+    },
+    {
+      "text": "J.D. Vance @JDVance1 · Mar 31\nIn 4 years, I hope people remember that it was those of us who empathized with Trump's voters who fought him most aggressively",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no dialogue or spoken words in the video; only a pop song plays.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, nostalgic-sounding pop song, identified as 'Lush Life' by Zara Larsson, plays continuously throughout the video. Its cheerful and carefree tone creates an ironic contrast with the political content.",
+  "editing_pacing": "The video is a simple slideshow, starting with a still image and then cycling through four static screenshots of tweets.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Irony",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The 'POV' (Point of View) meme format.",
+    "The song 'Lush Life' by Zara Larsson, a popular song from the mid-2010s.",
+    "The visual aesthetic of 2010s social media, represented by the filtered sunset beach photo."
+  ],
+  "central_claim": "Prominent Republican politicians who currently support Donald Trump, such as Marco Rubio, Lindsey Graham, and J.D. Vance, were strongly against his candidacy in 2016, suggesting their positions have changed opportunistically.",
+  "intended_effect": "To portray key Republican figures as hypocritical and inconsistent by contrasting their past anti-Trump statements with their current support for him.",
+  "uncertainty_flags": []
+}

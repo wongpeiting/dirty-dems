@@ -1,0 +1,114 @@
+{
+  "video_id": "7326732196289563950",
+  "visual_action": "A screen recording of a tweet from the 'Biden-Harris HQ' account. The tweet contains text and an embedded video clip. The video clip shows former Vice President Mike Pence speaking at a 'Students for Life' summit. He is seated on a stage with a female interviewer, in front of a blue backdrop that says 'SUMMIT'. The clip cuts between a two-shot and a close-up of Pence as he speaks into a microphone.",
+  "cast": [
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker in the video clip, identified by face, and named in the on-screen tweet text: 'Mike Pence says...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned in the on-screen tweet text which frames Pence's comments: '...excited for a second Trump presidency...'"
+    },
+    {
+      "name": "Biden-Harris HQ",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The account name 'Biden-Harris HQ' and handle '@BidenHQ' are visible as the author of the tweet shown on screen."
+    },
+    {
+      "name": "Students for Life",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's name/logo is visible on the backdrop of the stage where Mike Pence is speaking."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is shown on stage sitting across from Mike Pence."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Biden-Harris HQ",
+      "role": "overlay"
+    },
+    {
+      "text": "@BidenHQ",
+      "role": "overlay"
+    },
+    {
+      "text": "Mike Pence says he is excited for a second Trump presidency to immediately ban abortion pills in all 50 states on day one: Pull it off the market",
+      "role": "overlay"
+    },
+    {
+      "text": "SUMMIT",
+      "role": "other"
+    },
+    {
+      "text": "STUDENTS FOR LIFE",
+      "role": "other"
+    },
+    {
+      "text": "I think that",
+      "role": "caption"
+    },
+    {
+      "text": "our new president should",
+      "role": "caption"
+    },
+    {
+      "text": "direct the new attorney general",
+      "role": "caption"
+    },
+    {
+      "text": "to suspend all efforts to harass pro-life activists.",
+      "role": "caption"
+    },
+    {
+      "text": "And frankly,",
+      "role": "caption"
+    },
+    {
+      "text": "I think they should pull the abortion pill off",
+      "role": "caption"
+    },
+    {
+      "text": "the market and demand",
+      "role": "caption"
+    },
+    {
+      "text": "that the law is properly enforced.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Mike Pence states that a new president should direct the Attorney General to stop harassing pro-life activists. He then adds, \"Frankly, I think they should pull the abortion pill off the market and demand that the law is properly enforced,\" which is met with audience applause.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of Mike Pence's speech with natural event ambiance. There is audible applause and cheering from the audience after his remarks about the abortion pill. No music is present.",
+  "editing_pacing": "The video is a static screen recording of a social media post. The embedded clip within the post uses simple cuts between a wide shot and a medium close-up of the speaker, characteristic of event coverage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Mike Pence wants a second Trump administration to ban abortion pills nationwide.",
+  "intended_effect": "To alarm voters who support abortion access and motivate them to oppose Donald Trump and Mike Pence.",
+  "uncertainty_flags": []
+}

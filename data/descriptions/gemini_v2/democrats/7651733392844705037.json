@@ -1,0 +1,96 @@
+{
+  "video_id": "7651733392844705037",
+  "visual_action": "A desaturated, fast-paced montage of Donald Trump at various public events, such as rallies and formal functions. He is seen smiling, pointing, speaking at a podium, and raising a fist. Text overlays with negative claims about him appear on screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of every shot in the video montage and is identified by on-screen text."
+    },
+    {
+      "name": "Donald Trump Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly in the background behind Donald Trump at approximately 0:04."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "47th President",
+      "role": "overlay"
+    },
+    {
+      "text": "- Sexual assault allegations",
+      "role": "overlay"
+    },
+    {
+      "text": "- Friends with notorious pedophile",
+      "role": "overlay"
+    },
+    {
+      "text": "- Gutted healthcare",
+      "role": "overlay"
+    },
+    {
+      "text": "- Bombed a girls' school",
+      "role": "overlay"
+    },
+    {
+      "text": "- Attacked public lands",
+      "role": "overlay"
+    },
+    {
+      "text": "- Deported U.S. citizens",
+      "role": "overlay"
+    },
+    {
+      "text": "- Ruined the economy",
+      "role": "overlay"
+    },
+    {
+      "text": "- Multiple felony convictions",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP VANCE",
+      "role": "other"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN! 2024",
+      "role": "other"
+    },
+    {
+      "text": "TEXT TRUMP TO 88022",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set entirely to music.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the upbeat, rhythmic song 'Paper Planes' by M.I.A., which plays continuously. The use of a popular, energetic track creates a jarring and critical contrast with the serious negative allegations presented on screen.",
+  "editing_pacing": "A fast-paced montage with quick cuts between different clips of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disapproval",
+    "anger",
+    "fear",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The song 'Paper Planes' by M.I.A."
+  ],
+  "central_claim": "Donald Trump is a dangerous and corrupt figure with a history of harmful actions, and therefore should not be the 47th President.",
+  "intended_effect": "To generate opposition to Donald Trump's candidacy by highlighting a list of negative allegations against him.",
+  "uncertainty_flags": [
+    "The identity of the man standing behind Donald Trump at 0:04, who resembles Donald Trump Jr., is not confirmed by authoritative face-ID."
+  ]
+}

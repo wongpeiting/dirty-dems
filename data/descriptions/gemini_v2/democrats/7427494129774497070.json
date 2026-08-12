@@ -1,0 +1,92 @@
+{
+  "video_id": "7427494129774497070",
+  "visual_action": "The video opens with a medium shot of Kamala Harris speaking. It then cuts to a montage of clips showing Donald Trump at various events, looking tired with his eyes closed. In one clip, he is seated at a table with a \"President Trump\" nameplate. In another, he is standing on a stage with \"TRUMP VANCE\" logos behind him. In a final clip, he is seated in an audience. Sleeping and yawning emojis are superimposed over him in these clips.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Kamala Harris is shown speaking at the beginning of the video, with her words setting up the premise for the rest of the content."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is a montage of clips of Donald Trump looking tired, and Kamala Harris's audio questions his fitness for the job, implying she is speaking about him."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video concludes with the on-screen text \"@THEDEMOCRATS\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "IF HE'S EXHAUSTED",
+      "role": "caption"
+    },
+    {
+      "text": "BEING ON THE CAMPAIGN TRAIL",
+      "role": "caption"
+    },
+    {
+      "text": "IS HE FIT TO DO THE JOB?",
+      "role": "caption"
+    },
+    {
+      "text": "😴😪🥱",
+      "role": "overlay"
+    },
+    {
+      "text": "President Trump",
+      "role": "other"
+    },
+    {
+      "text": "AMERICA'S FUTURE",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP VANCE MAKE AMERICA GREAT AGAIN! 2024",
+      "role": "other"
+    },
+    {
+      "text": "TEXT TRUMP TO 88022",
+      "role": "other"
+    },
+    {
+      "text": "PRESIDENT TRUMP'S DEDICATION TO ISRAEL",
+      "role": "chyron"
+    },
+    {
+      "text": "@THEDEMOCRATS",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Kamala Harris speaks, questioning if someone is fit to do their job if they are exhausted from being on the campaign trail. Her words are presented as captions: \"If he's exhausted being on the campaign trail... is he fit to do the job?\"",
+  "emojis_present": [
+    "😴",
+    "😪",
+    "🥱"
+  ],
+  "audio_music": "The video starts with Kamala Harris's spoken dialogue. When the montage of Donald Trump begins, a melancholic pop song with a female vocalist starts playing and continues until the end. The lyrics are about feeling tired.",
+  "editing_pacing": "The video begins with a static shot of a talking head, then transitions to a montage of different clips with slow crossfades and cuts.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Sleeping face (😴), sleeping face with drool (😪), and yawning face (🥱) emojis are digitally superimposed over clips of Donald Trump to mock him by suggesting he is sleeping or tired at public events.",
+  "emotions_signaled": [
+    "mockery",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is too exhausted from campaigning to be fit for the presidency.",
+  "intended_effect": "To raise doubts about Donald Trump's stamina and fitness for office and to mock him as being sleepy.",
+  "uncertainty_flags": [
+    "Some of the on-screen text in the background and on a chyron during the Trump clips is blurry or partially cut off, making a full transcription difficult."
+  ]
+}

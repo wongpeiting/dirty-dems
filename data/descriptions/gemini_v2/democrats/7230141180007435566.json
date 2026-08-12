@@ -1,0 +1,91 @@
+{
+  "video_id": "7230141180007435566",
+  "visual_action": "The video opens with a close-up shot of Kevin McCarthy sitting with a serious expression. It then cuts to a rapid montage of black-and-white portrait photos of various other Republican politicians.",
+  "cast": [
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"House Republicans say mental health is the problem, not assault weapons...\""
+    },
+    {
+      "name": "Kevin Mccarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the opening shot of the video."
+    },
+    {
+      "name": "Andy Biggs",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His photo appears in the montage of Republican politicians."
+    },
+    {
+      "name": "Austin Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His photo appears in the montage of Republican politicians."
+    },
+    {
+      "name": "Dan Crenshaw",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His photo appears in the montage of Republican politicians."
+    },
+    {
+      "name": "Jim Banks",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His photo appears in the montage of Republican politicians."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His photo appears in the montage of Republican politicians."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "House Republicans say mental health is the problem, not assault weapons...",
+      "role": "overlay"
+    },
+    {
+      "text": "So why did they vote against a bill to increase mental health care in schools? 🤔",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists entirely of music.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The video begins with a slow, atmospheric synth track ('Latch - Zenith'). At the 5-second mark, it abruptly switches to a fast-paced, high-energy electronic track with chopped-up vocal samples, creating a jarring and chaotic effect for the montage.",
+  "editing_pacing": "The video starts with a single static shot, then transitions into a fast-cut montage of still photos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "skepticism",
+    "accusation",
+    "frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "House Republicans are hypocritical for blaming gun violence on mental health while voting against a bill to increase mental health care in schools.",
+  "intended_effect": "To persuade the viewer that House Republicans are not sincere in their stated concerns about mental health.",
+  "uncertainty_flags": [
+    "The provided face-ID list contains more names (Elise Stefanik, Louie Gohmert, Markwayne Mullin, Matt Gaetz) than can be confidently distinguished in the very rapid montage."
+  ]
+}

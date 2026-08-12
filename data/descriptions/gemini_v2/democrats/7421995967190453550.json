@@ -1,0 +1,58 @@
+{
+  "video_id": "7421995967190453550",
+  "visual_action": "A montage of clips showing Vice President Kamala Harris and former Representative Liz Cheney together at a public event. They shake hands, smile, walk together, and appear on a stage. Harris puts her arm around Cheney at one point. An American flag is visible in the background of one shot.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is identified by face-ID and is the subject of the text 'our MVP'."
+    },
+    {
+      "name": "Liz Cheney",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is identified by face-ID and named in the on-screen text 'Republican Liz Cheney'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies Liz Cheney as a 'Republican'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republican Liz Cheney supporting our MVP 💙",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only background music.",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "An upbeat, electronic pop song ('The girl, so confusing version with lorde' by Charli xcx and Lorde) plays throughout the video, creating a positive and celebratory mood.",
+  "editing_pacing": "A short montage with simple cuts between different clips of the two politicians together.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Unity",
+    "Pride",
+    "Support"
+  ],
+  "cultural_references": [
+    "The term 'MVP' (Most Valuable Player), borrowed from sports.",
+    "The song 'The girl, so confusing version with lorde' by Charli xcx and Lorde."
+  ],
+  "central_claim": "Republican Liz Cheney supports Kamala Harris, demonstrating Harris's bipartisan appeal.",
+  "intended_effect": "To generate positive feelings and support for Kamala Harris by highlighting her endorsement from a prominent Republican.",
+  "uncertainty_flags": [
+    "The full text on a blue banner in the background of the final shot is illegible."
+  ]
+}

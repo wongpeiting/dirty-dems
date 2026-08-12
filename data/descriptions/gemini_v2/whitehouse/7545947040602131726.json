@@ -1,0 +1,82 @@
+{
+  "video_id": "7545947040602131726",
+  "visual_action": "A montage of clips showing Donald Trump speaking in various settings. He is seen in a hallway talking to a reporter, sitting in an office setting (resembling the Oval Office), and speaking at a podium in front of an American flag. The video concludes with black and white footage of the White House and Marine One, with text overlaying the images.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker and appears in every clip of the montage."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump says, \"He's a friend of CNN. That's why nobody watches CNN anymore.\""
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump says, \"I watch this MSNBC, which is a threat to democracy, actually.\""
+    },
+    {
+      "name": "CBS",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump says, \"Let's hear the question from this very low-rated anchor at CBS.\""
+    },
+    {
+      "name": "unnamed president",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states, \"We had a president that was grossly incompetent.\""
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is briefly shown holding a phone up to Trump in the first clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "BELIEVE PUTIN WA",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump repeatedly attacks news organizations, calling them \"fake news.\" He specifically singles out CNN, claiming no one watches it; MSNBC, which he calls \"a threat to democracy\"; and a \"very low-rated anchor at CBS.\" He asserts these outlets are \"mentally screwed up\" and claims they refused to report on a past \"grossly incompetent\" president because they are \"fake news.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Donald Trump's spoken words, edited together from different clips. Low-frequency 'swoosh' sound effects are used for transitions between clips, adding a dramatic effect. There is no musical score.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different clips of Trump speaking. There are also brief cuts to black between some segments.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Contempt",
+    "Derision",
+    "Anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "Mainstream media outlets like CNN, MSNBC, and CBS are biased, untrustworthy 'fake news' that intentionally mislead the public.",
+  "intended_effect": "To delegitimize mainstream news organizations and reinforce the idea that they are a biased 'enemy' of Trump.",
+  "uncertainty_flags": [
+    "The on-screen chyron text 'BELIEVE PUTIN WA' is incomplete.",
+    "The identity of the 'grossly incompetent' president Trump refers to is not specified."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "video_id": "7406331649467714859",
+  "visual_action": "The video shows a close-up of Senator Elizabeth Warren speaking at a podium in a blue jacket against a blue background. After she delivers a line, the video cuts to several shots of an enthusiastic audience clapping and cheering. The final shot is a wide view of a large, crowded convention hall with large screens displaying Warren's image and text identifying the event as the DNC 2024.",
+  "cast": [
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible speaking throughout the clip and identified by face recognition."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Elizabeth Warren says his name in her speech: \"Trust Donald Trump and JD Vance...\""
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Elizabeth Warren says his name in her speech: \"Trust Donald Trump and JD Vance...\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is set at the Democratic National Convention, with \"DNC 2024\" and \"Democratic National Convention\" visible on large screens."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "👀",
+      "role": "overlay"
+    },
+    {
+      "text": "Trust Donald Trump and JD Vance",
+      "role": "caption"
+    },
+    {
+      "text": "to look out for your family?",
+      "role": "caption"
+    },
+    {
+      "text": "Shoot, I wouldn't let those guys.",
+      "role": "caption"
+    },
+    {
+      "text": "I wouldn't trust them to move my couch.",
+      "role": "caption"
+    },
+    {
+      "text": "DNC 2024",
+      "role": "chyron"
+    },
+    {
+      "text": "Democratic National Convention\nAUGUST 19-22\nCHICAGO",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Elizabeth Warren rhetorically asks the audience, \"Trust Donald Trump and JD Vance to look out for your family?\" She then delivers the punchline, \"Shoot, I wouldn't let those guys. I wouldn't trust them to move my couch.\"",
+  "emojis_present": [
+    "👀"
+  ],
+  "audio_music": "The audio consists solely of Elizabeth Warren's speech, followed by loud applause and cheering from the large crowd which continues to the end of the clip. There is no music.",
+  "editing_pacing": "The video consists of a static shot of the speaker, followed by several quick cuts to reaction shots of the cheering audience, and concludes with a wide shot of the convention hall. The pacing is dictated by the speech's punchline and the subsequent applause.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A blue rectangular box containing the 'eyes' emoji (👀) is superimposed over Elizabeth Warren's head throughout the clip, a common social media practice to add commentary or draw attention.",
+  "emotions_signaled": [
+    "Mockery",
+    "Contempt",
+    "Amusement",
+    "Enthusiasm"
+  ],
+  "cultural_references": [
+    "The use of the 'eyes' emoji (👀) as an overlay is a common internet and social media trend to signal that one is watching something notable or dramatic unfold."
+  ],
+  "central_claim": "Donald Trump and JD Vance are so fundamentally incompetent and untrustworthy that they cannot be relied upon for even the simplest tasks, let alone to govern the country and care for American families.",
+  "intended_effect": "To make viewers laugh at and feel contempt for Donald Trump and JD Vance, while simultaneously energizing Democratic supporters with a memorable attack line.",
+  "uncertainty_flags": []
+}

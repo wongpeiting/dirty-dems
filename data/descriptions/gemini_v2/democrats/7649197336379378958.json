@@ -1,0 +1,64 @@
+{
+  "video_id": "7649197336379378958",
+  "visual_action": "The video opens on a man singing into a microphone in a large arena, with a color guard holding flags behind him. It then cuts to a shot of Donald Trump in a suite, saluting, with a young woman standing beside him. The final shot is of basketball players, wearing 'SPURS' jerseys, standing with their hands over their hearts.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown on screen, identified by face-ID, and is the subject of the on-screen text ('trump getting booed') and the post's caption."
+    },
+    {
+      "name": "NBA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text explicitly states the event is the 'nba finals'."
+    },
+    {
+      "name": "San Antonio Spurs",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The players shown on the court are wearing jerseys that say 'SPURS'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump getting booed at the nba finals 👊😂",
+      "role": "overlay"
+    },
+    {
+      "text": "Finals",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A man sings a portion of the U.S. National Anthem, \"The Star-Spangled Banner.\" Throughout the performance, loud crowd noise is audible, which includes distinct and prominent booing that swells when the video cuts to a shot of Donald Trump.",
+  "emojis_present": [
+    "👊",
+    "😂",
+    "💀"
+  ],
+  "audio_music": "The audio features a solo male voice singing the national anthem a cappella. This is mixed with loud ambient sound from the arena crowd, most notably loud booing. The booing serves to mock and signal public disapproval of the person shown on screen.",
+  "editing_pacing": "The video consists of a few quick cuts between the anthem singer, Donald Trump in the audience, and players on the court.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Schadenfreude"
+  ],
+  "cultural_references": [
+    "NBA Finals",
+    "San Antonio Spurs",
+    "The Star-Spangled Banner"
+  ],
+  "central_claim": "Donald Trump was booed by the crowd at an NBA Finals game, indicating his unpopularity.",
+  "intended_effect": "To make the audience laugh at Donald Trump and see him as a widely disliked figure.",
+  "uncertainty_flags": [
+    "The caption claims the event is in Trump's 'home town', but the presence of the San Antonio Spurs jerseys might contradict this, depending on which city is considered his home town and where the game took place. The video does not specify the location."
+  ]
+}

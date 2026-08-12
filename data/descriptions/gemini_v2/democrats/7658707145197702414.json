@@ -1,0 +1,83 @@
+{
+  "video_id": "7658707145197702414",
+  "visual_action": "The video begins with a slow-motion shot of Donald Trump at a desk, surrounded by clapping individuals, holding up a signed document. The scene then cuts to a slow-motion shot of Trump walking at night on what appears to be an airport tarmac, with a Marine standing in the background. Throughout the second scene, text overlays list purported consequences of the bill shown in the first scene. The entire video has a cool, desaturated color grade.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure shown in all visual clips, and the on-screen text is about a bill he signed."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The initial on-screen text states, \"one year ago trump and republicans signed the big beautiful bill....\""
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible standing behind Donald Trump in the opening shot, smiling and holding up a phone to take a picture."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "one year ago trump and republicans signed the big beautiful bill....",
+      "role": "overlay"
+    },
+    {
+      "text": "$1 trillion tax cut for the 1%",
+      "role": "overlay"
+    },
+    {
+      "text": "Cut billions in funding for clean energy",
+      "role": "overlay"
+    },
+    {
+      "text": "Closed hundreds of healthcare facilities",
+      "role": "overlay"
+    },
+    {
+      "text": "4 million kicked from SNAP benefits",
+      "role": "overlay"
+    },
+    {
+      "text": "8 million have lost healthcare",
+      "role": "overlay"
+    },
+    {
+      "text": "Loosened environmental regulations",
+      "role": "overlay"
+    },
+    {
+      "text": "Increased taxes on the bottom 95%",
+      "role": "overlay"
+    },
+    {
+      "text": "a bill only for the rich, not everyday americans",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio contains no spoken dialogue, only a song with lyrics. The repeated lyrics are 'Are you man enough... to take the blame from them?'",
+  "emojis_present": [],
+  "audio_music": "A somber, slow-paced indie rock song ('Placing The Blame' by Self) plays throughout the video. The lyrics, which include 'Are you man enough to take the blame,' create a critical and accusatory mood that matches the on-screen text.",
+  "editing_pacing": "The video uses slow-motion footage and has a deliberate, slow pace. It consists of two main shots joined by a single cut, with text sequentially appearing over the second shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disapproval",
+    "concern",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "The tax bill signed by Donald Trump and Republicans primarily benefited the wealthy at the expense of everyday Americans by cutting social programs, hurting the environment, and raising taxes on most people.",
+  "intended_effect": "To persuade the viewer that Trump's and the Republican party's economic policies are detrimental to the majority of Americans and to generate disapproval of them.",
+  "uncertainty_flags": []
+}

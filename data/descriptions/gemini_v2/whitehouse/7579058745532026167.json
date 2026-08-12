@@ -1,0 +1,70 @@
+{
+  "video_id": "7579058745532026167",
+  "visual_action": "Karoline Leavitt speaks from the White House press briefing room podium, which is labeled 'THE WHITE HOUSE WASHINGTON'. A text overlay appears during her speech. The video ends on a black screen with a white line drawing of the White House and text identifying it as belonging to 'PRESIDENT DONALD J. TRUMP'.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, identified by face recognition and on-screen text."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is referred to as 'the President' throughout, and the final screen reads 'PRESIDENT DONALD J. TRUMP'. The caption and on-screen text refer to 'President Trump’s mass deportation operation'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Leavitt explicitly blames the 'Biden administration' for the 'botched withdrawal from Afghanistan' and says 'He was responsible for Operation Allies Welcome'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Leavitt says the President's Mass Deportation Operation Must Continue",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE WASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    },
+    {
+      "text": "President Trump’s mass deportation operation CONTINUES 🔥",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt announces a pause on asylum adjudications and special immigrant visas for Afghans. She blames the 'Biden administration' for what she calls the 'original sin' of the 'botched withdrawal from Afghanistan,' which she links to a recent 'tragic killing.' Leavitt states that the previous administration's assurances of safety regarding 'Operation Allies Welcome' were false, citing harm to two National Guardsmen, one of whom died. She concludes that these events demonstrate why 'the president's mass deportation operation' must continue.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio consists solely of Karoline Leavitt speaking. There is no music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a person speaking at a podium (a talking-head shot).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gravity",
+    "Blame",
+    "Urgency",
+    "Grief"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump's mass deportation operation is necessary to protect Americans from dangers created by the Biden administration's failed withdrawal from Afghanistan.",
+  "intended_effect": "To justify the administration's deportation policy by stoking fear and blaming the previous administration for creating a national security threat.",
+  "uncertainty_flags": []
+}

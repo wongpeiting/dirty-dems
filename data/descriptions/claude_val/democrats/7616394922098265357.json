@@ -1,0 +1,75 @@
+{
+  "video_id": "7616394922098265357",
+  "visual_action": "The clip opens on a close-up of Donald Trump at a podium speaking into a microphone, wearing a navy suit and purple tie, with a rally crowd behind him. The video then cross-dissolves/transitions to footage of an unnamed large bearded man in a tan suit speaking at the same podium (bearing the Presidential Seal), with a crowd of rally attendees (many in MAGA gear) behind him. Subsequent frames show the same bearded speaker at the podium from different angles. The video then cuts to an extreme close-up of a different man — visibly disheveled, wild-eyed, with what appears to be sweat or blood on his face — shown in two rapid-cut frames with an intense, wide-eyed, frenzied expression. The final frames show this second man (flushed, wild expression, tongue briefly visible) being restrained or touched by hands around his head/shoulders, seemingly in an agitated state near the podium area. The Presidential Seal podium is visible throughout the rally footage. A partial chyron/ticker at the bottom reads \"...FOR UPDATES FROM THE WHITE HOUSE.\" The overlay text \"most normal trump rally\" remains on screen for the entire clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Face confirmed by InsightFace ID; Trump speaks the line 'And you have my complete and total endorsement' heard in audio; his rally setting is the subject of the 'most normal trump rally' overlay"
+    },
+    {
+      "name": "unnamed bearded rally speaker",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Large bearded man in tan suit shown speaking at the presidential-seal podium at what is labeled a Trump rally"
+    },
+    {
+      "name": "unnamed wild-eyed man",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Disheveled, wide-eyed man shown in extreme close-up near the rally podium, appearing agitated"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "most normal trump rally",
+      "role": "overlay"
+    },
+    {
+      "text": "70 FOR UPDATES FROM TH",
+      "role": "chyron"
+    },
+    {
+      "text": "0 FOR UPDATES FROM TF",
+      "role": "chyron"
+    },
+    {
+      "text": "0 FOR UPDATES FROM TE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Trump is heard saying: \"And you have my complete and total endorsement. I want it really, yeah.\" This appears to be Trump endorsing a speaker or individual at the rally. The bearded man subsequently appears to speak at the podium, though his specific words are not clearly captured in the transcript.",
+  "emojis_present": [],
+  "audio_music": "The track \"Red Sex (Re-Strung) [feat. Rakhi Singh]\" by Vessel and Rakhi Singh plays throughout — a dark, tense, ominous orchestral/re-strung piece. The unsettling, dramatic tone of the music underscores the chaotic and visually jarring imagery of the rally attendees. No silence; music appears continuous.",
+  "editing_pacing": "Fast-paced with cross-dissolve transitions and rapid cuts between shots. The clip uses blurred motion transitions between scenes. The final frames of the wild-eyed man are cut very quickly, creating a jarring, disorienting effect. The overall pacing accelerates toward the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — the sarcastic overlay 'most normal trump rally' signals irony directed at the rally's atmosphere",
+    "disgust — the account caption 'gross' and the close-up of the wild-eyed disheveled man invite this reaction",
+    "unease — the ominous music and frenzied close-up imagery create an unsettling tone"
+  ],
+  "cultural_references": [
+    "'most normal X' — internet irony/meme format used to mock something as extremely abnormal by calling it normal"
+  ],
+  "central_claim": "Trump rallies are chaotic, extreme, and abnormal, as evidenced by the unusual or disturbing behavior of attendees and speakers at this rally.",
+  "intended_effect": "Prompt viewers to find Trump's rally environment bizarre, disturbing, or disqualifying — reinforcing a negative perception of Trump and his supporters.",
+  "uncertainty_flags": [
+    "Identity of the bearded man speaking at the podium is unclear — could be a known political or public figure but is not identified in face-ID roster or transcript",
+    "Identity of the wild-eyed disheveled man is unknown — unclear if this is from the same rally event or a different one spliced in",
+    "The chyron at the bottom ('FOR UPDATES FROM THE WHITE HOUSE') is partially cut off — unclear if this is an official White House broadcast or unrelated broadcast graphics",
+    "Unclear whether the 'blood' on the wild-eyed man's face is real injury, face paint, or a visual artifact",
+    "The specific rally event/date is not identified in the provided context"
+  ]
+}

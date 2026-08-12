@@ -1,0 +1,95 @@
+{
+  "video_id": "7502136392168836395",
+  "visual_action": "A slideshow of two static images. The first is a screenshot of a tweet from 'Robert Prevost' criticizing JD Vance. The second is a photograph of Pope Francis shaking hands with another clergyman, who is identified by on-screen text as 'Pope Leo XIV'.",
+  "cast": [
+    {
+      "name": "Robert Prevost",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name appears as the author of a tweet shown on screen, and a photograph of him is shown with the label 'Pope Leo XIV'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the introductory on-screen text: 'The new Pope on the Trump administration:'."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen tweet text: 'JD Vance is wrong...'"
+    },
+    {
+      "name": "Pope Francis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visually identifiable in the photograph shaking hands with another clergyman."
+    },
+    {
+      "name": "Jesus",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the tweet text: 'Jesus doesn't ask us to rank our love for others'."
+    },
+    {
+      "name": "National Catholic Reporter",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in the on-screen tweet as '@NCRonline' and via an 'ncronline.org' URL."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The new Pope on the Trump administration:",
+      "role": "overlay"
+    },
+    {
+      "text": "Robert Prevost",
+      "role": "overlay"
+    },
+    {
+      "text": "@drprevost",
+      "role": "overlay"
+    },
+    {
+      "text": "JD Vance is wrong: Jesus doesnt ask us to rank our love for others",
+      "role": "overlay"
+    },
+    {
+      "text": "ncronline.org/node/292716 via @NCROnline",
+      "role": "overlay"
+    },
+    {
+      "text": "Pope Leo XIV",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio; the video is set to music.",
+  "emojis_present": [],
+  "audio_music": "An intense, driving electronic track ('Big Boy Moves' by Pietro Jacobson) plays throughout, creating a dramatic or mock-serious tone.",
+  "editing_pacing": "A slow-paced slideshow with a single cut between two static images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is a political satire that fabricates a scenario where Cardinal Robert Prevost has become 'the new Pope' under the fictional name 'Pope Leo XIV'. It uses a fabricated tweet, falsely attributed to Prevost, to criticize JD Vance. The tweet's text is based on a real article headline by a different author, presented here as a direct statement from a non-existent papal authority to attack political opponents.",
+  "emotions_signaled": [
+    "mockery",
+    "satire",
+    "vindication"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video falsely claims a new Pope has been elected and is criticizing JD Vance and the Trump administration to suggest they are at odds with Christian values.",
+  "intended_effect": "To mock and discredit JD Vance and the Trump administration by using a fabricated religious authority figure to condemn their positions.",
+  "uncertainty_flags": []
+}

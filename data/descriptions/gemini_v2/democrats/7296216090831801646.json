@@ -1,0 +1,66 @@
+{
+  "video_id": "7296216090831801646",
+  "visual_action": "The video first shows President Joe Biden at an outdoor Halloween event, giving candy to two children in costume. It then cuts to a clip of former President Donald Trump and Melania Trump at a similar event, where Trump places a candy bar on the head of a child wearing an inflatable Minion costume.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in the first half of the video interacting with children, and identified by the on-screen text 'President Biden'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in the second half of the video placing candy on a child's costume. Identified by face and the on-screen text 'the last guy'."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown standing next to Donald Trump during the Halloween event."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official account @democrats."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden handing out treats",
+      "role": "overlay"
+    },
+    {
+      "text": "While the last guy was only up to tricks",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video; it is set entirely to music.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the Britney Spears song 'Toxic,' an upbeat and dramatic electronic pop track that plays throughout.",
+  "editing_pacing": "A simple edit consisting of a single cut from a clip of Joe Biden to a clip of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "approval"
+  ],
+  "cultural_references": [
+    "Toxic by Britney Spears",
+    "Minions from 'Despicable Me' (costume)",
+    "Spider-Man (costume)"
+  ],
+  "central_claim": "President Biden benevolently gives out treats, whereas his predecessor Donald Trump played mean-spirited tricks.",
+  "intended_effect": "To make the viewer see Joe Biden as kind and normal, while portraying Donald Trump as cruel or oafish, in order to build support for Biden and opposition to Trump.",
+  "uncertainty_flags": []
+}

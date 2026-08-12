@@ -1,0 +1,71 @@
+{
+  "video_id": "7278316106119466283",
+  "visual_action": "The video is shot in what appears to be a Senate building corridor (brick walls visible, institutional hallway in background — likely the Russell Senate Office Building based on a partially visible sign). Senator John Fetterman is walking through the corridor and is approached by an off-screen reporter with a phone/recorder. The camera follows Fetterman as he moves, capturing his reactions. He is wearing a dark grey short-sleeve button-up shirt. The framing is handheld and close, following him through the hallway. The reporter reads him a news item about Speaker McCarthy launching an impeachment inquiry, and Fetterman reacts audibly with exaggerated, comedic dismay. A second person (partially visible, wearing a suit) also appears briefly in frame.",
+  "cast": [
+    {
+      "name": "John Fetterman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Confirmed by face-ID; named in on-screen overlay 'Senator Fetterman is so real for this'; he is the subject being filmed and whose reaction is the focus of the post"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen chyron/caption reads 'Speaker McCarthy has formally launched an impeachment —'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Post is from @democrats account"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Fetterman is so real for this 👻",
+      "role": "overlay"
+    },
+    {
+      "text": "Can I ask you about this news that",
+      "role": "caption"
+    },
+    {
+      "text": "Speaker McCarthy has formally launched an impeachment —",
+      "role": "caption"
+    },
+    {
+      "text": "Oh my god, really? Please don't do it! Oh no! Oh no!",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A reporter approaches Senator Fetterman in a Senate corridor and asks: \"Can I ask you about this news that Speaker McCarthy has formally launched an impeachment —\" Fetterman reacts with over-the-top, theatrical dismay: \"Oh my god, really? Please don't do it! Oh no! Oh no!\" The reaction is delivered in a tone that reads as sarcastic or comedically exaggerated rather than genuinely shocked.",
+  "emojis_present": [
+    "👻"
+  ],
+  "audio_music": "No commercial music matched. The audio is ambient corridor sound with the reporter's voice and Fetterman's spoken reaction. No background music or meme sound is audible from the frames. The audio is essentially a candid hallway exchange — \"original sound\" per the TikTok label, consistent with a self-recorded or organically captured clip posted by the @democrats account.",
+  "editing_pacing": "Handheld, continuous follow-shot tracking Fetterman through the corridor. Slight camera shake and zoom as the reporter closes in. No cuts visible within the clip — it plays as a single continuous take. Pacing is brisk, matching Fetterman's walking pace.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "amusement — Fetterman's 'Oh my god, really? Please don't do it!' delivered theatrically cues laughter",
+    "approval/delight — the overlay 'Senator Fetterman is so real for this 👻' frames his reaction as relatable and genuine",
+    "mockery (directed at McCarthy's impeachment move) — the exaggerated 'Oh no! Oh no!' undercuts the gravity of the announcement"
+  ],
+  "cultural_references": [
+    "'So real for this' — internet/TikTok slang phrase used as the overlay, framing Fetterman's reaction in the language of Gen Z social media approval"
+  ],
+  "central_claim": "Senator Fetterman's theatrically exaggerated and sarcastic reaction to Speaker McCarthy formally launching an impeachment inquiry is framed as refreshingly authentic and entertaining, implicitly mocking the impeachment move itself.",
+  "intended_effect": "Viewers are meant to laugh at and appreciate Fetterman's comedic, sarcastic response, while being primed to view McCarthy's impeachment inquiry as absurd or unworthy of serious concern.",
+  "uncertainty_flags": [
+    "The specific impeachment inquiry referenced (target of McCarthy's action) is not fully named in the visible transcript — the chyron is cut off after 'an impeachment —'; context suggests this is the Biden impeachment inquiry launched by McCarthy in September 2023, but this cannot be confirmed solely from the video frames provided",
+    "The Russell Senate Office Building sign is partially visible but not fully legible; location identification is inferred",
+    "Fetterman's exact full spoken words beyond the OCR'd transcript cannot be fully verified from frames alone"
+  ]
+}

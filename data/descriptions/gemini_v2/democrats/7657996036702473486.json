@@ -1,0 +1,77 @@
+{
+  "video_id": "7657996036702473486",
+  "visual_action": "The video shows Donald Trump in a tuxedo at a formal event, standing next to a female Air Force service member. He leans over as if whispering to someone off-screen and makes hand gestures. Melania Trump stands nearby. Throughout the clip, text is overlaid, followed by screenshots of news headlines from Bloomberg and NPR about Trump's cryptocurrency earnings and associated conflicts of interest.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, and the on-screen text and headlines are about him."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visible standing next to Donald Trump but is not the focus of the video's claims."
+    },
+    {
+      "name": "Bloomberg",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A news headline attributed to Bloomberg is shown on screen."
+    },
+    {
+      "name": "NPR",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A news headline attributed to NPR is shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump when somebody suggests making billions by insider trading crypto (allegedly)",
+      "role": "overlay"
+    },
+    {
+      "text": "Bloomberg",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's $1.4 Billion Haul Makes Him Biggest US Crypto Moneymaker",
+      "role": "overlay"
+    },
+    {
+      "text": "npr",
+      "role": "overlay"
+    },
+    {
+      "text": "Former ethics lawyer says Trump's crypto poses 'clear conflict of interest'",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unidentified person's voiceover, seemingly from a reaction video, expresses amazement, saying 'Okay. Wow. First thought? Transcending the game,' and calls the subject 'crazy.'",
+  "emojis_present": [],
+  "audio_music": "A thoughtful and slightly somber piano track plays throughout the video.",
+  "editing_pacing": "A single, continuous clip is used, with text and headline overlays appearing sequentially. The pacing is slow and focuses on the central action.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Mockery",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post alleges that Donald Trump is involved in unethical and potentially illegal insider trading of cryptocurrency, using his on-screen actions as supposed evidence, alongside news headlines about his crypto wealth.",
+  "intended_effect": "To persuade the viewer that Donald Trump is corrupt and engaged in illicit financial schemes.",
+  "uncertainty_flags": [
+    "The source of the voiceover audio is unknown, though it follows a common format of using reaction clips from internet commentators."
+  ]
+}

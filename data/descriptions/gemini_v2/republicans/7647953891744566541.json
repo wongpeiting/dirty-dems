@@ -1,0 +1,171 @@
+{
+  "video_id": "7647953891744566541",
+  "visual_action": "A man in a suit and tie stands in a studio setting, speaking directly to the camera. In the middle of his speech, a screenshot of a news article from 'The Washington Times' is overlaid on the video. The article is about a Republican Supreme Court case on election security. After the overlay disappears, the man continues speaking to the camera.",
+  "cast": [
+    {
+      "name": "Joe Gruters",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The speaker introduces himself at the start of the video: \"RNC Chairman Joe Gruters here.\""
+    },
+    {
+      "name": "Republican National Committee",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker, the RNC Chairman, says \"the RNC is working to stop this.\" The on-screen text of the news article also refers to the \"Republican National Committee.\""
+    },
+    {
+      "name": "U.S. Supreme Court",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker says the RNC has a \"landmark case in front of the Supreme Court.\" The on-screen article headline also states the case \"heads to the Supreme Court.\""
+    },
+    {
+      "name": "The Washington Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name of the publication, \"The Washington Times,\" is visible at the top of the news article screenshot that is overlaid on the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "RNC",
+      "role": "caption"
+    },
+    {
+      "text": "CHAIRMAN JOE GRUTERS HERE.",
+      "role": "caption"
+    },
+    {
+      "text": "CALIFORNIA,",
+      "role": "caption"
+    },
+    {
+      "text": "BELIEVE IT,",
+      "role": "caption"
+    },
+    {
+      "text": "IS STILL COUNTING",
+      "role": "caption"
+    },
+    {
+      "text": "BALLOTS DAYS AFTER",
+      "role": "caption"
+    },
+    {
+      "text": "ELECTION DAY.",
+      "role": "caption"
+    },
+    {
+      "text": "THIS IS UNACCEPTABLE,",
+      "role": "caption"
+    },
+    {
+      "text": "IS WORKING TO",
+      "role": "caption"
+    },
+    {
+      "text": "WE HAVE A",
+      "role": "caption"
+    },
+    {
+      "text": "The Washington Times",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans' fight for election security heads to the Supreme Court",
+      "role": "overlay"
+    },
+    {
+      "text": "The justices hear arguments today in Watson v. Republican National Committee",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT ARE RECEIVED",
+      "role": "caption"
+    },
+    {
+      "text": "AFTER ELECTION DAY.",
+      "role": "caption"
+    },
+    {
+      "text": "ELECTIONS SHOULD NOT",
+      "role": "caption"
+    },
+    {
+      "text": "DRAG ON",
+      "role": "caption"
+    },
+    {
+      "text": "FOR DAYS",
+      "role": "caption"
+    },
+    {
+      "text": "AND WEEKS",
+      "role": "caption"
+    },
+    {
+      "text": "THE VOTE COUNT",
+      "role": "caption"
+    },
+    {
+      "text": "THAT THEY WANT.",
+      "role": "caption"
+    },
+    {
+      "text": "ELECTION DAY SHOULD",
+      "role": "caption"
+    },
+    {
+      "text": "IT SAYS,",
+      "role": "caption"
+    },
+    {
+      "text": "ELECTION DAY.",
+      "role": "caption"
+    },
+    {
+      "text": "LET'S MAKE OUR",
+      "role": "caption"
+    },
+    {
+      "text": "ELECTIONS SECURE AGAIN.",
+      "role": "caption"
+    },
+    {
+      "text": "GO TO GOP.COM",
+      "role": "caption"
+    },
+    {
+      "text": "IN NOVEMBER.",
+      "role": "caption"
+    },
+    {
+      "text": "LET'S GO.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "RNC Chairman Joe Gruters states that it is \"unacceptable\" that California is still counting ballots days after Election Day. He announces that the RNC has a \"landmark case\" before the Supreme Court to prevent ballots received after Election Day from being counted. He argues that \"Election Day should mean exactly what it says\" and that elections shouldn't \"drag on for days and weeks.\" He ends with a call to action to visit GOP.com to help win in November and make elections secure.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a man's voice speaking directly to the camera. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static talking-head shot. The pacing is slow, with the only edit being a graphical overlay of a news article screenshot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Urgency",
+    "Resolve"
+  ],
+  "cultural_references": [],
+  "central_claim": "The RNC is taking legal action at the Supreme Court to prevent states from counting ballots that arrive after Election Day, framing it as a crucial step for election security.",
+  "intended_effect": "To convince viewers that current election processes are insecure, garner support for the RNC's legal challenges, and encourage them to visit the GOP website.",
+  "uncertainty_flags": []
+}

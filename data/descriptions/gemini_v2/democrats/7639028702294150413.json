@@ -1,0 +1,77 @@
+{
+  "video_id": "7639028702294150413",
+  "visual_action": "A pixel-art style video game is shown from a top-down perspective, set in what appears to be the Oval Office. A character resembling Donald Trump walks over to a fireplace. A dialogue box appears with the prompt, \"Would you like to burn an Epstein file?\" with the options \"Yes\" and \"Not right now.\" The \"Yes\" option is repeatedly selected, triggering a flashing animation over a pile of papers and a new dialogue box that reads, \"There are 31242309 Epstein files remaining.\" The number decreases by one with each interaction.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The player character in the video game is a pixel-art sprite with blonde hair, depicted in the Oval Office, clearly intended to be Donald Trump."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text in the game explicitly refers to burning an \"Epstein file\" and shows the number of \"Epstein files remaining.\""
+    },
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The setting is a video game representation of the Oval Office, indicated by the Resolute Desk and the presidential seal on the rug."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "average day in the trump white house",
+      "role": "overlay"
+    },
+    {
+      "text": "Would you like to burn an Epstein file?",
+      "role": "meme_text"
+    },
+    {
+      "text": "Yes",
+      "role": "meme_text"
+    },
+    {
+      "text": "Not right now.",
+      "role": "meme_text"
+    },
+    {
+      "text": "There are 31242309 Epstein files remaining.",
+      "role": "meme_text"
+    },
+    {
+      "text": "There are 31242308 Epstein files remaining.",
+      "role": "meme_text"
+    },
+    {
+      "text": "There are 31242307 Epstein files remaining.",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only instrumental music plays.",
+  "emojis_present": [],
+  "audio_music": "A continuous, whimsical, and looping instrumental track reminiscent of 16-bit era RPG video game music. The style is upbeat and quirky, providing a soundtrack to the game-like visuals.",
+  "editing_pacing": "A static shot of a simulated video game screen. The only edits are the appearance of text boxes and a simple flashing animation within the game's interface.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The entire video is a fabrication, presenting a fictional scene made to look like a 16-bit style RPG. The game satirically depicts Donald Trump in the Oval Office repeatedly burning 'Epstein files'.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule",
+    "dark humor"
+  ],
+  "cultural_references": [
+    "The visual and audio style of 16-bit Japanese Role-Playing Games (JRPGs)"
+  ],
+  "central_claim": "The video satirically implies that Donald Trump spent his time in the White House destroying a massive amount of evidence connected to Jeffrey Epstein.",
+  "intended_effect": "To ridicule Donald Trump and associate him with the Jeffrey Epstein scandal in a humorous and memorable way.",
+  "uncertainty_flags": []
+}

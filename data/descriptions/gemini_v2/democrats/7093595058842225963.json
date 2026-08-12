@@ -1,0 +1,61 @@
+{
+  "video_id": "7093595058842225963",
+  "visual_action": "Senator Elizabeth Warren, wearing a bright pink jacket, speaks passionately into a microphone held by an off-screen person. She is outdoors on a street, with a crowd of reporters and onlookers behind her, many holding up phones and cameras to record her. A blue car is visible next to her.",
+  "cast": [
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker on screen, and the video focuses on her remarks."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Warren begins her speech by saying, \"The Republicans have been working toward this day for decades.\""
+    },
+    {
+      "name": "Supreme Court of the United States",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Warren discusses the Republican strategy of cultivating \"these Supreme Court justices so they could have a majority on the bench.\" The on-screen text also states she is outside the \"Supreme Court building.\""
+    },
+    {
+      "name": "Unnamed heckler",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male voice off-screen repeatedly shouts over Warren, accusing her of supporting the dismemberment of children."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Warren's remarks outside of Supreme Court building",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Elizabeth Warren accuses the Republican party of plotting for decades to install a Supreme Court majority to achieve an outcome that the majority of Americans do not want. She cites that 69% of people want Roe v. Wade to be maintained. As she speaks, a male heckler shouts over her about \"dismembered children in the womb\" and \"murdering babies.\" Warren's voice rises in anger as she concludes by saying, \"We've heard enough from the extremists.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Elizabeth Warren's speech, the ambient noise of a crowd, and a man's voice shouting at her from off-camera. There is no music.",
+  "editing_pacing": "The video is a single, continuous shot focused on Elizabeth Warren speaking, resembling a raw clip from a news report or media scrum.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "outrage",
+    "urgency"
+  ],
+  "cultural_references": [
+    "Roe v. Wade"
+  ],
+  "central_claim": "The Republican party has deliberately manipulated the Supreme Court for decades to impose an extremist agenda, specifically overturning Roe v. Wade, against the will of the American people.",
+  "intended_effect": "To provoke anger at the Republican party and the Supreme Court, and to rally support for Democrats and abortion rights.",
+  "uncertainty_flags": []
+}

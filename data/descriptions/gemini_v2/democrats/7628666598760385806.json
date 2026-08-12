@@ -1,0 +1,46 @@
+{
+  "video_id": "7628666598760385806",
+  "visual_action": "The video opens with a title card reading \"a cool edit of trump\" on a blue background. It then cuts to a rapid montage of still photos and short clips of Donald Trump. These include a close-up of his face with a glowing effect, him speaking animatedly at a podium with a yellow tint, a throwback photo of him lounging on a bed in a white robe, him wearing a \"MAKE AMERICA GREAT AGAIN\" hat and sticking his tongue out, and another expressive close-up. A brief, blurry clip shows a man in a suit, seen from behind, walking up the stairs to an airplane. The video ends with a blurry shot with sparkles and a final close-up of someone's bare feet in white trousers standing on a textured white surface.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is featured in almost every clip of the montage and is named in the opening on-screen text."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A brief, blurry clip shows a figure from behind who strongly resembles Joe Biden walking up the stairs to an airplane, a common visual associated with the president."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "a cool edit of trump",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Based on the provided transcript, a female voice repeats phrases like \"White Jane, White Horse,\" and \"High Bitch.\" This appears to be a misinterpretation of the Japanese lyrics in the background song.",
+  "emojis_present": [],
+  "audio_music": "The video is set to a continuous electronic track with ethereal female vocals in Japanese, identified as \"猫と流氷\" by Jonny Michelle Houston. The music has a repetitive, dreamy, and surreal quality, creating a strange and hypnotic mood for the visual montage.",
+  "editing_pacing": "The video is a fast-paced montage consisting of quick cuts between various still images and short video clips. Some clips have added visual effects like glows and color tinting.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "The song '猫と流氷' by Jonny Michelle Houston is used as the soundtrack."
+  ],
+  "central_claim": "Donald Trump is a strange and unflattering figure, as shown by this surreal video montage.",
+  "intended_effect": "To make the viewer see Donald Trump as bizarre and ridiculous, thereby encouraging mockery.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is a nonsensical interpretation of the Japanese lyrics in the song.",
+    "The identity of the person whose feet are shown in the final shot is unclear."
+  ]
+}

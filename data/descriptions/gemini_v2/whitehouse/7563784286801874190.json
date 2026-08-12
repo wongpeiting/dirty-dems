@@ -1,0 +1,135 @@
+{
+  "video_id": "7563784286801874190",
+  "visual_action": "Donald Trump stands at a podium with the presidential seal, speaking directly to the camera. He is outdoors in what appears to be a White House location. The video concludes with a series of black-and-white shots of the White House exterior and a helicopter landing on the lawn.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Is the sole speaker in the video, shown in a medium shot for the majority of the clip."
+    },
+    {
+      "name": "Chuck Schumer",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump names him in his speech: \"Chuck Schumer and the Senate Democrats need to vote...\". He is also named in the post's caption."
+    },
+    {
+      "name": "Senate Democrats",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump names them in his speech: \"Chuck Schumer and the Senate Democrats need to vote...\". They are also mentioned in the post's caption."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'THE WHITE HOUSE' appears over footage of the building at the end of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I WANTED TO",
+      "role": "caption"
+    },
+    {
+      "text": "SAY FROM THE BEGINNING",
+      "role": "caption"
+    },
+    {
+      "text": "OUR MESSAGE HAS",
+      "role": "caption"
+    },
+    {
+      "text": "BEEN VERY SIMPLE",
+      "role": "caption"
+    },
+    {
+      "text": "WE WILL NOT",
+      "role": "caption"
+    },
+    {
+      "text": "BE EXTORTED ON",
+      "role": "caption"
+    },
+    {
+      "text": "THIS CRAZY PLOT",
+      "role": "caption"
+    },
+    {
+      "text": "OF THEIRS",
+      "role": "caption"
+    },
+    {
+      "text": "THEY'VE NEVER DONE",
+      "role": "caption"
+    },
+    {
+      "text": "THIS BEFORE",
+      "role": "caption"
+    },
+    {
+      "text": "NOBODY HAS",
+      "role": "caption"
+    },
+    {
+      "text": "YOU ALWAYS VOTE FOR",
+      "role": "caption"
+    },
+    {
+      "text": "AN EXTENSION",
+      "role": "caption"
+    },
+    {
+      "text": "CHUCK SCHUMER AND",
+      "role": "caption"
+    },
+    {
+      "text": "THE SENATE DEMOCRATS",
+      "role": "caption"
+    },
+    {
+      "text": "NEED TO VOTE",
+      "role": "caption"
+    },
+    {
+      "text": "FOR THE CLEAN",
+      "role": "caption"
+    },
+    {
+      "text": "BIPARTISAN CR",
+      "role": "caption"
+    },
+    {
+      "text": "AND REOPEN OUR GOVERNMENT",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump states that his administration will not be \"extorted\" by a \"crazy plot\" from Democrats regarding government funding. He calls on \"Chuck Schumer and the Senate Democrats\" to vote for a \"clean bipartisan CR\" (Continuing Resolution) in order to \"reopen our government,\" implying a government shutdown situation.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's unedited speech. There is no background music or any other sound effects.",
+  "editing_pacing": "The video is primarily a single, static talking-head shot of Donald Trump. It concludes with a few slow cuts showing black-and-white footage of the White House.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Resolve",
+    "Condemnation"
+  ],
+  "cultural_references": [],
+  "central_claim": "Senate Democrats, led by Chuck Schumer, are trying to extort the administration in a government shutdown and must pass a clean funding bill to reopen the government.",
+  "intended_effect": "To pressure Senate Democrats to pass a government funding bill by framing them as the cause of a shutdown and portraying Trump as a strong leader resisting their demands.",
+  "uncertainty_flags": []
+}

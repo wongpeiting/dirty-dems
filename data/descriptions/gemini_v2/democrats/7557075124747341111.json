@@ -1,0 +1,77 @@
+{
+  "video_id": "7557075124747341111",
+  "visual_action": "The video opens with a screenshot of a tweet from Barack Obama wishing Michelle Obama a happy anniversary. The tweet includes a recent photo of the couple smiling together. The video then transitions into a slideshow of older photographs of Barack and Michelle Obama throughout their relationship: a photo of them as a young couple, a photo from their wedding day with cake on their noses, a photo of them on a stage, and a photo of them walking together outdoors in winter coats.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in photos throughout the video and his tweet is the central piece of on-screen text."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is shown in photos throughout the video and is tagged in Barack Obama's tweet."
+    },
+    {
+      "name": "Mikhail Gorbachev",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears in a newspaper headline held by Michelle Obama in one of the photos: 'Gorbachev asks...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "happy anniversary to the obamas 🥹❤️",
+      "role": "caption"
+    },
+    {
+      "text": "Barack Obama",
+      "role": "overlay"
+    },
+    {
+      "text": "@BarackObama",
+      "role": "overlay"
+    },
+    {
+      "text": "The best decision I ever made was marrying you, @MichelleObama. For 33 years, I've admired your strength, grace, and determination — and the fact that you look so good doing it all. Happy anniversary!",
+      "role": "overlay"
+    },
+    {
+      "text": "Gorbachev asks",
+      "role": "other"
+    },
+    {
+      "text": "Mama Ngina Drive",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set to music.",
+  "emojis_present": [
+    "🥹",
+    "❤️"
+  ],
+  "audio_music": "A romantic, gentle instrumental track ('Fall in love' by Little Sandra II) plays consistently throughout the video, creating a sentimental and celebratory tone.",
+  "editing_pacing": "The video is a slideshow of still images, starting with a screenshot of a tweet and followed by several photographs of the Obamas, with simple cuts between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "love",
+    "admiration",
+    "nostalgia",
+    "celebration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video celebrates the 33-year marriage of Barack and Michelle Obama, showcasing their enduring love through a heartfelt tweet and a montage of photos.",
+  "intended_effect": "To evoke feelings of warmth, admiration, and nostalgia for Barack and Michelle Obama's relationship.",
+  "uncertainty_flags": [
+    "The full text of the newspaper headline in one of the photos is partially obscured and difficult to read completely."
+  ]
+}

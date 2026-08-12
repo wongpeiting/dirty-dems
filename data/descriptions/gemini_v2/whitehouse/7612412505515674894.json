@@ -1,0 +1,94 @@
+{
+  "video_id": "7612412505515674894",
+  "visual_action": "Donald Trump, in a suit and tie, speaks from a presidential podium against a blue backdrop. The Seal of the President of the United States is visible on the podium. The shot is a static, medium close-up for the duration of his speech. The video ends with a short slideshow of three black-and-white images (the White House, a helicopter, and the White House again), each overlaid with text.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, delivering an address from the presidential podium."
+    },
+    {
+      "name": "Ayatollah Khamenei",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump announces his death, stating, \"Iran's formerly supreme leader, Ayatollah Khamenei, is dead.\""
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The country is the target of the military operation described in the speech. \"We have hit hundreds of targets in Iran...\""
+    },
+    {
+      "name": "Iranian Revolutionary Guard Corps",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned as a primary target of the military operation and urged to surrender. \"...including Revolutionary Guard facilities...\" and \"I once again urge the Revolutionary Guard... to lay down your arms...\""
+    },
+    {
+      "name": "United States Military",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire speech is about a massive military operation conducted by the United States. Trump also mentions casualties: \"three U.S. military service members have been killed in action.\""
+    },
+    {
+      "name": "Iranian people",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump claims they are celebrating the death of their leader and directly addresses them: \"I call upon all Iranian patriots who yearn for freedom to seize this moment... and take back your country.\""
+    },
+    {
+      "name": "United States Central Command (CENTCOM)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as the source of information on US casualties: \"Earlier today, CENTCOM shared the news that three U.S. military service members have been killed in action.\""
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as an ally and a target of Iranian rhetoric: \"...that of Israel, has never been stronger\" and \"...chanting the slogan, Death to America or Death to Israel...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces a massive US-led military strike, 'Operation Epic Fury,' against Iran. He reports that hundreds of targets have been hit and that Iran's Supreme Leader, Ayatollah Khamenei, is dead, claiming the Iranian people are celebrating. Trump also announces that three US service members have been killed, offering condolences and vowing to avenge them. He calls on Iranian military forces to surrender in exchange for immunity and urges Iranian citizens to rise up and 'take back' their country, promising US support. He frames the operation as a necessary action to prevent a terrorist-sponsoring, nuclear-armed Iran from threatening the world.",
+  "emojis_present": [],
+  "audio_music": "Donald Trump's speech is delivered over background music. The track changes throughout the speech, starting with one piece, switching to another around the 2:13 mark, and ending in silence. The music creates a dramatic, serious, and at times patriotic tone for the presidential address.",
+  "editing_pacing": "The video consists of a long, static talking-head shot of Donald Trump speaking at a podium. At the very end, it cuts to a brief slideshow of three black-and-white still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gravity",
+    "Pride",
+    "Strength",
+    "Triumph",
+    "Grief",
+    "Righteousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The United States has successfully executed a massive and justified military operation against Iran, killing its Supreme Leader to neutralize a major threat to global security.",
+  "intended_effect": "To project American military strength and decisiveness, justify the military action to the public, and encourage internal dissent within Iran.",
+  "uncertainty_flags": []
+}

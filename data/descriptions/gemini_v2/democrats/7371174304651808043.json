@@ -1,0 +1,59 @@
+{
+  "video_id": "7371174304651808043",
+  "visual_action": "The video starts with white text and a thinking face emoji on a solid blue background. It then cuts to a still photograph of Joe Biden standing at a podium in a dark suit, gesturing with his right hand. There is white overlay text at the top and yellow caption text at the bottom of this image.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A still image of him at a debate podium is shown, and he is named in the on-screen text: 'nope. will be busy watching Biden drag Trump again.'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text: 'nope. will be busy watching Biden drag Trump again.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "are you free june 27? 🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "nope. will be busy watching Biden drag Trump again.",
+      "role": "overlay"
+    },
+    {
+      "text": "Will you shut up man?",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only a pop song playing throughout.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "A dreamy, atmospheric pop song plays throughout the video, creating a cool and dramatic tone. The music is identified as 'National Anthem — SolsticeEcho'.",
+  "editing_pacing": "The editing consists of a single, direct cut from a text screen to a static image with text overlays. It functions as a two-panel slideshow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anticipation",
+    "mockery",
+    "hype"
+  ],
+  "cultural_references": [
+    "The audio track is 'National Anthem', which sounds like the song by artist Lana Del Rey.",
+    "The quote 'Will you shut up man?' is a well-known line spoken by Joe Biden to Donald Trump during a 2020 presidential debate, and has become a meme."
+  ],
+  "central_claim": "The upcoming presidential debate on June 27th will be an event where Joe Biden soundly defeats Donald Trump, just as he has in the past.",
+  "intended_effect": "To generate hype and confidence among supporters for Joe Biden's performance in the upcoming debate against Donald Trump.",
+  "uncertainty_flags": [
+    "The authoritative face-ID did not detect Joe Biden, but he is clearly visible in the video.",
+    "The fingerprinted music is identified as 'National Anthem — SolsticeEcho', but it sounds like the prominent song 'National Anthem' by Lana Del Rey; it may be a cover or remix."
+  ]
+}

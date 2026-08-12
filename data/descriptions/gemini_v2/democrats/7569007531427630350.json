@@ -1,0 +1,155 @@
+{
+  "video_id": "7569007531427630350",
+  "visual_action": "A man holds a microphone to a young woman on a city street, conducting a man-on-the-street style interview. The scene is overlaid with a fake MSNBC news chyron and on-screen text that captions their dialogue.",
+  "cast": [
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the subject of the interview and the focus of the post's text, 'who is this diva??'."
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The fake news chyron reads 'CALIFORNIA VOTES ON NEWSOM'S \"PROP 50\" PLAN'."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown on screen acting as the interviewer."
+    },
+    {
+      "name": "Phil Murphy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears in the fake news ticker: 'GOV. PHIL MURPHY IS NEW JERSEY'S FIRST DEMOCRATIC GOVERNOR TO WIN RE-ELECTION SINCE 1977'."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A small picture of him appears on the fake news chyron, and he was identified by the face-ID service."
+    },
+    {
+      "name": "Curtis Sliwa",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears in the fake news ticker: '...SQUARE OFF IN NYC MAYORAL RACE... CURTIS SLIWA'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "who is this diva?? 😭",
+      "role": "overlay"
+    },
+    {
+      "text": "DECISION 2025",
+      "role": "chyron"
+    },
+    {
+      "text": "CALIFORNIA VOTES ON NEWSOM'S \"PROP 50\" PLAN",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNBC",
+      "role": "chyron"
+    },
+    {
+      "text": "DEADLINE: WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "SACRAMENTO, CA 1:06 PM",
+      "role": "chyron"
+    },
+    {
+      "text": "GOV. PHIL MURPHY IS NEW JERSEY'S FIRST DEMOCRATIC GOVERNOR TO WIN RE-ELECTION SINCE 1977",
+      "role": "chyron"
+    },
+    {
+      "text": "VIRGINIA AND NEW JERSEY ARE THE ONLY STATES HOLDING GUBERNATORIAL ELECTIONS THIS YEAR",
+      "role": "chyron"
+    },
+    {
+      "text": "DOING?",
+      "role": "caption"
+    },
+    {
+      "text": "WAIT, HOLD ON.",
+      "role": "caption"
+    },
+    {
+      "text": "HI.",
+      "role": "caption"
+    },
+    {
+      "text": "I'M SO EXCITED TO VOTE",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S GIVING",
+      "role": "caption"
+    },
+    {
+      "text": "ELECTION DAY.",
+      "role": "caption"
+    },
+    {
+      "text": "PROP 50,",
+      "role": "caption"
+    },
+    {
+      "text": "THE BALLOT.",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S GIVING",
+      "role": "caption"
+    },
+    {
+      "text": "VOTE YES ON",
+      "role": "caption"
+    },
+    {
+      "text": "PROP 50.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "In a satirical man-on-the-street interview, an interviewer asks a young woman why she is out to vote. The woman enthusiastically says she is excited to vote, saying \"it's giving election day.\" When asked about the specific ballot measure, \"Prop 50,\" she doesn't give a substantive reason but repeats the slang phrase, concluding, \"It's giving yes on Prop 50. It's giving hot people vote yes on Prop 50.\"",
+  "emojis_present": [
+    "😭",
+    "🙂‍↕️"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue between the two actors with ambient street noise in the background. There is no music.",
+  "editing_pacing": "The video is a single, static shot framed to look like a news report. The main editing consists of adding a complex, multi-part fake news chyron and overlaying captions that appear timed to the dialogue.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is a satirical skit that uses a digitally superimposed fake news broadcast overlay to create its comedic effect. It mimics the style of an MSNBC broadcast, complete with a 'DECISION 2025' logo, a chyron about a fictional 'PROP 50', a news ticker, and the 'DEADLINE: WHITE HOUSE' show title. This entire visual framework is fabricated to stage the comedic interview.",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "The slang phrase \"it's giving...\", which originated in AAVE and is popular in Gen Z and internet culture.",
+    "A parody of the visual style of the news channel MSNBC and its program 'Deadline: White House'.",
+    "The term 'diva'."
+  ],
+  "central_claim": "The video satirizes a stereotype of a young, enthusiastic voter who is motivated by trends and superficial identity politics ('hot people vote yes') rather than policy details.",
+  "intended_effect": "To make the viewer laugh at the comedic portrayal of a stereotypically vapid but politically engaged young person.",
+  "uncertainty_flags": [
+    "The video is a skit, and it is highly probable that \"Prop 50\" and the \"Decision 2025\" election in California are fictional elements created for the satire, but this cannot be confirmed without external information."
+  ]
+}

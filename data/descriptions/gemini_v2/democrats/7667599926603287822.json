@@ -1,0 +1,138 @@
+{
+  "video_id": "7667599926603287822",
+  "visual_action": "A screen recording shows a person rapidly scrolling through Donald Trump's Truth Social feed. The feed is filled with numerous images, many of which appear to be AI-generated or are political cartoons and memes.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face appears in numerous images in the Truth Social feed being scrolled through. He is also identified by the provided face-ID context."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His Truth Social account name, 'Donald J. Trump' and handle '@realDonaldTrump', are visible at the top of each post shown in the video."
+    },
+    {
+      "name": "Chris Christie",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is depicted in a political cartoon as a boxer, with 'CHRIS CHRISTIE' written on his shorts."
+    },
+    {
+      "name": "Jerry Nadler",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is depicted in a political cartoon as a boxer, with 'JERRY NADLER' written on his shorts."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The word 'IRAN' is overlaid on images of ships and explosions in several of the posts."
+    },
+    {
+      "name": "Andrew Puzder",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name and Twitter handle (@USAmbEU) are visible in a screenshot of a tweet included in Trump's feed."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the sound of a rural community being destroyed so trump can post 40+ AI images in one night",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP WASHINGTON A TIME TRAVEL EPIC",
+      "role": "meme_text"
+    },
+    {
+      "text": "Trump's Cabinet",
+      "role": "meme_text"
+    },
+    {
+      "text": "PLAN TRUSTED",
+      "role": "meme_text"
+    },
+    {
+      "text": "U.S.A.",
+      "role": "meme_text"
+    },
+    {
+      "text": "IRAN",
+      "role": "meme_text"
+    },
+    {
+      "text": "Guardians of the World",
+      "role": "meme_text"
+    },
+    {
+      "text": "TRUMP 2028",
+      "role": "meme_text"
+    },
+    {
+      "text": "No More Engines",
+      "role": "meme_text"
+    },
+    {
+      "text": "TRUMP 2028 MAKE AMERICA GREAT AGAIN",
+      "role": "meme_text"
+    },
+    {
+      "text": "A NEW ERA BEGINS AMONG THE STARS",
+      "role": "meme_text"
+    },
+    {
+      "text": "CHRIS CHRISTIE",
+      "role": "meme_text"
+    },
+    {
+      "text": "JERRY NADLER",
+      "role": "meme_text"
+    },
+    {
+      "text": "THE CHEESECAKE CHAMPIONSHIP",
+      "role": "meme_text"
+    },
+    {
+      "text": "Donald J. Trump",
+      "role": "other"
+    },
+    {
+      "text": "@realDonaldTrump",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue. The audio consists entirely of a loud sound effect.",
+  "emojis_present": [],
+  "audio_music": "A continuous, loud, high-pitched, and grating mechanical sound, similar to a chainsaw or industrial saw, plays throughout the video. The on-screen text explicitly labels this as 'the sound of a rural community being destroyed', creating a jarring, alarming, and disruptive atmosphere.",
+  "editing_pacing": "A rapid-fire slideshow or fast-scrolling montage of still images from a social media feed.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays numerous AI-generated images that were posted on Donald Trump's Truth Social account. These images depict him and other subjects in fantastical, hyper-masculine, or aggressive scenarios, such as Trump as a time traveler, Trump in space, and US military forces destroying Iranian targets. The on-screen text explicitly identifies them as 'AI images'.",
+  "emotions_signaled": [
+    "Alarm",
+    "Distress",
+    "Mockery",
+    "Overwhelm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's social media activity is chaotic and destructive, characterized by a flood of bizarre and aggressive AI-generated propaganda.",
+  "intended_effect": "To portray Donald Trump as unhinged, out of touch, and dangerously preoccupied with his online image.",
+  "uncertainty_flags": [
+    "The provided music fingerprint from ACRCloud does not match the audio in the video, which is a loud, continuous engine sound effect, explicitly identified by on-screen text as 'the sound of a rural community being destroyed'."
+  ]
+}

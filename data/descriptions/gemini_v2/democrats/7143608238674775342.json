@@ -1,0 +1,52 @@
+{
+  "video_id": "7143608238674775342",
+  "visual_action": "Vice President Kamala Harris stands at a podium with the presidential seal, in front of American flags, delivering a speech to an unseen audience. She gestures with her hands as she speaks, and at one point, the audio includes applause from the audience. The shot is a static, medium close-up.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, shown delivering a speech for the entire duration."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Harris refers to him as \"our President\" when discussing the climate goals he set."
+    },
+    {
+      "name": "Inflation Reduction Act (IRA)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the topic as \"the IRA's actions to combat the climate crisis\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Vice President Harris on the IRA's actions to combat the climate crisis",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Kamala Harris outlines the administration's climate goals, stating the President set an objective to \"cut our greenhouse gas emissions in half by no later than 2030\" and reach \"net-zero emissions\" by 2050. After receiving applause, she proudly reports that the nation is on track to meet these goals due to collective efforts. She concludes by saying there is still more work to be done to cut emissions, advance environmental justice, and protect the planet.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Kamala Harris's voice during her speech, with a period of applause from an audience after she announces the climate goals. There is no background music.",
+  "editing_pacing": "The video is a single, static shot with no cuts or camera movement, in a talking-head style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "accomplishment",
+    "optimism",
+    "seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Biden-Harris administration is on track to meet its ambitious climate goals, such as halving emissions by 2030, due to the Inflation Reduction Act.",
+  "intended_effect": "To instill confidence and pride in the administration's progress on combating climate change.",
+  "uncertainty_flags": []
+}

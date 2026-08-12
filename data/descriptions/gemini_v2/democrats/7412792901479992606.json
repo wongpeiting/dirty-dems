@@ -1,0 +1,90 @@
+{
+  "video_id": "7412792901479992606",
+  "visual_action": "The video starts with a dark blue screen with the word \"me\" in white text. It cuts to the same screen with the word \"you\". It then cuts to a graphic for an ABC News Presidential Debate between Kamala Harris and Donald Trump. Text overlaid on this graphic asks, \"watch the debate?\". The debate graphic shows photos of Harris and Trump and provides broadcast details.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her photo and name \"KAMALA HARRIS\" are featured on a promotional graphic for a presidential debate."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His photo and name \"DONALD TRUMP\" are featured on a promotional graphic for a presidential debate."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The post is from the @democrats account and uses the word \"me\" to establish a point of view, implying the perspective is that of the party."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The \"abc NEWS\" logo is prominently displayed on the presidential debate graphic."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "me",
+      "role": "overlay"
+    },
+    {
+      "text": "you",
+      "role": "overlay"
+    },
+    {
+      "text": "watch the debate?",
+      "role": "overlay"
+    },
+    {
+      "text": "KAMALA HARRIS",
+      "role": "chyron"
+    },
+    {
+      "text": "DONALD TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "abc NEWS PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "TUESDAY 9p ET",
+      "role": "chyron"
+    },
+    {
+      "text": "STREAM ON hulu Disney+ abcNEWSLIVE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no dialogue, only an upbeat pop-rock song with lyrics including \"there's nothing I can do, nothing like the way you move\" and \"I can try but I can't hide it from you.\"",
+  "emojis_present": [],
+  "audio_music": "An energetic, upbeat pop-rock song plays throughout the video, creating a sense of hype and anticipation. The romantic lyrics are repurposed to express excitement about the upcoming debate.",
+  "editing_pacing": "The editing consists of a few quick cuts in a simple slideshow style, moving from text overlays to a final graphic. The pacing is fast and matches the energy of the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "anticipation"
+  ],
+  "cultural_references": [
+    "The video uses a common TikTok meme format comparing 'me' and 'you' to express a relatable dynamic or feeling.",
+    "Hulu",
+    "Disney+"
+  ],
+  "central_claim": "The upcoming presidential debate between Kamala Harris and Donald Trump is an exciting, must-see event.",
+  "intended_effect": "To generate hype and encourage viewers to watch the presidential debate by framing it as a highly anticipated event.",
+  "uncertainty_flags": []
+}

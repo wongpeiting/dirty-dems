@@ -1,0 +1,127 @@
+{
+  "video_id": "7621608443677248781",
+  "visual_action": "In a clip from a Fox News broadcast, Doug Burgum is speaking at a table in The White House, flanked by Marco Rubio and Donald Trump. Trump interrupts Burgum mid-sentence.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown on screen, identified by face-ID, and is the subject of the main on-screen text overlay. He speaks, saying, 'Forget that. When are they going to do the statue?'"
+    },
+    {
+      "name": "Doug Burgum",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown on screen, identified by face-ID, and named in the chyron as 'DOUG BURGUM | INTERIOR SECRETARY'. He is speaking about gas prices before Trump interrupts him."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visually identified by face-ID, sitting between Doug Burgum and Donald Trump. He does not speak."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and branding are visible in the chyron at the bottom of the screen, indicating the source of the footage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump on gas prices: Forget about that. When are they going to do the statue of me?",
+      "role": "meme_text"
+    },
+    {
+      "text": "FOX NEWS | LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "DOUG BURGUM | INTERIOR SECRETARY",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SPEAKS ON OIL, ENERGY AMID IRAN CONFLICT",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: MADURO HEARING UNDERWAY",
+      "role": "chyron"
+    },
+    {
+      "text": "THAT FLOWS TO",
+      "role": "overlay"
+    },
+    {
+      "text": "REFINERIES ON",
+      "role": "overlay"
+    },
+    {
+      "text": "THE GULF COAST",
+      "role": "overlay"
+    },
+    {
+      "text": "LOWERING THE",
+      "role": "overlay"
+    },
+    {
+      "text": "PRICE OF GAS",
+      "role": "overlay"
+    },
+    {
+      "text": "IN AMERICA.",
+      "role": "overlay"
+    },
+    {
+      "text": "SO IT'S",
+      "role": "overlay"
+    },
+    {
+      "text": "FORGET THAT.",
+      "role": "overlay"
+    },
+    {
+      "text": "WHEN ARE THEY",
+      "role": "overlay"
+    },
+    {
+      "text": "GOING TO DO",
+      "role": "overlay"
+    },
+    {
+      "text": "THE STATUE?",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Doug Burgum is speaking about oil flows to American refineries on the Gulf Coast and the effect on 'lowering the price of gas in America.' Donald Trump interrupts him, saying, 'Forget that. When are they going to do the statue?'",
+  "emojis_present": [
+    "🫩"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the news clip. There is no background music or other sound.",
+  "editing_pacing": "The video is a single, static clip from a news broadcast. Large text overlays appear sequentially to transcribe the spoken words.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is self-obsessed and uninterested in policy discussions like gas prices, as shown by him interrupting an official to ask when a statue of him will be built.",
+  "intended_effect": "To portray Donald Trump as narcissistic and unfit for office, thereby generating negative sentiment toward him.",
+  "uncertainty_flags": []
+}

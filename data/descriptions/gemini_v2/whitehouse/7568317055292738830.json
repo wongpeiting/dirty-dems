@@ -1,0 +1,127 @@
+{
+  "video_id": "7568317055292738830",
+  "visual_action": "The video is a montage of images and clips. It begins with an American flag waving before the Washington Monument, followed by soldiers advancing with a tank, a missile launching from a warship, and a '250' anniversary American flag. It then shows split-screen portraits of Donald Trump and JD Vance, followed by Melania Trump and Usha Vance. Subsequent images include Donald Trump's mugshot, Trump kissing an American flag, Trump giving a thumbs-up, and fireworks over the Jefferson Memorial. The montage concludes with a shot of Trump working in a fast-food kitchen, scooping fries. The final screen shows the White House logo and text over a black and white image of the building.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in multiple photos throughout the montage, including a portrait, his mugshot, and various candid shots."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a split-screen portrait below Donald Trump."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a black and white portrait in a split-screen."
+    },
+    {
+      "name": "Usha Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a portrait in a split-screen below Melania Trump."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The words 'THE WHITE HOUSE' and its logo appear on the final screen of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "keep it one hundred",
+      "role": "overlay"
+    },
+    {
+      "text": "the land",
+      "role": "overlay"
+    },
+    {
+      "text": "the sea",
+      "role": "overlay"
+    },
+    {
+      "text": "the sky",
+      "role": "overlay"
+    },
+    {
+      "text": "pledge allegiance to your hands",
+      "role": "overlay"
+    },
+    {
+      "text": "your team",
+      "role": "overlay"
+    },
+    {
+      "text": "your vibes",
+      "role": "overlay"
+    },
+    {
+      "text": "don't care where the hell you been",
+      "role": "overlay"
+    },
+    {
+      "text": "'cause now you're mine",
+      "role": "overlay"
+    },
+    {
+      "text": "gettyimages Credit: Anna Money",
+      "role": "credit"
+    },
+    {
+      "text": "it's 'bout to be the sleepless night",
+      "role": "overlay"
+    },
+    {
+      "text": "you've been dreaming of",
+      "role": "overlay"
+    },
+    {
+      "text": "the fate of America",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no dialogue. An upbeat pop song plays throughout, with lyrics displayed on screen. The lyrics shown are: \"keep it one hundred... the land, the sea, the sky... pledge allegiance to your hands... your team, your vibes... don't care where the hell you been... 'cause now you're mine... it's 'bout to be the sleepless night you've been dreaming of... the fate of America.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "A continuous, upbeat, and dramatic pop song plays throughout the video, identified as 'The Fate of Ophelia' by Taylor Swift. The music drives the pace of the montage.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between still photos and video clips, timed to the beat of the background music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride",
+    "Excitement",
+    "Strength"
+  ],
+  "cultural_references": [
+    "The soundtrack is identified as the song 'The Fate of Ophelia' by Taylor Swift, a major pop culture figure."
+  ],
+  "central_claim": "Donald Trump, along with his team, is a strong patriotic figure whose return to power will determine the fate of America.",
+  "intended_effect": "To generate excitement and rally support for Donald Trump and his allies by portraying his movement as powerful, patriotic, and decisive for the nation's future.",
+  "uncertainty_flags": [
+    "The lyrics displayed on screen do not match the known lyrics for the fingerprinted song, 'The Fate of Ophelia' by Taylor Swift, suggesting they may be custom lyrics for the video.",
+    "The provided Whisper transcript is highly inaccurate and does not match the on-screen text or the identified song."
+  ]
+}

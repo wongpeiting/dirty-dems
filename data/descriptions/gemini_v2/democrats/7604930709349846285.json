@@ -1,0 +1,60 @@
+{
+  "video_id": "7604930709349846285",
+  "visual_action": "A montage of quick cuts from a high-energy Kid Rock concert. He is seen on a large stage with pyrotechnics, flashing lights, and large screens displaying his name and an American flag. The audience is visible in the foreground, cheering and filming with their phones.",
+  "cast": [
+    {
+      "name": "Kid Rock",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen overlay text reads 'Kid Rock leaps and frolics...'. His name is also visible in large letters on the stage backdrop."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text describes the event as 'the MAGA halftime show'."
+    },
+    {
+      "name": "Turning Point Action",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Turning Point Action logo is visible in the bottom right corner of the concert footage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kid Rock leaps and frolics at the MAGA halftime show 😬",
+      "role": "overlay"
+    },
+    {
+      "text": "KID ROCK",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of repetitive, high-pitched squeaking sounds, resembling sneakers on a basketball court, and some clicking noises. This audio is non-diegetic and mismatched with the video's content.",
+  "emojis_present": [
+    "😬"
+  ],
+  "audio_music": "The audio is not music from the concert shown. Instead, it is a non-diegetic sound effect track of squeaking sneakers on a gym floor. This sound is played continuously over the visuals of a rock concert, creating a jarring, absurd, and mocking effect.",
+  "editing_pacing": "The video uses a rapid montage of very short clips from the concert, showing different angles and moments of the performance.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "cringe"
+  ],
+  "cultural_references": [
+    "Halftime show (sports event reference)"
+  ],
+  "central_claim": "A Kid Rock performance at a MAGA-affiliated event is portrayed as awkward and absurd by pairing high-energy concert footage with the sound of squeaking sneakers.",
+  "intended_effect": "To make the viewer ridicule and feel secondhand embarrassment for Kid Rock and the MAGA movement.",
+  "uncertainty_flags": [
+    "The provided audio transcript is completely inaccurate and does not reflect the actual sounds in the video, which are crucial to its satirical meaning."
+  ]
+}

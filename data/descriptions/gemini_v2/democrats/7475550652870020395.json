@@ -1,0 +1,61 @@
+{
+  "video_id": "7475550652870020395",
+  "visual_action": "A static screenshot of a tweet from the account 'FactPost'. The tweet claims that House Republicans have passed a budget resolution cutting Medicaid. The tweet includes two images side-by-side: one of Donald Trump standing and smiling with another man in a suit, and another of the U.S. Capitol building at night.",
+  "cast": [
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text of the tweet states, 'House Republicans have passed a budget resolution...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photograph of Donald Trump is included in the tweet shown on screen."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man in a suit and glasses is shown standing next to Donald Trump in a photograph."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "House Republicans have passed a budget resolution that makes way for the largest cut to Medicaid in history while protecting tax handouts for billionaires.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue; the audio consists only of a sound effect.",
+  "emojis_present": [],
+  "audio_music": "A short, abrupt, and loud high-pitched scream plays over the static image, creating a sense of alarm, shock, or rage.",
+  "editing_pacing": "The video is a static image with no edits or cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "alarm",
+    "anger"
+  ],
+  "cultural_references": [
+    "The audio is a meme sound effect, labeled as 'female rage' by TikTok, used to express shock or anger.",
+    "The content is presented in the format of a tweet screenshot, a common internet trope."
+  ],
+  "central_claim": "House Republicans have passed a historic budget cut to Medicaid while prioritizing tax benefits for billionaires.",
+  "intended_effect": "To generate anger and alarm towards House Republicans regarding their fiscal policies.",
+  "uncertainty_flags": [
+    "The identity of the man pictured with Donald Trump is unknown.",
+    "The nature and veracity of the 'FactPost' Twitter account are not established within the video."
+  ]
+}

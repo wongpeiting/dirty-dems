@@ -1,0 +1,153 @@
+{
+  "video_id": "7468340390958189870",
+  "visual_action": "A man in a suit and tie speaks directly to the camera from behind a desk. As he talks, a series of graphics designed to look like news headlines from C-SPAN, NBC News, and The New York Times appear over his chest to illustrate his points. One graphic includes a still photo of a political rally or press conference.",
+  "cast": [
+    {
+      "name": "Chair Martin",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker for the entire video. The post caption identifies him: 'Chair Martin breaks down...'"
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker calls him 'the worst president America has ever had' and discusses legislation aimed at him. A fabricated headline also names him."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is repeatedly named as an antagonist: 'fighting back against Trump and his billionaire friends,' and is the subject of lawsuits mentioned by the speaker."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is from the official @democrats account, and the speaker consistently frames the party as the entity 'fighting back' against opponents."
+    },
+    {
+      "name": "U.S.A.I.D.",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The agency is mentioned in a fabricated New York Times headline: 'Democrats Challenge Musk's Efforts to Dismantle U.S.A.I.D.'"
+    },
+    {
+      "name": "Brian Schatz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a still photograph used in the fabricated New York Times headline graphic."
+    },
+    {
+      "name": "Ilhan Omar",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a still photograph used in the fabricated New York Times headline graphic."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WE'RE ONLY",
+      "role": "caption"
+    },
+    {
+      "text": "AND ELON MUSK",
+      "role": "caption"
+    },
+    {
+      "text": "HAS ALREADY PROVEN",
+      "role": "caption"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "FEBRUARY 4, 2025",
+      "role": "chyron"
+    },
+    {
+      "text": "Democratic Leaders Introduce \"Stop the Steal\" Bill to Block Elon Musk's \"Unlawful\" DOGE Actions",
+      "role": "chyron"
+    },
+    {
+      "text": "NBC NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "Democratic attorneys general sue to block Trump's attempt to end birthright citizenship",
+      "role": "chyron"
+    },
+    {
+      "text": "The New York Times",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats Challenge Musk's Efforts to Dismantle U.S.A.I.D.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP AND HIS",
+      "role": "caption"
+    },
+    {
+      "text": "BILLIONAIRE CABINET",
+      "role": "caption"
+    },
+    {
+      "text": "DAMN",
+      "role": "caption"
+    },
+    {
+      "text": "STEAL",
+      "role": "caption"
+    },
+    {
+      "text": "YOUR MONEY",
+      "role": "caption"
+    },
+    {
+      "text": "AND DEMOCRATS",
+      "role": "caption"
+    },
+    {
+      "text": "ARE FIGHTING BACK.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The speaker claims that 'Elon Musk has already proven that he's the worst president America has ever had.' He states that Democrats are fighting back against 'Trump and his billionaire friends' by introducing legislation to stop Musk from accessing personal information, filing over 20 lawsuits against Donald Trump, and protesting at USAID. He concludes that 'Trump and his billionaire cabinet don't give a damn about working people' and are trying to 'steal your money,' while 'Democrats are fighting back.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a man's spoken-word address to the camera. There is no music or other sound.",
+  "editing_pacing": "The video is a static, medium close-up shot of a single speaker. The pacing is driven by animated captions and a series of three graphic overlays that appear and disappear to illustrate his points.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays fabricated news headlines and chyrons from C-SPAN, NBC News, and The New York Times to visually represent the speaker's claims. These are not real broadcasts or articles but are staged graphics created for the video, evidenced by their design and the satirical content of the C-SPAN chyron referencing a '\"Stop the Steal\" Bill' against Elon Musk's '\"Unlawful\" DOGE Actions' under a date of February 4, 2025.",
+  "emotions_signaled": [
+    "Urgency",
+    "Alarm",
+    "Righteous anger",
+    "Protective sentiment"
+  ],
+  "cultural_references": [
+    "Stop the Steal",
+    "Dogecoin"
+  ],
+  "central_claim": "Democrats are actively protecting working Americans from powerful figures like Elon Musk and Donald Trump, who are portrayed as corrupt and harmful.",
+  "intended_effect": "To create alarm about Elon Musk and Donald Trump and to persuade viewers that the Democratic party is fighting on their behalf.",
+  "uncertainty_flags": [
+    "The identity of 'Chair Martin' is based only on the post caption and is not otherwise specified in the video."
+  ]
+}

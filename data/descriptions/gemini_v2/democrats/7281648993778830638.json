@@ -1,0 +1,50 @@
+{
+  "video_id": "7281648993778830638",
+  "visual_action": "The video first displays a screenshot of a Politico article. The article features a quote from Rep. Mike Simpson. It then cuts to a well-known meme clip from a comedy sketch, showing a man (actor Tim Robinson) dressed in a full-body hot dog costume looking around a room with a frantic, accusatory expression while other people in the background look on.",
+  "cast": [
+    {
+      "name": "Mike Simpson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a Politico article shows his name and a quote attributed to him: '\"We always get the blame,\" said Rep. Mike Simpson (R-Idaho)...'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies Mike Simpson as \"(R-Idaho),\" making his statement representative of a Republican position, which is then mocked by the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POLITICO",
+      "role": "overlay"
+    },
+    {
+      "text": "\"We always get the blame,\" said Rep. Mike Simpson (R-Idaho), a senior appropriator. \"Name one time that we've shut the government down and we haven't got the blame.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue or spoken audio in the video; it is entirely instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A fast-paced, quirky, and comedic instrumental track plays throughout the video, featuring pizzicato strings and woodwind instruments. The music has a zany, cartoonish feel that enhances the mocking tone of the meme.",
+  "editing_pacing": "The video consists of a static shot of a screenshot which then makes a single, simple cut to a continuous clip from a TV show.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "The video uses a popular meme clip from the Netflix sketch comedy show 'I Think You Should Leave with Tim Robinson.' The clip features actor Tim Robinson in a hot dog costume from a sketch where his character, having just crashed a hot dog-shaped car, frantically tries to find the culprit among a group of bystanders."
+  ],
+  "central_claim": "Republicans, like Rep. Mike Simpson, are hypocritically feigning victimhood over being blamed for government shutdowns when they are the ones responsible.",
+  "intended_effect": "To ridicule Rep. Mike Simpson and the Republican party by portraying their complaints as absurd, disingenuous, and lacking self-awareness.",
+  "uncertainty_flags": [
+    "The provided music fingerprint ('Natt . Nattt — Nasheed remixx') appears to be incorrect, as the audio is a quirky, comedic instrumental track, not a Nasheed remix."
+  ]
+}

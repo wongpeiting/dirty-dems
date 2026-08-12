@@ -1,0 +1,59 @@
+{
+  "video_id": "7619713824551193870",
+  "visual_action": "The video is a montage of eight scenes in sequence: (1) An American flag waving in the foreground over rows of white military grave markers at what appears to be a national cemetery, with a wooded hillside and town visible in the background. (2) A stealth fighter jet — appearing to be an F-35 — flying at speed across a clear blue sky, with vapor wisps trailing. (3) Donald Trump in a navy suit and red tie talking with a worker wearing an orange high-visibility jacket and a white hard hat with \"APEX\" labeling, inside a large industrial facility. (4) Trump, seen from behind on a stage, facing a large crowd of workers wearing orange safety gear inside an industrial building; crowd holds signs including what appears to be \"THANK YOU PRESIDENT TRUMP.\" (5) Trump at what appears to be a formal event or dinner, pointing outward toward an audience against a blue backdrop bearing a presidential seal and partial lettering; crowd members are photographing him. (6) Air Force One (distinctive blue-and-white livery) flying low over Northwest Stadium (Washington Commanders NFL stadium, signage clearly visible), with stadium lights and a filled crowd visible below. (7) Trump clapping in what appears to be a stadium suite or enclosed viewing area, surrounded by other attendees including a young child; crowd members below are photographing him. (8) A dark, nearly black outro frame showing a silhouette of a helicopter (Marine One) lifting off against a dark sky, with the official White House logo and \"THE WHITE HOUSE\" text centered on screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Trump's distinctive face, hair, and signature navy suit with red tie visible in multiple scenes — industrial facility conversation, stage appearance, formal pointing gesture, and stadium suite applause."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Official White House logo and 'THE WHITE HOUSE' text displayed on the final outro frame."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Minimal spoken audio; the Whisper transcript captures only the line \"I'll see you next time,\" suggesting a brief outgoing phrase — possibly from Trump or an announcer — at the end of one of the event clips. The audio track is primarily background music (\"Cool Attitude (Vox)\") rather than speech.",
+  "emojis_present": [
+    "🇺🇸",
+    "🦅"
+  ],
+  "audio_music": "Upbeat, confident-sounding background music track titled \"Cool Attitude (Vox).\" The tone is energetic and celebratory, underscoring the montage with a sense of action and national pride.",
+  "editing_pacing": "Fast-cut montage of distinct B-roll scenes. Each scene is brief, with cuts driving momentum. Cinematic framing — low angles on the flag, tracking the fighter jet, dramatic back-of-stage shot — gives a highlight-reel quality. The final frame is a slow, dark outro with a centered logo, providing a deliberate closing beat.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride — evoked by American flag over military cemetery and Air Force One flyover imagery",
+    "Strength and power — evoked by F-35 fighter jet in flight",
+    "Populist connection — evoked by Trump conversing with industrial workers in hard hats",
+    "Triumph — evoked by Trump on stage before a cheering crowd and pointing at a formal event",
+    "Patriotism — evoked by the caption 'YEAR OF THE PATRIOT' and flag/military imagery throughout"
+  ],
+  "cultural_references": [
+    "'Year of the Patriot' framing — evokes American patriotic nationalist branding",
+    "Air Force One flyover at a packed NFL stadium (Northwest Stadium / Washington Commanders) — symbol of presidential power intersecting with popular American culture",
+    "Military cemetery with American flag — Memorial Day / veterans' tribute imagery convention"
+  ],
+  "central_claim": "The video presents Trump's presidency as a triumphant, patriotic era defined by military strength, industrial engagement, and enthusiastic public support.",
+  "intended_effect": "Inspire pride, excitement, and a sense of national renewal in viewers; position Trump as a strong, active, and beloved president in his second term.",
+  "uncertainty_flags": [
+    "The exact identity of the national cemetery in scene 1 is not confirmed from the visuals alone.",
+    "The specific industrial facility and event context for scenes 3–4 (worker in APEX hard hat) cannot be confirmed without additional metadata.",
+    "The formal event in scene 5 (blue backdrop with presidential seal) is not specifically identified.",
+    "The Air Force One flyover at Northwest Stadium — the timing/occasion of this event is not confirmed from visuals alone; it appears to be a real documented flyover but the specific date/event is uncertain.",
+    "The stadium suite scene (scene 7) location is not explicitly identified beyond appearing to be an indoor sports venue.",
+    "Only one line of transcript was captured ('I'll see you next time'); it is unclear who says it or at which scene it occurs."
+  ]
+}

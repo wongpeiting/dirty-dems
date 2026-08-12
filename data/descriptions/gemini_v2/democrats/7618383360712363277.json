@@ -1,0 +1,61 @@
+{
+  "video_id": "7618383360712363277",
+  "visual_action": "A short slideshow celebrating a political victory. The video starts with a graphic designed to look like a news alert, with the header \"KEY RACE CALL\". It announces \"JB PRITZKER WINS ILLINOIS DEMOCRATIC PRIMARY FOR GOVERNOR\" over a photo of Pritzker raising his fist. It then cuts to a second, more casual photo of JB Pritzker smiling.",
+  "cast": [
+    {
+      "name": "JB Pritzker",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His name and photos are featured prominently in the on-screen graphics."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the race as the \"ILLINOIS DEMOCRATIC PRIMARY\" and Pritzker as the \"OFFICIAL DEMOCRATIC NOMINEE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "KEY RACE CALL",
+      "role": "chyron"
+    },
+    {
+      "text": "JB PRITZKER WINS ILLINOIS DEMOCRATIC PRIMARY FOR GOVERNOR",
+      "role": "overlay"
+    },
+    {
+      "text": "✅ JB PRITZKER (D)",
+      "role": "overlay"
+    },
+    {
+      "text": "OFFICIAL DEMOCRATIC NOMINEE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of the song \"All I Do Is Win\" by DJ Khaled, with lyrics like \"DJ Khaled!\" and \"All I do is win, win, win no matter what\" clearly audible.",
+  "emojis_present": [
+    "✅"
+  ],
+  "audio_music": "A high-energy, triumphant hip-hop track, identified as DJ Khaled's \"All I Do Is Win\", plays throughout the entire video to create a celebratory and confident atmosphere.",
+  "editing_pacing": "A slideshow with one quick cut between two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Celebration",
+    "Confidence"
+  ],
+  "cultural_references": [
+    "The song 'All I Do Is Win' by DJ Khaled (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross) is used as the soundtrack."
+  ],
+  "central_claim": "JB Pritzker has won the Illinois Democratic primary for governor.",
+  "intended_effect": "To create a sense of celebration and confidence around JB Pritzker's primary victory.",
+  "uncertainty_flags": [
+    "The provided transcript is empty, despite the audio clearly containing song lyrics."
+  ]
+}

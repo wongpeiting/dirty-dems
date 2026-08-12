@@ -1,0 +1,67 @@
+{
+  "video_id": "7660974669347982605",
+  "visual_action": "The clip is shot in portrait/vertical format with a large black letterbox above and below. The top portion of every frame contains white overlay text. The footage shows Donald Trump at what appears to be a bilateral or multilateral meeting at the G7 France summit in Évian, 2026. A backdrop reads \"G7 FRANCE ÉVIAN 2026\" with repeating G7 France and US seal logos. An American flag is visible behind him. The sequence unfolds in slow progression: first Trump is seen walking/entering alongside two other suited men (one to his left appears to be an Arab or African head of state in a dark suit with a dark tie; one to his right in a light blue tie). Trump then appears to struggle to lower himself into a tan/beige armchair, hunching forward noticeably with his head bowed down and body bent at the waist. Aides/officials lean in to assist or observe. In the final frames, Trump is fully seated in the chair, head drooping forward, eyes appearing heavy or closed, with a man in a dark suit leaning toward him from the right. The overall sequence emphasizes the physical difficulty Trump appears to have sitting down.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Confirmed by InsightFace face-ID; visibly on screen throughout, wearing dark suit and red tie, struggling to sit in chair at G7 France Évian 2026 backdrop"
+    },
+    {
+      "name": "unnamed official (left)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible on screen in frames 1–2, dark suit, dark tie, standing to Trump's left at G7 backdrop; identity not confirmed"
+    },
+    {
+      "name": "unnamed official (right, light blue tie)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in frames 1–6, light blue tie, leaning toward Trump as he sits; identity not confirmed"
+    },
+    {
+      "name": "unnamed official (grey-haired, dark jacket)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in later frames leaning over Trump in the armchair; identity not confirmed"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "pov: you're watching the downfall of america doc and they finally bring him out",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is audible in the clip. The Whisper transcript is empty, indicating the footage contains no significant speech — only ambient sound and the background music track.",
+  "emojis_present": [],
+  "audio_music": "The ACRCloud fingerprint identifies the track as \"On a Mission\" by Duomo, playing throughout the clip. The music functions as a dramatic, driving underscore — its title and tone amplify the \"documentary reveal\" framing of the overlay text. The track creates a tense, cinematic atmosphere that pairs with the slow, labored movement shown on screen.",
+  "editing_pacing": "Slow, deliberate pacing — the clip appears to be slowed-down or played at near-real-time with careful frame selection to linger on Trump's physical difficulty sitting. No rapid cuts; each keyframe holds for several seconds. The framing is static, emphasizing Trump's downward motion and hunched posture. No zoom effects or reaction shots from other people are inserted.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern or alarm (framing of Trump's physical difficulty as 'downfall' of America, documentary-reveal tone)",
+    "dark humor or mockery (POV meme format, 'they finally bring him out' language)",
+    "dramatic tension (cinematic music, slow pacing, gradual reveal of Trump struggling to sit)"
+  ],
+  "cultural_references": [
+    "POV meme format — the 'pov: you're watching [X] documentary' internet video format, commonly used on TikTok to frame real footage as if it were a future historical documentary",
+    "The Downfall (Der Untergang) documentary/film reference — the overlay invokes the trope of a 'downfall documentary' as a cultural shorthand for the collapse of a powerful figure, referencing the famous 2004 German film and its widespread internet meme usage"
+  ],
+  "central_claim": "Trump's apparent physical difficulty sitting down at the G7 France 2026 summit is presented, via a POV documentary meme format, as evidence of the \"downfall of America.\"",
+  "intended_effect": "To make viewers view Trump's physical movement as alarming or embarrassing, framed as a historic documentary moment of American decline.",
+  "uncertainty_flags": [
+    "The identity of the two or three officials flanking Trump is not confirmed — one may be a foreign head of state or senior diplomat attending the G7 Évian 2026 summit",
+    "It is unclear whether Trump's physical difficulty sitting is due to a specific medical or mobility issue, the awkward height of the chair, or simply a normal motion captured at an unflattering angle/speed",
+    "The date 'G7 France Évian 2026' is after the author's knowledge cutoff but is treated as real per instructions; no visual fabrication is evident in the backdrop text",
+    "No caption text was provided by the account beyond the on-screen overlay; it is possible additional caption/hashtag context exists but was not supplied"
+  ]
+}

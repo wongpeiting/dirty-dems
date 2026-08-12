@@ -1,0 +1,72 @@
+{
+  "video_id": "7558195997466250551",
+  "visual_action": "A montage of clips shows politician Mike Johnson. He is seen walking through a hallway, speaking with a woman with blonde hair, and speaking while seated in a formal room with a portrait in the background.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the person featured in all the video clips and is the subject of the on-screen text."
+    },
+    {
+      "name": "Adelita Grijalva",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears in the on-screen text: 'avoid swearing in a newly elected democrat (Adelita Grijalva)'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The group is mentioned in the on-screen text: 'make sure republicans don't show up for work'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "today's to do list:",
+      "role": "overlay"
+    },
+    {
+      "text": "- avoid swearing in a newly elected democrat (Adelita Grijalva)",
+      "role": "overlay"
+    },
+    {
+      "text": "- kick more people off their health care",
+      "role": "overlay"
+    },
+    {
+      "text": "- wine and dine billionaire donors while federal workers go without pay",
+      "role": "overlay"
+    },
+    {
+      "text": "- make sure republicans don't show up for work",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from a rap song. The provided transcript includes the lines: \"I got big rocks, jumpin' at my friends... ice, ice, baby...\"",
+  "emojis_present": [],
+  "audio_music": "A confident, upbeat rap track plays throughout the video. The tone of the music is boastful, which creates a sarcastic contrast with the critical on-screen text about the politician's alleged actions.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different clips of Mike Johnson.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "scorn",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "The audio features a rap song with lyrics referencing wealth and status ('big rocks', 'ice, ice, baby'), used sarcastically.",
+    "The lyric 'ice, ice, baby' is a reference to the famous song by Vanilla Ice."
+  ],
+  "central_claim": "Mike Johnson's agenda consists of neglecting his duties, helping wealthy donors, and harming ordinary Americans and government workers.",
+  "intended_effect": "To portray Mike Johnson as corrupt and uncaring, thereby generating disapproval among viewers.",
+  "uncertainty_flags": [
+    "The provided authoritative music fingerprint identifies the song as 'Gypsy' by Fleetwood Mac, which is in direct conflict with the audible audio and the provided transcript, which are clearly from a modern rap song."
+  ]
+}

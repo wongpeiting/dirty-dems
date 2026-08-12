@@ -1,0 +1,47 @@
+{
+  "video_id": "7445075096546413867",
+  "visual_action": "A static image of the Muppet character Pepe the King Prawn, who has a shocked and frazzled expression with wide eyes and spiky red hair. The image slowly zooms in on the character's face. Text is overlaid on the bottom half of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"me after seeing Trump's insane lineup of Cabinet picks\"."
+    },
+    {
+      "name": "Pepe the King Prawn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Muppet character Pepe the King Prawn is the subject of the image used in the meme."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "me after seeing Trump's insane lineup of Cabinet picks",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only music.",
+  "emojis_present": [],
+  "audio_music": "The audio is a dramatic and ominous choral piece, identified as \"Like a Prayer (Choir Version From ‘Deadpool & Wolverine’)\". The music swells to create a sense of high stakes and alarm, contrasting with the comedic image.",
+  "editing_pacing": "The video consists of a slow zoom-in on a single static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "alarm",
+    "disbelief"
+  ],
+  "cultural_references": [
+    "The Muppets (specifically the character Pepe the King Prawn)",
+    "Reaction meme format",
+    "The movie 'Deadpool & Wolverine'"
+  ],
+  "central_claim": "Donald Trump's potential cabinet picks are shockingly extreme and alarming.",
+  "intended_effect": "To generate alarm and opposition towards Donald Trump's potential administration by portraying his choices as 'insane'.",
+  "uncertainty_flags": []
+}

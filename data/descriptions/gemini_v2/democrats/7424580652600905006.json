@@ -1,0 +1,183 @@
+{
+  "video_id": "7424580652600905006",
+  "visual_action": "A man with glasses wearing a white T-shirt speaks directly to the camera. Overlaid on his image are a series of screenshots from news articles from sources including NBC News and HuffPost. The articles discuss Donald Trump's potential to appoint more Supreme Court justices and the past overturning of Roe v. Wade.",
+  "cast": [
+    {
+      "name": "Unnamed commentator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The man speaking directly to the camera throughout the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in audio ('If Donald Trump wins'), on-screen text ('TRUMP PLANS ON APPOINTING...'), and a photo of him appears in a news article screenshot."
+    },
+    {
+      "name": "U.S. Supreme Court",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned repeatedly in audio ('two more Supreme Court justices') and on-screen text ('Supreme Court Ends Nearly 50 Years of Abortion Rights')."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text from an NBC News article reads 'Republicans expect to confirm even more Supreme Court justices...' and the audio says 'Republicans expect to appoint...'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The speaker is wearing a white T-shirt with 'HARRIS' printed on it in large, blue, mirrored letters."
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in a screenshot of an article: '...which no president has done since Franklin D. Roosevelt...'"
+    },
+    {
+      "name": "NBC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and masthead for NBC News are visible on a screenshot of an article."
+    },
+    {
+      "name": "HuffPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for HuffPost is visible on a screenshot of an article."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of an article about the end of abortion rights is bylined 'By Adam Liptak', a well-known Supreme Court correspondent for The New York Times."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP PLANS ON APPOINTING TWO MORE MAGA JUSTICES IF HE WINS",
+      "role": "overlay"
+    },
+    {
+      "text": "If Donald Trump wins,",
+      "role": "caption"
+    },
+    {
+      "text": "Republicans expect to appoint",
+      "role": "caption"
+    },
+    {
+      "text": "two more Supreme Court justices.",
+      "role": "caption"
+    },
+    {
+      "text": "NBC NEWS",
+      "role": "other"
+    },
+    {
+      "text": "Republicans expect to confirm even more Supreme Court justices if Trump wins",
+      "role": "other"
+    },
+    {
+      "text": "This would be disastrous.",
+      "role": "caption"
+    },
+    {
+      "text": "If Trump were to get two more Supreme Court picks, he will have appointed over half the court, which no president has done since Franklin D. Roosevelt and the subsequent creation of the presidential two-term limit.",
+      "role": "other"
+    },
+    {
+      "text": "If Trump wins and appoints",
+      "role": "caption"
+    },
+    {
+      "text": "two more justices,",
+      "role": "caption"
+    },
+    {
+      "text": "he will have appointed over half the court.",
+      "role": "caption"
+    },
+    {
+      "text": "In 6-to-3 Ruling, Supreme Court Ends Nearly 50 Years of Abortion Rights",
+      "role": "other"
+    },
+    {
+      "text": "We saw what happened when",
+      "role": "caption"
+    },
+    {
+      "text": "Trump hand-selected his three justices.",
+      "role": "caption"
+    },
+    {
+      "text": "HUFFPOST",
+      "role": "other"
+    },
+    {
+      "text": "'We Broke Roe v. Wade': Trump Brags About Eliminating Abortion Rights",
+      "role": "other"
+    },
+    {
+      "text": "He has bragged about how successful he was",
+      "role": "caption"
+    },
+    {
+      "text": "in overturning Roe v. Wade.",
+      "role": "caption"
+    },
+    {
+      "text": "And that's just the beginning.",
+      "role": "caption"
+    },
+    {
+      "text": "Imagine if Donald Trump is",
+      "role": "caption"
+    },
+    {
+      "text": "able to appoint a majority of the Supreme Court.",
+      "role": "caption"
+    },
+    {
+      "text": "We can't let that happen.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A man warns that if Donald Trump wins the election, Republicans expect him to appoint two more Supreme Court justices, a prospect he calls \"disastrous.\" He cites news articles stating that this would give Trump appointees a majority on the court, something not seen since FDR. He connects Trump's previous three appointments to the overturning of Roe v. Wade, noting Trump has bragged about it. He concludes by urging that Trump cannot be allowed to appoint a majority to the Court, stating that the overturning of Roe was \"just the beginning.\"",
+  "emojis_present": [],
+  "audio_music": "Speech only, with no background music or sound effects.",
+  "editing_pacing": "Static talking-head video with news article screenshots appearing as overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "If Donald Trump is elected, he will appoint two more conservative Supreme Court justices, giving him control over a majority of the court and leading to disastrous consequences for civil rights.",
+  "intended_effect": "To create fear and urgency around the prospect of a Trump presidency, motivating viewers to vote against him to protect the Supreme Court and abortion rights.",
+  "uncertainty_flags": []
+}

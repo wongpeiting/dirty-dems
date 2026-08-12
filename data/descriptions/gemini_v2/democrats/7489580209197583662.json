@@ -1,0 +1,97 @@
+{
+  "video_id": "7489580209197583662",
+  "visual_action": "A static image of a line graph titled \"S&P 500 INDEXED TO INAUGURATION DAY\". The graph plots the performance of the S&P 500 index over the first 100 days of three presidential terms. Lines for \"Obama - 2013\" and \"Biden - 2021\" show positive growth, trending upwards. A red line for a hypothetical \"Trump - 2025\" shows a steep decline, dropping to -10%. Circular photos of each president are placed near the end of their respective lines on the graph.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A line on the graph is labeled \"Trump - 2025\" and shows a projected steep decline in the S&P 500. A photo of him appears on the graph."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A line on the graph is labeled \"Biden - 2021\" and is used as a point of comparison. A photo of him appears on the graph."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A line on the graph is labeled \"Obama - 2013\" and is used as a point of comparison. A photo of him appears on the graph."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "S&P 500 INDEXED TO INAUGURATION DAY",
+      "role": "overlay"
+    },
+    {
+      "text": "10%",
+      "role": "other"
+    },
+    {
+      "text": "Index",
+      "role": "other"
+    },
+    {
+      "text": "0%",
+      "role": "other"
+    },
+    {
+      "text": "-10%",
+      "role": "other"
+    },
+    {
+      "text": "0",
+      "role": "other"
+    },
+    {
+      "text": "50",
+      "role": "other"
+    },
+    {
+      "text": "100",
+      "role": "other"
+    },
+    {
+      "text": "Days from Inauguration Day",
+      "role": "other"
+    },
+    {
+      "text": "— Obama - 2013",
+      "role": "other"
+    },
+    {
+      "text": "— Biden - 2021",
+      "role": "other"
+    },
+    {
+      "text": "— Trump - 2025",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An unidentified male voiceover states, \"He promised to lower your grocery prices.\"",
+  "emojis_present": [],
+  "audio_music": "The video consists of a single line of spoken dialogue with no accompanying music or significant sound effects.",
+  "editing_pacing": "Static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The graph is a fabricated document that presents a hypothetical, future stock market performance for \"Trump - 2025\" as if it were factual, historical data. This fabricated data line is plotted alongside real historical data for Obama and Biden to create a misleading visual comparison.",
+  "emotions_signaled": [
+    "Fear",
+    "Anxiety"
+  ],
+  "cultural_references": [],
+  "central_claim": "A future Donald Trump presidency in 2025 would cause a stock market crash, unlike the economic growth experienced under Democratic presidents Joe Biden and Barack Obama.",
+  "intended_effect": "To create fear about the potential economic consequences of a Trump presidency and persuade viewers to vote against him.",
+  "uncertainty_flags": [
+    "The source of the graph and its data is not cited.",
+    "The speaker in the audio clip is unidentified."
+  ]
+}

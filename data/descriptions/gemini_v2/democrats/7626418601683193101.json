@@ -1,0 +1,71 @@
+{
+  "video_id": "7626418601683193101",
+  "visual_action": "The video displays a screenshot of a tweet from an account named 'FactPost'. The tweet includes two photos side-by-side: one of Donald Trump smiling and looking up, and another of Kristi Noem disembarking from a plane. After a few seconds, it cuts to a video clip of Kristi Noem speaking at a podium in what appears to be a formal hearing or public meeting.",
+  "cast": [
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is named in the on-screen text ('Kristi Noem's $70 million luxury jet'), shown in a photo, and appears in a video clip speaking."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His administration is named in the on-screen text ('The Trump administration'), and he is shown in a photo."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "She is mentioned by name in the on-screen tweet: '...for use by cabinet secretaries and Melania Trump.'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle (@factpostnews) of the account that authored the tweet are visible on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Trump administration is keeping Kristi Noem's $70 million luxury jet for use by cabinet secretaries and Melania Trump.",
+      "role": "overlay"
+    },
+    {
+      "text": "The plane features a queen bed, showers, a kitchen, four large flat-screen TVs, and a bar.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a song with the lyrics, \"Can we pretend that airplanes in the night sky are like shooting stars? I could really use a wish right now.\"",
+  "emojis_present": [],
+  "audio_music": "The audio features the chorus of the song 'Airplanes' by B.o.B. featuring Hayley Williams. The song choice is thematic, directly referencing the 'jet' mentioned in the on-screen text, creating an ironic or mockingly wistful tone.",
+  "editing_pacing": "The editing is very simple, consisting of a static shot of a tweet screenshot followed by a single, static shot of a person speaking.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Disapproval",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The song 'Airplanes' by B.o.B. feat. Hayley Williams."
+  ],
+  "central_claim": "The Trump administration is corruptly using Kristi Noem's lavish $70 million private jet.",
+  "intended_effect": "To create disapproval and outrage towards Donald Trump and Kristi Noem for their alleged extravagant use of a luxury jet.",
+  "uncertainty_flags": [
+    "The authenticity and accuracy of the 'FactPost' tweet shown in the video is not verified within the clip itself."
+  ]
+}

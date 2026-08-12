@@ -1,0 +1,50 @@
+{
+  "video_id": "7147713314024574254",
+  "visual_action": "A series of still images shows a cutout of Senator Marco Rubio superimposed onto different backgrounds. First, he is in the backyard of a house, then in a modern kitchen, and finally lying on a bed. As he lies on the bed, a blanket and then a sleep mask appear on him. The video ends with a black screen with blue text.",
+  "cast": [
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually identified by face recognition and is the subject of the entire video. The on-screen text also reads 'Senator Rubio after a long day...'."
+    },
+    {
+      "name": "Val Demings",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The final screen of the video displays the text 'VOTE DEMINGS FOR SENATE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Rubio after a long day of voting against lowering costs for Americans",
+      "role": "overlay"
+    },
+    {
+      "text": "VOTE DEMINGS FOR SENATE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman's voice sighs exhaustedly, saying, \"Ah, Lord have mercy. Mmm-hmm-hmm. Today drained me.\"",
+  "emojis_present": [],
+  "audio_music": "A comedic spoken-word audio clip of a woman's voice expressing exhaustion is used as a voiceover throughout the video. There is no other music.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images with a cutout of a person superimposed. There are simple animations like an object (a blanket) appearing.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A cutout photograph of Senator Marco Rubio is digitally superimposed onto a series of unrelated stock photos of a house's exterior, kitchen, and bedroom to create a satirical narrative.",
+  "emotions_signaled": [
+    "mockery",
+    "criticism"
+  ],
+  "cultural_references": [
+    "The audio of a woman saying 'Ah, Lord have mercy... Today drained me' is a popular sound on TikTok, often used comically to express exhaustion."
+  ],
+  "central_claim": "Senator Marco Rubio works against the interests of Americans by voting against lowering their costs, and voters should replace him with Val Demings.",
+  "intended_effect": "To mock and criticize Senator Marco Rubio for his voting record and encourage viewers to vote for his opponent, Val Demings.",
+  "uncertainty_flags": [
+    "The provided music fingerprint identifies a track named 'Take Note' by Modoboaw, but the audible sound is a distinct spoken-word meme audio clip, not music."
+  ]
+}

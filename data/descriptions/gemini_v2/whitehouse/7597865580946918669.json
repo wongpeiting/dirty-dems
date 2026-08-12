@@ -1,0 +1,92 @@
+{
+  "video_id": "7597865580946918669",
+  "visual_action": "Donald Trump speaks at a podium against a blue backdrop that reads \"ECONOMIC FORUM\". A chyron at the bottom identifies the event as the \"WORLD ECONOMIC FORUM Annual Meeting Davos\". The video primarily consists of a static shot of Trump speaking, with occasional cuts to a wider view of him on stage. The video concludes with a black and white montage of the White House and Marine One, with \"THE WHITE HOUSE\" displayed on screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker throughout the video, delivering an address about his economic policies and achievements."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump refers to them at the beginning of his speech: \"Just over one year ago, under the radical-left Democrats, we were a dead country.\""
+    },
+    {
+      "name": "International Monetary Fund",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump claims the US economy is growing at \"double the rate that was projected by the IMF just last April.\""
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump refers to the \"Biden disaster\" and calls him a \"horrible president,\" framing his own policies as a recovery from Biden's."
+    },
+    {
+      "name": "U.S. Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states he is asking Congress to cap credit card interest rates and pass other legislation."
+    },
+    {
+      "name": "Somalians",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions cracking down on fraud allegedly \"stolen by Somalian bandits\" and makes further comments about Somali pirates."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ECONOMIC FORUM",
+      "role": "overlay"
+    },
+    {
+      "text": "WORLD ECONOMIC FORUM",
+      "role": "chyron"
+    },
+    {
+      "text": "Annual Meeting Davos",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump delivers a speech contrasting his administration's economic success with what he calls the failures of \"radical-left Democrats\" and the \"Biden disaster.\" He claims that under his leadership, the US has become the \"hottest country in the world,\" citing economic growth double the IMF's projections and a 77% reduction in the monthly trade deficit, all without inflation. To help citizens recover from the previous administration, he says he is asking Congress to cap credit card interest rates. He also outlines policies to make America the \"crypto capital of the world\" and to ban large institutional investors from buying single-family homes. Trump mentions cracking down on fraud by \"Somalian bandits,\" making disparaging remarks about their intelligence, and warns against the U.S. importing \"foreign cultures\" from allegedly failed societies, linking this to a \"situation in Minnesota.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Donald Trump's speech, with the natural reverb of a large hall. There is no music or other sound design.",
+  "editing_pacing": "The video primarily uses a static talking-head format, with some cuts between a close-up and a wider shot of the speaker on stage. The pacing is slow and dictated by the speech. It concludes with a short, stylized black-and-white montage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Contempt",
+    "Anger",
+    "Fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "Under Donald Trump's leadership, the American economy has achieved unprecedented success, and he is implementing new policies to protect citizens from the damage caused by the Biden administration and the threat of foreign influence.",
+  "intended_effect": "To convince viewers of Trump's economic competence and his commitment to protecting American citizens, while framing his political opponents and certain immigrant groups as failures or threats to the country.",
+  "uncertainty_flags": [
+    "The speech refers to events and legislation (e.g., 'the Landmark Genius Act', 'the situation in Minnesota') that are presented as having occurred in 2025, consistent with the prompt's fictional timeline, but are not verifiable historical events.",
+    "The specific 'situation in Minnesota' that Trump refers to is not detailed."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "video_id": "7534738978637909262",
+  "visual_action": "The video displays a static screenshot of a tweet from 'FactPost'. The tweet text discusses Texas Democrats leaving the state to prevent a vote on a 'Republican gerrymander'. Below the text are two images: one of several men at a press conference lectern that reads 'HDC DEMOCRATIC CAUCUS', and another showing a map of Texas with congressional districts highlighted in red. The video then zooms in on the map of Texas. It then cuts to a two-panel image of Donald Trump speaking outdoors, with captions added to create a meme format. The video ends on a still photograph of a large group of people at what appears to be an indoor political rally or press conference, with a man speaking at a lectern and 'JB' signs in the background.",
+  "cast": [
+    {
+      "name": "Texas Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet shown on screen states: 'Texas Democrats have left the state and broken quorum...'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet shown on screen mentions '...preventing a vote on a Republican gerrymander.'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown in a two-panel meme with captions attributed to him: 'Are you calling for a complete redrawing of the congressional map?' and 'No, just a simple redrawing so we pick up five seats.'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video opens with a screenshot of a tweet from the account 'FactPost @factpostnews'."
+    },
+    {
+      "name": "HDC Democratic Caucus",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A lectern in one of the images reads 'HDC DEMOCRATIC CAUCUS'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Texas Democrats have left the state and broken quorum, preventing a vote on a Republican gerrymander.",
+      "role": "overlay"
+    },
+    {
+      "text": "HDC DEMOCRATIC CAUCUS",
+      "role": "other"
+    },
+    {
+      "text": "ALT",
+      "role": "other"
+    },
+    {
+      "text": "Are you calling for a complete redrawing of the congressional map?",
+      "role": "meme_text"
+    },
+    {
+      "text": "No, just a simple redrawing so we pick up five seats.",
+      "role": "meme_text"
+    },
+    {
+      "text": "JB",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video. The narrative is conveyed entirely through on-screen text and images.",
+  "emojis_present": [],
+  "audio_music": "A low, continuous, ominous ambient sound plays throughout the video, creating a serious and slightly menacing tone.",
+  "editing_pacing": "The video uses a slideshow format, presenting a series of still images with slow zooms and simple cuts between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Outrage",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republican gerrymandering is a corrupt practice designed to illegitimately gain power, justifying the extraordinary measure taken by Texas Democrats to block it.",
+  "intended_effect": "To generate opposition to Republican gerrymandering and build support for the Democratic response to it.",
+  "uncertainty_flags": [
+    "The identity of the candidate 'JB' featured on signs in the final shot is unclear."
+  ]
+}

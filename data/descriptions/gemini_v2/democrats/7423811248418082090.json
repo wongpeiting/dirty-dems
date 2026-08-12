@@ -1,0 +1,124 @@
+{
+  "video_id": "7423811248418082090",
+  "visual_action": "A montage of clips showing Donald Trump in various settings: walking with security, in a courtroom, at a press conference with Melania Trump, speaking at a rally, and holding a Bible outside a church. The video also shows a news graphic about Trump University. Text overlays with accusations against him are displayed throughout.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in nearly every frame of the video, is the subject of all on-screen text and audio, and is identified by name in the text \"Donald Trump is a fraud !!\""
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown standing behind Donald Trump during a press conference scene."
+    },
+    {
+      "name": "Stormy Daniels",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the audio and corresponding on-screen text: \"Trump's hush money payments to adult film star, Stormy Daniels.\""
+    },
+    {
+      "name": "Trump University",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The name and logo for \"TRUMP UNIVERSITY\" appear on screen, and a news clip discusses a lawsuit against it."
+    },
+    {
+      "name": "Trump Organization",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A news clip states, \"The Trump Organization frauded the state of New York...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald Trump is a fraud ‼️",
+      "role": "caption"
+    },
+    {
+      "text": "Found guilty— all 34 counts",
+      "role": "overlay"
+    },
+    {
+      "text": "of falsifying business records.",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald Trump is a con artist.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP SETTLES TRUMP U FRAUD CASES FOR $25 MILLION",
+      "role": "chyron"
+    },
+    {
+      "text": "In the lawsuit against him from former students",
+      "role": "overlay"
+    },
+    {
+      "text": "of Trump University, who claim he defrauded them.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's hush money payments to adult film star,",
+      "role": "overlay"
+    },
+    {
+      "text": "Stormy Daniels.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump Organization frauded the state",
+      "role": "overlay"
+    },
+    {
+      "text": "of New York $354 million dollars.",
+      "role": "overlay"
+    },
+    {
+      "text": "How stupid are the people of the country",
+      "role": "overlay"
+    },
+    {
+      "text": "to believe this crap.",
+      "role": "overlay"
+    },
+    {
+      "text": "Don't believe his cons.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a montage of news clips reporting on various legal cases and judgments against Donald Trump and his businesses. These include being found guilty on 34 counts of falsifying business records, a lawsuit from former Trump University students, hush money payments to Stormy Daniels, and the Trump Organization defrauding the state of New York. The video ends with a different audio clip, seemingly of Donald Trump's voice, saying, \"How stupid are the people of the country to believe this crap.\"",
+  "emojis_present": [
+    "‼️"
+  ],
+  "audio_music": "A continuous, deep, ominous thumping sound, like a dramatic heartbeat, plays throughout to create tension. Loud, impactful \"boom\" sound effects punctuate the cuts and text reveals.",
+  "editing_pacing": "A fast-paced montage with quick cuts between news clips, photos, and video footage of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Distrust",
+    "Contempt",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a 'fraud' and a 'con artist' who has been repeatedly found legally and financially culpable for dishonest schemes.",
+  "intended_effect": "To persuade viewers that Donald Trump is corrupt and untrustworthy by presenting a rapid succession of legal cases and judgments against him.",
+  "uncertainty_flags": [
+    "The original context of the final audio clip, 'How stupid are the people of the country to believe this crap,' is not provided, though it sounds like Donald Trump's voice."
+  ]
+}

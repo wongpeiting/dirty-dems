@@ -1,0 +1,123 @@
+{
+  "video_id": "7591331492471655735",
+  "visual_action": "The video intercuts clips of Venezuelan President Nicolas Maduro speaking defiantly with clips of various U.S. officials (an Air Force general, Pete Hegseth, Donald Trump, and Marco Rubio) speaking from a presidential podium. This is interspersed with dramatic B-roll of military action, including night-vision footage of aircraft, explosions in a city at night, and fighter jets on an aircraft carrier. The video culminates in a stylized, grainy sequence depicting Maduro as captured, with a targeting reticle superimposed on him, before ending with a title card for 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Nicolas Maduro",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in the caption ('Nicolas Maduro had his chance'), named in the audio ('Nicolas and Cecilia Maduro'), and shown speaking and in stylized 'captured' footage."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face recognition. Shown speaking from a presidential podium, praising the military operation. He is also referred to as 'the President of the United States' in the audio."
+    },
+    {
+      "name": "Cecilia Maduro",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the audio as one of 'two indicted persons' apprehended in the military mission."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Identified by face recognition, shown speaking from the presidential podium in support of the President's actions."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Identified by face recognition, shown speaking from the presidential podium."
+    },
+    {
+      "name": "unnamed US military official",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man in a US Air Force general's uniform is shown at a podium announcing the apprehension mission in Venezuela."
+    },
+    {
+      "name": "United States Military",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the audio as having 'conducted an apprehension mission'. B-roll footage of military hardware and operations is shown throughout."
+    },
+    {
+      "name": "Department of Justice",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the audio as having made a 'request' that the mission supported."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a title card featuring the name 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "COME GET ME",
+      "role": "overlay"
+    },
+    {
+      "text": "I'LL WAIT FOR HIM HERE",
+      "role": "overlay"
+    },
+    {
+      "text": "DON'T BE LATE",
+      "role": "overlay"
+    },
+    {
+      "text": "IN ARRIVING",
+      "role": "overlay"
+    },
+    {
+      "text": "COWARD!",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video presents a narrative where defiant statements by Venezuelan President Nicolas Maduro are followed by a U.S. response. An American general announces that, on the President's order, the U.S. military conducted a mission to apprehend Nicolas and Cecilia Maduro in Venezuela. Pete Hegseth mocks Maduro, saying he 'effed around and he found out.' Donald Trump praises the operation as a 'stunning, effective and powerful' display of U.S. military might. Marco Rubio warns adversaries not to 'play games with this president,' stating that he 'means it' when he is serious about something.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, orchestral, and suspenseful score ('Dictadores' by Miguel Heredia Guzman) plays throughout the video, creating a tense, action-movie atmosphere that underscores the military theme. The music shifts to a more intense and driving track ('Smash Your Enemies' by Tomáš Herudek) around the 53-second mark for the video's conclusion.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between talking heads, archival clips of the target, and cinematic B-roll of military action (explosions, aircraft at night). This creates a dramatic narrative of cause and effect.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A targeting reticle is superimposed over a stylized, grainy image of Nicolas Maduro, who is depicted wearing dark glasses and headphones, to create the visual impression that he is a military target who has been captured.",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Intimidation",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The phrase 'effed around and he found out' is a censored version of the popular internet slang 'Fuck around and find out'.",
+    "Marco Rubio's line 'if you don't know, now you know' is a direct quote from the Notorious B.I.G. song 'Juicy'."
+  ],
+  "central_claim": "Venezuelan President Nicolas Maduro defiantly challenged the United States and was subsequently captured in a decisive and powerful military operation ordered by President Trump, serving as a warning to all other adversaries.",
+  "intended_effect": "To make the viewer feel proud of American military power and confident in the President's decisive leadership, while warning adversaries against challenging the United States.",
+  "uncertainty_flags": []
+}

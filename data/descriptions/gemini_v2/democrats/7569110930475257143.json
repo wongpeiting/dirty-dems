@@ -1,0 +1,91 @@
+{
+  "video_id": "7569110930475257143",
+  "visual_action": "Gavin Newsom speaks at a podium with an unnamed woman standing beside him. The scene is framed as a live CNN news broadcast covering \"Election Night 2025.\" The background features American and Californian flags, as well as logos for the California Democratic Party. A chyron at the bottom of the screen displays election results for a fictional \"Prop 50\" in California and a gubernatorial race in Virginia.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker shown throughout the video, identified by face and in the on-screen text: 'CALIFORNIA GOV GAVIN NEWSOM SPEAKS AFTER PROP 50 PASSES'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Newsom repeatedly celebrates a victory for the 'Democratic Party,' and the event setting is labeled 'CALIFORNIA DEMOCRATIC PARTY'."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman stands next to Gavin Newsom at the podium throughout his speech but is not named or involved in the action."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Gavin Newsom reacts after Prop 50 passes",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "CALIFORNIA GOV GAVIN NEWSOM SPEAKS AFTER PROP 50 PASSES",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN ELECTION NIGHT 2025",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CALIFORNIA 50\nYES ✔️ 64.6%\nNO 35.4%",
+      "role": "chyron"
+    },
+    {
+      "text": "VIRGINIA GOVERNOR\nSPANBERGER 1,907,285 57.4%\nEARLE-SEARS 1,409,785 42.4%",
+      "role": "chyron"
+    },
+    {
+      "text": "CALIFORNIA DEMOCRATIC PARTY",
+      "role": "other"
+    },
+    {
+      "text": "CADEM",
+      "role": "other"
+    },
+    {
+      "text": "UNDERSCORE, GOOD EVENING PARTY. NIGHT FOR PARTY, A PARTY THAT IS IN ITS ASCENDANCY, ITS TOES, ITS HEELS, FROM COAST SEA TO SHINING SEA. VICTORY TONIGHT FOR THE VICTORY FOR STATES OF FOR THE COUNTRY, PRINCIPLES THAT OUR FATHERS LIVED AND DIED FOR. WE'RE PROUD HERE IN CALIFORNIA OF THIS NARRATIVE EVENING.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Gavin Newsom declares it a \"good evening\" and a great victory not just for the Democratic Party but for the entire country. He describes the Democratic Party as being in its \"ascendancy,\" saying it's \"on its toes, no longer on its heels.\" He frames the win as a victory for the principles of the founding fathers and expresses pride in California's role in this narrative.",
+  "emojis_present": [
+    "💪"
+  ],
+  "audio_music": "The audio consists solely of Gavin Newsom's amplified voice as he gives a speech. There is no music or other sound design.",
+  "editing_pacing": "The video is a single, static talking-head shot of a speech, framed as a news broadcast. The primary editing consists of large, yellow text overlays that appear word-by-word, synchronized with Newsom's speech.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a staged, fake CNN news broadcast. The details shown, such as 'Election Night 2025' and California 'Prop 50', are fictional elements used to construct a hypothetical victory speech for Gavin Newsom and the Democratic Party.",
+  "emotions_signaled": [
+    "pride",
+    "triumph",
+    "optimism"
+  ],
+  "cultural_references": [
+    "CNN"
+  ],
+  "central_claim": "The Democratic Party is in its ascendancy, and its recent victories are a triumph for the entire United States and its founding principles.",
+  "intended_effect": "To make viewers, particularly Democratic supporters, feel proud and optimistic about the party's strength and momentum.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,84 @@
+{
+  "video_id": "7423887678661299498",
+  "visual_action": "A clip from a CNN news broadcast is shown. On the right, Vice President Kamala Harris speaks from a lectern. On the left, a weather map shows the projected path of 'Hurricane Milton' over Florida. A CNN chyron is at the bottom of the screen. Text is overlaid at the top, and large yellow animated text appears word-by-word at the bottom, transcribing her speech.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking on CNN, identified by the top overlay text 'VP Harris' and the CNN chyron 'BIDEN, HARRIS ADDRESS...'"
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Harris as 'the President' and named in the CNN chyron 'BIDEN, HARRIS ADDRESS...'"
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and broadcast graphics are visible throughout the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A line in the news ticker at the bottom reads 'SUPPORT FOR FORMER PRESIDENT TRUMP'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VP Harris: Price gouging because of the hurricane WILL be held accountable",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "BIDEN, HARRIS ADDRESS HURRICANE MILTON PREPARATIONS",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "Hurricane Milton Category 4",
+      "role": "chyron"
+    },
+    {
+      "text": "MILTON PROJECTED TO MAKE LANDFALL NEAR SARASOTA",
+      "role": "chyron"
+    },
+    {
+      "text": "FINALLY MENTIONED COMPANY THAT INDIVIDUAL USE CRISIS TO EXPLOIT PEOPLE WHO ARE DESPERATE FOR HELP THROUGH ILLEGAL FRAUD OR PRICE GOUGING WHETHER IT BE AT THE GAS PUMP THE AIRPORT OR THE HOTEL COUNTER KNOW THAT WE ARE MONITORING THESE BEHAVIORS AND THE SITUATION ON THE GROUND VERY CLOSELY AND ANYONE TAKING ADVANTAGE OF CONSUMERS WILL BE HELD ACCOUNTABLE BOTTOM LINE IS THIS HURRICANE POSES AN EXTREME DANGER AND WE URGE EVERYONE IN FLORIDA TO TAKE EXTREME CAUTION AND WE ARE WITH YOU AND WILL GET THROUGH THIS TOGETHER",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Vice President Kamala Harris addresses preparations for Hurricane Milton, warning any company or individual against price gouging. She states that the administration is 'monitoring these behaviors' and that 'anyone taking advantage of consumers will be held accountable,' specifically mentioning gas stations, airports, and hotels. She concludes by urging caution and offering support to the people of Florida.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Kamala Harris's spoken remarks. There is no music or other sound effects.",
+  "editing_pacing": "The video uses a single clip from a news broadcast. It has a static text overlay at the top, and uses kinetic typography with large, yellow, capitalized words appearing sequentially at the bottom of the screen to transcribe and emphasize Harris's speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "concern",
+    "reassurance",
+    "authority"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Biden-Harris administration will hold anyone accountable who tries to price gouge Floridians during Hurricane Milton.",
+  "intended_effect": "To portray the Biden-Harris administration as proactive, protective of consumers, and tough on corporate greed during a crisis.",
+  "uncertainty_flags": []
+}

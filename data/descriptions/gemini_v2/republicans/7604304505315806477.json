@@ -1,0 +1,100 @@
+{
+  "video_id": "7604304505315806477",
+  "visual_action": "The video displays a screenshot of a post from the 'Democrats' account on a social media platform, which mocks a post from the 'GOP' account announcing their presence on TikTok. The Democratic post's embedded video shows the Democratic donkey logo and Republican elephant logo with the text 'PLEASE DON'T CALL ME'. The video then transitions to a montage of Republican politicians, including Donald Trump wearing hats that say '45-47' and 'TRUMP WAS RIGHT ABOUT EVERYTHING!', Marco Rubio at an event, and JD Vance laughing in front of an American flag. The montage ends with a silhouetted shot of Donald Trump waving to a crowd.",
+  "cast": [
+    {
+      "name": "Republican Party / GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The video is posted by the @republicans account and shows screenshots of posts from the @GOP account."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A screenshot of a post from the 'Democrats' account (@TheDemocrats) is shown at the beginning of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown multiple times in the montage, identified by face."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown briefly in the montage, identified by face."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown briefly in the montage, identified by face."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats @TheDemocrats · 1d",
+      "role": "overlay"
+    },
+    {
+      "text": "lol",
+      "role": "overlay"
+    },
+    {
+      "text": "PLEASE DON'T CALL ME",
+      "role": "overlay"
+    },
+    {
+      "text": "GOP @GOP · 1d",
+      "role": "overlay"
+    },
+    {
+      "text": "NEW @Republicans are officially live on TikTok....",
+      "role": "overlay"
+    },
+    {
+      "text": "@Republicans",
+      "role": "overlay"
+    },
+    {
+      "text": "45-47",
+      "role": "meme_text"
+    },
+    {
+      "text": "TRUMP WAS RIGHT ABOUT EVERYTHING!",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "A female voice asks, \"Why are you so obsessed with me?\"",
+  "emojis_present": [
+    "🥱"
+  ],
+  "audio_music": "The video opens with the spoken line \"Why are you so obsessed with me?\" followed immediately by the upbeat, high-energy pop song \"Just Dance\" by Lady GaGa, which continues through the rest of the montage. The audio pairing creates a confident, sassy, and mocking tone.",
+  "editing_pacing": "The video begins with a static screenshot of social media posts, then transitions into a fast-paced montage with quick cuts between various clips of Republican politicians. A brief chromatic aberration/glitch effect is applied to one of the clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "confidence",
+    "pride"
+  ],
+  "cultural_references": [
+    "The audio line \"Why are you so obsessed with me?\" is a famous quote from the 2004 movie 'Mean Girls'.",
+    "The background music is the song \"Just Dance\" by Lady GaGa."
+  ],
+  "central_claim": "The Democratic Party is obsessed with the Republican Party, and their attempt to mock the GOP for joining TikTok only proves the GOP's relevance and influence.",
+  "intended_effect": "To make viewers perceive the Democrats' criticism as petty and obsessive, while feeling amused and confident about the Republican party's response.",
+  "uncertainty_flags": []
+}

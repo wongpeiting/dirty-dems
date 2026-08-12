@@ -1,0 +1,81 @@
+{
+  "video_id": "7478036345898732842",
+  "visual_action": "The video juxtaposes a clip of JD Vance speaking with several clips from a different event. It starts with a close-up of Vance saying he tried to 'defuse the situation'. It then cuts to scenes labeled 'JD Vance last week:' showing Vance, Donald Trump, and Volodymyr Zelenskyy in an office setting. In these scenes, on-screen text attributes confrontational quotes to a 'Trump ally' and to Vance himself, and also shows Vance laughing.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in multiple on-screen text overlays ('JD Vance last night:', 'JD Vance last week:') and shown speaking and laughing."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown sitting in a chair between JD Vance and Volodymyr Zelenskyy."
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown sitting and being spoken to by JD Vance."
+    },
+    {
+      "name": "Trump ally",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An unnamed person is quoted in the on-screen text as 'Trump ally'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "JD Vance last night:",
+      "role": "overlay"
+    },
+    {
+      "text": "What I tried to do originally was actually tried to defuse the situation a little bit.",
+      "role": "caption"
+    },
+    {
+      "text": "JD Vance last week:",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump ally: Why don't you wear a suit?",
+      "role": "caption"
+    },
+    {
+      "text": "*JD Vance laughing*",
+      "role": "caption"
+    },
+    {
+      "text": "Have you said thank you once?",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The only dialogue is from JD Vance at the beginning of the video, where he says, 'What I tried to do originally was actually tried to defuse the situation a little bit.' The rest of the video is silent except for music and a sound effect.",
+  "emojis_present": [],
+  "audio_music": "The video begins with the sound of birds cawing, then shifts to a slow, somber, and dramatic instrumental track that plays for the remainder of the clip, creating a serious and critical tone.",
+  "editing_pacing": "The video uses a slow-paced, slideshow-like style, juxtaposing a single clip against a series of three static shots to create a contrast.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "criticism",
+    "distrust"
+  ],
+  "cultural_references": [],
+  "central_claim": "JD Vance is hypocritical for claiming he tried to 'defuse a situation' when his recent actions show him being confrontational and mocking towards Volodymyr Zelenskyy.",
+  "intended_effect": "To portray JD Vance as dishonest and hypocritical, thereby generating negative sentiment towards him.",
+  "uncertainty_flags": [
+    "The identity of the 'Trump ally' quoted in the on-screen text is not specified."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "video_id": "7428344433499721003",
+  "visual_action": "A static image depicting the set of the game show 'Wheel of Fortune'. A woman resembling Vanna White stands next to the puzzle board. The board has letters revealed, and the category at the bottom reads 'PRESIDENTIAL ELECTION'. The puzzle is arranged to imply a negative message about a political figure.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The manipulated puzzle board on the 'Wheel of Fortune' set shows letters spelling out his name ('DNL D TR MP') and a negative message about him under the category 'PRESIDENTIAL ELECTION'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the official '@democrats' account, and the text 'Pat, I'd like to solve the puzzle' represents their viewpoint."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pat, I'd like to solve the puzzle",
+      "role": "overlay"
+    },
+    {
+      "text": "WHEEL OF FORTUNE",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENTIAL ELECTION",
+      "role": "chyron"
+    },
+    {
+      "text": "D N L D   T R   M P\n  S   N S T  B L  \n N D   N F  T\nF  R   F F  C",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it consists only of background music.",
+  "emojis_present": [],
+  "audio_music": "Upbeat, classic game show theme music plays throughout, consistent with the 'Wheel of Fortune' visual theme.",
+  "editing_pacing": "The video is a single, static image with no editing, cuts, or motion.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The 'Wheel of Fortune' puzzle board is digitally fabricated. The letters are arranged to spell out a political attack phrase, implied to be 'DONALD TRUMP IS UNSTABLE AND UNFIT FOR OFFICE'.",
+  "emotions_signaled": [
+    "mockery",
+    "concern",
+    "humor"
+  ],
+  "cultural_references": [
+    "Wheel of Fortune",
+    "Pat Sajak",
+    "Vanna White"
+  ],
+  "central_claim": "Donald Trump is unstable and unfit to hold the office of president.",
+  "intended_effect": "To mock Donald Trump and persuade viewers that he is temperamentally unsuited for the presidency, using a familiar and humorous game show format.",
+  "uncertainty_flags": []
+}

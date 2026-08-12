@@ -1,0 +1,69 @@
+{
+  "video_id": "7555934360449322295",
+  "visual_action": "The video displays a static image of the U.S. House of Representatives chamber. One side of the chamber is full of people, while the other side is nearly empty. Text overlays identify the full side as Democrats and the empty side as Republicans. After a few seconds, the video cuts to a screenshot of a tweet from the official 'Democrats' account, which criticizes House Republicans for being absent before a funding deadline.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Democrats are present to fight for their constituents,' and the video includes a screenshot of a tweet from the '@TheDemocrats' account."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text claims, 'Republicans couldn't be bothered to show up to work,' and a tweet screenshot asks, 'where are House Republicans?' and states, 'Republicans own this shutdown.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This is the House floor hours away from the shutdown deadline ⬇️",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats are present to fight for their constituents",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans couldn't be bothered to show up to work",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats @TheDemocrats",
+      "role": "other"
+    },
+    {
+      "text": "Government funding expires in hours and where are House Republicans?",
+      "role": "other"
+    },
+    {
+      "text": "They canceled votes and went on vacation.",
+      "role": "other"
+    },
+    {
+      "text": "Republicans own this shutdown.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; the audio consists only of instrumental music.",
+  "emojis_present": [
+    "⬇️"
+  ],
+  "audio_music": "A dramatic, serious-sounding orchestral score plays throughout the video, creating a sense of gravity and urgency regarding the impending government shutdown.",
+  "editing_pacing": "The video is a simple slideshow, showing one static image with overlays for a few seconds before cutting to a second static image (a tweet screenshot) for the remainder of the clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Anger",
+    "Disappointment"
+  ],
+  "cultural_references": [],
+  "central_claim": "House Republicans are irresponsibly absent from Congress just before a government shutdown deadline, while Democrats are present and working.",
+  "intended_effect": "To anger viewers towards the Republican Party for their perceived negligence and to portray the Democratic Party as responsible and diligent.",
+  "uncertainty_flags": []
+}

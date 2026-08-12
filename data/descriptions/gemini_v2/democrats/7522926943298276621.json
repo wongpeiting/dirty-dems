@@ -1,0 +1,103 @@
+{
+  "video_id": "7522926943298276621",
+  "visual_action": "A static image of Donald Trump and another man in a formal setting is shown with text overlays. This cuts to a static, high-angle shot of the House of Representatives floor during a vote, with a vote tally overlaid on the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in the initial photograph and his name is featured prominently in the on-screen text: \"GOP-CONTROLLED HOUSE PASSES TRUMP'S BUDGET BILL\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"GOP-CONTROLLED HOUSE\" and the vote tally on the subsequent screen lists votes for \"REPUBLICAN\" members."
+    },
+    {
+      "name": "unnamed politician",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unidentified man in a suit and glasses is pictured standing next to Donald Trump in the opening image."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The vote tally screen lists the votes for the \"DEMOCRATIC\" party."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FACT POST",
+      "role": "other"
+    },
+    {
+      "text": "BREAKING",
+      "role": "overlay"
+    },
+    {
+      "text": "GOP-CONTROLLED HOUSE PASSES TRUMP'S BUDGET BILL",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's budget will cause $1T in Medicaid cuts, kick 17 million Americans off their health care, and grant tax cuts to millionaires and billionaires.",
+      "role": "overlay"
+    },
+    {
+      "text": "ON MOTION TO CONCUR IN THE SENATE AMENDMENT",
+      "role": "chyron"
+    },
+    {
+      "text": "H. R. 1",
+      "role": "chyron"
+    },
+    {
+      "text": "YEA NAY PRES NV",
+      "role": "chyron"
+    },
+    {
+      "text": "REPUBLICAN 218 2",
+      "role": "chyron"
+    },
+    {
+      "text": "DEMOCRATIC 212",
+      "role": "chyron"
+    },
+    {
+      "text": "INDEPENDENT",
+      "role": "chyron"
+    },
+    {
+      "text": "TOTALS 218 214",
+      "role": "chyron"
+    },
+    {
+      "text": "TIME REMAINING 0:00",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no dialogue or narration; the audio is purely instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A dramatic and somber instrumental string track plays throughout, creating a serious and ominous tone.",
+  "editing_pacing": "A slow-paced video consisting of a cut from one static image to another static shot, both with text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "The GOP-controlled House has passed a budget proposed by Donald Trump that will cut Medicaid, remove 17 million Americans from healthcare, and give tax cuts to millionaires and billionaires.",
+  "intended_effect": "To cause alarm and anger towards Donald Trump and the Republican party by highlighting the negative consequences of their proposed budget.",
+  "uncertainty_flags": []
+}

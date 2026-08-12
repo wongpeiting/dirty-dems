@@ -1,0 +1,47 @@
+{
+  "video_id": "7650885670176705805",
+  "visual_action": "The video begins with a view of the Earth from space, then rapidly zooms in on the United States, then Washington D.C., and finally settles on an overhead satellite view of the White House. The scene cuts to a nighttime shot of the South Lawn of the White House, where a UFC-style octagon fighting cage is set up. There are two fighters in the ring, a referee, and a crowd watching. The White House is brightly lit in the background. The camera tilts up to show the large lighting rig for the event. The video ends on a black screen with white text.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The White House building is the prominent backdrop for the event, and the text 'UFC x WHITE HOUSE' explicitly names it."
+    },
+    {
+      "name": "UFC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the end reads 'UFC x WHITE HOUSE'. The fighting cage shown is the signature octagon used by the UFC."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "SUNDAY\nUFC x WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only instrumental and sung music.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, epic-sounding rock anthem ('The Final Countdown' by Europe) plays throughout the video, building a sense of hype and anticipation for a major event.",
+  "editing_pacing": "The video features a very fast digital zoom from space down to the White House, followed by cuts to ground-level shots of the event. The pacing is rapid and cinematic, resembling a trailer.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "hype",
+    "excitement",
+    "grandeur",
+    "surprise"
+  ],
+  "cultural_references": [
+    "The song 'The Final Countdown' by the band Europe.",
+    "UFC (Ultimate Fighting Championship) as a major sports entertainment brand."
+  ],
+  "central_claim": "A major event is happening on Sunday involving a partnership between the UFC and the White House.",
+  "intended_effect": "To generate buzz, excitement, and anticipation for an unprecedented event held at the White House.",
+  "uncertainty_flags": []
+}

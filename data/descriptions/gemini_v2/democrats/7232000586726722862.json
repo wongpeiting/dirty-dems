@@ -1,0 +1,97 @@
+{
+  "video_id": "7232000586726722862",
+  "visual_action": "Donald Trump is shown speaking at a televised town hall event. He is seated on a stool on a stage with a red and blue backdrop, across from a female interviewer. The video cuts between a wider shot showing both individuals and close-ups of Trump as he speaks.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is visually identified via face recognition and is the sole speaker in the video, whose comments are the subject of the post."
+    },
+    {
+      "name": "Kaitlan Collins",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visually identifiable as the interviewer sitting opposite Donald Trump during the CNN Town Hall event."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and the text 'TOWN HALL' are visible on the stage backdrop, identifying the event's broadcaster."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump considers January 6 a “beautiful day”... 😑",
+      "role": "overlay"
+    },
+    {
+      "text": "January 6,",
+      "role": "overlay"
+    },
+    {
+      "text": "it was the largest crowd I've ever spoken to.",
+      "role": "overlay"
+    },
+    {
+      "text": "That was prior to the walk down",
+      "role": "overlay"
+    },
+    {
+      "text": "to the Capitol building.",
+      "role": "overlay"
+    },
+    {
+      "text": "and I've spoken to hundreds of thousands",
+      "role": "overlay"
+    },
+    {
+      "text": "I've never spoken to a crowd",
+      "role": "overlay"
+    },
+    {
+      "text": "And that was because they thought the election was rigged.",
+      "role": "overlay"
+    },
+    {
+      "text": "And they were there, proud,",
+      "role": "overlay"
+    },
+    {
+      "text": "they were there with love in their heart.",
+      "role": "overlay"
+    },
+    {
+      "text": "That was an unbelievable,",
+      "role": "overlay"
+    },
+    {
+      "text": "and it was a beautiful day.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump describes the crowd on January 6th as \"the largest crowd I've ever spoken to.\" He clarifies he's talking about the rally prior to the walk to the Capitol building. He claims the attendees were there because \"they thought the election was rigged\" and describes them as \"proud\" and having \"love in their heart.\" He concludes by calling it \"an unbelievable, and it was a beautiful day.\"",
+  "emojis_present": [
+    "😑"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's unedited speech from the town hall event. There is no music or other sound design.",
+  "editing_pacing": "The video consists of simple cuts between a two-shot of Donald Trump and the interviewer and a close-up of Trump speaking. The pacing is consistent with a standard broadcast television interview.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disapproval",
+    "criticism",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump positively characterizes the January 6th rally, calling it a \"beautiful day\" and describing the participants as proud patriots motivated by a belief that the election was rigged.",
+  "intended_effect": "To evoke disapproval and criticism of Donald Trump by showcasing his positive remarks about January 6th.",
+  "uncertainty_flags": []
+}

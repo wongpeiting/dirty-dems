@@ -1,0 +1,113 @@
+{
+  "video_id": "7232085574989942059",
+  "visual_action": "An unnamed woman speaks in the bottom right corner of the screen in front of a graphic. The graphic is titled 'House of Representatives Vote On A Bill to Codify Roe vs. Wade' and shows a semi-circular diagram representing votes. Blue dots fill in on the left side as a counter for 'DEMOCRATS VOTED YES' rapidly increases to 218. Then, grey dots on the right turn red as a counter for 'REPUBLICANS VOTED NO' increases to 210. The video then cuts to a closer, static shot of the woman speaking directly to the camera in what appears to be a room in a house.",
+  "cast": [
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman appears on screen throughout the video, delivering the spoken message."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text and audio state, '218 Democrats voted to codify Roe v. Wade.'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text and audio state, 'while 210 Republicans voted no.' The speaker also refers to 'The MAGA House majority and Republicans across the country'."
+    },
+    {
+      "name": "House of Representatives",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text at the top reads 'House of Representatives Vote On A Bill to Codify Roe vs. Wade'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "House of Representatives Vote On A Bill to Codify Roe vs. Wade",
+      "role": "overlay"
+    },
+    {
+      "text": "218 DEMOCRATS VOTED YES",
+      "role": "overlay"
+    },
+    {
+      "text": "210 REPUBLICANS VOTED NO",
+      "role": "overlay"
+    },
+    {
+      "text": "This is your reminder that",
+      "role": "caption"
+    },
+    {
+      "text": "218 Democrats voted to codify Roe v. Wade,",
+      "role": "caption"
+    },
+    {
+      "text": "while 210 Republicans voted no.",
+      "role": "caption"
+    },
+    {
+      "text": "The MAGA House majority",
+      "role": "caption"
+    },
+    {
+      "text": "and Republicans across the country",
+      "role": "caption"
+    },
+    {
+      "text": "are pushing extreme anti-choice legislation.",
+      "role": "caption"
+    },
+    {
+      "text": "They won't stop until abortion",
+      "role": "caption"
+    },
+    {
+      "text": "is banned nationwide.",
+      "role": "caption"
+    },
+    {
+      "text": "Abortion is health care.",
+      "role": "caption"
+    },
+    {
+      "text": "Politicians should not be making decisions",
+      "role": "caption"
+    },
+    {
+      "text": "about women's bodies.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A woman reminds the viewer that 218 Democrats voted to codify Roe v. Wade, while 210 Republicans voted against it. She warns that the 'MAGA House majority' and Republicans are pushing 'extreme anti-choice legislation' with the goal of banning abortion nationwide. She concludes by stating, 'Abortion is health care,' and that politicians should not be making decisions about women's bodies.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a woman's voice speaking directly to the camera. There is no background music or other sound effects.",
+  "editing_pacing": "The video uses a static talking-head shot with an animated graphic overlay for the first six seconds, followed by a single cut to a closer static shot of the speaker for the remainder of the clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency",
+    "concern",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic party is fighting to protect abortion access, while the Republican party is actively working to ban it nationwide.",
+  "intended_effect": "To alarm viewers about the Republican party's stance on abortion and persuade them to support the Democratic party to protect reproductive rights.",
+  "uncertainty_flags": [
+    "The identity of the woman speaking is not provided."
+  ]
+}

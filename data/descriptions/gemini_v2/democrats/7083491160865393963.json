@@ -1,0 +1,62 @@
+{
+  "video_id": "7083491160865393963",
+  "visual_action": "Barack Obama stands at a podium giving a speech. He is in a formal room with an American flag and the presidential seal visible behind him. An audience is present, but only the backs of their heads are visible in the foreground. Obama smiles and gestures as he speaks.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Obama is the only person shown clearly on screen and is speaking for the entire duration of the clip."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Obama jokes around with his friend, President Biden.' Obama also refers to changes made by 'the current president'."
+    },
+    {
+      "name": "Secret Service",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Obama jokes that 'Secret Service agents have to wear aviator glasses now'."
+    },
+    {
+      "name": "Bo and Sunny",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Obama mentions his former dogs by name, saying, 'Bo and Sunny would have been very unhappy about that,' in reference to a cat at the White House."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Obama jokes around with his friend, President Biden",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Barack Obama begins a speech by saying, \"It is good to be back in the White House.\" He then jokes about changes President Biden has made, humorously claiming, \"Secret Service agents have to wear aviator glasses now,\" the Navy Mess has been replaced with a Baskin Robbins, and there is a cat running around, which he says his dogs Bo and Sunny would have disliked. He concludes by saying it's good to be back to visit the staff serving the country.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Barack Obama's speech and the diegetic sounds of the audience, including light applause at the beginning and laughter in response to his jokes. There is no music.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor",
+    "amusement",
+    "friendship",
+    "nostalgia"
+  ],
+  "cultural_references": [
+    "Baskin Robbins"
+  ],
+  "central_claim": "Former President Obama has a warm and friendly relationship with President Biden, which he demonstrates by making lighthearted jokes about changes at the White House.",
+  "intended_effect": "To make the viewer feel amused and perceive the relationship between Obama and Biden as a strong, positive friendship.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,98 @@
+{
+  "video_id": "7411269064770850090",
+  "visual_action": "A montage of clips shows Tim Walz at various political rallies and conventions. He walks onto different stages, waves enthusiastically to large cheering crowds, claps his hands, and raises his arms. The crowds are seen holding up phones to record him and waving signs. The stages are decorated with American flags, patriotic bunting, and Democratic party branding.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Tim Walz is the subject of every clip in the montage, identified by face recognition and on-screen text \"Coach Walz\"."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her name appears on a large \"HARRIS WALZ\" backdrop and on signs held by the crowd. She is also briefly visible walking on stage with Walz in one clip."
+    },
+    {
+      "name": "Democratic National Convention",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text \"DNC 2024\" is visible on the stage backdrop in the first clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Coach Walz walk-ons as NFL themes 🏈",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX",
+      "role": "overlay"
+    },
+    {
+      "text": "NBC",
+      "role": "overlay"
+    },
+    {
+      "text": "CBS",
+      "role": "overlay"
+    },
+    {
+      "text": "ESPN",
+      "role": "overlay"
+    },
+    {
+      "text": "NFL NETWORK",
+      "role": "overlay"
+    },
+    {
+      "text": "DNC 2024",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "COACH WALZ",
+      "role": "other"
+    },
+    {
+      "text": "WE WIN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of instrumental music.",
+  "emojis_present": [
+    "🏈"
+  ],
+  "audio_music": "A rapid succession of five different bombastic, orchestral sports theme songs. Each track change corresponds to a new visual clip and on-screen text identifying a different TV network's NFL broadcast theme (Fox, NBC, CBS, etc.). The overall effect is high-energy, exciting, and builds hype.",
+  "editing_pacing": "A fast-paced montage with quick cuts between different clips of Tim Walz's stage entrances.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Energy",
+    "Pride"
+  ],
+  "cultural_references": [
+    "National Football League (NFL)",
+    "Fox Sports NFL theme music",
+    "NBC Sunday Night Football theme music",
+    "CBS Sports NFL theme music",
+    "ESPN Monday Night Football theme music",
+    "NFL Network"
+  ],
+  "central_claim": "Tim Walz is an energetic and commanding leader, framed with the same hype and excitement as a star athlete in the NFL.",
+  "intended_effect": "To generate excitement for Tim Walz and portray him as a dynamic, popular, and relatable figure by associating him with the cultural phenomenon of American football.",
+  "uncertainty_flags": [
+    "The first fingerprinted music track, 'Jared Goff — Dro'dUp Izuurt,' appears to be a misidentification. The music is audibly the well-known Fox NFL theme, and Jared Goff is a professional football player, not typically a music artist."
+  ]
+}

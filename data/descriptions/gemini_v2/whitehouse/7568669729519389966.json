@@ -1,0 +1,70 @@
+{
+  "video_id": "7568669729519389966",
+  "visual_action": "A montage of clips featuring Donald Trump. He is shown on an airfield with fighter jets, wearing a 'USA' hat and saluting. He appears with Melania Trump in several scenes: walking hand-in-hand on a colonnaded porch, descending stairs, on the deck of an aircraft carrier with military personnel, on a stage in formal wear in front of a digital fireworks-like background, and waving from a balcony decorated with patriotic bunting. The video concludes with a black and white shot of the White House with text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole subject of the opening clips and the central figure in all subsequent clips in the montage."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in multiple clips alongside Donald Trump, starting around the 13-second mark."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and an icon of the building appear on a title card at the end of the video. The video was posted by the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "US 45-47",
+      "role": "other"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a mashup of two songs. The first song begins with lyrics like \"Wake up in the morning and I step outside... and I scream from the top of my lungs, what's going on?\". The video then transitions to the Nicki Minaj song \"Beez in the Trap,\" featuring lyrics like \"Bitches say shit and they ain't say nothing. A hundred motherfuckers can't tell me nothing\" and the repeated phrase \"beez in the trap.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The video features two distinct music tracks. It opens with an upbeat, anthemic pop/rock song, which the music ID lists as \"NO LIMITS — Emerson York\". It then transitions around the 13-second mark to the aggressive, bass-heavy hip-hop track \"Beez In The Trap\" by Nicki Minaj. The overall effect is to create a powerful and defiant 'hype' video.",
+  "editing_pacing": "A fast-paced montage with quick cuts timed to the music, featuring high-quality, cinematic footage. Includes a blur/zoom transition effect between some clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "power",
+    "defiance"
+  ],
+  "cultural_references": [
+    "Nicki Minaj (musician, via the song 'Beez In The Trap')"
+  ],
+  "central_claim": "The video portrays Donald Trump as a powerful, defiant, and patriotic leader by setting cinematic, military-themed, and presidential imagery to a mashup of anthemic and aggressive pop/hip-hop music.",
+  "intended_effect": "To energize supporters and project an image of Trump's undeniable strength and defiance.",
+  "uncertainty_flags": [
+    "The lyrics in the first part of the audio are clearly from the song 'What's Up?' by 4 Non Blondes, but the authoritative music ID identifies the track as 'NO LIMITS — Emerson York'. It may be a cover or a sample."
+  ]
+}

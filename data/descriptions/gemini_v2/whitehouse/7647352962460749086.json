@@ -1,0 +1,68 @@
+{
+  "video_id": "7647352962460749086",
+  "visual_action": "The video begins with a low-angle shot of a man in a suit dribbling a FIFA soccer ball down a long hallway lined with flags. The man stops the ball with his foot, and the camera reveals his face; it is Gianni Infantino. He adjusts his suit jacket, smiles, and poses for the camera. He then walks to a wooden door, opens it, and is greeted warmly by another man in a suit, Howard Lutnick. They shake hands and embrace. The video concludes with a white screen displaying the seal of the U.S. Department of Commerce.",
+  "cast": [
+    {
+      "name": "Gianni Infantino",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown dribbling a soccer ball and being welcomed. The transcript includes him saying, 'Thank you so much.'"
+    },
+    {
+      "name": "Howard Lutnick",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is identified by face recognition in the context and is shown greeting Gianni Infantino, saying 'Welcome to Commerce.'"
+    },
+    {
+      "name": "FIFA",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post's caption is about the '2026 FIFA World Cup', and the FIFA logo is visible on the soccer ball."
+    },
+    {
+      "name": "Department of Commerce",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The official seal of the Department of Commerce is shown at the end of the video, and a speaker says 'Welcome to Commerce'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FIFA",
+      "role": "other"
+    },
+    {
+      "text": "DEPARTMENT OF COMMERCE * UNITED STATES OF AMERICA",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Howard Lutnick welcomes Gianni Infantino to the Department of Commerce. Infantino responds with thanks and says it's great to be there. The exchange is brief and cordial.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "An upbeat, high-energy Latin pop track, 'Danza Kuduro', plays for the first 12 seconds of the video, creating a celebratory and hype-filled mood. The music cuts out abruptly when the dialogue begins.",
+  "editing_pacing": "The video consists of a few smoothly edited clips, including a tracking shot and static shots. The pacing is deliberate and polished, similar to a promotional video.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Pride",
+    "Hospitality"
+  ],
+  "cultural_references": [
+    "Danza Kuduro (song by Don Omar and Lucenzo)",
+    "FIFA World Cup"
+  ],
+  "central_claim": "The U.S. government, through the Department of Commerce, is proudly partnering with FIFA to host the 2026 World Cup in America.",
+  "intended_effect": "To generate excitement and national pride for the upcoming 2026 FIFA World Cup hosted in the United States.",
+  "uncertainty_flags": []
+}

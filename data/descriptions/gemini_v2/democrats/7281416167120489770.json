@@ -1,0 +1,66 @@
+{
+  "video_id": "7281416167120489770",
+  "visual_action": "The video displays a still image of Kevin McCarthy looking serious in a formal setting. Overlaid on the image is a screenshot of a tweet from his account dated September 19, 2023, which reads \"I never quit.\" The date is circled in red. The video then cuts to a screenshot of a tweet from Jake Sherman dated September 21, 2023, which announces that the House will be done for the week. This date is also circled in red.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is shown on screen, and his tweet from the account @SpeakerMcCarthy is displayed, reading 'I never quit.'"
+    },
+    {
+      "name": "Jake Sherman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His tweet from the account @JakeSherman is displayed on screen."
+    },
+    {
+      "name": "U.S. House of Representatives",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in Jake Sherman's tweet: 'HOUSE will alert members shortly that they are done for the week'."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible sitting next to Kevin McCarthy in the background."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pinned\nKevin McCarthy @SpeakerMcCarthy\nI never quit.\n8:54 AM Sep 19, 2023 591.6K Views",
+      "role": "overlay"
+    },
+    {
+      "text": "Jake Sherman @JakeSherman\n🚨🚨🚨BREAKING — HOUSE will alert members shortly that they are done for the week\n2:25 PM Sep 21, 2023 492.8K Views",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a viral sound clip featuring a voice yelling, \"Never back down, never what?\" followed by a response, \"Never give up.\" This exchange is repeated.",
+  "emojis_present": [
+    "🚨"
+  ],
+  "audio_music": "The audio consists entirely of a popular, motivational meme sound clip ('Never back down, never give up'). It plays continuously, creating an ironic and mocking tone when contrasted with the visual content suggesting that the House, under McCarthy, quit for the week.",
+  "editing_pacing": "The editing consists of a single cut from a static image with a text overlay to a second static image of a text screenshot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "The audio is the 'Never back down, never what?' viral meme sound, popular on platforms like TikTok."
+  ],
+  "central_claim": "Kevin McCarthy is hypocritical because he tweeted 'I never quit' just two days before the House of Representatives, under his leadership at the time, ended its work for the week early.",
+  "intended_effect": "To make the viewer mock Kevin McCarthy and view him as hypocritical or ineffective.",
+  "uncertainty_flags": []
+}

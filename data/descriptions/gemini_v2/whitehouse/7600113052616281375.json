@@ -1,0 +1,108 @@
+{
+  "video_id": "7600113052616281375",
+  "visual_action": "The video opens on a black screen with text appearing sequentially. It then cuts to a weather map graphic of the Eastern United States showing areas of \"SNOW\" and \"ICE\". This is followed by a montage of scenes in a snowy environment: military-style armored vehicles parked in a row, law enforcement officers in tactical gear arresting a person in an alley, a close-up of handcuffs being applied, and officers leading arrested individuals away. A very fast-paced montage of mugshot-style graphics follows, each labeled \"MINNESOTA WORST OF WORST\" and \"CRIMINAL ILLEGAL ALIEN ARRESTED\" with lists of crimes. The video concludes with a black and white image of the White House and its official logo.",
+  "cast": [
+    {
+      "name": "Criminal illegal aliens",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video features a montage of graphics with the text 'CRIMINAL ILLEGAL ALIEN ARRESTED'. The caption also states, 'The deportations of criminal illegals will continue.'"
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The pun in the audio ('icy') and caption ('FEELIN ICY') refers to ICE. The video shows federal agents, some with vests that say 'POLICE FEDERAL AGENT', conducting arrests related to 'criminal illegals', which is the purview of ICE."
+    },
+    {
+      "name": "Siri",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The audio begins with a person saying 'Hey Siri' and a synthesized female voice responding."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a logo and text for 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "HEY SIRI,",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT'S THE WEATHER",
+      "role": "overlay"
+    },
+    {
+      "text": "LOOK LIKE?",
+      "role": "overlay"
+    },
+    {
+      "text": "SNOW",
+      "role": "overlay"
+    },
+    {
+      "text": "ICE",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE FEDERAL AGENT",
+      "role": "other"
+    },
+    {
+      "text": "MINNESOTA WORST OF WORST",
+      "role": "meme_text"
+    },
+    {
+      "text": "CRIMINAL ILLEGAL ALIEN ARRESTED",
+      "role": "meme_text"
+    },
+    {
+      "text": "24 CONVICTIONS INCLUDING ASSAULT, DOMESTIC ABUSE, PUBLIC NUDITY, AND THEFT",
+      "role": "meme_text"
+    },
+    {
+      "text": "LEWD ACTS WITH A MINOR",
+      "role": "meme_text"
+    },
+    {
+      "text": "RAPE",
+      "role": "meme_text"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A person asks Apple's virtual assistant, 'Hey Siri, what's the weather look like?' Siri replies, 'It looks like you're gonna need an umbrella. It's a little bit icy.' The word 'icy' is used as a pun to sound like 'ICE,' referring to the U.S. Immigration and Customs Enforcement agency.",
+  "emojis_present": [
+    "❄️"
+  ],
+  "audio_music": "The video begins with dialogue. After the spoken pun 'icy', an upbeat and aggressive hip-hop track begins and continues through the montage of arrests and flashing mugshots, creating a 'hype' or 'action movie' feel.",
+  "editing_pacing": "The editing starts with static text on a black screen, then transitions to a montage of clips featuring quick cuts of law enforcement action. The pacing accelerates into a very rapid, flashing sequence of mugshot graphics before ending on a static logo.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Triumph",
+    "Satisfaction"
+  ],
+  "cultural_references": [
+    "Siri",
+    "The 'Hey Siri' meme format"
+  ],
+  "central_claim": "The administration, through agencies like ICE, is aggressively arresting and deporting dangerous criminals who are in the country illegally.",
+  "intended_effect": "To instill fear of crimes allegedly committed by undocumented immigrants and to generate support for the administration's hardline immigration enforcement policies by portraying them as a solution.",
+  "uncertainty_flags": []
+}

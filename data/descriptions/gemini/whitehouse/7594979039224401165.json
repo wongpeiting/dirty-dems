@@ -1,0 +1,94 @@
+{
+  "video_id": "7594979039224401165",
+  "visual_action": "A fast-paced video game or challenge called \"Say the word on the beat challenge.\" A grid of eight images is shown in five rounds. In each round, a green highlight box flashes rapidly over different images in time with a beat. The images include photos of Donald Trump (wearing a cowboy hat and holding a flag), photos of Joe Biden (looking down), red \"MAKE AMERICA GREAT AGAIN\" hats, gold bars, fire emojis, a dark suit, and what appears to be a hip-hop album cover. The video ends with a logo for \"THE WHITE HOUSE\" over black-and-white footage of the building.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Multiple photos of Donald Trump are used as elements in the video's game grid."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Multiple photos of Joe Biden are used as elements in the video's game grid."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a logo that reads \"THE WHITE HOUSE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Say the word on the beat challenge\nIMPOSSIBLE",
+      "role": "overlay"
+    },
+    {
+      "text": "1/5",
+      "role": "overlay"
+    },
+    {
+      "text": "2/5",
+      "role": "overlay"
+    },
+    {
+      "text": "3/5",
+      "role": "overlay"
+    },
+    {
+      "text": "4/5",
+      "role": "overlay"
+    },
+    {
+      "text": "5/5",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "47",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a repetitive, upbeat track with a strong percussive beat. A voice chants a catchy, somewhat indistinct phrase followed by \"one, two, three, go!\" to kick off each round of the visual challenge.",
+  "emojis_present": [
+    "🇺🇸",
+    "🔥"
+  ],
+  "audio_music": "A catchy, rhythmic, and upbeat track typical of a TikTok challenge or meme, creating a game-like and engaging atmosphere.",
+  "editing_pacing": "Fast-paced and rhythmic editing styled as a reaction game. A highlight box flashes quickly between images on a grid, synchronized to the beat of the music, before landing on specific ones. The cuts between rounds are quick.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fun",
+    "Competition",
+    "Engagement",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The \"Say the word on the beat challenge\" is a popular TikTok meme format.",
+    "The red \"MAKE AMERICA GREAT AGAIN\" (MAGA) hat is a well-known symbol of Donald Trump's political campaigns.",
+    "One of the images used is the cover of the 1995 album \"Only Built 4 Cuban Linx...\" by rapper Raekwon."
+  ],
+  "central_claim": "The White House is using a popular TikTok challenge format to draw a contrast between Joe Biden (associated with gold bars) and Donald Trump (associated with MAGA hats and fire emojis), embedding political messaging within a seemingly apolitical game.",
+  "intended_effect": "To engage younger audiences with a viral trend, encouraging repeat viewing and sharing while subtly reinforcing specific associations for the current administration and its primary political rival.",
+  "uncertainty_flags": [
+    "The full text on one of the grid images, which appears to be an album cover, is difficult to read but seems to say 'ONLY BUILT 4 CUBAN LINX...'. The specific relevance of this reference is unclear.",
+    "The identity of the person shown only as a dark suit is unknown."
+  ]
+}

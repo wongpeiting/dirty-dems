@@ -1,0 +1,75 @@
+{
+  "video_id": "7530672173409635598",
+  "visual_action": "A slideshow of two screenshots of tweets. The first, from 'FactPost', claims Pam Bondi told Donald Trump his name appeared 'multiple times' in the Epstein files, with the words 'multiple times' highlighted in yellow. It shows a photo of Pam Bondi next to a photo of Donald Trump and Jeffrey Epstein. The second screenshot is a tweet from 'Democrats' showing a photo of rapper Kendrick Lamar on stage.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text ('...told Trump...') and shown in a photograph with Jeffrey Epstein."
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "She is named in the on-screen text ('...reveals Pam Bondi told Trump...') and shown in a photograph."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "He is named in the on-screen text ('...in the Epstein files.') and shown in a photograph with Donald Trump."
+    },
+    {
+      "name": "Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The account name 'Democrats' and handle '@TheDemocrats' are visible on the second tweet screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New reporting reveals Pam Bondi told Trump in May that his name appeared multiple times in the Epstein files.",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "ALT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. The audio consists solely of a rap song.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the confrontational hip-hop track 'Not Like Us' by Kendrick Lamar, which plays throughout the short clip.",
+  "editing_pacing": "A slideshow format with a single, quick cut between two static images of tweets.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "accusation",
+    "mockery",
+    "confidence"
+  ],
+  "cultural_references": [
+    "Kendrick Lamar",
+    "The song 'Not Like Us' by Kendrick Lamar"
+  ],
+  "central_claim": "The Democratic Party is using the cultural cachet of Kendrick Lamar's diss track 'Not Like Us' to amplify an accusation that Donald Trump was deeply involved with Jeffrey Epstein.",
+  "intended_effect": "To generate negative sentiment towards Donald Trump by associating him with the Epstein scandal and to portray the Democrats as confident and on the attack.",
+  "uncertainty_flags": []
+}

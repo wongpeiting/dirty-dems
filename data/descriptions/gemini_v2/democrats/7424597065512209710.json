@@ -1,0 +1,65 @@
+{
+  "video_id": "7424597065512209710",
+  "visual_action": "A montage shows former President Barack Obama at a political rally. He walks through an enthusiastic crowd, shaking hands with attendees who are filming with their phones. He then goes on stage, shakes hands with, and hugs an older white man. Finally, he is shown speaking at a podium that reads \"PITTSBURGH, PA\" and \"HARRIS\". Throughout the entire video, a small goat emoji floats in the center of the frame.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure shown throughout the video, identified by face recognition."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name \"HARRIS\" appears on the podium where Obama is speaking, indicating the event is related to her campaign."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unidentified older white man is shown on stage shaking hands with and hugging Barack Obama."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🐐",
+      "role": "overlay"
+    },
+    {
+      "text": "PITTSBURGH, PA",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only upbeat music plays.",
+  "emojis_present": [
+    "🐐"
+  ],
+  "audio_music": "An upbeat, energetic electronic dance track ('Si Te Sabes el Tiktok Baila Octubre 2024' by DJ Stephany) plays throughout the video, creating a hype-filled and celebratory mood.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different shots of Obama at the rally.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A goat emoji (🐐) is digitally superimposed on the video, floating over the footage. The emoji is a common internet symbol for 'G.O.A.T.', an acronym for 'Greatest Of All Time', used here to praise Obama.",
+  "emotions_signaled": [
+    "Admiration",
+    "Excitement",
+    "Pride"
+  ],
+  "cultural_references": [
+    "The use of the goat emoji (🐐) as a visual pun for 'G.O.A.T.' (Greatest Of All Time), a popular meme and slang term used to denote excellence, often in sports or music."
+  ],
+  "central_claim": "Barack Obama is the 'Greatest Of All Time' (G.O.A.T.) and remains an exciting and beloved figure.",
+  "intended_effect": "To evoke feelings of admiration and excitement for Barack Obama and, by association, the Democratic party and the candidate he is supporting.",
+  "uncertainty_flags": [
+    "The identity of the man Obama greets on stage is not clear."
+  ]
+}

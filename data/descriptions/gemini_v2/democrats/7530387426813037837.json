@@ -1,0 +1,91 @@
+{
+  "video_id": "7530387426813037837",
+  "visual_action": "The video is a slideshow of static images. It begins with a screenshot of a tweet from 'FactPost' which claims Pam Bondi told Donald Trump his name was in the Epstein files. The tweet shows a photo of Bondi and a photo of Trump with Jeffrey Epstein. This is followed by a screenshot of a Wall Street Journal article repeating the claim. The video ends with a photo of Donald Trump in profile, with a blonde woman seen from behind with her hand on his back.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name appears in on-screen text from a tweet and a news article. A photo of him with Jeffrey Epstein is shown, as is another photo of him at the end."
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her name appears in the on-screen text from a tweet and a news article. A photo of her is also shown."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name appears in the on-screen text from a tweet and a news article. A photo of him with Donald Trump is shown."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost @factpostnews' is the first image shown."
+    },
+    {
+      "name": "The Wall Street Journal",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of an article is shown with the 'WSJ' and 'THE WALL STREET JOURNAL' masthead."
+    },
+    {
+      "name": "U.S. Department of Justice",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news article screenshot mentions 'Justice Department officials'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New reporting reveals Pam Bondi told Trump in May that his name appeared 'multiple times' in the Epstein files.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WALL STREET JOURNAL WSJ",
+      "role": "overlay"
+    },
+    {
+      "text": "When Justice Department officials reviewed what Attorney General Pam Bondi called a 'truckload' of documents related to Jeffrey Epstein earlier this year, they discovered that Donald Trump's name appeared multiple times, according to senior administration officials.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only music.",
+  "emojis_present": [],
+  "audio_music": "A single, ominous-sounding hip-hop track ('She Knows' by J. Cole) plays throughout the video. The repeated lyric 'She knows' creates a suggestive and suspenseful tone that aligns with the on-screen text about what Pam Bondi allegedly told Donald Trump.",
+  "editing_pacing": "The video is a slow-paced slideshow of three static images: a tweet screenshot, an article screenshot, and a photograph.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Intrigue",
+    "Distrust"
+  ],
+  "cultural_references": [
+    "The video uses the song 'She Knows' by the rapper J. Cole."
+  ],
+  "central_claim": "Donald Trump was aware that his name appeared multiple times in the Jeffrey Epstein files because Pam Bondi informed him.",
+  "intended_effect": "To create suspicion around Donald Trump and link him to the Jeffrey Epstein scandal.",
+  "uncertainty_flags": [
+    "The identity of the blonde woman seen from behind with Donald Trump in the final shot is not explicitly confirmed, though the context implies she is Pam Bondi."
+  ]
+}

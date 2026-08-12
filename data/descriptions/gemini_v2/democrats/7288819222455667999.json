@@ -1,0 +1,82 @@
+{
+  "video_id": "7288819222455667999",
+  "visual_action": "A slideshow of still, close-up shots of Donald Trump, Marjorie Taylor Greene, Matt Gaetz, and Lauren Boebert. They each have neutral or slightly downcast expressions. A text overlay is present throughout the video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in a still close-up shot."
+    },
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is shown in a still close-up shot."
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in a still close-up shot."
+    },
+    {
+      "name": "Lauren Boebert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is shown in a still close-up shot."
+    },
+    {
+      "name": "Republican leaders",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Latest job numbers leave Republican leaders literally speechless'."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text attributes the headline to 'MSNBC'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Latest job numbers leave Republican leaders literally speechless",
+      "role": "overlay"
+    },
+    {
+      "text": "MSNBC",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The only audio is the sound effect of crickets chirping.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of the sound of crickets chirping, a common sound effect used to comedically represent awkward silence, reinforcing the 'speechless' theme of the on-screen text.",
+  "editing_pacing": "A slow-paced slideshow of still images, cutting from one politician's face to another every two seconds.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "The use of cricket sound effects to signify awkward silence is a common comedic trope."
+  ],
+  "central_claim": "Recent positive job numbers have left prominent Republican leaders speechless, as the good economic news contradicts their political attacks.",
+  "intended_effect": "To mock the depicted Republican leaders and persuade the viewer that the current administration's economic policies are so successful that they silence the opposition.",
+  "uncertainty_flags": [
+    "It is unclear whether the MSNBC headline shown on screen is authentic or fabricated for the video."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "video_id": "7576701252181036302",
+  "visual_action": "The video is styled as a dramatic movie trailer. It opens with shots of a bellhop pushing a luggage cart carrying a large pet crate. The crate has a sticker on it with a cartoon turkey, resembling a presidential seal, that reads \"Seal of the National Turkey Federation.\" Inside the crate are two large, white turkeys. The video cuts between shots of the turkeys, the crate, and the seal. Text appears on screen word-by-word: \"THE STAGE IS SET.\" A shot shows one of the turkeys on a grassy lawn. The video concludes with shots of the White House, including a helicopter landing on the lawn, with the text \"THE WHITE HOUSE\" overlaid.",
+  "cast": [
+    {
+      "name": "Gobble and Waddle",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The narrator says, \"Gobble and Waddle stand on the edge of history.\""
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A voice strongly resembling President Biden's is heard saying \"I hereby grant you a...\" at the end of the video, which is about the presidential turkey pardon."
+    },
+    {
+      "name": "National Turkey Federation",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A sticker on the turkey crate shows a seal with the text \"Seal of the National Turkey Federation.\""
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text \"THE WHITE HOUSE\" appears over shots of the building, and the account is the official White House account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "SEAL OF THE NATIONAL TURKEY FEDERATION",
+      "role": "other"
+    },
+    {
+      "text": "THE STAGE",
+      "role": "overlay"
+    },
+    {
+      "text": "IS",
+      "role": "overlay"
+    },
+    {
+      "text": "SET",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "In the style of a movie trailer voiceover, a narrator dramatically announces, \"In a world where destiny is seasonal, Gobble and Waddle stand on the edge of history. One tradition decides their fate. This year, the stakes have never been higher. The stage is set.\" A different voice, sounding like President Biden, then begins to say, \"I hereby grant you a...\" before being cut off.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, orchestral, cinematic score plays throughout the video, building in intensity to create a sense of suspense and epic importance, parodying a blockbuster movie trailer.",
+  "editing_pacing": "The video features fast cuts typical of a movie trailer, alternating between shots of the turkeys, their crate, and the setting. It uses text overlays on a black background for dramatic effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor",
+    "anticipation",
+    "grandeur"
+  ],
+  "cultural_references": [
+    "The video is a parody of the movie trailer genre, using its common tropes like a deep-voiced narrator, dramatic music, and epic framing for a mundane event."
+  ],
+  "central_claim": "The upcoming White House presidential turkey pardon is a highly anticipated and dramatic event, presented with the same gravitas as a blockbuster movie.",
+  "intended_effect": "To humorously generate excitement and viewership for the annual turkey pardon by framing it in an epic, cinematic style.",
+  "uncertainty_flags": []
+}

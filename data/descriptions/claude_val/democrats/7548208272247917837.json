@@ -1,0 +1,122 @@
+{
+  "video_id": "7548208272247917837",
+  "visual_action": "The video is a slideshow of static screenshots and document images, cycling through several distinct \"scenes\":\n\n1. (Frames 1–3, repeated) A screenshot of a FactPost (@factpostnews) tweet stating \"Every House Rules Republican votes to block the Epstein Files Transparency Act from advancing,\" accompanied by a photo of a white-haired woman seated at a committee table with a nameplate reading \"MS. FOXX.\" Below the tweet screenshot is a white caption box reading \"at what point did Republicans decide hiding Trump's Epstein ties is more important than the dignity of the country?\"\n\n2. (Frame 4) A screenshot of a tweet from Karoline Leavitt (@PressSec) stating: \"The latest piece published by the Wall Street Journal PROVES this entire 'Birthday Card' story is false. As I have said all along, it's very clear President Trump did not draw this picture, and he did not sign it. President Trump's legal team will continue to aggressively pursue litigation.\"\n\n3. (Frames 5–6, repeated) A scan of a birthday card interior. The card's background features an outline drawing of a female torso/body silhouette. Inside is a printed script-style dialogue labeled \"Voice Over,\" \"Donald,\" and \"Jeffrey,\" ending with \"A pal is a wonderful thing. Happy Birthday—and may every day be another wonderful secret.\" The card bears the printed name \"Donald J. Trump\" and what appears to be a handwritten signature beneath it.\n\n4. (Frames 7–8, repeated) A comparison graphic showing three signatures side by side: (top) labeled \"EPSTEIN CARD\" — a \"Donald J. Trump\" printed name with signature below; (middle) labeled \"1995 LETTER TO LILLIAN VOLK\" — a \"Sincerely,\" with a similar \"Donald\" signature; (bottom) labeled \"1999 LETTER TO LARRY KING\" — a \"Sincerely, Love Donald\" with a similar signature. A prominent red banner overlaid reads \"he wrote that card.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named on the birthday card as 'Donald J. Trump' with signature; referenced in FactPost tweet ('Trump's Epstein ties'); referenced in Karoline Leavitt tweet ('President Trump did not draw this picture'); red overlay states 'he wrote that card'"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "FactPost tweet references 'Epstein Files Transparency Act' and 'Trump's Epstein ties'; card dialogue references 'Jeffrey'; signature comparison labeled 'EPSTEIN CARD'"
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Tweet screenshot showing her verified account @PressSec with her name and profile photo denying the birthday card story"
+    },
+    {
+      "name": "Virginia Foxx",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Committee table nameplate reading 'MS. FOXX' visible in the FactPost tweet photo; white-haired woman seated at committee table"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "FactPost tweet: 'Every House Rules Republican votes to block the Epstein Files Transparency Act from advancing'; caption overlay: 'Republicans decide hiding Trump's Epstein ties'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Account handle @factpostnews shown at top of first tweet screenshot with verified checkmark"
+    },
+    {
+      "name": "Wall Street Journal",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in Karoline Leavitt tweet: 'The latest piece published by the Wall Street Journal PROVES this entire Birthday Card story is false'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost ✓\n@factpostnews\nEvery House Rules Republican votes to block the Epstein Files Transparency Act from advancing",
+      "role": "overlay"
+    },
+    {
+      "text": "at what point did Republicans decide hiding Trump's Epstein ties is more important than the dignity of the country?",
+      "role": "caption"
+    },
+    {
+      "text": "Karoline Leavitt ✓\n@PressSec\nThe latest piece published by the Wall Street Journal PROVES this entire \"Birthday Card\" story is false.\n\nAs I have said all along, it's very clear President Trump did not draw this picture, and he did not sign it.\n\nPresident Trump's legal team will continue to aggressively pursue litigation.",
+      "role": "overlay"
+    },
+    {
+      "text": "Voice Over:\nThere must be more to life than having everything.\n\nDonald\nYes, there is, but I won't tell you what it is.\n\nJeffrey\nNor will I, since I also know what it is.\n\nDonald\nWe have certain things in common, Jeffrey.\n\nJeffrey\nYes, we do, come to think of it.\n\nDonald\nEnigmas never age, have you noticed that?\n\nJeffrey\nAs a matter of fact, it was clear to me the last time I saw you.\n\nDonald\nA pal is a wonderful thing. Happy Birthday—and may every day be another wonderful secret.",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump\n[signature]",
+      "role": "overlay"
+    },
+    {
+      "text": "EPSTEIN CARD\nDonald J. Trump\n[signature]",
+      "role": "overlay"
+    },
+    {
+      "text": "1995 LETTER TO LILLIAN VOLK\nSincerely,\n[signature]",
+      "role": "overlay"
+    },
+    {
+      "text": "he wrote that card.",
+      "role": "meme_text"
+    },
+    {
+      "text": "1999 LETTER TO LARRY KING\nSincerely,\nLove\n[signature]",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is present. The TikTok sound label indicates \"original sound\" from the @democrats account. The Whisper transcript is blank, suggesting either no speech or only music. The ACRCloud fingerprint identifies the audio track as \"We'll Be Millionaires\" by Man Boy starting at approximately 7.5 seconds.",
+  "emojis_present": [],
+  "audio_music": "Begins silently or near-silently for the first ~7 seconds, then a music track identified by ACRCloud as \"We'll Be Millionaires\" by Man Boy enters. The tone of that track title and the context suggest an ironic or triumphant/sardonic effect — the song title itself (\"We'll Be Millionaires\") plays as a commentary on wealth and secrets in juxtaposition with the Epstein card content.",
+  "editing_pacing": "Slow slideshow format — static screenshots and document images held on screen for several seconds each. No fast cuts or motion graphics beyond the red banner overlay. Pacing is deliberate, allowing text to be read fully. No video footage — entirely still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage at Republican obstruction of the Epstein transparency vote",
+    "suspicion regarding Trump's relationship with Epstein",
+    "skepticism toward Karoline Leavitt's denial",
+    "vindication or 'gotcha' framing via the signature comparison"
+  ],
+  "cultural_references": [],
+  "central_claim": "Despite the White House denying Trump's authorship of a birthday card to Jeffrey Epstein, a signature comparison with authenticated Trump letters demonstrates that Trump did in fact write and sign the card, and House Republicans blocked transparency legislation to protect him.",
+  "intended_effect": "Convince viewers that Trump wrote the Epstein birthday card, that the White House denial is false, and that House Republicans are complicit in covering up Trump's ties to Epstein.",
+  "uncertainty_flags": [
+    "The authenticity of the birthday card document itself (the Epstein card) is disputed in the video — Karoline Leavitt's tweet claims it is false; the video counters with signature comparison. Actual authenticity cannot be verified from the video alone.",
+    "The identity of the woman shown in the FactPost tweet photo is inferred from the 'MS. FOXX' nameplate — could be Virginia Foxx or another person named Foxx.",
+    "The signature comparison graphic (frame 7–8) may itself be an editorially assembled composite; its sourcing and accuracy cannot be verified from visual inspection alone.",
+    "Whether the 'We'll Be Millionaires' track plays from the very start or only after ~7.5s is inferred from ACRCloud timestamp — exact audio timeline uncertain.",
+    "The FactPost account's tweet about the House Rules Committee vote date and specific legislative context cannot be independently verified from the video."
+  ]
+}

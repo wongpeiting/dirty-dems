@@ -1,0 +1,87 @@
+{
+  "video_id": "7647570905752718623",
+  "visual_action": "A montage of clips showing immigration enforcement actions, all presented through a filter that mimics old security camera footage. The clips include a man in handcuffs being escorted by officers in tactical vests, a close-up of an ICE vehicle, an officer with 'POLICE' and 'ERO' on their back, a tattoo reading 'MADE IN TEXAS', a person's ankle in shackles, and several blurred shots of people, including a group boarding an airplane.",
+  "cast": [
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The letters 'ICE' are clearly visible on the side of a vehicle, and an officer wears a vest with 'ERO' (Enforcement and Removal Operations, a division of ICE)."
+    },
+    {
+      "name": "unnamed detained individuals",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video shows multiple unidentified people in handcuffs, in shackles, and boarding a plane under escort, indicating they are subjects of enforcement actions."
+    },
+    {
+      "name": "unnamed law enforcement officers",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several individuals in tactical gear and uniforms are shown escorting and handcuffing people. One has 'POLICE' and 'ERO' on their uniform."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "CAM",
+      "role": "overlay"
+    },
+    {
+      "text": "SW >",
+      "role": "overlay"
+    },
+    {
+      "text": "-00:12:42",
+      "role": "overlay"
+    },
+    {
+      "text": "DEC 31 : 1987",
+      "role": "overlay"
+    },
+    {
+      "text": "AM 04:20",
+      "role": "overlay"
+    },
+    {
+      "text": "ICE",
+      "role": "other"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    },
+    {
+      "text": "ERO",
+      "role": "other"
+    },
+    {
+      "text": "MADE IN TEXAS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from a song, repeating the question, \"do you get déjà vu?\"",
+  "emojis_present": [],
+  "audio_music": "The entire video is set to the song 'deja vu' by Olivia Rodrigo. The dreamy, melancholic pop song creates a stark, ironic contrast with the serious and grim visuals of immigration enforcement, reinforcing the video's theme of repetitive historical cycles.",
+  "editing_pacing": "The video is a fast-cut montage. A consistent filter is applied throughout to make the footage look like a recording from an old security camera, complete with a date stamp and a rounded-corner frame.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is stylized to appear as a security camera recording from 'DEC 31 : 1987'. This date is a deliberate fabrication, as the footage is clearly contemporary. This staged 'found footage' aesthetic is a form of manipulation used for thematic effect.",
+  "emotions_signaled": [
+    "critical irony",
+    "solemnity",
+    "unease"
+  ],
+  "cultural_references": [
+    "deja vu by Olivia Rodrigo"
+  ],
+  "central_claim": "U.S. immigration enforcement is a grim, repetitive cycle that has been happening for a long time and continues to happen in the same way.",
+  "intended_effect": "To make the viewer critically reflect on immigration policy and feel a sense of somber recognition that these enforcement actions are a recurring part of American history.",
+  "uncertainty_flags": [
+    "The specific significance of the date 'DEC 31 : 1987' is not explicitly clear, though it may be a reference to immigration policies of that era."
+  ]
+}

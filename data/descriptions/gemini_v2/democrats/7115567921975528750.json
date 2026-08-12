@@ -1,0 +1,78 @@
+{
+  "video_id": "7115567921975528750",
+  "visual_action": "A slideshow of official-style portraits of several Republican politicians. Each person is smiling in front of an American flag. The same text overlay is present on every image.",
+  "cast": [
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads: 'When you ask Republicans what their plan is...'"
+    },
+    {
+      "name": "Lauren Boebert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her portrait is the first image shown in the slideshow."
+    },
+    {
+      "name": "Darrell Issa",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being shown on screen via authoritative face-ID."
+    },
+    {
+      "name": "Elise Stefanik",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being shown on screen via authoritative face-ID."
+    },
+    {
+      "name": "Kevin Mccarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being shown on screen via authoritative face-ID."
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being shown on screen via authoritative face-ID."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "When you ask Republicans what their plan is after voting against a bill that would fight gas price gouging",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A repeated, comical, low-pitched horn sound, similar to a clown horn, plays each time a new picture appears. The effect is mocking.",
+  "editing_pacing": "A slideshow of static portraits, with cuts timed to the repeated horn sound effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "The use of a repeated clown horn sound is a common internet meme format used to imply someone or something is foolish."
+  ],
+  "central_claim": "Republicans have no plan to address high gas prices after voting against a bill intended to combat price gouging.",
+  "intended_effect": "To make the viewer mock Republicans and see them as foolish and lacking solutions on the issue of gas prices.",
+  "uncertainty_flags": [
+    "The provided authoritative face-ID list seems to be inaccurate for some of the individuals shown in this specific video.",
+    "The provided music fingerprint does not match the audio, which consists of a prominent meme sound effect (a clown horn)."
+  ]
+}

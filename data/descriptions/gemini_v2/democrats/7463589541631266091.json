@@ -1,0 +1,117 @@
+{
+  "video_id": "7463589541631266091",
+  "visual_action": "A static image of a Venn diagram with two overlapping circles. The left circle is labeled \"gave $1M to Trump's inauguration\". The right circle is labeled \"under scrutiny for committing anti-trust/privacy violations or harms to workers/consumers\". In the overlapping center are the logos for Amazon, Google, Meta, Microsoft, OpenAI, and Uber. Above the diagram, text reads, \"This Venn diagram could just be a circle....\". Below the diagram is a blue, 3D emoji-style character with a shocked expression.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text in the left circle of the Venn diagram reads \"gave $1M to Trump's inauguration\"."
+    },
+    {
+      "name": "Amazon",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Amazon's name and logo are listed in the center of the Venn diagram."
+    },
+    {
+      "name": "Google",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Google's name and logo are listed in the center of the Venn diagram."
+    },
+    {
+      "name": "Meta",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Meta's name and logo are listed in the center of the Venn diagram."
+    },
+    {
+      "name": "Microsoft",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Microsoft's name and logo are listed in the center of the Venn diagram."
+    },
+    {
+      "name": "OpenAI",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "OpenAI's name and logo are listed in the center of the Venn diagram."
+    },
+    {
+      "name": "Uber",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Uber's name is listed in the center of the Venn diagram."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This Venn diagram could just be a circle....",
+      "role": "meme_text"
+    },
+    {
+      "text": "gave $1M to Trump's inauguration",
+      "role": "overlay"
+    },
+    {
+      "text": "under scrutiny for committing anti-trust/privacy violations or harms to workers/consumers",
+      "role": "overlay"
+    },
+    {
+      "text": "amazon",
+      "role": "overlay"
+    },
+    {
+      "text": "Google",
+      "role": "overlay"
+    },
+    {
+      "text": "Meta",
+      "role": "overlay"
+    },
+    {
+      "text": "Microsoft",
+      "role": "overlay"
+    },
+    {
+      "text": "OpenAI",
+      "role": "overlay"
+    },
+    {
+      "text": "Uber",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A short, ominous, dramatic musical sting plays, creating a tone of shocking revelation.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "disapproval",
+    "alarm"
+  ],
+  "cultural_references": [
+    "The post uses the Venn diagram meme format to make a political point."
+  ],
+  "central_claim": "Several major tech companies (Amazon, Google, Meta, Microsoft, OpenAI, Uber) engage in uniformly negative behavior, as evidenced by their donations to Donald Trump's inauguration and their being under scrutiny for unethical practices.",
+  "intended_effect": "To generate shock, distrust, and negative sentiment towards the listed major technology corporations.",
+  "uncertainty_flags": []
+}

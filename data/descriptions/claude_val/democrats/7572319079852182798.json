@@ -1,0 +1,110 @@
+{
+  "video_id": "7572319079852182798",
+  "visual_action": "The video opens with a present-day interview setting showing a man in a navy suit with a red tie and American flag pin (Donald Trump) being interviewed, cutting back and forth with a dark-haired woman in a black top with white collar trim who appears to be the interviewer or commentator. The video then transitions to archival footage and photographs: a grainy video clip of a younger Trump (pink tie, black suit) at what appears to be a party, alongside another man (identified contextually as Jeffrey Epstein). On-screen text \"ARE\" appears over this clip. Next, a superimposed New York Times headline reads \"Epstein Alleged in Emails That Trump Knew of His Conduct\" over the same archival footage. The video then shows a screenshotted ABC News headline (\"Trump calls Epstein...\") overlaid with a photo of Epstein and Trump together (both smiling, posing), alongside the NYT headline again. Subsequent frames show the same Epstein-Trump photo more prominently, with what appears to be a screenshotted email chain on screen — text referencing names including \"Kathy Ruemmler,\" \"Larry Summers,\" \"jeffrey E.,\" and a phrase attributed to Epstein: \"you see i know how donald is.\" The final frames show the archival Epstein-Trump photo filling the screen with partial NYT headline text visible at the bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Face confirmed by InsightFace roster; appears in present-day interview footage in navy suit/red tie, and in archival photos/video alongside Epstein; named in NYT headline and email text on screen"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in NYT headline 'Epstein Alleged in Emails That Trump Knew of His Conduct'; named in OCR email text 'jeffrey E.' and 'jeevacation@gmail.com'; appears in archival party footage and photos alongside Trump"
+    },
+    {
+      "name": "unnamed interviewer/commentator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Dark-haired woman in black top with white collar trim shown speaking in what appears to be an interview or commentary setting; not identified by name"
+    },
+    {
+      "name": "Kathy Ruemmler",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in OCR of on-screen email screenshot: 'Kathy Ruemmler Subject:'"
+    },
+    {
+      "name": "Larry Summers",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in OCR of on-screen email screenshot: 'Larry Summers'"
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "NYT masthead and headline 'Epstein Alleged in Emails That Trump Knew of His Conduct' displayed on screen"
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "ABC News logo and partial headline ('Trump calls Epstein...') shown as a screenshot overlay"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ARE",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times\nEpstein Alleged in Emails That Trump Knew of His Conduct",
+      "role": "overlay"
+    },
+    {
+      "text": "abc\nTrump calls Epstein",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times\nEpstein Alleged in Emails That Trump Knew of His Conduct",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump Knew of His Conduct",
+      "role": "overlay"
+    },
+    {
+      "text": "From:\nSent:\nKathy Ruemmler\nSubject: you see i know how donald is.\nto have your fixer flip dirty\nThere MUS\nJefrey\nNor will\nsire\nDonalt\nDonal\npali\njeffrey E. (jeevacation@gmail.com]\nLarry Summers\nImportance: High\nrecall ivc told you have mct some very bad people none as bad as trump_",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio transcript captures a brief exchange: \"Can we classify the Epstein files?\" with the answer \"Yeah.\" This appears to be a clip from the present-day interview with Trump, implying he is responding affirmatively to a question about classifying Epstein-related files.",
+  "emojis_present": [],
+  "audio_music": "The track \"Placing The Blame\" by Self plays throughout, beginning at 0.0s and continuing through at least 17.1s with no apparent changes or interruptions. The track has a somber, accusatory tone that underscores the video's serious subject matter. No silence or additional sound layers noted beyond the spoken audio clip.",
+  "editing_pacing": "Moderate pacing with deliberate cuts. Opens with present-day interview footage in a talking-head style, then transitions into archival video clips and photo stills. On-screen text and headline overlays are introduced progressively, with each frame holding long enough for text to be read. The email screenshot appears late in the sequence with dense OCR text. Overall rhythm is measured and documentary-like rather than fast-cut.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock/disgust — signaled by the caption 'disgusting' and the pairing of Trump's apparent 'Yeah' answer with the Epstein files question",
+    "suspicion/alarm — signaled by the display of alleged Epstein email excerpts implicating Trump",
+    "gravity/seriousness — signaled by the NYT and ABC News headline overlays and the somber music track"
+  ],
+  "cultural_references": [],
+  "central_claim": "Trump acknowledged awareness of Epstein's conduct and expressed willingness to classify the Epstein files, implying a cover-up connection between Trump and Epstein supported by alleged email evidence.",
+  "intended_effect": "To cause viewers to distrust or condemn Trump by linking him to Jeffrey Epstein through archival footage, photos, media headlines, and alleged email excerpts, and by presenting his own words as self-incriminating.",
+  "uncertainty_flags": [
+    "The email screenshot displayed on screen (attributed to Jeffrey Epstein, with 'jeevacation@gmail.com' as sender, and referencing 'Kathy Ruemmler' and 'Larry Summers') cannot be independently verified as authentic from the video alone; its provenance and authenticity are unclear.",
+    "The partial ABC News headline reads 'Trump calls Epstein' — the rest is obscured; full headline content is unknown.",
+    "The identity of the dark-haired woman shown in the interview/commentary segments could not be confirmed — she may be a journalist or TV host.",
+    "The spoken exchange 'Can we classify the Epstein files? Yeah.' — it is unclear from context alone whether this is Trump answering, or a different speaker; the transcript and visual framing imply it is Trump but cannot be confirmed with certainty.",
+    "The word 'ARE' appearing as an overlay mid-video seems to be part of a larger phrase that is not fully visible in the provided keyframes; the complete sentence is unclear.",
+    "The email screenshot text was captured via OCR and may contain transcription errors; exact wording should not be treated as fully reliable."
+  ]
+}

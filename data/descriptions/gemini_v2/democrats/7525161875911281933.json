@@ -1,0 +1,135 @@
+{
+  "video_id": "7525161875911281933",
+  "visual_action": "The video shows a C-SPAN clip of Donald Trump at a meeting with several African leaders in the White House State Dining Room. The clip cuts between a close-up of one of the leaders and a wider shot of the table where Trump and the others are seated. American flags are visible in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is visually identified and is the main speaker in the clip, asking questions of an African leader."
+    },
+    {
+      "name": "Liberian President",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The overlay text identifies the person Trump is speaking to as 'the Liberian President'. He is shown speaking at the beginning and then answers Trump's questions."
+    },
+    {
+      "name": "African Leaders",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN chyron reads 'TRUMP HOSTS MEETING WITH AFRICAN LEADERS'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump to the Liberian President: “Were you educated?” 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP HOSTS MEETING WITH AFRICAN LEADERS",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE STATE DINING ROOM",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "MUCH FOR THIS",
+      "role": "caption"
+    },
+    {
+      "text": "WELL,",
+      "role": "caption"
+    },
+    {
+      "text": "AND SUCH GOOD",
+      "role": "caption"
+    },
+    {
+      "text": "SUCH BEAUTIFUL.",
+      "role": "caption"
+    },
+    {
+      "text": "WHERE DID YOU LEARN",
+      "role": "caption"
+    },
+    {
+      "text": "TO SPEAK SO",
+      "role": "caption"
+    },
+    {
+      "text": "WERE YOU",
+      "role": "caption"
+    },
+    {
+      "text": "EDUCATED?",
+      "role": "caption"
+    },
+    {
+      "text": "WHERE?",
+      "role": "caption"
+    },
+    {
+      "text": "IN LIBERIA?",
+      "role": "caption"
+    },
+    {
+      "text": "WELL THAT'S VERY",
+      "role": "caption"
+    },
+    {
+      "text": "INTERESTING.",
+      "role": "caption"
+    },
+    {
+      "text": "ENGLISH.",
+      "role": "caption"
+    },
+    {
+      "text": "I HAVE PEOPLE AT",
+      "role": "caption"
+    },
+    {
+      "text": "SPEAK NEARLY",
+      "role": "caption"
+    },
+    {
+      "text": "AS WELL.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An African leader thanks Donald Trump, who responds by complimenting his \"such good English, such beautiful.\" Trump then asks, \"Where did you learn to speak so beautifully? Where were you educated?\" The leader replies that he was educated in Liberia. Trump says, \"Well that's very interesting. Beautiful English,\" and adds, \"I have people at this table can't speak nearly as well.\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the C-SPAN broadcast with ambient room sounds. There is no music.",
+  "editing_pacing": "The video is a single, continuous clip from a broadcast, shown from two different camera angles. The editing consists of adding a text overlay at the top and synchronized captions at the bottom.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "cringe",
+    "disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump made a condescending and ignorant remark to the Liberian President by expressing surprise at his eloquent English, questioning if he was educated, despite English being the official language of Liberia.",
+  "intended_effect": "To portray Donald Trump as ignorant, condescending, and potentially racist.",
+  "uncertainty_flags": [
+    "While the post's text identifies the man Trump is speaking to as the 'Liberian President', the video itself does not explicitly confirm his identity."
+  ]
+}

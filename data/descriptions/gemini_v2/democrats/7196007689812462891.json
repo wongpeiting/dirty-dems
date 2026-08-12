@@ -1,0 +1,52 @@
+{
+  "video_id": "7196007689812462891",
+  "visual_action": "A slideshow of two screenshots of tweets from the X (formerly Twitter) account 'The Democrats'. The first tweet appears, then it cuts to the second tweet.",
+  "cast": [
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The screenshots are of tweets from the account 'The Democrats' with the handle '@TheDemocrats'."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Both on-screen tweets explicitly name 'House Republicans' as the subject of their claims."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats\n@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Reminder: House Republicans' first bill of the new Congress was a bill to protect wealthy tax cheats at the expense of middle-class Americans.",
+      "role": "overlay"
+    },
+    {
+      "text": "House Republicans want to cut key programs like Social Security and Medicare.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A person sighs and then says \"Side eye\" twice. This is a popular meme sound used to express judgment or disapproval.",
+  "emojis_present": [],
+  "audio_music": "A slightly melancholic, instrumental track ('Sal' by 'LexyMusic') plays in the background throughout. Layered on top, a voice sighs and says 'Side eye' at the beginning, and then repeats 'Side eye' a few seconds later. The audio has a judgmental and disapproving tone.",
+  "editing_pacing": "A simple slideshow that cuts from one static image (a screenshot of a tweet) to a second one.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disapproval",
+    "Concern"
+  ],
+  "cultural_references": [
+    "The 'Side eye' meme audio, popular on TikTok for expressing judgment or disapproval."
+  ],
+  "central_claim": "House Republicans are advancing policies that benefit wealthy tax cheats and plan to cut Social Security and Medicare, harming middle-class Americans.",
+  "intended_effect": "To generate disapproval and concern regarding the policy agenda of House Republicans.",
+  "uncertainty_flags": []
+}

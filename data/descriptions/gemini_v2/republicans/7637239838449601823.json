@@ -1,0 +1,98 @@
+{
+  "video_id": "7637239838449601823",
+  "visual_action": "A rapid montage of clips featuring various individuals, presented as Democratic candidates. The video begins with a close-up of Katie Porter speaking angrily. It then cuts to a series of chaotic and seemingly random clips: a couple kissing on a beach, a man dancing flamboyantly, cartoon fish from SpongeBob SquarePants looking shocked, and a shirtless man screaming and hitting himself. This is followed by a clip of James Talarico speaking at a lectern, a woman dancing with a marching band and a giant cutout of her own head, and a man smiling as a cat appears. The montage continues with a woman at a podcast microphone, a person running away from a building, and a man at a podium that reads \"FIGHT OLIGARCHY.\" The video ends with a close-up of a dog with a shocked expression.",
+  "cast": [
+    {
+      "name": "Katie Porter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible on screen speaking at the beginning of the video. Identified by face-ID."
+    },
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible on screen speaking at a lectern. Identified by face-ID."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads \"DEMOCRATS 2026 CANDIDATES.\" The video compiles clips of various Democratic politicians."
+    },
+    {
+      "name": "Hillary Scholten",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown dancing with a marching band and a large cutout of her own face."
+    },
+    {
+      "name": "Chris Pappas",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown smiling while a cat appears in frame. He says \"Hi.\""
+    },
+    {
+      "name": "Haley Stevens",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking into a microphone about Aretha Franklin's song \"Respect\", with on-screen text questioning her spelling of the word."
+    },
+    {
+      "name": "Abdelnasser Rashid",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium that says \"FIGHT OLIGARCHY\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DEMOCRATS 2026 CANDIDATES.",
+      "role": "overlay"
+    },
+    {
+      "text": "R-S-P-E-C-T ??",
+      "role": "overlay"
+    },
+    {
+      "text": "FIGHT OLIGARCHY",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video compiles audio clips from various sources. It begins with Katie Porter yelling, \"You out of my f***ing shot!\" (profanity is bleeped). Other clips include a cartoon character saying \"Oh my God!\", James Talarico stating \"God is non-binary,\" Chris Pappas saying \"Hi,\" Haley Stevens suggesting they sing Aretha Franklin's \"Respect\" and appearing to misspell it as \"R-S-P-C-T,\" and Abdelnasser Rashid saying, \"If they go low, we don't go high. We take them to the mud and choke them out.\"",
+  "emojis_present": [],
+  "audio_music": "The audio is a chaotic mix of dialogue, sound effects, and multiple music tracks. It starts with dialogue, then at about 6 seconds, an upbeat Spanish-language song ('Dias de Ayer') begins. This track is quickly replaced by another energetic song ('Chhathi Me Goli Mar Debo...') around 9 seconds. There are also distinct sound effects, like a loud 'thud' and a cartoonish 'thwack' sound. The clip of a woman dancing is accompanied by loud marching band drums. The overall effect is jarring and frantic, designed to mock the subjects.",
+  "editing_pacing": "The video uses extremely fast cuts, compiling numerous short, disparate clips into a chaotic montage. The pacing is rapid and jarring.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule",
+    "contempt"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants (the shocked fish characters)",
+    "Aretha Franklin (mentioned by name, and her song 'Respect' is referenced)",
+    "Viral internet meme clips (the shirtless man screaming and hitting himself; the shocked dog)"
+  ],
+  "central_claim": "Democratic candidates for 2026 are strange, incompetent, and extreme, as demonstrated by this compilation of embarrassing or out-of-context clips.",
+  "intended_effect": "To make the viewer see Democratic politicians as ridiculous and unfit for office, thereby encouraging voters to support Republicans instead.",
+  "uncertainty_flags": [
+    "The identities of several politicians (Hillary Scholten, Chris Pappas, Haley Stevens, Abdelnasser Rashid) are based on visual recognition as they were not included in the provided face-ID context.",
+    "The sources of several non-political meme clips (e.g., the couple on the beach, the dancing man) are not identified."
+  ]
+}

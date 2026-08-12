@@ -1,0 +1,107 @@
+{
+  "video_id": "7641269804896226573",
+  "visual_action": "A slideshow contrasts screenshots of tweets from a fictional news source called 'FactPost'. The first section, titled 'when democrats are in office', shows three positive 'news' items about Democratic governors Andy Beshear and Gavin Newsom, and Mayor Zohran Mamdani, related to pre-K, libraries, and free diapers. These slides are accompanied by a large, smiling emoji graphic. The second section, titled 'when republicans are in office', shows one negative 'news' item about Republicans voting against a ban on child marriage. This slide is accompanied by a nervous, grimacing emoji graphic.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is framed around the actions of Democrats, with on-screen text reading 'when democrats are in office' and 'Oklahoma Democrats'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video contrasts Democrats with Republicans, using on-screen text that reads 'when republicans are in office' and '36 Republicans voted against it'."
+    },
+    {
+      "name": "Andy Beshear",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet on screen reads 'Gov. Andy Beshear has launched universal pre-K...' and shows his photo."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet on screen reads 'Mayor Zohran Mamdani's 2027 budget invests...' and shows his photo."
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet on screen reads 'Gov. Gavin Newsom has announced California will be the first state...' and shows his photo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "when democrats are in office",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost\n@factpostnews",
+      "role": "other"
+    },
+    {
+      "text": "Gov. Andy Beshear has launched universal pre-K in two rural Kentucky counties.",
+      "role": "other"
+    },
+    {
+      "text": "Mayor Zohran Mamdani's 2027 budget invests $31.7 million in NYC's 219 public libraries",
+      "role": "other"
+    },
+    {
+      "text": "Gov. Gavin Newsom has announced California will be the first state in the nation to provide free diapers to newborns.",
+      "role": "other"
+    },
+    {
+      "text": "Families will receive 400 diapers when discharged from the hospital.",
+      "role": "other"
+    },
+    {
+      "text": "when republicans are in office",
+      "role": "overlay"
+    },
+    {
+      "text": "Oklahoma Democrats have forced a vote banning child marriage.",
+      "role": "other"
+    },
+    {
+      "text": "36 Republicans voted against it.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. The audio consists of sound effects. The first part of the video features an upbeat, tranquil instrumental track with positive cartoon sound effects like a satisfied 'Mmm!'. The second part abruptly cuts to a loud, prolonged, high-pitched panicked screaming sound effect.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The first section, covering Democrats, features a tranquil, upbeat instrumental track accompanied by positive sound effects. This abruptly changes in the second section, covering Republicans, to a jarring, high-pitched screaming sound effect, creating a feeling of alarm and horror.",
+  "editing_pacing": "The video is a slideshow of static images. It presents three quick cuts for the 'Democrats' section, followed by a single, longer shot for the 'Republicans' section, using the change in pacing to create a dramatic contrast.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents information through screenshots of tweets from a news source named 'FactPost' (@factpostnews), which appears to be a fabricated entity created for this meme format. This stages the political claims as if they are news reports to create a satirical or propagandistic contrast between the two parties.",
+  "emotions_signaled": [
+    "Pride",
+    "Approval",
+    "Horror",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The video uses a common meme format that contrasts two different groups or scenarios ('when democrats are in office' vs. 'when republicans are in office') to make a political point.",
+    "It uses large, stylized emoji graphics (a happy, toothy grin and a nervous, grimacing face) which are common in meme culture to signify approval and disapproval."
+  ],
+  "central_claim": "While Democrats enact beneficial policies for children and communities, Republicans take morally reprehensible actions like voting to allow child marriage.",
+  "intended_effect": "To persuade the viewer that Democrats govern effectively and care for people, while Republicans are dangerous and hold abhorrent views, thus encouraging support for the Democratic party.",
+  "uncertainty_flags": [
+    "The 'FactPost' account appears to be fabricated for the meme, but its non-existence cannot be confirmed without external verification."
+  ]
+}

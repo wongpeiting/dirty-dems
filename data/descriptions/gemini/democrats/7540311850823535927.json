@@ -1,0 +1,74 @@
+{
+  "video_id": "7540311850823535927",
+  "visual_action": "The video displays a screenshot of a tweet from an account called \"FactPost\". The tweet claims to list the months JD Vance has taken vacations during a \"Trump-Vance administration\" and shows a photo of Vance in a pool next to a sticky note that says \"OUT OF OFFICE\". The video then transitions into a montage of photos and short clips of JD Vance in various vacation-like settings: on a golf course, walking on a dock with a woman, at Mount Rushmore, and at a theme park with a woman and child. Each new image corresponds to a month being sung in the background audio.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is pictured throughout the video in various settings and is named in the on-screen text: \"JD Vance has taken vacations...\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned in the on-screen text as part of the hypothetical \"Trump-Vance administration\"."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is framed around a screenshot of a tweet from the account \"FactPost\" with the handle \"@factpostnews\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "JD Vance has taken vacations in the following months of the Trump-Vance administration:",
+      "role": "overlay"
+    },
+    {
+      "text": "February\nMarch\nApril\nMay\nJune\nJuly\nAugust",
+      "role": "overlay"
+    },
+    {
+      "text": "OUT OF OFFICE",
+      "role": "overlay"
+    },
+    {
+      "text": "TMZ",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a popular TikTok sound consisting of different voices singing the months of the year in succession. Each month sung corresponds to a different image of JD Vance on screen.",
+  "emojis_present": [],
+  "audio_music": "A trending TikTok sound where different voices sing the months of the year, used to create a montage effect.",
+  "editing_pacing": "The video is a slideshow-style montage, with quick cuts to different photos and clips of JD Vance timed to the singing of each month in the audio.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is built around a screenshot of a tweet from a satirical account, \"FactPost,\" which is presented like a real news source. The tweet makes a fabricated, satirical claim about JD Vance's vacation schedule in a hypothetical future \"Trump-Vance administration.\"",
+  "emotions_signaled": [
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Months of the Year TikTok trend",
+    "TMZ (celebrity news outlet)"
+  ],
+  "central_claim": "JD Vance is lazy and would spend his time as Vice President constantly on vacation instead of working.",
+  "intended_effect": "To portray JD Vance as unserious and derelict in his duties, thereby generating ridicule and making him appear unfit for office.",
+  "uncertainty_flags": [
+    "The account \"FactPost\" is presented as a news source but is likely a satirical or parody account created for political commentary."
+  ]
+}

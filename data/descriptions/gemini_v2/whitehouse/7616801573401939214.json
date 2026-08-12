@@ -1,0 +1,77 @@
+{
+  "video_id": "7616801573401939214",
+  "visual_action": "The video opens with white text on a black background. It then shows a female news anchor speaking, followed by B-roll footage of TSA agents working at an airport security checkpoint. The video then cuts between talking-head interviews with three different men describing their financial struggles, and more B-roll of long security lines and crowded airport terminals.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video opens with the on-screen text \"DEMOCRATS' DHS SHUTDOWN:\" and the caption states, \"The direct result of Democrats blocking DHS funding. 👎\""
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the beginning reads \"DEMOCRATS' DHS SHUTDOWN:\"."
+    },
+    {
+      "name": "Transportation Security Administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The narrator mentions a \"shortage of TSA workers\" and that \"50,000 TSA agents will miss their first full paycheck.\" The letters \"TSA\" are also visible on the back of an agent's jacket."
+    },
+    {
+      "name": "unnamed TSA agents",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Three different men speak directly to the camera about the personal financial hardships caused by the shutdown."
+    },
+    {
+      "name": "unnamed news anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman appears at the start of the video, and her voice narrates the initial context of the shutdown's impact on TSA workers."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DEMOCRATS' DHS SHUTDOWN:",
+      "role": "overlay"
+    },
+    {
+      "text": "TSA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A news anchor reports on a partial government shutdown, which has led to a shortage of TSA workers as hundreds quit and 50,000 miss their paychecks. Several men, presumably TSA agents, then share their personal stories of hardship, including receiving a \"big fat zero\" for a paycheck, having to donate blood plasma or work for Uber Eats and Grubhub to make ends meet, and even sleeping in cars to save gas. One man expresses that they are \"fed up,\" noting this is the third shutdown in six months and that it also affects the pay of flight attendants and pilots.",
+  "emojis_present": [
+    "👎"
+  ],
+  "audio_music": "A somber and dramatic instrumental track plays throughout the entire video, enhancing the emotional weight of the testimonials and footage.",
+  "editing_pacing": "The video is a montage combining news clips, talking-head testimonials, and B-roll footage of airports. The pacing is slow and deliberate, creating a serious and somber tone.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sympathy",
+    "pity",
+    "anger",
+    "frustration"
+  ],
+  "cultural_references": [
+    "Uber Eats",
+    "Grubhub"
+  ],
+  "central_claim": "The Democratic Party is responsible for a government shutdown that is causing severe financial hardship for TSA agents and disrupting air travel.",
+  "intended_effect": "To evoke sympathy for the struggling TSA workers and direct blame towards the Democratic Party for causing the shutdown and its consequences.",
+  "uncertainty_flags": []
+}

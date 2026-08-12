@@ -1,0 +1,60 @@
+{
+  "video_id": "7564499904278662455",
+  "visual_action": "A first-person point-of-view shot shows a hand looking through a refrigerator, moving jars of pickles, olives, and preserves. The person seems to be investigating a noise. Suddenly, the camera shakes violently as a face flashes on screen for a split second in a jump scare. The video then cuts to a black-and-white image of a helicopter landing, followed by a still black-and-white image of the White House building.",
+  "cast": [
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A face identified by external tools as Hakeem Jeffries is briefly edited into the video during a jarring jump scare sequence."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The words 'THE WHITE HOUSE' appear on screen at the end of the video, and the post is from the @whitehouse account."
+    },
+    {
+      "name": "unnamed person",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An unidentified person narrates the first part of the video, and their hand is visible reaching into the refrigerator."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "nah I'm out",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unidentified person speaks in a nervous tone while searching their refrigerator. They speculate that a jar might have simply shifted but state, \"I could have swore I saw something move.\" After failing to find anything, the person asks, \"what was that?\" immediately before a loud sound effect and jump scare.",
+  "emojis_present": [],
+  "audio_music": "The audio begins with a person's speaking voice and the ambient sounds of glass jars clinking. This is abruptly interrupted by a very loud, distorted, screeching sound effect to create a jump scare. The final shots of the video are silent.",
+  "editing_pacing": "The video adopts a found-footage horror style, beginning with a slow, suspense-building single shot from a first-person perspective. The pacing dramatically shifts with a sudden, chaotic camera shake and a quick edit for the jump scare, followed by two static shots at the end.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The face of Hakeem Jeffries is briefly and jarringly edited into the video during a camera shake to create a jump scare, portraying him as a frightening figure discovered in a refrigerator.",
+  "emotions_signaled": [
+    "suspense",
+    "fear",
+    "shock",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The video is formatted as a jump scare meme, a popular internet trend.",
+    "The style mimics found-footage horror films.",
+    "The on-screen text 'nah I'm out' is presented in a style reminiscent of a Snapchat caption."
+  ],
+  "central_claim": "Hakeem Jeffries is a frightening presence, akin to a monster in a horror movie.",
+  "intended_effect": "To startle the viewer and create a negative association of fear and shock with Hakeem Jeffries, mocking him by casting him as the monster in a horror trope.",
+  "uncertainty_flags": []
+}

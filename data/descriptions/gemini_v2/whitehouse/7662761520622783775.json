@@ -1,0 +1,74 @@
+{
+  "video_id": "7662761520622783775",
+  "visual_action": "A static image displays a screenshot of a social media post. The post appears to be a tweet from Donald J. Trump's account, which reads 'So cool!!! President DJT'. Below the tweet is a snippet of a news article with the headline 'Swift and Kelce's mystery dog debuts at Trump airport in West Palm'. The article includes a photo of Taylor Swift and Travis Kelce.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The screenshot shows a tweet from 'Donald J. Trump' (@realDonaldTrump) which reads in part 'President DJT'."
+    },
+    {
+      "name": "Taylor Swift",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name appears in the headline 'Swift and Kelce's mystery dog...' and she is pictured in the associated article photo."
+    },
+    {
+      "name": "Travis Kelce",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears in the headline 'Swift and Kelce's mystery dog...' and he is pictured in the associated article photo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "@realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "So cool!!! President DJT",
+      "role": "overlay"
+    },
+    {
+      "text": "Swift and Kelce's mystery dog debuts at Trump airport in West Palm",
+      "role": "overlay"
+    },
+    {
+      "text": "Taylor Swift's jet touched down in West Palm Beach on Sunday carrying Travis Kelce and a surprise guest. Find out who.",
+      "role": "overlay"
+    },
+    {
+      "text": "READ MORE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video is silent.",
+  "emojis_present": [],
+  "audio_music": "The video is silent.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated tweet from an account appearing to be Donald J. Trump, reacting to a fabricated news article about Taylor Swift and Travis Kelce. The entire image is a staged screenshot designed to look like a real social media post and news story.",
+  "emotions_signaled": [
+    "Amusement",
+    "Satire",
+    "Confusion"
+  ],
+  "cultural_references": [
+    "Taylor Swift",
+    "Travis Kelce"
+  ],
+  "central_claim": "The post presents a fabricated scenario where Donald Trump celebrates a bizarre news story about Taylor Swift and Travis Kelce's dog arriving at a Trump-branded airport.",
+  "intended_effect": "To amuse or confuse the viewer with a satirical, fabricated story involving Donald Trump, Taylor Swift, and Travis Kelce.",
+  "uncertainty_flags": []
+}

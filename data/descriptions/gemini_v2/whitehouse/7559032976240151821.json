@@ -1,0 +1,75 @@
+{
+  "video_id": "7559032976240151821",
+  "visual_action": "A static, black-and-white photo of Donald Trump sitting at a desk in what appears to be the Oval Office, viewed through a glass door. Overlaid on the image is a screenshot of a tweet attributed to him announcing a peace plan.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named as the author of the on-screen tweet ('Donald J. Trump @realDonaldTrump') and is depicted in the background photograph."
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the tweet as a party to the peace plan: 'Israel and Hamas have both signed off'."
+    },
+    {
+      "name": "Hamas",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the tweet as a party to the peace plan: 'Israel and Hamas have both signed off'."
+    },
+    {
+      "name": "Qatar",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Thanked as a mediator in the tweet: '...we thank the mediators from Qatar, Egypt, and Turkey...'"
+    },
+    {
+      "name": "Egypt",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Thanked as a mediator in the tweet: '...we thank the mediators from Qatar, Egypt, and Turkey...'"
+    },
+    {
+      "name": "Turkey",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Thanked as a mediator in the tweet: '...we thank the mediators from Qatar, Egypt, and Turkey...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump\n\nI am very proud to announce that Israel and Hamas have both signed off on the first Phase of our Peace Plan. This means that ALL of the Hostages will be released very soon, and Israel will withdraw their Troops to an agreed upon line as the first steps toward a Strong, Durable, and Everlasting Peace. All Parties will be treated fairly! This is a GREAT Day for the Arab and Muslim World, Israel, all surrounding Nations, and the United States of America, and we thank the mediators from Qatar, Egypt, and Turkey, who worked with us to make this Historic and Unprecedented Event happen. BLESSED ARE THE PEACEMAKERS!\n\nDONALD J. TRUMP\nPRESIDENT OF THE UNITED STATES OF AMERICA",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; it only features a musical track.",
+  "emojis_present": [],
+  "audio_music": "A slow, gentle, and pensive piano melody plays throughout the video, creating a solemn and reflective mood.",
+  "editing_pacing": "The video consists of a single static image with no cuts, zooms, or other editing effects.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated screenshot of a tweet from Donald J. Trump. The tweet, presented as an official announcement, details a peace plan between Israel and Hamas, and is overlaid on a photo of Trump to lend it authenticity.",
+  "emotions_signaled": [
+    "Hope",
+    "Pride",
+    "Solemnity"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Donald Trump has successfully negotiated the first phase of a peace plan between Israel and Hamas, securing the release of all hostages.",
+  "intended_effect": "To persuade the viewer that President Trump is a successful and effective leader who has achieved a historic peace deal, thereby fostering admiration and support for his presidency.",
+  "uncertainty_flags": []
+}

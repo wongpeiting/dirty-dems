@@ -1,0 +1,58 @@
+{
+  "video_id": "7545924290609237261",
+  "visual_action": "A black SUV arrives at the White House and is met by military honor guards. President Donald Trump stands on a red carpet and greets the President of Poland as he exits the vehicle. They shake hands and speak briefly. The video concludes with a black-and-white montage showing the exterior of the White House and a helicopter, with \"THE WHITE HOUSE\" logo overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Seen on screen in a suit and red tie, standing on a red carpet to greet his guest."
+    },
+    {
+      "name": "President of Poland",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text identifies him as 'the President of Poland'. He is seen exiting the car and shaking hands with Trump."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The event is explicitly located at 'the White House' in on-screen text, and the building is shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Welcomes the President of Poland to the White House 🇺🇸 🇵🇱",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A voice is heard giving a series of short, procedural-sounding commands as the vehicle arrives and the door is opened, such as \"Ready to pop, ready to open\" and \"Ready to close, ready to shut.\"",
+  "emojis_present": [
+    "🇺🇸",
+    "🇵🇱",
+    "🤝"
+  ],
+  "audio_music": "The video has no music. The only audio is spoken commands, likely from security or protocol officers, coordinating the arrival of the vehicle and the greeting.",
+  "editing_pacing": "The video consists of a single continuous shot of the arrival and greeting, followed by a quick three-image slideshow outro in black and white.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Formality",
+    "Patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump formally welcomed the President of Poland to the White House, showcasing official diplomatic activity.",
+  "intended_effect": "To portray President Trump as a statesman conducting official international diplomacy and to highlight the US-Poland relationship.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "7547473569425444110",
+  "visual_action": "Donald Trump is shown in a crowded stadium, identified by on-screen text as the US Open. He is standing near the edge of a balcony or box, and a large crowd below is cheering and reaching up towards him. The camera pans to show the scale of the packed stadium. The video ends with a black and white graphic of a helicopter, which transitions to an image of the White House with the text 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears on screen throughout the first part of the video and is named in the on-screen text 'President Trump Signs Supporters' Hats at US Open'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with a logo graphic featuring an image of the building and the words 'THE WHITE HOUSE'. The account posting is also '@whitehouse'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Signs Supporters' Hats at US Open",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of an upbeat music track and the loud cheering of a large crowd.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, energetic music track plays throughout the video, layered over the ambient sound of a large, cheering crowd. The effect is celebratory and highlights the enthusiastic reception.",
+  "editing_pacing": "The video consists of a single, continuous handheld shot that pans across a stadium crowd, followed by a hard cut to a static closing graphic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Excitement",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "US Open"
+  ],
+  "central_claim": "President Trump is immensely popular and warmly received by large crowds of supporters at major public events.",
+  "intended_effect": "To reinforce the perception of President Trump's widespread popularity and generate feelings of pride and enthusiasm among his supporters.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,53 @@
+{
+  "video_id": "7563414761891810615",
+  "visual_action": "A fast-paced montage showing Donald Trump. The video begins with a silhouette of Trump with red firework-like effects overlaid, then cuts to various clips of him: interacting with a crowd at what appears to be a rally, waving, walking away from the camera wearing a red 'TRUMP' hat, walking down a hallway with a woman, and boarding a plane at dusk. There are also shots of the plane on the tarmac and crowds taking photos. The video ends with a series of black-and-white images of the White House, with the text 'THE WHITE HOUSE' overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole subject of the montage, appearing in nearly every shot. His presence is confirmed by face ID."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and concludes with a title card featuring the text 'THE WHITE HOUSE' over images of the building."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "2 Million followers - LFG!!!",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. An upbeat rap song plays throughout the video. The lyrics, as per the transcript, are about achieving success and a higher status, with lines like \"Everybody rockin' me because I'm up now\" and references to upgrading from a \"G-Shock\" watch.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, triumphant rap/hip-hop track with a confident tone plays throughout the entire video, serving as a hype track for the visuals.",
+  "editing_pacing": "The video is a fast-paced montage with very quick cuts, motion blurs, and rapid transitions between clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Excitement"
+  ],
+  "cultural_references": [
+    "LFG!!! (internet slang for 'Let's F-ing Go')",
+    "G-Shock (brand of watches mentioned in the lyrics)"
+  ],
+  "central_claim": "Donald Trump is a successful and popular leader, now back in the White House, celebrated by a growing number of followers.",
+  "intended_effect": "To create a sense of excitement, pride, and triumph among supporters of Donald Trump and to celebrate a social media milestone.",
+  "uncertainty_flags": [
+    "The fingerprinted music identification in the provided context ('Laugh — SUHAM DENI') appears to conflict with the audio heard in the video and the provided Whisper transcript, which clearly indicate a rap song.",
+    "The identity of the woman seen walking with Donald Trump is not confirmed."
+  ]
+}

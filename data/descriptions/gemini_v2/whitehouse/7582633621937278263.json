@@ -1,0 +1,94 @@
+{
+  "video_id": "7582633621937278263",
+  "visual_action": "The video is a montage from a political rally in Pennsylvania. It opens with a shot of an American flag, followed by a sign reading \"PENNSYLVANIA WELCOMES PRESIDENT DONALD J. TRUMP\". Donald Trump walks onto a stage with a red carpet. The montage includes shots of Trump speaking at a lectern, the enthusiastic crowd cheering and holding signs like \"LOWER PRICES\" and \"BIGGER PAYCHECKS\", and other speakers at the podium. A bar chart is displayed on a large screen comparing food price increases under \"Biden\" with price decreases under \"Trump\". Trump is shown interacting with supporters, including hugging an older woman. The video ends with a black-and-white shot of the White House and the words \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure shown throughout the video, walking on stage, speaking at the rally, and interacting with the crowd."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears on a bar chart titled \"Biden Food Price Increases & Trump Food Price Decreases\", where his administration's economic record is contrasted negatively with Trump's."
+    },
+    {
+      "name": "Scott Bessent",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown speaking at the lectern in support of Trump."
+    },
+    {
+      "name": "Chris Wright",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown walking on stage and speaking at the lectern."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PENNSYLVANIA WELCOMES PRESIDENT DONALD J. TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "LOWER PRICES",
+      "role": "overlay"
+    },
+    {
+      "text": "BIGGER PAYCHECKS",
+      "role": "overlay"
+    },
+    {
+      "text": "MOUNT POCONO, PENNSYLVANIA",
+      "role": "overlay"
+    },
+    {
+      "text": "Biden Food Price Increases & Trump Food Price Decreases",
+      "role": "overlay"
+    },
+    {
+      "text": "Biden Price Increase",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump Price Decrease",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "Make America WEALTHY Again 🤑",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio is a compilation of speeches from a rally in Pennsylvania, layered over orchestral music and crowd noise. Donald Trump greets the audience, touts his administration's economic achievements, and promises \"lower prices, bigger paychecks.\" Other speakers praise Trump for \"ushering in a golden age economy\" and making America affordable. Trump concludes by vowing to work for hardworking Americans and promising to make America wealthy, strong, and great again. The video ends with the crowd chanting \"USA! USA!\".",
+  "emojis_present": [
+    "🤑"
+  ],
+  "audio_music": "An upbeat, inspiring orchestral score plays continuously in the background throughout the video, underneath the speeches and the sounds of the cheering crowd. The music serves to create a patriotic and grand atmosphere.",
+  "editing_pacing": "The video is edited as a fast-paced montage, with quick cuts between different speakers, shots of the enthusiastic crowd, on-screen graphics, and cinematic shots of Donald Trump on stage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride",
+    "Hope",
+    "Optimism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration has brought economic prosperity to America with lower prices and bigger paychecks, a trend that will continue if he remains in power.",
+  "intended_effect": "To inspire confidence and pride in Donald Trump's economic leadership and rally support for his agenda.",
+  "uncertainty_flags": []
+}

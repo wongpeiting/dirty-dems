@@ -1,0 +1,77 @@
+{
+  "video_id": "7426019058526473503",
+  "visual_action": "A video shows Donald Trump in a suit and red tie, standing on a stage and swaying slightly. The backdrop reads 'TRUMP VANCE'. Over this main shot, a screenshot of a Washington Post article is displayed, with the headline 'Trump sways and bops to music for 39 minutes in unusual town hall episode'. Smaller clips of Trump speaking at different events are faded in and out over the main image and the article screenshot.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the main subject shown on screen, both in the background video and the overlaid clips. His name is also in the on-screen headline from The Washington Post."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says in the audio, 'They called JD Vance and me weird.' Vance's name also appears on the backdrop behind Trump."
+    },
+    {
+      "name": "The Washington Post",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The masthead for 'The Washington Post' is shown on an article screenshot that is overlaid on the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Washington Post",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump sways and bops to music for 39 minutes in unusual town hall episode",
+      "role": "overlay"
+    },
+    {
+      "text": "TEXT TRUMP TO 88022",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP VANCE",
+      "role": "other"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN 2024",
+      "role": "other"
+    },
+    {
+      "text": "ISRAEL: A LEGACY OF STRENGTH",
+      "role": "chyron"
+    },
+    {
+      "text": "SUNDAY DEVOTIONAL: MAKING SENSE OF WARS, NATURAL DISASTERS AND",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Audio clips of Donald Trump are layered over music. He sounds defensive, repeating that he and JD Vance are not 'weird.' He says, 'They called JD Vance and me weird...And he called me weird...No, we're not weird. We're very solid people...He's not weird, and I'm not weird.'",
+  "emojis_present": [],
+  "audio_music": "The dramatic, operatic song 'Time To Say Goodbye (Con Te Partirè)' plays throughout the entire video. Audio clips of Donald Trump speaking are layered on top of the music. The music creates a mocking, absurd, or ironically poignant tone.",
+  "editing_pacing": "The video uses a layered, collage style. A primary, static shot of Trump swaying has other visual elements superimposed on it, including a text-based image (a news article) and smaller video clips of Trump speaking that fade in and out.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "derision"
+  ],
+  "cultural_references": [
+    "Time To Say Goodbye (Con Te Partirè)",
+    "Sarah Brightman"
+  ],
+  "central_claim": "The video portrays Donald Trump as strange and eccentric by juxtaposing clips of him defending himself against being called 'weird' with a news headline about his 'unusual' behavior, all set to overly dramatic music.",
+  "intended_effect": "To persuade the viewer to see Donald Trump as absurd, ridiculous, and unfit for office.",
+  "uncertainty_flags": []
+}

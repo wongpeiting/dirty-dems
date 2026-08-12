@@ -1,0 +1,69 @@
+{
+  "video_id": "7611181161313766670",
+  "visual_action": "The video displays a screenshot of a tweet from an account named 'FactPost'. The tweet shows two side-by-side photos: a headshot of a middle-aged Black man on the left, and the back of a U.S. Border Patrol agent on the right. The video slowly zooms in on the man's face.",
+  "cast": [
+    {
+      "name": "unnamed blind father",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text describes 'A blind father of two' who died, and his photo is shown."
+    },
+    {
+      "name": "U.S. Border Patrol",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet states 'Border Patrol agents took him into custody', and an officer's uniform is shown with 'U.S. BORDER PATROL' on the back."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is a screenshot of a tweet from the user 'FactPost' (@factpostnews)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "A blind father of two has died after Border Patrol agents took him into custody and released him alone, miles away from home.",
+      "role": "overlay"
+    },
+    {
+      "text": "A homicide investigation has been opened.",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    },
+    {
+      "text": "U.S. BORDER PATROL",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The only audio is a song with lyrics.",
+  "emojis_present": [],
+  "audio_music": "A somber and emotional indie folk song ('White Blank Page' by Mumford & Sons) plays throughout the video, creating a mournful and serious atmosphere.",
+  "editing_pacing": "The video is a static shot of a tweet screenshot, with a slow zoom-in on the photograph of the man mentioned in the tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "sympathy",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The song 'White Blank Page' by the band Mumford & Sons is used as the background audio."
+  ],
+  "central_claim": "U.S. Border Patrol agents are responsible for the death of a blind man, which is now being investigated as a homicide.",
+  "intended_effect": "To evoke sympathy for the victim and outrage towards the U.S. Border Patrol for alleged negligence and cruelty.",
+  "uncertainty_flags": []
+}

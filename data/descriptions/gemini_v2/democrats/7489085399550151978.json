@@ -1,0 +1,62 @@
+{
+  "video_id": "7489085399550151978",
+  "visual_action": "A montage of video clips plays under a static overlay of a Politico tweet. The first clip shows a man resembling Elon Musk on a stage with an American flag, wearing an orange, block-shaped hat and raising his arms. Subsequent clips show Donald Trump on stage at outdoor and indoor events, waving to a crowd and holding up a large, silver chainsaw-like prop.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the main subject of the overlaid Politico tweet, which states, 'Elon Musk will soon be stepping back...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the overlaid Politico tweet ('Trump has told his inner circle...') and is shown in multiple video clips at events."
+    },
+    {
+      "name": "Politico",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video features a screenshot of a tweet from the 'POLITICO' account."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats TikTok account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POLITICO @politico\nEXCLUSIVE: Trump has told his inner circle, including members of his Cabinet, that Elon Musk will soon be stepping back from his current role as governing partner, ubiquitous cheerleader and Washington hatchet man.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio features a well-known sarcastic quote from the cartoon SpongeBob SquarePants: \"Oh, boo-hoo! Let me play a sad song for you on the world's smallest violin,\" followed by a short, melancholic violin tune. In the background of one of the clips, a crowd can be heard cheering and someone shouts what sounds like \"Chainsaw!\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a popular, sarcastic meme sound clip from SpongeBob SquarePants featuring the line \"world's smallest violin\" and a corresponding sad violin tune, used to mock the subject of the video. There are also crowd sounds from the underlying video clips.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different clips, all under a single, static tweet overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The audio clip of Mr. Krabs saying \"Let me play a sad song for you on the world's smallest violin\" is a famous meme from the cartoon 'SpongeBob SquarePants'.",
+    "The chainsaw prop held by Donald Trump appears to be a reference to the anime/manga series 'Chainsaw Man'.",
+    "The block-shaped hat worn by the man resembling Elon Musk is a likely reference to the video game 'Minecraft'."
+  ],
+  "central_claim": "The supposed political partnership between Donald Trump and Elon Musk is failing, a development that should be mocked rather than mourned.",
+  "intended_effect": "To make the viewer laugh at and feel contempt for Donald Trump and Elon Musk by framing their reported political separation as pathetic.",
+  "uncertainty_flags": []
+}

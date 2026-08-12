@@ -1,0 +1,63 @@
+{
+  "video_id": "7608400851270454542",
+  "visual_action": "The video opens with a blurry, blue-lit concert or performance stage showing a figure in dark clothing holding a microphone — this appears to be a concert/comedy clip. A subtitle reads \"GO BACK TO\" over this footage. The clip then cuts to black briefly. It then transitions to a montage of Donald Trump in several settings: (1) walking across the White House South Lawn in a navy suit and red tie, pointing at the camera; (2) smiling in what appears to be the Oval Office or a White House room, wearing a red cap reading \"TRUMP WAS RIGHT ABOUT EVERYTHING!\" with a US flag patch; (3) standing at the top of Air Force One stairs in a white \"USA 47\" cap, fist raised; (4) dancing on a rally stage at sunset before a crowd, wearing a red USA cap, arms raised; (5) pointing directly at camera against a blue backdrop at what appears to be a campaign event; (6) pumping his fist with head bowed at another rally/event.",
+  "cast": [
+    {
+      "name": "unnamed performer (comedian/singer)",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Blurry blue-lit stage figure visible in first frame; voice in audio delivers the 'go back to' monologue"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Recognizable face visible across multiple frames; wears hat reading 'TRUMP WAS RIGHT ABOUT EVERYTHING!' and 'USA 47' cap; shown on White House lawn, Air Force One stairs, and rally stages"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GO BACK TO",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP WAS RIGHT ABOUT EVERYTHING!",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio features an unidentified speaker delivering a passionate monologue: \"Who the f**k doesn't like the United States of America, may God bless you, but f**k you at the same time. If you don't like the United States of America, go back to the countries that we the f**k are from, and you'll see how much you appreciate the United States of America. I'm so sorry. Fireball.\" The tone is emphatic and expletive-laden, expressing strong pro-USA sentiment and telling critics of the country to leave and experience other nations by comparison.",
+  "emojis_present": [
+    "🔥",
+    "☄️"
+  ],
+  "audio_music": "The audio is listed as \"original sound\" and consists of the unidentified speaker's passionate spoken monologue about American patriotism, with no background music discernible from the transcript. The delivery is raw, unfiltered, and uses repeated profanity for emphasis.",
+  "editing_pacing": "Fast-cut montage after the opening performance clip. Cuts transition quickly between multiple flattering shots of Trump — walking on White House lawn, smiling in an official setting, boarding Air Force One, dancing at a rally, and pointing at camera. The pacing is energetic and celebratory, synced with the forceful audio.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride in the United States — evoked by the patriotic monologue audio and heroic imagery of Trump",
+    "Defiance toward critics of America — 'go back to the countries we're from' line paired with Trump pointing directly at camera",
+    "Enthusiasm/excitement — Trump's dancing and fist-pump visuals set against a golden sunset"
+  ],
+  "cultural_references": [
+    "MAGA/Trump rally dancing — Trump's signature post-speech dance move set to music at rallies",
+    "'Trump Was Right About Everything' hat — a well-known MAGA merchandise item",
+    "Air Force One staircase power pose — a recurring visual motif in Trump political media",
+    "'Go back to your country' rhetoric — a long-standing phrase in American political/cultural discourse"
+  ],
+  "central_claim": "If you don't appreciate or like the United States of America, you should go back to where you came from — implying Trump's leadership embodies and champions that unapologetic American pride.",
+  "intended_effect": "To inspire pride in American viewers who feel the same way as the speaker, and to associate Donald Trump with unapologetic, passionate patriotism.",
+  "uncertainty_flags": [
+    "The identity of the speaker in the audio (the 'Fireball' monologue) is not confirmed — could be a comedian, entertainer, or public figure; the blurry first-frame figure is too low-resolution to identify with certainty",
+    "The specific occasions for the Trump footage clips (White House lawn walk, Oval Office hat moment, Air Force One, rally) are not individually datestamped in the frames",
+    "The 'USA 47' cap on Air Force One suggests post-January 2025 footage, which is after the knowledge cutoff — treated as real per instructions"
+  ]
+}

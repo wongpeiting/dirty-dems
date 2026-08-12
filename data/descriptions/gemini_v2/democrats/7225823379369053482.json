@@ -1,0 +1,137 @@
+{
+  "video_id": "7225823379369053482",
+  "visual_action": "An unnamed female narrator speaks to the camera, introducing a contrast between Democrats and Republicans on abortion. The video cuts to a clip of Joe Biden speaking at a podium, then back to the narrator. A screenshot of a People magazine article about a Florida abortion ban is shown, with the narrator superimposed over it and a video of Ron DeSantis below. This is followed by a clip of Donald Trump in a town hall setting and a clip of Mike Pence in an interview. The video concludes with the narrator speaking to the camera again.",
+  "cast": [
+    {
+      "name": "unnamed narrator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The narrator appears throughout the video, framing the central argument and presenting the different clips."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The narrator states, 'Republicans in Congress are calling for a nationwide abortion ban,' and later refers to '2024 Republican hopefuls'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video opens with the on-screen text 'Democrats vs. Republicans on abortion' and is posted by the official @democrats account."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a clip stating, 'If Congress passes a national ban, I will veto it.' The narrator also says, 'But with President Biden in office, that won't happen.'"
+    },
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named by the narrator and in a People magazine article screenshot for signing an 'extreme abortion ban into law' in Florida."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown in a clip saying 'there has to be some form of punishment' for women who have abortions."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown in a clip agreeing that he would support a six-week nationwide abortion ban, saying 'Well, of course.'"
+    },
+    {
+      "name": "MAGA Republicans",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The narrator describes Ron DeSantis as 'one of many MAGA Republicans hellbent on taking away fundamental rights from women.'"
+    },
+    {
+      "name": "Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The narrator and Joe Biden both refer to Congress potentially passing a national abortion ban."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The MSNBC logo is visible in the background during the clip of Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats vs. Republicans on abortion",
+      "role": "overlay"
+    },
+    {
+      "text": "People",
+      "role": "other"
+    },
+    {
+      "text": "SUBSCRIBE",
+      "role": "other"
+    },
+    {
+      "text": "Rape, Incest Victims Must Show Proof to Get Exception to Florida's New Abortion Ban",
+      "role": "overlay"
+    },
+    {
+      "text": "Florida Gov. Ron DeSantis signed the Heartbeat Protection Act into law, which bans abortions after six weeks and adds new restrictions to the standing exception",
+      "role": "overlay"
+    },
+    {
+      "text": "By Vanessa Etienne",
+      "role": "overlay"
+    },
+    {
+      "text": "Published on April 14, 2023 11:2",
+      "role": "overlay"
+    },
+    {
+      "text": "MSNBC",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A narrator contrasts the positions of Democrats and Republicans on abortion. She claims Republicans want a nationwide ban, which President Biden vows to veto. She highlights 'extreme' bans being pushed by Republican presidential hopefuls, using Ron DeSantis in Florida as an example. Clips are shown of Donald Trump saying women should face 'punishment' for abortions and Mike Pence supporting a nationwide six-week ban. The narrator concludes that abortion is healthcare and women, not politicians, should control their own reproductive decisions.",
+  "emojis_present": [],
+  "audio_music": "The audio consists primarily of spoken dialogue. Around the 27-second mark, during the clip of Donald Trump, a subtle and serious instrumental track begins and continues through the end of the video, adding a somber and determined tone.",
+  "editing_pacing": "The video alternates between a static talking-head shot of the narrator and archival clips of various politicians speaking. It also uses a picture-in-picture effect to display a news article screenshot alongside a video clip. The pacing is steady with simple cuts between segments.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "fear",
+    "urgency",
+    "outrage",
+    "reassurance",
+    "determination"
+  ],
+  "cultural_references": [],
+  "central_claim": "Prominent Republicans support extreme anti-abortion policies, including punishing women and enacting national bans, while President Biden and the Democratic party are the only defense for reproductive rights.",
+  "intended_effect": "To persuade viewers that Republicans pose a direct threat to women's healthcare and to galvanize support for Democrats as protectors of abortion access.",
+  "uncertainty_flags": []
+}

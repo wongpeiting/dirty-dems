@@ -1,0 +1,85 @@
+{
+  "video_id": "7592371562431483191",
+  "visual_action": "The video cuts through six scenes: (1) Nancy Pelosi outdoors near what appears to be the U.S. Capitol, wearing a green blazer and sunglasses, speaking into a microphone held by an off-screen reporter — subtitle reads \"I did not refuse the National Guard.\" (2) A vintage/retro clip of a young blonde boy in a blue t-shirt walking outdoors with other children playing in the background — appears to be archival footage, possibly from a TV show or PSA. (3) A very dark, nearly black frame showing a barely-visible figure in silhouette — subtitle reads \"I take responsibility for not having them.\" (4) A reaction shot of an unidentified Black man in a blue outfit and durag with a gold chain, mouth open wide in apparent shock/amusement — appears to be a clip from a 1990s TV show or film (possibly \"Friday\"). (5) A reaction shot of a man in a plaid flannel shirt with an intense, disbelieving expression — appears to be from the same film, possibly Ice Cube in the movie \"Friday.\" (6) A dark, near-black frame with \"THE WHITE HOUSE\" official logo (building icon + text) overlaid in white, with a faint silhouette of a helicopter (Marine One) in the background.",
+  "cast": [
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Caption reads 'I take responsibility' - Nancy Patricia Pelosi; she appears on screen in green blazer and sunglasses speaking into a microphone near the Capitol."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Transcript includes reporter asking 'Why did you refuse the National Guard on January 6th?' and Pelosi responding; microphone visible held by off-screen person."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Final frame shows official White House logo and 'THE WHITE HOUSE' text; account is @whitehouse."
+    },
+    {
+      "name": "unnamed actor (reaction shot, blue outfit/durag)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a 1990s-era reaction clip wearing blue outfit and gold chain; used as comedic reaction insert."
+    },
+    {
+      "name": "Ice Cube",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Man in plaid flannel shirt with distinctive facial features matching Ice Cube, in a scene consistent with the film 'Friday' (1995)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I did not refuse the National Guard.",
+      "role": "caption"
+    },
+    {
+      "text": "I take responsibility for not having them",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A reporter asks Pelosi off-camera: \"Why did you refuse the National Guard on January 6th?\" Pelosi responds: \"Shut up. I did not refuse the National Guard. The president didn't send it. Why are you coming here with Republican talking points as if you're a serious journalist?\" She then states: \"Wait a minute. I take responsibility for not having them.\" The audio also includes a reaction exclamation: \"Damn!\"",
+  "emojis_present": [],
+  "audio_music": "Original sound — consists of the Pelosi press exchange audio, with a spoken \"Damn!\" reaction at the end. No music track identified.",
+  "editing_pacing": "Fast cuts between the Pelosi interview clip, archival/stock footage of a child (used as a reaction beat), a near-black silhouette frame with the key admission subtitle, two comedic reaction shots from what appears to be the 1990s film \"Friday,\" and a closing White House logo card. The editing follows a meme-style structure: statement → contradiction → reaction shots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "surprise/shock — triggered by Pelosi's self-contradictory statements juxtaposed back-to-back",
+    "mockery/amusement — signaled by the use of comedic reaction shots from 'Friday' after her admission",
+    "disbelief — Ice Cube's grimacing reaction shot follows her admission",
+    "absurdity — the child walking-away clip implies an incredulous 'walking away from the situation' reaction"
+  ],
+  "cultural_references": [
+    "Friday (1995 film) — reaction shots of Ice Cube and the other character (likely Chris Tucker) used as comedic meme inserts",
+    "Reaction meme format — child walking away used as a 'walking away from this' or 'I can't believe this' reaction meme",
+    "'Damn!' vocal exclamation — common meme/reaction audio format"
+  ],
+  "central_claim": "Nancy Pelosi contradicted herself by first denying she refused the National Guard and then admitting responsibility for not having them present on January 6th.",
+  "intended_effect": "To make viewers perceive Pelosi as having caught herself in a self-contradiction, using comedic reaction memes to amplify the sense that her admission is damaging or absurd.",
+  "uncertainty_flags": [
+    "The identity of the unnamed man in the blue durag/outfit reaction shot is uncertain — possibly Chris Tucker from 'Friday' but not confirmed by face alone.",
+    "The child in the archival footage is unidentified; the specific source of that clip is unclear.",
+    "It is unclear exactly when this Pelosi press exchange took place or which reporter asked the question.",
+    "The 'Damn!' audio at the end may be from the 'Friday' film clip or a separate audio drop — source not definitively confirmed."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "7558655904032279863",
+  "visual_action": "A montage of clips showing Donald Trump and another man, identified as Howard Lutnick, interacting at the White House. They are shown shaking hands outdoors, meeting indoors, and Lutnick is also shown signing a guest book. Both men are smiling in several shots. The video concludes with a static graphic of the White House outline and text identifying it as 'THE WHITE HOUSE' under 'PRESIDENT DONALD J. TRUMP'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually identified by face recognition and appears throughout the montage shaking hands and in meetings. The final screen identifies him as President."
+    },
+    {
+      "name": "Howard Lutnick",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually identified by face recognition and is the other central figure in the montage, shown shaking hands with Trump, signing a book, and in meetings."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a title card that reads 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "Canada",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The caption includes the American and Canadian flags with a handshake emoji between them (🇺🇸🤝🇨🇦), implying a meeting related to US-Canada relations."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video contains no spoken words. The provided transcript 'We'll be right back' is not audible in the clip, which features only an instrumental music track.",
+  "emojis_present": [
+    "🇺🇸",
+    "🤝",
+    "🇨🇦"
+  ],
+  "audio_music": "A continuous, grand, and inspiring orchestral score plays throughout the video, lending a sense of importance, patriotism, and positivity to the events shown.",
+  "editing_pacing": "The video is a montage with moderately paced cuts between different shots and angles of the meeting.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "cooperation",
+    "respect"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is successfully managing and strengthening US-Canada relations through high-level diplomatic meetings at the White House.",
+  "intended_effect": "To instill confidence in President Trump's diplomatic leadership and portray his administration as successful in fostering international partnerships.",
+  "uncertainty_flags": [
+    "The provided audio transcript ('We'll be right back') is not audible in the video, which seems to contain only an instrumental music track.",
+    "The post frames the meeting as a US-Canada event via caption emojis (🇺🇸🤝🇨🇦), but the main guest identified by face-ID, Howard Lutnick, is a prominent American businessman, not a Canadian official. The reason for the Canadian framing is not explicitly stated in the video."
+  ]
+}

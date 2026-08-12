@@ -1,0 +1,72 @@
+{
+  "video_id": "7294425308034272555",
+  "visual_action": "The video first shows Speaker of the House Mike Johnson at a press conference podium, surrounded by other Republican politicians. It then cuts to a clip of Johnson at a rally shaking hands with former President Donald Trump, who is standing at a podium with the presidential seal.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown prominently in both clips of the video and is the subject of the on-screen text."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown shaking hands with Mike Johnson in the second clip."
+    },
+    {
+      "name": "Elise Stefanik",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visible standing behind Mike Johnson in the first shot."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible standing behind Mike Johnson in the first shot."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly labels Mike Johnson a 'MAGA extremist'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "everybody keeps saying Mike Johnson is a MAGA extremist",
+      "role": "overlay"
+    },
+    {
+      "text": "probably because he is a MAGA extremist",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only a song with lyrics that follows the structure 'Everybody told me that I sound like CG5... Probably because I am CG5.' The on-screen text mimics this lyrical structure.",
+  "emojis_present": [],
+  "audio_music": "The video features the song 'CG5' by Alex Gonzalo throughout. It is an upbeat, pop-style track. The on-screen text is timed to the song's lyrics, creating a mocking or sarcastic effect by pairing the cheerful music with a political accusation.",
+  "editing_pacing": "The video consists of two static shots with one simple cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "accusation"
+  ],
+  "cultural_references": [
+    "The video uses a TikTok meme format based on the song 'CG5' by Alex Gonzalo, where the lyrics 'Everybody keeps saying I sound like [X] / probably because I am [X]' are adapted to make a point about the subject of the video."
+  ],
+  "central_claim": "Mike Johnson is a MAGA extremist, a fact confirmed by his association with Donald Trump.",
+  "intended_effect": "To label Mike Johnson as a 'MAGA extremist' in a shareable, meme-based format that reinforces a negative perception of him to a progressive audience.",
+  "uncertainty_flags": []
+}

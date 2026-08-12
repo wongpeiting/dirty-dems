@@ -1,0 +1,64 @@
+{
+  "video_id": "7137461338611387694",
+  "visual_action": "A clip shows Dr. Mehmet Oz and a woman holding a white cat inside a house. The video then cuts to John Fetterman speaking at an outdoor podium.",
+  "cast": [
+    {
+      "name": "Mehmet Oz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in the first half of the video with an overlay text that reads, 'New Jersey resident, unsure of how many properties he owns 😟'."
+    },
+    {
+      "name": "John Fetterman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in the second half of the video with an overlay text that reads, 'Democratic meme lord 😎'. His face is also confirmed by authoritative face-ID."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The post is from the official @democrats account and promotes a Democratic politician while criticizing his opponent."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "New Jersey resident, unsure of how many properties he owns 😟",
+      "role": "overlay"
+    },
+    {
+      "text": "Democratic meme lord 😎",
+      "role": "overlay"
+    },
+    {
+      "text": "UNITED STEELWORKERS USW",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio does not contain clear dialogue. The first segment features a high-pitched, sped-up sound effect, and the second segment is instrumental music.",
+  "emojis_present": [
+    "😟",
+    "😎"
+  ],
+  "audio_music": "The video begins with a high-pitched, sped-up, nonsensical vocal track to create a mocking effect. It abruptly switches to an energetic, bass-heavy electronic track ('Affte — Dambus') when John Fetterman appears, creating a 'hype' or 'cool' atmosphere.",
+  "editing_pacing": "A single, abrupt cut transitions from the clip of Mehmet Oz to the clip of John Fetterman.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "admiration"
+  ],
+  "cultural_references": [
+    "The term 'meme lord' is a reference to internet culture.",
+    "The use of a silly, sped-up audio clip over one subject followed by 'hype' music over another is a common TikTok/internet meme format for showing contrast."
+  ],
+  "central_claim": "The post contrasts Dr. Oz, portrayed as an out-of-touch, wealthy 'New Jersey resident,' with John Fetterman, who is presented as a cool and relatable 'meme lord'.",
+  "intended_effect": "To create a negative perception of Dr. Oz as an unrelatable outsider and a positive perception of John Fetterman as an authentic, modern political figure.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,131 @@
+{
+  "video_id": "7609107196470775053",
+  "visual_action": "The video opens with a clip of Donald Trump speaking at a rally from behind a podium. It then transitions to a montage of clips from an American ice hockey team's game. The montage includes the team lined up on the ice with a large American flag projected onto it, close-ups of players, and various action shots of skating, scoring goals, and physical checks. There is also a shot of an excited fan in the stands wearing an Uncle Sam-style hat and waving a small American flag. The video concludes with a black screen displaying the text \"THE WHITE HOUSE\" with an icon of the building.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Is shown speaking at a rally in the opening clip, and his speech provides the audio for the first part of the video."
+    },
+    {
+      "name": "Team USA Hockey",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The montage features hockey players wearing jerseys with \"USA\" on the front. The caption also includes the hashtag #teamusa."
+    },
+    {
+      "name": "Team Canada",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The caption reads, \"See you Sunday, Canada,\" implying they are the upcoming opponent."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WE",
+      "role": "overlay"
+    },
+    {
+      "text": "MUCH,",
+      "role": "overlay"
+    },
+    {
+      "text": "EVEN",
+      "role": "overlay"
+    },
+    {
+      "text": "OF",
+      "role": "overlay"
+    },
+    {
+      "text": "SAY,",
+      "role": "overlay"
+    },
+    {
+      "text": "PLEASE,",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S",
+      "role": "overlay"
+    },
+    {
+      "text": "WINNING.",
+      "role": "overlay"
+    },
+    {
+      "text": "CAN'T",
+      "role": "overlay"
+    },
+    {
+      "text": "ANYMORE,",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT,",
+      "role": "overlay"
+    },
+    {
+      "text": "MUCH!",
+      "role": "overlay"
+    },
+    {
+      "text": "ISN'T!",
+      "role": "overlay"
+    },
+    {
+      "text": "KEEP",
+      "role": "overlay"
+    },
+    {
+      "text": "TO",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "other"
+    },
+    {
+      "text": "TKACHUK",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video begins with audio of a Donald Trump speech where he says, \"We're going to win so much, you may even get tired of winning... and you'll say, please, please, it's too much winning... And I'll say, no, it isn't. We have to keep winning. We have to win more.\" The audio then transitions to a dramatic choir singing what sounds like a version of Madonna's \"Like a Prayer\" over the sports montage.",
+  "emojis_present": [
+    "🦅",
+    "🇺🇸"
+  ],
+  "audio_music": "The video starts with Donald Trump's speaking voice from a rally. After his speech clip ends, there is a whoosh sound effect, and the audio transitions to a powerful, dramatic choral song identified as \"Like a Prayer (Choir Version From ‘Deadpool & Wolverine’)\". This epic music plays over the hockey montage, creating a heroic and triumphant atmosphere.",
+  "editing_pacing": "The video begins with a single, static shot of Trump speaking, then transitions into a fast-paced montage of hockey clips. The montage features quick cuts, action shots, and some slow-motion replays to heighten the drama of the game.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride",
+    "Triumph",
+    "Excitement"
+  ],
+  "cultural_references": [
+    "Like a Prayer (song by Madonna)",
+    "Deadpool & Wolverine (movie)",
+    "The Olympics",
+    "Brady Tkachuk or Matthew Tkachuk (NHL players for Team USA)"
+  ],
+  "central_claim": "The success and dominance of the US Olympic hockey team is presented as a direct manifestation of the relentless \"winning\" ethos championed by Donald Trump.",
+  "intended_effect": "To create a powerful feeling of American pride and triumph by associating the White House with the success of Team USA, and to generate excitement for their upcoming Olympic game.",
+  "uncertainty_flags": [
+    "The music fingerprint provided is complex and lists multiple tracks. The choir version of 'Like a Prayer' is the most prominent, but the presence and role of the other listed tracks ('Happy Deivel', 'masterplan') are not clear from listening.",
+    "The specific identity of the hockey player with 'TKACHUK' on his jersey (e.g., Brady or Matthew Tkachuk) is not specified."
+  ]
+}

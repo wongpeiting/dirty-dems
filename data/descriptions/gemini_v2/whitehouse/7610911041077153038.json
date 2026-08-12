@@ -1,0 +1,62 @@
+{
+  "video_id": "7610911041077153038",
+  "visual_action": "A black and white montage shows First Lady Melania Trump inside the White House, greeting guests for the State of the Union. She poses for a photo with a young blonde girl, shakes hands with an elderly man wearing a 'World War II Veteran' cap, and interacts with other guests. The video ends with the First Lady's official seal.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is shown throughout the video, identified by on-screen text ('First Lady Melania Trump'), the caption ('Our First Lady ❤️'), and face recognition."
+    },
+    {
+      "name": "unnamed World War II veteran",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "An elderly man is shown wearing a hat that reads 'WORLD WAR II VETERAN'. He shakes hands with and speaks to Melania Trump."
+    },
+    {
+      "name": "unnamed young girl",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A young girl is shown interacting with and posing for a photo with Melania Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "First Lady Melania Trump welcomes State of the Union Guests to the White House",
+      "role": "overlay"
+    },
+    {
+      "text": "WORLD WAR II VETERAN",
+      "role": "other"
+    },
+    {
+      "text": "FIRST LADY MELANIA TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio features faint background conversation. A young girl and an elderly man can each be heard saying 'Thank you' to Melania Trump during their respective interactions with her.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "A gentle, slow, and slightly formal instrumental track with piano and strings plays throughout the video, creating a warm and respectful atmosphere.",
+  "editing_pacing": "The video is a slow-paced montage composed of a series of clips showing various interactions, with gentle cuts between scenes. The overall style is a formal, slideshow-like presentation.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "admiration",
+    "respect",
+    "warmth",
+    "patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "First Lady Melania Trump is a gracious and compassionate host, warmly welcoming esteemed guests, including a child and a war veteran, to the White House for the State of the Union address.",
+  "intended_effect": "To foster admiration and respect for Melania Trump by highlighting her role as a graceful First Lady.",
+  "uncertainty_flags": []
+}

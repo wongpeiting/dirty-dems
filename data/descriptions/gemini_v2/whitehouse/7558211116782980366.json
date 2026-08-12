@@ -1,0 +1,53 @@
+{
+  "video_id": "7558211116782980366",
+  "visual_action": "The video opens with a shot of the U.S. Capitol building as dozens of colorful, animated sombreros rain down from the sky. It then cuts to a series of black and white, dramatic still images: the White House exterior, a helicopter landing (likely Marine One), and another shot of the White House.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption reads: \"Nothing beats dems shutting down the gov...\""
+    },
+    {
+      "name": "undocumented immigrants",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption mentions a government shutdown \"for criminal illegal alien’s...\""
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and features on-screen text reading \"THE WHITE HOUSE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio begins with a female voice saying \"Nothing beats a...\" followed by a stuttering sound effect that leads into the beat of the song. The rest of the clip is instrumental.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, high-energy reggaeton track ('Danza Kuduro') plays throughout the video. The intro is a stutter-edited vocal sample. The music's festive and celebratory tone is used sarcastically to mock the subject of the video.",
+  "editing_pacing": "The video begins with a single animated shot and then transitions to a fast-paced slideshow of still images that are cut to the beat of the music.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Numerous colorful sombreros are digitally superimposed and animated to make it appear as if they are raining down from the sky onto the U.S. Capitol. This is a satirical visual metaphor to mockingly associate a government action with stereotypical Hispanic/Mexican culture, in line with the caption's focus on immigration.",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "contempt"
+  ],
+  "cultural_references": [
+    "Danza Kuduro (song by Don Omar and Lucenzo)"
+  ],
+  "central_claim": "The Democratic party is shutting down the government for the benefit of undocumented immigrants.",
+  "intended_effect": "To make the viewer mock the Democratic party and view their priorities as absurd and against American interests.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,83 @@
+{
+  "video_id": "7321043397345692971",
+  "visual_action": "The video intercuts clips of Donald Trump speaking in an interview, at a rally, and in a town hall setting with extensive, violent footage from the January 6th Capitol attack. The riot footage includes crowds clashing with police, an officer being crushed in a doorway, rioters breaking into the Capitol building, a gallows erected outside the Capitol, and lawmakers taking cover. Screenshots of tweets from Donald Trump are also overlaid on the riot footage.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking throughout the video, his tweets are displayed on screen, and the video's central claim is about his characterization of the January 6th attack."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is named in a tweet from Donald Trump that is shown on screen."
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A sign reading \"SPEAKER OF THE HOUSE NANCY PELOSI\" is shown as rioters enter a hallway."
+    },
+    {
+      "name": "unnamed radio host",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An unidentified voice labeled \"RADIO HOST\" on screen asks Donald Trump a question."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This is Trump's America.",
+      "role": "overlay"
+    },
+    {
+      "text": "\"THERE WAS LOVE AND UNITY.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "SPEAKER OF THE HOUSE\nNANCY PELOSI",
+      "role": "other"
+    },
+    {
+      "text": "Tweet\nDonald J. Trump @realDonaldTrump\nMike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution, giving States a chance to certify a corrected set of facts, not the fraudulent or inaccurate ones which they were asked to previously certify. USA demands the truth!\nThis claim about election fraud is disputed\n2:24 PM · Jan 6, 2021 · Twitter for iPhone",
+      "role": "overlay"
+    },
+    {
+      "text": "RADIO HOST",
+      "role": "chyron"
+    },
+    {
+      "text": "DONALD TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "Donald J. Trump @realDonaldTrump\nJANUARY SIXTH, SEE YOU IN DC!\n2:06 PM · Dec 30, 2020",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video features multiple audio clips of Donald Trump describing the January 6th attack and its participants in positive terms. He calls it a \"very interesting day\" and a \"beautiful day,\" stating there was \"love and unity\" and that people were there with \"love in their heart.\" He refers to the imprisoned rioters as \"J6 hostages.\" In a separate clip, a radio host asks if he would pardon \"J6 defendants,\" and Trump replies, \"Yes, absolutely.\" Audio of someone reading Trump's critical tweet about Mike Pence from January 6th is also included.",
+  "emojis_present": [],
+  "audio_music": "A tense, dramatic, and ominous instrumental score plays over the montage of violent footage, contrasting with the calm tone of Donald Trump's voice. The sounds of the riot, including shouting and chaos, are also audible.",
+  "editing_pacing": "The video uses fast-paced editing with rapid cuts that juxtapose calm clips of Donald Trump speaking with chaotic, violent footage of the January 6th riot. It also employs text overlays to quote Trump and display his tweets, as well as a split-screen effect at one point to show Trump talking above scenes of violence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "fear",
+    "anger",
+    "shock"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump dangerously misrepresents the violent reality of the January 6th Capitol attack, which he encouraged and continues to praise.",
+  "intended_effect": "To persuade viewers that Donald Trump is a threat to the country by highlighting the stark contrast between his positive rhetoric about January 6th and the actual violence of the event.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,104 @@
+{
+  "video_id": "7498423928474324267",
+  "visual_action": "A static image of a Fox News poll bar chart is displayed. The chart, titled 'PRESIDENT TRUMP'S JOB PERFORMANCE', shows public opinion on various issues. For every issue listed, such as 'Overall Job Performance', 'The Economy', and 'Inflation', the yellow 'Disapprove' bar is longer than the blue 'Approve' bar.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'Trump logging in to this bad Fox News poll:' and the poll is titled 'PRESIDENT TRUMP'S JOB PERFORMANCE'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The poll is explicitly labeled 'FOX NEWS POLL' and cited as 'Source: Fox News Poll'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump logging in to this bad Fox News poll:",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS POLL",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENT TRUMP'S JOB PERFORMANCE",
+      "role": "chyron"
+    },
+    {
+      "text": "Approve",
+      "role": "other"
+    },
+    {
+      "text": "Disapprove",
+      "role": "other"
+    },
+    {
+      "text": "Overall Job Performance",
+      "role": "other"
+    },
+    {
+      "text": "Border Security",
+      "role": "other"
+    },
+    {
+      "text": "Immigration",
+      "role": "other"
+    },
+    {
+      "text": "Deportations",
+      "role": "other"
+    },
+    {
+      "text": "Guns",
+      "role": "other"
+    },
+    {
+      "text": "Foreign Policy",
+      "role": "other"
+    },
+    {
+      "text": "The Economy",
+      "role": "other"
+    },
+    {
+      "text": "Taxes",
+      "role": "other"
+    },
+    {
+      "text": "Tariffs",
+      "role": "other"
+    },
+    {
+      "text": "Inflation",
+      "role": "other"
+    },
+    {
+      "text": "Source: Fox News Poll - Conducted: April 18-21, 2025. Registered Voters +/- 3% Pts.",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A dramatic male voice says, \"How could you do this to me?\", implying this is Donald Trump's reaction to the unfavorable poll results.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic instrumental track plays throughout, setting a mock-sorrowful tone for the imagined reaction to the poll.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [],
+  "central_claim": "A Fox News poll from April 2025 shows Donald Trump with high disapproval ratings across numerous key policy areas.",
+  "intended_effect": "To mock Donald Trump by highlighting his poor polling numbers from a typically friendly news source and imagining his dismayed reaction.",
+  "uncertainty_flags": [
+    "The specific source of the dramatic audio line 'How could you do this to me?' is unclear, though it functions as a generic meme soundbite."
+  ]
+}

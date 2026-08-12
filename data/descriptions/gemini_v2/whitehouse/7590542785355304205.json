@@ -1,0 +1,241 @@
+{
+  "video_id": "7590542785355304205",
+  "visual_action": "A fast-paced montage recapping the 'top 10' social media posts from The White House. The video is a countdown, with each segment showing a post and its view count. The posts include: #1 Cristiano Ronaldo and Georgina Rodriguez walking with Donald Trump (211 million views); #2 A tweet about an 'Illegal Alien Deportation Flight' with footage of people being arrested (105 million views); #3 An AI-generated image of Trump as the video game character Master Chief (45 million views); #4 Footage of a deportation flight, labeled 'THE DEPORTATION EXPRESS' (33 million views); #5 Usha Vance singing and a large banner remembering Charlie Kirk (23 million views); #6 Law enforcement making arrests with text 'IT'S CUFFING SEASON' (17 million views); #7 Trump arriving on a red carpet with text 'DADDY'S HOME' (15 million views); #8 A montage including a manipulated image of Hakeem Jeffries in a sombrero and an image of Trump's face as the sun over the border wall (14 million views); #9 A news-style graphic about B-2 bombers striking Iran (14 million views); #10 A montage of military imagery and photos of Republican figures (13 million views).",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure in most of the montage clips, including arriving on a red carpet, in an AI-generated image as a superhero, and his face appearing as the sun over the border wall."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and is a recap of its own top social media posts."
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face and name appear on a large banner in a stadium that reads 'BUILDING A LEGACY REMEMBERING CHARLIE KIRK'."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A manipulated photo shows his face with a digitally superimposed sombrero and mustache."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His photo appears in a split-screen image under the text 'your team'."
+    },
+    {
+      "name": "Usha Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown singing into a microphone on a stage."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A black and white photo of her appears in a split-screen image under the text 'your vibes'."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His presence in the video is confirmed by authoritative face-ID."
+    },
+    {
+      "name": "NATO",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A NATO flag is briefly shown waving."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "# TOP 10 SOCIAL POSTS",
+      "role": "overlay"
+    },
+    {
+      "text": "# 01",
+      "role": "overlay"
+    },
+    {
+      "text": "211 MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "# 02",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House @WhiteHouse",
+      "role": "overlay"
+    },
+    {
+      "text": "ASMR: Illegal Alien Deportation Flight",
+      "role": "overlay"
+    },
+    {
+      "text": "105 MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "# 03",
+      "role": "overlay"
+    },
+    {
+      "text": "117",
+      "role": "other"
+    },
+    {
+      "text": "45 MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE ERO",
+      "role": "other"
+    },
+    {
+      "text": "33 MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "THE DEPORTATION EXPRESS",
+      "role": "overlay"
+    },
+    {
+      "text": "23 MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "BUILDING A LEGACY REMEMBERING CHARLIE KIRK",
+      "role": "other"
+    },
+    {
+      "text": "IT'S CUFFING SEASON",
+      "role": "overlay"
+    },
+    {
+      "text": "17 MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "DADDY'S HOME",
+      "role": "overlay"
+    },
+    {
+      "text": "15 MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "NATO OTAN",
+      "role": "other"
+    },
+    {
+      "text": "14 MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "B-2 Bombers Safely Touch Down at Whiteman AFB in Missouri After 36-Hour Iran Strike",
+      "role": "chyron"
+    },
+    {
+      "text": "# 10",
+      "role": "overlay"
+    },
+    {
+      "text": "13 MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "keep it one hundred",
+      "role": "overlay"
+    },
+    {
+      "text": "on the land",
+      "role": "overlay"
+    },
+    {
+      "text": "and sea",
+      "role": "overlay"
+    },
+    {
+      "text": "in the sky",
+      "role": "overlay"
+    },
+    {
+      "text": "pledge allegiance to your hands",
+      "role": "overlay"
+    },
+    {
+      "text": "your team",
+      "role": "overlay"
+    },
+    {
+      "text": "your vibes",
+      "role": "overlay"
+    },
+    {
+      "text": "don't care where the hell you been",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A narrator introduces the clip: \"Let's run it back this new year's to ten of our top posts.\" The rest of the audio is a fast-paced mashup of sounds and music from the featured clips, including a crowd chanting \"Cristiano!\", fragments of multiple pop and worship songs, and a soundbite of Donald Trump saying, \"We will make America great again!\"",
+  "emojis_present": [],
+  "audio_music": "The video uses a rapid succession of different music tracks to match the tone of each segment in the montage. It begins with an upbeat, energetic rock track ('Right on Top'), switches to inspirational worship music ('Holy Forever') for a segment about Charlie Kirk, then to an upbeat Latin dance track for a montage of arrests. A confident R&B track by Usher ('Hey Daddy (Daddy's Home)') plays as Trump exits a car. The music becomes dramatic and serious ('The Fate of Ophelia') for footage of a B-2 bomber, and shifts to various pop songs for other segments. The overall effect is high-energy and celebratory.",
+  "editing_pacing": "The video is a very fast-paced montage with rapid cuts, digital glitch effects, zooms, and frequent text overlays counting down the top 10 posts and their view counts.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video contains several instances of visual manipulation. An AI-generated or digitally painted image depicts Donald Trump as the video game character Master Chief from Halo, saluting in front of the White House. A photo of Hakeem Jeffries has a sombrero and a large mustache digitally superimposed onto his face. Another image shows Donald Trump's face digitally rendered as a giant, glowing sun rising over the US-Mexico border wall.",
+  "emotions_signaled": [
+    "Triumph",
+    "Celebration",
+    "Patriotism",
+    "Strength",
+    "Mockery",
+    "Confidence",
+    "Intimidation"
+  ],
+  "cultural_references": [
+    "Cristiano Ronaldo",
+    "Georgina Rodriguez",
+    "Halo (video game series)",
+    "Master Chief (character)",
+    "ASMR (internet trend)",
+    "\"Cuffing season\" (internet slang)",
+    "Usher (musician)",
+    "\"Hey Daddy (Daddy's Home)\" (song)",
+    "\"Your team / Your vibes\" (meme format)"
+  ],
+  "central_claim": "The Trump administration's policies and online messaging are wildly popular and project an image of strength, patriotism, and cultural dominance.",
+  "intended_effect": "To create a sense of excitement and pride among supporters by showcasing the high engagement and confident messaging of the administration's social media, while also intimidating and mocking opponents.",
+  "uncertainty_flags": []
+}

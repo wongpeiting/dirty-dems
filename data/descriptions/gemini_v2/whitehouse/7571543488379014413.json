@@ -1,0 +1,56 @@
+{
+  "video_id": "7571543488379014413",
+  "visual_action": "The video alternates between a clip of a man in a white hat (Pat McAfee) speaking into a microphone at a desk with a football on it, and a clip of a large group of men in military camouflage uniforms shouting in unison.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the caption ('President Trump'), on-screen text ('PRESIDENT TRUMP'), and spoken audio ('Mr. President...'). His voice is heard saying 'Oorah'."
+    },
+    {
+      "name": "Pat McAfee",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is the host shown on screen, and the on-screen text and caption identify the event as taking place on 'THE PAT MCAFEE SHOW'."
+    },
+    {
+      "name": "U.S. Marines",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video cuts to soldiers in uniform shouting 'Oorah', which is the battle cry of the United States Marine Corps."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PRESIDENT TRUMP DROPS AN “OORAH” ON THE PAT MCAFEE SHOW",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The host, Pat McAfee, asks Donald Trump, whom he calls 'Mr. President,' to 'drop an oorah.' Trump's voice replies, 'I will. Oorah!'. The video then cuts to a clip of Marines shouting 'Oorah!' in response, after which McAfee expresses his approval.",
+  "emojis_present": [
+    "🫡",
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists solely of spoken dialogue and the sound of a large group of men shouting 'Oorah'. There is no background music or other sound effects.",
+  "editing_pacing": "The video uses simple, quick cuts, alternating between a clip from a talk show and a responsive clip of soldiers.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "pride",
+    "support for the military"
+  ],
+  "cultural_references": [
+    "The Pat McAfee Show"
+  ],
+  "central_claim": "Donald Trump demonstrates his support for the military by saying the Marine battle cry 'Oorah' during an appearance on The Pat McAfee Show.",
+  "intended_effect": "To create a positive and patriotic association with Donald Trump, portraying him as a strong supporter of the U.S. military.",
+  "uncertainty_flags": []
+}

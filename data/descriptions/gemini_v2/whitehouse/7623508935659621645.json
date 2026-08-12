@@ -1,0 +1,106 @@
+{
+  "video_id": "7623508935659621645",
+  "visual_action": "A woman in a pink floral jacket, identified as Karoline Leavitt, stands at the White House press briefing podium and speaks directly to the camera. Partway through, she holds up a sheet of paper with a photo of another woman and text detailing media coverage times. The video is a single, static shot, ending with the White House logo on a black screen.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, delivering the entire message from the White House podium."
+    },
+    {
+      "name": "Sheridan Gorman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is named multiple times as the victim of a murder, and the entire speech revolves around her case. Her photo is also shown on a prop."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker repeatedly criticizes \"Democrats\" and the \"Democrat Party\" for allegedly defunding agencies that protect Americans."
+    },
+    {
+      "name": "Mainstream Media",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An on-screen text overlay explicitly accuses the \"Mainstream Media\" of not covering the story, and the speaker criticizes specific news networks for their alleged lack of coverage."
+    },
+    {
+      "name": "unnamed Venezuelan immigrant",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker identifies the alleged killer as an \"illegal alien from Venezuela.\""
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named by the speaker as one of the networks providing minimal coverage of the case."
+    },
+    {
+      "name": "CBS",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named by the speaker as one of the networks providing minimal coverage of the case."
+    },
+    {
+      "name": "NBC",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named by the speaker as one of the networks providing minimal coverage of the case, specifically \"23 seconds.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Mainstream Media Won't Cover the Murder of a Young Woman by an Illegal Alien",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "[LOGO] ABC [unclear text]\n1:19\n[LOGO] CBS [unclear text]\n2:01\n[LOGO] NBC [unclear text]\n23 SECONDS",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Speaking from the White House podium, a woman discusses the murder of Sheridan Gorman in Chicago, allegedly by an \"illegal alien from Venezuela.\" She criticizes Democrats as \"despicable\" for supposedly \"defunding the department that's responsible for removing illegal aliens.\" She also condemns the media for a \"lack of coverage\" of the case, holding up a paper to show that networks like ABC, CBS, and NBC spent very little time on the story, with NBC allegedly spending only \"23 seconds.\" She frames this as happening while the Democratic party is trying to defund the agency responsible for protecting Americans.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a woman's speech. There is no background music or sound effects.",
+  "editing_pacing": "The video is presented as a single, static talking-head shot with no cuts or dynamic editing. An overlay text box appears briefly at the beginning.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Outrage",
+    "Sadness",
+    "Sympathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party and mainstream media are failing to protect Americans and are ignoring the tragic murder of a young woman by an undocumented immigrant.",
+  "intended_effect": "To incite anger at Democrats and the media, create sympathy for the victim, and foster concern about crime related to immigration.",
+  "uncertainty_flags": [
+    "The exact text on the paper held up by the speaker is partially illegible, though the network names and time figures are mostly clear."
+  ]
+}

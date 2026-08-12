@@ -1,0 +1,70 @@
+{
+  "video_id": "7636043924494175518",
+  "visual_action": "The video opens with a close-up of Bernie Sanders speaking animatedly at a podium. It then cuts to a composite image showing a shirtless man, identified by text as Graham Platner, in an indoor setting. An arrow points from an inset box to a tattoo on the man's chest. The inset box displays a skull-and-crossbones image labeled 'Hate on Display / Totenkopf' and 'Neo-Nazi Symbols'. The video is watermarked 'CROOKED'.",
+  "cast": [
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears on screen at the beginning of the video, speaking at a podium. He is identified by face recognition."
+    },
+    {
+      "name": "Graham Platner",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in a large text overlay ('GRAHAM PLATNER') and is the subject of the video, which focuses on his tattoo. Bernie Sanders also says his name at the beginning."
+    },
+    {
+      "name": "Crooked Media",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The word 'CROOKED' appears as a watermark in the top right corner of the clip featuring Graham Platner."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FIGHT OLIGARCHY",
+      "role": "other"
+    },
+    {
+      "text": "CROOKED",
+      "role": "overlay"
+    },
+    {
+      "text": "Hate on Display / Totenkopf\nNeo-Nazi Symbols",
+      "role": "overlay"
+    },
+    {
+      "text": "GRAHAM PLATNER",
+      "role": "overlay"
+    },
+    {
+      "text": "The guy with the Nazi tattoo?",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Bernie Sanders says a name, \"Graham Platner,\" which is then visually identified in the following clip.",
+  "emojis_present": [],
+  "audio_music": "The video starts with only Bernie Sanders speaking. After he says the name, a slow, somber, slide-guitar-like instrumental track begins and plays for the remainder of the video, creating a serious and damning tone. The fingerprinted track is identified as 'Coochie God (feat. LIL Rape)' by Poortray, LIL Rape.",
+  "editing_pacing": "A single, sharp cut from a talking-head shot of Bernie Sanders to a static composite image that identifies and explains the significance of Graham Platner's tattoo.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "disgust",
+    "condemnation"
+  ],
+  "cultural_references": [],
+  "central_claim": "Graham Platner, a person identified by Bernie Sanders, has a tattoo that is a recognized Neo-Nazi symbol.",
+  "intended_effect": "To discredit Graham Platner by associating him with Nazism and to provoke disgust in the viewer.",
+  "uncertainty_flags": [
+    "The text on Bernie Sanders' podium is partially obscured but appears to say 'FIGHT OLIGARCHY'.",
+    "The fingerprinted song title 'Coochie God (feat. LIL Rape)' seems tonally dissonant with the somber instrumental music heard in the video."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "video_id": "7483198602043526442",
+  "visual_action": "A man who appears to be Elon Musk dances energetically and jumps in the air on a stage with a red carpet, in front of a large crowd at what looks like a political rally. Donald Trump is standing nearby at a podium. The man walks over to Trump, and they shake hands and embrace.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown on stage and named in the on-screen text: \"Trump didn't know it yet...\""
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text (\"Elon's vice president\"), and a person who is visually manipulated to look like him is the central actor in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump didn't know it yet but he was actually going to be Elon's vice president",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only background music.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "A continuous, ethereal, and somewhat grand instrumental track ('DIM' by Yves) plays throughout the video, creating a dreamlike and ironic atmosphere for the satirical scene.",
+  "editing_pacing": "The video consists of a single, continuous clip that appears to be in slow motion.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Elon Musk's face and head appear to be digitally superimposed onto the body of a person dancing on stage with Donald Trump. This creates a fabricated and satirical scene to support the fictional on-screen text.",
+  "emotions_signaled": [
+    "mockery",
+    "amusement",
+    "absurdity"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post satirically fabricates a scenario where Elon Musk outranks Donald Trump, suggesting an absurd power reversal where Trump would serve as Musk's vice president.",
+  "intended_effect": "To cause viewers to laugh at and mock the absurd, fabricated interaction between Donald Trump and Elon Musk.",
+  "uncertainty_flags": [
+    "The exact method of visual manipulation is unclear; it appears to be a superimposed head or a deepfake, but could also be an extremely convincing look-alike, though this is less likely given the satirical context."
+  ]
+}

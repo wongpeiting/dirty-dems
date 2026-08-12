@@ -1,0 +1,47 @@
+{
+  "video_id": "7615390638892207374",
+  "visual_action": "The video presents two clips of Donald Trump speaking at a podium in front of an American flag. The first clip is labeled \"Trump 2015.\" The video then cuts to a second, more recent clip labeled \"Trump now,\" showing him speaking at a different podium, also with an American flag in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown and is speaking throughout the video. The caption reads \"President Trump is keeping his promise.\""
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump's spoken promise, which is the focus of the video, is \"I will stop Iran from getting nuclear weapons.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump 2015",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump now",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video first plays a 2015 clip of Donald Trump saying, \"I will stop Iran from getting nuclear weapons.\" It then cuts to a more recent clip where he references that earlier statement: \"On the very first day I came down the escalator in 2015, I said, quote, I will stop Iran from getting nuclear weapons. And all I'm doing is keeping my promise.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Donald Trump's speech. There is no music or other sound.",
+  "editing_pacing": "The video uses a simple cut to switch between two static talking-head clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "trust",
+    "reassurance"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is consistently fulfilling his 2015 campaign promise to prevent Iran from obtaining nuclear weapons.",
+  "intended_effect": "To persuade viewers that Donald Trump is a trustworthy leader who keeps his promises.",
+  "uncertainty_flags": []
+}

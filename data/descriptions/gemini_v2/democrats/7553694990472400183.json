@@ -1,0 +1,84 @@
+{
+  "video_id": "7553694990472400183",
+  "visual_action": "Donald Trump is shown at a rally, standing at a podium in front of a crowd. He sways slightly from side to side, seemingly to the music. The crowd behind him holds signs, some of which say \"MAKE AMERICA GREAT AGAIN\" and \"TRUMP 2020\". A list of text points is overlaid on the center of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is clearly visible throughout the video, and the on-screen text is entirely about him."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears at the end of the list of things the on-screen text claims Trump loves."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "unfortunately Trump loves:",
+      "role": "overlay"
+    },
+    {
+      "text": "-kicking millions off health care",
+      "role": "overlay"
+    },
+    {
+      "text": "-committing crimes",
+      "role": "overlay"
+    },
+    {
+      "text": "-three-putting",
+      "role": "overlay"
+    },
+    {
+      "text": "-violating the first amendment",
+      "role": "overlay"
+    },
+    {
+      "text": "-lying",
+      "role": "overlay"
+    },
+    {
+      "text": "-making billions off scam crypto",
+      "role": "overlay"
+    },
+    {
+      "text": "-ignoring science",
+      "role": "overlay"
+    },
+    {
+      "text": "-taking away food from kids",
+      "role": "overlay"
+    },
+    {
+      "text": "- Jeffrey Epstein",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from the song \"Rocky Mountain Way\" by Joe Walsh, including lines like \"Spent the last year rockin' my own way\" and \"couldn't get much higher.\"",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The video features the classic rock song \"Rocky Mountain Way\" by Joe Walsh playing throughout. The upbeat, driving track creates an ironic contrast with the list of negative accusations against Donald Trump shown on screen.",
+  "editing_pacing": "The video consists of a single, continuous shot with no cuts or camera movement, functioning as a static background for the text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval",
+    "condemnation"
+  ],
+  "cultural_references": [
+    "Joe Walsh",
+    "Rocky Mountain Way"
+  ],
+  "central_claim": "Donald Trump is associated with and enjoys a variety of negative things, including harmful policies, criminal behavior, and a connection to Jeffrey Epstein.",
+  "intended_effect": "To generate disapproval and ridicule towards Donald Trump by pairing a long list of his alleged wrongdoings with a video of him dancing.",
+  "uncertainty_flags": []
+}

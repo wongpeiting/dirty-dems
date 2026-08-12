@@ -1,0 +1,90 @@
+{
+  "video_id": "7105457126188879146",
+  "visual_action": "A montage of clips comparing the economic plans of the Democratic and Republican parties. The first half features various shots of Joe Biden smiling and walking, presented alongside text overlays of Democratic policy goals. The second half features clips of Rick Scott speaking at a podium and sitting at a hearing, with text overlays describing Republican policy goals.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Joe Biden is shown in multiple smiling clips at the beginning of the video, representing the Democratic party's plans."
+    },
+    {
+      "name": "Rick Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Rick Scott is shown in several clips in the second half of the video, representing the Republican party's plans."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video opens with the on-screen text 'Democrats plan to...'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The second half of the video begins with the on-screen text 'While Republicans plan to...'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats plan to...",
+      "role": "overlay"
+    },
+    {
+      "text": "Lower costs for working families",
+      "role": "overlay"
+    },
+    {
+      "text": "Ensure billionaires and large corporations pay their fair share in taxes",
+      "role": "overlay"
+    },
+    {
+      "text": "Reduce the deficit",
+      "role": "overlay"
+    },
+    {
+      "text": "While Republicans plan to...",
+      "role": "overlay"
+    },
+    {
+      "text": "Raise taxes on working families",
+      "role": "overlay"
+    },
+    {
+      "text": "Raise taxes on seniors",
+      "role": "overlay"
+    },
+    {
+      "text": "Sunset Social Security and Medicare in 5 years",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of music and sound effects.",
+  "emojis_present": [],
+  "audio_music": "The video begins with an upbeat, positive instrumental track over the clips of Joe Biden. At approximately 7 seconds, as the video switches to clips of Rick Scott, the music abruptly changes to a series of high-pitched, comical, squeaking sounds, a meme audio track used for mockery.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different clips of the politicians, with text overlays appearing sequentially.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Positivity",
+    "Mockery",
+    "Ridicule"
+  ],
+  "cultural_references": [
+    "The video uses a popular meme sound effect (high-pitched, nonsensical squeaking) to mock the Republican talking points."
+  ],
+  "central_claim": "Democrats have beneficial economic plans for Americans, while Republicans have harmful and foolish plans to raise taxes and cut essential social programs.",
+  "intended_effect": "To persuade viewers to support the Democratic party by portraying its platform as positive and helpful, while framing the Republican platform as absurd and damaging.",
+  "uncertainty_flags": []
+}

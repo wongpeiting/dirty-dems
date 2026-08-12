@@ -1,0 +1,71 @@
+{
+  "video_id": "7571117638768692535",
+  "visual_action": "The video consists of two static slides. The first is a portrait of a man, identified as DNC Chair Ken Martin, with an overlaid quote. After a few seconds, it cuts to the second slide, which displays a full text statement from Ken Martin on a dark blue background.",
+  "cast": [
+    {
+      "name": "Ken Martin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name, title 'DNC Chair', and photo appear on screen. The entire post is his official statement."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The statement repeatedly mentions 'Senate Democrats' and 'Democratic leadership' in a positive light."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned by name multiple times in the on-screen text as an antagonist: 'Donald Trump has made it impossible for families to make ends meet...'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The party is explicitly blamed in the on-screen text: 'Donald Trump and the Republican Party that orchestrated this betrayal...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I am proud of the majority of Senate Democrats who opposed this vote.",
+      "role": "overlay"
+    },
+    {
+      "text": "DNC CHAIR KEN MARTIN ON THE SENATE SHUTDOWN VOTE",
+      "role": "overlay"
+    },
+    {
+      "text": "STATEMENT FROM DNC CHAIR KEN MARTIN ON SENATE SHUTDOWN VOTE",
+      "role": "overlay"
+    },
+    {
+      "text": "For seven weeks, we have stood firm and spoken with one voice: we must save health care for millions of Americans. Donald Trump has made it impossible for families to make ends meet, forcing them to choose between putting food on the table or paying their medical bills. The last thing Americans can afford is their health insurance premiums doubling overnight.\n\nLet me be crystal clear: Donald Trump and the Republican Party that orchestrated this betrayal of the American people are responsible for the men, women, and children who will suffer because they cannot get the health care they need to survive. These are the same people who rushed to vote for tax breaks for billionaires. It is clear whose side they are on.\n\nAs this vote moves to the House, I stand with Democratic leadership as they refuse to rubber stamp the full-scale Republican assault on Americans' health care and I am proud of the majority of Senate Democrats who opposed this vote.\n\nThe voters will never forget the day Trump turned his back on them so he could focus on building his gilded ballroom.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video is silent.",
+  "emojis_present": [],
+  "audio_music": "The video is silent.",
+  "editing_pacing": "The video is a simple slideshow, showing one static image for three seconds before cutting to a second static image that remains on screen for the rest of the clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Anger",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party is proudly protecting Americans' healthcare from a government shutdown caused by Donald Trump and the Republican Party, who are betraying the people in favor of billionaires.",
+  "intended_effect": "To generate anger towards Donald Trump and the Republican Party, while fostering pride and solidarity with the Democratic Party's stance on healthcare.",
+  "uncertainty_flags": []
+}

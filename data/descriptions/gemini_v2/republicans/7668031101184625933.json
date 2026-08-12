@@ -1,0 +1,104 @@
+{
+  "video_id": "7668031101184625933",
+  "visual_action": "A male speaker in a suit stands in what appears to be a news studio, gesturing energetically at a large screen behind him. The screen displays graphics mimicking a news broadcast, showing polling data about the Democratic Party. The first graphic shows the party's net favorability declining from +1 in 2018 to -24 in 2026. The second graphic shows the percentage of voters who believe Democrats are 'too liberal' increasing over time, reaching 57% in 2026. An overlay at the top reads 'Americans agree: the Democrat Party sucks'. A Republican Party elephant logo is in the bottom right corner.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is a commentary on polling data related to the Democratic Party, with on-screen graphics titled 'DEMOCRATIC PARTY NET FAVORABILITY' and 'VOTERS SAYING DEMOCRATS ARE TOO LIBERAL'."
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "This person is the sole speaker in the video, presenting the polling data."
+    },
+    {
+      "name": "Charles Barkley",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker says, 'I want to almost get my Charles Barkley on. 'Terrible, terrible.' I can't even do a Charles Barkley.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Americans agree: the Democrat Party sucks",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATIC PARTY NET FAVORABILITY",
+      "role": "chyron"
+    },
+    {
+      "text": "2018",
+      "role": "chyron"
+    },
+    {
+      "text": "2026",
+      "role": "chyron"
+    },
+    {
+      "text": "+1 PT",
+      "role": "chyron"
+    },
+    {
+      "text": "-24 PTS",
+      "role": "chyron"
+    },
+    {
+      "text": "SOURCE: CNN EXIT POLLS, CBS/YOUGOV",
+      "role": "chyron"
+    },
+    {
+      "text": "VOTERS SAYING DEMOCRATS ARE TOO LIBERAL",
+      "role": "chyron"
+    },
+    {
+      "text": "1996",
+      "role": "chyron"
+    },
+    {
+      "text": "2013",
+      "role": "chyron"
+    },
+    {
+      "text": "42%",
+      "role": "chyron"
+    },
+    {
+      "text": "48%",
+      "role": "chyron"
+    },
+    {
+      "text": "57%",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A speaker presents polling data to argue that the Democratic Party's brand is 'terrible.' He highlights that the party's net favorability has plummeted to -24 points in 2026, comparing it to being 'down there with the Titanic.' He then shows another poll indicating that 57% of voters in 2026 believe the Democratic Party is 'too liberal,' which he claims proves the party is 'out of the mainstream.' During his commentary, he mentions and unsuccessfully tries to imitate Charles Barkley's way of saying 'terrible.'",
+  "emojis_present": [],
+  "audio_music": "The video's audio consists entirely of a single person's impassioned speech. There is no background music or other sound effects.",
+  "editing_pacing": "The video is presented as a single, static shot of a talking head in a studio. The only edit is a change in the graphic displayed on the screen behind the speaker.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The dates on the on-screen news-style graphics have been digitally altered. What appears to be a genuine news segment from a past year has been edited to change the years in the data to '2026', making the negative polling information seem current to or predictive of August 2026.",
+  "emotions_signaled": [
+    "Alarm",
+    "Mockery",
+    "Vindication"
+  ],
+  "cultural_references": [
+    "Titanic",
+    "Charles Barkley",
+    "CNN",
+    "CBS/YouGov"
+  ],
+  "central_claim": "The Democratic Party's popularity has plummeted to historically low levels because American voters increasingly view the party as too liberal and out of touch.",
+  "intended_effect": "To persuade viewers that the Democratic Party is a failing brand with extreme views that are rejected by a majority of Americans.",
+  "uncertainty_flags": []
+}

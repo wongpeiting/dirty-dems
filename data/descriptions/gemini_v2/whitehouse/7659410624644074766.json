@@ -1,0 +1,73 @@
+{
+  "video_id": "7659410624644074766",
+  "visual_action": "In what appears to be the Oval Office, Donald Trump, surrounded by a group of smiling and clapping adults and children, rings a large, golden bell. After ringing the bell several times, he smiles and turns to the audience, which continues to applaud enthusiastically for the remainder of the clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown ringing a bell, and is named in the on-screen text: \"President Trump rings the NYSE and NASDAQ opening bell...\""
+    },
+    {
+      "name": "Scott Bessent",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the background among the crowd of adults clapping."
+    },
+    {
+      "name": "NYSE",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: \"President Trump rings the NYSE and NASDAQ opening bell...\""
+    },
+    {
+      "name": "NASDAQ",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: \"President Trump rings the NYSE and NASDAQ opening bell...\""
+    },
+    {
+      "name": "Trump Accounts",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the event as a celebration for \"the official kickoff of Trump Accounts!\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump rings the NYSE and NASDAQ opening bell from the Oval Office to celebrate the official kickoff of Trump Accounts! 🔔🇺🇸",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a large bell ringing multiple times, followed by loud, sustained applause from the crowd.",
+  "emojis_present": [
+    "🔔",
+    "🇺🇸"
+  ],
+  "audio_music": "The audio is entirely diegetic, featuring the loud, metallic ringing of a large bell, followed by enthusiastic and sustained applause and cheering from a crowd. The soundscape is celebratory and triumphant.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Celebration",
+    "Triumph",
+    "Patriotism",
+    "Prosperity"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is celebrating the launch of a new initiative, \"Trump Accounts,\" with a ceremonial ringing of the stock market opening bell in the Oval Office.",
+  "intended_effect": "To generate excitement and convey a sense of presidential authority and economic significance for the launch of \"Trump Accounts.\"",
+  "uncertainty_flags": [
+    "The specific nature of \"Trump Accounts\" is not defined in the video."
+  ]
+}

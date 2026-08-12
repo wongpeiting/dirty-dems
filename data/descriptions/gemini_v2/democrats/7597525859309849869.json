@@ -1,0 +1,104 @@
+{
+  "video_id": "7597525859309849869",
+  "visual_action": "The video intercuts clips of Donald Trump speaking at a podium with a montage of other scenes. An on-screen overlay reads 'Jan 20, 2025'. The montage includes B-roll of Trump backstage and in meetings, overlaid with chyrons from news organizations like AP. It also features numerous chaotic, dark, and snowy scenes of what appear to be federal agents or police in tactical gear clashing with and detaining civilians. Another scene shows a press conference at the Department of Justice, where a woman speaks at a podium flanked by two men; this scene is overlaid with chyrons from The Guardian and then abc NEWS.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, and his speech provides the audio narration. He is shown repeatedly speaking at a podium."
+    },
+    {
+      "name": "U.S. Department of Justice",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump speaks of ending the 'unfair weaponization of the Justice Department,' and the organization is named in on-screen chyrons."
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face-ID as the woman speaking at the podium during the DOJ press conference scene."
+    },
+    {
+      "name": "Kash Patel",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face-ID as one of the men standing behind the podium during the DOJ press conference scene."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in 'The Guardian' chyron which reads 'US justice department has released less than 1% of Epstein files, filing reveals'."
+    },
+    {
+      "name": "Jerome Powell",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the 'abc NEWS' chyron which reads 'DOJ launches criminal investigation into Fed Chair Jerome Powell, he says'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Jan 20, 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "AP\nUS is working on doubling aid to Argentina to $40 billion by tapping private funding sources",
+      "role": "chyron"
+    },
+    {
+      "text": "The Guardian\nUS justice department has released less than 1% of Epstein files, filing reveals",
+      "role": "chyron"
+    },
+    {
+      "text": "abc NEWS\nDOJ launches criminal investigation into Fed Chair Jerome Powell, he says",
+      "role": "chyron"
+    },
+    {
+      "text": "POLICE FEDERAL AGENT",
+      "role": "other"
+    },
+    {
+      "text": "THE COUP",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump gives a speech promising that during his administration, he will put 'America first,' reclaim sovereignty, restore safety, and rebalance justice. He vows to end the 'vicious, violent, and unfair weaponization of the Justice Department' and create a 'proud, prosperous, and free' nation that will be 'greater, stronger, and far more exceptional than ever before.'",
+  "emojis_present": [],
+  "audio_music": "A continuous, ominous, and dramatic orchestral/electronic score plays throughout the video, creating a sense of foreboding and tension. The music is identified as 'PAF' by DJ Kremost, switching to 'Detuned Mini Bass' by HavocHarpa around 33 seconds, though the overall dark and serious mood is maintained.",
+  "editing_pacing": "The video uses a fast-paced montage style, cross-cutting between static shots of Donald Trump's speech and chaotic, action-filled scenes of law enforcement clashing with civilians, as well as other B-roll footage.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents what appear to be fabricated or decontextualized news chyrons from real organizations (AP, The Guardian, abc NEWS) overlaid on various scenes to create a misleading narrative about a hypothetical Trump administration. Additionally, some of the chaotic scenes of law enforcement clashing with civilians are watermarked 'THE COUP', indicating they are footage from a fictional film, presented here as if they are real events.",
+  "emotions_signaled": [
+    "Fear",
+    "Anxiety",
+    "Irony",
+    "Outrage"
+  ],
+  "cultural_references": [
+    "The Coup (film)",
+    "Associated Press (AP)",
+    "The Guardian",
+    "abc NEWS"
+  ],
+  "central_claim": "A second Donald Trump presidency, beginning January 20, 2025, would result in authoritarianism, chaos, and corruption, directly contradicting his patriotic campaign promises.",
+  "intended_effect": "To generate fear and opposition towards Donald Trump by portraying his potential presidency as a dystopian reality.",
+  "uncertainty_flags": [
+    "The authenticity of the news headlines presented in the chyrons is uncertain without external verification; they appear to be either fabricated or decontextualized for effect.",
+    "The exact film or media source of the footage watermarked 'THE COUP' is not definitively identified beyond the watermark itself."
+  ]
+}

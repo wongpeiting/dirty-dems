@@ -1,0 +1,54 @@
+{
+  "video_id": "7559595176302349623",
+  "visual_action": "The video first shows a screenshot of a tweet from an account named 'FactPost'. The tweet text announces that Donald Trump has failed to win the Nobel Peace Prize. Below the text are two images side-by-side: one of Donald Trump looking up, and one of a Nobel prize medal. The video then cuts to a close-up clip of a small hamster with large, sad-looking eyes, with the text 'trump rn:' overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the tweet text ('Donald Trump has failed to win...') and a photo of him is shown in the screenshot."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are displayed as the author of the on-screen tweet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost\n@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald Trump has failed to win the Nobel Peace Prize after months of desperate public campaigning.",
+      "role": "overlay"
+    },
+    {
+      "text": "trump rn:",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is accompanied only by instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, mournful, and comically sad violin piece plays throughout the entire video to mock the subject's supposed disappointment.",
+  "editing_pacing": "The video consists of a static image of a tweet, which then cuts to a single meme video clip of a hamster.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "Sad Hamster meme"
+  ],
+  "central_claim": "Donald Trump is comically sad and pathetic after failing to win the Nobel Peace Prize.",
+  "intended_effect": "To mock Donald Trump and encourage viewers to laugh at his perceived failure and disappointment.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet screenshot is uncertain; it could be from a satirical account or entirely fabricated for the meme."
+  ]
+}

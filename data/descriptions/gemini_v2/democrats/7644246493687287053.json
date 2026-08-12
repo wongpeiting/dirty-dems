@@ -1,0 +1,44 @@
+{
+  "video_id": "7644246493687287053",
+  "visual_action": "A video shows Donald Trump walking on a lawn with another man. Over this footage, two images are superimposed in succession: first, a desiccated, skeletal cartoon character in a wheelchair, and second, a moldy orange.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown walking in the background footage and is explicitly named in the on-screen text: \"Trump on his way to receive his second “annual” checkup...\"."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unidentified man in a suit is shown walking alongside Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump on his way to receive his second “annual” checkup in 7 months (he’s old and decaying)",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a male vocalist singing lyrics from the country song 'Summertime' by Kenny Chesney.",
+  "emojis_present": [],
+  "audio_music": "An upbeat country song, identified as 'Summertime' by Kenny Chesney, plays throughout the video. The cheerful tone of the music provides an ironic contrast to the video's content mocking someone's age and health.",
+  "editing_pacing": "A single continuous shot serves as the background, with meme images superimposed over it in a slideshow style, changing once during the short clip.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Meme images are superimposed over a video of Donald Trump. First, a desiccated character from SpongeBob SquarePants, and second, a moldy orange, are placed over the footage to mock Trump by visually associating him with decay.",
+  "emotions_signaled": [
+    "mockery",
+    "derision"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants (desiccated fish character meme)"
+  ],
+  "central_claim": "Donald Trump is old and in declining health, as suggested by his need for frequent medical checkups and visual metaphors for decay.",
+  "intended_effect": "To mock Donald Trump and portray him as old, unhealthy, and unfit for office.",
+  "uncertainty_flags": []
+}

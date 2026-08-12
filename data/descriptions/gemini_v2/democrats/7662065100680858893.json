@@ -1,0 +1,116 @@
+{
+  "video_id": "7662065100680858893",
+  "visual_action": "The video starts with a man in a business suit with his head down on a messy office desk, appearing exhausted. It then transitions to a slideshow of still images featuring Donald Trump, Peter Thiel speaking, the ChatGPT app icon on a phone, Elon Musk, JD Vance, and finally a group photo showing Jeff Bezos, Sundar Pichai, and Elon Musk.",
+  "cast": [
+    {
+      "name": "Sean Duffy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID as the man with his head on the desk at the start of the video, though his face is mostly obscured."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still portrait of him is shown in the slideshow."
+    },
+    {
+      "name": "Peter Thiel",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photo of him speaking is shown in the slideshow."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still portrait of him is shown, and he appears again in a group photo."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still portrait of him is shown in the slideshow."
+    },
+    {
+      "name": "Jeff Bezos",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He appears in a group photo at the end of the slideshow."
+    },
+    {
+      "name": "Sundar Pichai",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He appears in a group photo at the end of the slideshow."
+    },
+    {
+      "name": "Palantir Technologies",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'Palantir' is visible on the wall behind Peter Thiel."
+    },
+    {
+      "name": "OpenAI",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'ChatGPT' app icon is shown, which is a product of OpenAI."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "when you're having a bad day and can't afford groceries, remember who you're doing it all for...❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "Palantir",
+      "role": "other"
+    },
+    {
+      "text": "ChatGPT",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only a music track plays.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The song 'Iris' by The Goo Goo Dolls, an emotional rock ballad, plays throughout the video. The poignant music creates a sarcastic and ironic contrast with the political critique of the wealthy figures shown.",
+  "editing_pacing": "The video consists of a short opening clip followed by a slideshow of still images with simple, evenly-paced cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sympathy",
+    "frustration",
+    "anger",
+    "resentment",
+    "irony"
+  ],
+  "cultural_references": [
+    "The song 'Iris' by The Goo Goo Dolls.",
+    "The meme format 'when [struggle], remember who you're doing it all for...'"
+  ],
+  "central_claim": "The economic hardships of working Americans directly enrich a specific group of ultra-wealthy tech billionaires and their political allies like Donald Trump and JD Vance.",
+  "intended_effect": "To generate resentment towards the wealthy individuals shown and persuade viewers that they are the cause of economic struggles for ordinary people.",
+  "uncertainty_flags": [
+    "The identity of the man shown exhausted at his desk at the beginning is uncertain; although authoritative face-ID suggests it is Sean Duffy, his face is not clearly visible."
+  ]
+}

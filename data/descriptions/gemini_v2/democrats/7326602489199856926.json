@@ -1,0 +1,90 @@
+{
+  "video_id": "7326602489199856926",
+  "visual_action": "Joe Biden sits at a desk in a formal room, speaking directly to the camera. He is wearing a dark suit and a red and blue striped tie. A framed portrait is visible on the wall behind him.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person on screen and is delivering the entire message."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Biden explicitly names him, saying, \"I'm still the only person to ever beat Donald Trump.\""
+    },
+    {
+      "name": "Republican Party candidates",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Biden refers to \"all of these Republican candidates in the primary.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "You know",
+      "role": "caption"
+    },
+    {
+      "text": "it's kind of funny —",
+      "role": "caption"
+    },
+    {
+      "text": "all of these Republican",
+      "role": "caption"
+    },
+    {
+      "text": "candidates",
+      "role": "caption"
+    },
+    {
+      "text": "in the primary trying to beat",
+      "role": "caption"
+    },
+    {
+      "text": "Donald Trump,",
+      "role": "caption"
+    },
+    {
+      "text": "and I'm still the only person",
+      "role": "caption"
+    },
+    {
+      "text": "to ever beat Donald Trump —",
+      "role": "caption"
+    },
+    {
+      "text": "and I'm looking forward to do",
+      "role": "caption"
+    },
+    {
+      "text": "it again,",
+      "role": "caption"
+    },
+    {
+      "text": "for the good of this country.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Joe Biden remarks that it's \"kind of funny\" watching Republican primary candidates try to beat Donald Trump, before stating, \"I'm still the only person to ever beat Donald Trump — and I'm looking forward to do it again, for the good of this country.\"",
+  "emojis_present": [],
+  "audio_music": "The video consists solely of Joe Biden's spoken voice. There is no music or other audio.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "confidence",
+    "determination"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden is the only person who has proven he can defeat Donald Trump, and he is ready to do it again.",
+  "intended_effect": "To project confidence and portray Biden as the strongest and only viable candidate to defeat Donald Trump.",
+  "uncertainty_flags": []
+}

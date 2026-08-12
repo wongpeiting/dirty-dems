@@ -1,0 +1,62 @@
+{
+  "video_id": "7622061785251613965",
+  "visual_action": "The video starts with a screen recording of a smartphone home screen, showing an app icon for 'THE WHITE HOUSE'. It then transitions to a screen recording of the mobile game 'Talking Ben'. The character, a dog named Ben, sits in a chair. A phone rings, he picks it up, says 'Ben?', hangs up, and laughs. This sequence repeats.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video displays an app icon labeled 'THE WHITE HOUSE' and overlay text reads 'LIVE LOOK AT THE NEW WHITE HOUSE APP 👀'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "other"
+    },
+    {
+      "text": "White House",
+      "role": "other"
+    },
+    {
+      "text": "LIVE LOOK AT THE NEW WHITE HOUSE APP 👀",
+      "role": "overlay"
+    },
+    {
+      "text": "TALKING BEN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of sound effects from the 'Talking Ben' mobile game. A phone rings, and a gruff, cartoonish voice answers by saying its own name, 'Ben?', then immediately hangs up and lets out a gruff laugh, 'Ho ho ho'. This repeats.",
+  "emojis_present": [
+    "👀",
+    "😭"
+  ],
+  "audio_music": "The audio consists entirely of sound effects and character voice lines from the 'Talking Ben' mobile game. There is a telephone ringing sound, followed by the character's voice and laughter. The effect is comedic and mocking.",
+  "editing_pacing": "The video uses a simple cut from a static shot of a phone's home screen to a mostly static screen recording of a mobile game, where only the character has minor animations.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "frustration"
+  ],
+  "cultural_references": [
+    "Talking Ben the Dog (mobile game and meme)"
+  ],
+  "central_claim": "The White House is unresponsive and not addressing serious issues like gas prices, which is presented as being comically incompetent.",
+  "intended_effect": "To mock the White House as being silly and ineffective, and to foster frustration with their perceived priorities.",
+  "uncertainty_flags": [
+    "The provided music fingerprint does not seem to match the audible content, which is clearly audio from the 'Talking Ben' mobile game.",
+    "The provided transcript is slightly inaccurate ('BANG!' instead of 'Ben?'); the spoken summary has been reconciled with the audible audio."
+  ]
+}

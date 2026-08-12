@@ -1,0 +1,67 @@
+{
+  "video_id": "7406094706955783454",
+  "visual_action": "A woman with blonde hair in a ponytail, wearing a black blazer over a leopard-print shirt, dances excitedly in front of a large, blue-lit stage. The stage has a large screen with the logo \"DNC 2024\" on it. She smiles, raises her arms in the air, and spins around, appearing very happy and energetic.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, \"Kamala Harris speaks tonight 😅😅\"."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is the woman dancing on screen for the duration of the video."
+    },
+    {
+      "name": "Democratic National Convention",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo \"DNC 2024\" is prominently displayed on the stage's screen behind the woman."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the official @democrats account and is set at the Democratic National Convention."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kamala Harris speaks tonight 😅😅",
+      "role": "overlay"
+    },
+    {
+      "text": "DNC 2024",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A woman's voice shouts excitedly, \"It's time!\" followed by a high-pitched, celebratory scream.",
+  "emojis_present": [
+    "😅"
+  ],
+  "audio_music": "The video begins with a popular meme audio clip of a woman shouting \"It's time!\" followed by a scream. Immediately after, an upbeat, high-energy electronic dance track ('Seek' by Mashatup) begins and plays for the rest of the video, creating a celebratory and hype-filled atmosphere.",
+  "editing_pacing": "The video is a single, static shot focused on the woman dancing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "celebration",
+    "anticipation"
+  ],
+  "cultural_references": [
+    "The audio uses the viral \"It's time!\" sound clip, a popular meme on TikTok used to build hype and announce an anticipated event."
+  ],
+  "central_claim": "Kamala Harris is speaking at the Democratic National Convention tonight, and it is an exciting event to look forward to.",
+  "intended_effect": "To generate excitement and encourage viewers to watch Kamala Harris's DNC speech.",
+  "uncertainty_flags": []
+}

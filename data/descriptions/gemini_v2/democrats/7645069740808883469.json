@@ -1,0 +1,55 @@
+{
+  "video_id": "7645069740808883469",
+  "visual_action": "A two-panel static slideshow. The top panel shows a photo of a woman with blonde hair and glasses. The bottom panel shows a photo of Donald Trump in a suit, pointing his finger directly at the camera. Text is overlaid between the two images.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photograph of him is shown, and the on-screen text mentions \"trump's justice department\" and \"the woman who accused trump\"."
+    },
+    {
+      "name": "The woman who accused Trump of sexual abuse",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photograph of a woman, presumably the accuser, is shown, and the on-screen text describes her as \"the woman who accused trump of sexual abuse.\""
+    },
+    {
+      "name": "Trump's Justice Department",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, \"trump's justice department is opening an investigation...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump's justice department is opening an investigation into the woman who accused trump of sexual abuse.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "The song 'Praying' by Kesha plays throughout the video. The song's themes of overcoming abuse add a dramatic and emotionally charged layer to the video's content.",
+  "editing_pacing": "Slideshow of two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "injustice",
+    "sympathy"
+  ],
+  "cultural_references": [
+    "The song 'Praying' by Kesha, which is widely associated with her own legal battle against an alleged abuser."
+  ],
+  "central_claim": "Donald Trump's Justice Department is investigating the woman who accused him of sexual abuse, implying a retaliatory abuse of power.",
+  "intended_effect": "To generate outrage at Donald Trump and his administration for what is portrayed as a vindictive use of government power against a private citizen.",
+  "uncertainty_flags": [
+    "The provided face-ID context stated 'none detected,' but Donald Trump is clearly visible on screen."
+  ]
+}

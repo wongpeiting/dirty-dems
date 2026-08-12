@@ -1,0 +1,89 @@
+{
+  "video_id": "7644220207107427598",
+  "visual_action": "The video starts with Donald Trump speaking at a podium with the presidential seal. The image then distorts with a bulge effect focused on his mouth, with stylized text appearing over it. It then cuts to a screenshot of the official White House TikTok profile page, which shows it has 6.7 million followers. This is followed by a quick montage of clips showing Donald Trump looking serious and determined in various settings: sitting at a table, in profile with dramatic lighting, and finally saluting outdoors while wearing a large coat.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking and in a montage of clips throughout the video, and his voice is used for the audio track."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The official TikTok profile for 'The White House' is shown on screen, highlighting its follower count."
+    },
+    {
+      "name": "Robert F Kennedy Jr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is briefly visible sitting next to Donald Trump in one of the montage clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "6.7M Followers",
+      "role": "overlay"
+    },
+    {
+      "text": "The WHITE HOUSE WASHINGTON",
+      "role": "other"
+    },
+    {
+      "text": "The White House",
+      "role": "other"
+    },
+    {
+      "text": "@whitehouse",
+      "role": "other"
+    },
+    {
+      "text": "3 Following",
+      "role": "other"
+    },
+    {
+      "text": "6.7M Followers",
+      "role": "other"
+    },
+    {
+      "text": "134.7M Likes",
+      "role": "other"
+    },
+    {
+      "text": "Message",
+      "role": "other"
+    },
+    {
+      "text": "Welcome to the Golden Age of America",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump's voice says \"six-seven,\" which is then sampled and repeated rhythmically as part of an electronic music track.",
+  "emojis_present": [],
+  "audio_music": "The audio features a sample of Donald Trump saying \"six-seven\" which is remixed into a high-energy, celebratory electronic dance track with a heavy beat (identified as \"67 — DJ R4\"). The effect is a hype track built around the number of followers.",
+  "editing_pacing": "The video uses fast cuts, a visual warp/bulge effect, and a quick montage style.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A warp/bulge visual effect is applied to Donald Trump's face, and stylized text reading '6.7M Followers' is superimposed over the distorted image. This is a stylistic edit to connect his words to the follower count, not a deepfake or misinformation.",
+  "emotions_signaled": [
+    "pride",
+    "hype",
+    "strength",
+    "celebration"
+  ],
+  "cultural_references": [
+    "The video uses a popular TikTok editing style where a soundbite from a person is remixed into a hype song accompanied by a montage.",
+    "The song '67 — DJ R4' is used."
+  ],
+  "central_claim": "The White House reaching 6.7 million followers on TikTok is a sign of President Trump's immense popularity and the success of his administration.",
+  "intended_effect": "To generate excitement and pride among supporters by framing a social media metric as evidence of political success and strength.",
+  "uncertainty_flags": [
+    "While the face-ID context identified Robert F Kennedy Jr, the person shown is only briefly visible and not in clear focus, making the identification difficult to confirm visually with 100% certainty."
+  ]
+}

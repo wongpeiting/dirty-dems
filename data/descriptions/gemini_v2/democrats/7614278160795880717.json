@@ -1,0 +1,54 @@
+{
+  "video_id": "7614278160795880717",
+  "visual_action": "The video shows the chaotic aftermath of an apparent attack on a multi-story building, from which smoke is rising. A crowd of civilians is gathered amidst rubble on the street below. People appear distressed, crying and comforting each other.",
+  "cast": [
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The superimposed news headline reads: 'Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The superimposed news headline refers to an 'Iran school strike'."
+    },
+    {
+      "name": "Reuters",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'REUTERS' is displayed at the top of the superimposed news article screenshot, impersonating the news agency."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "REUTERS\nExclusive: US investigation points to likely US responsibility in Iran school strike, sources say\nBy Phil Stewart and Idrees Ali\nMarch 5, 2026 9.02 PM EST · Updated 53 mins ago",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of the diegetic sounds of a chaotic and distressing scene, including people screaming, crying, and wailing. The provided transcript notes cries of 'No! No! No!'.",
+  "emojis_present": [],
+  "audio_music": "There is no music. The audio is composed entirely of sounds from the scene, dominated by human cries of grief and distress.",
+  "editing_pacing": "The video is presented as a single, continuous, shaky handheld shot that pans across the scene.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A fabricated screenshot of a Reuters news article is superimposed over the video. The headline, 'Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say,' is a staged fake document designed to attribute a war crime to the United States by impersonating a legitimate news source.",
+  "emotions_signaled": [
+    "horror",
+    "outrage",
+    "sadness",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "The United States is likely responsible for a deadly school strike in Iran, according to a Reuters report.",
+  "intended_effect": "To generate anger and outrage toward the United States by presenting fabricated evidence of a horrific act.",
+  "uncertainty_flags": [
+    "The origin, location, and date of the underlying video footage are unknown."
+  ]
+}

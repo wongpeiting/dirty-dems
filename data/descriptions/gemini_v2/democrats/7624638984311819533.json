@@ -1,0 +1,64 @@
+{
+  "video_id": "7624638984311819533",
+  "visual_action": "Donald Trump speaks from a podium with the presidential seal. The video is a supercut of him speaking, followed by a title card with the word 'before' on a grey, textured background. The final shot is a black screen with the Apple TV+ logo and the text 'STREAMING IN MAYBE 2 WEEKS'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown, and his speech is the entire audio for the first half of the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video was posted by the official '@democrats' account, making them the creator of the message about Trump."
+    },
+    {
+      "name": "Apple TV+",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Apple TV+ logo and branding are used in a parody title card at the end of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "this show sucks",
+      "role": "caption"
+    },
+    {
+      "text": "before",
+      "role": "overlay"
+    },
+    {
+      "text": "tv+",
+      "role": "overlay"
+    },
+    {
+      "text": "STREAMING IN MAYBE 2 WEEKS",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video is a supercut of Donald Trump repeatedly making grandiose promises using the phrase 'never before.' He says things like 'roaring back like never before,' 'victories like few people have ever seen before,' and 'winning bigger than ever before.'",
+  "emojis_present": [],
+  "audio_music": "The video begins with only Donald Trump's voice. At the 14-second mark, a deep, cinematic percussive sound hits, followed by a low, ominous, droning synthesizer note that continues until the end, creating the feel of a dramatic movie trailer.",
+  "editing_pacing": "The video is a supercut of short, repetitive clips of one person speaking, followed by two static title cards.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video edits an Apple TV+ streaming service announcement screen to read 'STREAMING IN MAYBE 2 WEEKS'. This, along with added title cards and sound effects, manipulates the original footage of Trump to create a parody trailer for a fictional, undesirable TV show.",
+  "emotions_signaled": [
+    "mockery",
+    "dread"
+  ],
+  "cultural_references": [
+    "Apple TV+"
+  ],
+  "central_claim": "Donald Trump's repetitive and grandiose promises are empty rhetoric, comparable to a boring and ominous television show.",
+  "intended_effect": "To make the viewer mock Donald Trump and perceive his promises as tiresome and meaningless.",
+  "uncertainty_flags": []
+}

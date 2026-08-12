@@ -1,0 +1,47 @@
+{
+  "video_id": "7099568815461158186",
+  "visual_action": "A static shot shows Rick Scott, who has a bruise under his right eye, speaking into a microphone while sitting at a table. He holds up a pamphlet or booklet and shows it to the audience.",
+  "cast": [
+    {
+      "name": "Rick Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and is confirmed by face ID."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text begins with 'Republicans claim...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans claim to be a party “for the American people”",
+      "role": "overlay"
+    },
+    {
+      "text": "but their plan is to raise taxes on the middle class",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, somber instrumental piece plays throughout the clip, creating a serious and critical tone.",
+  "editing_pacing": "The video consists of a single, static shot with text overlays appearing sequentially.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Distrust",
+    "Concern",
+    "Skepticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican Party falsely claims to be for the American people while actually planning to raise taxes on the middle class.",
+  "intended_effect": "To persuade the viewer that the Republican Party is deceptive and their economic policies are harmful to middle-class Americans.",
+  "uncertainty_flags": []
+}

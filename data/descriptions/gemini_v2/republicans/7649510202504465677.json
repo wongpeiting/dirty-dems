@@ -1,0 +1,70 @@
+{
+  "video_id": "7649510202504465677",
+  "visual_action": "A clip from a news show, 'The Scott Jennings Show', where host Scott Jennings speaks from behind a podium with an American flag in the background. The video then cuts to a clip of James Talarico speaking at a different podium with an American flag. It cuts back to Jennings, and then to a second clip of Talarico, this time in a different setting that looks like a podcast or interview. Large text overlays and news-style chyrons are present throughout. A watermark for the Republican party elephant logo is visible in the bottom right corner.",
+  "cast": [
+    {
+      "name": "Scott Jennings",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking and identified by a chyron that reads 'SCOTT JENNINGS SALEM NEWS CHANNEL HOST'."
+    },
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central subject of the video, shown in two separate clips and named in audio, on-screen text, and the caption."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @republicans account and features a Republican elephant logo watermark in the bottom corner."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“Talarico introduced a bill in the state legislature to eliminate the oil and gas industry in Texas ... But now, the rebrand is here!”",
+      "role": "overlay"
+    },
+    {
+      "text": "SCOTT JENNINGS SALEM NEWS CHANNEL HOST",
+      "role": "chyron"
+    },
+    {
+      "text": "THE SCOTT JENNINGS SHOW",
+      "role": "overlay"
+    },
+    {
+      "text": "@NRSC TALARICO THEN: SUPPORTING TX OIL & GAS IS UN-CHRISTIAN",
+      "role": "chyron"
+    },
+    {
+      "text": "RNC Research",
+      "role": "overlay"
+    },
+    {
+      "text": "TALARICO NOW: “WE HAVE TO PROTECT GOOD PAYING OIL & GAS JOBS”",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "News host Scott Jennings claims that James Talarico introduced a bill to eliminate the oil and gas industry in Texas. The video then plays a clip of Talarico stating, \"You can't call yourself a Christian and destroy God's creation with greenhouse gases.\" Jennings comments that this position is a political problem for someone running for Senate in Texas. He then introduces Talarico's \"rebrand\" by playing a second, more recent-looking clip where Talarico says, \"We have to protect good paying oil and gas jobs\" and expresses how much he and Texas schools owe to the industry.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue without any background music or sound effects.",
+  "editing_pacing": "The video consists of a series of talking-head clips from different sources, assembled with simple cuts to create a contrast between a politician's past and present statements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "James Talarico is a hypocrite who has completely reversed his position on the oil and gas industry for political gain in his Texas Senate race.",
+  "intended_effect": "To persuade the viewer that James Talarico is untrustworthy and has abandoned his principles.",
+  "uncertainty_flags": []
+}

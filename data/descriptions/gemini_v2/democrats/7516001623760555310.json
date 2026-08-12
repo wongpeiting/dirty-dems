@@ -1,0 +1,98 @@
+{
+  "video_id": "7516001623760555310",
+  "visual_action": "In a clip from an MSNBC news broadcast, DNC Chair Ken Martin speaks emotionally from a remote location with the US Capitol dome in the background. He is on a split screen with a female news anchor. The broadcast includes various news chyrons about a targeted shooting of Minnesota lawmakers. The entire news clip is framed by a black background with a caption at the top and a speed instruction at the bottom.",
+  "cast": [
+    {
+      "name": "Ken Martin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "An on-screen chyron identifies him as 'KEN MARTIN DNC CHAIR'."
+    },
+    {
+      "name": "Minnesota Lawmakers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A news chyron reads 'TWO MN LAWMAKERS & SPOUSES VICTIMS OF TARGETED SHOOTING', and Martin discusses his friends in the 'Minnesota legislature'."
+    },
+    {
+      "name": "Jen",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Ken Martin addresses the news anchor on the split-screen as 'Jen,' saying 'You're absolutely right, Jen.'"
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The MSNBC logo and broadcast graphics are visible throughout the clip."
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Ken Martin is identified with the title 'DNC CHAIR' in an on-screen chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Wow. DNC Chair Martin's powerful response to the tragedy in Minnesota:",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S JUST SO TRAGIC HERE RIGHT NOW IN THIS DAY AND AGE, BECAUSE WE DO SEE THE EXTREMISM ON THE FAR RIGHT AND WE SEE THIS VIOLENT RHETORIC COMING FROM ALL CORNERS RIGHT NOW THAT WE CAN'T. THAT LEGISLATORS CAN'T DO THEIR JOBS WITHOUT FEARING FOR THEIR OWN LIVES, FOR GOD'S SAKE. IS THAT REALLY WHERE WE'RE AT RIGHT NOW? WE ARE AT THAT POINT. YOU'RE ABSOLUTELY RIGHT, JEN. MAKE NO MISTAKE ABOUT IT. THIS IS WHO WE'VE BECOME. BUT I WANT AMERICANS TO KNOW AND EVERY ONE OF YOUR LISTENERS, THIS IS NOT WHO WE NEED TO BE. AND THAT REQUIRES ALL OF US IN THIS MOMENT TO STAND UP AND SPEAK LOUDLY AGAINST THIS TYPE OF VIOLENCE. TWO PEOPLE. LET'S CENTER HUMANITY IN THIS CONVERSATION FOR A MOMENT. TWO OF MY FRIENDS, TWO OF MY CLOSE, CLOSE FRIENDS WERE MURDERED. MURDERED TODAY. TWO OF MY OTHER FRIENDS WERE ATTEMPTED. THEY ATTEMPTED TO MURDER THEM. AND IF IT WASN'T FOR LAWMAKERS DOING THEIR JOBS IN MINNESOTA, I DON'T KNOW HOW MANY MORE COUNTLESS FRIENDS OF MINE IN THE MINNESOTA LEGISLATURE WOULD HAVE BEEN TARGETED TODAY. THIS IS WRONG. WE HAVE TO CALL IT OUT FOR WHAT IT IS. AND YOU KNOW WHAT? THERE IS NO DOUBT THAT HAS BEEN FOMENTED BY THE FAR RIGHT IN THIS COUNTRY AND EXTREMISM AND VIOLENT RHETORIC THAT EXISTS IN THE FAR REACHES OF THE INTERNET THAT WE HAVE ALLOWED TO SEEP INTO THIS COUNTRY. IT'S NOW COMMONPLACE TO JUST GO OUT AND ASSASSINATE PEOPLE THAT YOU DISAGREE WITH? WELL, THAT'S BULLSHIT. AND I'M JUST TELLING YOU RIGHT NOW, NONE OF THIS SHOULD HAPPEN IN THIS COUNTRY. LET'S SOLVE OUR DIFFERENCES THROUGH THE BALLOT BOX. LET'S SOLVE OUR DIFFERENCES BY FINDING COMMON GROUND. NO ONE SHOULD BE GOING OUT THERE AND ASSASSINATING PEOPLE THEY DISAGREE WITH.",
+      "role": "overlay"
+    },
+    {
+      "text": "Hold here for 2x speed >>>",
+      "role": "overlay"
+    },
+    {
+      "text": "> BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TWO MN LAWMAKERS & SPOUSES VICTIMS OF TARGETED SHOOTING",
+      "role": "chyron"
+    },
+    {
+      "text": "MN LAWMAKER AND HUSBAND SHOT DEAD AT THEIR HOME",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNBC LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "KEN MARTIN DNC CHAIR",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "DNC Chair Ken Martin emotionally responds to a targeted shooting of lawmakers in Minnesota, revealing that two of his close friends were murdered. He condemns the rise of far-right extremism and violent rhetoric, which he says makes it impossible for legislators to do their jobs without fearing for their lives. Martin passionately calls on Americans to stand up against such violence, stating, \"it's bullshit\" that assassinating political opponents is becoming commonplace, and urges people to solve differences \"through the ballot box.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the news broadcast clip, with no added music or sound effects.",
+  "editing_pacing": "The video is a single, uncut clip of a talking-head news interview shown in a split-screen format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Sorrow",
+    "Outrage",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Violent rhetoric from the far-right has led to the murder of lawmakers, and this political violence is an existential threat that must be countered by democratic processes.",
+  "intended_effect": "To evoke shock and anger at the deadly consequences of political extremism and to mobilize viewers against political violence.",
+  "uncertainty_flags": [
+    "The identity of the MSNBC anchor, 'Jen,' is only known from a single first-name mention in the audio."
+  ]
+}

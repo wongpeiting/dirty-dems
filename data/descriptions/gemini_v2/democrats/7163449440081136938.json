@@ -1,0 +1,77 @@
+{
+  "video_id": "7163449440081136938",
+  "visual_action": "Pete Buttigieg stands in front of a blue background with a partial US flag visible, speaking directly to the camera in a static, medium close-up shot.",
+  "cast": [
+    {
+      "name": "Pete Buttigieg",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and delivers the entire spoken message."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the line: \"President Biden and Democrats are working hard to lower costs...\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned multiple times, including \"President Biden and Democrats are working hard...\" and \"elect and reelect Democrats.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pete Buttigieg's reminder for you to vote on November 8th 🗳️✨",
+      "role": "overlay"
+    },
+    {
+      "text": "This election is going to be one of the most important in our lifetimes.",
+      "role": "caption"
+    },
+    {
+      "text": "President Biden and Democrats are working hard to lower costs and deliver for the American people.",
+      "role": "caption"
+    },
+    {
+      "text": "And we have to elect and reelect Democrats up and down the ballot to keep moving forward.",
+      "role": "caption"
+    },
+    {
+      "text": "There's too much at stake to sit this one out.",
+      "role": "caption"
+    },
+    {
+      "text": "You have the power to elect Democrats up and down the ballot.",
+      "role": "caption"
+    },
+    {
+      "text": "Please make sure you're registered to vote today.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Pete Buttigieg delivers a direct-to-camera message, calling the election on November 8th \"one of the most important in our lifetimes.\" He states that President Biden and the Democrats are working to lower costs for Americans. Buttigieg urges viewers to vote for Democrats \"up and down the ballot\" to \"keep moving forward,\" emphasizing that there is \"too much at stake to sit this one out.\" He concludes by reminding people to ensure they are registered to vote.",
+  "emojis_present": [
+    "🗳️",
+    "✨"
+  ],
+  "audio_music": "The video consists of clear, spoken dialogue from a single person with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a person speaking directly to the camera (a talking-head format).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "It is critically important to vote for Democratic candidates on November 8th because they are working to improve the country under President Biden's leadership.",
+  "intended_effect": "To create a sense of urgency and persuade viewers to register and vote for Democratic candidates in the upcoming election.",
+  "uncertainty_flags": []
+}

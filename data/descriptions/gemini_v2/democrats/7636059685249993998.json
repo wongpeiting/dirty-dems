@@ -1,0 +1,51 @@
+{
+  "video_id": "7636059685249993998",
+  "visual_action": "The video is a slideshow of two still images. The first image is of Donald Trump with his eyes closed, mouth open, and a hand to his forehead. The second image is of the Star Wars character Jabba the Hutt.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photo of Donald Trump is the first image shown in the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "spot the difference....",
+      "role": "overlay"
+    },
+    {
+      "text": "...you can't",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video.",
+  "emojis_present": [],
+  "audio_music": "A bombastic, orchestral score plays throughout the video, creating a mock-epic and satirical tone.",
+  "editing_pacing": "slideshow",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "Jabba the Hutt",
+    "Star Wars"
+  ],
+  "central_claim": "Donald Trump is visually and metaphorically comparable to the grotesque Star Wars character Jabba the Hutt.",
+  "intended_effect": "To mock Donald Trump by comparing him to an unflattering fictional character and to encourage viewers to view him negatively.",
+  "uncertainty_flags": [
+    "The specific piece of orchestral music is not identified but sounds like a film score, possibly from Star Wars."
+  ]
+}

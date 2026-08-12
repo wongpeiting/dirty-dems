@@ -1,0 +1,83 @@
+{
+  "video_id": "7619429652423118094",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named 'FactPost'. The tweet includes text and two photographs. The left photo shows a man standing in front of an airplane with 'TRUMP' on its side. The right photo shows two men, Jeffrey Epstein and Donald Trump, together. The video slowly zooms in and pans across these two photos.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is mentioned in the on-screen text as 'Trump's friend', his name 'TRUMP' is visible on an airplane, and he is shown in a photograph with Jeffrey Epstein."
+    },
+    {
+      "name": "Paolo Zampolli",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text ('Paolo Zampolli') and is the central subject of the tweet's allegations. He is also shown in a photograph."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The on-screen text references the 'Epstein Files' and he is shown in a photograph with Donald Trump, making his association a key part of the post's message."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions that 'a top ICE official' was asked to detain someone and that 'ICE did as Zampolli asked'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is a screenshot of a tweet from the account 'FactPost' (@factpostnews)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost\n@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New reports reveal Trump's friend Paolo Zampolli, who appears several times in the Epstein Files, asked a top ICE official to detain his ex-wife and mother of his kids.",
+      "role": "overlay"
+    },
+    {
+      "text": "ICE did as Zampolli asked, and she was ultimately deported.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no dialogue or speech in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, and atmospheric song (identified as Frank Ocean's 'White Ferrari') plays continuously throughout the video, setting a somber and serious tone.",
+  "editing_pacing": "The video consists of a slow zoom and pan across a static screenshot of a tweet and its embedded photos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disgust",
+    "Concern",
+    "Seriousness"
+  ],
+  "cultural_references": [
+    "The song 'White Ferrari' by Frank Ocean is used as the background music."
+  ],
+  "central_claim": "A close friend of Donald Trump, who is also linked to Jeffrey Epstein, corruptly used his influence to have U.S. Immigration and Customs Enforcement (ICE) deport his own ex-wife.",
+  "intended_effect": "To create a negative impression of Donald Trump and his associates by highlighting alleged corruption and association with controversial figures like Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The credibility and nature of the 'FactPost' account, which is the source of the claim, is not established in the video."
+  ]
+}

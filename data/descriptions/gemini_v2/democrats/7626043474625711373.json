@@ -1,0 +1,81 @@
+{
+  "video_id": "7626043474625711373",
+  "visual_action": "The video is a slideshow of still images. It begins with a photo of Benjamin Netanyahu and Donald Trump, overlaid with a screenshot of a tweet from 'FactPost'. It then cuts to a screenshot of a tweet attributed to Donald J. Trump. The video concludes with a photo of Trump and Netanyahu from behind with their arms around each other.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown in photos and is the subject of two on-screen tweets, one from 'FactPost' and one attributed to his own account."
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown in photos with Donald Trump and is named in the on-screen 'FactPost' tweet as 'urging Trump against a ceasefire in Iran'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from the account 'FactPost' (@factpostnews) is displayed on screen, making a claim about Netanyahu and Trump."
+    },
+    {
+      "name": "People of Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the displayed tweet from Donald J. Trump: 'God Bless the Great People of Iran!'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New reporting reveals that Netanyahu has been urging Trump against a ceasefire in Iran, including during a private call Sunday.",
+      "role": "overlay"
+    },
+    {
+      "text": "This comes as Trump threatens to kill a \"whole civilization.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump this morning:",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "A whole civilization will die tonight, never to be brought back again. I don't want that to happen, but it probably will. However, now that we have Complete and Total Regime Change, where different, smarter, and less radicalized minds prevail, maybe something revolutionarily wonderful can happen, WHO KNOWS? We will find out tonight, one of the most important moments in the long and complex history of the World. 47 years of extortion, corruption, and death, will finally end. God Bless the Great People of Iran!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A somber and dramatic instrumental track plays consistently throughout the video, creating a serious and ominous mood.",
+  "editing_pacing": "A slow-paced slideshow of still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "gravity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump, allegedly encouraged by Benjamin Netanyahu, is threatening to destroy a 'whole civilization' in Iran.",
+  "intended_effect": "To portray Donald Trump as a dangerous and reckless leader who is threatening catastrophic violence, thereby generating fear and opposition towards him.",
+  "uncertainty_flags": [
+    "The authenticity of the tweets from 'FactPost' and 'Donald J. Trump' shown in the video cannot be verified."
+  ]
+}

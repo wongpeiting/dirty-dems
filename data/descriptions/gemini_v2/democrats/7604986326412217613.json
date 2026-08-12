@@ -1,0 +1,62 @@
+{
+  "video_id": "7604986326412217613",
+  "visual_action": "A clip from an older television interview shows musician Kid Rock, wearing a black fedora and sunglasses, speaking. To his right, a screen on the wall briefly shows a photo of Britney Spears before switching to a photo of Mary-Kate and Ashley Olsen.",
+  "cast": [
+    {
+      "name": "Kid Rock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker for the entire clip, and the on-screen text identifies him as the subject: 'Unearthed video shows Kid Rock making predatory comments'."
+    },
+    {
+      "name": "The Olsen Twins",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Kid Rock explicitly names 'The Olsen twins' and their photo is shown on screen while he makes controversial comments about them."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WATCH: Unearthed video shows Kid Rock making predatory comments about 14-year-olds",
+      "role": "overlay"
+    },
+    {
+      "text": "THE OLSEN TWINS.",
+      "role": "caption"
+    },
+    {
+      "text": "WHY IS EVERY GUY IN AMERICA WAITING FOR THESE CHICKS TO TURN 18?",
+      "role": "caption"
+    },
+    {
+      "text": "I MEAN, YOU KNOW WHAT I SAY?",
+      "role": "caption"
+    },
+    {
+      "text": "IF THERE'S GRASS ON THE FIELD, PLAY BALL!",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Kid Rock asks why 'every guy in America' is waiting for the Olsen twins to 'turn 18,' before using a crude metaphor: 'if there's grass on the field, play ball!'",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the television interview clip, with audience laughter and applause audible after Kid Rock's final line.",
+  "editing_pacing": "The video is a single, unedited clip from a television show, presented as a static talking-head shot with added text overlays that appear sequentially with the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disgust",
+    "outrage",
+    "condemnation"
+  ],
+  "cultural_references": [
+    "Britney Spears",
+    "The idiom 'grass on the field, play ball'"
+  ],
+  "central_claim": "An old video clip shows Kid Rock making predatory and inappropriate comments about the Olsen twins when they were minors.",
+  "intended_effect": "To generate outrage and disgust towards Kid Rock, thereby damaging his reputation and discrediting him as a conservative cultural figure.",
+  "uncertainty_flags": []
+}

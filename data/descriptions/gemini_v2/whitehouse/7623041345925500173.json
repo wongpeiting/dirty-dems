@@ -1,0 +1,48 @@
+{
+  "video_id": "7623041345925500173",
+  "visual_action": "Donald Trump sits at a desk, likely the Resolute Desk in the Oval Office, speaking directly to the camera. American flags are visible in the background. The video is a static, medium shot of him from the waist up. The video ends with a black screen featuring a white line drawing of the White House and text identifying him as president.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person on screen and speaks for the entirety of the video, announcing his administration's new app. He identifies himself by name: 'your favorite president, Donald J. Trump. That's me.'"
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions him by name as a point of contrast: 'No one knew that sleepy Joe Biden was doing.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Today, I'm pleased to announce that my administration is launching a brand new official White House app, giving front row access to all news from your favorite president, Donald J. Trump. That's me. It's available today on the Apple and Android app stores. You can watch all White House events, read all my executive orders and keep track of all of our promises made, promises kept. That was a phrase that I used during the campaign, and it's very true. In fact, I actually kept more promises than I even talked about. We did much more than I said we were going to do. Every American should expect their government to have transparency, and the Trump administration is the most transparent in history. That is for sure. No one knew that sleepy Joe Biden was doing. We had no idea what that guy was doing. The good news is he had no idea either. But my administration is inviting all Americans to join us on this mission to make America great again. I believe it has to be the most important, powerful phrase in the history of politics. Make America great again. And we have made America great again. Now we want to keep it great. So download the new White House app today. Thank you very much. You have done a great job. We appreciate it. Thank you.",
+      "role": "caption"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces the launch of a new official White House app, which he says will give users \"front row access\" to his presidency. He frames the app as a tool for transparency, allowing people to track his executive orders and his record of \"promises made, promises kept.\" He calls his administration the \"most transparent in history\" and contrasts it with Joe Biden's, whom he calls \"sleepy Joe Biden,\" suggesting neither the public nor Biden himself knew what he was doing. He concludes by urging people to download the app to join the mission to \"make America great again\" and then \"keep it great.\"",
+  "emojis_present": [],
+  "audio_music": "The video consists entirely of Donald Trump's spoken words with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts, zooms, or other dynamic editing until it cuts to a final credit screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "confidence",
+    "mockery",
+    "patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration has launched a new official White House app to provide transparency and allow citizens to follow its work in making America great again.",
+  "intended_effect": "To persuade viewers to download the new White House app and to reinforce a positive view of the Trump administration's transparency and effectiveness, while denigrating the previous administration.",
+  "uncertainty_flags": []
+}

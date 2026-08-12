@@ -1,0 +1,51 @@
+{
+  "video_id": "7091386320936832299",
+  "visual_action": "A static, scenic aerial shot of the U.S. Capitol Building at dusk with a purple and pink sky. A tweet from 'The Democrats' is superimposed over the center of the image.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text says 'President Biden wants to tax the ultra-wealthy.'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text says 'Republicans want to tax working Americans.'"
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The on-screen text is a tweet from the account '@TheDemocrats'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats\n@TheDemocrats\nPresident Biden wants to tax the ultra-wealthy. Republicans want to tax working Americans.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video.",
+  "emojis_present": [],
+  "audio_music": "A continuous, looping instrumental hip-hop beat plays throughout the video, creating a modern and declarative tone.",
+  "editing_pacing": "The video is a single static shot with a text overlay; there is no editing or cutting.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "economic fairness",
+    "partisanship",
+    "righteousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden's tax policy favors working people by taxing the rich, whereas the Republican policy harms working people.",
+  "intended_effect": "To persuade viewers that the Democratic Party sides with working Americans against the wealthy, while the Republican Party does the opposite.",
+  "uncertainty_flags": []
+}

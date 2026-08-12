@@ -1,0 +1,61 @@
+{
+  "video_id": "7658320146221501710",
+  "visual_action": "The video is a montage split into two historical eras. It begins with an animation of a silhouetted figure on a horse riding through a dark, misty forest. The text 'The Founding Era' appears. This is followed by a slideshow of famous paintings depicting the American Revolutionary War and early U.S. history, including George Washington crossing the Delaware, Washington on horseback, and the signing of a document by candlelight. It also shows a map of the original 13 colonies, a painting of the Louisiana Purchase, and the painting 'American Progress' depicting westward expansion, followed by historical drawings and photos of the Washington Monument and the White House. The video then cuts to black and displays the text 'THE INDUSTRIAL ERA'. This section consists of black-and-white archival footage showing industrial machinery, a typewriter, light bulbs, a record player, a vintage car, the Wright brothers' first flight, and American soldiers marching in a parade.",
+  "cast": [
+    {
+      "name": "George Washington",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is depicted in several historical paintings that are central to 'The Founding Era' section of the video."
+    },
+    {
+      "name": "Founding Fathers",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A painting shows a group of men in period dress gathered around a table with a candle, suggesting the signing of a foundational document like the Declaration of Independence or Constitution."
+    },
+    {
+      "name": "Wright brothers",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Archival footage of the first successful airplane flight is shown during 'The Industrial Era' montage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Founding Era",
+      "role": "overlay"
+    },
+    {
+      "text": "THE INDUSTRIAL ERA",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video; it is entirely instrumental.",
+  "emojis_present": [],
+  "audio_music": "The video features two distinct musical tracks. The first section ('The Founding Era') is accompanied by a grand, patriotic orchestral piece, 'Yankee Doodle'. When the video shifts to 'The Industrial Era', the music abruptly changes to an upbeat, old-timey jazz track, 'I Ain't Got Nobody' by Louis Armstrong, creating a mood of energetic progress and innovation.",
+  "editing_pacing": "The video is a slideshow of still images (paintings and historical photos) edited with slow pans and zooms, a style often referred to as the Ken Burns effect. This is mixed with archival film footage in the second half. The overall pacing is stately and historical.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride",
+    "Nostalgia",
+    "Awe"
+  ],
+  "cultural_references": [
+    "Louis Armstrong",
+    "Yankee Doodle (song)",
+    "Washington Crossing the Delaware (painting)",
+    "American Progress (painting)"
+  ],
+  "central_claim": "The United States has a proud history, progressing from its foundational, revolutionary principles to an era of great industrial innovation.",
+  "intended_effect": "To evoke feelings of patriotism and pride in American history and progress.",
+  "uncertainty_flags": []
+}

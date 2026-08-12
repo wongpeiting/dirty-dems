@@ -1,0 +1,54 @@
+{
+  "video_id": "7468401664962137387",
+  "visual_action": "A static photograph shows Donald Trump and Paula White standing next to each other. Trump, in a suit, looks directly at the camera with a serious expression. White, in a pink dress, has her eyes closed and one hand raised in a gesture of prayer or blessing. They are in front of a blue background, likely at an event.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown prominently in the photograph and named in the on-screen text: \"Trump is creating a...\""
+    },
+    {
+      "name": "Paula White",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is shown prominently in the photograph and named in the on-screen text: \"...led by the far-right televangelist Paula White...\""
+    },
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions the creation of a \"White House Faith Office\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump is creating a \"White House Faith Office\" led by the far-right televangelist Paula White...",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only music.",
+  "emojis_present": [],
+  "audio_music": "The video features a dramatic, solemn choral track throughout, identified as 'Like a Prayer (Choir Version From “Deadpool & Wolverine”)'. The music creates a sense of gravity and foreboding.",
+  "editing_pacing": "The video consists of a single static image with a text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "foreboding"
+  ],
+  "cultural_references": [
+    "Like a Prayer (song by Madonna)",
+    "Deadpool & Wolverine (film)"
+  ],
+  "central_claim": "Donald Trump is creating a 'White House Faith Office' that will be led by Paula White, who is characterized as a 'far-right televangelist'.",
+  "intended_effect": "To create alarm and concern about Donald Trump's staffing choices and the influence of far-right religious figures in his administration.",
+  "uncertainty_flags": []
+}

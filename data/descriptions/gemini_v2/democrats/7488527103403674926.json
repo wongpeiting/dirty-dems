@@ -1,0 +1,51 @@
+{
+  "video_id": "7488527103403674926",
+  "visual_action": "The video displays a static screenshot of a tweet from Kamala Harris. After a few seconds, it transitions to a still photograph of Kamala Harris and Cory Booker standing in a wide, empty hallway with a checkered floor, engaged in conversation.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A tweet from her verified account (@KamalaHarris) is shown, and she appears in a photograph."
+    },
+    {
+      "name": "Cory Booker",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is tagged (@CoryBooker) and praised in Kamala Harris's tweet, and he appears in a photograph with her."
+    },
+    {
+      "name": "the current administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen tweet as having 'harmed' the American people."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kamala Harris @KamalaHarris The true measure of a leader is not based on who you beat down but on who you lift up. For over 24 hours, my friend @CoryBooker stood on the floor of the Senate and lifted up the voices of the American people harmed by the current administration. We must continue to fight for the best of who we are as Americans. Thank you, Cory, for your leadership.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; the only audio is a musical track.",
+  "emojis_present": [],
+  "audio_music": "A slow, serious instrumental track with a synthesized, orchestral feel plays throughout the video, creating a reflective and somber mood.",
+  "editing_pacing": "The video is a simple slideshow, consisting of a static screenshot of a tweet followed by a static photograph, with a single cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Seriousness",
+    "Inspiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Cory Booker is a true leader because he fights for the American people against the harmful actions of the current administration.",
+  "intended_effect": "To generate admiration for Cory Booker and Kamala Harris and to signal their opposition to the current administration.",
+  "uncertainty_flags": []
+}

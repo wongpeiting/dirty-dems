@@ -1,0 +1,126 @@
+{
+  "video_id": "7470596269539642670",
+  "visual_action": "A video clip shows Marjorie Taylor Greene speaking at a congressional subcommittee hearing. The footage is from a Fox News broadcast, as indicated by the logo and chyron. Greene is seated at a dais, looking down and reading from a paper. The clip is presented in a vertical format with a large black border, with a text overlay at the top and yellow captions that appear at the bottom, transcribing her speech.",
+  "cast": [
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, visually identified, and named in both the on-screen overlay and the news chyron."
+    },
+    {
+      "name": "DOGE team",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post's central point of mockery revolves around Greene's mention of the 'Doge team' and the 'DOGE' subcommittee in a serious political context, as highlighted by the overlay text: 'Marjorie Taylor Greene says DOGE is going after Medicare and Medicaid 😳'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Greene mentions him in her speech, saying her subcommittee will work 'shoulder to shoulder with President Trump.'"
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Greene mentions him in her speech, saying her subcommittee will work 'shoulder to shoulder with President Trump, Elon Musk...'"
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and broadcast graphics are visible throughout the clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Marjorie Taylor Greene says DOGE is going after Medicare and Medicaid 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "MARJORIE TAYLOR GREENE (R-GA) | HOUSE OVERSIGHT DOGE SUBCMTE CHAIR",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: DOGE SUBCMTE HEARING ON \"WAR ON WASTE\"",
+      "role": "chyron"
+    },
+    {
+      "text": "CAPITOL HILL",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE | 10:07 AM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "IN THIS SUBCOMMITTEE,",
+      "role": "caption"
+    },
+    {
+      "text": "WE WILL FIGHT THE WAR ON WASTE",
+      "role": "caption"
+    },
+    {
+      "text": "SHOULDER TO SHOULDER WITH",
+      "role": "caption"
+    },
+    {
+      "text": "PRESIDENT TRUMP, ELON MUSK,",
+      "role": "caption"
+    },
+    {
+      "text": "AND THE DOGE TEAM.",
+      "role": "caption"
+    },
+    {
+      "text": "THIS WEEK, WE TURN OUR ATTENTION TO",
+      "role": "caption"
+    },
+    {
+      "text": "IMPROPER PAYMENTS BY THE",
+      "role": "caption"
+    },
+    {
+      "text": "FEDERAL GOVERNMENT,",
+      "role": "caption"
+    },
+    {
+      "text": "INCLUDING IN MEDICAID AND MEDICARE.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Marjorie Taylor Greene announces that her subcommittee will \"fight the war on waste shoulder to shoulder with President Trump, Elon Musk, and the Doge team.\" She adds that the committee is focusing on improper payments by the federal government within Medicaid and Medicare.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists entirely of Marjorie Taylor Greene's unaltered speech from the hearing. There is no music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head clip taken from a news broadcast. The only editing consists of added text overlays and captions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "Doge (internet meme and cryptocurrency)"
+  ],
+  "central_claim": "Marjorie Taylor Greene makes absurd statements during official proceedings by referencing a \"DOGE\" subcommittee and team, linking a serious issue like government waste to an internet meme.",
+  "intended_effect": "To make the viewer perceive Marjorie Taylor Greene as foolish and out of touch, thereby undermining her credibility.",
+  "uncertainty_flags": []
+}

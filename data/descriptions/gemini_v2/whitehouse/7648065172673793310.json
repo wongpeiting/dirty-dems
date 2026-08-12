@@ -1,0 +1,80 @@
+{
+  "video_id": "7648065172673793310",
+  "visual_action": "Donald Trump sits at a panel table next to former NFL player Joe Thomas. A large green John Deere tractor is in the background. The panel is for an event called \"FIGHTING FOR AMERICAN FARMERS\". Trump introduces Thomas, who then speaks, thanking the administration for a policy supporting small farmers. Afterward, Trump engages Thomas in a casual conversation about the greatest NFL players.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown on screen speaking at the event, and the on-screen text refers to him as 'POTUS'."
+    },
+    {
+      "name": "Joe Thomas",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is introduced by name by Donald Trump and identifies himself. His nameplate 'JOE THOMAS' is also visible. The on-screen text identifies him as an 'NFL Hall of Famer Turned Farmer'."
+    },
+    {
+      "name": "Secretary Rollins",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Joe Thomas mentions 'Secretary Rollins' and praises their work on a 'small processors' action plan'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NFL Hall of Famer Turned Farmer Thanks POTUS 🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "FIGHTING FOR AMERICAN FARMERS",
+      "role": "chyron"
+    },
+    {
+      "text": "CHIPPEWA FALLS, WISCONSIN",
+      "role": "chyron"
+    },
+    {
+      "text": "JOE THOMAS",
+      "role": "other"
+    },
+    {
+      "text": "JOHN DEERE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump introduces Joe Thomas as a Hall of Fame football player. Thomas thanks the President and praises \"Secretary Rollins\" for an action plan that helps small farm-to-table beef producers by addressing bottlenecks caused by the \"big four packers.\" He argues this helps farmers earn more revenue and keeps costs down for consumers. After Thomas speaks, Trump asks him who he thinks are the greatest quarterbacks and running backs in NFL history. Thomas names Tom Brady, Peyton Manning, Jim Brown, and Barry Sanders.",
+  "emojis_present": [
+    "🇺🇸",
+    "🐮",
+    "🤠"
+  ],
+  "audio_music": "Live event audio featuring dialogue and applause. No music is present.",
+  "editing_pacing": "The video consists of a single, static shot of the panel with no cuts or dynamic editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Pride",
+    "Authenticity"
+  ],
+  "cultural_references": [
+    "Joe Thomas",
+    "NFL (National Football League)",
+    "Tom Brady",
+    "Peyton Manning",
+    "Jim Brown",
+    "Barry Sanders",
+    "John Deere",
+    "On Wisconsin"
+  ],
+  "central_claim": "The Trump administration's policies are benefiting small American farmers, as endorsed by respected figures like NFL Hall of Famer Joe Thomas.",
+  "intended_effect": "To showcase the administration's support for American farmers and to associate Donald Trump with a popular, non-political sports figure, thereby enhancing his appeal.",
+  "uncertainty_flags": []
+}

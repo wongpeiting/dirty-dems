@@ -1,0 +1,45 @@
+{
+  "video_id": "7329296804971810091",
+  "visual_action": "Joe Biden is on a stage at an event. An enthusiastic crowd chants his name. He puts on a black baseball cap with a white logo on it. He turns and waves to a group of people on stage who are cheering, clapping, and raising their fists. He then walks back to a podium and begins to speak.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the main person shown on screen, the subject of the crowd's chants, and the on-screen text."
+    },
+    {
+      "name": "UAW",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states 'UAW endorsed President Biden!' and the UAW logo is visible on the podium and hat."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "UAW endorsed President Biden! ☝️",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A crowd chants \"Joe, Joe, Joe!\" and cheers loudly. At the end, Joe Biden says, \"Proud to be with the UAW.\"",
+  "emojis_present": [
+    "☝️"
+  ],
+  "audio_music": "The audio consists entirely of ambient sounds from a live event: a crowd chanting \"Joe, Joe, Joe!\" and loud, enthusiastic cheering and applause. The effect is energetic and supportive.",
+  "editing_pacing": "The video is a single continuous shot that follows Joe Biden on stage, creating the feel of a live event highlight.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Enthusiasm",
+    "Support"
+  ],
+  "cultural_references": [],
+  "central_claim": "The UAW (United Auto Workers) union has endorsed President Joe Biden.",
+  "intended_effect": "To showcase strong and enthusiastic union support for Joe Biden and energize his political base.",
+  "uncertainty_flags": []
+}

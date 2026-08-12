@@ -1,0 +1,85 @@
+{
+  "video_id": "7286595350389935391",
+  "visual_action": "The video is a short slideshow-style clip consisting of three distinct segments displayed against a black background. Segment 1 (repeated across ~4 frames): A screenshot of a tweet by Kevin McCarthy (@SpeakerMcCarthy) reading \"Bring it on.\" with his profile photo visible. Segment 2 (repeated across ~2 frames): A screenshot of a tweet by Jon Cooper (@joncoopertweets) reading \"🚨🚨 MAJOR BREAKING: Kevin McCarthy's shortsighted decision to empower the MAGA extremists in his party just cost him the speakership.\" Segment 3 (repeated across ~2 frames): A photo of Donald Trump and Kevin McCarthy standing together in what appears to be Mar-a-Lago's ornate interior, overlaid with text labels: \"✨MAGA Legacy✨\" at the top, \"Trump's Presidency 2017-2021🙏\" labeled over Trump, and \"McCarthy's Speakership 2023-2023🙏\" labeled over McCarthy.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His tweet screenshot with @SpeakerMcCarthy handle appears prominently; named in Jon Cooper tweet and in the photo overlay labels 'McCarthy's Speakership 2023-2023'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Labeled in the final photo overlay as 'Trump's Presidency 2017-2021' and referenced in 'MAGA Legacy' framing; appears standing next to McCarthy in the Mar-a-Lago photo"
+    },
+    {
+      "name": "Jon Cooper",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His tweet screenshot is shown with handle @joncoopertweets"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kevin McCarthy @SpeakerMcCarthy",
+      "role": "overlay"
+    },
+    {
+      "text": "Bring it on.",
+      "role": "overlay"
+    },
+    {
+      "text": "Jon Cooper @joncoopertweets",
+      "role": "overlay"
+    },
+    {
+      "text": "🚨 🚨 MAJOR BREAKING: Kevin McCarthy's shortsighted decision to empower the MAGA extremists in his party just cost him the speakership.",
+      "role": "overlay"
+    },
+    {
+      "text": "✨MAGA Legacy✨",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's Presidency 2017-2021🙏",
+      "role": "overlay"
+    },
+    {
+      "text": "McCarthy's Speakership 2023-2023🙏",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is present. The audio is entirely music — no voiceover or narration. The Whisper transcript returned nothing, confirming silence in terms of speech.",
+  "emojis_present": [
+    "🚨",
+    "✨",
+    "🙏"
+  ],
+  "audio_music": "The audio track throughout the video is \"Karma\" by Taylor Swift, confirmed by ACRCloud fingerprint starting at 0.0s and continuing at 6.0s. The use of a song titled \"Karma\" is deliberate, reinforcing the visual narrative that McCarthy's ouster from the speakership was a karmic consequence of his own earlier defiant \"Bring it on.\" tweet and his alignment with MAGA forces. The track creates an ironic, almost triumphant tone.",
+  "editing_pacing": "Slow slideshow format with static frames held for several seconds each; no fast cuts or motion effects. Three distinct beats: McCarthy's tweet, Cooper's breaking news tweet, and the final meme-style labeled photo. The pacing is deliberate, letting each element land sequentially.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "irony — McCarthy's own 'Bring it on.' tweet is juxtaposed with his removal from the speakership",
+    "schadenfreude — the sequence frames his ouster as a deserved consequence",
+    "mockery — labeling his speakership '2023-2023' highlights its short duration"
+  ],
+  "cultural_references": [
+    "Taylor Swift — 'Karma' is used as the soundtrack, directly invoking the song's theme of karmic justice to comment on McCarthy's political downfall"
+  ],
+  "central_claim": "Kevin McCarthy's defiant \"Bring it on.\" tweet and his decision to empower MAGA extremists ultimately led to his removal as Speaker, framing his fate as karmic self-destruction.",
+  "intended_effect": "Prompt viewers to perceive McCarthy's ouster as a self-inflicted, ironic consequence of his own political choices and alliance with Trump/MAGA.",
+  "uncertainty_flags": [
+    "The faces in the Mar-a-Lago photo were not confirmed by face-ID; identification of Trump and McCarthy relies on the on-screen text labels",
+    "It is unclear whether the Jon Cooper tweet and McCarthy tweet screenshots are authentic originals or potentially cropped/altered — no obvious visual signs of manipulation are visible, but OCR-only verification cannot rule out subtle edits to tweet text",
+    "The exact date of McCarthy's ouster is not visible in the video; the '2023-2023' label implies he was removed in the same year he became Speaker"
+  ]
+}

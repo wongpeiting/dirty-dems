@@ -1,0 +1,63 @@
+{
+  "video_id": "7651738423111322894",
+  "visual_action": "The video displays a screenshot of a tweet from the 'Democrats' account. The tweet announces the unveiling of a new portrait of Barack and Michelle Obama. Below the text are two images: a photo of the Obamas and the artist standing next to the large, framed portrait, and a close-up of the colorful portrait itself. The video then slowly zooms in on the close-up image of the portrait.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text from a tweet mentions 'The Obamas unveil their first-ever commissioned portrait together...'. He is also depicted in the photograph and the painting shown."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text from a tweet mentions 'The Obamas unveil their first-ever commissioned portrait together...'. She is also depicted in the photograph and the painting shown."
+    },
+    {
+      "name": "Njideka Akunyili Crosby",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies her as the artist: 'painted by Njideka Akunyili Crosby'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screenshot shows a tweet from the account 'Democrats' with the handle '@TheDemocrats'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "The Obamas unveil their first-ever commissioned portrait together, painted by Njideka Akunyili Crosby, in the lobby of the new Obama Presidential Library.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A gentle, warm, and soulful instrumental track with a slight R&B feel plays throughout the video, creating a celebratory and dignified mood.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot, followed by a slow zoom-in on the portrait image within the tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "admiration",
+    "pride",
+    "respect"
+  ],
+  "cultural_references": [],
+  "central_claim": "Barack and Michelle Obama have unveiled their first-ever joint commissioned portrait, which is now in the Obama Presidential Library.",
+  "intended_effect": "To generate positive feelings and admiration for the Obamas and celebrate this milestone for their legacy.",
+  "uncertainty_flags": []
+}

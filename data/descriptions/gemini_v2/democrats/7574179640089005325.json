@@ -1,0 +1,81 @@
+{
+  "video_id": "7574179640089005325",
+  "visual_action": "A short, looped news clip from Fox News shows Donald Trump and the Saudi Crown Prince, Mohammed bin Salman, sitting in ornate chairs in what appears to be the Oval Office. They are smiling, talking, and shaking hands. Trump appears very pleased, laughing as he shakes the prince's hand.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown on screen throughout the video, and the on-screen text is about his feelings and actions."
+    },
+    {
+      "name": "Mohammed bin Salman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown sitting with Trump and is identified in the Fox News chyron as 'SAUDI CROWN PRINCE'."
+    },
+    {
+      "name": "Trump family",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text explicitly mentions 'his family just secured a deal'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The footage is from a Fox News broadcast, with their logo and chyron visible."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "How trump feels knowing his family just secured a deal to build a Saudi-backed resort in the Maldives the day before the crown prince visited him in dc",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS CHANNEL",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: TRUMP, SAUDI CROWN PRINCE MEET IN OVAL OFFICE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only a hip-hop music track plays.",
+  "emojis_present": [],
+  "audio_music": "A driving, modern hip-hop track, identified as 'Creek (feat. Osamason)' by Boolymon, plays throughout the video, creating a mood of swagger or confrontation that contrasts with the formal diplomatic setting.",
+  "editing_pacing": "The video consists of a single, short news clip that is looped repeatedly. There are no cuts or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "outrage",
+    "cynicism"
+  ],
+  "cultural_references": [
+    "Creek (feat. Osamason) by Boolymon"
+  ],
+  "central_claim": "Donald Trump's positive meeting with the Saudi Crown Prince was motivated by a corrupt, quid-pro-quo deal that financially benefited his family.",
+  "intended_effect": "To convince the viewer that Donald Trump is corrupt and uses his political office for personal and familial financial gain.",
+  "uncertainty_flags": []
+}

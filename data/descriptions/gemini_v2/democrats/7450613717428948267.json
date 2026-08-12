@@ -1,0 +1,94 @@
+{
+  "video_id": "7450613717428948267",
+  "visual_action": "The video displays a series of still images and one short clip. It begins with two screenshots of NBC News headlines: 'Elon Musk leads charge to kill spending bill meant to avert government shutdown' and 'How Trump and Elon Musk caused Congress' nightmare before Christmas'. This is followed by a brief clip of Elon Musk looking at the camera, then a photo of Mike Johnson being sworn in before an American flag, and finally a photo of Donald Trump with his arm around a smiling Elon Musk.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Elon Musk's face appears in a short clip and a still photo. He is also named in two on-screen NBC News headlines."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Donald Trump's face appears in a still photo with Elon Musk. He is also named in an on-screen NBC News headline."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Mike Johnson's face appears in a still photo of him being sworn in. He is also named in an on-screen caption."
+    },
+    {
+      "name": "NBC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NBC News logo and headline format are shown in screenshots at the beginning of the video."
+    },
+    {
+      "name": "Congress",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen headline: 'How Trump and Elon Musk caused Congress' nightmare before Christmas'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NBC NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "Elon Musk leads charge to kill spending bill meant to avert government shutdown",
+      "role": "overlay"
+    },
+    {
+      "text": "GOVERNMENT SHUTDOWN",
+      "role": "overlay"
+    },
+    {
+      "text": "How Trump and Elon Musk caused Congress' nightmare before Christmas",
+      "role": "overlay"
+    },
+    {
+      "text": "Who are you?",
+      "role": "caption"
+    },
+    {
+      "text": "Mike Johnson, thinking he's the Speaker of the House: I'm Pam, who are you?",
+      "role": "caption"
+    },
+    {
+      "text": "The owner of this House 🤡",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio features a dialogue between two women, overlaid on music. One asks, \"Who are you?\" The other replies, \"I'm Pam, who are you?\" The first responds, \"I'm the owner of this house.\" This audio is used to frame a political power dynamic between the figures shown on screen.",
+  "emojis_present": [
+    "🤡"
+  ],
+  "audio_music": "A dramatic, cinematic musical track plays throughout the video, creating a sense of tension and importance. Dialogue from a separate source is overlaid on top of the music.",
+  "editing_pacing": "The video is a fast-paced slideshow of still images (screenshots and photos) and one very short clip, with text captions appearing over each segment.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "alarm"
+  ],
+  "cultural_references": [
+    "The audio dialogue (\"Who are you? I'm Pam... I'm the owner of this house\") is a well-known meme originating from the reality TV show 'Little Women: Atlanta'."
+  ],
+  "central_claim": "Mike Johnson may be the official Speaker, but Donald Trump and Elon Musk are the true owners and controllers of the House of Representatives.",
+  "intended_effect": "To portray Mike Johnson as a powerless figurehead and to characterize Donald Trump and Elon Musk as the real, chaotic forces controlling the Republican party and Congress, to the detriment of the country.",
+  "uncertainty_flags": []
+}

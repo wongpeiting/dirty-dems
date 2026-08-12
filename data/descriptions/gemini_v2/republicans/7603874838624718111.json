@@ -1,0 +1,58 @@
+{
+  "video_id": "7603874838624718111",
+  "visual_action": "The video shows a montage of clips from what appears to be an Olympic opening ceremony at night in a large stadium. An athlete carries a large American flag in slow motion, leading the US Olympic team. The athletes, all wearing matching white jackets and red, white, and blue patterned hats and scarves, walk and wave to the crowd. The clip cuts to a shot of J.D. Vance in the audience, wearing a suit and holding a small American flag.",
+  "cast": [
+    {
+      "name": "Team USA",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The announcer says \"the arrival of Team USA\" and the video features the US Olympic team parading during the opening ceremony."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "His face is shown in the crowd, and the announcer mentions him at the end of the clip, saying \"nice president of J.D. Vance.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "USA",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An announcer provides commentary over the footage of the Olympic opening ceremony. He introduces the \"United States of America\" and announces the arrival of \"Team USA.\" He states that the team consists of 242 athletes, making it the largest US team ever for a Winter Olympics, representing 32 states from small towns to large cities. The commentary ends by referencing J.D. Vance, saying, \"nice president of J.D. Vance.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The video is set to a continuous, grand, and patriotic orchestral version of \"America the Beautiful,\" creating a celebratory and proud atmosphere.",
+  "editing_pacing": "The video is a montage of different shots from the ceremony, featuring slow-motion on the flag-bearer and cuts to the smiling athletes and J.D. Vance.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride",
+    "Excitement"
+  ],
+  "cultural_references": [
+    "The Olympics",
+    "Team USA"
+  ],
+  "central_claim": "The arrival of the record-breaking US Olympic team at the Winter Olympics is a moment of national pride, supported by leaders like J.D. Vance.",
+  "intended_effect": "To evoke feelings of patriotism and national pride, and to associate the Republican party and J.D. Vance with the unifying and positive event of the Olympics.",
+  "uncertainty_flags": [
+    "The audio transcript at the end says 'nice president of J.D. Vance,' which is likely a mis-transcription of 'Vice President J.D. Vance.'"
+  ]
+}

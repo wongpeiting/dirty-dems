@@ -1,0 +1,104 @@
+{
+  "video_id": "7611627757008882958",
+  "visual_action": "The video is a rapid-cut compilation of reaction/celebration clips intercut with footage of Donald Trump, all overlaid with the same persistent text. Scene 1: A young man in a red cycling jersey dancing enthusiastically indoors with earbuds in. Scene 2: Donald Trump outdoors in a black coat and red \"45 MAKE AMERICA GREAT\" MAGA hat, raising a fist/waving, blurry airfield background. Scene 3: A blurry close-up of a person (appears to be a Black individual) leaning toward a window, urban building visible behind. Scene 4: A blurry close-up of a man (appears to be inside a vehicle), dark background. Scene 5: Donald Trump at what appears to be a rally/event in a black coat and blue tie, surrounded by supporters holding phones and wearing MAGA gear. Scene 6: A person at what looks like a concert/club raising both hands in the air in celebration, dark/colored lighting. Scene 7: A person in a purple patterned top performing/dancing in what appears to be a retro TV or stage setting, audience visible. Scene 8: A person in a blue striped jacket and red shirt (appears to be Austin Powers/Mike Myers-style character) reacting energetically in an outdoor setting. Throughout all scenes, the same bold white text overlay appears reading \"POV: YOU CAN FINALLY AFFORD YOUR MEDS THANKS TO PRESIDENT TRUMP.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump is visibly shown in two scenes: wearing a red '45 MAKE AMERICA GREAT' MAGA hat outdoors, and at a rally in black coat/blue tie surrounded by MAGA-gear supporters; also named in on-screen text 'THANKS TO PRESIDENT TRUMP'"
+    },
+    {
+      "name": "unnamed dancing man",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Young man in red cycling jersey dancing with earbuds, used as a reaction/celebration clip"
+    },
+    {
+      "name": "unnamed person at window",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Blurry close-up of person leaning toward window, urban background"
+    },
+    {
+      "name": "unnamed man in vehicle",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Blurry close-up of man inside what appears to be a vehicle"
+    },
+    {
+      "name": "unnamed concert celebrant",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Person raising arms at what appears to be a club/concert setting"
+    },
+    {
+      "name": "unnamed performer in purple top",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Person in purple patterned top performing on a retro-style stage setting"
+    },
+    {
+      "name": "unnamed character in blue striped jacket",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Person in blue striped jacket and red shirt reacting energetically outdoors; style resembles Austin Powers character but unconfirmed"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POV:\nYOU CAN FINALLY\nAFFORD YOUR MEDS\nTHANKS TO PRESIDENT TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT [45]",
+      "role": "overlay"
+    },
+    {
+      "text": "MAGA",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The Whisper transcript captures only \"We'll be right back,\" which may be from one of the source clips used in the compilation. No substantive spoken narration is present; the video's message is conveyed through the persistent on-screen text overlay and visual clips.",
+  "emojis_present": [
+    "📲"
+  ],
+  "audio_music": "Listed as \"original sound\" in the caption context. The audio appears to include a brief spoken phrase (\"We'll be right back\") from one of the source clips. No identifiable music track noted; the sound design likely relies on ambient audio from the various sourced clips.",
+  "editing_pacing": "Fast cuts between multiple short clips — a rapid-fire compilation style. Each clip lasts only 1–3 seconds. The same text overlay is persistent across all cuts. The overall feel is energetic and celebratory, mimicking viral TikTok POV/reaction formats.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "celebration — conveyed by clips of people dancing, raising arms, and reacting joyfully",
+    "gratitude/relief — conveyed by the 'YOU CAN FINALLY AFFORD YOUR MEDS' framing implying a resolved problem",
+    "pride/enthusiasm — conveyed by Trump footage at rally with cheering supporters"
+  ],
+  "cultural_references": [
+    "POV format — a widely used TikTok/short-video storytelling convention placing the viewer in a first-person scenario",
+    "Austin Powers — the blue striped jacket character in the final clip visually references the Austin Powers film franchise (unconfirmed)",
+    "MAGA rally footage — draws on recognizable Trump campaign/rally imagery",
+    "'Healing era' — caption phrase referencing a popular social media trope about personal/collective recovery or improvement"
+  ],
+  "central_claim": "President Trump has taken action that makes prescription medications affordable for Americans, and people should feel happy and celebratory about it — promoted via the URL TRUMPRX.GOV referenced in the caption.",
+  "intended_effect": "Cause the viewer to feel excitement, relief, and gratitude toward President Trump for a drug pricing policy, and to visit TRUMPRX.GOV for more information.",
+  "uncertainty_flags": [
+    "The specific policy being referenced (TRUMPRX.GOV) is after my knowledge cutoff and cannot be independently verified from the video alone",
+    "The identity of the person in the blurry window close-up and the person in the vehicle are not determinable",
+    "The 'We'll be right back' audio from the transcript is unclear which source clip it originates from",
+    "The performer in the purple top and the character in the blue striped jacket are not definitively identified — the latter may reference Austin Powers but is unconfirmed",
+    "It is unclear whether the reaction clips (dancing man, concert celebrant, etc.) are organic user-generated content or sourced from existing viral/stock footage"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "7600058725281369374",
+  "visual_action": "Karoline Leavitt speaks from a podium in what appears to be the White House press briefing room. The podium has the White House seal and text on it. An overlay with text about a recent shooting appears as she speaks. The video ends with a series of black-and-white still images of the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Is the sole speaker shown on screen for the majority of the video, identified by face recognition."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speech is entirely about his perspective and beliefs, referring to him as 'President Trump' multiple times."
+    },
+    {
+      "name": "Laken Riley",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by name in the speech as an example: 'the lives of Laken Riley and Jocelyn Nungere continue to matter to him'."
+    },
+    {
+      "name": "Jocelyn Nungere",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by name in the speech as an example: 'the lives of Laken Riley and Jocelyn Nungere continue to matter to him'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE WASHINGTON Saturday's MN Shooting was a Tragedy and President Trump Wants no American Lives Lost",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt states that President Trump views a recent Saturday shooting as a tragedy and wants no Americans to lose their lives. She says Trump considers all lives equal, citing his continued focus on the deaths of Laken Riley and Jocelyn Nungere. Leavitt then criticizes the media, saying it's 'unfortunate' that there wasn't the 'same type of sensationalist media coverage' for the deaths of those women as there is for the Saturday tragedy.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a person speaking clearly. There is no music or other sound effects.",
+  "editing_pacing": "The video is primarily a static talking-head shot of the speaker at a podium. It concludes with a brief montage of black-and-white still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gravity",
+    "Concern",
+    "Indignation"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump values all American lives equally, unlike the biased media, which provides sensationalist coverage for some tragedies but not others.",
+  "intended_effect": "To portray President Trump as compassionate and concerned for all Americans while fostering distrust in the media by accusing it of biased coverage.",
+  "uncertainty_flags": []
+}

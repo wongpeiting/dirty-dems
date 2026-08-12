@@ -1,0 +1,52 @@
+{
+  "video_id": "7634238648321363214",
+  "visual_action": "A rapid slideshow of still photos shows Donald Trump and several other older men appearing to be asleep or extremely tired in various settings, such as in chairs, on a couch, and outdoors by the water. Every image has the same text overlaid on it.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in multiple photographs and named in the on-screen text: \"trump whenever the American people ask for help...\""
+    },
+    {
+      "name": "American people",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: \"...whenever the American people ask for help affording gas and groceries\""
+    },
+    {
+      "name": "unnamed older men",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several photos show unidentified older men sleeping, interspersed with photos of Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump whenever the American people ask for help affording gas and groceries",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The audio contains no speech. It consists of a series of repetitive, high-pitched chirping or beeping sound effects.",
+  "emojis_present": [],
+  "audio_music": "A repetitive, high-pitched, electronic chirping sound plays continuously throughout the video. It is not music but rather a series of meme-like sound effects intended to be slightly annoying or attention-grabbing.",
+  "editing_pacing": "The video is a rapid slideshow of still images, with quick cuts between each photo.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The video employs a common meme format of a text prompt ('X whenever Y happens') followed by a series of reaction images."
+  ],
+  "central_claim": "Donald Trump ignores and is indifferent to the economic struggles of American people, specifically their difficulties affording gas and groceries.",
+  "intended_effect": "To portray Donald Trump as lazy, out of touch, and uncaring about the financial problems of ordinary citizens.",
+  "uncertainty_flags": []
+}

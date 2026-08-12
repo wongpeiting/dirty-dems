@@ -1,0 +1,52 @@
+{
+  "video_id": "7574485216027364621",
+  "visual_action": "A black and white, seemingly manipulated image shows Donald Trump walking down a hallway with soccer player Cristiano Ronaldo. The word 'DON'T' flashes in red. The video then cuts to a montage of clips of another soccer player, Lionel Messi, celebrating on the field in both a Barcelona jersey and an Argentina national team jersey. The clips are edited with color filters and fast cuts.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A person identified by face recognition as Donald Trump is shown in the opening shot of the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The handle '@DEMOCRATS' is watermarked on the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "@DEMOCRATS",
+      "role": "overlay"
+    },
+    {
+      "text": "DON'T",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is the song \"I Don't Like\" by Chief Keef, featuring lyrics expressing dislike for various things. The recurring phrase is \"don't like.\"",
+  "emojis_present": [],
+  "audio_music": "The video is set to the aggressive, bass-heavy rap track \"I Don't Like\" by Chief Keef. The music plays consistently throughout, creating a tone of confrontation and dislike.",
+  "editing_pacing": "The video is a fast-paced montage using quick cuts between clips, with added color filters and flash effects, characteristic of a TikTok \"edit\" style.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The initial black and white image of Donald Trump walking with soccer player Cristiano Ronaldo appears to be a composite or AI-generated image. The pairing is unusual, and the visual style suggests it was fabricated to create a specific juxtaposition for the video.",
+  "emotions_signaled": [
+    "Dislike",
+    "Mockery",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "Lionel Messi",
+    "Cristiano Ronaldo",
+    "Chief Keef",
+    "The term 'mogged' from internet slang"
+  ],
+  "central_claim": "Donald Trump is disliked and inferior ('mogged') compared to a celebrated and superior figure like Lionel Messi.",
+  "intended_effect": "To associate Donald Trump with negative feelings and portray him as inferior by contrasting him with a globally admired sports icon.",
+  "uncertainty_flags": []
+}

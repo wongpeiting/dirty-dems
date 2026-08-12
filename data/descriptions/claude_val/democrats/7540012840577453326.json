@@ -1,0 +1,48 @@
+{
+  "video_id": "7540012840577453326",
+  "visual_action": "The video consists of a static or near-static image displayed throughout all frames. The image shows several U.S. Army soldiers in camouflage uniforms and red berets, crouched and kneeling on an airport tarmac, rolling out a long red carpet leading toward a set of aircraft stairs (an airstairs/airstair unit). In the background, several individuals in dark suits (appearing to be security or protocol personnel) and uniformed air force personnel stand near the stairs. The tarmac appears to be outdoors in daylight. The image fills roughly the middle half of the vertical frame, with large black bars top and bottom (letterbox format). White bold text is overlaid in the top black bar area. The lower black bar is blank.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'Trump had soldiers on their hands and knees to roll out the red carpet for Putin:'"
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads '...to roll out the red carpet for Putin:'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump had soldiers on their hands and knees to roll out the red carpet for Putin:",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken audio or dialogue is present. The Whisper transcript is empty. The audio track is the account's own original sound, with background instrumental music only.",
+  "emojis_present": [],
+  "audio_music": "Throughout the clip, a low-key instrumental background track plays (ACRCloud fingerprinted as \"Teak Wood Chips\" by Bandrath). The track is subdued and ambient in character. No voiceover, narration, or dialogue is present. No meme sound effects detected.",
+  "editing_pacing": "Static single image held throughout the entire clip with no cuts, zooms, or transitions. Slideshow/static format. All 8 keyframes are identical.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage — the phrase 'hands and knees' frames soldiers' routine ceremonial work as degrading subservience",
+    "contempt — juxtaposing U.S. military personnel in a submissive posture with the implied benefit to Putin",
+    "alarm — the visual of uniformed soldiers kneeling on a tarmac toward aircraft stairs implies a diplomatic deference narrative"
+  ],
+  "cultural_references": [],
+  "central_claim": "Trump directed U.S. soldiers to physically kneel and crawl on the tarmac to roll out a red carpet for Vladimir Putin, framing this as an act of subservience toward a foreign adversary.",
+  "intended_effect": "To provoke outrage and contempt toward Trump by depicting his treatment of U.S. military personnel as demeaning and his posture toward Putin as obsequious.",
+  "uncertainty_flags": [
+    "The actual event, location, date, and context of the tarmac photograph are not independently verifiable from the image alone — it is unclear whether this photo is from a Trump–Putin diplomatic meeting or a different ceremonial event repurposed with the overlay text.",
+    "OCR captured 'Poccma' (likely a partial rendering of 'Россия' / Russia in Cyrillic) which may appear somewhere in the original image but is not clearly visible in the keyframes — its exact placement and full text is uncertain.",
+    "No faces are identifiable in the photograph (soldiers and background personnel are not individually identifiable), so the event depicted cannot be independently confirmed.",
+    "Whether soldiers routinely perform red-carpet rolling in this manner at all diplomatic arrivals (not specific to Putin) cannot be determined from the image alone."
+  ]
+}

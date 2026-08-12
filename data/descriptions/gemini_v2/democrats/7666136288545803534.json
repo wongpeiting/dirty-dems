@@ -1,0 +1,113 @@
+{
+  "video_id": "7666136288545803534",
+  "visual_action": "The video is a slideshow of two static images. The first image is a document titled 'PROCLAMATION BY THE GOVERNOR' from the 'COMMONWEALTH OF PENNSYLVANIA', with an overlay text box on top. The second image is a photograph of basketball player LeBron James wearing a Philadelphia 76ers jersey, with an ESPN logo in the top right corner.",
+  "cast": [
+    {
+      "name": "LeBron James",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of the proclamation, which declares 'LEBRON JAMES DAY'. He is also mentioned in the overlay text and shown in a photoshopped image."
+    },
+    {
+      "name": "Josh Shapiro",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears on the proclamation as 'Josh Shapiro, Governor of the Commonwealth of Pennsylvania' and his signature is at the bottom. The overlay text also names 'governor shapiro'."
+    },
+    {
+      "name": "Gloria James",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the proclamation text as LeBron James's mother: '...raised by his mother, Gloria James...'"
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The proclamation states Pennsylvania welcomes LeBron James 'as he joins the Philadelphia 76ers'. He is shown wearing a 'Sixers' jersey."
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The proclamation text mentions he was 'selected first overall by the Cleveland Cavaliers in the 2003 NBA Draft'."
+    },
+    {
+      "name": "ESPN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The ESPN logo is visible in the top right corner of the image of LeBron James."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "COMMONWEALTH OF PENNSYLVANIA",
+      "role": "other"
+    },
+    {
+      "text": "PROCLAMATION BY THE GOVERNOR",
+      "role": "other"
+    },
+    {
+      "text": "governor shapiro has made today LeBron James day 🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "WHEREAS, Pennsylvania is honored to welcome LeBron James to our Commonwealth as he joins the Philadelphia 76ers for his final season; and",
+      "role": "other"
+    },
+    {
+      "text": "THEREFORE, I, Josh Shapiro, Governor of the Commonwealth of Pennsylvania, do hereby proclaim July 24, 2026, to be LEBRON JAMES DAY",
+      "role": "other"
+    },
+    {
+      "text": "Governor Josh Shapiro",
+      "role": "other"
+    },
+    {
+      "text": "ESPN",
+      "role": "chyron"
+    },
+    {
+      "text": "Sixers",
+      "role": "other"
+    },
+    {
+      "text": "23",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only instrumental music with some vocalizations.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "A smooth, celebratory R&B song plays throughout the video.",
+  "editing_pacing": "The video is a static slideshow consisting of a single cut between two images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "An image of LeBron James has been digitally altered to show him wearing a Philadelphia 76ers jersey, a team he has not played for. The proclamation document, which sets the premise for the photoshopped image, is also fabricated for the scenario.",
+  "emotions_signaled": [
+    "excitement",
+    "hype",
+    "pride"
+  ],
+  "cultural_references": [
+    "NBA Draft",
+    "The Chosen One (LeBron James's nickname)",
+    "ESPN"
+  ],
+  "central_claim": "Pennsylvania Governor Josh Shapiro has declared 'LeBron James Day' on July 24, 2026, to celebrate the basketball player joining the Philadelphia 76ers.",
+  "intended_effect": "To generate excitement and positive engagement, particularly among Pennsylvania basketball fans, by creating a fictional 'what-if' scenario involving a major sports star and the Democratic governor.",
+  "uncertainty_flags": []
+}

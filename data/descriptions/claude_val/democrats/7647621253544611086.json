@@ -1,0 +1,102 @@
+{
+  "video_id": "7647621253544611086",
+  "visual_action": "A montage of multiple political figures in different settings. Scene 1: A heavyset older man in a white polo shirt with what appears to be a Trump-branded logo walks through an upscale interior hallway (likely a Trump golf club), mouth open as if speaking loudly, surrounded by onlookers. Scene 2: JD Vance stands at a podium with a \"JD VANCE U.S. Senate – Conservative. Outsider.\" sign, backdropped by what appears to be the Ohio state flag and a Puerto Rico flag. Scene 3: RFK Jr. sits at a microphone in what appears to be a formal Senate hearing room, eyes downcast. Scene 4 & 5: Zohran Mamdani speaks at a podium/lectern in a formal setting, wearing a black suit with a patterned tie. Scene 6: Zohran Mamdani and Alexandria Ocasio-Cortez stand together laughing outside the U.S. Capitol building on a sunny day, both wearing congressional pins. Scene 7: Gavin Newsom laughs broadly on what appears to be a late-night TV set (dark backdrop with city lights). Scene 8: A blurred transitional/motion frame in dark tones.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Heavyset older man in Trump-branded white polo shirt walking through upscale interior; face-ID confirms Donald Trump"
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "On-screen podium sign reads 'JD VANCE U.S. Senate – Conservative. Outsider.' and face-ID confirms JD Vance"
+    },
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Man seated at Senate hearing table, eyes downcast; face-ID confirms RFK Jr."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Man in black suit speaking at podium and then standing with AOC outside the Capitol; face-ID confirms Zohran Mamdani"
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Woman laughing with Mamdani outside U.S. Capitol; face-ID confirms AOC"
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Man laughing broadly on late-night TV set; face-ID confirms Gavin Newsom"
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirms Barack Obama present on screen (likely a portrait or brief appearance in scene 1 background)"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Post is from @democrats account"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VANCE",
+      "role": "overlay"
+    },
+    {
+      "text": "JD VANCE U.S. Senate Conservative. Outsider. www.jdvance.com",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from \"Total Eclipse of the Heart\" by Bonnie Tyler, specifically: \"Turn around, bite thighs [bright eyes], every now and then I fall apart / And I need you now tonight / And I need you more than ever / And if you only hold me tight.\" The song plays continuously over the political montage as an ironic/dramatic backdrop.",
+  "emojis_present": [],
+  "audio_music": "Begins immediately with \"Total Eclipse of the Heart\" by Bonnie Tyler (confirmed by ACRCloud fingerprint at both 0.0s and 8.1s), the iconic 1983 power ballad. The song plays as continuous background/foreground audio throughout the montage. The dramatic, overwrought emotional quality of the song is juxtaposed against the political footage for ironic/mocking effect — presenting the Republican figures as chaotic or struggling while the Democratic figures appear energetic and positive.",
+  "editing_pacing": "Fast-cut montage with multiple quick scene transitions between different political figures and settings. Blurred motion transition frame visible at the end. Each figure appears for only a few seconds before cutting to the next. The pacing amplifies the contrasting tone between the clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — Republican figures (Trump, Vance, RFK Jr.) shown in contexts suggesting disorder or low energy",
+    "pride or enthusiasm — Democratic figures (Mamdani, AOC, Newsom) shown laughing and energetic",
+    "irony — dramatic Bonnie Tyler ballad underscores the contrast for comedic/political effect"
+  ],
+  "cultural_references": [
+    "Total Eclipse of the Heart by Bonnie Tyler — iconic 1980s power ballad used ironically as the soundtrack to a political contrast montage"
+  ],
+  "central_claim": "The post juxtaposes Republican figures (Trump, Vance, RFK Jr.) against Democratic figures (Mamdani, AOC, Newsom) to assert a favorable contrast for Democrats, using the dramatic irony of \"Total Eclipse of the Heart\" as audio commentary.",
+  "intended_effect": "Viewers should perceive Democratic figures as energetic, happy, and effective, while Republican figures appear chaotic, downcast, or out-of-place — reinforcing the caption's claim that \"the contrast is clear.\"",
+  "uncertainty_flags": [
+    "Barack Obama's specific appearance in the frames is not clearly visible in the provided keyframes — he may appear in a portrait on the wall in scene 1 (a framed photo visible above the hallway in the Trump club scene) or in another brief clip not captured in these keyframes; face-ID confirms his presence but the exact moment is uncertain",
+    "The Whisper transcript renders 'bright eyes' as 'bite thighs' — this is a transcription error; the lyric is the standard Bonnie Tyler lyric 'bright eyes'",
+    "The specific setting for Zohran Mamdani's podium speech (scenes 4 & 5) is not clearly identifiable from the keyframes",
+    "Whether the Gavin Newsom clip is from a specific late-night show (e.g., Jimmy Kimmel Live, based on the set aesthetic) cannot be confirmed with certainty"
+  ]
+}

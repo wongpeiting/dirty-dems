@@ -1,0 +1,84 @@
+{
+  "video_id": "7610184974561512718",
+  "visual_action": "The video is a montage that cuts between several people speaking. First, Pam Bondi speaks at a hearing. This is interrupted by a meme of a penguin holding boots on a tray. Then, Karoline Leavitt speaks at a White House press briefing. This is followed by a reaction shot of two young Black men looking at a screen with expressions of disbelief. An older white man in a suit then speaks, which is interrupted by a stock photo of a man throwing a tomato. The video ends with a clip of a young white man on public transport gagging and appearing to vomit into a bag.",
+  "cast": [
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman identified by face-ID and an on-screen desk plaque reading 'BONDI' is shown speaking at the beginning of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of all the spoken praise in the video. Pam Bondi calls him 'the greatest president in American history,' and Karoline Leavitt says it's 'ridiculous that anyone... would even suggest that President Trump is doing anything for his own benefit.'"
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman identified by face-ID and an on-screen chyron reading 'KAROLINE LEAVITT White House Press Secretary' is shown speaking at a podium."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An older white man in a suit and tie is shown speaking, praising an unnamed candidate."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ATTORNEY GENERAL BONDI",
+      "role": "other"
+    },
+    {
+      "text": "YOUR BOOTS",
+      "role": "meme_text"
+    },
+    {
+      "text": "BOOTLICKER",
+      "role": "meme_text"
+    },
+    {
+      "text": "KAROLINE LEAVITT\nWhite House Press Secretary",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio is a compilation of clips featuring different individuals offering effusive praise for Donald Trump. Pam Bondi calls him \"the greatest president in American history.\" Karoline Leavitt defends him, stating he left a life of luxury for public service and doesn't act for his own benefit. An unnamed man expresses his wish for a \"noble committee\" to recognize the person he's addressing as the \"single finest candidate\" to receive a \"noble award.\"",
+  "emojis_present": [
+    "🫵",
+    "🤣"
+  ],
+  "audio_music": "A somewhat melancholic and atmospheric electronic track ('yelda by yhapojj CYBER SPEED') plays continuously under all the spoken clips, creating a dramatic and slightly surreal tone.",
+  "editing_pacing": "The video uses fast-paced cuts, creating a montage that rapidly switches between different speakers and various reaction memes and images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video superimposes meme images and text over the clips to create a mocking effect. A meme of a penguin butler holding boots with the text 'YOUR BOOTS BOOTLICKER' is overlaid on the clip of Pam Bondi to label her a sycophant. A stock photo of a person throwing a tomato is superimposed over the clip of the unnamed male speaker to signal disapproval.",
+  "emotions_signaled": [
+    "Mockery",
+    "Ridicule",
+    "Contempt"
+  ],
+  "cultural_references": [
+    "The 'Bootlicker' meme, using a penguin character from the 'Madagascar' franchise serving boots on a tray to mock someone as sycophantic.",
+    "Use of reaction clips as a meme format, including one of two Black men looking incredulous and another of a young man gagging and vomiting in disgust.",
+    "The trope of throwing a tomato to show disapproval of a performance."
+  ],
+  "central_claim": "The video argues that praise for Donald Trump from his supporters is so excessive and sycophantic that it is absurd and deserves ridicule.",
+  "intended_effect": "To make the viewer mock and feel contempt for the individuals praising Donald Trump, portraying them as out-of-touch sycophants.",
+  "uncertainty_flags": [
+    "The identity of the older white man speaking near the end of the video is not clear."
+  ]
+}

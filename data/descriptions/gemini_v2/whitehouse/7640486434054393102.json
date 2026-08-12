@@ -1,0 +1,84 @@
+{
+  "video_id": "7640486434054393102",
+  "visual_action": "A screenshot of a tweet from Donald J. Trump is shown. Layered on top of the tweet, a black-and-white aerial video, appearing to be military drone footage, shows a target on the ground. A projectile strikes the target, resulting in a large explosion and a plume of smoke.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet attributed to 'Donald J. Trump @realDonaldTrump' is the central text of the video, claiming he directed the military operation."
+    },
+    {
+      "name": "Abu-Bilal al-Minuki",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the tweet as 'the most active terrorist in the world' who was eliminated in the operation."
+    },
+    {
+      "name": "ISIS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet states that the target, Abu-Bilal al-Minuki, was 'second in command of ISIS globally' and that the group's 'global operation is greatly diminished.'"
+    },
+    {
+      "name": "American forces",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the tweet as 'brave American forces' who executed the mission."
+    },
+    {
+      "name": "Armed Forces of Nigeria",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the tweet as partners in the military operation."
+    },
+    {
+      "name": "Government of Nigeria",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Thanked in the tweet 'for your partnership on this operation.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump\nTonight, at my direction, brave American forces and the Armed Forces of Nigeria flawlessly executed a meticulously planned and very complex mission to eliminate the most active terrorist in the world from the battlefield. Abu-Bilal al-Minuki, second in command of ISIS globally, thought he could hide in Africa, but little did he know we had sources who kept us informed on what he was doing. He will no longer terrorize the people of Africa, or help plan operations to target Americans. With his removal, ISIS's global operation is greatly diminished. Thank you to the Government of Nigeria for your partnership on this operation. GOD BLESS AMERICA! President DONALD J. TRUMP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists solely of a classical piano piece. The provided transcript is incorrect.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "A somber, slow classical piano piece (identified as a Chopin Nocturne) plays continuously throughout the video, creating a serious and solemn mood that contrasts with the violent military action shown.",
+  "editing_pacing": "The video is a static shot of a tweet screenshot with a single, continuous clip of drone footage layered on top.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Solemnity",
+    "Triumph"
+  ],
+  "cultural_references": [
+    "Frédéric Chopin"
+  ],
+  "central_claim": "A military operation directed by Donald Trump successfully eliminated a top ISIS commander in Nigeria, significantly diminishing the terrorist group's global threat.",
+  "intended_effect": "To inspire pride in the military's effectiveness and to portray Donald Trump as a strong, decisive leader protecting American interests.",
+  "uncertainty_flags": [
+    "The authenticity of the Donald Trump tweet shown on screen could not be verified.",
+    "The source and context of the overlaid military-style drone footage are unknown.",
+    "The provided Whisper transcript is entirely inaccurate and does not reflect the video's audio content."
+  ]
+}

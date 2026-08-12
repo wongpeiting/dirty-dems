@@ -1,0 +1,78 @@
+{
+  "video_id": "7136724509175958827",
+  "visual_action": "A woman speaks directly to the camera while wearing a grey t-shirt with the reversed text \"PROTECT VOTING\". The video then displays two informational graphics. The first shows a semi-circular diagram of votes with a rainbow flag icon, detailing Republican votes against marriage equality. The second graphic is similar, showing Republican votes against access to birth control with a pill icon. The video concludes with the woman speaking to the camera again, with a URL appearing on screen.",
+  "cast": [
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The woman is the sole speaker and presenter throughout the video, delivering the main message."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker says, \"while Democrats are trying to protect Americans' constitutional right to privacy\" and \"we have to elect Democrats this November.\" The account posting the video is @democrats."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text states, \"157 House Republicans Voted Against A Bill To Codify Marriage Equality\" and \"195 House Republicans Voted Against A Bill To Protect Access To Birth Control.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WHAT'S ON THE LINE IN 2022 MIDTERMS",
+      "role": "overlay"
+    },
+    {
+      "text": "157 House Republicans Voted Against A Bill To Codify Marriage Equality",
+      "role": "overlay"
+    },
+    {
+      "text": "157 REPUBLICANS VOTED NO",
+      "role": "overlay"
+    },
+    {
+      "text": "195 House Republicans Voted Against A Bill To Protect Access To Birth Control",
+      "role": "overlay"
+    },
+    {
+      "text": "195 REPUBLICANS VOTED NO",
+      "role": "overlay"
+    },
+    {
+      "text": "✨🗳️ IWillVote.com 🗳️✨",
+      "role": "overlay"
+    },
+    {
+      "text": "PROTECT VOTING",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The speaker warns that LGBTQ rights, birth control, and the right to privacy are \"on the ballot this November.\" She contrasts Democrats, who she says are trying to protect the right to privacy, with Republicans. She cites that \"157 Republicans voted against protecting gay marriage\" and \"195 Republicans voted against protecting the right to birth control.\" She concludes by urging viewers to \"elect Democrats this November\" and visit IWillVote.com to make a plan to vote.",
+  "emojis_present": [
+    "✨",
+    "🗳️"
+  ],
+  "audio_music": "The video consists solely of a woman's voice speaking directly to the camera. There is no background music or sound effects.",
+  "editing_pacing": "The video primarily uses a static talking-head shot, intercut with two static informational graphics where the speaker is still visible in the lower portion of the frame. The transitions are simple cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency",
+    "concern",
+    "fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans are a threat to fundamental rights like marriage equality and access to birth control, so voters must elect Democrats in the 2022 midterms to protect these freedoms.",
+  "intended_effect": "To persuade viewers to vote for the Democratic Party by creating a sense of urgency and fear that Republicans will take away their rights.",
+  "uncertainty_flags": []
+}

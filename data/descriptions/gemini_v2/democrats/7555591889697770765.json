@@ -1,0 +1,58 @@
+{
+  "video_id": "7555591889697770765",
+  "visual_action": "Donald Trump speaks at a podium in the White House State Dining Room, flanked by an American flag and an Israeli flag. A C-SPAN news chyron is visible at the bottom of the screen throughout the clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and is speaking for the entire duration of the video. The on-screen text and caption are about his words."
+    },
+    {
+      "name": "United Nations",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The overlay text states, 'it's been days and Trump's still ranting about the UN teleprompter'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "it's been days and Trump's still ranting about the UN teleprompter",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP ON PLAN TO END CONFLICT IN GAZA",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE STATE DINING ROOM",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "AS YOU KNOW, THEY INTRODUCED ME, \"LADIES AND GENTLEMEN, THE PRESIDENT OF THE UNITED STATES...\" TELEPROMPTER AND THE THING WAS DEAD, STONE COLD DEAD. THE THINGS UP HERE. I HAVE A LONG BEAUTIFUL SPEECH TO MAKE. I'M BACK, 30 FEET BACK, AND I'M SAYING, THEY'RE INTRODUCING ME, THERE'S NOTHING ON MY TELEPROMPTER.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump recounts an incident where his teleprompter malfunctioned during a speech. He states he was introduced as 'the President of the United States' but when he looked at the teleprompter, 'the thing was dead, stone cold dead.' He explains that despite having a 'long, beautiful speech to make,' there was nothing on the screen for him to read.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice as he speaks at a podium. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no edits, cuts, or camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is obsessively fixated on a past personal grievance about a malfunctioning teleprompter.",
+  "intended_effect": "To portray Donald Trump as petty and make viewers laugh at him for repeatedly telling this story.",
+  "uncertainty_flags": []
+}

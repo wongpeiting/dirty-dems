@@ -1,0 +1,90 @@
+{
+  "video_id": "7650193922869792013",
+  "visual_action": "A split-screen video. The top half shows a fabricated Jumbotron display for an NBA game at Madison Square Garden between the New York Knicks and San Antonio Spurs. It first shows a black-and-white clip of Taylor Swift looking distressed, then a color clip of her cheering, and finally text that reads 'CELEBRITY ROW'. The bottom half shows a wide shot of the arena, initially in color with a large American flag on the Jumbotron, which then turns to black and white. The entire video has a central text overlay framing the content.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An on-screen text overlay reads 'CROWD REACTS TO TRUMP V.S. TAYLOR SWIFT'."
+    },
+    {
+      "name": "Taylor Swift",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is shown in clips on the Jumbotron, and text on screen identifies her by name. The main text overlay reads 'CROWD REACTS TO TRUMP V.S. TAYLOR SWIFT'."
+    },
+    {
+      "name": "New York Knicks",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The team's name appears on the fabricated scoreboard on the Jumbotron."
+    },
+    {
+      "name": "San Antonio Spurs",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The team's name appears on the fabricated scoreboard on the Jumbotron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MADISON SQUARE GARDEN",
+      "role": "chyron"
+    },
+    {
+      "text": "NEW YORK KNICKS",
+      "role": "other"
+    },
+    {
+      "text": "SAN ANTONIO SPURS",
+      "role": "other"
+    },
+    {
+      "text": "TAYLOR SWIFT",
+      "role": "overlay"
+    },
+    {
+      "text": "NBA FINALS UPDATE",
+      "role": "overlay"
+    },
+    {
+      "text": "CROWD REACTS TO TRUMP V.S. TAYLOR SWIFT",
+      "role": "overlay"
+    },
+    {
+      "text": "CELEBRITY ROW",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of loud crowd noise from a large arena, with a mix of cheering and booing sounds.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The dominant audio is loud, sustained crowd noise from an arena. Underneath the crowd noise, there is faint, low, dramatic string music that adds a sense of importance or tension.",
+  "editing_pacing": "The video uses a static split-screen format. There are a few simple cuts within the top panel, transitioning between different clips and graphics on the Jumbotron. The pacing is slow.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is a composite that fabricates the context of a live event. It uses edited text overlays like 'NBA FINALS UPDATE' and 'CROWD REACTS TO TRUMP V.S. TAYLOR SWIFT' to reframe unrelated footage. The Jumbotron display in the top panel is a fabricated graphic, into which a real clip of Taylor Swift has been inserted, creating the false impression that a political popularity contest was broadcast during an NBA Finals game at Madison Square Garden.",
+  "emotions_signaled": [
+    "Mockery",
+    "Triumph",
+    "Amusement"
+  ],
+  "cultural_references": [
+    "NBA Finals",
+    "Madison Square Garden",
+    "New York Knicks",
+    "San Antonio Spurs"
+  ],
+  "central_claim": "A large crowd at a major sporting event showed enthusiastic support for Taylor Swift and, by implication, disapproval of Donald Trump when they were pitted against each other.",
+  "intended_effect": "To create the impression that Donald Trump is widely unpopular with the general public, even when compared to a non-political celebrity.",
+  "uncertainty_flags": []
+}

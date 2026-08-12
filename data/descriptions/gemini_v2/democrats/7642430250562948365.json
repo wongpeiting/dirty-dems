@@ -1,0 +1,60 @@
+{
+  "video_id": "7642430250562948365",
+  "visual_action": "A static, medium shot shows Donald Trump speaking at a podium against a blue background. He is wearing a dark suit, white shirt, and red tie. An overlay text box appears at the top of the screen throughout the video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and his speech is the sole focus of the video."
+    },
+    {
+      "name": "Abraham Lincoln",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donald Trump says, \"And if you look, with the exception of Abraham Lincoln, possible exception...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Apt. 666",
+      "role": "overlay"
+    },
+    {
+      "text": "Loony Bin",
+      "role": "overlay"
+    },
+    {
+      "text": "Nobody has done more for the Black community than Donald Trump.",
+      "role": "caption"
+    },
+    {
+      "text": "And if you look, with the exception of Abraham Lincoln, possible exception,",
+      "role": "caption"
+    },
+    {
+      "text": "but the exception of Abraham Lincoln. Nobody has done what I've done.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump claims that \"nobody has done more for the Black community than Donald Trump,\" with the \"possible exception\" of Abraham Lincoln. He repeats the exception before stating, \"Nobody has done what I've done.\"",
+  "emojis_present": [],
+  "audio_music": "The video features a light, quirky, instrumental track throughout, which changes to a similar-sounding track around the 7-second mark. The playful, video-game-like music creates a mocking and unserious tone when juxtaposed with Trump's self-aggrandizing political statements.",
+  "editing_pacing": "The video consists of a single, static shot of a talking head with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The number 666, used in the on-screen text 'Apt. 666', is a biblical reference to the 'Number of the Beast', commonly associated with evil or the Antichrist."
+  ],
+  "central_claim": "Donald Trump's claim to have done more for the Black community than any president besides possibly Abraham Lincoln is presented as delusional and absurd.",
+  "intended_effect": "To make the viewer see Donald Trump as grandiose and out of touch, thereby mocking his statement.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,70 @@
+{
+  "video_id": "7583394618134367543",
+  "visual_action": "Donald Trump walks onto an outdoor stage at night, waving to a large crowd. Melania Trump joins him at a podium with the presidential seal, in front of a large, brightly lit Christmas tree. The video cuts between shots of Trump speaking, the crowd recording with their phones, and the lit Christmas tree. The video concludes with a black-and-white image of the White House with animated snow falling and a logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visibly speaks at a podium for the duration of the clip."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Stands on stage next to Donald Trump."
+    },
+    {
+      "name": "Jesus",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speech begins, 'With the birth of Jesus, human history turned from night to day.'"
+    },
+    {
+      "name": "God",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the speech: '...every child is specially made in the image of God.'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a logo reading 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump delivers a Christmas message, stating that the birth of Jesus turned history 'from night to day.' He says Jesus's teachings call people to 'love one another, to serve one another, and to honor the sacred truth that every child is specially made in the image of God.' He concludes by wishing everyone a Merry Christmas, Happy Hanukkah, and a Happy New Year.",
+  "emojis_present": [],
+  "audio_music": "A gentle, orchestral instrumental version of the Christmas carol 'O Christmas Tree' plays throughout the video, creating a reverent and festive mood.",
+  "editing_pacing": "The video is a montage with smooth cuts between different camera angles of the event, including wide shots, close-ups on the speaker, and shots of the crowd and decorations.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Reverence",
+    "Festive spirit",
+    "Patriotism"
+  ],
+  "cultural_references": [
+    "Christmas",
+    "Hanukkah"
+  ],
+  "central_claim": "The President's Christmas message centers the holiday on the birth of Jesus and its associated values of love, service, and the sanctity of life.",
+  "intended_effect": "To evoke feelings of holiday spirit, reverence, and national pride, and to associate the President with traditional Christian values.",
+  "uncertainty_flags": []
+}

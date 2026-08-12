@@ -1,0 +1,61 @@
+{
+  "video_id": "7320003388341701934",
+  "visual_action": "A montage of clips shows President Joe Biden in various settings. He is seen outdoors smiling and wearing aviator sunglasses, walking with Vice President Kamala Harris through an ornate hallway in the White House, smiling at a rally, walking on stage with a large American flag in the background, signing a document at a desk in the Oval Office, walking outside with Harris again, and finally a close-up of him smiling while seated indoors. A screenshot of a tweet from 'The Democrats' is overlaid on the bottom half of the screen throughout the video.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in every clip of the montage and is named in the on-screen text: 'Thanks to President @JoeBiden's leadership...'"
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The on-screen text is a screenshot of a tweet from the account 'The Democrats' (@TheDemocrats)."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown walking alongside Joe Biden in two separate clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "🚨 2024 News 🚨",
+      "role": "overlay"
+    },
+    {
+      "text": "Thanks to President @JoeBiden's leadership, insulin is now capped at $35/month for all major insulin manufacturers.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is entirely set to music.",
+  "emojis_present": [
+    "🚨"
+  ],
+  "audio_music": "An upbeat, funky instrumental track plays throughout the video, creating a positive, energetic, and celebratory mood that aligns with the message of a policy achievement.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different clips of President Biden.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Positivity",
+    "Admiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Thanks to President Joe Biden's leadership, the price of insulin has been capped at $35 per month.",
+  "intended_effect": "To make viewers feel positive about President Biden's policy accomplishments and associate his presidency with tangible benefits for Americans.",
+  "uncertainty_flags": []
+}

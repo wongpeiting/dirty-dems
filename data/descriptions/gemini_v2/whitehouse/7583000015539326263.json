@@ -1,0 +1,65 @@
+{
+  "video_id": "7583000015539326263",
+  "visual_action": "A woman with blonde hair, identified as Karoline Leavitt, stands at the White House press briefing podium and speaks directly to the camera. The podium is labeled 'THE WHITE HOUSE WASHINGTON' and the background features the White House seal. Text overlays appear on the screen as she speaks.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, identified by face recognition and referred to as 'Press Sec' in the caption."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker begins by saying, 'President Trump's pro-growth policies...'"
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker refers to 'the painful Biden years'."
+    },
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'The Trump Administration is continuing to deliver...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE WASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "The Trump Administration is continuing to deliver bigger paychecks and lower prices",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The speaker, identified as the Press Secretary, claims that President Trump's 'pro-growth policies' are making America affordable again. She contrasts this with 'the painful Biden years,' when she states inflation reached a 'record high 9%'.",
+  "emojis_present": [
+    "💸"
+  ],
+  "audio_music": "The video contains only clear, spoken dialogue from a single speaker. There is no music or other audio.",
+  "editing_pacing": "The video is a single, static shot of a talking head at a podium. Text is overlaid on the screen, but there are no cuts or camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Reassurance",
+    "Disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration's policies are successfully lowering prices and increasing paychecks, fixing the high inflation that occurred under the Biden administration.",
+  "intended_effect": "To persuade viewers that the current administration's economic management is superior to the previous one and is benefiting American families.",
+  "uncertainty_flags": []
+}

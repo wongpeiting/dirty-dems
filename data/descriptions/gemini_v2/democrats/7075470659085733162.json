@@ -1,0 +1,84 @@
+{
+  "video_id": "7075470659085733162",
+  "visual_action": "The video begins with a wide shot of Joe Biden, Jill Biden, Kamala Harris, and Doug Emhoff walking down the steps of the U.S. Capitol building. A tweet from Joe Biden is overlaid. The video then cuts to a montage of clips showing a smiling Joe Biden at a podium. A series of tweets from the U.S. Department of Labor, showing positive economic statistics from 2021 and 2022, are displayed sequentially over these clips.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips, and a tweet from his account is displayed on screen."
+    },
+    {
+      "name": "U.S. Department of Labor",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Tweets from the @USDOL account are shown repeatedly to provide economic data."
+    },
+    {
+      "name": "Jill Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown walking with Joe Biden in the opening shot."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown walking down the steps in the opening shot."
+    },
+    {
+      "name": "Doug Emhoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown walking with Kamala Harris in the opening shot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Joe Biden @JoeBiden\nUnited States government official\nI know times are tough, the challenges are daunting, but I know we can do this.\nWe can create an economic recovery for all.",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. Department of Labor @USDOL\nIn July 2021, the unemployment rate declined to 5.4% and we added 943,000 jobs to the economy.",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. Department of Labor @USDOL\nIn October, the unemployment rate declined to 4.6% and we added 531,000 jobs to the economy.",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. Department of Labor @USDOL\nIn December, the unemployment rate declined to 3.9% - the lowest since the pandemic began.",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. Department of Labor @USDOL\nIn February, the unemployment rate was 3.8% and we added 678,000 jobs. There is broad growth in the economy, with 1.2 million jobs added in 2022.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; it is set entirely to music.",
+  "emojis_present": [],
+  "audio_music": "The video begins with a solemn, orchestral string piece for the first three seconds, corresponding to a message about 'tough times'. It then abruptly switches to a fast-paced, upbeat, and celebratory synth-pop track that continues for the rest of the video as positive economic data is shown.",
+  "editing_pacing": "The video is a fast-paced montage, cutting between clips of Joe Biden and a slideshow of tweets containing economic statistics. The cuts are timed to the beat of the upbeat music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Hope",
+    "Optimism",
+    "Pride",
+    "Reassurance"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Biden administration has successfully delivered on its promise of economic recovery, as evidenced by consistently improving employment statistics.",
+  "intended_effect": "To persuade viewers that the Biden administration's economic policies are effective and have led to significant job growth and a stronger economy.",
+  "uncertainty_flags": []
+}

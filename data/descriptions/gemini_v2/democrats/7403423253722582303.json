@@ -1,0 +1,113 @@
+{
+  "video_id": "7403423253722582303",
+  "visual_action": "A slideshow displays still images of Democratic National Convention stages and crowds from different years. The 2008 photo shows an empty but grandly lit stage. The 2012 and 2016 photos show massive arenas filled with people. The 2020 photo shows Joe Biden, Jill Biden, Kamala Harris, and Doug Emhoff on a much smaller, socially-distanced stage. The video concludes with a large white question mark over the year 2024.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'Democratic National Convention stages through the years'."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears on a large screen on the stage in the photo labeled '2012'."
+    },
+    {
+      "name": "Hillary Clinton",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears on a large screen on the stage in the photo labeled '2016'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears standing on stage in the photo labeled '2020'."
+    },
+    {
+      "name": "Jill Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears standing on stage next to Joe Biden in the photo labeled '2020'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears standing on stage in the photo labeled '2020'."
+    },
+    {
+      "name": "Doug Emhoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears standing on stage next to Kamala Harris in the photo labeled '2020'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democratic National Convention stages through the years",
+      "role": "overlay"
+    },
+    {
+      "text": "2008",
+      "role": "overlay"
+    },
+    {
+      "text": "DNC\nDEMOCRATIC\nNATIONAL",
+      "role": "other"
+    },
+    {
+      "text": "2012",
+      "role": "overlay"
+    },
+    {
+      "text": "2016",
+      "role": "overlay"
+    },
+    {
+      "text": "2020",
+      "role": "overlay"
+    },
+    {
+      "text": "?",
+      "role": "overlay"
+    },
+    {
+      "text": "2024",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only an instrumental music track.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, consistent electronic instrumental track plays throughout the video, creating a sense of energy and positive momentum.",
+  "editing_pacing": "The video is a simple slideshow, cutting between still photos every few seconds in time with the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anticipation",
+    "pride",
+    "nostalgia"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic National Convention is a historically large and exciting event, and the 2024 convention will continue this tradition.",
+  "intended_effect": "To generate excitement and anticipation for the 2024 Democratic National Convention by showcasing the scale of past events.",
+  "uncertainty_flags": [
+    "While the provided face-ID context is empty, several prominent political figures (Barack Obama, Hillary Clinton, Joe Biden, Jill Biden, Kamala Harris, Doug Emhoff) are clearly visible in the photographs."
+  ]
+}

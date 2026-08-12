@@ -1,0 +1,55 @@
+{
+  "video_id": "7411543194023906603",
+  "visual_action": "A video following the 'the artist / the art' meme format. It first shows a photo of a man identified as 'Sen. Jon Tester' standing in front of a red barn, labeled 'the artist'. It then cuts to a screenshot of a tweet from the account 'Jon Tester @jontester' which is labeled 'the art'. The tweet asks 'Do you like my drawing?' and shows a picture of a piece of paper with the handwritten words 'JON TESTER for U.S. SENATE' and a simple drawing of a face.",
+  "cast": [
+    {
+      "name": "Jon Tester",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His photo is shown with the label 'Sen. Jon Tester Montana', and a screenshot of a tweet from his account '@jontester' is the focus of the second half of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the artist",
+      "role": "overlay"
+    },
+    {
+      "text": "Sen. Jon Tester\nMontana",
+      "role": "overlay"
+    },
+    {
+      "text": "the art 🔥😥",
+      "role": "overlay"
+    },
+    {
+      "text": "Jon Tester\n@jontester\nDo you like my drawing?",
+      "role": "other"
+    },
+    {
+      "text": "JON TESTER for U.S. SENATE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it consists only of music.",
+  "emojis_present": [
+    "🔥",
+    "😥"
+  ],
+  "audio_music": "A dramatic, grandiose, and echoing choral music track plays throughout the video, creating a mock-epic tone.",
+  "editing_pacing": "A static slideshow with a single cut between two images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Humor",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The Artist vs. The Art meme format."
+  ],
+  "central_claim": "The video mocks Senator Jon Tester by using a meme format to present his simple, childlike drawing as his 'art'.",
+  "intended_effect": "To make the viewer laugh at Jon Tester and perceive him as unserious or goofy.",
+  "uncertainty_flags": []
+}

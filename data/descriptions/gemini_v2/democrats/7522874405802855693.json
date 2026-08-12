@@ -1,0 +1,107 @@
+{
+  "video_id": "7522874405802855693",
+  "visual_action": "A news clip from MSNBC's 'Morning Joe' shows Kentucky Governor Andy Beshear in a remote interview criticizing a Republican budget bill. As he speaks about the bill's negative impacts on his state, the video displays a slideshow of screenshots of various news headlines from different outlets that support his claims. The headlines cover topics like SNAP cuts, job losses in clean energy, and threats to rural hospitals.",
+  "cast": [
+    {
+      "name": "Andy Beshear",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on screen throughout the video, identified by a chyron reading 'GOV. ANDY BESHEAR (D-KY)' and is the sole speaker after the introduction."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption reads 'Trump doesn’t care about Americans.' He is also named in on-screen text ('Trump's bill') and in the audio ('Donald Trump and the Republican Party')."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referenced in the audio as 'the Republican Party' and on-screen text as 'GOP's BUDGET BILL'."
+    },
+    {
+      "name": "unnamed MSNBC anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears in a split-screen interview with Andy Beshear and asks the opening question. He is not identified by name."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Gov. Beshear on the impact of Trump's bill for rural America",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATIC GOVERNORS OF RED STATES WARN OF CONSEQUENCES OF GOP'S BUDGET BILL",
+      "role": "chyron"
+    },
+    {
+      "text": "GOV. ANDY BESHEAR (D-KY) ON TRUMP'S BUDGET BILL",
+      "role": "chyron"
+    },
+    {
+      "text": "SNAP cuts set to strain KY budget, may impact schools",
+      "role": "overlay"
+    },
+    {
+      "text": "200,000 OF MY PEOPLE",
+      "role": "overlay"
+    },
+    {
+      "text": "Budget bill threatens major clean energy investments and jobs in Kentucky",
+      "role": "overlay"
+    },
+    {
+      "text": "LOSE THEIR JOB.",
+      "role": "overlay"
+    },
+    {
+      "text": "38% of KY children would not qualify for full tax credit under Trump spending bill",
+      "role": "overlay"
+    },
+    {
+      "text": "NOW HAVE A GOOD JOB.",
+      "role": "overlay"
+    },
+    {
+      "text": "Kentucky faces big Medicaid cuts under Trump's bill",
+      "role": "overlay"
+    },
+    {
+      "text": "Kentucky hospitals leader warns Senate megabill would 'devastate' health care, economy",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans' big bill could hit rural hospitals hard",
+      "role": "overlay"
+    },
+    {
+      "text": "THE U.S. ECONOMY.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Governor Andy Beshear claims a budget bill from Donald Trump and the Republican Party will be \"devastating\" for rural America, especially Kentucky. He states that in his state, 200,000 people will lose healthcare, 20,000 healthcare workers will lose their jobs, and 35 rural hospitals may close. Beshear argues that these closures will cripple local economies, as hospitals are often the largest employers. He concludes by calling the legislation \"the worst bill I've seen in my lifetime\" and says it will \"hammer the U.S. economy.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of dialogue from a news broadcast interview, with no music or sound effects.",
+  "editing_pacing": "The video uses quick cuts, presenting a news interview that is intercut with a rapid slideshow of news headlines that appear as full-screen images. Large, animated text overlays key phrases from the speech for emphasis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Alarm",
+    "Concern",
+    "Anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "A budget bill proposed by Donald Trump and the Republican Party will devastate rural Americans, particularly in Kentucky, by cutting healthcare, eliminating jobs, and closing essential local hospitals.",
+  "intended_effect": "To generate opposition to Donald Trump and the Republican Party by highlighting the severe negative consequences their proposed budget bill will have on rural communities.",
+  "uncertainty_flags": []
+}

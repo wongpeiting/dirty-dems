@@ -1,0 +1,77 @@
+{
+  "video_id": "7104768375007694126",
+  "visual_action": "A woman speaks directly to the camera, standing in front of a large graphic. The graphic is a color-coded map of the United States with the title \"STATES WHERE ABORTION COULD BE BANNED\". The map shows various states in red, orange, yellow, and gray. The woman gestures towards the map as she explains what the different colors signify regarding potential abortion restrictions.",
+  "cast": [
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "This woman is the sole speaker and presenter in the video, explaining the on-screen graphic."
+    },
+    {
+      "name": "Roe v. Wade",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker's entire explanation is predicated on the potential overturning of this Supreme Court case, mentioned at the beginning: \"If Roe versus Wade is overturned...\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the official TikTok account '@thedemocrats', which is visible on screen."
+    },
+    {
+      "name": "Center for Reproductive Rights",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization is listed as a source for the map graphic in on-screen text."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The newspaper is listed as a source for the map graphic in on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "STATES WHERE ABORTION COULD BE BANNED",
+      "role": "overlay"
+    },
+    {
+      "text": "Sources: Center for Reproductive Rights, The New York Times",
+      "role": "credit"
+    },
+    {
+      "text": "@thedemocrats",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The speaker warns that if Roe v. Wade is overturned, around half of the states could move to ban or severely restrict abortion. She explains a color-coded map: yellow states could reinforce pre-Roe bans, orange states could restrict abortions at 22 weeks or earlier, and red states could ban them almost immediately. She concludes, \"We must protect reproductive rights in America.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of the woman's speaking voice. There is no music or other sound.",
+  "editing_pacing": "The video is a static talking-head shot. The camera framing on the speaker changes slightly during the video, but the overall pacing is slow and informational.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Concern",
+    "Alarm"
+  ],
+  "cultural_references": [],
+  "central_claim": "If the Supreme Court overturns Roe v. Wade, approximately half of the U.S. states are poised to ban or severely restrict abortion access.",
+  "intended_effect": "To inform and alarm viewers about the potential widespread loss of abortion access and to motivate them to support the protection of reproductive rights.",
+  "uncertainty_flags": [
+    "The identity of the woman speaking is not specified."
+  ]
+}

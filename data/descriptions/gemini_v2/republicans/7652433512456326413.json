@@ -1,0 +1,83 @@
+{
+  "video_id": "7652433512456326413",
+  "visual_action": "A montage of video clips featuring various Democratic politicians. Gavin Newsom is shown touching his forehead with his eyes closed. Hakeem Jeffries is shown looking serious and then shouting into a microphone. Alexandria Ocasio-Cortez is shown raising a fist in a crowd and shouting at a podium. The clips have a dark, grainy filter applied.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Gavin Newsom is shown at the beginning of the video, looking stressed and touching his forehead."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Hakeem Jeffries is shown twice in the montage, once looking serious and once shouting into a microphone."
+    },
+    {
+      "name": "Alexandria Ocasio Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Alexandria Ocasio-Cortez is shown in a crowd and also speaking angrily at a podium."
+    },
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Bernie Sanders is listed in the authoritative face-ID and appears to be visible in a blurry crowd shot."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is a montage of prominent Democratic politicians, implying a critique of the party as a whole."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MY HEAD IS FULL OF POISON",
+      "role": "overlay"
+    },
+    {
+      "text": "AND MY HEART IS FULL",
+      "role": "overlay"
+    },
+    {
+      "text": "OF DOUBT",
+      "role": "overlay"
+    },
+    {
+      "text": "I GOT TOXINS IN MY BLOOD",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a song whose lyrics are partially displayed as on-screen text: \"My head is full of poison and my heart is full of doubt. I got toxins in my blood.\"",
+  "emojis_present": [],
+  "audio_music": "The video is set to the song 'the cure' by Olivia Rodrigo. The song has a melancholic and angsty tone, which creates a negative and troubled atmosphere for the montage of politicians.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different clips of politicians. A dark, grainy visual filter is applied throughout.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disgust",
+    "Contempt",
+    "Unease"
+  ],
+  "cultural_references": [
+    "The song 'the cure' by Olivia Rodrigo is used as the soundtrack."
+  ],
+  "central_claim": "Prominent Democratic politicians are emotionally unstable, angry, and metaphorically 'poisonous' or 'toxic', as suggested by the selected clips and the lyrics of the accompanying song.",
+  "intended_effect": "To portray Democratic leaders as unhinged, troubled, and unfit to lead, thereby fostering distrust and contempt for them and their party.",
+  "uncertainty_flags": [
+    "The visual identification of Bernie Sanders is difficult due to the blurriness of the clip; his inclusion is based on the authoritative face-ID."
+  ]
+}

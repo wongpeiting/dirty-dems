@@ -1,0 +1,66 @@
+{
+  "video_id": "7664386083592916238",
+  "visual_action": "The video shows the Spanish national soccer team celebrating on a podium in a crowded stadium after winning the World Cup. A figure who appears to be Donald Trump, wearing a dark suit, walks through the middle of the celebrating players. A brief screenshot of a social media meme is inserted, showing a different team on a bench with text mocking someone for being there. The video then returns to the Spanish team lifting the World Cup trophy as the Trump figure stands off to the side, and confetti falls.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text asks, 'why did trump photobomb the world cup champions 😅'. A person who looks like him is shown on screen."
+    },
+    {
+      "name": "Spain National Football Team",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A chyron on screen identifies the team as 'SPAIN' and 'FIFA WORLD CUP 2026™ CHAMPIONS'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "why did trump photobomb the world cup champions 😅",
+      "role": "overlay"
+    },
+    {
+      "text": "SPAIN",
+      "role": "chyron"
+    },
+    {
+      "text": "FIFA WORLD CUP 2026™ CHAMPIONS",
+      "role": "chyron"
+    },
+    {
+      "text": "Who invited my man blud 😭😭😭",
+      "role": "meme_text"
+    },
+    {
+      "text": "Bro thinks he's on the team 🤦🤦🤦🤦🤦",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set entirely to music.",
+  "emojis_present": [
+    "😅",
+    "😭",
+    "🤦"
+  ],
+  "audio_music": "The video is set to a dramatic and emotional piece of music featuring a high-pitched, wailing male vocal line. The serious, anthemic tone of the music creates a comedic and satirical contrast with the absurd visual of Donald Trump seemingly inserting himself into a sports celebration.",
+  "editing_pacing": "The video is a single, slow-paced clip of a celebration, with one quick cut to an inserted meme screenshot for comedic effect.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Donald Trump has been digitally superimposed into footage of the Spanish national football team celebrating a World Cup victory to satirically portray him as an attention-seeking intruder who shows up where he does not belong.",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "FIFA World Cup",
+    "The 'Bro thinks he's on the team' meme format",
+    "Internet slang ('blud')"
+  ],
+  "central_claim": "The post satirically suggests Donald Trump photobombed the Spanish soccer team's 2026 World Cup victory, portraying him as an unwanted and attention-seeking presence.",
+  "intended_effect": "To make the viewer laugh at and mock Donald Trump, seeing him as a self-important figure who awkwardly inserts himself into events.",
+  "uncertainty_flags": []
+}

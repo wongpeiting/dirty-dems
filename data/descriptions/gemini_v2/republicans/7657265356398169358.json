@@ -1,0 +1,125 @@
+{
+  "video_id": "7657265356398169358",
+  "visual_action": "A news anchor in a studio stands in front of a large screen displaying a Gallup poll titled \"HOW PROUD TO BE AMERICAN?\". He points to the poll results, which compare Republicans (GOP) and Democrats (DEM). The poll shows that 93% of Republicans are 'Extremely or Very' proud, compared to 27% of Democrats. It also shows 36% of Democrats have 'Little or No' pride. A CNN logo is visible, and a news chyron runs along the bottom. Towards the end of the clip, another man in a suit appears on the left, listening to the anchor.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The poll data is broken down by party, showing results for \"DEM.\" The main text overlay claims \"DEMOCRAT LEADERS ARE BRAINWASHING THEIR VOTERS TO HATE AMERICA.\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The poll data is broken down by party, showing results for \"GOP.\" The anchor highlights their high level of patriotism (93%) in contrast to Democrats."
+    },
+    {
+      "name": "unnamed CNN anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man is shown speaking and presenting the poll data in a studio with a CNN logo on screen."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo appears on screen throughout the clip."
+    },
+    {
+      "name": "Gallup",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The poll graphic on the screen is explicitly credited to \"GALLUP\"."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A second man appears on set listening to the anchor towards the end of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DEMOCRAT LEADERS ARE BRAINWASHING THEIR VOTERS TO HATE AMERICA.",
+      "role": "overlay"
+    },
+    {
+      "text": "HOW PROUD TO BE AMERICAN?\nGALLUP",
+      "role": "overlay"
+    },
+    {
+      "text": "GOP",
+      "role": "overlay"
+    },
+    {
+      "text": "DEM",
+      "role": "overlay"
+    },
+    {
+      "text": "EXTREMELY OR VERY",
+      "role": "overlay"
+    },
+    {
+      "text": "LITTLE OR NO",
+      "role": "overlay"
+    },
+    {
+      "text": "93%",
+      "role": "overlay"
+    },
+    {
+      "text": "1%",
+      "role": "overlay"
+    },
+    {
+      "text": "27%",
+      "role": "overlay"
+    },
+    {
+      "text": "36%",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE ODDS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A CNN anchor analyzes a Gallup poll on American pride, contrasting Republicans and Democrats. He notes that 93% of Republicans are \"extremely or very proud\" to be American, while only 1% have \"little or no pride.\" He then highlights the Democratic side, where only 27% are extremely or very proud. The anchor emphasizes that for Democrats, the percentage with \"little or no proud to be an American\" (36%) is actually higher than the percentage who are extremely or very proud. He concludes that Republicans and Democrats live in \"such a different universe\" on this issue.",
+  "emojis_present": [],
+  "audio_music": "Dialogue only, consisting of a news anchor's voice from a broadcast segment. No music or sound effects are present.",
+  "editing_pacing": "The video is a single, continuous clip from a news broadcast, presented as a talking-head segment. A large text overlay has been added at the top.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "disapproval",
+    "polarization",
+    "pride"
+  ],
+  "cultural_references": [
+    "Love Island: USA",
+    "OpenAI"
+  ],
+  "central_claim": "Democratic leaders are successfully convincing their voters to be unpatriotic, as shown by poll data where more Democrats report having 'little or no' pride in America than 'extreme or very' high pride.",
+  "intended_effect": "To convince the audience that the Democratic Party fosters anti-American sentiment, contrasting it with the patriotism of the Republican Party, and to generate alarm about this political divide.",
+  "uncertainty_flags": [
+    "The names of the two men shown in the CNN broadcast are not identified."
+  ]
+}

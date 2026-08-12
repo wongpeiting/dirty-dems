@@ -1,0 +1,83 @@
+{
+  "video_id": "7665377520602189070",
+  "visual_action": "The video is a short clip broadcast from MSNBC's \"Money Power Politics with Stephanie Ruhle,\" labeled live from Joint Base Andrews. Donald Trump is shown outdoors on a tarmac, wearing a navy suit with a red tie, speaking to reporters with Air Force One partially visible in the background. Military personnel in dress uniforms stand nearby. The upper portion of the frame is black with a white-background overlay text caption. The lower portion is also black with yellow subtitle text that appears word by word. The clip progresses through karaoke-style subtitles revealing Trump's words incrementally: \"ARE BROADLY,\" \"WELL,\" \"AMERICANS,\" \"AMERICANS,\" \"AMERICANS,\" \"AREN'T AGAINST,\" \"AREN'T AGAINST.\" The MSNBC chyron reads \"NOW: TRUMP HEADS TO DIGNIFIED TRANSFER OF U.S. SOLDIERS.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Face confirmed by InsightFace; he is speaking on the tarmac, and the on-screen overlay text attributes the quote 'Americans aren't against the Iran War' to him."
+    },
+    {
+      "name": "Stephanie Ruhle",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the MSNBC chyron: 'Money Power Politics | Stephanie Ruhle'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: Americans aren't against the Iran War",
+      "role": "overlay"
+    },
+    {
+      "text": "MOMENTS AGO\nJOINT BASE ANDREWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: TRUMP HEADS TO DIGNIFIED TRANSFER OF U.S. SOLDIERS",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE > 6:55",
+      "role": "chyron"
+    },
+    {
+      "text": "Money Power Politics | Stephanie Ruhle",
+      "role": "chyron"
+    },
+    {
+      "text": "MS NOW",
+      "role": "chyron"
+    },
+    {
+      "text": "ARE BROADLY",
+      "role": "caption"
+    },
+    {
+      "text": "WELL,",
+      "role": "caption"
+    },
+    {
+      "text": "AMERICANS",
+      "role": "caption"
+    },
+    {
+      "text": "AREN'T AGAINST",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Trump is speaking to reporters on the tarmac at Joint Base Andrews. The audio captures him saying something along the lines of: \"Well, Americans are broadly aren't against [the Iran War].\" The subtitle text progressively reveals the words, building to the full statement attributed in the overlay: \"Americans aren't against the Iran War.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of the live speech/press-gaggle footage from Trump on the tarmac — ambient tarmac sound and his voice. No music or score is present. No commercial track was matched. This is original speech audio.",
+  "editing_pacing": "Short clip with static framing on Trump from a fixed broadcast camera. Karaoke-style word-by-word subtitle reveals are used in the lower black bar to emphasize the quote incrementally. No cuts away from the single shot; pacing is slow and deliberate to let each word land.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm/concern — the framing of a war being normalized by Trump's words",
+    "disbelief — the incremental subtitle reveal builds to a striking quote"
+  ],
+  "cultural_references": [],
+  "central_claim": "Trump publicly stated that Americans are not broadly against a war with Iran, framed here as a notable and alarming admission.",
+  "intended_effect": "To make viewers alarmed or outraged by Trump's characterization of American public opinion on a potential Iran war, presented via the @democrats account to highlight the statement as disqualifying or reckless.",
+  "uncertainty_flags": [
+    "The Whisper transcript was not provided, so the exact full verbatim quote from Trump cannot be confirmed beyond what the on-screen subtitles reveal word-by-word.",
+    "It is unclear from context whether Trump said 'Americans aren't against the Iran War' as a direct claim or whether this was part of a longer, more nuanced statement that may have been selectively clipped.",
+    "The specific date of this broadcast/tarmac event cannot be confirmed from the frames alone; 'MOMENTS AGO' and 'JOINT BASE ANDREWS' are visible but no date stamp.",
+    "The subtitle text fragments ('ARE BROADLY,' 'WELL,' 'AMERICANS,' 'AREN'T AGAINST') do not fully resolve into a grammatical complete sentence — the full quote structure is somewhat ambiguous from the frames alone."
+  ]
+}

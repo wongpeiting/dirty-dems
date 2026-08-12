@@ -1,0 +1,142 @@
+{
+  "video_id": "7620942287706672397",
+  "visual_action": "A fast-paced montage contrasting two distinct aesthetics. The first half is in black-and-white and features negative imagery: Donald Trump in what appears to be a situation room, a photo of Trump with Jeffrey Epstein, a tense scene of armed individuals facing off against civilians in a snowy area, and a gas station sign showing high prices. The second half shifts to full color and features positive, uplifting imagery: a man and woman celebrating at a parade, a smiling Mark Kelly in a flight jacket, two female US Olympic hockey players celebrating with gold medals and an American flag, Raphael Warnock and Jon Ossoff waving at a campaign rally, actor Michael B. Jordan holding an Oscar, politician James Talarico speaking at a rally, and a female figure skater with a gold medal and an American flag.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in two separate black-and-white photos at the beginning of the video, representing the negative choice."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video, posted by the official '@democrats' account, contrasts negative imagery associated with their main political opponent (Donald Trump) with positive imagery featuring Democratic politicians and American achievements, implying a vote for Democrats leads to progress."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a black-and-white photograph standing next to Donald Trump."
+    },
+    {
+      "name": "Mark Kelly",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown smiling in a flight jacket in the colorful, positive montage."
+    },
+    {
+      "name": "Raphael Warnock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown waving at a rally alongside Jon Ossoff, with a 'Warnock' campaign sign visible."
+    },
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown waving at a rally alongside Raphael Warnock, with a 'Jon Ossoff U.S. Senate' sign visible."
+    },
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown speaking at a lectern with a sign that reads 'TALARICO FOR TEXAS'."
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via context's facial recognition as the woman in the red dress celebrating at a parade at the beginning of the positive montage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "we can stay here",
+      "role": "overlay"
+    },
+    {
+      "text": "or we can go",
+      "role": "overlay"
+    },
+    {
+      "text": "we can go",
+      "role": "overlay"
+    },
+    {
+      "text": "UP",
+      "role": "overlay"
+    },
+    {
+      "text": "EXXON",
+      "role": "other"
+    },
+    {
+      "text": "4 89 9/10",
+      "role": "other"
+    },
+    {
+      "text": "4 99 9/10",
+      "role": "other"
+    },
+    {
+      "text": "5 79 9/10",
+      "role": "other"
+    },
+    {
+      "text": "Warnock",
+      "role": "other"
+    },
+    {
+      "text": "Jon Ossoff\nU.S. SENATE",
+      "role": "other"
+    },
+    {
+      "text": "TALARICO\nFOR TEXAS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A female voice sings lyrics that correspond to the text on screen, presenting a choice: \"we can stay here... or we can go... up.\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat, electronic pop track plays throughout the video. The song, identified as 'DON’T CARE' by Lina Solé, creates a sense of driving momentum. Its effect shifts from slightly tense during the negative black-and-white montage to optimistic and celebratory during the colorful positive montage.",
+  "editing_pacing": "A fast-paced montage with quick cuts synchronized to the beat of the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Anxiety",
+    "Disgust",
+    "Hope",
+    "Pride",
+    "Optimism"
+  ],
+  "cultural_references": [
+    "Michael B. Jordan",
+    "The Oscars (Academy Awards)",
+    "Louis Vuitton",
+    "The Olympics"
+  ],
+  "central_claim": "Continuing with Republican leadership, represented by Donald Trump, leads to negative outcomes like high gas prices and corruption, whereas choosing Democrats will lead to progress, success, and prosperity.",
+  "intended_effect": "To persuade viewers to support the Democratic party by contrasting a dystopian vision associated with their opponents with an aspirational, positive vision.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('Cause we can skate here on week to go...') is highly inaccurate; the audible sung lyrics clearly align with the on-screen text ('we can stay here... or we can go... up').",
+    "The provided authoritative face-ID list includes several individuals (Elon Musk, JD Vance, Marco Rubio, Mike Johnson, Pete Buttigieg, Barack Obama, Gretchen Whitmer, Zohran Mamdani) who do not appear to be visually present in the video."
+  ]
+}

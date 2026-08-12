@@ -1,0 +1,65 @@
+{
+  "video_id": "7597533343659478285",
+  "visual_action": "Donald Trump speaks from a podium in the White House briefing room. He repeatedly holds up and displays posters with mugshots and text, which appear to detail criminal activities. The video ends with a black and white montage of the White House and a helicopter, with 'THE WHITE HOUSE' text overlay.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible speaking at a podium for the entire duration of the speech."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump repeatedly criticizes 'open border policies of Biden' and says 'Biden wouldn't do this because he let them all in.'"
+    },
+    {
+      "name": "Unnamed individuals depicted on posters",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Trump holds up multiple posters featuring mugshots of individuals whom he describes as 'vicious,' 'murderous,' and 'criminal illegal aliens.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THIS IS WHY WE DO WHAT WE DO.",
+      "role": "overlay"
+    },
+    {
+      "text": "MINNESOTA WORST OF WORST",
+      "role": "other"
+    },
+    {
+      "text": "DRUG TRAFFICKING",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Speaking from a podium, Donald Trump holds up posters featuring mugshots of individuals he claims are 'vicious' and 'murderous' criminals from Minnesota. He describes them as 'criminal illegal aliens,' including 'drug lords' and the 'mentally insane,' and asks the audience, 'Do you want to live with these people?' Trump blames 'open border policies of Biden' for their presence in the U.S., contrasting this with his own administration's actions to apprehend them and have their home countries imprison them.",
+  "emojis_present": [],
+  "audio_music": "The video consists entirely of Donald Trump's spoken voice from a press conference, with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head, followed by a brief black-and-white outro montage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "fear",
+    "anger",
+    "reassurance"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden's open border policies have allowed dangerous undocumented immigrant criminals into the country, but the Trump administration is actively working to remove them and keep Americans safe.",
+  "intended_effect": "To instill fear of undocumented immigrants and persuade viewers that Trump's border policies are necessary for public safety, while framing Biden as dangerously lenient.",
+  "uncertainty_flags": [
+    "The full text and specific details on the posters held by Donald Trump are not completely legible."
+  ]
+}

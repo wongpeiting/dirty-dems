@@ -1,0 +1,55 @@
+{
+  "video_id": "7582377060778216759",
+  "visual_action": "The video consists of two alternating/looping still images used as a slideshow. The first image (shown across most frames) is a nighttime photo of a man in a blue suit with a loosened red tie, walking across a dark lawn while carrying what appears to be a red MAGA-style cap in his hand — his expression appears tired or downcast. The second image (final frame) is a vintage-looking photo, appearing to be from approximately 1992, showing two men at what looks like a party or social event — one in a dark suit with a pink tie gesturing/pointing, and another in a denim shirt. The images are displayed in a vertical phone format with black bars top and bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text descriptors ('sleepy', 'orange', 'tweeting all day and night', 'bored af') are widely used cultural shorthand for Donald Trump; the figure in the blue suit/red tie with red cap matches his well-known appearance and the White House lawn setting. The 1992 archival image caption ('literally a random night in 1992') implies Trump's presence in that photo."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The second image labeled 'literally a random night in 1992' shows two men together; this image is widely circulated as a photo of Donald Trump and Jeffrey Epstein at a 1992 party. The second man in the denim shirt is implied to be Epstein by the post's framing and the known public record of this photograph."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "-sleepy\n-orange\n-tweeting all day\nand night\n-bored af",
+      "role": "overlay"
+    },
+    {
+      "text": "literally a random\nnight in 1992",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken audio detected. The TikTok sound label references \"no lie\" but the Whisper transcript is empty, indicating the post relies entirely on on-screen text and visuals with no voiceover or dialogue.",
+  "emojis_present": [],
+  "audio_music": "No commercial song matched by fingerprint. The TikTok sound is labeled \"no lie\" — likely a short meme audio clip or musical sting used ironically/sarcastically. No spoken audio transcribed. The sound's label suggests a humorous or ironic framing effect (implying the listed traits are truthful).",
+  "editing_pacing": "Slow slideshow / static image format. The first image is held for the majority of the video across multiple frames with no motion. The second image appears as a final reveal. No cuts, zooms, or dynamic editing — purely static photo display.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — the bullet-point list of unflattering traits ('sleepy', 'orange', 'bored af') applied to the figure in the blue suit",
+    "irony — the phrase 'literally a random night in 1992' applied to what is implied to be a well-known photo of Trump with Epstein",
+    "amusement — casual/dismissive tone of the text overlays"
+  ],
+  "cultural_references": [
+    "'Sleepy' as a nickname/meme applied to Trump (ironic reversal, as Trump used 'Sleepy Joe' for Biden)",
+    "'Orange' as a longstanding internet meme descriptor for Trump's skin tone",
+    "The Trump–Epstein 1992 party photo, a widely circulated archival image"
+  ],
+  "central_claim": "The post implies that Donald Trump is defined by unflattering traits (sleepiness, his tan, compulsive tweeting, boredom) and juxtaposes this with a 1992 archival image implying his longstanding social connection with Jeffrey Epstein.",
+  "intended_effect": "Prompt viewers to mock and distrust Donald Trump by associating him with unflattering personal characterizations and his historical association with Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The identity of the man in the blue suit in the first image is inferred from context (blue suit, red tie, red cap, dark lawn setting consistent with White House) but face-ID returned no confirmed match — uncertainty remains.",
+    "The identity of the second man in the 1992 archival photo (implied to be Jeffrey Epstein) is inferred from the widely known public record of this image, not confirmed by face-ID — this should be flagged for human review.",
+    "The specific audio/sound clip labeled 'no lie' could not be characterized beyond its label, as no transcript or fingerprint match was returned."
+  ]
+}

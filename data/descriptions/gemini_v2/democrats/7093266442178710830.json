@@ -1,0 +1,43 @@
+{
+  "video_id": "7093266442178710830",
+  "visual_action": "A static shot of the U.S. Capitol Building is shown against a pink and purple sunset sky. Text is overlaid on the image.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"Republicans have a plan that calls for sunsetting Social Security and Medicare in 5 years...\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"Democrats do not.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans have a plan that calls for sunsetting Social Security and Medicare in 5 years...\n\nDemocrats do not.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "A serious, slightly somber instrumental track plays throughout the video, creating a sense of gravity and concern.",
+  "editing_pacing": "The video consists of a single static shot with no edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican Party has a plan to terminate Social Security and Medicare in five years, whereas the Democratic Party does not.",
+  "intended_effect": "To generate alarm about the Republican Party's alleged agenda and position the Democratic Party as the protector of social safety net programs.",
+  "uncertainty_flags": []
+}

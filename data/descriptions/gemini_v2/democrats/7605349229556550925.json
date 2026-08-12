@@ -1,0 +1,57 @@
+{
+  "video_id": "7605349229556550925",
+  "visual_action": "The video starts with a static screenshot of a tweet from Donald J. Trump criticizing U.S. Olympic Skier Hunter Hess. It then briefly shows a photo of Hess on a winner's podium before transitioning to a fast-paced montage of Hess performing various impressive skiing tricks, including flips, jumps, and grinding on a rail, in snowy, mountainous environments.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet from his account '@realDonaldTrump' is shown, with his name and profile picture visible."
+    },
+    {
+      "name": "Hunter Hess",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is named in Donald Trump's tweet (\"U.S. Olympic Skier, Hunter Hess\") and is the person shown skiing throughout the montage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump ✔️ ➕ @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. Olympic Skier, Hunter Hess, a real Loser, says he doesn't represent his Country in the current Winter Olympics. If that's the case, he shouldn't have tried out for the Team, and it's too bad he's on it. Very hard to root for someone like this. MAKE AMERICA GREAT AGAIN!",
+      "role": "overlay"
+    },
+    {
+      "text": "america’s greatest",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a music track with a repeating vocal sample.",
+  "emojis_present": [
+    "✔️",
+    "➕"
+  ],
+  "audio_music": "An upbeat, energetic hip-hop track ('Without Direction — AUTUMM GRACE') with a driving beat and a repeating vocal sample plays throughout the video. The music creates a 'hype' atmosphere for the skiing montage, contrasting with the negative text from the tweet.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various clips of skiing action.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Irony",
+    "Admiration",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's criticism of Olympic skier Hunter Hess as a 'Loser' is baseless, as demonstrated by Hess's exceptional athletic talent.",
+  "intended_effect": "To generate admiration for Hunter Hess and portray Donald Trump's judgment as poor and unfair.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('We're sick') does not match the audio, which is instrumental music with a vocal sample, not dialogue."
+  ]
+}

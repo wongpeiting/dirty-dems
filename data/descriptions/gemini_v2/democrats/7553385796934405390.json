@@ -1,0 +1,103 @@
+{
+  "video_id": "7553385796934405390",
+  "visual_action": "A series of clips of Donald Trump speaking at a podium are presented in a multi-panel meme format. Each clip is subtitled with a quote attributed to him. The setting appears to be an official room, possibly in the White House, with bookshelves and flags in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole person shown speaking in the video clips."
+    },
+    {
+      "name": "FDA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text includes the quote: \"The FDA will be notifying physicians that the use of...\""
+    },
+    {
+      "name": "The Amish",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text reads: \"With the Amish, for example.\" and \"The Amish. They have essentially no autism.\""
+    },
+    {
+      "name": "Tylenol",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text reads: \"But with Tylenol, don't take it. Don't take it.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "how trump sounded talking about acetaminophen:",
+      "role": "overlay"
+    },
+    {
+      "text": "I'm making these statements from me.",
+      "role": "caption"
+    },
+    {
+      "text": "I'm not making them from these doctors.",
+      "role": "caption"
+    },
+    {
+      "text": "Nothing bad can happen. It can only good happen.",
+      "role": "caption"
+    },
+    {
+      "text": "But with Tylenol, don't take it. Don't take it.",
+      "role": "caption"
+    },
+    {
+      "text": "The FDA will be notifying physicians that the use of...",
+      "role": "caption"
+    },
+    {
+      "text": "Asedo... Well, let's see how we say that. Acid em... menophin.",
+      "role": "caption"
+    },
+    {
+      "text": "Acetaminophen.",
+      "role": "caption"
+    },
+    {
+      "text": "I think I can say there are certain groups of people that have no autism. Is that correct?",
+      "role": "caption"
+    },
+    {
+      "text": "With the Amish, for example.",
+      "role": "caption"
+    },
+    {
+      "text": "The Amish. They have essentially no autism.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio is not of Donald Trump speaking. Instead, it is a high-pitched, autotuned-sounding voice singing lyrics that include \"I saw alien spaceships above my house.\" This song is overlaid on the video clips of Trump.",
+  "emojis_present": [],
+  "audio_music": "A quirky, high-pitched, and surreal electronic song with vocals about seeing \"alien spaceships\" plays throughout the video. This creates a mocking and bizarre tone, contrasting with the serious setting of Trump's speeches.",
+  "editing_pacing": "The video uses a static, multi-panel meme format, cutting between different still or slow-moving clips of Donald Trump. The pacing is dictated by the sequence of text captions appearing on screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "Alien Spaceships - voulezvouz"
+  ],
+  "central_claim": "The post mocks Donald Trump by juxtaposing his statements on medical topics with surreal audio about seeing aliens, implying his pronouncements are nonsensical and detached from reality.",
+  "intended_effect": "To encourage the viewer to see Donald Trump as foolish, incompetent, and unhinged, particularly regarding scientific or medical matters.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is empty, but there is clearly audible music with vocals. The spoken summary is based on direct listening.",
+    "The audio fingerprint in the context indicates a track change at 5.2s, but the initial song, 'Alien Spaceships', appears to play continuously throughout the clip without a noticeable change."
+  ]
+}

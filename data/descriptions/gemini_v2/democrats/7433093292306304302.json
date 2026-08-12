@@ -1,0 +1,89 @@
+{
+  "video_id": "7433093292306304302",
+  "visual_action": "From an audience perspective in a dark, crowded concert arena, musician Billie Eilish stands on a brightly lit stage, speaking to the crowd. A large screen above the stage shows a closer view of her. Many people in the audience are holding up their phones.",
+  "cast": [
+    {
+      "name": "Billie Eilish",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen text identifies her as \"Billie Eilish\" and she is the person on stage speaking."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Billie Eilish explicitly says, \"I hope that you will vote for Kamala Harris.\" On-screen text also reads \"...vote for Kamala\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Billie Eilish stops her concert urging fans to vote for Kamala 💙😭",
+      "role": "overlay"
+    },
+    {
+      "text": "TIMES",
+      "role": "overlay"
+    },
+    {
+      "text": "SCARY",
+      "role": "overlay"
+    },
+    {
+      "text": "STAKE",
+      "role": "overlay"
+    },
+    {
+      "text": "KNOW",
+      "role": "overlay"
+    },
+    {
+      "text": "ROOM",
+      "role": "overlay"
+    },
+    {
+      "text": "SUPPORT",
+      "role": "overlay"
+    },
+    {
+      "text": "WOMEN",
+      "role": "overlay"
+    },
+    {
+      "text": "HOPE",
+      "role": "overlay"
+    },
+    {
+      "text": "VOTE",
+      "role": "overlay"
+    },
+    {
+      "text": "KAMALA HARRIS",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Billie Eilish pauses her concert to address the audience, stating that \"times are really scary and a lot is at stake.\" She tells her fans that if they support her, then they support women, and concludes by saying, \"I hope that you will vote for Kamala Harris,\" which is met with loud cheers from the crowd.",
+  "emojis_present": [
+    "💙",
+    "😭"
+  ],
+  "audio_music": "The audio consists of Billie Eilish's spoken words, with a slight echo characteristic of an arena setting. There is no music. Her speech is followed by a loud, sustained roar of cheering from the large audience.",
+  "editing_pacing": "The video is a single, continuous shot from a static position in the audience. The primary editing effect is the use of large, yellow text that appears on screen to emphasize keywords as they are spoken.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Seriousness",
+    "Hope",
+    "Enthusiasm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Pop star Billie Eilish is endorsing Kamala Harris, and her fans should vote for Harris as an extension of their support for Eilish and for women.",
+  "intended_effect": "To leverage Billie Eilish's celebrity influence to persuade her fans, particularly young people, to vote for Kamala Harris.",
+  "uncertainty_flags": [
+    "The schema's distinction between a 'main character' in `cast` and a 'famous NON-political person' in `cultural_references` is ambiguous for a celebrity who is the active protagonist of a political post. Billie Eilish has been placed in `cast` as she is the primary actor, not a borrowed reference."
+  ]
+}

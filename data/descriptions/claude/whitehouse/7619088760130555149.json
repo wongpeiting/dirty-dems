@@ -1,0 +1,45 @@
+{
+  "video_id": "7619088760130555149",
+  "visual_action": "The video cycles through several scenes of crowded airport environments: (1) A long queue of travelers standing behind rope barriers in what appears to be a customs/security hall; (2) Crowds of people moving through a large airport concourse with a Kia advertisement sign visible overhead; (3) An overhead/wide shot of a massive, densely packed crowd filling an airport terminal floor; (4) A plain black screen with centered white text. The persistent overlay text \"DEMOCRATS' DHS SHUTDOWN:\" appears across all scenes. No named individuals are visible — all subjects are anonymous travelers with luggage.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen overlay reads 'DEMOCRATS' DHS SHUTDOWN:' throughout the video; caption reads 'Thank a democrat'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DEMOCRATS' DHS SHUTDOWN:",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio track is a trending sound built around the repeated phrase \"Oh no, oh no, oh no no no no no, oh no\" — a well-known viral/meme audio clip conveying dismay or things going wrong.",
+  "emojis_present": [
+    "😵‍💫"
+  ],
+  "audio_music": "The audio is the viral \"Oh No\" trending sound (featuring the lyric \"oh no, oh no, oh no no no no no\"), commonly used on social media to underscore something going badly. The sound is attributed in context as \"Military Word Today.\"",
+  "editing_pacing": "Quick cuts between three distinct airport crowd shots, then a final black-screen title card. Fast-paced slideshow format typical of short-form political content.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "frustration — long airport lines paired with the 'Oh No' sound signal inconvenience and failure",
+    "blame — the overlay directly attributes the crowding to a 'Democrats' DHS Shutdown'",
+    "mockery — the caption 'Thank a democrat 😵‍💫' uses sarcasm to assign fault"
+  ],
+  "cultural_references": [
+    "'Oh No' viral meme sound (often used to accompany videos of things going wrong or failures)",
+    "Government shutdown framing as a political blame narrative"
+  ],
+  "central_claim": "Democrats caused a DHS shutdown that resulted in severe airport congestion and long lines for travelers.",
+  "intended_effect": "Anger and frustration directed at Democrats, holding them responsible for tangible disruption to everyday travelers' lives at airports.",
+  "uncertainty_flags": [
+    "The specific DHS shutdown event referenced is not verifiable from the frames alone — unclear exactly which shutdown or date is being referenced, as this may be after knowledge cutoff.",
+    "It is unclear whether the airport footage shown is genuinely from the claimed DHS-shutdown period or is archival B-roll repurposed for illustration.",
+    "The airport(s) depicted are not identified — could be any major US hub.",
+    "No on-screen text beyond the overlay was captured by OCR, consistent with what is visible in the frames."
+  ]
+}

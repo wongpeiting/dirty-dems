@@ -1,0 +1,66 @@
+{
+  "video_id": "7598783230824746254",
+  "visual_action": "A fast-paced montage of famous movie and TV show clips. Scenes include: Rashida Jones in an office; Will Ferrell as a news anchor; an older man watching TV; Matthew McConaughey in a trading room; Hugh Jackman growling intensely; Robert Downey Jr. at a hearing and then dancing; Will Smith looking through a fence; Kurt Russell as a hockey coach in a locker room; Tom Cruise in a fighter jet; Will Ferrell on a treadmill; and several other actors in various roles. The video concludes with black and white imagery of the White House.",
+  "cast": [
+    {
+      "name": "MAGA Movement",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text '365 OF MAGA' appears throughout the video, and the caption reads 'ONE YEAR OF MAGA…'. This is the central theme of the post."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with the text 'THE WHITE HOUSE' over imagery of the building. The post is from the official @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "365 OF MAGA",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a montage of motivational and triumphant quotes from various films, such as \"Everyone loves a good comeback story,\" \"what's right with America,\" \"We kick butt,\" \"It's working. We're safe. America is security,\" \"Don't ever let somebody tell you you can't do something,\" and \"I'm kind of a big deal.\" The lines combine to create a narrative of success, strength, and patriotic pride.",
+  "emojis_present": [],
+  "audio_music": "The video features an energetic and triumphant soundtrack. It starts with Kanye West's \"POWER\" and transitions around the 20-second mark to \"Spit that shit Dezz\" by Got Damn Dezz. The music, combined with the dialogue clips, creates a high-energy, \"hype\" atmosphere.",
+  "editing_pacing": "Fast-paced montage with very quick cuts between a large number of different clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "triumph",
+    "inspiration",
+    "confidence",
+    "excitement"
+  ],
+  "cultural_references": [
+    "Rashida Jones as Ann Perkins in 'Parks and Recreation'",
+    "Will Ferrell as Ron Burgundy in 'Anchorman' and from 'Blades of Glory'",
+    "Gary Cole as Reese Bobby in 'Talladega Nights: The Ballad of Ricky Bobby'",
+    "Matthew McConaughey as Mark Hanna in 'The Wolf of Wall Street'",
+    "Hugh Jackman as Wolverine from 'X-Men' films",
+    "Robert Downey Jr. as Tony Stark in 'Iron Man 2'",
+    "Will Smith as Chris Gardner in 'The Pursuit of Happyness'",
+    "Kurt Russell as Herb Brooks in 'Miracle'",
+    "Tom Cruise as Maverick in 'Top Gun: Maverick'",
+    "Jack Black",
+    "Greg Kinnear",
+    "Elizabeth Banks",
+    "Kanye West (song 'POWER')",
+    "Got Damn Dezz (song 'Spit that shit Dezz')"
+  ],
+  "central_claim": "The first year of the MAGA movement's leadership has been a triumphant and powerful American comeback story, akin to those seen in heroic and successful movies.",
+  "intended_effect": "To generate excitement, pride, and a sense of victory among supporters of the MAGA movement by associating it with iconic pop culture moments of success and defiance.",
+  "uncertainty_flags": [
+    "The specific films for the clips featuring Jack Black, Greg Kinnear, and Elizabeth Banks are not immediately identifiable, though the actors are."
+  ]
+}

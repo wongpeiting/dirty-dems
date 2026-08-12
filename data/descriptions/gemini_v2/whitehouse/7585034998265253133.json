@@ -1,0 +1,51 @@
+{
+  "video_id": "7585034998265253133",
+  "visual_action": "Donald Trump, in a suit and red tie, speaks from a podium bearing the Seal of the President of the United States. He is indoors, in a room decorated with Christmas garlands, and gestures with his hands as he delivers a speech.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person on screen, delivering the entire speech."
+    },
+    {
+      "name": "US Military service members",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speech announces a special payment, the 'Warrior Dividend', for '1,450,000 military service members'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "BECAUSE OF TARIFFS, ALONG WITH THE JUST PASSED ONE BIG BEAUTIFUL BILL, TONIGHT, I AM ALSO PROUD TO ANNOUNCE THAT MORE THAN 1,450,000... 1,450,000 MILITARY SERVICE MEMBERS WILL RECEIVE A SPECIAL, WE CALL WARRIOR DIVIDEND BEFORE CHRISTMAS... A WARRIOR DIVIDEND, IN HONOR OF OUR NATION'S FOUNDING IN 1776, WE ARE SENDING EVERY SOLDIER $1,776. THINK OF THAT. AND THE CHECKS ARE ALREADY ON THE WAY... NOBODY DESERVES IT MORE THAN OUR MILITARY. AND I SAY CONGRATULATIONS TO EVERYBODY.",
+      "role": "caption"
+    },
+    {
+      "text": "1.45 MILLION",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that due to revenue from tariffs and a recently passed bill, 1,450,000 military service members will receive a special \"Warrior Dividend\" before Christmas. He specifies the amount will be $1,776 for every soldier, in honor of the year of the nation's founding. Trump states that the checks are already on their way and this was a surprise announcement, concluding that \"nobody deserves it more than our military.\"",
+  "emojis_present": [
+    "🇺🇸",
+    "🔥"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's voice as he delivers a speech. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Generosity",
+    "Appreciation"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump's economic policies, including tariffs, have generated enough revenue to give a surprise '$1,776 Warrior Dividend' to every US military service member.",
+  "intended_effect": "To foster appreciation for Donald Trump as a leader who supports and provides for the US military, and to evoke patriotic pride.",
+  "uncertainty_flags": []
+}

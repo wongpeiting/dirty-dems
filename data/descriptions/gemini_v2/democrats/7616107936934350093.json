@@ -1,0 +1,55 @@
+{
+  "video_id": "7616107936934350093",
+  "visual_action": "A chaotic scene unfolds in front of a heavily damaged or destroyed building. Smoke is visible from a window. A large, agitated crowd of people is gathered in the street, with some individuals shouting and running. The footage is shaky and appears to be from a handheld camera panning across the aftermath of an explosion or attack.",
+  "cast": [
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are displayed on the tweet-style overlay."
+    },
+    {
+      "name": "The Pentagon",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text mentions 'A new Pentagon investigation...'"
+    },
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states 'the U.S. responsible for the deadly bombing...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews\n\nA new Pentagon investigation has found the U.S. responsible for the deadly bombing of a girls' elementary school in Iran where at least 175 died.\n\nMilitary officers had planned the strike using outdated targeting data.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no discernible dialogue. The audio consists of chaotic background noise, including loud, panicked shouting and screaming from a crowd, suggesting distress and emergency.",
+  "emojis_present": [],
+  "audio_music": "The audio is entirely diegetic sound from the scene. It is filled with continuous and loud sounds of a panicked crowd, including shouting and screaming. The effect is one of immediate chaos, danger, and distress.",
+  "editing_pacing": "The video consists of handheld, shaky camera footage that pans across the scene. The editing is minimal, giving it a raw, documentary-like feel.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The post overlays a screenshot of a purported news post from an entity called 'FactPost'. This is a form of a staged/fake document, as it presents an unverified claim as a credible news report and pairs it with distressing, decontextualized footage to create a specific narrative.",
+  "emotions_signaled": [
+    "horror",
+    "outrage",
+    "anger",
+    "sympathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "The U.S. military, following a Pentagon investigation, has been found responsible for the bombing of a girls' school in Iran that killed 175 people.",
+  "intended_effect": "To evoke horror and outrage at the U.S. government and military for allegedly committing a horrific act of violence against civilians.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' account and its claim is not verified within the video.",
+    "The origin and context of the video footage are unknown, and its connection to the claim made in the text is unsubstantiated."
+  ]
+}

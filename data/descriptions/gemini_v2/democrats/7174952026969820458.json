@@ -1,0 +1,72 @@
+{
+  "video_id": "7174952026969820458",
+  "visual_action": "The video shows footage from the U.S. Senate floor during a vote. A chyron at the bottom of the screen displays the vote count for H.R. 8404, the Respect for Marriage Act, as 'YEA 61 NAY 36'. The camera then zooms in on the 'NAY 36' portion of the chyron.",
+  "cast": [
+    {
+      "name": "U.S. Senate",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is set in the Senate chamber and the on-screen text refers to 'The Senate passing...' and a specific bill, H.R. 8404."
+    },
+    {
+      "name": "Senate Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An on-screen text overlay explicitly states '36 Senate Republicans voting no... 😩😱'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official '@democrats' account, implying they are the narrator/creator of the content."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Senate passing the Respect for Marriage Act 🥰",
+      "role": "overlay"
+    },
+    {
+      "text": "YEA 61",
+      "role": "chyron"
+    },
+    {
+      "text": "NAY 36",
+      "role": "chyron"
+    },
+    {
+      "text": "H.R. 8404, the Respect for Marriage Act",
+      "role": "chyron"
+    },
+    {
+      "text": "36 Senate Republicans voting no... 😩😱",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of music and a sound effect.",
+  "emojis_present": [
+    "🥰",
+    "😩",
+    "😱"
+  ],
+  "audio_music": "The video starts with an upbeat, celebratory pop-style song with vocals singing 'happy, happy'. When the on-screen text shifts to focus on the 'no' votes, the music abruptly cuts off and is replaced by a dramatic gasping sound effect to signal shock or disapproval.",
+  "editing_pacing": "The video consists of a wide shot followed by a quick cut and a dramatic zoom-in on a detail in the on-screen chyron.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Celebration",
+    "Joy",
+    "Shock",
+    "Disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Respect for Marriage Act has passed the Senate, but 36 Republican senators voted against this progress.",
+  "intended_effect": "To celebrate a legislative victory while simultaneously generating disapproval and criticism for the Republican senators who opposed the bill.",
+  "uncertainty_flags": []
+}

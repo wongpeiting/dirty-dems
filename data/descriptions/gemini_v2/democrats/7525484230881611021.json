@@ -1,0 +1,67 @@
+{
+  "video_id": "7525484230881611021",
+  "visual_action": "The video first displays a screenshot of a TIME magazine online article. The headline reads, \"Trump Blasts Reporter for Asking About Epstein: ‘Are People Still Talking About This Guy?’\". After a few seconds, it cuts to a still photograph of Donald Trump and Jeffrey Epstein standing next to each other, smiling at the camera, against a dark background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in the on-screen headline, \"Trump Blasts Reporter...\", and shown in a photograph."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in the on-screen headline, \"...for Asking About Epstein...\", and shown in a photograph with Donald Trump."
+    },
+    {
+      "name": "TIME",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo \"TIME\" is visible at the top of the article screenshot."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen headline: \"Trump Blasts Reporter...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "EXPLORE TIME SUBSCRIBE",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump Blasts Reporter for Asking About Epstein: ‘Are People Still Talking About This Guy?’",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A female voice speaks in a drawn-out, sarcastic tone, repeating variations of \"Oh okay\" and \"Yeah, yeah.\"",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "The audio features a popular, meme-like sound of a female voice sarcastically saying \"Oh okay... yeah yeah... oh okay.\" This is layered over a quiet, indistinct background music track. The effect of the spoken audio is mocking and skeptical.",
+  "editing_pacing": "Slideshow style, consisting of two static images with a single cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "suspicion"
+  ],
+  "cultural_references": [
+    "The audio clip \"Oh okay.. yeah yeah.. oh okay\" is a popular sound on TikTok, often used to express sarcastic disbelief or to mock something someone has said."
+  ],
+  "central_claim": "Donald Trump is being dismissive and deceptive about his past association with Jeffrey Epstein.",
+  "intended_effect": "To make the viewer feel suspicious of Donald Trump and question his relationship with Jeffrey Epstein.",
+  "uncertainty_flags": []
+}

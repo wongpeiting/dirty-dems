@@ -1,0 +1,59 @@
+{
+  "video_id": "7560828217527979319",
+  "visual_action": "Donald Trump is shown sitting at a desk in a formal room. An unseen person speaks about Christopher Columbus. Trump then signs a document with a pen, looks up, and speaks. After he speaks, he holds up the signed document for the camera.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the main person on screen, signs a document, and speaks, announcing the reinstatement of Columbus Day."
+    },
+    {
+      "name": "Christopher Columbus",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about a proclamation regarding Columbus Day, and his legacy is discussed at the beginning."
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An unidentified person speaks at the beginning of the video, providing context about Christopher Columbus."
+    },
+    {
+      "name": "Italian-Americans",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The holiday is described as \"particularly important... for Italian-Americans\" and Trump addresses \"Italians\" at the end of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "COLUMBUS DAY\nWe're BACK",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unseen speaker details Christopher Columbus's history and his importance to Italian-Americans. Donald Trump then interjects, \"In other words, we're calling it Columbus Day.\" After applause, Trump jokes that \"the press\" was the source of the applause. He holds up the signed document and says, \"Columbus Day. We're back. Columbus Day, we're back, Italians.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of spoken dialogue and the sound of applause after Trump's announcement. There is no music.",
+  "editing_pacing": "The video is a single, continuous shot without any cuts or edits, styled like a static talking-head clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "celebration",
+    "triumph"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump has officially reinstated the celebration of Columbus Day.",
+  "intended_effect": "To make viewers, particularly Italian-Americans, feel pride and satisfaction that a traditional holiday has been restored.",
+  "uncertainty_flags": []
+}

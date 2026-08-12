@@ -1,0 +1,145 @@
+{
+  "video_id": "7585347911802686775",
+  "visual_action": "The video is a fast-paced montage. It opens with a large ocean wave, followed by clips of Democratic politicians including Gavin Newsom, Barack Obama, and Zohran Mamdani at rallies and events. It contrasts this with a black-and-white clip of Donald Trump with a muted microphone icon superimposed on his face. The montage continues with scenes of large street protests and rallies with anti-Trump signs, energized crowds, and more Democratic politicians like Abigail Spanberger interacting with supporters. The video concludes with a group of young activists marching with a banner that reads \"OUR TIME IS NOW\" and a final screen with the Democrats' party logo.",
+  "cast": [
+    {
+      "name": "Republican leaders",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The opening line of the video's audio is 'Republican leaders, this is a major warning sign.'"
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visually identified speaking and smiling in front of an American flag."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visually identified on stage at rallies, including one where he raises his arm with another politician."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is visually identified speaking at a podium with a 'ZOHRAN for NEW YORK CITY' sign. His voice is also heard shouting 'Turn the volume up!'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in a brief black-and-white clip, with a muted microphone icon superimposed over his face. Protest signs also read 'TRUMP MUST GO NOW'."
+    },
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visually identified smiling at a podium that reads 'ABIGAIL SPANBERGER'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is an advertisement for the party, posted by their official account, and ends with the 'DEMOCRATS' logo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "REPUBLICAN",
+      "role": "overlay"
+    },
+    {
+      "text": "A",
+      "role": "overlay"
+    },
+    {
+      "text": "SIGN",
+      "role": "overlay"
+    },
+    {
+      "text": "ZOHRAN for NEW YORK CITY",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP MUST GO NOW",
+      "role": "other"
+    },
+    {
+      "text": "NOV 5 FLOOD DC",
+      "role": "other"
+    },
+    {
+      "text": "RESIST LIKE IT'S 1776",
+      "role": "other"
+    },
+    {
+      "text": "TEXT ABIGAIL TO 55105",
+      "role": "chyron"
+    },
+    {
+      "text": "ABIGAIL SPANBERGER",
+      "role": "chyron"
+    },
+    {
+      "text": "VOTE NOVEMBER 4",
+      "role": "chyron"
+    },
+    {
+      "text": "VOTE",
+      "role": "other"
+    },
+    {
+      "text": "ABIGAIL",
+      "role": "other"
+    },
+    {
+      "text": "OUR TIME IS NOW",
+      "role": "other"
+    },
+    {
+      "text": "iwillvote.com",
+      "role": "chyron"
+    },
+    {
+      "text": "DEMOCRATS",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A male voice states, \"Republican leaders, this is a major warning sign.\" This is followed by another male voice (Zohran Mamdani) shouting, \"Turn the volume up!\" The rest of the video is set to music.",
+  "emojis_present": [
+    "🌊"
+  ],
+  "audio_music": "The video begins with a dramatic, suspenseful track for the first eight seconds. It then transitions to an upbeat, high-energy soul/funk song that continues for the remainder of the video, creating a feeling of celebration, momentum, and excitement.",
+  "editing_pacing": "The video is a fast-paced montage with very quick cuts between various politicians, rallies, and protests to build a sense of energy and momentum.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A 'muted microphone' icon is superimposed over Donald Trump's face in a black-and-white clip, a symbolic visual manipulation to suggest he is being silenced.",
+  "emotions_signaled": [
+    "Urgency",
+    "Excitement",
+    "Energy",
+    "Unity",
+    "Triumph"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party has significant and growing momentum, which should serve as a warning to Republicans.",
+  "intended_effect": "To energize Democratic voters and make them feel part of a powerful, winning movement ahead of the 2026 elections.",
+  "uncertainty_flags": [
+    "The provided face-ID list may be incomplete; several other individuals who appear to be politicians (e.g., Mikie Sherrill, Michelle Wu) are featured in the montage but were not identified."
+  ]
+}

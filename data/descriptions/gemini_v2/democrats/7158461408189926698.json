@@ -1,0 +1,68 @@
+{
+  "video_id": "7158461408189926698",
+  "visual_action": "A montage video first shows Gretchen Whitmer speaking at a podium, then at an outdoor rally, and then hugging a supporter in front of campaign signs. The video then cuts to a clip of Tudor Dixon speaking into a microphone while standing in front of an American flag.",
+  "cast": [
+    {
+      "name": "Gretchen Whitmer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Gretchen Whitmer is shown in multiple clips and identified by both face recognition and on-screen text reading 'Governor Whitmer'."
+    },
+    {
+      "name": "Tudor Dixon",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Tudor Dixon is shown speaking and is identified by an on-screen text overlay that reads 'Tudor Dixon'."
+    },
+    {
+      "name": "Garlin Gilchrist",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on campaign signs in the background that read 'WHITMER GILCHRIST FOR MICHIGAN'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Governor Whitmer is protecting access to abortion 🥰",
+      "role": "overlay"
+    },
+    {
+      "text": "Tudor Dixon supports an abortion ban with no exceptions 😨✋",
+      "role": "overlay"
+    },
+    {
+      "text": "WHITMER GILCHRIST FOR MICHIGAN",
+      "role": "other"
+    },
+    {
+      "text": "REPRODUCTIVE RIGHTS ARE WORKERS' RIGHTS!",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video.",
+  "emojis_present": [
+    "🥰",
+    "😨",
+    "✋"
+  ],
+  "audio_music": "The video starts with an upbeat, retro, 8-bit style electronic track. When the video cuts to Tudor Dixon, the music abruptly changes to a short, jarring, and ominous sound effect, similar to a 'danger' or 'enemy appears' cue in a video game.",
+  "editing_pacing": "The video uses fast cuts to create a montage that contrasts two political figures.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Support",
+    "Admiration",
+    "Alarm",
+    "Disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Governor Gretchen Whitmer protects abortion access, while her opponent Tudor Dixon supports a total ban with no exceptions.",
+  "intended_effect": "To generate support for Whitmer and opposition to Dixon based on their contrasting positions on abortion.",
+  "uncertainty_flags": []
+}

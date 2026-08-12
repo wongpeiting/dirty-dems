@@ -1,0 +1,96 @@
+{
+  "video_id": "7526316811508403469",
+  "visual_action": "The entire clip shows Senator Jon Ossoff standing at a podium at what appears to be a campaign-style rally event. The podium displays the text \"ELECTJON.COM / RALLY FOR OUR REPUBLIC\" and is flanked by American flags and what appears to be a Georgia state flag. Ossoff is wearing a white dress shirt with no tie, gesturing with his hands as he speaks. The video frame is letterboxed with black bars at the top and bottom. A persistent white-text overlay at the top reads \"Senator Ossoff just cooked Trump on the Epstein files 😭.\" Yellow subtitle-style captions appear in sequence at the bottom of the video frame, rendering key phrases of his speech word-by-word as he delivers them.",
+  "cast": [
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Confirmed by authoritative face-ID; also named in the on-screen text overlay 'Senator Ossoff just cooked Trump on the Epstein files'; he is the speaker at the ELECTJON.COM / RALLY FOR OUR REPUBLIC podium."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the Whisper transcript ('President Trump promised to end the wars. He promised to release the Epstein files.') and in the on-screen title overlay ('Senator Ossoff just cooked Trump on the Epstein files')."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the Whisper transcript ('the sexual predator president who used to party with Jeffrey Epstein') and in yellow on-screen caption text ('WITH JEFFREY / EPSTEIN WAS')."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Ossoff just cooked Trump on the Epstein files 😭",
+      "role": "overlay"
+    },
+    {
+      "text": "ELECTJON.COM",
+      "role": "other"
+    },
+    {
+      "text": "RALLY FOR OUR REPUBLIC",
+      "role": "other"
+    },
+    {
+      "text": "HE PROMISED TO",
+      "role": "caption"
+    },
+    {
+      "text": "RELEASE THE",
+      "role": "caption"
+    },
+    {
+      "text": "EPSTEIN FILES.",
+      "role": "caption"
+    },
+    {
+      "text": "REALLY THINK THE",
+      "role": "caption"
+    },
+    {
+      "text": "WITH JEFFREY",
+      "role": "caption"
+    },
+    {
+      "text": "EPSTEIN WAS",
+      "role": "caption"
+    },
+    {
+      "text": "GONNA RELEASE",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Ossoff delivers a rhetorical argument against Trump at the rally: \"President Trump promised to end the wars. He promised to release the Epstein files. Did anyone really think the sexual predator president who used to party with Jeffrey Epstein was going to release the Epstein files?\" The speech uses a series of broken campaign promises to question Trump's credibility, culminating in the pointed rhetorical question about the Epstein files.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio consists entirely of Ossoff's live speech with crowd ambient noise; no background music or score is present. The TikTok sound label indicates this is original audio recorded at the rally. No meme sound effects, musical stings, or track changes are detected.",
+  "editing_pacing": "Largely a static talking-head shot of Ossoff at the podium, with minimal camera movement. The editing is simple: a single continuous clip with kinetic yellow word-by-word caption text appearing at the bottom of the screen to emphasize key phrases, and a persistent white title overlay at the top throughout.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — the caption phrase 'just cooked Trump' and the rhetorical question framing signal derision toward Trump",
+    "outrage/indignation — Ossoff's pointed language ('sexual predator president') and the broken-promises framing signal moral condemnation",
+    "satisfaction/validation — the 'fork found in kitchen' caption and 'cooked' slang suggest a triumphant 'gotcha' feeling aimed at the audience"
+  ],
+  "cultural_references": [
+    "'Cooked' — internet/Gen-Z slang meaning decisively defeated or embarrassed, used in the title overlay to frame Ossoff's remarks as a viral-worthy takedown",
+    "'Fork found in kitchen' — internet slang riff on 'fork in the road'/'he's done' meme format, used in the caption to imply Trump is 'done' or defeated"
+  ],
+  "central_claim": "Senator Ossoff is arguing that Trump's failure to release the Epstein files exposes him as a hypocrite and implies a personal reason — his past association with Epstein — for suppressing the files.",
+  "intended_effect": "To make viewers feel that Ossoff has delivered a devastating and satisfying rhetorical blow against Trump by linking Trump's broken promise on the Epstein files to his personal history with Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The exact date of this rally/speech is not visible in the frames; it is identifiable as a @democrats account post from the 'ELECTJON.COM / RALLY FOR OUR REPUBLIC' branding but the specific event date cannot be confirmed from the frames alone.",
+    "The 😭 emoji in the overlay is ambiguous — it can signal overwhelmed approval ('this slaps') rather than literal crying; intent is interpreted contextually.",
+    "OCR captured 'ELEcTJON.cOM' with inconsistent capitalization; normalized to 'ELECTJON.COM' based on the visible podium branding."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "7465068241925442862",
+  "visual_action": "Senator Chuck Schumer speaks at a podium during what appears to be a press conference. The video is a static, medium close-up shot of him. An MSNBC news chyron is visible at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Charles Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person speaking throughout the video, delivering a statement at a podium."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the topic as \"Trump's lawless federal freeze\" and the chyron reads 'SCHUMER: TRUMP \"PLUNGED THE COUNTRY INTO CHAOS\"'. Schumer criticizes the actions of \"this new administration.\""
+    },
+    {
+      "name": "Project 2025",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "At the end of his speech, Schumer states, \"This, plain and simple, this is Project 2025.\""
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The MSNBC Reports logo and branding are visible on the news chyron at the bottom of the screen."
+    },
+    {
+      "name": "unnamed attorney general",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Schumer mentions, \"I spoke to my attorney general this morning. She's head of the State Attorneys General Association.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Schumer calls out Trump's lawless federal freeze",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "SCHUMER: TRUMP \"PLUNGED THE COUNTRY INTO CHAOS\"",
+      "role": "chyron"
+    },
+    {
+      "text": "SENATE DEMS REACT TO WHITE HOUSE FEDERAL AID FREEZE",
+      "role": "chyron"
+    },
+    {
+      "text": "SCHUMER: FUNDS FOR DISASTER ASSISTANCE, AID TO ELDERLY, FOOD AID \"ALL ON THE CHOPPING BLOCK\"",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNBC REPORTS",
+      "role": "chyron"
+    },
+    {
+      "text": "FUNDS FOR THINGS LIKE DISASTER ASSISTANCE, LOCAL LAW ENFORCEMENT, RURAL HOSPITALS, AID TO THE ELDERLY, FOOD FOR PEOPLE IN NEED— ALL ARE ON THE CHOPPING BLOCK IN THIS NEW ADMINISTRATION. WHY? THEY NEED TAX CUTS FOR THE ULTRA-WEALTHY, AND THESE CUTS THEY THINK WILL FUND THEM. EVERY ONE OF OUR OFFICES HAS BEEN DELUGED WITH CALLS FROM PEOPLE WHO ARE IN PANIC. WHAT IS THIS GOING TO MEAN? WHAT IF I HAVE A HOSPITAL THAT HAS PEOPLE ON LIFE SUPPORT? WHAT ARE WE GOING TO DO? AND JUST LIKE THE JANUARY 6TH PARDONS, THIS DECISION IS LAWLESS, DANGEROUS, DESTRUCTIVE, CRUEL. IT'S ILLEGAL, IT'S UNCONSTITUTIONAL. I SPOKE TO MY ATTORNEY GENERAL THIS MORNING SHE'S HEAD OF THE STATE ATTORNEYS ASSOCIATION. THEY'RE GOING TO COURT RIGHT AWAY ON THIS HORROR. THIS, PLAIN AND SIMPLE, THIS IS PROJECT 2025.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Chuck Schumer condemns a \"federal freeze\" on aid by the Trump administration. He lists essential services like disaster assistance, law enforcement, rural hospitals, and food aid that are now \"on the chopping block.\" Schumer claims this is being done to fund tax cuts for the \"ultra-wealthy.\" He describes receiving panicked calls from constituents, including concerns about patients on life support. He calls the decision \"lawless, dangerous, destructive, cruel,\" as well as \"illegal\" and \"unconstitutional,\" comparing it to the January 6th pardons. He states that state attorneys general are planning to sue and identifies the entire policy as \"Project 2025.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Chuck Schumer's voice as he speaks at a press conference. There is no music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement. On-screen text and a news chyron are overlaid on the footage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Anger",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration's federal aid freeze, which is part of Project 2025, is a cruel and illegal policy designed to cut essential services for ordinary Americans to pay for tax cuts for the wealthy.",
+  "intended_effect": "To provoke fear and outrage at the Trump administration's policies, framing them as a direct threat to the well-being and safety of the public.",
+  "uncertainty_flags": []
+}

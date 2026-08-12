@@ -1,0 +1,59 @@
+{
+  "video_id": "7562270439926418701",
+  "visual_action": "The video first shows Donald Trump dancing on an outdoor stage with an American flag-themed backdrop. It then cuts to a shot of Trump standing next to an unnamed man in a suit, who is smiling and giving a thumbs-up while holding a folder. An Argentinian flag is visible behind them.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown dancing in the first clip and standing with another man in the second. The entire post is about his alleged spending."
+    },
+    {
+      "name": "Argentina",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly mentions a '$40B argentina bailout'."
+    },
+    {
+      "name": "unnamed Argentinian official",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unidentified man is shown smiling next to Donald Trump, with an Argentinian flag visible in the background."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "she's got me spending",
+      "role": "overlay"
+    },
+    {
+      "text": "american taxpayer dollars on a $40B argentina bailout 😥",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The lyrics from the song 'My Humps' play, including the line 'She's got me spending'.",
+  "emojis_present": [
+    "😥"
+  ],
+  "audio_music": "The video features the upbeat pop/hip-hop song 'My Humps' by The Black Eyed Peas throughout. The use of the song and its lyrics about spending money creates an ironic and mocking tone.",
+  "editing_pacing": "The video uses a single quick cut between two different clips of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "outrage"
+  ],
+  "cultural_references": [
+    "My Humps by The Black Eyed Peas"
+  ],
+  "central_claim": "Donald Trump wastefully spent $40 billion of American taxpayer money on a bailout for Argentina.",
+  "intended_effect": "To generate disapproval and anger towards Donald Trump by portraying him as fiscally irresponsible with taxpayer money.",
+  "uncertainty_flags": []
+}

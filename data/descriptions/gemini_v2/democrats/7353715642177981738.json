@@ -1,0 +1,51 @@
+{
+  "video_id": "7353715642177981738",
+  "visual_action": "The video is a slideshow of two still, archival photographs. The first photo shows a younger Joe Biden in a suit and tie, speaking at an outdoor podium with multiple microphones. The second photo is a close-up of a younger Donald Trump in a suit and tie, seemingly during an interview.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in the first photograph and named in the on-screen text: 'Joe Biden passing the Violence Against Women Act in the 1990s'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in the second photograph and named in the on-screen text: 'while Trump's casinos were filing for bankruptcy'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Joe Biden passing the Violence Against Women Act in the 1990s",
+      "role": "overlay"
+    },
+    {
+      "text": "while Trump's casinos were filing for bankruptcy",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no dialogue, only a song with male vocals. The lyrics heard are: \"She's all laid up in bed with a broken heart... while I'm drinking Jack all alone in my local bar.\"",
+  "emojis_present": [],
+  "audio_music": "A melancholic country or folk song with male vocals plays throughout the video, creating a somber emotional tone.",
+  "editing_pacing": "The video is a simple slideshow, cutting from one static image to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "respect",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The song lyrics include the line 'drinking Jack', a common reference to Jack Daniel's Tennessee whiskey."
+  ],
+  "central_claim": "In the 1990s, Joe Biden was a dedicated public servant passing important legislation like the Violence Against Women Act, while Donald Trump was a failing businessman whose casinos were going bankrupt.",
+  "intended_effect": "To create a stark contrast between Joe Biden's record of public service and Donald Trump's history of business failures, thereby framing Biden as the more commendable and reliable figure.",
+  "uncertainty_flags": [
+    "The provided audio transcript was empty, but the video clearly contains a song with lyrics which have been noted in the spoken_summary field."
+  ]
+}

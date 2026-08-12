@@ -1,0 +1,56 @@
+{
+  "video_id": "7657921270436220173",
+  "visual_action": "A men's soccer team, dressed in what appear to be U.S. national team uniforms, stands in a huddle on a soccer field. The players have their arms around each other and their heads bowed. In the center of the circle, another player kneels and leads them in a prayer. After he says \"Amen,\" the other players echo him, break the huddle, and begin to clap and cheer.",
+  "cast": [
+    {
+      "name": "United States men's national soccer team",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The players are wearing jerseys with red and white stripes and blue numbers, consistent with U.S. national team kits. The on-screen text \"One Nation\" further implies a national context."
+    },
+    {
+      "name": "unnamed USMNT player",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A player is seen in the center of the huddle, kneeling and audibly leading the team in a prayer."
+    },
+    {
+      "name": "God",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"Under GOD\" and the prayer is addressed to a divine father figure, thanking him for victory."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "One Nation. Under GOD.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An unnamed player leads his team in a Christian prayer on the field. He thanks \"Father\" for the day and for their \"victory,\" asks for help to prepare for the next game, and concludes by giving \"all the honor and glory and praise right now. Amen.\" The team responds in unison, \"Amen!\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of live, on-field sound. A single male voice speaks clearly, leading a prayer, with the ambient sound of a stadium in the background. This is followed by the collective shout of the team and sounds of clapping.",
+  "editing_pacing": "The video is a single, static, wide shot taken from a high angle, looking down at the team's huddle. There are no cuts or camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Piety",
+    "Pride",
+    "Unity"
+  ],
+  "cultural_references": [
+    "The on-screen text \"One Nation. Under GOD.\" is a direct quote from the United States Pledge of Allegiance."
+  ],
+  "central_claim": "The U.S. men's national soccer team demonstrates its unity and patriotism through a collective prayer to God after a victory.",
+  "intended_effect": "To evoke feelings of patriotism and religious pride, and to portray the national team as unified by faith.",
+  "uncertainty_flags": [
+    "The specific player leading the prayer is not identified.",
+    "The specific match or tournament is not identified."
+  ]
+}

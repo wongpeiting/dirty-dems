@@ -1,0 +1,94 @@
+{
+  "video_id": "7624175455733697805",
+  "visual_action": "A fast-paced montage of clips featuring Donald Trump speaking is intercut with footage of an auctioneer, rising gas prices on digital displays, oil refineries, and people pumping gas. The video employs a three-panel split-screen format, with Trump in the central panel. Visual effects include superimposed text, rising charts, falling dollar bills, and a graphic of Trump's face photoshopped onto a gas pump handle at the beginning.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure shown and heard throughout the video, discussing economic issues."
+    },
+    {
+      "name": "unnamed auctioneer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man in a cowboy hat is shown repeatedly, appearing to lead an auction. His voice is part of the remixed audio track."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says in the audio, \"Well, I don't want to give it to Iran.\""
+    },
+    {
+      "name": "CPAC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A sign reading \"CPAC 2013\" is visible behind Trump in one of the clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "HERE WE GO",
+      "role": "overlay"
+    },
+    {
+      "text": "B7",
+      "role": "other"
+    },
+    {
+      "text": "LET'S SELL",
+      "role": "overlay"
+    },
+    {
+      "text": "What are we doing??",
+      "role": "chyron"
+    },
+    {
+      "text": "CPAC 2013",
+      "role": "other"
+    },
+    {
+      "text": "DUH-PRESSION",
+      "role": "overlay"
+    },
+    {
+      "text": "“You’re not worried about gas prices right now?”",
+      "role": "chyron"
+    },
+    {
+      "text": "📈",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio is a remix that heavily features clips of Donald Trump making dire economic predictions. He states that gasoline prices will soon be \"$5 a gallon... $6, $7. And it's going a lot higher than that.\" He laments that \"We have nobody in the White House to protect us\" and criticizes spending, saying \"We have spent thus far $1.5 trillion.\" He questions the country's direction, asking \"What are we doing?\" and suggests taking over oil fields. He concludes by saying that rising numbers like these are what caused \"the depression.\" The final clip features an unheard person asking Trump, \"You're not worried about gas prices right now?\"",
+  "emojis_present": [
+    "📈"
+  ],
+  "audio_music": "A fast-paced, high-energy electronic remix track featuring a sample of a fast-talking, autotuned auctioneer. Clips of Donald Trump's speech are layered over this chaotic and frantic beat, creating a sense of escalating crisis and urgency.",
+  "editing_pacing": "The video is edited with extremely fast cuts in a montage style. It frequently uses a three-panel split-screen layout and incorporates numerous superimposed graphics, such as text, rising charts, and visual effects like swirls and color distortions.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "At the beginning of the video, Donald Trump's face is photoshopped onto the circular part of a gas pump handle. Later, animated US dollar bills are superimposed to appear as if they are falling over clips of Trump and an auctioneer.",
+  "emotions_signaled": [
+    "Anxiety",
+    "Fear",
+    "Frustration",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Auctioneer chant remix (a meme format where an auctioneer's rapid speech is set to a beat)"
+  ],
+  "central_claim": "Donald Trump's own past statements on gas prices, government spending, and foreign policy are chaotic, extreme, and contradictory, demonstrating his unfitness for office.",
+  "intended_effect": "To portray Donald Trump as an erratic and incompetent leader whose economic ideas are dangerous and nonsensical, thereby undermining his credibility.",
+  "uncertainty_flags": [
+    "The individual clips of Donald Trump are presented without their original date or context, making it impossible to know what specific events he was responding to in each instance."
+  ]
+}

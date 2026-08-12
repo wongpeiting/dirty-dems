@@ -1,0 +1,47 @@
+{
+  "video_id": "7662022768627584269",
+  "visual_action": "The video opens with a clip of the cartoon character Sandy Cheeks from 'SpongeBob SquarePants' singing. It then transitions to a montage of clips showing law enforcement officers detaining, arresting, and transporting various unidentified people. The scenes include a large group of migrants walking, a person being apprehended against a fence, another person being handcuffed, tactical officers walking at night, a man in a white jumpsuit being escorted down a hallway, people boarding a plane, and finally an airplane taking off. Officers are seen wearing gear that says 'POLICE' and 'ICE'.",
+  "cast": [
+    {
+      "name": "Undocumented immigrants",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video shows numerous unidentified people being detained, arrested, and boarded onto a plane by law enforcement, with the on-screen text 'Here illegally? Time to go home' implying their immigration status."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An officer is shown from behind wearing a jacket with 'POLICE' and 'ICE' written in large white letters on the back."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Here illegally?\nTime to go home.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a song from the cartoon 'SpongeBob SquarePants' with lyrics sung by different characters, primarily repeating the phrase 'I wanna go home'.",
+  "emojis_present": [],
+  "audio_music": "The audio is the song 'I Wanna Go Home' from the cartoon 'SpongeBob SquarePants'. It plays continuously throughout the montage of deportations, creating a mocking and triumphant tone through its ironic juxtaposition with the serious visuals.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different scenes of arrests and deportations.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "triumph",
+    "intimidation"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants",
+    "Sandy Cheeks",
+    "The song 'I Wanna Go Home' from SpongeBob SquarePants"
+  ],
+  "central_claim": "The US government is actively and effectively deporting undocumented immigrants.",
+  "intended_effect": "To reassure supporters of the administration's tough stance on immigration and to mock those being deported.",
+  "uncertainty_flags": []
+}

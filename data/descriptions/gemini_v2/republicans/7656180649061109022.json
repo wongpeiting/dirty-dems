@@ -1,0 +1,68 @@
+{
+  "video_id": "7656180649061109022",
+  "visual_action": "A montage of clips from a CNN presidential debate. Joe Biden is shown speaking at a podium. Donald Trump is shown reacting with a skeptical expression and then speaking. A clip of Jill Biden speaking into a microphone at a separate event is shown, followed by a final shot of Joe Biden smiling.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown speaking throughout the video, and is the subject of Donald Trump's and Jill Biden's comments."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking and reacting to Joe Biden's statements."
+    },
+    {
+      "name": "Jill Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown in a clip speaking positively, which is used for ironic contrast."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible on the blue backdrop during the debate clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "CNN",
+      "role": "other"
+    },
+    {
+      "text": "LET'S",
+      "role": "other"
+    },
+    {
+      "text": "Joe",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video juxtaposes clips of Joe Biden speaking disjointedly at a debate, culminating in him saying \"we finally beat Medicare.\" Donald Trump is shown reacting and commenting, \"I really don't know what he said at the end of that sentence. I don't think he knows what he said either,\" and later, \"Well he's right, he did beat Medicare. Beat it to death.\" A clip of Jill Biden saying, \"You did such a great job. You answered every question,\" is inserted for ironic effect.",
+  "emojis_present": [],
+  "audio_music": "A continuous, hype-style hip-hop track plays under the dialogue throughout the entire video.",
+  "editing_pacing": "The video uses fast cuts, alternating between a speaker (Biden) and reaction shots (Trump) to create a sense of direct confrontation and critique. An out-of-context clip is inserted for ironic commentary.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden's performance in the presidential debate was incoherent and demonstrates his unfitness for office.",
+  "intended_effect": "To persuade viewers that Joe Biden is mentally incompetent and to ridicule his debate performance.",
+  "uncertainty_flags": [
+    "The full on-screen text behind Jill Biden and Joe Biden is partially obscured, but appears to be campaign signage."
+  ]
+}

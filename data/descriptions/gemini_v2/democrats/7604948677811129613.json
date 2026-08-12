@@ -1,0 +1,68 @@
+{
+  "video_id": "7604948677811129613",
+  "visual_action": "A static meme image is displayed. At the top is the text \"Super Bowl LX\". Below this, two images are shown side-by-side. On the left is a photo of musician Bad Bunny in a white suit holding several Grammy awards. On the right is a photo of a shirtless Kid Rock wearing a backwards cap. Each image has a quote beneath it. At the very bottom of the image is the question, \"Which Message Will Resonate with Americans?\".",
+  "cast": [
+    {
+      "name": "Bad Bunny",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photograph of Bad Bunny is on the left side of the meme, with a quote attributed to him below it."
+    },
+    {
+      "name": "Kid Rock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photograph of Kid Rock is on the right side of the meme, with a quote attributed to him below it."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account, as noted in the provided context."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Super Bowl LX",
+      "role": "meme_text"
+    },
+    {
+      "text": "“The only thing more powerful than hate is love”",
+      "role": "meme_text"
+    },
+    {
+      "text": "“Young ladies, I like them underage. Some say that’s statutory but I say it’s mandatory.”",
+      "role": "meme_text"
+    },
+    {
+      "text": "Which Message Will Resonate with Americans?",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The audio consists solely of a Spanish-language song clip by Bad Bunny. There is no spoken dialogue.",
+  "emojis_present": [],
+  "audio_music": "An upbeat reggaeton track, identified as 'EoO' by Bad Bunny, plays throughout the video.",
+  "editing_pacing": "The video is a static image with no cuts or motion.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disgust",
+    "outrage",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Super Bowl",
+    "Grammy Awards"
+  ],
+  "central_claim": "The values represented by musician Bad Bunny (love) are morally superior and more aligned with American ideals than the reprehensible values attributed to musician Kid Rock, framing a cultural and political choice.",
+  "intended_effect": "To provoke disgust towards Kid Rock and the political viewpoints he is associated with, while encouraging alignment with the positive values represented by Bad Bunny and, by extension, the Democratic Party.",
+  "uncertainty_flags": [
+    "The quote attributed to Kid Rock is widely reported to be a misattribution from Ted Nugent. This is a factual inaccuracy in the meme's text, not a visual manipulation of the image itself."
+  ]
+}

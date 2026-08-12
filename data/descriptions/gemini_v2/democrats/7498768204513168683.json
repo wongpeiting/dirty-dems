@@ -1,0 +1,85 @@
+{
+  "video_id": "7498768204513168683",
+  "visual_action": "Donald Trump is shown speaking at a podium, superimposed over a background graphic of stock market tickers that are predominantly red. As he speaks, a series of text overlays appear, presenting negative headlines about his first 100 days in office concerning the stock market, polls, and approval ratings. The final overlay is a split-screen chart comparing S&P 500 performance from inauguration to April under 'BIDEN 2021' (showing a graph trending upwards) and 'TRUMP 2025' (showing a graph trending downwards).",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the person shown speaking throughout the video, and all the on-screen text is about his presidential performance."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears on a chart comparing his S&P 500 performance against Trump's. The text reads 'BIDEN 2021'."
+    },
+    {
+      "name": "Richard Nixon",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned in an on-screen headline for comparison: 'Trump's first 100 days are the worst for the stock market since Nixon'."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An on-screen headline cites the organization as a source: 'CNN Poll: Trump's approval at 100 days...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MARKETS",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's first 100 days are the worst for the stock market since Nixon",
+      "role": "overlay"
+    },
+    {
+      "text": "More give Trump an F than any other grade for first 100 days, poll finds",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN Poll: Trump's approval at 100 days lower than any president in at least seven decades",
+      "role": "overlay"
+    },
+    {
+      "text": "S&P 500 CHANGES, INAUGURATION-APRIL",
+      "role": "overlay"
+    },
+    {
+      "text": "BIDEN 2021",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP 2025",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a clip of Donald Trump speaking, saying, \"We're going to win so much you may even get tired of winning and you'll say please, please, it's too much winning. We can't take it anymore.\" This is used ironically against visuals depicting his poor performance.",
+  "emojis_present": [
+    "👍"
+  ],
+  "audio_music": "A corporate-style, slightly tense music track ('To the Top' by ULYX) plays throughout. Each time a negative headline appears on screen, a loud, impactful sound effect like a boom or thud is heard, emphasizing the information.",
+  "editing_pacing": "The video uses a static shot of a speaker with sequential text and graphic overlays. The pacing is deliberate, with each negative point punctuated by a sound effect, creating a rhythmic, impactful presentation of information.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Donald Trump is superimposed over a background graphic of red, falling stock market tickers to visually associate his presidency with economic decline.",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's presidency was marked by economic failure and historic unpopularity, contrasting sharply with Joe Biden's successful record.",
+  "intended_effect": "To convince the viewer that Trump is an ineffective and unpopular leader whose policies harm the economy, thereby encouraging them to support Joe Biden instead.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,99 @@
+{
+  "video_id": "7309932781600017706",
+  "visual_action": "A split-screen video. The top half is a montage of clips showing Donald Trump speaking at podiums in various settings, including rallies and press conferences. The bottom half shows gameplay from the mobile game \"Subway Surfers,\" where a character runs along snowy train tracks, collecting coins and dodging trains.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in every clip in the top half of the video, and his voice is the only audio."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donald Trump repeatedly refers to \"Obamacare,\" the common name for the Affordable Care Act signed into law by President Barack Obama."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "► Trump wants to take away health care from millions of Americans ◄",
+      "role": "overlay"
+    },
+    {
+      "text": "I'm going to repeal",
+      "role": "caption"
+    },
+    {
+      "text": "and replace Obamacare.",
+      "role": "caption"
+    },
+    {
+      "text": "It's a disaster.",
+      "role": "caption"
+    },
+    {
+      "text": "We're going to repeal it",
+      "role": "caption"
+    },
+    {
+      "text": "and we're going to replace it.",
+      "role": "caption"
+    },
+    {
+      "text": "The Repeal and Replace Obamacare Act —",
+      "role": "caption"
+    },
+    {
+      "text": "Repeal and replace.",
+      "role": "caption"
+    },
+    {
+      "text": "We're going to repeal and",
+      "role": "caption"
+    },
+    {
+      "text": "replace Obamacare so quickly.",
+      "role": "caption"
+    },
+    {
+      "text": "Repealing and replacing Obamacare.",
+      "role": "caption"
+    },
+    {
+      "text": "Obamacare is a disaster.",
+      "role": "caption"
+    },
+    {
+      "text": "And I said,",
+      "role": "caption"
+    },
+    {
+      "text": "\"We're going to do something about it.\"",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio is a montage of Donald Trump speaking, in which he repeatedly states his intention to \"repeal and replace Obamacare.\" He refers to the policy as a \"disaster\" and consistently repeats phrases like \"repeal and replace\" throughout the various clips.",
+  "emojis_present": [
+    "►",
+    "◄"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's spoken words from the clips. There is no background music, sound effects, or audible audio from the video game gameplay.",
+  "editing_pacing": "The video is a fast-paced montage using quick cuts between different clips of Donald Trump speaking. The split-screen format with the gameplay footage remains constant throughout.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Alarm"
+  ],
+  "cultural_references": [
+    "Subway Surfers"
+  ],
+  "central_claim": "Donald Trump consistently intends to repeal the Affordable Care Act (Obamacare), which would take healthcare away from millions of Americans.",
+  "intended_effect": "To cause alarm about Donald Trump's healthcare policies and frame his long-stated goal of repealing Obamacare as a direct threat to the viewer's or their fellow citizens' well-being.",
+  "uncertainty_flags": []
+}

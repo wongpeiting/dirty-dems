@@ -1,0 +1,89 @@
+{
+  "video_id": "7138806396950220078",
+  "visual_action": "A fast-paced montage of clips showing President Joe Biden in various settings, including signing bills, giving speeches, and greeting people. Overlaid text appears sequentially, listing his accomplishments for the month of August.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visible in every clip of the montage and is the explicit subject of the video, as stated in the introductory text 'President Biden's month of August:'."
+    },
+    {
+      "name": "Jim Clyburn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible standing next to Joe Biden during a bill signing, and confirmed by face recognition."
+    },
+    {
+      "name": "Chuck Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visibly recognizable leaning over the desk as Joe Biden signs a bill, next to Jim Clyburn."
+    },
+    {
+      "name": "al-Qaeda",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The organization is mentioned in the on-screen text: 'Took out the leader of al-Qaeda'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden's month of August:",
+      "role": "overlay"
+    },
+    {
+      "text": "✅ Signed CHIPS Act into law",
+      "role": "overlay"
+    },
+    {
+      "text": "✅ Announced targeted student debt relief plan",
+      "role": "overlay"
+    },
+    {
+      "text": "✅ Signed Inflation Reduction Act into law",
+      "role": "overlay"
+    },
+    {
+      "text": "✅ Took out the leader of al-Qaeda",
+      "role": "overlay"
+    },
+    {
+      "text": "✅ Signed PACT Act into law for veterans",
+      "role": "overlay"
+    },
+    {
+      "text": "✅ Historically low unemployment",
+      "role": "overlay"
+    },
+    {
+      "text": "✅ Executive order to protect reproductive health care",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is set to instrumental music.",
+  "emojis_present": [
+    "✅"
+  ],
+  "audio_music": "An upbeat, motivational instrumental track with a steady electronic beat plays throughout the video, creating a positive and energetic tone that highlights the listed accomplishments.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different clips, creating a dynamic highlight reel effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Confidence",
+    "Optimism"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden had a highly successful and productive month of August, achieving numerous major policy and legislative goals.",
+  "intended_effect": "To make the viewer feel proud of and confident in the Biden administration's accomplishments.",
+  "uncertainty_flags": []
+}

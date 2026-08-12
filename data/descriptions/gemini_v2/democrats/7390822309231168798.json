@@ -1,0 +1,125 @@
+{
+  "video_id": "7390822309231168798",
+  "visual_action": "A slideshow video that starts with a screenshot of a tweet from Donald Trump claiming he has 'no idea' who is behind Project 2025. The video then displays a series of still photographs of Trump with various individuals, each with a text overlay claiming that person is directly involved with Project 2025. The people shown are identified in text as his 'body man,' the 'leader' of the project, his 'current press secretary,' his 'Cabinet Secretary' (Ben Carson), and his 'top aide' and 'top advisor' (Stephen Miller).",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in every photograph and his tweet is the subject of the video. His name appears in on-screen text."
+    },
+    {
+      "name": "Project 2025",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about Trump's alleged connections to 'Project 2025,' which is mentioned in multiple text overlays."
+    },
+    {
+      "name": "unnamed body man",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a photo with Trump with the overlay text: 'His body man is in charge of the Project 2025 staffing plan'."
+    },
+    {
+      "name": "unnamed Project 2025 leader",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a photo shaking hands with Trump with the overlay text: 'Trump is connected to Project 2025's leader'."
+    },
+    {
+      "name": "unnamed press secretary",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman shown in a photo with Trump with the overlay text: 'Trump's current press secretary is in Project 2025 recruitment videos'."
+    },
+    {
+      "name": "Ben Carson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a photo with Trump with the overlay text: 'Trump's Cabinet Secretary is a Project 2025 author'."
+    },
+    {
+      "name": "Stephen Miller",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in two photos with Trump with the overlay texts 'Trump's top aide is a Project 2025 author' and 'Trump's top advisor is in Project 2025 recruitment videos'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald Trump claims to have “no idea” who the planners of Project 2025 are but...",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "other"
+    },
+    {
+      "text": "I know nothing about Project 2025. I have no idea who is behind it.",
+      "role": "other"
+    },
+    {
+      "text": "His body man is in charge of the Project 2025 staffing plan",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump is connected to Project 2025's leader",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's current press secretary is in Project 2025 recruitment videos",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's Cabinet Secretary is a Project 2025 author",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's top aide is a Project 2025 author",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's top advisor is in Project 2025 recruitment videos",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP MAKE AMERICA GREAT AGAIN! 2024",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio is a popular comedic sound clip of a woman's voice complaining, used for ironic effect. She says things like, \"Wait a minute, why is there a picture of me on Instagram? I didn't tell y'all to put that out... I told y'all to text it to me.\" The audio frames the video's claims as an unwelcome exposure of Trump's connections.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a popular comedic sound clip of a woman's voice expressing frustration and surprise at being publicly exposed. This is used to create a mocking tone, as if Trump is being caught in a lie. No music is discernible.",
+  "editing_pacing": "The video is a slideshow of still images, with each image and its accompanying text overlay displayed for a few seconds before a direct cut to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "skepticism",
+    "distrust"
+  ],
+  "cultural_references": [
+    "The audio is a popular comedic sound clip, likely from a reality show or another viral video, used as a meme to signify someone being unexpectedly exposed."
+  ],
+  "central_claim": "Donald Trump is being dishonest when he claims to not know who is behind Project 2025, because multiple members of his inner circle are involved.",
+  "intended_effect": "To convince the viewer that Donald Trump is lying about his knowledge of and connection to Project 2025.",
+  "uncertainty_flags": [
+    "The specific identities of the individuals described as Trump's 'body man,' 'Project 2025's leader,' and 'current press secretary' are not provided beyond those descriptions.",
+    "The specific origin of the comedic audio clip is unknown.",
+    "The provided music fingerprint from context appears to be incorrect, as no music is audible in the video."
+  ]
+}

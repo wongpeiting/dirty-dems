@@ -1,0 +1,70 @@
+{
+  "video_id": "7550419008806194487",
+  "visual_action": "The video is a split-screen. The top portion is a static screenshot of a social media post from an account named 'Donald J. Trump'. The bottom portion shows military-style aerial footage of a small boat on the water, viewed through a targeting reticle. An explosion hits the boat, which then erupts in flames. The footage switches between a normal view and a thermal/infrared view showing the heat from the fire. An 'UNCLASSIFIED' text overlay is present on the military footage.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video prominently displays a screenshot of a social media post attributed to 'Donald J. Trump @realDonaldTrump', which begins, 'This morning, on my Orders...'"
+    },
+    {
+      "name": "U.S. Military Forces",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states, 'U.S. Military Forces conducted a SECOND Kinetic Strike...'"
+    },
+    {
+      "name": "SOUTHCOM",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions action in 'the SOUTHCOM area of responsibility.'"
+    },
+    {
+      "name": "Unnamed narcoterrorists",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen text describes the targets as 'confirmed narcoterrorists from Venezuela' and the video shows their boat being destroyed."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "This morning, on my Orders, U.S. Military Forces conducted a SECOND Kinetic Strike against positively identified, extraordinarily violent drug trafficking cartels and narcoterrorists in the SOUTHCOM area of responsibility. The Strike occurred while these confirmed narcoterrorists from Venezuela were in International Waters transporting illegal narcotics (A DEADLY WEAPON POISONING AMERICANS!) headed to the U.S. These extremely violent drug trafficking cartels POSE A THREAT to U.S. National Security, Foreign Policy, and vital U.S. Interests. The Strike resulted in 3 male terrorists killed in action. No U.S. Forces were harmed in this Strike. BE WARNED -- IF YOU ARE TRANSPORTING DRUGS THAT CAN KILL AMERICANS, WE ARE HUNTING YOU! The illicit activities by these cartels have wrought DEVASTATING CONSEQUENCES ON AMERICAN COMMUNITIES FOR DECADES, killing millions of American Citizens. NO LONGER. Thank you for your attention to this matter!!!",
+      "role": "overlay"
+    },
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The only audible speech is a synthesized voice saying \"Thank you\" at the very end of the video, matching the last words of the on-screen text.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a low, persistent humming or rumbling noise, suggestive of aerial footage. This is punctuated by a loud explosion sound when the boat is struck. The video ends with a synthesized voice speaking. The overall effect is serious and dramatic.",
+  "editing_pacing": "The video uses a static, split-screen layout, presenting a social media post screenshot and a single, continuous clip of military action simultaneously. There are no cuts in the military footage, though the view mode changes (e.g., to thermal).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Seriousness",
+    "Strength",
+    "Intimidation",
+    "Patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Under Donald Trump's direct orders, the U.S. military is using lethal force against drug traffickers at sea to protect the nation.",
+  "intended_effect": "To portray Donald Trump as a strong, decisive leader who is taking aggressive action to protect Americans from the threat of drug trafficking.",
+  "uncertainty_flags": [
+    "The authenticity of the social media post screenshot cannot be verified from the video alone; it is presented as a real post but could be a fabrication."
+  ]
+}

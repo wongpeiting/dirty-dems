@@ -1,0 +1,42 @@
+{
+  "video_id": "7649454436850355469",
+  "visual_action": "A single continuous or looping shot, slightly blurry and shot from a distance through what appears to be glass or a barrier, shows a man in a dark suit with a long red tie and blonde/orange hair seated at what appears to be a courtside or VIP suite area at a sports venue. He is seen eating food, bringing items to his mouth across multiple frames. In the lower portion of the frame, there are red and white decorative elements (possibly team colors) and what appears to be food items or a tray on a surface in front of him. The camera occasionally catches other people partially visible in the background. The footage has a candid, paparazzi-style quality — low-light, grainy, and motion-blurred.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text explicitly states 'trump pigging out at the nba finals'; the figure on screen matches Trump's distinctive appearance — blonde/orange hair, long red tie, dark suit."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump pigging out at the nba finals while no one can afford groceries",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is audible. The Whisper transcript returns only \"Music Music,\" indicating only background music is present throughout.",
+  "emojis_present": [],
+  "audio_music": "A music track plays throughout the clip with no spoken dialogue. ACRCloud identifies the track at 0.0s as \"my whole life has changed\" by f3rb — a melodic, atmospheric/pluggnb-style instrumental. The TikTok sound label references \"Pluggnb ginuwine.\" The mood of the music is subdued and slightly moody, creating a contrast with the pointed critical text on screen.",
+  "editing_pacing": "Static, single-angle shot with minimal editing — essentially one continuous candid clip. Slight camera shake and soft focus throughout. No cuts or transitions are visible across the keyframes; the scene is a slow, observational take.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "indignation — the overlay text frames Trump eating at an elite event as a contrast to ordinary Americans' economic hardship",
+    "mockery — the phrase 'pigging out' is derogatory and designed to demean",
+    "class resentment — juxtaposing VIP sports attendance with grocery affordability"
+  ],
+  "cultural_references": [
+    "NBA Finals — referenced in the on-screen text as the elite sporting event where Trump is shown eating"
+  ],
+  "central_claim": "Trump is indulging in luxury (eating courtside at the NBA Finals) while ordinary Americans cannot afford basic groceries, implying hypocrisy or indifference to economic hardship.",
+  "intended_effect": "To provoke viewer indignation and class-based resentment toward Trump by contrasting his perceived elite lifestyle with the economic struggles of average Americans.",
+  "uncertainty_flags": [
+    "The figure's face is blurry and the shot is taken from a distance through glass — visual identification relies primarily on the on-screen text and general appearance (hair, red tie) rather than a clear face match.",
+    "It is unclear which specific NBA Finals game or year this footage is from — the claim about grocery affordability may be tied to a specific policy context that cannot be verified from the video alone.",
+    "The TikTok sound label references 'Pluggnb ginuwine' which may refer to a remix or sample involving Ginuwine's music, but the ACRCloud fingerprint identifies a different track ('my whole life has changed' by f3rb) — possible layered audio or mislabeled sound.",
+    "Cannot confirm whether Trump was actually courtside vs. in a luxury suite, or whether the venue is definitively an NBA Finals game versus another event."
+  ]
+}

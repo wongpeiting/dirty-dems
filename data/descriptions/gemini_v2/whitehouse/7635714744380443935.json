@@ -1,0 +1,86 @@
+{
+  "video_id": "7635714744380443935",
+  "visual_action": "A montage of short clips shows Donald Trump speaking at a podium with the Seal of the President of the United States. He is in a suit and red tie, standing in front of a blue backdrop with some text on it. In some clips, still photos of other individuals are superimposed over the bottom half of the screen as Trump speaks. The individuals shown in photos are Ilhan Omar and an unidentified older white man with gray hair. The video uses quick, jarring cuts between clips, often with a brief black screen and a whoosh sound effect.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker and is shown on screen for the entire duration of the video."
+    },
+    {
+      "name": "Ilhan Omar",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A still photo of her is shown twice while Trump speaks about her, accusing her of marrying her brother and mocking her for talking about her constitutional rights."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump ends the video by mocking 'the Democrats' for screaming 'affordability' and saying they have 'one good line of bullshit'."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo of an older man with gray hair in a suit is shown while Trump discusses a 'boring trip' about Medicare and Medicaid."
+    },
+    {
+      "name": "unnamed friend",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump tells an anecdote about a friend he describes as 'extremely fat,' 'very wealthy,' 'obnoxious,' and 'a very unattractive individual'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The funniest president 🤣🤣",
+      "role": "caption"
+    },
+    {
+      "text": "NO CUTS TO SOCIAL SECURITY",
+      "role": "other"
+    },
+    {
+      "text": "THE VILLAGES",
+      "role": "other"
+    },
+    {
+      "text": "FLORIDA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "This is a compilation of soundbites from a Donald Trump speech. He mocks a woman, implied to be Ilhan Omar, for discussing her constitutional rights and accuses her of marrying her brother. He complains about a boring trip discussing Medicare/Medicaid, angrily demands the microphone be turned up, and tells a rambling story about a friend he calls 'extremely fat' and 'unattractive.' He also mocks 'the Democrats' for talking about 'affordability,' calling it a 'good line of bullshit.' He refers to himself as 'young, vital, vibrant' in comparison to 'old guys' in the audience.",
+  "emojis_present": [
+    "🤣"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's speech. There is no music. Each cut between clips is punctuated by a loud 'whoosh' sound effect.",
+  "editing_pacing": "The video is a fast-paced montage of very short clips from a single speech. It uses frequent, abrupt hard cuts, sometimes accompanied by a brief black screen, to jump between different parts of the speech, creating a disjointed and comedic highlight reel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Humor",
+    "Mockery",
+    "Contempt",
+    "Aggression"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is an entertaining and authentic speaker whose unfiltered and humorous style includes blunt attacks on his opponents and rambling, insulting anecdotes.",
+  "intended_effect": "To entertain supporters by highlighting Trump's confrontational and comedic speaking style, while simultaneously denigrating his political opponents.",
+  "uncertainty_flags": [
+    "The identity of the unnamed man shown in a photo is not clear.",
+    "The video consists of decontextualized clips, so the full context of Trump's remarks is unknown.",
+    "The specific date and event where the speech was given are not identified, though on-screen text suggests it was in The Villages, Florida."
+  ]
+}

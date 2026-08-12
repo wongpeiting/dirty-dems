@@ -1,0 +1,64 @@
+{
+  "video_id": "7568596790740634894",
+  "visual_action": "The video uses a scene from the film 'The Princess Bride'. A man in a black mask and costume, labeled 'democrats', speaks to a woman in a red dress, labeled 'illegal immigrants'. After a brief exchange, the man, again labeled 'democrats', tumbles chaotically down a steep grassy hill while the woman watches. The video concludes with a black-and-white montage of the White House exterior and a helicopter, with 'THE WHITE HOUSE' text and logo.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text 'democrats' is superimposed over the male character, and the caption reads 'Democrats ❤️ criminal illegal aliens'."
+    },
+    {
+      "name": "illegal immigrants",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text 'illegal immigrants' is superimposed over the female character. The manipulated dialogue has her representing this group."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a logo card showing the building and the text 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "illegal immigrants",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The dialogue is taken from a movie scene but has been altered. The character labeled 'democrats' asks, 'What can I do for you?' The character labeled 'illegal immigrants' replies with a dubbed-in voice, 'We want free healthcare provided by American taxpayers.' The 'democrats' character then says his original line from the film, 'As you wish,' before tumbling down a hill. A final voiceover says, 'Democrats.'",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists of dialogue and score from the movie 'The Princess Bride,' specifically the piece 'A Children's Tale,' creating a dramatic and recognizable fantasy atmosphere. The dialogue has been selectively edited and dubbed to create a new, political narrative. A male voiceover concludes the video.",
+  "editing_pacing": "The video uses a continuous scene from a film, cutting between two speakers. It concludes with a short, black-and-white montage of static shots and a helicopter landing.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The dialogue for the female character (Princess Buttercup) has been completely replaced with a dubbed voiceover. The new line, 'We want free healthcare provided by American taxpayers,' is not from the original film and was added to create a political argument.",
+  "emotions_signaled": [
+    "mockery",
+    "resentment"
+  ],
+  "cultural_references": [
+    "The Princess Bride"
+  ],
+  "central_claim": "Democrats will foolishly and self-destructively agree to any demands from illegal immigrants, including providing taxpayer-funded healthcare.",
+  "intended_effect": "To portray Democrats as weak and foolishly subservient to the interests of undocumented immigrants at the expense of American taxpayers, thereby generating anger and mockery.",
+  "uncertainty_flags": [
+    "It is clear the female character's dialogue is dubbed, but it's uncertain if it's a human voice actor or an AI-generated voice."
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "video_id": "7333353655632121134",
+  "visual_action": "A man in a red polo shirt sits across a conference table from President Joe Biden and tells him a story. A picture-in-picture insert of a Fox News broadcast shows the two of them on a UAW picket line, with the man giving a sideways glance. Biden recognizes the moment, and both men laugh heartily. The video ends with the man putting his arm around Biden for a photo, during which Biden playfully recreates the \"side eye\" expression.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually present throughout the video, speaks, and is the subject of the story being told."
+    },
+    {
+      "name": "unnamed UAW member",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person in the red shirt telling the story to President Biden."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and broadcast format are shown in a picture-in-picture overlay."
+    },
+    {
+      "name": "United Auto Workers (UAW)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news chyron mentions Biden joining a \"UAW PICKET LINE\" and UAW posters are visible on the wall in the background."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden recalls “side eye” 👀",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "WAYNE COUNTY, MI",
+      "role": "chyron"
+    },
+    {
+      "text": "BIDEN JOINS UAW PICKET LINE",
+      "role": "chyron"
+    },
+    {
+      "text": "UNITED STRONG CONTRACT",
+      "role": "other"
+    },
+    {
+      "text": "UAW STAND UP",
+      "role": "other"
+    },
+    {
+      "text": "END TIERS",
+      "role": "other"
+    },
+    {
+      "text": "SAVING AMERICAN DREAM",
+      "role": "other"
+    },
+    {
+      "text": "JUSTICE RETIREES",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An unnamed man recounts to President Biden how a news clip captured a brief moment where he appeared to be giving Biden the \"side eye\" on a picket line. Biden remembers the incident with a laugh, saying \"Oh, yes! Oh, yeah... That's right!\" They share a moment of laughter about how the glance was interpreted.",
+  "emojis_present": [
+    "👀"
+  ],
+  "audio_music": "The audio consists entirely of conversational dialogue and natural laughter from the people in the room. There is no background music or added sound effects.",
+  "editing_pacing": "The video is composed of a few static shots, primarily a two-shot of the conversation. It uses a picture-in-picture overlay to show a news clip that provides context. The pacing is conversational and relaxed.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor",
+    "amusement",
+    "camaraderie"
+  ],
+  "cultural_references": [
+    "The term 'side eye' is used, referencing a popular internet slang term and meme for a judgmental glance."
+  ],
+  "central_claim": "President Biden shares a lighthearted and friendly moment with a UAW member, bonding over a misinterpreted glance that was captured by the news.",
+  "intended_effect": "To portray President Biden as relatable, personable, and having a strong, friendly relationship with union workers.",
+  "uncertainty_flags": []
+}

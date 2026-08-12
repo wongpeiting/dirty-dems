@@ -1,0 +1,65 @@
+{
+  "video_id": "7662821619634654477",
+  "visual_action": "Joe Rogan speaks animatedly into a microphone in a podcast studio setting. In the background, a neon sign reads 'THE JOE ROGAN EXPERIENCE'. The video cuts to J.D. Vance, who is also speaking into a microphone, before cutting back to Rogan.",
+  "cast": [
+    {
+      "name": "Joe Rogan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking for the majority of the video and is named in the on-screen text: 'MUST WATCH: Joe Rogan tears into the Left over voter ID.'"
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown on screen speaking and reacting to Joe Rogan's statements."
+    },
+    {
+      "name": "the Left",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Joe Rogan tears into the Left over voter ID.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "J.D. Vance states that 'most Black Americans vote Democrat.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MUST WATCH: Joe Rogan tears into the Left over voter ID.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE JOE ROGAN EXPERIENCE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Joe Rogan argues forcefully against the idea that requiring voter ID is racist, calling the notion 'insane'. He asks, 'Do you think other races are incapable of going to the DMV? That's insane. That's racist.' J.D. Vance agrees, saying the implication is that 'Blacks and Hispanics cannot go to the DMV.' Vance also claims that polling shows Black Americans are just as 'pro-voter ID' as white Americans, despite mostly voting for Democrats. Rogan concludes that 'most Americans' support voter ID.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of conversational dialogue from the podcast recording, with no music or sound effects.",
+  "editing_pacing": "The editing uses simple cuts between two static, talking-head shots of the speakers.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Mockery",
+    "Agreement"
+  ],
+  "cultural_references": [
+    "The Joe Rogan Experience"
+  ],
+  "central_claim": "The argument that voter ID requirements are racist is itself a racist belief, as it wrongly assumes minority groups are incapable of obtaining an ID.",
+  "intended_effect": "To persuade viewers that opposition to voter ID is illogical and condescending, thereby strengthening support for such laws.",
+  "uncertainty_flags": []
+}

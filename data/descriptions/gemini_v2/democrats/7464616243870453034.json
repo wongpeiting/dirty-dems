@@ -1,0 +1,133 @@
+{
+  "video_id": "7464616243870453034",
+  "visual_action": "A person speaks directly to the camera in an outdoor, wintery setting. The video cuts to a clip of Donald Trump at a press conference podium, with a news chyron at the bottom identifying the source as Forbes Breaking News and the date as January 21, 2025. The video then cuts back and forth between the speaker and the Trump clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a press conference clip and is the central subject of the speaker's criticism."
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The person who narrates the video and appears speaking directly to the camera."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker says, \"when President Biden talked about an oligarchy taking shape in our country...\""
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The off-screen voice that asks Donald Trump a question during the press conference clip."
+    },
+    {
+      "name": "Forbes",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for \"Forbes BREAKING NEWS\" appears on the chyron during the Trump clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LISTEN Y'ALL",
+      "role": "caption"
+    },
+    {
+      "text": "IT IS NOT",
+      "role": "caption"
+    },
+    {
+      "text": "THAT DONALD TRUMP",
+      "role": "caption"
+    },
+    {
+      "text": "ONLY CARES ABOUT",
+      "role": "caption"
+    },
+    {
+      "text": "MAKING HIMSELF",
+      "role": "caption"
+    },
+    {
+      "text": "AROUND HIM MORE WEALTHY",
+      "role": "caption"
+    },
+    {
+      "text": "JANUARY 21, 2025",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENT TRUMP TAKES QUESTIONS FROM REPORTERS AT THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "Forbes BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "DO YOU INTEND",
+      "role": "caption"
+    },
+    {
+      "text": "PEANUTS FOR THESE GUYS",
+      "role": "caption"
+    },
+    {
+      "text": "SURPRISING TRUMP ABUSED",
+      "role": "caption"
+    },
+    {
+      "text": "HIS FIRST TERM",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S SO MUCH WORSE",
+      "role": "caption"
+    },
+    {
+      "text": "WHO COMPARE BILLIONS OF DOLLARS TO PEANUTS",
+      "role": "caption"
+    },
+    {
+      "text": "DON'T KNOW ANYTHING ABOUT THE CHALLENGES OR ASPIRATIONS OF WORKING CLASS PEOPLE",
+      "role": "caption"
+    },
+    {
+      "text": "BIDEN TALKED ABOUT AN OLIGARCHY TAKING SHAPE IN OUR COUNTRY",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A speaker argues that Donald Trump only cares about enriching himself and his wealthy friends. The video shows a clip of Trump at a press conference, where a reporter asks if he will continue selling products for his personal benefit. Trump deflects, and when told the venture made \"several billion dollars,\" he responds, \"Several billion? That's peanuts for these guys.\" The speaker claims this shows how out of touch Trump is and that his potential second term would be worse, creating an \"oligarchy\" that President Biden warned about.",
+  "emojis_present": [],
+  "audio_music": "The video's audio consists entirely of spoken dialogue, with no background music or sound effects.",
+  "editing_pacing": "The video uses a mix of a static talking-head shot of the speaker and cuts to a purported news clip, a common style for commentary or reaction videos. Captions appear on screen in sync with the speech.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video includes a clip presented as a Forbes Breaking News broadcast from a future date (January 21, 2025) of a White House press conference. This segment is a staged or fabricated news broadcast created to depict Donald Trump callously dismissing billions of dollars as 'peanuts' in response to a question about personally profiting while in office.",
+  "emotions_signaled": [
+    "Outrage",
+    "Concern",
+    "Disdain"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a corrupt, self-serving oligarch who is completely out of touch with working-class Americans and will abuse his power to enrich himself and his allies.",
+  "intended_effect": "To generate opposition to Donald Trump by portraying him as corrupt and indifferent to the financial struggles of ordinary people.",
+  "uncertainty_flags": [
+    "Uncertain about the origin of the raw footage of Donald Trump used in the fabricated news clip; it may be an out-of-context clip re-edited for this video."
+  ]
+}

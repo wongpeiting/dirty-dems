@@ -1,0 +1,103 @@
+{
+  "video_id": "7301155949740313898",
+  "visual_action": "The video displays a sequence of two screenshots from news websites. The first is a CBS News article with the headline 'Abortion access proved to be a powerful force in 2022 midterm elections'. The second is an NPR/kpbs article with the headline 'Abortion rights win big in 2023 elections, again'.",
+  "cast": [
+    {
+      "name": "CBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CBS News logo and a headline from their website are shown on screen."
+    },
+    {
+      "name": "NPR",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NPR logo and a headline from their website are shown on screen."
+    },
+    {
+      "name": "kpbs",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The kpbs logo appears next to the NPR logo on a screenshot of a news article."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the @democrats account, and its message about abortion rights being a winning electoral issue directly supports the party's platform and strategy."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the history book on the shelf...",
+      "role": "overlay"
+    },
+    {
+      "text": "CBS NEWS",
+      "role": "other"
+    },
+    {
+      "text": "POLITICS >",
+      "role": "other"
+    },
+    {
+      "text": "Abortion access proved to be a powerful force in 2022 midterm elections",
+      "role": "other"
+    },
+    {
+      "text": "is always repeating itself",
+      "role": "overlay"
+    },
+    {
+      "text": "npr",
+      "role": "other"
+    },
+    {
+      "text": "kpbs",
+      "role": "other"
+    },
+    {
+      "text": "❤️ DONATE",
+      "role": "other"
+    },
+    {
+      "text": "ELECTIONS",
+      "role": "other"
+    },
+    {
+      "text": "Abortion rights win big in 2023 elections, again",
+      "role": "other"
+    },
+    {
+      "text": "November 8, 2023 - 5:05 AM ET",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of a song with the lyrics, 'The history book on the shelf is always repeating itself,' which syncs with the text and headlines shown on screen. There is no other dialogue.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The video is set to an upbeat, driving big band/electronic track. The female vocals sing the lyrics 'the history book on the shelf is always repeating itself', which matches the on-screen text. The music creates a confident and energetic mood.",
+  "editing_pacing": "The video is a static slideshow, cutting from the first screenshot to the second screenshot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "confidence",
+    "vindication",
+    "optimism"
+  ],
+  "cultural_references": [
+    "The song used is 'History Repeating' by the Propellerheads featuring Shirley Bassey, with the lyrics directly corresponding to the video's message about recurring electoral outcomes."
+  ],
+  "central_claim": "Abortion rights are a consistently winning issue in elections, as proven by results in both 2022 and 2023.",
+  "intended_effect": "To make viewers feel confident in the electoral power of the abortion rights platform and to energize them for future elections.",
+  "uncertainty_flags": []
+}

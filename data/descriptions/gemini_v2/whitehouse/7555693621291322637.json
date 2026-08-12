@@ -1,0 +1,70 @@
+{
+  "video_id": "7555693621291322637",
+  "visual_action": "The video is a montage showing Israeli Prime Minister Benjamin Netanyahu and U.S. President Donald Trump. It opens with Netanyahu writing in a book. A close-up reveals a handwritten note to Trump dated September 15, 2025, calling him Israel's greatest friend. Subsequent shots show Trump and Netanyahu talking in the Oval Office, walking together down a hallway, and speaking at separate events. The video includes shots of American and Israeli flags. It concludes with a black-and-white image of the White House building, followed by Marine One, with the text 'THE WHITE HOUSE' overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips, including speaking at a podium and interacting with Benjamin Netanyahu. He is also the recipient of a handwritten note shown on screen that reads, 'To President Donald Trump.'"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown writing a note and interacting with Donald Trump. His name and signature ('Bibi') appear on the handwritten note: 'His Excellency Benjamin Netanyahu Prime Minister of the State of Israel.'"
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The country is mentioned in the on-screen handwritten note as 'the greatest friend Israel has ever had' and the Israeli flag is shown multiple times."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The building is shown at the end, its name is displayed on screen, and it is mentioned in the handwritten note shown in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "To President Donald Trump. Unquestionably the greatest friend Israel has ever had in the White House — by a long shot! Bibi",
+      "role": "overlay"
+    },
+    {
+      "text": "His Excellency Benjamin Netanyahu Prime Minister of the State of Israel September 15, 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The provided transcript is incorrect; the video contains no spoken words, only a continuous musical score.",
+  "emojis_present": [],
+  "audio_music": "A continuous, dramatic, and inspiring orchestral score plays throughout the video, creating a cinematic and serious tone meant to convey importance and achievement.",
+  "editing_pacing": "A cinematic montage with smooth cuts between shots of the leaders and related imagery, paced to the dramatic score.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Seriousness",
+    "Respect",
+    "Admiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is the greatest friend and ally Israel has ever had in the White House, a fact personally affirmed by Israel's Prime Minister Benjamin Netanyahu.",
+  "intended_effect": "To instill pride and confidence in President Trump's strong relationship with Israel and his foreign policy leadership.",
+  "uncertainty_flags": [
+    "The provided audio transcript does not match the video's audio, which is purely instrumental music with no dialogue."
+  ]
+}

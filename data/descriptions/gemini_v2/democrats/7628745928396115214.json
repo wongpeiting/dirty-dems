@@ -1,0 +1,146 @@
+{
+  "video_id": "7628745928396115214",
+  "visual_action": "A news clip shows a reporter interviewing a man with a mustache wearing a black tank top and sunglasses, who is standing next to a pickup truck. The clip is presented with a text caption at the top and large, timed subtitles that appear in sync with the man's speech. A news chyron from MSNBC is visible at the bottom, which includes inset pictures of politicians.",
+  "cast": [
+    {
+      "name": "John North",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A chyron identifies the speaker as 'JOHN NORTH TRUMP VOTER'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The top caption reads 'MAGA voter calls trump an egotistical disgrace' and the chyron reads 'FALLOUT GROWS FROM TRUMP'S JESUS-LIKE A.I. IMAGE'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man in a light blue shirt is shown holding a microphone and interviewing John North."
+    },
+    {
+      "name": "Chris Jansing",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on the chyron: 'CHRIS JANSING REPORTS'."
+    },
+    {
+      "name": "Mark Warner",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face and name ('SENATOR MARK WARNER') appear in an inset picture on the chyron in the first half of the clip."
+    },
+    {
+      "name": "Raphael Warnock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID. His name also appears on a chyron ('SENATOR RAPHAEL WARNOCK GEORGIA'), but it is displayed next to a picture of an unidentified woman."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'MSNOW' logo appears on the chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAGA voter calls trump an egotistical disgrace 🔥",
+      "role": "caption"
+    },
+    {
+      "text": "FALLOUT GROWS FROM TRUMP'S JESUS-LIKE A.I. IMAGE",
+      "role": "chyron"
+    },
+    {
+      "text": "CHRIS JANSING REPORTS",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNOW",
+      "role": "chyron"
+    },
+    {
+      "text": "JOHN NORTH\nTRUMP VOTER",
+      "role": "chyron"
+    },
+    {
+      "text": "SENATOR\nMARK WARNER\nVIRGINIA",
+      "role": "chyron"
+    },
+    {
+      "text": "SENATOR\nRAPHAEL WARNOCK\nGEORGIA",
+      "role": "chyron"
+    },
+    {
+      "text": "DISGRACE.",
+      "role": "overlay"
+    },
+    {
+      "text": "I'M VERY UPSET",
+      "role": "overlay"
+    },
+    {
+      "text": "HOW EGOTISTICAL",
+      "role": "overlay"
+    },
+    {
+      "text": "CAN YOU POSSIBLY",
+      "role": "overlay"
+    },
+    {
+      "text": "I'M ASHAMED",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT HE WOULD",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT.",
+      "role": "overlay"
+    },
+    {
+      "text": "A MAN I VOTED",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A man identified as a Trump voter expresses his disappointment with Donald Trump, calling a recent action a \"disgrace.\" He says he is \"very upset\" and \"ashamed,\" questioning how egotistical Trump can be and lamenting that this is the man he voted for and trusts.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "A low, tense, and ominous electronic sound plays throughout the clip, creating a serious and dramatic tone for the interview.",
+  "editing_pacing": "The video consists of a single news clip with added captions and large, timed subtitles that emphasize the speaker's words. There are subtle zooms to keep the focus on the speaker.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Betrayal",
+    "Concern"
+  ],
+  "cultural_references": [
+    "Jesus Christ"
+  ],
+  "central_claim": "Donald Trump's use of a Jesus-like AI image is so egotistical that it is causing even his own MAGA supporters to feel ashamed and call him a disgrace.",
+  "intended_effect": "To convince the audience that Donald Trump is losing support from his core base due to his extreme behavior.",
+  "uncertainty_flags": [
+    "A news chyron at 0:07 shows the name 'SENATOR RAPHAEL WARNOCK GEORGIA' next to a picture of an unidentified woman. It is unclear if this was an error in the original MSNBC broadcast or a manipulation by the TikTok creator.",
+    "The authoritative face-ID from context identifies Raphael Warnock as being on screen, but the person shown next to his name on the chyron is a woman. This might indicate an error in the face-ID system or that the chyron is manipulated."
+  ]
+}

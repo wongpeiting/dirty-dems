@@ -1,0 +1,59 @@
+{
+  "video_id": "7523364529984621838",
+  "visual_action": "The video starts with a split-screen. The top part shows Donald Trump being interviewed by a woman, with the text 'Two months ago:' above them. The bottom part is a closer shot of Trump speaking. The video then cuts to a shot of Trump sitting at a desk with the presidential seal, holding up a signed document. He is surrounded by several men in suits who are clapping.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visibly present speaking in the first half of the video and shown signing a document in the second half. The entire post is about his alleged actions regarding Medicaid."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown interviewing Donald Trump and her voice is heard asking a question."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Two months ago:",
+      "role": "overlay"
+    },
+    {
+      "text": "What happens if the bill comes and has cuts to Medicaid? Would you veto that?",
+      "role": "caption"
+    },
+    {
+      "text": "We're not cutting Medicaid.",
+      "role": "caption"
+    },
+    {
+      "text": "He just signed a $1T Medicaid cut into law",
+      "role": "overlay"
+    },
+    {
+      "text": "17 million Americans will lose their health care",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An interviewer asks Donald Trump, \"What happens if the bill comes and has cuts to Medicaid? Would you veto that?\" Trump replies, \"We're not cutting Medicaid.\" The rest of the video contains no dialogue, only music.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, and somber instrumental track plays throughout the video, creating a sense of disappointment or dread.",
+  "editing_pacing": "A simple cut transitions from a split-screen interview clip to a static shot of a bill signing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "betrayal",
+    "concern",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump broke his promise and signed a $1 trillion Medicaid cut into law, which will cause 17 million Americans to lose their healthcare.",
+  "intended_effect": "To portray Donald Trump as untrustworthy and a threat to Americans' healthcare.",
+  "uncertainty_flags": []
+}

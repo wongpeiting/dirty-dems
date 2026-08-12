@@ -1,0 +1,115 @@
+{
+  "video_id": "7618329192752499982",
+  "visual_action": "Donald Trump is shown speaking at a podium in a formal setting. There is a C-SPAN chyron at the bottom of the screen. An Italian flag is visible behind him. The shot is static throughout the clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking for the entire duration of the video."
+    },
+    {
+      "name": "Donald Trump's son",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text says \"trump doesn't even like talking to his own son 💀\" and Trump says in his speech, \"I don't even like to talk to my son.\""
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The C-SPAN chyron identifies him as \"HOUSE SPEAKER JOHNSON\"."
+    },
+    {
+      "name": "unnamed Irish Prime Minister",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The C-SPAN chyron mentions \"IRISH PM\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump doesn't even like talking to his own son 💀",
+      "role": "overlay"
+    },
+    {
+      "text": "PRES. TRUMP & HOUSE SPEAKER JOHNSON HOST IRISH PM AT FRIENDS OF IRELAND LUNCHEON",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "I OWN IT,",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT I HAVEN'T - I DON'T",
+      "role": "overlay"
+    },
+    {
+      "text": "EVEN LIKE TO TALK TO",
+      "role": "overlay"
+    },
+    {
+      "text": "MY SON. HE SAYS,",
+      "role": "overlay"
+    },
+    {
+      "text": "WE'RE DOING GREAT",
+      "role": "overlay"
+    },
+    {
+      "text": "WITH THE PRO-\"",
+      "role": "overlay"
+    },
+    {
+      "text": "I'M ALLOWED TO,",
+      "role": "overlay"
+    },
+    {
+      "text": "TO RUN IT,",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT I DON'T CHOOSE",
+      "role": "overlay"
+    },
+    {
+      "text": "TO.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump discusses a property or business he owns, stating, \"I don't even like to talk to my son.\" He says his son tells him they are \"doing great,\" and clarifies that while he is allowed to run the business himself, he chooses not to.",
+  "emojis_present": [
+    "💀"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's speech. There is no music or other sound effects.",
+  "editing_pacing": "The video consists of a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "The skull emoji (💀) is used as a form of internet slang to express extreme amusement, shock, or that something is 'dead' funny.",
+    "The caption 'bruh' is a common piece of internet slang expressing disbelief or disappointment."
+  ],
+  "central_claim": "Donald Trump has such a poor relationship with his son that he doesn't even like talking to him about their shared business interests.",
+  "intended_effect": "To portray Donald Trump as a cold and uncaring father, thereby damaging his personal character and public image.",
+  "uncertainty_flags": []
+}

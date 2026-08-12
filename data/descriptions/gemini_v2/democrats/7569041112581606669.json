@@ -1,0 +1,59 @@
+{
+  "video_id": "7569041112581606669",
+  "visual_action": "The video begins with a static image of a simulated tweet from an account named 'FactPost'. The tweet announces that Abigail Spanberger has been elected Governor of Virginia and includes a photo of her next to a photo of the Virginia State Capitol. After a few seconds, it cuts to a single, steady shot of Abigail Spanberger sitting in a leather chair in a formal office setting, looking directly at the camera with a serious expression.",
+  "cast": [
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "An on-screen text in a simulated tweet reads, 'Democrat Abigail Spanberger has been elected Governor of Virginia.' Her photo is also shown."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays a simulated tweet from the account 'FactPost' (@factpostnews)."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies Abigail Spanberger as a 'Democrat'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrat Abigail Spanberger has been elected Governor of Virginia.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only a music track plays.",
+  "emojis_present": [],
+  "audio_music": "The video features the song 'Dog Days Are Over' by Florence + The Machine throughout. The track is upbeat, celebratory, and creates an inspiring and triumphant mood.",
+  "editing_pacing": "The video uses very simple editing, consisting of one static image of a simulated tweet that cuts to a single, static shot of Abigail Spanberger.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated tweet from a created news entity called 'FactPost' to present an election announcement. This is a staged graphic designed to look like a real-time news alert.",
+  "emotions_signaled": [
+    "Triumph",
+    "Hope",
+    "Inspiration"
+  ],
+  "cultural_references": [
+    "The song 'Dog Days Are Over' by Florence + The Machine."
+  ],
+  "central_claim": "Democrat Abigail Spanberger has been elected Governor of Virginia.",
+  "intended_effect": "To generate feelings of excitement and triumph associated with Abigail Spanberger's campaign or election, thereby building support for her.",
+  "uncertainty_flags": [
+    "It is unclear whether 'FactPost' is a real, albeit obscure, news entity or one entirely fabricated for the ad. However, the tweet is presented as a staged graphic."
+  ]
+}

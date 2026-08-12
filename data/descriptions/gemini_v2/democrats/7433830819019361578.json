@@ -1,0 +1,87 @@
+{
+  "video_id": "7433830819019361578",
+  "visual_action": "A man is interviewed outdoors by a female reporter holding a microphone. The scene is a clip from a CNN news broadcast, with a detailed chyron at the bottom of the screen indicating it's Election Day in Michigan. A large text overlay at the top of the video quotes the man's reasons for his vote.",
+  "cast": [
+    {
+      "name": "Jason Faasse",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "His name appears in a chyron: 'Jason Faasse | Local University Employee'. He is the voter being interviewed."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The voter, Jason Faasse, states, 'I voted for Kamala Harris.' Her name is also mentioned in the on-screen overlay text."
+    },
+    {
+      "name": "unnamed CNN reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown on screen holding a microphone and interviewing the voter. The broadcast is identified as CNN."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and broadcast graphics are visible throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Michigan voter: I voted for Kamala Harris. I have three daughters. Women's rights is pretty important to them. I'm sorry, I'm getting a little emotional. Their bodies, their choice. I want them to grow up in a world that's welcoming to everybody.",
+      "role": "overlay"
+    },
+    {
+      "text": "ELECTION DAY IN AMERICA",
+      "role": "chyron"
+    },
+    {
+      "text": "VOTERS CASTING THEIR BALLOTS IN CRITICAL SWING STATE MICHIGAN",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN ELECTION",
+      "role": "chyron"
+    },
+    {
+      "text": "ELECTION NIGHT IN AMERICA 4P ET",
+      "role": "chyron"
+    },
+    {
+      "text": "Grand Rapids, Michigan",
+      "role": "chyron"
+    },
+    {
+      "text": "Jason Faasse | Local University Employee",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A reporter asks a man, Jason Faasse, who he voted for. He replies, \"I voted for Kamala Harris.\" When asked why, he explains that he has three daughters and women's rights are very important. He becomes emotional, saying, \"Their bodies, their choice,\" and expresses his desire for his daughters to grow up in a world that is welcoming to everybody.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the news interview, with ambient outdoor sounds. There is no music.",
+  "editing_pacing": "The video is a single, static shot of a talking-head style interview.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Sincerity",
+    "Emotional vulnerability",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "A Michigan father emotionally explains that he voted for Kamala Harris specifically to protect women's rights and bodily autonomy for his daughters.",
+  "intended_effect": "To create an emotional connection with viewers and frame voting for Kamala Harris as a heartfelt, protective choice for one's family and for women's rights.",
+  "uncertainty_flags": []
+}

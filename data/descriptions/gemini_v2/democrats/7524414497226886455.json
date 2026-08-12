@@ -1,0 +1,69 @@
+{
+  "video_id": "7524414497226886455",
+  "visual_action": "The video first shows a clip of Robert F. Kennedy Jr. speaking in what appears to be a formal setting. Text is overlaid quoting him. The video then cuts to a black screen with the word \"meanwhile:\" followed by a screenshot of a news headline from The Washington Post. The headline, partially highlighted in yellow, is about a record high in U.S. measles cases. This sequence repeats.",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at the start of the video, and the on-screen text labels the clip \"RFK Jr:\"."
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text quotes RFK Jr. as saying, \"The CDC has done an amazing job at getting the measles outbreak under control.\""
+    },
+    {
+      "name": "The Washington Post",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name \"The Washington Post\" is visible on a screenshot of a news headline used in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "RFK Jr:",
+      "role": "overlay"
+    },
+    {
+      "text": "The CDC has done an amazing job at getting the measles outbreak under control.",
+      "role": "overlay"
+    },
+    {
+      "text": "meanwhile:",
+      "role": "meme_text"
+    },
+    {
+      "text": "U.S. measles cases reach 33-year record high as outbreaks spread",
+      "role": "overlay"
+    },
+    {
+      "text": "The Washington Post",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio features Robert F. Kennedy Jr. saying the line that is captioned on screen: \"The CDC has done an amazing job at getting the measles outbreak under control.\" His voice is audible under the music.",
+  "emojis_present": [],
+  "audio_music": "A fast-paced, tense hip-hop track identified as 'Better Call Saul Theme Ohio' plays throughout the video, creating a mocking and dramatic tone common in meme videos.",
+  "editing_pacing": "The video uses a fast, simple cut, juxtaposing a video clip with a screenshot to create an ironic contrast, which is a common meme editing style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "The music track is titled 'Better Call Saul Theme Ohio', referencing the TV show 'Better Call Saul'.",
+    "The format of showing a statement followed by 'meanwhile:' and a contradictory piece of evidence is a common internet meme format."
+  ],
+  "central_claim": "Robert F. Kennedy Jr.'s praise for the CDC's handling of measles is demonstrably false, as shown by news reports of a 33-year record high in cases.",
+  "intended_effect": "To discredit Robert F. Kennedy Jr. by portraying his statements as out of touch with reality and to mock his assessment of the CDC.",
+  "uncertainty_flags": []
+}

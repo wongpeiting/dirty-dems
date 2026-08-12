@@ -1,0 +1,92 @@
+{
+  "video_id": "7610895050834218254",
+  "visual_action": "The video opens with a close-up of a young woman speaking. Text overlays appear on her face. It then cuts to a black-and-white clip of Donald Trump speaking, with a text box reading \"MOGGED\" covering his eyes. The video then transitions to a montage of a female figure skater in a dark sparkly dress performing on an ice rink in a large arena. The montage includes shots of her skating, spinning, and posing. The video ends with her smiling, holding a gold medal, and pretending to bite it.",
+  "cast": [
+    {
+      "name": "unnamed female figure skater",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is the subject of the montage that makes up the bulk of the video, and her voiceover about immigrant rights is played."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in a brief clip where the word \"MOGGED\" is superimposed over his face, making him the target of the video's central meme."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video was posted by the official @democrats account."
+    },
+    {
+      "name": "unnamed young woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She appears at the beginning of the video to say, \"My main goal for this competition was to mog,\" setting up the meme."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible standing next to Donald Trump in the black-and-white clip, identified via external context."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "real medal holder 🥇",
+      "role": "caption"
+    },
+    {
+      "text": "WAS TO",
+      "role": "overlay"
+    },
+    {
+      "text": "MOG",
+      "role": "overlay"
+    },
+    {
+      "text": "MOGGED",
+      "role": "overlay"
+    },
+    {
+      "text": "MILANO CORTINA 2026",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video combines audio from two different speakers. The first says, \"I feel like my main goal for this competition was to mog.\" The second speaker, a figure skater, says, \"Coming from a family of immigrants, like, I think immigrants deserve rights. I think it's a little silly, especially in America.\"",
+  "emojis_present": [
+    "🥇"
+  ],
+  "audio_music": "The video begins with dialogue. When the text \"MOGGED\" appears over Trump, there is a bass-heavy impact sound effect. The subsequent montage of the figure skater is set to an upbeat, slightly ethereal electronic music track with a consistent beat, over which the skater's dialogue is played.",
+  "editing_pacing": "The video uses fast-paced, meme-style editing. It starts with a short talking-head clip, cuts abruptly to a reaction clip (Trump), and then transitions into a montage with quick cuts showing the figure skater from various angles.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The word \"MOGGED\" is superimposed in a black box over Donald Trump's eyes to mock him by framing him as having been visually or socially dominated, which is the meaning of the internet slang term.",
+  "emotions_signaled": [
+    "mockery",
+    "pride",
+    "triumph",
+    "inspiration"
+  ],
+  "cultural_references": [
+    "Mogging / Mog: An internet slang term and meme format centered on the idea of someone being overwhelmingly more attractive or impressive than someone else.",
+    "Milano Cortina 2026: A reference to the 2026 Winter Olympics."
+  ],
+  "central_claim": "A successful figure skater from an immigrant family who advocates for immigrant rights is superior to and has 'mogged' (dominated) Donald Trump.",
+  "intended_effect": "To mock Donald Trump, celebrate the achievements of an athlete from an immigrant background, and associate the Democratic party with success and pro-immigrant values.",
+  "uncertainty_flags": [
+    "The identity of the figure skater is not specified, though she is implied to be a real athlete.",
+    "The identity of the first woman speaking is unknown."
+  ]
+}

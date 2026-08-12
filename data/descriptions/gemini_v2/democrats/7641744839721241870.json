@@ -1,0 +1,71 @@
+{
+  "video_id": "7641744839721241870",
+  "visual_action": "The video consists of two static images. The first is a blue campaign-style poster for Jon Ossoff for U.S. Senate in Georgia, dated 2026. The second is a photograph of Jon Ossoff speaking at a podium at a rally, with supporters holding signs and American flags in the background.",
+  "cast": [
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His name \"JON OSSOFF\" and photo appear on a campaign poster. He is also shown in a photo at a rally."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A donkey logo, the symbol of the Democratic Party, appears on the campaign poster. The video was posted by the '@democrats' account."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A sign held by an audience member at the rally reads \"RALLY REPUBLIC\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "JON OSSOFF for U.S. SENATE",
+      "role": "overlay"
+    },
+    {
+      "text": "Ossoff",
+      "role": "overlay"
+    },
+    {
+      "text": "OSSOFF • 2026 • GEORGIA • OSSOFF • 2026 • GEORGIA • OSSOFF",
+      "role": "overlay"
+    },
+    {
+      "text": "RALLY REPUBLIC",
+      "role": "other"
+    },
+    {
+      "text": "OSSOFF",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The only audio is the song 'Georgia On My Mind,' with the lyrics 'Georgia, Georgia' being sung.",
+  "emojis_present": [],
+  "audio_music": "A soulful, slow-paced rendition of the song 'Georgia On My Mind' by Ray Charles plays throughout the clip, creating a nostalgic and prideful feeling associated with the state of Georgia.",
+  "editing_pacing": "The video is a slideshow of two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride (in Georgia)",
+    "Nostalgia",
+    "Hope"
+  ],
+  "cultural_references": [
+    "The song 'Georgia On My Mind', famously performed by Ray Charles, is used as the soundtrack."
+  ],
+  "central_claim": "Jon Ossoff is running for U.S. Senate in Georgia in 2026 and is deeply connected to the state.",
+  "intended_effect": "To build positive sentiment and support for Jon Ossoff's 2026 senate campaign by associating him with Georgian identity and pride.",
+  "uncertainty_flags": [
+    "The meaning of the sign reading 'RALLY REPUBLIC' at what appears to be a Jon Ossoff rally is unclear."
+  ]
+}

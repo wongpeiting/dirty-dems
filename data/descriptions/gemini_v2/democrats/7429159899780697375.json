@@ -1,0 +1,94 @@
+{
+  "video_id": "7429159899780697375",
+  "visual_action": "A split-screen view of a CNN Presidential Town Hall. On the left, Vice President Kamala Harris is speaking. On the right, a man in a baseball cap, identified as Erik Svendsen, is asking a question. Text overlays summarize the question and Harris's answer. The background is a stage with red and blue lighting and a live audience. The camera also cuts to a single shot of Harris speaking.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Kamala Harris is shown speaking and answering a question at a CNN Town Hall."
+    },
+    {
+      "name": "Erik Svendsen",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man is shown asking a question and is identified by the chyron 'Erik Svendsen | IT Manager'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The questioner, Erik Svendsen, asks about who is to blame for high grocery prices, mentioning that 'some people blame former President Trump'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The questioner, Erik Svendsen, asks about who is to blame for high grocery prices, mentioning that 'some people blame President Biden'."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo appears on screen and in the chyrons, indicating they are the broadcaster of the town hall."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Q: What would you do to bring grocery prices down for Americans?",
+      "role": "overlay"
+    },
+    {
+      "text": "VP Harris: I believe we should have a national ban on corporate price gouging. Companies are jacking up prices without any consequences or accountability.",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN PRESIDENTIAL TOWN HALL WITH KAMALA HARRIS",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN TOWN HALL",
+      "role": "chyron"
+    },
+    {
+      "text": "Erik Svendsen | IT Manager",
+      "role": "chyron"
+    },
+    {
+      "text": "QUESTION",
+      "role": "chyron"
+    },
+    {
+      "text": "Is Trump or Biden to blame for high food prices and what can you do to ensure those costs come down?",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An audience member, Erik Svendsen, asks Kamala Harris who is to blame for rising grocery prices, Trump or Biden, and what she would do to lower them. Harris responds that prices are too high and that her plan involves instituting a national ban on corporate price gouging. She describes this as preventing companies from 'jacking up prices without any consequences or accountability' and taking advantage of consumers.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from the town hall event. There is no music or other sound design.",
+  "editing_pacing": "The video uses a split-screen format and cuts to a medium shot of one speaker, consistent with a live television broadcast. The pacing is conversational.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris's solution to high grocery prices is to implement a national ban on corporate price gouging.",
+  "intended_effect": "To present Kamala Harris as having a concrete plan to address the cost of living by holding corporations accountable for price increases.",
+  "uncertainty_flags": []
+}

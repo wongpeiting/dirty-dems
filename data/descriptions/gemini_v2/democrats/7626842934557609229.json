@@ -1,0 +1,90 @@
+{
+  "video_id": "7626842934557609229",
+  "visual_action": "The video shows a medium shot of Melania Trump speaking at a podium flanked by American flags. The presentation is styled like a news broadcast, with a C-SPAN chyron at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole person shown on screen, speaking at a podium. Her identity is confirmed by face recognition and the on-screen chyron which reads 'FIRST LADY MELANIA TRUMP...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text at the top of the video states, 'Melania breaks with Trump...'"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Melania Trump is heard saying 'women who have been victimized by Epstein' and the on-screen text refers to 'Epstein files'."
+    },
+    {
+      "name": "U.S. Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Melania Trump is heard saying, 'I call on Congress...'"
+    },
+    {
+      "name": "C-SPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN logo is visible on the chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Melania breaks with Trump and calls for public hearing on Epstein files",
+      "role": "overlay"
+    },
+    {
+      "text": "FIRST LADY MELANIA TRUMP ADDRESSES EPSTEIN FILES",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "I CALL ON... PROVIDE THE... WOMEN WHO HAVE... VICTIMIZED BY... EPSTEIN WITH A... PUBLIC HEARING... WE STILL MUST... WORK OPENLY... AND... TRANSPARENTLY... TO UNCOVER THE... TRUTH",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Melania Trump calls on Congress to provide a public hearing for the women victimized by Jeffrey Epstein, stating, 'We still must work openly and transparently to uncover the truth.'",
+  "emojis_present": [
+    "👀"
+  ],
+  "audio_music": "The audio consists solely of Melania Trump's speech. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static shot of a person speaking at a podium, in a talking-head style.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is manipulated to create a fake news broadcast. A fabricated C-SPAN chyron reading 'FIRST LADY MELANIA TRUMP ADDRESSES EPSTEIN FILES' has been added to footage of her speaking. This chyron, along with the top overlay text, creates a false context for her speech, making it appear as if she is publicly breaking with Donald Trump over the Jeffrey Epstein case.",
+  "emotions_signaled": [
+    "Shock",
+    "Intrigue"
+  ],
+  "cultural_references": [],
+  "central_claim": "Melania Trump has publicly broken with Donald Trump and is demanding a congressional hearing on the Jeffrey Epstein files.",
+  "intended_effect": "To damage Donald Trump's reputation by creating the false impression that his own wife is turning against him regarding a serious scandal.",
+  "uncertainty_flags": [
+    "The authenticity of the audio is uncertain; it could be AI-generated or spliced from an unrelated speech to fit the fabricated narrative of the fake chyron."
+  ]
+}

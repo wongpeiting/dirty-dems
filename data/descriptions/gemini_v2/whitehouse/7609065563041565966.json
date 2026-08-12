@@ -1,0 +1,90 @@
+{
+  "video_id": "7609065563041565966",
+  "visual_action": "The video is a montage set to music. It opens with a shot of a motorcade on a highway. It cuts to a large crowd of supporters cheering as a campaign bus decorated with an American flag motif and the words \"TRUMP 2028\" passes by. Donald Trump is then shown walking through a steel factory with another man, shaking hands with workers. A large circular sign reads \"COOSA STEEL ROME, GEORGIA\". Trump is then shown speaking at a podium with a presidential seal to an audience of supporters, many of whom are wearing red hats. There are B-roll shots of the factory, including a metal beam being laser-cut with the words \"TRUMP MAKE AMERICA GREAT AGAIN\". A banner reading \"JOBS! JOBS! JOBS!\" hangs in the background. The video ends with black and white footage of the White House, followed by a helicopter, with the text \"THE WHITE HOUSE\" superimposed.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, shown addressing a crowd and touring a factory."
+    },
+    {
+      "name": "The last administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump contrasts his policies with those of \"the last administration,\" which he claims \"punished American workers and businesses.\""
+    },
+    {
+      "name": "Coosa Steel Corporation",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The event takes place at their facility, which is named in the audio and on multiple signs."
+    },
+    {
+      "name": "Mike Collins",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name is visible on the side of the campaign bus shown near the beginning of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP 2028",
+      "role": "other"
+    },
+    {
+      "text": "AMERICA Great AGAIN!",
+      "role": "other"
+    },
+    {
+      "text": "MIKE COLLINS",
+      "role": "other"
+    },
+    {
+      "text": "COOSA STEEL ROME, GEORGIA",
+      "role": "other"
+    },
+    {
+      "text": "JOBS! JOBS! JOBS!",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "COOSA STEEL",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump speaks at the Coosa Steel Corporation in Georgia, stating he is thrilled to be there. He contrasts his administration's economic policies with those of \"the last administration.\" Trump claims the previous administration's policies \"punished American workers\" and rewarded outsourcing, whereas his administration's policy is the \"exact opposite,\" making it harder to outsource and rewarding companies that \"invest, hire, grow, and build right here in the USA.\" He concludes by saying the country's success is not a miracle but \"common sense\" and the result of working with people like those in Georgia.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "An uplifting and inspirational orchestral score plays continuously under Trump's speech. The music has a patriotic and cinematic quality, swelling at key moments to add emotional weight to his words.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes: Trump's motorcade, cheering crowds, Trump touring the factory, B-roll of industrial work, and multiple angles of him speaking and the audience reacting.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Hope",
+    "Optimism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration's policies support American workers and businesses by incentivizing domestic manufacturing, in direct contrast to the previous administration which encouraged outsourcing.",
+  "intended_effect": "To persuade viewers that Donald Trump's economic policies are beneficial for American workers and industry, thereby fostering support for his leadership.",
+  "uncertainty_flags": []
+}

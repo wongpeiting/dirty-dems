@@ -1,0 +1,105 @@
+{
+  "video_id": "7489964023220391214",
+  "visual_action": "A slideshow/montage of protest footage from what appears to be the \"Hands Off!\" National Day of Action rallies held across the United States. The video opens near the Washington Monument on the National Mall, where a person sits on a low stone wall holding a hand-lettered sign, with a dog beside them and a crowd of protesters on the grass behind. Subsequent frames shift to densely packed outdoor protest crowds holding a wide variety of handmade and printed signs. Key signs visible include: \"Hands Off the SOUL of our Nation / We ARE GOOD, DECENT & GENEROUS people / We will NOT be destroyed by YOUR PETTINESS & GREED\"; \"WHO BENEFITS FROM YOUR FEAR?\"; \"TREASON IS THE REASON FOR IMPEACH'N\"; \"HANDS OFF! NATIONAL DAY OF ACTION\"; \"NO KINGS HERE\"; \"HANDS OFF SCIENCE\" (large purple letters with the 'O' crossed out in red, surrounded by smaller text listing: JOY, KNOWLEDGE, EDUCATION, IMPROVED QUALITY OF LIFE, CANCER RESEARCH, CLIMATE RESILIENCE, NATIONAL PARKS, ENVIRONMENTAL JUSTICE, VACCINES, FOOD SAFETY); \"THE TURD REICH\"; \"TRUMP IS A DEMENTED RUSSIAN P[UPPET - partially obscured]\"; \"HANDS OFF OUR PU[BLIC] [SCHOOL]S\"; \"invest in our SCHOOLS ~ not ~ Tax Cuts for billionaires\"; \"HANDS OFF! Project 2025\"; and various other partially visible signs. Crowds are large, energetic, raising fists and signs. Settings include the National Mall area and at least one other outdoor rally location with trees in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Overlay text 'Americans are protesting Trump and Musk'; sign reading 'TRUMP IS A DEMENTED RUSSIAN P[UPPET]'; sign referencing impeachment"
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Overlay text 'All across the country, Americans are protesting Trump and Musk'; partially visible 'MUSK' on a sign in the crowd"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Posted from @democrats TikTok account"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "All across the country, Americans are protesting Trump and Musk",
+      "role": "overlay"
+    },
+    {
+      "text": "Hands OFF the SOUL of our Nation We ARE GOOD, DECENT & GENEROUS people We will NOT be destroyed by YOUR PETTINESS & GREED",
+      "role": "caption"
+    },
+    {
+      "text": "WHO BENEFITS FROM ❤ YOUR FEAR?",
+      "role": "caption"
+    },
+    {
+      "text": "TREASON IS THE REASON FOR IMPEACH'N",
+      "role": "caption"
+    },
+    {
+      "text": "HANDS OFF! NATIONAL DAY OF ACTION",
+      "role": "caption"
+    },
+    {
+      "text": "NO KINGS HERE",
+      "role": "caption"
+    },
+    {
+      "text": "HANDS OFF SCIENCE JOY KNOWLEDGE EDUCATION IMPROVED QUALITY OF LIFE CANCER RESEARCH CLIMATE RESILIENCE NATIONAL PARKS ENVIRONMENTAL JUSTICE VACCINES FOOD SAFETY",
+      "role": "caption"
+    },
+    {
+      "text": "THE TURD REICH",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP IS A DEMENTED RUSSIAN P[UPPET]",
+      "role": "caption"
+    },
+    {
+      "text": "HANDS OFF OUR PU[BLIC SCHOOLS]",
+      "role": "caption"
+    },
+    {
+      "text": "invest in our SCHOOLS ~ not ~ Tax Cuts for billionaires",
+      "role": "caption"
+    },
+    {
+      "text": "HANDS OFF! Project 2025",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio track is the song \"LABOUR (the cacophony)\" by Paris Paloma throughout the video. The Whisper transcript captures lyrics: \"Baby machine, so he can live out his picket fence dreams / It's not an act of love, if you make her, you make me do too much labor.\" The lyrics thematically frame protest against perceived male/authoritarian overreach and exploitation of women's labor, complementing the visual protest content.",
+  "emojis_present": [
+    "👏"
+  ],
+  "audio_music": "The entire clip is scored to \"LABOUR (the cacophony)\" by Paris Paloma, confirmed by ACRCloud fingerprint starting at 0.0s and continuing from 5.0s. The track is a folk-influenced, emotionally charged song with a building, anthemic quality. Its lyrics about labor, coercion, and lack of love function as a thematic parallel to the protest imagery — evoking feelings of resistance, indignation, and solidarity. There is no silence or track change noted.",
+  "editing_pacing": "Slideshow/montage format with slow to moderate cuts between static or near-static protest scene photographs and brief video clips. The pacing is deliberate and allows time to read the protest signs. No fast cuts, zooms, or speed ramps — contemplative and documentary in feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "solidarity — crowd scenes and unified protest messaging signal collective strength",
+    "indignation — signs attacking Trump and Musk by name with sharp language ('PETTINESS & GREED', 'DEMENTED RUSSIAN PUPPET', 'TURD REICH')",
+    "urgency — 'HANDS OFF' repeated across many signs signals a defensive, reactive energy",
+    "empowerment — large crowd imagery and raised fists convey mobilization"
+  ],
+  "cultural_references": [
+    "Paris Paloma — 'LABOUR (the cacophony)' used as the soundtrack, a viral feminist folk song about exploitation and overwork, chosen to thematically frame the protest imagery"
+  ],
+  "central_claim": "Widespread grassroots protests are occurring across the United States in opposition to Trump and Musk, with Americans rallying to defend science, public schools, democratic institutions, and civic values against what demonstrators characterize as authoritarian overreach.",
+  "intended_effect": "Inspire viewers to feel solidarity with and pride in the protest movement, validate opposition to Trump and Musk, and potentially motivate further civic participation or support for the Democratic Party.",
+  "uncertainty_flags": [
+    "Exact date/location of all protest scenes cannot be confirmed from visuals alone — likely 'Hands Off!' National Day of Action (April 2025) based on sign text, but not fully verifiable",
+    "Some protest signs are partially obscured and could not be fully transcribed",
+    "The 'TRUMP IS A DEMENTED RUSSIAN P[UPPET]' sign's last word is cut off — reconstructed from context",
+    "One sign referencing 'MUSK' is only partially visible at the edge of the frame"
+  ]
+}

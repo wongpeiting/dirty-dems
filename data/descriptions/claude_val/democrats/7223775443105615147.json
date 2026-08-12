@@ -1,0 +1,45 @@
+{
+  "video_id": "7223775443105615147",
+  "visual_action": "The video consists of a series of close-up shots of a man speaking and gesturing in what appears to be an industrial or warehouse setting (shelving units, a yellow hard hat visible in the background). The lower half of each frame is occupied by a static graphic card: a teal/cyan banner bearing the \"People\" magazine logo in white, above a white panel with bold black text reading the headline about Florida's abortion ban. The man's facial expressions vary across frames — he appears to be talking, gesturing with his hand, and at times looking upward or sideways. The same graphic overlay persists throughout all frames.",
+  "cast": [
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Confirmed via authoritative face-ID (InsightFace); shown speaking on screen throughout; the People magazine headline about Florida's new abortion ban directly pertains to his governorship and policy."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "People",
+      "role": "overlay"
+    },
+    {
+      "text": "Rape, Incest Victims Must Show Proof to Get Exception to Florida's New Abortion Ban",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No transcript was provided. The video appears to feature audio of Ron DeSantis speaking (his mouth is moving across multiple frames), but no spoken content was captured in the Whisper transcript. The specific words he says are unknown from the available data.",
+  "emojis_present": [],
+  "audio_music": "ACRCloud fingerprints the audio at 0.0s as \"Interlude\" by Harv — a track that begins at the start of the clip. The tone and effect of this instrumental are unclear from the fingerprint alone, but its use as a backdrop to a political news story suggests a subdued or understated mood.",
+  "editing_pacing": "Slow, static talking-head presentation. The camera remains in a close-up on DeSantis throughout, with minimal camera movement. The People magazine graphic overlay is locked in the lower half of the frame for the entire duration. Pacing is unhurried, consistent with a news-clip-style format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern or alarm — evoked by the headline's framing of rape and incest victims being required to show proof for an abortion exception",
+    "indignation — the juxtaposition of DeSantis speaking with the stark headline may prompt viewer disapproval of the policy"
+  ],
+  "cultural_references": [
+    "People magazine — the post directly reproduces the People magazine brand and headline format as the source/framing device for the news claim"
+  ],
+  "central_claim": "Florida's new abortion ban, associated with Governor Ron DeSantis, requires rape and incest victims to provide proof in order to qualify for an exception.",
+  "intended_effect": "To inform viewers of the proof requirement under Florida's abortion ban and to associate DeSantis visually with a policy that viewers may find troubling, particularly regarding victims of rape and incest.",
+  "uncertainty_flags": [
+    "No Whisper transcript was provided, so the exact spoken content of DeSantis in the clip is unknown — it is unclear whether he is discussing the abortion ban directly or speaking about a different topic entirely.",
+    "It is uncertain whether the DeSantis footage was recorded at the same time as or in direct relation to the Florida abortion ban announcement, or whether it is archival footage used as B-roll.",
+    "The specific provision of Florida law being referenced (proof requirement for rape/incest exceptions) cannot be independently verified from the video alone.",
+    "Music track 'Interlude' by Harv — mood/effect unclear without full audio access."
+  ]
+}

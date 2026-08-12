@@ -1,0 +1,64 @@
+{
+  "video_id": "7134451912375602475",
+  "visual_action": "A woman speaks directly to the camera in a talking-head format. Behind her, an animated graphic visualizes a vote in the House of Representatives. The graphic first displays text accusing Republicans of voting against Americans. It then transitions to show a specific vote on a bill to fight gas price gouging, animating to fill in 217 'yes' votes from Democrats (in blue) and 203 'no' votes from Republicans (in red).",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The main on-screen text reads 'Republicans Repeatedly Vote Against Helping Americans' and a later graphic shows '203 REPUBLICANS VOTED NO'. The speaker also repeatedly refers to Republicans."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker refers to 'Democrats' plan' and a graphic shows '217 DEMOCRATS VOTED YES'."
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman appears on screen throughout the video, delivering the narration."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans Repeatedly Vote Against Helping Americans",
+      "role": "overlay"
+    },
+    {
+      "text": "House of Representatives Vote on a Bill That Would Fight Gas Price Gouging",
+      "role": "overlay"
+    },
+    {
+      "text": "217 DEMOCRATS VOTED YES",
+      "role": "overlay"
+    },
+    {
+      "text": "203 REPUBLICANS VOTED NO",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman asks viewers how many Republicans voted against a Democratic plan to address gas price gouging. She states that while 217 Democrats voted for a bill to fight it, 203 Republicans—every single House Republican—voted against it. She concludes this is one example of Republicans voting against bills that would help the American people.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of the woman's speech. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot. The only edits are the animated graphics appearing in the background to illustrate the speaker's points.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican party unanimously voted against a bill designed to stop gas price gouging, demonstrating they do not act in the interest of the American people.",
+  "intended_effect": "To generate anger towards the Republican Party and position the Democratic Party as the one fighting for ordinary Americans against corporate interests.",
+  "uncertainty_flags": [
+    "The identity of the speaker is unknown."
+  ]
+}

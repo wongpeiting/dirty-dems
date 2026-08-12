@@ -1,0 +1,79 @@
+{
+  "video_id": "7431234337389006123",
+  "visual_action": "A slideshow of three images. The first is a screenshot of a news headline about musician Gracie Abrams and the band The National performing at a Harris-Walz rally, shown over a photo of Abrams singing and playing guitar. The second is a screenshot of a headline about Taylor Swift endorsing Harris, shown over a photo of Swift performing on stage. The third is a candid photo of Taylor Swift and Gracie Abrams walking together, with a blue heart emoji overlaid.",
+  "cast": [
+    {
+      "name": "Gracie Abrams",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her name appears in a headline, \"Gracie Abrams, Members of the National, to Perform at Harris-Walz Rally in Wisconsin,\" and she is shown in two photographs."
+    },
+    {
+      "name": "The National",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The band is named in the on-screen headline: \"Members of the National, to Perform at Harris-Walz Rally in Wisconsin.\""
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name appears in two on-screen headlines: \"Harris-Walz Rally\" and \"Taylor Swift endorses Harris.\""
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears in the on-screen headline: \"Harris-Walz Rally.\""
+    },
+    {
+      "name": "Taylor Swift",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her name appears in a headline, \"Taylor Swift endorses Harris...\", she is shown in two photographs, and her voice is heard speaking at the end of the clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Gracie Abrams, Members of the National, to Perform at Harris-Walz Rally in Wisconsin",
+      "role": "overlay"
+    },
+    {
+      "text": "Taylor Swift endorses Harris in post signed 'Childless Cat Lady'",
+      "role": "overlay"
+    },
+    {
+      "text": "💙",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "At the end of the clip, a snippet of Taylor Swift speaking to a cheering crowd is layered over her music. She says, \"And the fans... you have changed my life.\"",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "Taylor Swift's song \"Long Live\" plays throughout the video. It is an anthemic, uplifting track. Towards the end, audio from a live performance featuring cheering crowds and Swift speaking is mixed in, creating a celebratory atmosphere.",
+  "editing_pacing": "Slow-paced slideshow of still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "excitement",
+    "solidarity"
+  ],
+  "cultural_references": [
+    "Long Live (song by Taylor Swift)"
+  ],
+  "central_claim": "The Harris-Walz campaign is supported by popular and influential music artists like Taylor Swift, Gracie Abrams, and The National.",
+  "intended_effect": "To generate excitement and support for the Harris-Walz ticket by associating it with beloved cultural figures.",
+  "uncertainty_flags": []
+}

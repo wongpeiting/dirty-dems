@@ -1,0 +1,47 @@
+{
+  "video_id": "7563761943283092750",
+  "visual_action": "The video presents a series of 'before and after' still images. The first is a black-and-white aerial photo of the White House East Wing, labeled 'East Wing before Trump:'. This is followed by a photo of the same building under demolition with an excavator, labeled 'East Wing after Trump:'. The final image is a split screen comparing the Rose Garden 'Before Trump' (showing a lush, colorful flower garden) and 'After Trump' (showing a paved stone patio with white tables and chairs).",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text labels the images as 'before Trump' and 'after Trump', making his presidency the time-marker for the changes shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "East Wing before Trump:",
+      "role": "overlay"
+    },
+    {
+      "text": "East Wing after Trump:",
+      "role": "overlay"
+    },
+    {
+      "text": "Rose Garden\nBefore Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "Rose Garden\nAfter Trump",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic piano track plays consistently throughout the video, creating a somber mood that contrasts the 'before' and 'after' images.",
+  "editing_pacing": "The video is a slow-paced slideshow, displaying static images in sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disapproval",
+    "Sadness",
+    "Loss"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's presidency resulted in destructive and aesthetically displeasing changes to the White House's East Wing and Rose Garden.",
+  "intended_effect": "To generate negative sentiment towards Donald Trump by framing his administration's renovations to the White House as acts of destruction.",
+  "uncertainty_flags": []
+}

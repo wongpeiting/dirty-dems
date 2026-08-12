@@ -1,0 +1,57 @@
+{
+  "video_id": "7569985743905426743",
+  "visual_action": "Melania Trump, in a long black evening gown, walks onto a darkened stage with a starry background. To her left, a pyrotechnic sparkler effect shoots upwards next to a podium. A large American flag is displayed on a screen behind her. She walks towards the podium, smiling and waving to an unseen audience.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Melania Trump is shown walking on stage, is identified by name in the audio and caption, and is the subject of the award being announced."
+    },
+    {
+      "name": "Fox Nation",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An announcer's voice says, \"Fox Nation's Patriot of the Year...\" and the organization's name is on the podium."
+    },
+    {
+      "name": "Unnamed Announcer",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male voice introduces Melania Trump at the beginning of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Patriot of the Year goes to First Lady Melania Trump ❤️",
+      "role": "caption"
+    },
+    {
+      "text": "FOX NATION\nPATRIOT\nAWARDS\nNEW YORK",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An announcer introduces Melania Trump as \"Fox Nation's Patriot of the Year, the First Lady of the United States of America, Melania Trump.\"",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "A grand, orchestral, and patriotic-sounding musical track plays under an announcer's voiceover. Faint audience applause can also be heard. The overall effect is celebratory and reverent.",
+  "editing_pacing": "The video consists of a single, slow-paced shot that follows Melania Trump as she walks onto the stage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Admiration",
+    "Patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Melania Trump is being honored by Fox Nation as their \"Patriot of the Year.\"",
+  "intended_effect": "To generate admiration for Melania Trump and associate her with patriotism and prestige.",
+  "uncertainty_flags": []
+}

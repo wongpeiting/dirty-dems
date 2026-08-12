@@ -1,0 +1,57 @@
+{
+  "video_id": "7546786250552773943",
+  "visual_action": "A fast-paced montage showing Donald Trump in various settings, repeatedly signing documents with a pen. Some clips are in black and white, others are in color. He is seen signing at a desk in the Oval Office, at a table surrounded by aides, and interacting with a group of young girls. The video concludes with text overlaid on a shot of Trump in the Oval Office, followed by a final black and white shot of a helicopter and then the White House building with its name.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the subject of the entire montage, shown repeatedly signing documents. He also speaks the only line of dialogue."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He appears briefly in the background of a shot where Trump is signing a document in the Oval Office."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and ends with a title card featuring the building and the text 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "200 EXECUTIVE ORDERS SIGNED",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "At the very end of the video, Donald Trump says, \"There's no AutoPen that can do this.\"",
+  "emojis_present": [],
+  "audio_music": "A driving, upbeat rock track ('Can't Stop' by Red Hot Chili Peppers) plays throughout the entire video, creating a high-energy and action-oriented mood.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various clips of Trump signing documents.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Accomplishment",
+    "Power"
+  ],
+  "cultural_references": [
+    "'Can't Stop' by Red Hot Chili Peppers"
+  ],
+  "central_claim": "Donald Trump was a highly productive and decisive president who personally signed 200 executive orders during his term.",
+  "intended_effect": "To make the viewer feel impressed by Trump's work ethic and the volume of his accomplishments as president.",
+  "uncertainty_flags": []
+}

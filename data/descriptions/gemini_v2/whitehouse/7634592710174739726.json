@@ -1,0 +1,118 @@
+{
+  "video_id": "7634592710174739726",
+  "visual_action": "The video starts with footage from a Fox News broadcast showing an airport departure screen at Miami International Airport for an American Airlines flight to Caracas, Venezuela. The camera then shows the boarding gate area, filled with passengers and press. It cuts to an interview with a woman in the airport terminal, who appears happy. This is followed by a montage of large crowds celebrating outdoors, waving Venezuelan flags, with some people also waving an American flag. One clip shows musicians playing instruments on a sidewalk. Other clips show massive rallies in a city square, day and night, centered on a large obelisk. The video concludes with two still photos: one of a man with a mustache wearing a blindfold and headphones, and a final photo of Venezuelan President Nicolás Maduro being escorted in handcuffs by men in tactical gear, one of whom has 'DEA' on his vest.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption reads 'Thank you, President Trump 🇺🇸🇻🇪'."
+    },
+    {
+      "name": "Nicolás Maduro",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photograph at the end of the video shows him being escorted in handcuffs."
+    },
+    {
+      "name": "American Airlines",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The narrator says 'American Airlines is going to make the first commercial flight...' and the airline's logo is on the departure screen."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video includes clips from a broadcast with the Fox News logo and branded chyrons."
+    },
+    {
+      "name": "Drug Enforcement Administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The letters 'DEA' are visible on the vest of an officer escorting Nicolás Maduro in a photograph at the end."
+    },
+    {
+      "name": "unnamed Venezuelan passenger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown in a close-up interview speaking about being able to see her family."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "First flight in 7 years!! Thank you, President Trump 🇺🇸🇻🇪",
+      "role": "caption"
+    },
+    {
+      "text": "MIAMI INTL AIRPORT, FL",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE | 9:12 AM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S.-VENEZUELA FLIGHTS RESUME AFTER 7-YEAR HIATUS",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "SOON: 1ST U.S.-VENEZUELA DIRECT FLIGHT SINCE 2019",
+      "role": "chyron"
+    },
+    {
+      "text": "Flight AA 3599",
+      "role": "overlay"
+    },
+    {
+      "text": "Caracas, Venezuela",
+      "role": "overlay"
+    },
+    {
+      "text": "D55",
+      "role": "overlay"
+    },
+    {
+      "text": "DEA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A male news announcer states that American Airlines is making the first commercial flight from the U.S. to Venezuela in seven years. A woman being interviewed then expresses her happiness, saying, 'We are going to be able to see our families... This is amazing.'",
+  "emojis_present": [
+    "🇺🇸",
+    "🇻🇪"
+  ],
+  "audio_music": "The video begins with dialogue from a news report. After about 11 seconds, an upbeat and celebratory Latin pop/reggaeton track begins and plays over a montage of crowds cheering and celebrating.",
+  "editing_pacing": "The video uses a combination of static news footage, a talking-head interview, a fast-paced montage of celebratory clips, and concludes with two still photographs.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The final still image in the video is a fabricated photograph depicting Venezuelan President Nicolás Maduro in handcuffs, being arrested by agents from the DEA. This image is not from a real event and has been digitally created or altered to depict his arrest.",
+  "emotions_signaled": [
+    "Joy",
+    "Hope",
+    "Triumph",
+    "Vindication"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is responsible for resuming commercial flights to Venezuela, an act which brings joy to families and will ultimately lead to the arrest and downfall of Nicolás Maduro.",
+  "intended_effect": "To credit Donald Trump for a positive foreign policy achievement, inspiring hope and support among voters, particularly those in the Venezuelan-American community.",
+  "uncertainty_flags": [
+    "The authenticity and date of the Fox News broadcast and the crowd celebration footage are unclear; it may be repurposed footage presented as a new event.",
+    "The identity of the blindfolded man in the penultimate still image is unknown."
+  ]
+}

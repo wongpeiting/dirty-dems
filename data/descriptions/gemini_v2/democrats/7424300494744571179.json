@@ -1,0 +1,61 @@
+{
+  "video_id": "7424300494744571179",
+  "visual_action": "A montage of clips shows former President Barack Obama at a campaign rally. He walks through a large, cheering crowd of supporters who are filming him with their phones. He gets on stage, waves, and then high-fives and hugs another man, who appears to be Tim Walz. They stand together on stage as the crowd continues to cheer. Supporters are holding campaign signs.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Barack Obama is the central figure shown throughout the video, and on-screen text reads 'President Obama is BACK on the campaign trail 😎'."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Campaign signs in the crowd read 'HARRIS WALZ'. The man Obama greets on stage is presumably Tim Walz, Kamala Harris's running mate."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Campaign signs visible in the crowd read 'HARRIS WALZ' and 'HARRIS 2024'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Obama is BACK on the campaign trail 😎",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS 2024",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it consists only of music.",
+  "emojis_present": [
+    "😎"
+  ],
+  "audio_music": "An upbeat, bass-boosted, patriotic instrumental track ('Star Spangled (Bass Boosted)') plays throughout the video, creating an energetic and hype-filled atmosphere.",
+  "editing_pacing": "The video is a short montage of clips from different angles, showing Barack Obama's arrival and appearance on stage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Pride",
+    "Support"
+  ],
+  "cultural_references": [],
+  "central_claim": "Barack Obama is actively and energetically campaigning for the Democratic ticket, bringing his popular appeal to the race.",
+  "intended_effect": "To generate excitement and enthusiasm for the Democratic campaign by showcasing the popular former president, Barack Obama, actively supporting it.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,124 @@
+{
+  "video_id": "7600056744156482846",
+  "visual_action": "The video features NBA player Donovan Mitchell speaking at a press conference. He is wearing a black hoodie and is seated at a table with a microphone in front of a backdrop with logos for the Cleveland Clinic and the Cleveland Cavaliers. The shot is a static, medium close-up on Mitchell as he speaks emotionally.",
+  "cast": [
+    {
+      "name": "Donovan Mitchell",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person on screen, speaking for the entire duration of the video. An on-screen chyron identifies him as 'DONOVAN MITCHELL'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text overlay at the beginning of the video states, 'Donovan Mitchell speaks out on ICE in Minnesota,' framing his comments as being about the agency."
+    },
+    {
+      "name": "National Basketball Association (NBA)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donovan Mitchell says, 'we are in this bubble as NBA players'."
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The word 'CAVALIERS' and the team's 'C' logo are visible on the press conference backdrop and on Mitchell's hoodie."
+    },
+    {
+      "name": "Cleveland Clinic",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'Cleveland Clinic' logo is visible on the press conference backdrop behind Donovan Mitchell."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donovan Mitchell speaks out on ICE in Minnesota",
+      "role": "overlay"
+    },
+    {
+      "text": "DONOVAN MITCHELL",
+      "role": "chyron"
+    },
+    {
+      "text": "IT'S JUST,",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S VIOLENCE.",
+      "role": "caption"
+    },
+    {
+      "text": "VIOLENCE,",
+      "role": "caption"
+    },
+    {
+      "text": "BECOME THE",
+      "role": "caption"
+    },
+    {
+      "text": "NORM.",
+      "role": "caption"
+    },
+    {
+      "text": "WE ARE IN THIS",
+      "role": "caption"
+    },
+    {
+      "text": "BUBBLE AS NBA",
+      "role": "caption"
+    },
+    {
+      "text": "THAT HAPPENED,",
+      "role": "caption"
+    },
+    {
+      "text": "YOU FEEL IT,",
+      "role": "caption"
+    },
+    {
+      "text": "RIGHT? IT'S,",
+      "role": "caption"
+    },
+    {
+      "text": "SIDES, LIKE,",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S THE HUMAN",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donovan Mitchell speaks passionately about recurring \"senseless violence\" in Minnesota, which he says has sadly \"become the norm.\" He emphasizes the \"human element\" and expresses frustration that society has become \"desensitized.\" He recalls being in a hotel on lockdown in Minnesota during a previous incident, feeling the proximity of the event. He argues that the focus should be on shared humanity rather than taking sides, stating that what is happening is \"just not right.\"",
+  "emojis_present": [
+    "‼️"
+  ],
+  "audio_music": "The audio consists solely of Donovan Mitchell's voice from a press conference microphone. There is no music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts, zooms, or other dynamic editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "frustration",
+    "empathy",
+    "sadness"
+  ],
+  "cultural_references": [],
+  "central_claim": "NBA star Donovan Mitchell condemns recurring violence in Minnesota as a dehumanizing tragedy that people have become desensitized to, with the post framing his comments as a specific critique of ICE.",
+  "intended_effect": "The post aims to leverage the emotional testimony of a well-known athlete to generate empathy and opposition to the events in Minnesota, which it attributes to ICE, and to position the Democratic party as aligned with this compassionate, human-centric viewpoint.",
+  "uncertainty_flags": [
+    "While the on-screen text frames Donovan Mitchell's remarks as being about 'ICE in Minnesota,' he never uses the word 'ICE' in the clip. He speaks more generally about 'senseless violence' and recurring incidents, so it is unclear if the account has applied a specific political frame to more general comments."
+  ]
+}

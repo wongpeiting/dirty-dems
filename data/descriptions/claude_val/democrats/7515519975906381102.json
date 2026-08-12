@@ -1,0 +1,54 @@
+{
+  "video_id": "7515519975906381102",
+  "visual_action": "The video is a montage of multiple clips featuring Gavin Newsom across different settings: (1) Newsom speaking directly to camera in what appears to be an indoor Los Angeles setting (a \"LOS ANGELES / 7:30 PM\" chyron visible in upper right), wearing a blue zip-up jacket; (2) Newsom in a close-up interview/press setting gesturing with a pointing hand, with a blurred map backdrop; (3) Newsom at what appears to be a California state government outdoor podium bearing the California state seal, wearing a blue suit and tie, smiling; (4) Newsom and Donald Trump standing face-to-face outdoors on what appears to be a tarmac or open concrete area, both in conversation — Trump is wearing a dark \"MAKE AMERICA GREAT AGAIN\" cap and suit; (5) Newsom seated in a relaxed interview/podcast setting, eyes closed, hands clasped, with a boom microphone visible; (6) Return cuts to the tarmac Newsom-Trump meeting and the map-backdrop interview clips. The \"@DEMOCRATS\" watermark appears across all frames.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "InsightFace face-ID confirmation; appears in multiple clips speaking, at podium, and on tarmac"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in tarmac meeting clips wearing signature MAGA cap and dark suit; interacting with Newsom"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LOS ANGELES\n7:30 PM",
+      "role": "chyron"
+    },
+    {
+      "text": "@DEMOCRATS",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Newsom speaks defiantly across multiple clips. Key lines from the transcript include: \"the fear the horror — the hell is this guy come after me, arrest me, let's just get it over with, tough guy — I don't give a damn, but I care about my community, I care about this community — the hell are they doing.\" The tone is combative and defiant, directed at an implied adversary (contextually Trump or federal officials).",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio is Newsom's own voice across multiple clips, edited together — no background music track is identifiable. The ACRCloud fingerprint found no commercial match, consistent with the \"original sound\" label. The audio is composed entirely of Newsom's speech, which is clipped and assembled for rhetorical punch. No music, sound effects, or meme audio detected.",
+  "editing_pacing": "Fast-cut montage style: multiple clips of Newsom are intercut — close-up interview shots, outdoor podium shots, tarmac meeting shots, and a podcast/interview seated shot. Cuts are relatively quick, designed to build a portrait of a defiant, active leader across different contexts. Some clips repeat (the map-backdrop interview and tarmac meeting are shown more than once).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "defiance — Newsom's words ('I don't give a damn,' 'arrest me, let's get it over with') convey bold confrontation",
+    "community pride — 'I care about my community' signals solidarity",
+    "urgency — 'LOS ANGELES 7:30 PM' chyron and fast cuts create a sense of active crisis response"
+  ],
+  "cultural_references": [],
+  "central_claim": "Gavin Newsom is defiantly standing up against federal threats and fighting for his community in the face of what he frames as intimidation.",
+  "intended_effect": "Inspire admiration and rally support for Newsom as a bold, fearless defender of California and his community against perceived federal/Trump pressure.",
+  "uncertainty_flags": [
+    "The specific event or crisis Newsom is responding to in the Los Angeles clip is not fully determinable from visuals alone — likely related to LA wildfires or a federal-state conflict occurring after January 2025",
+    "The tarmac meeting between Newsom and Trump: exact date and occasion not confirmed from frames alone",
+    "Trump's identity on the tarmac is inferred from appearance (MAGA cap, build, suit) but InsightFace did not list him — high confidence based on visual cues",
+    "The podcast/seated clip's venue/show is not identifiable from the frame"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "video_id": "7520736708430793997",
+  "visual_action": "Lee Zeldin stands at a podium on a stage, speaking into a microphone. The background is a blue screen with the logo for the \"Faith & Freedom Coalition\" and an American flag is visible to his left. A C-SPAN2 logo and a chyron are at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Lee Zeldin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking throughout the video, identified by face recognition and an on-screen chyron."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text at the top of the video reads, \"Trump's cabinet member forgets his own coworker's job\"."
+    },
+    {
+      "name": "Doug Collins",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Lee Zeldin says, \"whether it's Doug Collins who's here...\""
+    },
+    {
+      "name": "Scott Turner",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Lee Zeldin says, \"or it's Secretary Scott Turner,\" before pausing and failing to name his agency. The gaffe is about Turner's job."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's cabinet member forgets his own coworker's job 😭",
+      "role": "overlay"
+    },
+    {
+      "text": "FAITH & FREEDOM COALITION CONFERENCE",
+      "role": "chyron"
+    },
+    {
+      "text": "LEE ZELDIN",
+      "role": "chyron"
+    },
+    {
+      "text": "Environmental Protection Agency (EPA) Administrator",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    },
+    {
+      "text": "ACROSS ALL AGENCIES,",
+      "role": "caption"
+    },
+    {
+      "text": "WHETHER IT'S",
+      "role": "caption"
+    },
+    {
+      "text": "DOUG COLLINS,",
+      "role": "caption"
+    },
+    {
+      "text": "WHO'S HERE TALKING",
+      "role": "caption"
+    },
+    {
+      "text": "ABOUT FIGHTING FOR",
+      "role": "caption"
+    },
+    {
+      "text": "OUR VETERAN,",
+      "role": "caption"
+    },
+    {
+      "text": "OR IT'S SECRETARY",
+      "role": "caption"
+    },
+    {
+      "text": "SCOTT TURNER,",
+      "role": "caption"
+    },
+    {
+      "text": "WHO'S ABOUT TO COME",
+      "role": "caption"
+    },
+    {
+      "text": "UP HERE FIGHTING",
+      "role": "caption"
+    },
+    {
+      "text": "HIS AGENCY.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Speaking at a conference, Lee Zeldin mentions his colleagues Doug Collins and Scott Turner. When introducing Turner, he pauses awkwardly, apparently unable to remember which agency Turner leads, before concluding lamely with \"his agency.\"",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio consists solely of live speech from the event, with no music or added sound effects.",
+  "editing_pacing": "The video is a single, static shot of a person speaking at a podium. The editing is limited to adding text overlays and subtitles to highlight the gaffe.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A chyron is added that falsely identifies Lee Zeldin as the 'Environmental Protection Agency (EPA) Administrator'. This appears to be a satirical addition to mock Zeldin for forgetting a colleague's job title by assigning him an incorrect one.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "Lee Zeldin, a member of Donald Trump's administration, is incompetent because he cannot remember the name of a government agency run by his own colleague.",
+  "intended_effect": "To make the viewer mock Lee Zeldin and perceive the Trump administration as incompetent.",
+  "uncertainty_flags": []
+}

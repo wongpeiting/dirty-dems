@@ -1,0 +1,84 @@
+{
+  "video_id": "7488791101889842478",
+  "visual_action": "A slideshow of three screenshots of tweets from Democratic politicians. The first is from Tim Walz, the second is from Senator Tammy Baldwin who is pictured wearing a cheesehead hat in her office, and the third is from Maxwell Alejandro Frost.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from the account 'Tim Walz @Tim_Walz' is shown on screen."
+    },
+    {
+      "name": "Tammy Baldwin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from 'Sen. Tammy Baldwin @SenatorBaldwin' is shown, which includes a photograph of her."
+    },
+    {
+      "name": "Maxwell Alejandro Frost",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from the account 'Maxwell Alejandro Frost @MaxwellFrostFL' is shown on screen."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is tagged (@elonmusk) in a tweet from Maxwell Frost stating that 'money can't buy you... the 2025 Wisconsin Supreme Court Race'. This connects to Tim Walz's tweet about beating 'the billionaire'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Tim Walz ✔️ @Tim_Walz",
+      "role": "overlay"
+    },
+    {
+      "text": "Wisconsin beat the billionaire.",
+      "role": "overlay"
+    },
+    {
+      "text": "Sen. Tammy Baldwin ✔️ Ⓐ @SenatorBaldwin",
+      "role": "overlay"
+    },
+    {
+      "text": "Good morning, Wisconsin! 🧀",
+      "role": "overlay"
+    },
+    {
+      "text": "Maxwell Alejandro Frost ✔️ @MaxwellFrostFL",
+      "role": "overlay"
+    },
+    {
+      "text": ".@elonmusk continues to show us that money can't buy you happiness or the 2025 Wisconsin Supreme Court Race 👍🏾",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is entirely set to music.",
+  "emojis_present": [
+    "🧀",
+    "👍🏾"
+  ],
+  "audio_music": "A continuous, upbeat, and celebratory trap music track ('Trap Royalty') plays throughout the video.",
+  "editing_pacing": "A simple slideshow of three static screenshots, with direct cuts between each one.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Celebration",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Wisconsin Cheesehead (hat worn by Tammy Baldwin)"
+  ],
+  "central_claim": "Democrats are celebrating a victory in the 2025 Wisconsin Supreme Court race, framing it as a triumph over the financial influence of billionaire Elon Musk.",
+  "intended_effect": "To create a sense of celebration and pride among supporters for defeating a wealthy opponent's influence in a key election.",
+  "uncertainty_flags": []
+}

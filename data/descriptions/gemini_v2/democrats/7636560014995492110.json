@@ -1,0 +1,49 @@
+{
+  "video_id": "7636560014995492110",
+  "visual_action": "A slideshow of two still photographs of Dr. Amy Acton. The first shows her smiling with her chin resting on her hands. The second shows her looking seriously at the camera outdoors with wind blowing her hair. Text is overlaid on the first image.",
+  "cast": [
+    {
+      "name": "Amy Acton",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her name 'DR. AMY ACTON' and image appear on screen."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions the 'DEMOCRATIC PRIMARY'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MIDTERM NEWS",
+      "role": "overlay"
+    },
+    {
+      "text": "DR. AMY ACTON WINS DEMOCRATIC PRIMARY FOR OHIO GOVERNOR",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it consists only of music.",
+  "emojis_present": [],
+  "audio_music": "The video features the upbeat, driving rock song 'Heavydirtysoul' by twenty one pilots throughout, creating an energetic and triumphant mood.",
+  "editing_pacing": "The video is a simple slideshow, with a single cut between two still photos.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents information using a fabricated news graphic with the heading 'MIDTERM NEWS', which is designed to look like a news alert but is not from a genuine news organization.",
+  "emotions_signaled": [
+    "Excitement",
+    "Pride",
+    "Triumph"
+  ],
+  "cultural_references": [
+    "twenty one pilots"
+  ],
+  "central_claim": "Dr. Amy Acton has won the Democratic primary for Ohio Governor.",
+  "intended_effect": "To announce a political victory and generate excitement and support for the candidate.",
+  "uncertainty_flags": []
+}

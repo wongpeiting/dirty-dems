@@ -1,0 +1,44 @@
+{
+  "video_id": "7430556207368162602",
+  "visual_action": "The entire video is a single static image (a painting/illustration) of a glamorous black cat seated regally in a large red armchair. The cat wears a pearl necklace and a fluffy white fur stole, holds a martini glass in one paw, and has glowing green eyes. On the table in front of it sit a green champagne/wine bottle (partially visible label reading \"Cha...\"), a box of chocolates labeled \"CHOCOLATES,\" and what appears to be a small book or matchbox. A thin curl of smoke rises in the background. The image remains completely static for the duration of the video. White overlay text appears at the top of the frame throughout.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text refers to 'the old, crusty, convicted felon, wannabe dictator' — a widely used descriptor for Donald Trump in Democratic Party messaging, posted by @democrats account"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "how I'll look on election day knowing I didn't vote for the old, crusty, convicted felon, wannabe dictator 🫰",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue or voiceover. The audio is music only (see audio_music). The Whisper transcript returned no speech.",
+  "emojis_present": [
+    "🫰"
+  ],
+  "audio_music": "The track \"Dirty Cash (Money Talks)\" by The Adventures of Stevie V plays throughout the entire clip (confirmed by ACRCloud fingerprint from 0.0s onward). It is an upbeat, danceable early-90s house/pop track with a confident, celebratory feel — reinforcing the smug, self-satisfied mood of the glamorous cat image.",
+  "editing_pacing": "Completely static — no cuts, no camera movement, no transitions. A single still image held for the full duration of the video.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "self-satisfaction and smugness — conveyed by the regal, glamorous cat posture paired with the 'how I'll look' framing",
+    "contempt — conveyed by the dismissive, derogatory descriptors applied to the unnamed political figure ('old, crusty, convicted felon, wannabe dictator')",
+    "celebration and confidence — reinforced by the upbeat music and luxury imagery (champagne, martini, fur stole)"
+  ],
+  "cultural_references": [
+    "Glamorous/smug cat meme format — the painting of a regal black cat in a red armchair with pearls and a martini is a widely circulated internet meme image used to convey self-satisfied luxury or superiority",
+    "'Dirty Cash (Money Talks)' by The Adventures of Stevie V — a recognizable early-90s dance track used for its confident, celebratory energy"
+  ],
+  "central_claim": "The post expresses proud self-satisfaction at not having voted for Donald Trump, characterizing him as an old, corrupt, criminal, and authoritarian figure.",
+  "intended_effect": "Make the viewer feel smug, celebratory, and validated about not voting for the implied political opponent (Trump), and encourage identification with the glamorous, confident cat persona.",
+  "uncertainty_flags": [
+    "The finger-snap emoji (🫰) in the on_screen_text may alternatively render as a different emoji depending on platform — OCR captured it as a hand gesture emoji; verbatim rendering preserved as best as possible",
+    "The exact election being referenced is not specified in the post; given the @democrats account and 'convicted felon' framing, it most likely refers to the November 2024 U.S. presidential election",
+    "The origin/artist of the black cat painting used as the meme base image is not confirmed"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "video_id": "7512137225631583531",
+  "visual_action": "A news clip from NewsNation shows Marjorie Taylor Greene being interviewed. For part of the clip, the screen is split, showing Greene on the right and a male news anchor on the left in a studio. Greene is filmed in what appears to be a hallway in a government building with large columns. Text is overlaid on the video, including a large caption at the top and yellow text that transcribes the dialogue.",
+  "cast": [
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown speaking throughout the video and is identified by a chyron reading 'REP. MARJORIE TAYLOR GREENE (R-GA)'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The top overlay text states, 'MTG just admitted she didn't bother reading all of Trump's bill 😒'."
+    },
+    {
+      "name": "unnamed news anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He appears in a split-screen view interviewing Marjorie Taylor Greene."
+    },
+    {
+      "name": "NewsNation",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news organization's logo and branding are visible on the chyrons throughout the clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MTG just admitted she didn't bother reading all of Trump's bill 😒",
+      "role": "overlay"
+    },
+    {
+      "text": "NEWS NATION",
+      "role": "chyron"
+    },
+    {
+      "text": "BUDGET SHOWDOWN",
+      "role": "chyron"
+    },
+    {
+      "text": "GREENE CALLS FOR A.I. REGULATION REMOVAL",
+      "role": "chyron"
+    },
+    {
+      "text": "YOU SAY IN FULL TRANSPARENCY,",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS WAS IN THERE,",
+      "role": "overlay"
+    },
+    {
+      "text": "AND NOW YOU'RE SHINING A LIGHT ON IT.",
+      "role": "overlay"
+    },
+    {
+      "text": "HOW DID YOU NOT KNOW THAT IT WAS IN THERE?",
+      "role": "overlay"
+    },
+    {
+      "text": "WE DON'T GET THE FULL BILL TEXT",
+      "role": "overlay"
+    },
+    {
+      "text": "UNTIL VERY CLOSE TO THE TIME TO VOTE FOR IT.",
+      "role": "overlay"
+    },
+    {
+      "text": "AND SO THAT WAS ONE SECTION THAT WAS TWO PAGES THAT I DIDN'T SEE.",
+      "role": "overlay"
+    },
+    {
+      "text": "REP. MARJORIE TAYLOR GREENE (R-GA)",
+      "role": "chyron"
+    },
+    {
+      "text": "HOMELAND SECURITY COMMITTEE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A news anchor questions Marjorie Taylor Greene about how she was unaware of a provision in a bill she voted on. Greene responds that members of Congress don't receive the full bill text until just before it's time to vote, and she admits, \"that was one section that was two pages that I didn't see.\"",
+  "emojis_present": [
+    "😒",
+    "😀"
+  ],
+  "audio_music": "The audio consists entirely of dialogue from the news interview clip. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a single news clip with a cut from a medium shot of Greene to a split-screen view showing her and the interviewer, then back to the shot of Greene. Text overlays appear in sync with the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Marjorie Taylor Greene admitted she did not read part of a bill attributed to Donald Trump before voting on it.",
+  "intended_effect": "To portray Marjorie Taylor Greene as incompetent and negligent in her legislative duties, thereby generating ridicule.",
+  "uncertainty_flags": [
+    "The specific bill referred to as 'Trump's bill' is not explicitly identified within the video clip, only in the user-generated overlay text."
+  ]
+}

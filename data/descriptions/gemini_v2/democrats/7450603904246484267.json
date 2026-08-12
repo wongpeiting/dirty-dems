@@ -1,0 +1,86 @@
+{
+  "video_id": "7450603904246484267",
+  "visual_action": "The video displays a static image of Donald Trump on a golf course with text overlaid. It then cuts to a screenshot of a tweet from 'The Democrats' which contrasts a 'Before' image of legislative text with an 'After' image of an empty search result, suggesting a provision has been removed. Text is also overlaid on this second screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of him is shown at the start of the video. On-screen text reads 'Trump lied...' and a tweet screenshot says 'Trump and Republicans just eliminated funding...'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet is shown which reads 'Trump and Republicans just eliminated funding for child cancer research in their new bill.'"
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account '@TheDemocrats' is the central visual for the second half of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Oh that's a good kitty! Trump lied as he promised cheaper groceries and gas",
+      "role": "overlay"
+    },
+    {
+      "text": "Evil kitty.",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats @TheDemocrats",
+      "role": "other"
+    },
+    {
+      "text": "Trump and Republicans just eliminated funding for child cancer research in their new bill.",
+      "role": "other"
+    },
+    {
+      "text": "Before",
+      "role": "overlay"
+    },
+    {
+      "text": "After",
+      "role": "overlay"
+    },
+    {
+      "text": "[Snippet of legislative text]",
+      "role": "other"
+    },
+    {
+      "text": "general 🔍",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An audio clip features one voice saying, \"Oh, that's a good kitty, I say as I pet on Kitty.\" A second, deeper voice responds, \"No, I'm evil kitty, said evil kitty.\" This dialogue is used to frame a political contrast.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of a spoken dialogue meme. There is no music. The first voice is normal, while the second is pitched down and slightly distorted to sound ominous or 'evil,' creating a stark contrast for comedic and critical effect.",
+  "editing_pacing": "The video is a static slideshow with one quick cut between two still images, each with text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "outrage",
+    "distrust",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The audio is from a popular internet meme known as 'Good Kitty / Evil Kitty'."
+  ],
+  "central_claim": "Donald Trump and the Republican Party deceptively eliminated funding for child cancer research.",
+  "intended_effect": "To generate anger and distrust towards Donald Trump and the Republican Party by accusing them of a morally reprehensible action.",
+  "uncertainty_flags": [
+    "The legislative text under the 'Before' section is too small and blurry to be read or verified."
+  ]
+}

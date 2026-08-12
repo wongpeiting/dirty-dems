@@ -1,0 +1,134 @@
+{
+  "video_id": "7538573115551501623",
+  "visual_action": "California Governor Gavin Newsom speaks at a podium during a news conference. He is standing in front of an American flag and a crowd of supporters, some of whom are holding signs. The footage is presented as a C-SPAN broadcast.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Gavin Newsom is the sole speaker in the video and is identified by a chyron that reads 'GOV. GAVIN NEWSOM'."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The news conference is explicitly about 'CALIFORNIA'S RESPONSE TO GOP REDISTRICTING EFFORTS' according to the on-screen chyron."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Newsom mentions him by name, saying, '...in Missouri, where J.D. Vance went just a week ago...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Gov. Newsom: We cannot stand back and watch this democracy disappear district by district 🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "WE CAN'T STAND BACK",
+      "role": "overlay"
+    },
+    {
+      "text": "AND WATCH THIS",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRACY DISAPPEAR",
+      "role": "overlay"
+    },
+    {
+      "text": "DISTRICT BY DISTRICT",
+      "role": "overlay"
+    },
+    {
+      "text": "ALL ACROSS THIS",
+      "role": "overlay"
+    },
+    {
+      "text": "COUNTRY.",
+      "role": "overlay"
+    },
+    {
+      "text": "NOT JUST IN TEXAS,",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT IN MISSOURI,",
+      "role": "overlay"
+    },
+    {
+      "text": "IN INDIANA,",
+      "role": "overlay"
+    },
+    {
+      "text": "IN PLACES LIKE OHIO,",
+      "role": "overlay"
+    },
+    {
+      "text": "IN PLACES LIKE FLORIDA.",
+      "role": "overlay"
+    },
+    {
+      "text": "WE NEED TO STAND UP,",
+      "role": "overlay"
+    },
+    {
+      "text": "WE NEED TO BE FIRM",
+      "role": "overlay"
+    },
+    {
+      "text": "IN OUR RESOLVE.",
+      "role": "overlay"
+    },
+    {
+      "text": "ELECTION RIGGING",
+      "role": "chyron"
+    },
+    {
+      "text": "NEWS CONFERENCE ON CALIFORNIA'S RESPONSE TO GOP REDISTRICTING EFFORTS",
+      "role": "chyron"
+    },
+    {
+      "text": "GOV. GAVIN NEWSOM\nD-California",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "credit"
+    },
+    {
+      "text": "LOS ANGELES",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Gavin Newsom argues that democracy is disappearing \"district by district\" across the country due to Republican redistricting efforts in states like Texas, Missouri, Indiana, Ohio, and Florida. He mentions a recent visit by J.D. Vance to Missouri as an example. Newsom calls on California and other blue states to \"stand up\" and be \"firm in our resolve\" against these actions.",
+  "emojis_present": [
+    "🔥",
+    "😮‍💨"
+  ],
+  "audio_music": "The audio consists solely of Gavin Newsom's speech at a press conference. The crowd applauds at the end. There is no other music or sound.",
+  "editing_pacing": "The video is a single, static shot from a news broadcast. The editing consists of adding a top text overlay and a series of sequential, large-font text overlays that transcribe key phrases of the speech as they are spoken.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency",
+    "alarm",
+    "determination"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democrats must take a firm stand against Republican redistricting efforts across the country, which are presented as a threat to democracy.",
+  "intended_effect": "To rally Democratic voters by framing Republican redistricting as an existential threat to democracy that requires a strong, unified response.",
+  "uncertainty_flags": []
+}

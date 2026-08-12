@@ -1,0 +1,94 @@
+{
+  "video_id": "7472954919314574634",
+  "visual_action": "The video starts with a clip of Donald Trump sitting next to Elon Musk in what appears to be an office setting for an interview. A Fox News chyron is visible at the bottom. Trump is speaking. The video then cuts to a static screenshot of an online article with the headline \"Heartbreaking: The Worst Person You Know Just Made A Great Point\" above a photo of a man.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in the interview clip and is the subject of the spoken audio and the meme reaction."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown sitting next to Donald Trump and is named in both the on-screen chyron and by Trump in the dialogue."
+    },
+    {
+      "name": "The Media",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen chyron reads \"PRESIDENT TRUMP ON THE MEDIA'S EFFORT...\" and Trump begins by saying \"They said...\" referring to the media."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on the chyron during the interview segment."
+    },
+    {
+      "name": "Sean Hannity",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen chyron includes the text \"HANNITY EXCLUSIVE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PRESIDENT TRUMP ON THE MEDIA'S EFFORT TO CREATE TENSION BETWEEN HIM AND ELON MUSK",
+      "role": "chyron"
+    },
+    {
+      "text": "HANNITY EXCLUSIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "THEY SAID",
+      "role": "caption"
+    },
+    {
+      "text": "WE HAVE BREAKING NEWS.",
+      "role": "caption"
+    },
+    {
+      "text": "DONALD TRUMP HAS CEDED CONTROL",
+      "role": "caption"
+    },
+    {
+      "text": "OF THE PRESIDENCY TO ELON MUSK.",
+      "role": "caption"
+    },
+    {
+      "text": "Heartbreaking: The Worst Person You Know Just Made A Great Point",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "Donald Trump recounts what he claims the media reported as breaking news: \"Donald Trump has ceded control of the presidency to Elon Musk.\"",
+  "emojis_present": [
+    "🤭"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's voice speaking, with no music or other sound effects.",
+  "editing_pacing": "The video consists of a single cut from a talking-head interview clip to a static image of a meme, creating a punchline effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "The video uses the popular internet meme format \"Heartbreaking: The Worst Person You Know Just Made A Great Point,\" which originated from the satirical website ClickHole."
+  ],
+  "central_claim": "The post mocks Donald Trump by applying the 'Worst Person You Know Just Made A Great Point' meme to his complaints about the media's portrayal of his relationship with Elon Musk.",
+  "intended_effect": "To make the audience laugh at and feel contempt for Donald Trump by framing him through a well-known, derogatory meme.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,120 @@
+{
+  "video_id": "7485556928656231726",
+  "visual_action": "The video opens with a photo of a man in a suit holding a phone to his ear, with overlaid text. It then cuts to a screenshot of an article from 'The Atlantic' titled 'THE TRUMP ADMINISTRATION ACCIDENTALLY TEXTED ME ITS WAR PLANS'. Finally, it shows a screenshot of a purported text message group chat named 'Houthi PC small group' with several messages from different individuals.",
+  "cast": [
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The headline of the featured article is 'THE TRUMP ADMINISTRATION ACCIDENTALLY TEXTED ME ITS WAR PLANS'."
+    },
+    {
+      "name": "Jeffrey Goldberg",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears in the byline of the article shown on screen: 'By Jeffrey Goldberg'."
+    },
+    {
+      "name": "John Ratcliffe",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His name is shown as a sender in the screenshot of the text message group chat."
+    },
+    {
+      "name": "Michael Waltz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His name is shown as a sender in the screenshot of the text message group chat."
+    },
+    {
+      "name": "Pete",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the opening overlay text ('Pete...') and in a message within the group chat screenshot ('Good Job Pete and your team!!')."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“Pete… there’s a reporter in our war gc”",
+      "role": "overlay"
+    },
+    {
+      "text": "The Atlantic",
+      "role": "chyron"
+    },
+    {
+      "text": "THE TRUMP ADMINISTRATION ACCIDENTALLY TEXTED ME ITS WAR PLANS",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. national-security leaders included me in a group chat about upcoming military strikes in Yemen. I didn’t think it could be real. Then the bombs started falling.",
+      "role": "overlay"
+    },
+    {
+      "text": "By Jeffrey Goldberg",
+      "role": "credit"
+    },
+    {
+      "text": "Houthi PC small group",
+      "role": "other"
+    },
+    {
+      "text": "Excellent",
+      "role": "other"
+    },
+    {
+      "text": "John Ratcliffe\nA good start",
+      "role": "other"
+    },
+    {
+      "text": "Michael Waltz\n👊🇺🇸🔥",
+      "role": "other"
+    },
+    {
+      "text": "MAR\nGood Job Pete and your team!!",
+      "role": "other"
+    },
+    {
+      "text": "The team in MAL did a great job as well.",
+      "role": "other"
+    },
+    {
+      "text": "S M\nGreat work all. Powerful start.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [
+    "👊",
+    "🇺🇸",
+    "🔥"
+  ],
+  "audio_music": "A soft, ambient instrumental track with a slightly tense and serious tone plays throughout the video.",
+  "editing_pacing": "The video is a slideshow of still images (a photo and two screenshots) with simple cuts between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a fabricated text message group chat. While based on a real news article, the screenshot of the chat itself is a staged document created to satirically illustrate the article's claims and mock the individuals depicted.",
+  "emotions_signaled": [
+    "mockery",
+    "alarm",
+    "disbelief"
+  ],
+  "cultural_references": [
+    "The Atlantic"
+  ],
+  "central_claim": "The Trump administration was dangerously incompetent, as demonstrated by an incident where they allegedly included a reporter in a secret group chat about military war plans.",
+  "intended_effect": "To ridicule the Trump administration and its officials, portraying them as careless and unfit to handle national security.",
+  "uncertainty_flags": [
+    "The identity of the person named 'Pete' is not specified.",
+    "The person shown on the phone at the beginning of the video is unidentified and likely illustrative stock footage."
+  ]
+}

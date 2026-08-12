@@ -1,0 +1,61 @@
+{
+  "video_id": "7637533126666882317",
+  "visual_action": "Donald Trump, in a suit and red tie, speaks to reporters outdoors. He gestures and then turns to walk away, flanked by another man. The clip is presented as news footage from a broadcast, and it is played twice: once at normal speed, and a second time in slow-motion.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown speaking, and the on-screen text asks a question about what he said."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text alleges that Trump may have called a reporter a derogatory name, making this unseen person a subject of the post."
+    },
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible standing next to Donald Trump but does not speak and is not a focus of the video's narrative."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "did trump just call a reporter a bitch???",
+      "role": "overlay"
+    },
+    {
+      "text": "S. TRUMP TALKS TO REPORTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "026 National Cable Satellite Corporation",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio is somewhat unclear with multiple voices. A man's voice, possibly an aide, can be heard saying something like, \"Thank you press. This way.\" The video repeats the audio in slow motion to highlight a moment where Donald Trump is speaking, implying he said the word \"bitch,\" although the word is not clearly audible in the provided transcript or audio.",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of dialogue from a press scrum and ambient background noise. There is no music. The audio clip is played normally and then replayed in slow motion.",
+  "editing_pacing": "The video uses a simple editing style, showing a single clip which is then replayed in slow-motion to emphasize a specific moment of audio.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "outrage",
+    "scrutiny"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video implies that Donald Trump called a reporter a \"bitch\" during an exchange with the press.",
+  "intended_effect": "To generate shock and outrage at Donald Trump's perceived language and disrespect towards the press.",
+  "uncertainty_flags": [
+    "The audio is ambiguous; it is unclear what exactly was said. The video's framing strongly suggests a slur was used, but the provided transcript and audible speech do not definitively confirm this."
+  ]
+}

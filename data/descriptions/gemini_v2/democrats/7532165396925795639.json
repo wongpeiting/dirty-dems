@@ -1,0 +1,79 @@
+{
+  "video_id": "7532165396925795639",
+  "visual_action": "A compilation of three clips of Donald Trump speaking. In the first, he is seated indoors in front of US and UK flags, taking questions at an event in Turnberry, Scotland. In the second, he is in a different indoor setting talking to someone off-camera. In the third, he is speaking to reporters on the White House South Lawn before departing for Scotland. Chyrons from C-SPAN2 are visible in the first and third clips.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the subject of the video, shown in all clips speaking about Ghislaine Maxwell."
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Reporters repeatedly ask Trump about a pardon for her, and the on-screen text states, 'The way Trump talks about Ghislaine Maxwell...'"
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "unknown",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Voices of reporters are heard asking Trump questions about Ghislaine Maxwell."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman with blonde hair identified by external context is seen standing near Trump in the final clip on the White House lawn."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The way Trump talks about Ghislaine Maxwell tells you everything you need to know",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP TAKES QUESTIONS FROM REPORTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "TURNBERRY, SCOTLAND",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SPEAKS TO REPORTERS AS HE DEPARTS FOR SCOTLAND",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE SOUTH LAWN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Reporters ask Donald Trump about a potential pardon for Ghislaine Maxwell. Trump responds by saying he is \"allowed to give her a pardon.\" In another clip, he states, \"Yeah, I wish her well. I'd wish you well. I'd wish a lot of people well.\" When asked again if he would consider a pardon, he reiterates, \"I'm allowed to do it.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from news clips without any background music or sound effects.",
+  "editing_pacing": "The video is a compilation of three separate news clips, joined by simple cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "disapproval",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's comments about Ghislaine Maxwell, in which he wishes her well and repeatedly states he is allowed to pardon her, reveal something negative and disqualifying about his character.",
+  "intended_effect": "To generate disapproval of Donald Trump by highlighting his seemingly sympathetic stance toward the convicted sex trafficker Ghislaine Maxwell.",
+  "uncertainty_flags": []
+}

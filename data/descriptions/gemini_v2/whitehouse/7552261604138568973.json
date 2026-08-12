@@ -1,0 +1,63 @@
+{
+  "video_id": "7552261604138568973",
+  "visual_action": "The video opens on Donald Trump speaking at a podium with a large American flag behind him. A numerical counter is superimposed over the shot, labeled 'Illegal Border Crossings,' which starts at 10,829,355 and rapidly counts down throughout the video. The scene cuts to a montage of B-roll footage featuring U.S. Border Patrol agents: a close-up of a Border Patrol hat and gear, an agent tying boots, agents getting dressed in a locker room, an airboat on a river, agents on horseback at sunset, an agent with a K-9 unit getting out of a truck, and agents leading several men in handcuffs toward a bus. The montage ends with a shot of Trump looking resolute. The counter continues to decrease over all these scenes until it reaches '0' on a final black screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker throughout the video, shown at a podium, and his promises about immigration are the central topic."
+    },
+    {
+      "name": "U.S. Border Patrol",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video features extensive B-roll of agents in uniform, a hat with the organization's logo, and a truck with 'BORDER PATROL' written on it."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "10,829,355",
+      "role": "overlay"
+    },
+    {
+      "text": "Illegal Border Crossings",
+      "role": "overlay"
+    },
+    {
+      "text": "0 BORDER ENCOUNTERS",
+      "role": "caption"
+    },
+    {
+      "text": "BORDER PATROL",
+      "role": "other"
+    },
+    {
+      "text": "0",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that upon taking office, he will declare a national emergency at the southern border, immediately halt all illegal entry, and begin deporting \"millions and millions of criminal aliens.\" He presents these actions as the \"complete restoration of America\" and a \"revolution of common sense.\"",
+  "emojis_present": [],
+  "audio_music": "The iconic rock song 'Fortunate Son' by Creedence Clearwater Revival plays continuously and prominently throughout the video, creating an energetic, driving, and defiant tone that accompanies Trump's speech and the montage.",
+  "editing_pacing": "The video uses a fast-paced montage style with quick cuts between various B-roll shots of Border Patrol activities, synchronized with the driving music and Trump's speech. A rapidly decreasing on-screen counter adds to the sense of urgency and pace.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Alarm",
+    "Strength",
+    "Resolve",
+    "Patriotism"
+  ],
+  "cultural_references": [
+    "Fortunate Son by Creedence Clearwater Revival"
+  ],
+  "central_claim": "If elected, Donald Trump will use executive power to completely stop illegal immigration and deport undocumented immigrants, reducing border crossings to zero.",
+  "intended_effect": "To create alarm about the current border situation and inspire confidence in Trump's decisive and forceful plan to solve it.",
+  "uncertainty_flags": []
+}

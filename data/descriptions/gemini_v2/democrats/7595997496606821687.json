@@ -1,0 +1,55 @@
+{
+  "video_id": "7595997496606821687",
+  "visual_action": "A young person with a visible black eye and scarring is shown in a close-up, sitting on a couch and speaking to an off-screen interviewer. They describe their injuries, occasionally gesturing to their injured eye. The video has a text overlay at the top and yellow captions at the bottom transcribing the dialogue.",
+  "cast": [
+    {
+      "name": "Unnamed 21-year-old",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "This person is the sole subject of the video, shown speaking directly about their injuries."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly states the person was 'injured by ICE'."
+    },
+    {
+      "name": "Unnamed interviewer",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks the person questions about their injuries and prognosis."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "21-year-old is now blind after being injured by ICE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An interviewer asks a 21-year-old about their injuries, and the person confirms they will be permanently blind in one eye. They detail their injuries, including a ruptured globe, skull fractures, and having shards of metal, glass, and plastic removed from their eye. They state that the projectile also contained pepper, making it hard to breathe, and that a piece of shrapnel nearly hit their carotid artery, concluding it was a 'miracle' they survived.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from an interview. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a person being interviewed, with no cuts or dynamic camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sympathy",
+    "pity",
+    "anger",
+    "shock"
+  ],
+  "cultural_references": [],
+  "central_claim": "U.S. Immigration and Customs Enforcement (ICE) inflicted severe and life-altering injuries on a 21-year-old, causing permanent blindness in one eye.",
+  "intended_effect": "To evoke sympathy for the victim and anger towards ICE for its perceived brutality.",
+  "uncertainty_flags": [
+    "The identity of the 21-year-old individual is not specified.",
+    "The context, date, and location of the incident are not provided."
+  ]
+}

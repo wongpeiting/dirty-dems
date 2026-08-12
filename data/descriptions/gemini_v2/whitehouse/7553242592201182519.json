@@ -1,0 +1,59 @@
+{
+  "video_id": "7553242592201182519",
+  "visual_action": "Donald Trump is shown in a medium close-up shot, speaking at a podium against a marbled green background. He is wearing a dark blue suit, a white shirt, and a red-and-white striped tie. The logo for 'The WHITE HOUSE' is in the top-left corner.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person shown and speaking throughout the video, and the caption identifies him as 'POTUS'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'The WHITE HOUSE' and its logo are visible in the top left corner."
+    },
+    {
+      "name": "United Nations",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen text 'UNITED NATIONS GENERAL ASSEMBLY MOOD:' identifies the setting of the speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "UNITED NATIONS GENERAL ASSEMBLY MOOD:",
+      "role": "overlay"
+    },
+    {
+      "text": "The truth is plain to see. If you want freedom, take pride in your country. If you want democracy, hold on to your sovereignty. And if you want peace, love your nation. Wise leaders always put the good of their own people and their own country first. The future belongs to sovereign and independent nations who protect their citizens, respect their neighbors, and honor the differences that make each country special and unique.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump delivers a speech arguing for nationalism and sovereignty. He states that to achieve freedom, democracy, and peace, nations must take pride in themselves, protect their sovereignty, and love their country. He asserts, \"Wise leaders always put the good of their own people and their own country first.\" He concludes that the future belongs to \"sovereign and independent nations\" that protect their own citizens.",
+  "emojis_present": [],
+  "audio_music": "A continuous, swelling orchestral score plays throughout the video, underlaying Donald Trump's speech. The music has a patriotic and inspirational tone, building in intensity to emphasize his words.",
+  "editing_pacing": "The video consists of a single, static shot of a talking head with text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "pride",
+    "inspiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "National sovereignty and prioritizing one's own country are the fundamental paths to achieving freedom, democracy, and peace.",
+  "intended_effect": "To inspire feelings of national pride and to frame Donald Trump as a strong leader who champions a 'nation-first' worldview.",
+  "uncertainty_flags": []
+}

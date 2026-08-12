@@ -1,0 +1,100 @@
+{
+  "video_id": "7628711237328686349",
+  "visual_action": "A woman in a red \"DOORDASH GRANDMA\" t-shirt drives a white DoorDash-branded Jeep to the White House. She exits the vehicle with a red delivery bag and walks to a door labeled \"The Oval Office.\" A segment is styled as security camera footage. Donald Trump opens the door, and she hands him two McDonald's bags. They speak on the porch, he gives her a cash tip, and they shake hands. The video concludes with a line-art graphic of the White House and the text \"PRESIDENT DONALD J. TRUMP.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears on screen opening the door to the Oval Office and speaks with the delivery driver about his tax policies."
+    },
+    {
+      "name": "DoorDash Grandma",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A woman wearing a t-shirt that reads 'DOORDASH GRANDMA' who is the central figure interacting with Donald Trump."
+    },
+    {
+      "name": "DoorDash",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The company's logo and name appear on the delivery car, the driver's shirt, and her delivery bag."
+    },
+    {
+      "name": "McDonald's",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The company's logo is visible on the food bags Donald Trump is holding."
+    },
+    {
+      "name": "unnamed person",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks the 'DoorDash Grandma' if the White House are good tippers."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DOORDASH GRANDMA",
+      "role": "overlay"
+    },
+    {
+      "text": "DOORDASH",
+      "role": "overlay"
+    },
+    {
+      "text": "DashRoots",
+      "role": "overlay"
+    },
+    {
+      "text": "CAM7",
+      "role": "overlay"
+    },
+    {
+      "text": "WHODS 04_13_26 12:22:29",
+      "role": "overlay"
+    },
+    {
+      "text": "REC",
+      "role": "overlay"
+    },
+    {
+      "text": "The Oval Office",
+      "role": "other"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A woman identified as \"DoorDash Grandma\" delivers food to Donald Trump at the White House. Trump explains he invited her because he heard she received an $11,000 tax refund due to his tax cuts, which she confirms. He refers to his policy as the \"great big beautiful tax cut bill.\" When an off-screen person asks if the White House are good tippers, Trump gives the woman cash. She thanks him for the \"no tax on tips\" policy, stating it has helped her family \"immensely.\"",
+  "emojis_present": [
+    "🍟"
+  ],
+  "audio_music": "An upbeat, funky instrumental track plays consistently throughout the entire video, giving it a positive and commercial-like feel.",
+  "editing_pacing": "A montage with quick cuts during the setup, transitioning to a more conventionally shot dialogue scene with multiple camera angles. Includes a shot styled as security camera footage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Relatability",
+    "Pride",
+    "Feel-good"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's policy of eliminating taxes on tips provides significant financial benefits to working-class Americans.",
+  "intended_effect": "To persuade viewers that Trump's economic policies help ordinary people and to see him as a relatable and effective leader.",
+  "uncertainty_flags": [
+    "It is unclear if 'DoorDash Grandma' is the woman's established online persona or a name created for this video."
+  ]
+}

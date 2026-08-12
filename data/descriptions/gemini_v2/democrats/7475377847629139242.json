@@ -1,0 +1,67 @@
+{
+  "video_id": "7475377847629139242",
+  "visual_action": "A man in a suit and tie speaks directly to the camera in a static, medium close-up shot. He is in an office setting with two posters on the wall behind him. One poster is blue and reads 'VOTE DEMOCRATS'. The other features the word 'DEMOCRAT' repeated multiple times in various colors.",
+  "cast": [
+    {
+      "name": "Ken Martin",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The post's caption identifies the speaker as 'DNC Chair Ken Martin'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker repeatedly refers to the 'House Republican budget' and the plans of 'Republicans'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker says, 'Trump and House Republicans said they would spend the next two years cutting costs for the middle class.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The speaker is the DNC Chair, the account is @democrats, a poster reads 'VOTE DEMOCRATS', and the speaker says 'Democrats stand united'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "RIGHT NOW, REPUBLICANS ARE TRYING TO PASS A PLAN THROUGH CONGRESS THAT WILL RAISE COSTS FOR EVERYDAY AMERICANS, WHILE GIVING TRILLIONS IN HANDOUTS TO THE ULTRA-WEALTHY. TRUMP AND HOUSE REPUBLICANS SAID THEY WOULD SPEND THE NEXT TWO YEARS CUTTING COSTS FOR THE MIDDLE CLASS, BUT THE ONLY THING THEY ARE CUTTING IS NEARLY 1 TRILLION FROM MEDICAID. THAT MEANS 22 MILLION PEOPLE GETTING BOOTED OFF OF THEIR HEALTH CARE. WHO DO THESE POLITICIANS WORK FOR? THE RICH OR THE REST OF US? THE HOUSE REPUBLICAN BUDGET WILL MAKE EVERYDAY AMERICANS SICKER AND POORER. IT WILL FORCE EVEN MORE MIDDLE CLASS FAMILIES TO LIVE PAYCHECK TO PAYCHECK, WHILE GIVING THE WEALTHIEST AMERICANS A WINDFALL BIG ENOUGH TO BUY A NEW PRIVATE JET. DEMOCRATS STAND UNITED AGAINST THE HOUSE REPUBLICAN BUDGET. WE WILL NEVER SUPPORT RIPPING AWAY HEALTH CARE IN ORDER TO GIVE HANDS OUT TO BILLIONAIRES.",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRAT\nDEMOCRAT\nDEMOCRAT\nDEMOCRAT",
+      "role": "other"
+    },
+    {
+      "text": "VOTE DEMOCRATS\nDEMOCRATS.ORG",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The speaker, identified as DNC Chair Ken Martin, claims that Republicans and Donald Trump are trying to pass a budget that raises costs for Americans while giving 'trillions in handouts to the ultra-wealthy.' He asserts that instead of helping the middle class, they are cutting nearly $1 trillion from Medicaid, which he says will cause 22 million people to lose their healthcare. He argues the Republican budget will make Americans 'sicker and poorer' and benefit only the wealthiest. He concludes by stating that Democrats are united against this plan and will never support taking away healthcare to give 'handouts to billionaires.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a man's voice speaking directly to the camera. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Fear",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican budget plan is a scheme to cut healthcare for millions of ordinary Americans in order to provide massive financial benefits to the ultra-wealthy.",
+  "intended_effect": "To generate anger and fear towards the Republican Party's policies and persuade viewers to support the Democratic Party's opposition to them.",
+  "uncertainty_flags": []
+}

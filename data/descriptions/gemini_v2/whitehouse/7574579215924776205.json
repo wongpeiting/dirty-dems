@@ -1,0 +1,82 @@
+{
+  "video_id": "7574579215924776205",
+  "visual_action": "The video opens with a vintage-style clip of Ronald Reagan speaking at a podium. This is followed by a montage of Donald Trump signing a document at a desk in a room full of flags, with children in the audience clapping and mimicking him. The video then intercuts clips of Reagan speaking in a more casual setting with clips of Trump speaking at a CPAC conference. The video concludes with black-and-white shots of the White House and the presidential helicopter, Marine One.",
+  "cast": [
+    {
+      "name": "Ronald Reagan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking in multiple historical clips. His voice is used to argue for abolishing the Department of Education."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown speaking at a CPAC event and signing a document. His voice is used to call for abolishing the Department of Education."
+    },
+    {
+      "name": "Department of Education",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Both Reagan and Trump explicitly call for this department to be abolished in their speeches."
+    },
+    {
+      "name": "Linda McMahon",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Briefly visible standing near Donald Trump as he holds up a signed document."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "CHILDREN",
+      "role": "overlay"
+    },
+    {
+      "text": "a better education DOESN'T MEAN a bigger department OF education",
+      "role": "overlay"
+    },
+    {
+      "text": "in fact, that department should be abolished",
+      "role": "overlay"
+    },
+    {
+      "text": "across the country we need to implement strict prohibitions on teaching inappropriate RACIAL SEXUAL and POLITICAL material to America's school CHILDREN in any form whatsoever",
+      "role": "overlay"
+    },
+    {
+      "text": "and if federal bureaucrats are going to PUSH this RADICALISM we should ABOLISH the DEPARTMENT of EDUCATION",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a mix of speeches from Ronald Reagan and Donald Trump. Reagan states that preparing for the future starts with children and that a better education does not mean a bigger Department of Education, which he says \"should be abolished.\" Trump calls for \"strict prohibitions on teaching inappropriate racial, sexual, and political material to America's schoolchildren\" and says that if federal bureaucrats push \"radicalism,\" then \"we should abolish the Department of Education.\"",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The video begins with speech audio. An upbeat, light, instrumental track with a \"la la la\" vocal melody starts playing over a montage of Trump with children. This music continues through the rest of the video, creating a positive and hopeful mood that contrasts with the serious political statements being made. The music ends when the final title card appears.",
+  "editing_pacing": "The editing style is dynamic, mixing historical footage with more recent clips. It heavily features kinetic typography, with words from the speeches appearing on screen in various colors and fonts to emphasize key points. The cuts between speakers and montage clips create a brisk pace.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Hope",
+    "Concern",
+    "Resolve"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Department of Education should be abolished to protect children from inappropriate and radical teachings, a position consistently held by Republican presidents like Ronald Reagan and Donald Trump.",
+  "intended_effect": "To convince the viewer that abolishing the Department of Education is a necessary and historically supported conservative policy to protect children.",
+  "uncertainty_flags": []
+}

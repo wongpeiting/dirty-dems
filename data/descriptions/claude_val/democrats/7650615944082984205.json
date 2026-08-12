@@ -1,0 +1,61 @@
+{
+  "video_id": "7650615944082984205",
+  "visual_action": "The video is filmed at a desk in what appears to be an office, with a computer monitor showing a YouTube live stream from ABC 7 News (WJLA) titled \"LIVE | Crews set to remove Trump's name from Kennedy Center.\" The live stream footage shows the exterior wall of the Kennedy Center, where the engraved text reads \"THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING ARTS\" alongside \"THE DONALD J. TRUMP AND\" — workers in yellow high-visibility vests and hard hats are on scaffolding apparently in the process of removing the Trump name letters. Throughout most of the clip, the person records the monitor showing the live stream with a live chat scrolling on the right side. Near the end, two AR/animated figurines appear in front of the monitor screen: first a dancing hot dog character wearing headphones (a well-known internet meme/Snapchat filter character), then a dancing Shrek figurine (the animated movie character). Both are animated and appear to be superimposed or augmented-reality overlays placed in front of the real monitor to create a comedic celebratory effect.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The YouTube live stream title reads 'Crews set to remove Trump's name from Kennedy Center'; on-screen building text shows 'THE DONALD J. TRUMP AND'; caption overlay reads 'everyone is waiting for trump's name to get removed'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING ARTS",
+      "role": "other"
+    },
+    {
+      "text": "THE DONALD J. TRUMP AND",
+      "role": "other"
+    },
+    {
+      "text": "🔴LIVE | Crews set to remove Trump's name from Kennedy Center",
+      "role": "other"
+    },
+    {
+      "text": "ABC 7 News - WJLA",
+      "role": "other"
+    },
+    {
+      "text": "everyone is waiting for trump's name to get removed 😭😭😭",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is detected in the Whisper transcript. The audio is the song \"Party In The U.S.A.\" by Miley Cyrus playing throughout.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The entire clip plays \"Party In The U.S.A.\" by Miley Cyrus (confirmed by ACRCloud fingerprint at 0.0s and 7.7s). The upbeat, celebratory pop track underscores the footage of Trump's name being removed, creating a triumphant and celebratory tone throughout.",
+  "editing_pacing": "Mostly static shots of a computer monitor showing the live stream, with the camera slowly zooming in or panning slightly across frames. The pacing is relaxed. Near the end, animated AR character overlays (dancing hot dog, then Shrek) appear in the foreground for comedic effect, adding a sudden playful visual element.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "celebration — signaled by the 'Party In The U.S.A.' soundtrack and dancing animated characters",
+    "mockery or glee — signaled by the 😭😭😭 crying-laughing emoji use in the caption overlay and the comedic dancing Shrek and hot dog figurines",
+    "anticipation — signaled by the caption 'everyone is waiting for trump's name to get removed'"
+  ],
+  "cultural_references": [
+    "Shrek (DreamWorks animated film character) — a dancing Shrek AR/toy figurine appears in front of the monitor as a celebratory reaction",
+    "Dancing Hot Dog (viral Snapchat/internet meme character) — an animated hot dog with headphones dances in front of the monitor",
+    "Miley Cyrus — 'Party In The U.S.A.' used as the soundtrack to frame the event as a celebration"
+  ],
+  "central_claim": "The removal of Donald Trump's name from the Kennedy Center is a cause for celebration.",
+  "intended_effect": "To make viewers feel celebratory and amused at the removal of Trump's name from the Kennedy Center, using humor (Shrek, dancing hot dog) and a celebratory pop anthem.",
+  "uncertainty_flags": [
+    "The dancing hot dog and Shrek figures appear to be physical toys/figurines placed on the desk rather than digitally superimposed — unclear if they are AR overlays or physical objects; either way they function as comedic visual additions",
+    "The exact date of the Kennedy Center name removal event is not confirmed by this analysis but is treated as a real event per instructions",
+    "No spoken audio was captured by Whisper; it's unclear if there is any voiceover or if the only audio is the music"
+  ]
+}

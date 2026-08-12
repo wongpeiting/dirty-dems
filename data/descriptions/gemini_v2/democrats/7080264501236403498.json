@@ -1,0 +1,42 @@
+{
+  "video_id": "7080264501236403498",
+  "visual_action": "Joe Biden stands at a podium with two microphones, in front of an American flag, and speaks directly to the camera. He makes small hand gestures for emphasis.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown and is speaking throughout the entire clip."
+    },
+    {
+      "name": "Billionaires",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Biden's speech is centered on introducing a 'billionaire minimum income tax' and he explicitly references what a 'billionaire pays' in taxes."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Biden introduces billionaire minimum income tax",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Joe Biden argues that it is unfair for firefighters and teachers to pay more than double the tax rate of a billionaire. He calls this wrong and introduces a \"billionaire minimum tax\" as part of his budget. He specifies it would be a 20% minimum tax applying only to the \"top one-hundredth of 1% of Americans.\" Biden concludes by stating the tax is fair, would raise $360 billion, and this money could be used to lower costs for families and cut the deficit.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Joe Biden's spoken remarks. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static, talking-head shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Fairness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden's proposed billionaire minimum tax is a fair policy that will correct the injustice of billionaires paying a lower tax rate than working-class Americans.",
+  "intended_effect": "To persuade viewers that the tax system is unfair and to garner support for Biden's proposed billionaire minimum tax.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,53 @@
+{
+  "video_id": "7562244334398016781",
+  "visual_action": "In the Oval Office, Donald Trump stands behind the Resolute Desk and gestures as Italian opera singer Andrea Bocelli stands in front of the desk. Bocelli then sings opera as Trump looks on, smiling. Towards the end, an unnamed woman walks into the frame and stands beside Bocelli.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually identified by face recognition, standing in the Oval Office."
+    },
+    {
+      "name": "Andrea Bocelli",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text \"Andrea Bocelli Sings In the Oval Office\" and is shown singing."
+    },
+    {
+      "name": "Ronald Reagan",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A prominent portrait of him is hanging on the wall of the Oval Office."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Andrea Bocelli Sings In the Oval Office 🇺🇸",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "At the very beginning of the clip, Donald Trump says something indistinct which sounds like an introduction. The rest of the audio consists of Andrea Bocelli singing opera in Italian.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The primary audio is the live, unaccompanied operatic singing of Andrea Bocelli. The performance creates a grand and formal atmosphere.",
+  "editing_pacing": "The video is a single, continuous, static shot with no edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "awe",
+    "respect"
+  ],
+  "cultural_references": [],
+  "central_claim": "World-famous opera singer Andrea Bocelli visited and performed for Donald Trump in the Oval Office.",
+  "intended_effect": "To generate admiration for Donald Trump by showcasing his association with the prestigious cultural figure Andrea Bocelli in the formal setting of the White House.",
+  "uncertainty_flags": []
+}

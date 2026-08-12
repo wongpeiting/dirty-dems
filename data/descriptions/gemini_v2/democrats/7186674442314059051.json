@@ -1,0 +1,53 @@
+{
+  "video_id": "7186674442314059051",
+  "visual_action": "A woman looks directly at the camera while a screenshot of a tweet from 'The Democrats' is superimposed above her head. She looks up thoughtfully, then shakes her head and mouths the word 'No' in sync with the audio.",
+  "cast": [
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The superimposed tweet is from the account '@TheDemocrats', which is also the account that posted the video."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly mentions 'Every Republican in Congress'."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A woman is visually present for the entire video, performing a reaction and lip-syncing to the audio."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats @TheDemocrats\n\nEvery Republican in Congress voted against:\n\n—Lowering prescription drug prices\n—Lowering health care costs\n—Lowering energy costs\n—Creating good-paying jobs",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a popular meme sound clip. A male voice asks, \"Will I get over it?\" After a pause, he replies, \"No.\" The woman in the video lip-syncs the word \"No,\" implying that she, as a voter, will not get over the Republican voting record detailed in the on-screen text.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a popular meme sound clip featuring dialogue, with no background music. It is used for comedic and dramatic effect.",
+  "editing_pacing": "The video is a single, static shot of a person reacting to superimposed text, a common format on TikTok. The pacing is slow, focused on the performance of the reaction.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Frustration",
+    "Condemnation"
+  ],
+  "cultural_references": [
+    "The audio clip \"Will I get over it? ... No\" is a well-known meme sound originating from the character Schmidt in the TV show 'New Girl'."
+  ],
+  "central_claim": "Republicans in Congress have voted against key policies that benefit the public, and this voting record is unforgivable.",
+  "intended_effect": "To generate negative sentiment towards Republican politicians and persuade viewers that the Republican party does not have their best interests at heart.",
+  "uncertainty_flags": []
+}

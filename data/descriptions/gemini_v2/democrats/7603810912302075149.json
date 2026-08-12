@@ -1,0 +1,69 @@
+{
+  "video_id": "7603810912302075149",
+  "visual_action": "The video displays a static graphic with a photo of Michelle Obama. In the upper right corner, there is a circular inset image of Melania Trump wearing a wide-brimmed hat. Text is overlaid on the image. The graphic then transitions to a different still photograph of Michelle Obama smiling against a grey background.",
+  "cast": [
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her photo is the main visual element and the on-screen text is about her documentary."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her photo is shown in an inset and her movie is contrasted with Michelle Obama's documentary in the on-screen text."
+    },
+    {
+      "name": "Netflix",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The text at the bottom mentions that Michelle Obama's documentary surged on Netflix."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FACT POST",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING",
+      "role": "overlay"
+    },
+    {
+      "text": "MICHELLE OBAMA DOCUMENTARY SURGES BY 13,300% DURING “MELANIA” OPENING WEEKEND",
+      "role": "overlay"
+    },
+    {
+      "text": "Viewership for the Michelle Obama documentary “Becoming” surged on Netflix as Melania Trump’s movie underwhelmed.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio begins with a male voice saying \"Here we go.\" This is followed by a crowd chanting what sounds like \"Who came to see me? Who real like me? Don't let me get up out my seat.\"",
+  "emojis_present": [],
+  "audio_music": "The video features an upbeat, hype track with a strong beat and a crowd chanting rhythmically. The effect is triumphant and energetic.",
+  "editing_pacing": "The video is a simple slideshow, transitioning from one static graphic to a second static photo.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Becoming (documentary)",
+    "Netflix"
+  ],
+  "central_claim": "Michelle Obama's documentary 'Becoming' on Netflix was overwhelmingly more popular than a movie by Melania Trump, indicating Michelle Obama has far greater public appeal.",
+  "intended_effect": "To generate pride in Michelle Obama's popularity and to portray Melania Trump as unpopular and unsuccessful in comparison.",
+  "uncertainty_flags": [
+    "The source of the chanting audio is unclear; it sounds like a sample from a hip-hop track or a live event.",
+    "The video refers to a 'Melania' movie but provides no specific details about what this film is, making the central comparison difficult to verify from the video alone."
+  ]
+}

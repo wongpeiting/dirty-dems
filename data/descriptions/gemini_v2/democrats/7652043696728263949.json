@@ -1,0 +1,48 @@
+{
+  "video_id": "7652043696728263949",
+  "visual_action": "Donald Trump, in a suit and red tie, stands at an outdoor construction site with a large pit of dirt behind him. A classical-style building is visible in the background. He speaks and gestures towards the camera, which slowly zooms in on him.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole person shown on screen, identified by face recognition, and the subject of the on-screen text."
+    },
+    {
+      "name": "US Taxpayers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text claims a project is \"costing taxpayers $300 million\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "mfer showing off a pile of dirt that is costing taxpayers $500 million",
+      "role": "overlay"
+    },
+    {
+      "text": "mfer showing off a pile of dirt that is costing taxpayers $300 million",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump is shown speaking, but his words are entirely inaudible, having been replaced by instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A quirky, upbeat, chiptune-style electronic track ('Bloopin' by Eddie EWI) plays throughout the video, creating a mocking and comical tone.",
+  "editing_pacing": "The video consists of a single shot with a slow zoom-in on Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "derision"
+  ],
+  "cultural_references": [
+    "The acronym 'mfer' is used, which is common internet slang."
+  ],
+  "central_claim": "Donald Trump is proudly promoting a project that is a massive waste of hundreds of millions of dollars of taxpayer money.",
+  "intended_effect": "To portray Donald Trump as fiscally irresponsible, foolish, and worthy of ridicule.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "7619081010180918541",
+  "visual_action": "The video shows a digitally manipulated scene of two versions of Donald Trump standing at separate podiums on a debate stage, appearing to debate each other. The Trump on the left wears a white hat with 'USA' on it. The video frequently cuts to a reaction shot of musician Britney Spears looking confused while holding a microphone. The scene then returns to the two Trumps on the debate stage.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually present as two figures on a debate stage throughout the video, his voice makes up the entire dialogue, and the on-screen text names him twice."
+    },
+    {
+      "name": "Iranian regime",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The audio mentions 'imminent threats from the Iranian regime'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "can 2016 trump convince 2026 trump not to start a war?",
+      "role": "caption"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio is a fabricated dialogue created by splicing together various clips of Donald Trump's voice. One voice, representing his past self, advocates against foreign intervention, saying things like 'we shouldn't be involved,' 'stop racing to topple foreign regimes,' and 'America first.' The other voice, representing a hypothetical future self, talks about 'imminent threats from the Iranian regime' and 'major combat operations in Iran.' The clips are edited to sound like a debate between Trump's past and future selves regarding starting a war.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, patriotic-sounding orchestral track plays throughout the video, underneath the spoken dialogue. The music serves as an ironic backdrop to the satirical content.",
+  "editing_pacing": "The video uses fast cuts, switching between the two versions of Trump on the debate stage and reaction shots of Britney Spears. This editing style is common in memes and creates a comedic, conversational rhythm.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is visually manipulated to show two instances of Donald Trump on a single debate stage, creating the false impression that he is debating himself. The audio is also heavily edited, splicing together different soundbites to construct a fabricated dialogue for satirical purposes.",
+  "emotions_signaled": [
+    "mockery",
+    "satire",
+    "concern"
+  ],
+  "cultural_references": [
+    "Britney Spears"
+  ],
+  "central_claim": "Donald Trump is hypocritical on foreign policy and would start a war with Iran if re-elected, despite his previous 'America First' anti-interventionist rhetoric.",
+  "intended_effect": "To mock Donald Trump, portray him as inconsistent and dangerous, and create doubt among viewers about his suitability for the presidency.",
+  "uncertainty_flags": []
+}

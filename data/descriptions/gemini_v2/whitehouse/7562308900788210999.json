@@ -1,0 +1,113 @@
+{
+  "video_id": "7562308900788210999",
+  "visual_action": "The video is a fast-paced montage of clips and images of Donald Trump. It includes footage of him walking from behind, the White House at night, his presidential motorcade, walking off Air Force One, in the Oval Office, and at rallies with cheering supporters. Interspersed are clips of Chuck Schumer, a framed document with Joe Biden's signature, and various digitally manipulated images. These include a map relabeling the Gulf of Mexico as the 'Gulf of America', an image of Trump's face as the sun over the border wall, Trump wearing a king's crown, Trump dressed as the Pope, and a fake news report about a meme of Trump as a muscular Jedi. The video ends with a title card for 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the subject of nearly every shot in the video and his voice is used for the narration in the first half."
+    },
+    {
+      "name": "Charles Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown briefly walking and smiling in a hallway."
+    },
+    {
+      "name": "Joseph R. Biden Jr.",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A framed document is shown with a plaque that reads 'JOSEPH R. BIDEN JR. 46TH PRESIDENT'."
+    },
+    {
+      "name": "Tom Homan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in a manipulated clip where a sombrero and mustache are digitally added to his face."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is briefly visible walking behind Donald Trump as they disembark from a plane."
+    },
+    {
+      "name": "Doug Burgum",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the crowd of people standing behind Trump during a bill signing ceremony."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the crowd of people standing behind Trump during a bill signing ceremony."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via external context as being present in the video, likely in one of the group shots."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GULF OF AMERICA",
+      "role": "overlay"
+    },
+    {
+      "text": "DADDY'S HOME",
+      "role": "overlay"
+    },
+    {
+      "text": "POSTS TRUMP MEME WITH LIGHTSABER",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump delivers a speech, stating, 'My fellow Americans, our movement is far from over. In fact, our fight has only just begun.' He describes his supporters as 'one movement, one people, one family, and one glorious nation under God' and concludes by promising, 'We will make America great again.'",
+  "emojis_present": [],
+  "audio_music": "The video opens with Donald Trump's speech over a serious, cinematic score. This transitions around the 10-second mark to a hip-hop track ('I Think I'm Donald Trump'). At about 17 seconds, the speech audio fades out completely and the music changes to an upbeat, celebratory remix of the classic rock song 'Spirit in the Sky,' which continues for the remainder of the video, giving the montage a triumphant and mythic feel.",
+  "editing_pacing": "The video consists of a rapid-fire montage with fast cuts, combining real footage with numerous memes and digitally altered images to create a high-energy, hype video effect.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video contains multiple instances of visual manipulation for memetic and satirical effect. The Gulf of Mexico is relabeled 'Gulf of America' on a map. A sombrero and mustache are superimposed on Tom Homan. Donald Trump's face is superimposed onto the sun, a king's crown is placed on his head, and he is depicted as the Pope. An apparently AI-generated image shows Trump as a muscular Jedi with a lightsaber, presented within a mock news broadcast.",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Patriotism",
+    "Humor",
+    "Adoration"
+  ],
+  "cultural_references": [
+    "Star Wars (Jedi with a lightsaber)",
+    "Teletubbies (the sun baby, referenced by Trump's face as the sun)",
+    "The song 'Spirit in the Sky' by Norman Greenbaum",
+    "The meme format 'Daddy's Home' to signal a return to power",
+    "General internet meme culture, particularly the use of fan-cam style edits and surreal photoshopped images."
+  ],
+  "central_claim": "Donald Trump's political movement is triumphantly returning, energized by his supporters' devotion and ready to make America great again.",
+  "intended_effect": "To energize and excite supporters by portraying Trump's return as a powerful, popular, and almost mythic event, while also embracing and leveraging online meme culture.",
+  "uncertainty_flags": [
+    "The identification of several politicians in crowd scenes (Hakeem Jeffries, Doug Burgum, Steve Scalise) relies on the provided face-ID context as they are not clearly visible or prominently featured."
+  ]
+}

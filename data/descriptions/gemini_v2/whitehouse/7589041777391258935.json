@@ -1,0 +1,61 @@
+{
+  "video_id": "7589041777391258935",
+  "visual_action": "Donald Trump, in a dark suit, stands in an ornate, gold-trimmed arched doorway of a stone building. He walks down a short flight of steps. Another man in a dark suit approaches him from the left. They speak briefly, Trump gestures with his right hand, and then they shake hands, posing for a moment. The scene then cuts to a series of black-and-white still photos: the front of the White House, a helicopter (likely Marine One), and another shot of the White House, all with a logo overlaid. An American flag is visible on a flagpole to the left of the doorway in the first scene. A doormat reads 'The Mar-a-Lago Club'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown walking out of a building and greeting another person. The caption identifies him as 'President Trump'."
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The caption explicitly states 'President Trump welcomes President Zelenskyy to Mar-a-Lago'. He is the individual shown greeting Trump."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a logo reading 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Mar-a-Lago Club",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A single, faint word, 'Welcome', is audible as the two men greet each other.",
+  "emojis_present": [
+    "🇺🇸",
+    "🇺🇦"
+  ],
+  "audio_music": "A continuous, grand, and inspirational orchestral track titled 'The Champion' plays throughout the video, creating a sense of importance and patriotism.",
+  "editing_pacing": "The video consists of a single, continuous shot for the main action, followed by a quick slideshow of three black-and-white still images for the end credit sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "solemnity"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is shown welcoming Ukrainian President Zelenskyy to Mar-a-Lago, highlighting a significant diplomatic engagement.",
+  "intended_effect": "To portray President Trump as a strong world leader conducting important international diplomacy and to reinforce the U.S.-Ukraine alliance.",
+  "uncertainty_flags": [
+    "The person identified in the caption as 'President Zelenskyy' is not identifiable by face with high confidence from the video alone.",
+    "It is unclear who speaks the single audible word 'Welcome'."
+  ]
+}

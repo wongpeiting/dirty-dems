@@ -1,0 +1,49 @@
+{
+  "video_id": "7478193636396567851",
+  "visual_action": "Bernie Sanders stands at a podium in front of an American flag, speaking directly to the camera. The shot is a static medium shot from the waist up.",
+  "cast": [
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, delivering a direct address to the camera."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly states that Sanders' speech is a response to \"Trump's joint address speech\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Sanders responds to Trump's joint address speech",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS IS A GOVERNMENT THAT COULD CARE LESS ABOUT ORDINARY AMERICANS AND THE WORKING FAMILIES OF OUR COUNTRY. MY FRIENDS, WE ARE NO LONGER MOVING TOWARD OLIGARCHY. WE ARE LIVING IN AN OLIGARCHIC SOCIETY.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Bernie Sanders argues that the current government does not care about ordinary Americans or working families. He declares, \"My friends, we are no longer moving toward oligarchy. We are living in an oligarchic society.\"",
+  "emojis_present": [
+    "👏"
+  ],
+  "audio_music": "The audio consists entirely of Bernie Sanders speaking, with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Concern",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The U.S. government no longer serves ordinary people and has become an oligarchy.",
+  "intended_effect": "To alarm viewers about the state of the government and persuade them to agree with a critical assessment of the Trump administration.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,76 @@
+{
+  "video_id": "7577230630686051598",
+  "visual_action": "Donald Trump, in a suit and tie, stands at a podium with the Seal of the President of the United States. He speaks directly to the camera in a formal setting with American flags in the background. The video ends with a black screen showing a white line drawing of the White House with the text \"THE WHITE HOUSE\" followed by \"PRESIDENT DONALD J. TRUMP\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker, visible throughout the entire video, delivering the address from a presidential podium."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump repeatedly blames him and his administration for the attack, stating the suspect was 'flown in by the Biden administration' and his status was extended under 'legislation signed by President Biden'."
+    },
+    {
+      "name": "Unnamed National Guard members",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speech is a response to an attack on them. Trump states, 'two members of the National Guard serving in Washington, D.C. were shot at point-blank range'."
+    },
+    {
+      "name": "Unnamed suspect",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speech centers on the perpetrator of the attack, whom Trump describes as 'the animal who perpetrated this atrocity' and 'a foreigner who entered our country from Afghanistan'."
+    },
+    {
+      "name": "Biden administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The administration is blamed for the immigration policies that allegedly allowed the attacker into the country. 'The last administration let in 20 million unknown and unvetted foreigners.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump delivers a formal address to the nation about what he calls a 'monstrous ambush-style attack' on two West Virginia National Guard members near the White House on the eve of Thanksgiving. He labels the attack an 'act of terror' and reports the suspect is a foreigner from Afghanistan brought to the U.S. by the Biden administration in 2021. Trump heavily criticizes President Biden's immigration policies, calling them the 'single greatest national security threat' and citing the presence of Somali immigrants in Minnesota as another example of this threat. He vows to re-examine all aliens who entered from Afghanistan under Biden, remove those who 'don't belong,' and announces the mobilization of 500 additional troops to protect Washington D.C. He concludes by asking Americans to pray for the wounded soldiers.",
+  "emojis_present": [],
+  "audio_music": "A serious, dramatic orchestral score plays intermittently under Trump's speech, enhancing the somber and authoritative tone of the address.",
+  "editing_pacing": "The video consists of a single, static talking-head shot of Donald Trump at a podium, followed by a cut to a final credit screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Fear",
+    "Grief",
+    "Resolve",
+    "Patriotism",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "A terrorist attack on National Guard members, perpetrated by an Afghan immigrant, is direct proof that the Biden administration's immigration policies have endangered the nation, a crisis which Trump will resolve by removing dangerous foreigners and increasing military presence.",
+  "intended_effect": "To provoke anger and fear towards immigrants and the previous administration's policies, while reinforcing the image of Trump as a decisive leader who prioritizes national security.",
+  "uncertainty_flags": [
+    "The speaker refers to the 'Department of War,' which is the historical name for the U.S. Department of Defense. It is unclear if this is rhetorical or reflects a name change in the timeline of the video."
+  ]
+}

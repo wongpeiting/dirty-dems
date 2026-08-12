@@ -1,0 +1,55 @@
+{
+  "video_id": "7171465414990449963",
+  "visual_action": "Maxwell Frost, a man in a white collared shirt, sits at a wooden desk and speaks directly to the camera. An American flag is visible behind him to his left, and a lamp and a vase of yellow flowers are behind him to his right. The video is a static, talking-head style shot.",
+  "cast": [
+    {
+      "name": "Maxwell Frost",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen text identifies him as \"Maxwell Frost, the first Gen Z member of Congress.\" He is the sole speaker in the video."
+    },
+    {
+      "name": "U.S. Congress",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text refers to Frost as a \"member of Congress,\" and he states, \"I'm running for Congress.\""
+    },
+    {
+      "name": "Maxwell Frost's biological mother",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Maxwell Frost describes the moment he \"connected with my biological mother\" as the catalyst for his decision to run for office."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "What motivated Maxwell Frost, the first Gen Z member of Congress, to run for office",
+      "role": "overlay"
+    },
+    {
+      "text": "The moment I decided to run was actually when I connected with my biological mother. I was adopted at birth, never knew anything about her, but I was at a crossroads, trying to make the decision on whether or not I wanted to run for Congress. And getting to hear about her story — the fact that she had me at the most vulnerable point in her life, really solidified all the things I believe in and the things that I want to fight for. And I hung up that phone and I said 'I'm running for Congress.'",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Maxwell Frost explains that the moment he decided to run for Congress was when he connected with his biological mother for the first time. He says he was adopted at birth and knew nothing about her. Hearing her story, especially that she had him at the most vulnerable point in her life, solidified his beliefs and what he wanted to fight for. After their conversation, he hung up the phone and said, \"I'm running for Congress.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a man's clear, unadorned speaking voice. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts, zooms, or other camera movements. On-screen captions appear sequentially as the person speaks.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sincerity",
+    "inspiration",
+    "empathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "Maxwell Frost's decision to run for Congress was directly inspired by connecting with his biological mother and learning about the hardships she faced.",
+  "intended_effect": "To humanize Maxwell Frost and present his political motivations as deeply personal and authentic, thereby building trust and support.",
+  "uncertainty_flags": []
+}

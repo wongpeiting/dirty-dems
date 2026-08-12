@@ -1,0 +1,71 @@
+{
+  "video_id": "7657214432971410702",
+  "visual_action": "The video is a slideshow. It first shows a photograph of a smiling nun in a white habit outdoors. Text overlays appear on the screen. The video then transitions to a screenshot of a news article from AP News detailing the nun's detention and subsequent release.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"Trump's ICE detained a nun.\""
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"Trump's ICE detained a nun.\" and \"she was detained by ICE.\""
+    },
+    {
+      "name": "Sister Leticia Ugboaja",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her photo is shown and the on-screen text names her: \"Sister Leticia Ugboaja was walking to church...\""
+    },
+    {
+      "name": "AP News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of an article shows the text \"APNews\" at the top."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's ICE detained a nun.",
+      "role": "overlay"
+    },
+    {
+      "text": "Sister Leticia Ugboaja was walking to church when she was detained by ICE.",
+      "role": "overlay"
+    },
+    {
+      "text": "APNews\nMcALLEN, Texas — A nun was released from immigration custody after she was arrested walking to Mass in her habit in South Texas.\nSister Leticia Ugboaja was walking to Our Lady of Sorrows Church in McAllen, Texas, just a few miles from the U.S.-Mexico border, on Sunday when she was detained by U.S. Immigration and Customs Enforcement officers.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A gentle, somber, hymn-like song with choir-style vocals plays throughout the video, creating a poignant and serious mood.",
+  "editing_pacing": "The video is a simple slideshow, transitioning from one static image with text to a second static image (a news article screenshot).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Sympathy (for the nun)",
+    "Outrage (at the actions of ICE under Trump)",
+    "Injustice"
+  ],
+  "cultural_references": [
+    "500 Miles (song by Peter, Paul & Mary)"
+  ],
+  "central_claim": "Under Donald Trump's administration, U.S. Immigration and Customs Enforcement (ICE) was so indiscriminate in its enforcement that its officers detained a nun who was simply walking to church.",
+  "intended_effect": "To generate sympathy for the nun and anger toward Donald Trump's immigration policies, portraying them as cruel and unjust.",
+  "uncertainty_flags": [
+    "The fingerprinted music ('500 Miles' by Peter, Paul & Mary) does not sonically match the prominent folk version of the song; the video uses a choral, hymn-like arrangement which may be a cover or a different song."
+  ]
+}

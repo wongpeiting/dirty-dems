@@ -1,0 +1,109 @@
+{
+  "video_id": "7420905162346155294",
+  "visual_action": "The video consists of two still images. The first is a group selfie of Tim Walz, Kamala Harris, Doug Emhoff, and Gretchen Whitmer smiling in front of a crowd at a political event. The second image is a CBS News promotional graphic for a Vice Presidential debate between J.D. Vance and Tim Walz.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in both the initial selfie and the subsequent debate graphic, where he is identified as a participant in the Vice Presidential Debate."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in the debate graphic as Tim Walz's opponent in the Vice Presidential Debate."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the group selfie in the first frame of the video."
+    },
+    {
+      "name": "Doug Emhoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the group selfie in the first frame of the video."
+    },
+    {
+      "name": "Gretchen Whitmer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the group selfie in the first frame of the video."
+    },
+    {
+      "name": "CBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and name appear on the graphic for the Vice Presidential Debate, identifying it as the broadcaster."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"hang out??\"",
+      "role": "overlay"
+    },
+    {
+      "text": "the hangout 🤝",
+      "role": "overlay"
+    },
+    {
+      "text": "CBS NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "AMERICA DECIDES",
+      "role": "chyron"
+    },
+    {
+      "text": "VICE PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE COVERAGE TONIGHT",
+      "role": "chyron"
+    },
+    {
+      "text": "4PM ON @CBS NEWS 24/7",
+      "role": "chyron"
+    },
+    {
+      "text": "8PM ON @CBS",
+      "role": "chyron"
+    },
+    {
+      "text": "CBS MORNINGS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is set entirely to music.",
+  "emojis_present": [
+    "🤝"
+  ],
+  "audio_music": "A confident, upbeat trap/hip-hop track ('Pink Lemonade (Hood Trap)' by LeoStayTrill/Mr Reload It) plays throughout, creating a sense of hype and anticipation for the event shown.",
+  "editing_pacing": "The video is a simple slideshow, cutting from one static image to a second static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anticipation",
+    "hype",
+    "irony"
+  ],
+  "cultural_references": [],
+  "central_claim": "The upcoming Vice Presidential debate between Tim Walz and J.D. Vance is framed as an anticipated event, ironically referred to as 'the hangout'.",
+  "intended_effect": "To generate excitement and anticipation for the debate and portray Tim Walz as ready for the confrontation.",
+  "uncertainty_flags": []
+}

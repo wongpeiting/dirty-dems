@@ -1,0 +1,60 @@
+{
+  "video_id": "7652346069883292959",
+  "visual_action": "Politician JD Vance is shown as a guest on the daytime talk show 'The View', sitting at a large curved table with several female hosts. The video cuts between a wide shot of the panel and closer shots of Vance speaking and gesturing.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker for the majority of the clip, identified by face-ID and by the on-screen text 'VP Vance'."
+    },
+    {
+      "name": "Hosts of The View",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several women are shown sitting at the panel table listening to JD Vance. Some attempt to interject but are largely unheard."
+    },
+    {
+      "name": "The View",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The setting is the talk show 'The View,' and its logo is clearly visible on the set and the table."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VP Vance: “It is inhumane to allow cartels to sex traffic people across our border”",
+      "role": "overlay"
+    },
+    {
+      "text": "THE VIEW",
+      "role": "other"
+    },
+    {
+      "text": "SHOP THE BOOK",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "JD Vance argues that during the previous administration, tens of thousands of children were sex trafficked by cartels across the border. He contends that failing to enforce the border invites this kind of criminal activity. He states, \"What I'm telling you is that it's inhumane to allow cartels to sex traffic people across our border.\" Hosts of 'The View' attempt to interrupt him but he continues speaking.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of dialogue from a talk show segment, with applause audible at the very beginning. There is no music or other sound effects.",
+  "editing_pacing": "The editing uses standard cuts for a talk show interview, alternating between a wide shot of the entire panel and medium close-ups of the main speaker, JD Vance.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Seriousness"
+  ],
+  "cultural_references": [
+    "The View"
+  ],
+  "central_claim": "The truly inhumane border policy is the one that fails to secure the border, as this allows cartels to engage in widespread sex trafficking of children.",
+  "intended_effect": "To frame the Republican stance on border security as the compassionate and moral position necessary to protect children from sex trafficking.",
+  "uncertainty_flags": []
+}

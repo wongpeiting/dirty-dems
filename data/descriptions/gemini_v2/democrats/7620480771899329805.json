@@ -1,0 +1,93 @@
+{
+  "video_id": "7620480771899329805",
+  "visual_action": "Donald Trump, in a suit and tie, stands on an airport tarmac and speaks to off-screen reporters. In the background, there is an airplane staircase, a pickup truck, and several other people, including one in a military uniform. The video is a clip from a C-SPAN2 broadcast.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person speaking on camera and is identified by face-ID in the provided context."
+    },
+    {
+      "name": "Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text and post caption state that Trump is talking about his idea of 'Sending ICE to airports'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen female voice asks Trump 'Whose idea was it?' at the beginning of the clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: Sending ICE to airports was my idea. That was like the paper clip, you know the story?",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP TAKES QUESTIONS FROM REPORTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    },
+    {
+      "text": "WHOSE IDEA",
+      "role": "caption"
+    },
+    {
+      "text": "MINE.",
+      "role": "caption"
+    },
+    {
+      "text": "THAT WAS MINE.",
+      "role": "caption"
+    },
+    {
+      "text": "YOU KNOW THE",
+      "role": "caption"
+    },
+    {
+      "text": "PAPERCLIP?",
+      "role": "caption"
+    },
+    {
+      "text": "182 YEARS AGO,",
+      "role": "caption"
+    },
+    {
+      "text": "A MAN DISCOVERED",
+      "role": "caption"
+    },
+    {
+      "text": "THE PAPERCLIP.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump whose idea it was to send ICE to airports. Trump claims it was his idea, stating, \"Mine. That was mine.\" He then compares his idea to the invention of the paperclip, saying, \"That was like the paperclip. You know the story of the paperclip? 182 years ago, a man discovered the paperclip.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue and the ambient background noise of an airport tarmac. There is no music or added sound effects.",
+  "editing_pacing": "The video uses a single, static shot from a news broadcast. The only editing consists of added text overlays and sequential, large-font captions that emphasize Trump's words as he speaks.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "confusion",
+    "alarm"
+  ],
+  "cultural_references": [
+    "The invention of the paperclip, which Trump references as a well-known story."
+  ],
+  "central_claim": "Donald Trump's rationale for his policies is incoherent, as demonstrated by his bizarre and rambling comparison of sending ICE to airports to the invention of the paperclip.",
+  "intended_effect": "To portray Donald Trump as confused and nonsensical, thereby encouraging mockery and questioning his fitness for office.",
+  "uncertainty_flags": []
+}

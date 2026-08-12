@@ -1,0 +1,54 @@
+{
+  "video_id": "7128536439855369515",
+  "visual_action": "The video first shows a male reporter asking a question in a close-up shot. It then cuts to a close-up of White House Press Secretary Karine Jean-Pierre at the press briefing podium as she answers.",
+  "cast": [
+    {
+      "name": "Karine Jean-Pierre",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at the White House press briefing podium, providing the answer that is the focus of the video."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referred to as \"the president\" in the reporter's question."
+    },
+    {
+      "name": "Peter Doocy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown asking the initial question about the president and gas prices."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Why is the president bragging today about gas prices?",
+      "role": "caption"
+    },
+    {
+      "text": "Because it's gone down.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A reporter, Peter Doocy, asks why the president is bragging about gas prices. White House Press Secretary Karine Jean-Pierre replies, \"Because it's gone down.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of spoken dialogue without any accompanying music or sound effects.",
+  "editing_pacing": "The video uses a single, quick cut from the question to the answer, creating a 'question-and-rebuttal' format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Vindication"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden is justified in taking credit for gas prices because they have decreased.",
+  "intended_effect": "To reassure supporters that the administration is successfully managing the economy and effectively countering criticism.",
+  "uncertainty_flags": []
+}

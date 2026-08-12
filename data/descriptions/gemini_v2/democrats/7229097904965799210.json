@@ -1,0 +1,52 @@
+{
+  "video_id": "7229097904965799210",
+  "visual_action": "The video shows Kevin McCarthy speaking at a podium. An on-screen text box is overlaid. The scene then cuts to McCarthy walking quickly down a hallway, seemingly away from the camera, as he is followed by several other people.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visibly identified on screen speaking at a podium and walking down a hallway. He is presented as the representative of House Republicans."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen text: 'House Republicans when you ask why they support gutting veterans' benefits...'"
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen female voice asks, 'Why?'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "House Republicans when you ask why they support gutting veterans' benefits just to deliver tax cuts to the rich",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Kevin McCarthy says, \"Okay, well, that's interesting. You know why?\" An off-screen voice asks, \"Why?\" McCarthy replies, \"Because...\" and the audio cuts off as the scene changes to him walking away, implying he is evading the question.",
+  "emojis_present": [],
+  "audio_music": "A dramatic and slightly tense piano and string track plays throughout the video.",
+  "editing_pacing": "The video starts with a static shot of a talking head, then makes a hard cut to a shot of the subject walking briskly away. This juxtaposition is used to imply evasion.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Anger"
+  ],
+  "cultural_references": [
+    "The video uses the common internet meme format 'X when you Y' to frame the interaction for comedic or critical effect."
+  ],
+  "central_claim": "House Republicans, represented by Kevin McCarthy, evade questions about prioritizing tax cuts for the rich over veterans' benefits because they have no defensible answer.",
+  "intended_effect": "To portray House Republicans as evasive and uncaring towards veterans, in order to generate anger and ridicule against them.",
+  "uncertainty_flags": []
+}

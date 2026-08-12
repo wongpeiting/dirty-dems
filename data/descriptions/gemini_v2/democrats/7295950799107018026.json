@@ -1,0 +1,62 @@
+{
+  "video_id": "7295950799107018026",
+  "visual_action": "Donald Trump is speaking at a podium during a rally. He thanks the crowd in \"Sioux Falls.\" An older man in a suit then walks onto the stage, puts his arm around Trump, and whispers in his ear. Trump looks surprised and then turns back to the microphone to address the crowd in \"Sioux City.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Is shown speaking at a podium for the entire video and is the subject of the on-screen text."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man walks on stage to correct Trump, as explained by on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump gets the name of the city he's in wrong, forcing someone to correct him on stage: “It’s Sioux City, not Sioux Falls”",
+      "role": "caption"
+    },
+    {
+      "text": "TEXT IOWA TO 88022",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN! 2024",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE SIOUX CITY, IA",
+      "role": "chyron"
+    },
+    {
+      "text": "[MAN CORRECTING TRUMP]: It's Sioux City, not Sioux Falls.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump greets the crowd, saying, \"A very big hello to a place where we've done very well, Sioux Falls. Thank you very much, Sioux Falls.\" After being corrected on stage, Trump says, \"Oh it's— oh, is that right?\" He then addresses the crowd correctly: \"So, Sioux City, let me ask you.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of diegetic sound from the event: Donald Trump speaking, crowd applause, and the muffled voice of the man correcting him. There is no background music.",
+  "editing_pacing": "The video is a single continuous shot with text overlays added for context. The editing is minimal and the pacing is slow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump made a gaffe by naming the wrong city during a rally in Iowa and had to be corrected live on stage.",
+  "intended_effect": "To portray Donald Trump as confused, prone to errors, and unfit for office, thereby amusing his opponents.",
+  "uncertainty_flags": []
+}

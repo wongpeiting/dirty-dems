@@ -1,0 +1,87 @@
+{
+  "video_id": "7648027871553883405",
+  "visual_action": "The video is structured as a tutorial on how to achieve a 'retro' photo effect. It begins with a photo of Donald and Melania Trump. It then shows a screen recording of a photo editing app interface, where the user is instructed to select 'Filters', then the 'Retro' category, and finally the 'Stormy' filter at 100%. After these steps, instead of showing the original photo with a filter applied, the video cuts to a completely different photo showing Donald Trump with Jeffrey Epstein. The final on-screen text reads 'and you're done :)'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in both the initial photograph with Melania Trump and the final photograph with Jeffrey Epstein."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in the final 'reveal' photograph with Donald Trump, which serves as the punchline of the video."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the initial photograph with Donald Trump that is used as the setup for the tutorial."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the official @democrats TikTok account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "how to make ur photos look retro 😍",
+      "role": "overlay"
+    },
+    {
+      "text": "go to filters ➡️",
+      "role": "overlay"
+    },
+    {
+      "text": "go to stormy and set it to 100%",
+      "role": "overlay"
+    },
+    {
+      "text": "and you're done :)",
+      "role": "overlay"
+    },
+    {
+      "text": "Retro",
+      "role": "other"
+    },
+    {
+      "text": "Stormy",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech, only background music.",
+  "emojis_present": [
+    "😍",
+    "➡️"
+  ],
+  "audio_music": "A fast-paced, upbeat, sped-up electronic track plays throughout the video. The music helps establish the tone of a trendy, lighthearted social media tutorial, which creates a sharp contrast with the dark political punchline at the end.",
+  "editing_pacing": "The video uses quick cuts, transitioning from a static photo to a screen recording of an app interface, and finally to another static photo. The pacing is fast, matching the beat of the background music.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is a satirical fabrication. It presents a fake 'how-to' tutorial, visually implying that a photo filter in an editing app can transform a picture of Donald and Melania Trump into a picture of Donald Trump and Jeffrey Epstein. This is a fabricated process used to create a political attack by association.",
+  "emotions_signaled": [
+    "Mockery",
+    "Satire",
+    "Surprise",
+    "Disgust"
+  ],
+  "cultural_references": [
+    "The video is a parody of the common 'photo editing tutorial' trend popular on TikTok and Instagram Reels."
+  ],
+  "central_claim": "The video implies that Donald Trump has a hidden, 'stormy' association with Jeffrey Epstein.",
+  "intended_effect": "To create a negative association between Donald Trump and Jeffrey Epstein in the viewer's mind through a seemingly humorous and shareable meme format.",
+  "uncertainty_flags": [
+    "The music is identified by the TikTok sound label as 'Some kind of supernova' and '2000 (sped...)', but an external fingerprint identifies it as 'Só As Cacheadas — Júnior Brasil'."
+  ]
+}

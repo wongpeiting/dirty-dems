@@ -1,0 +1,57 @@
+{
+  "video_id": "7636792254484598030",
+  "visual_action": "Marco Rubio, wearing a dark suit and red tie, speaks from a podium in what appears to be the White House press briefing room. The shot is a static medium close-up for the duration of his speech. The video concludes with a black screen showing the text \"THE WHITE HOUSE\" and a line drawing of the building.",
+  "cast": [
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, identified by face recognition and an on-screen text overlay that says \"Rubio Says...\""
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account, and the text \"THE WHITE HOUSE\" appears on the podium, backdrop, and end screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "Rubio Says in America,\n\"Anyone From Anywhere\" Can\nAchieve Anything\"",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Marco Rubio describes his hope for America as a place where \"anyone from anywhere can achieve anything,\" unconstrained by their birth circumstances. He acknowledges America is not perfect but argues its history is one of \"perpetual improvement,\" making it better than any other country's. Rubio states that each generation has left the next freer and more prosperous. He calls the U.S. a \"unique and exceptional country\" and says that as its 250th anniversary approaches, Americans should be proud of their history of continuous progress toward the founders' vision.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists entirely of Marco Rubio's clear, unaltered speech. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static shot of a talking head, with no cuts, zooms, or other effects during the speech. It cuts to a credit screen at the very end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "pride",
+    "hope"
+  ],
+  "cultural_references": [],
+  "central_claim": "America is a uniquely exceptional country defined by its promise of opportunity for all and a history of continuous self-improvement.",
+  "intended_effect": "To inspire feelings of patriotism and pride in American ideals and its history of progress.",
+  "uncertainty_flags": []
+}

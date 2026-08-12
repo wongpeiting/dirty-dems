@@ -1,0 +1,127 @@
+{
+  "video_id": "7489162471417204014",
+  "visual_action": "The video starts with a clip of Donald Trump speaking at a podium with an American flag behind him. The video then cuts to a dark-mode graphic designed to look like a stock market tracking app, showing several major indices (Dow Jones, NASDAQ, S&P 500) and company stocks (Apple, Google) with red, downward-trending graphs and figures.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in the first half of the video, and the on-screen text identifies him as 'Trump:'. The second half of the video is titled 'Trump's economy:'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donald Trump states, 'Democrats would collapse the entire economy,' which is also displayed as a caption."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump:",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "Democrats would collapse the entire economy.",
+      "role": "caption"
+    },
+    {
+      "text": "Trump's economy:",
+      "role": "overlay"
+    },
+    {
+      "text": "Dow Jones",
+      "role": "overlay"
+    },
+    {
+      "text": "Dow Jones Industrial Average",
+      "role": "overlay"
+    },
+    {
+      "text": "40,811.61",
+      "role": "overlay"
+    },
+    {
+      "text": "NASDAQ",
+      "role": "overlay"
+    },
+    {
+      "text": "NASDAQ Composite",
+      "role": "overlay"
+    },
+    {
+      "text": "16,687.34",
+      "role": "overlay"
+    },
+    {
+      "text": "S&P 500",
+      "role": "overlay"
+    },
+    {
+      "text": "Standard & Poor's 500",
+      "role": "overlay"
+    },
+    {
+      "text": "5,442.62",
+      "role": "overlay"
+    },
+    {
+      "text": "AAPL",
+      "role": "overlay"
+    },
+    {
+      "text": "Apple Inc.",
+      "role": "overlay"
+    },
+    {
+      "text": "204.78",
+      "role": "overlay"
+    },
+    {
+      "text": "3.076T",
+      "role": "overlay"
+    },
+    {
+      "text": "GOOG",
+      "role": "overlay"
+    },
+    {
+      "text": "Alphabet Inc.",
+      "role": "overlay"
+    },
+    {
+      "text": "153.69",
+      "role": "overlay"
+    },
+    {
+      "text": "1.862T",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"Democrats would collapse the entire economy.\" His speech is mixed with loud music and sound effects.",
+  "emojis_present": [],
+  "audio_music": "A chaotic mix of a phonk music track ('MEMPHIS KULISARNA' by PHONK CZ/SK, Maros) and various loud, jarring meme sound effects, including screams and crashes. The overall effect is one of panic and collapse.",
+  "editing_pacing": "The video uses a single, sudden cut from the clip of Trump speaking to the static graphic of the declining stock market, creating a setup-punchline structure.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A graphic designed to look like a stock market app or webpage is fabricated. It's titled 'Trump's economy:' and selectively displays data with downward-trending red graphs to visually represent a crashing economy, serving as a direct rebuttal to Trump's statement.",
+  "emotions_signaled": [
+    "mockery",
+    "alarm"
+  ],
+  "cultural_references": [
+    "The use of chaotic meme sound effects (screams, crashes) layered over music is a common editing trope on TikTok.",
+    "The use of the Phonk music genre is a popular trend in intense or edgy video edits."
+  ],
+  "central_claim": "Donald Trump's criticism of Democrats' economic policies is hypocritical, as the economy allegedly performed poorly under his leadership.",
+  "intended_effect": "To mock Donald Trump and convince viewers that he was incompetent on economic issues.",
+  "uncertainty_flags": [
+    "The specific financial figures shown in the fabricated stock market graphic are presented without a date or context, so their origin is unclear, though their presentation is intentionally misleading."
+  ]
+}

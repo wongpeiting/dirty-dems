@@ -1,0 +1,57 @@
+{
+  "video_id": "7488544412524416298",
+  "visual_action": "A static image showing a screenshot of a tweet from the 'Democrats' account. The tweet's text is the single word 'loser', posted above a photo of Elon Musk. In the photo, Musk is smiling and wearing a blue jacket, with a large novelty 'cheesehead' hat digitally added to his head.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A manipulated photo of Elon Musk is the central focus of the post."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The post is a screenshot of a tweet from the official account 'Democrats' (@TheDemocrats)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "loser",
+      "role": "overlay"
+    },
+    {
+      "text": "ALT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a short, looping clip from the intro of Nicki Minaj's song 'Itty Bitty Piggy', featuring the line 'I mean, I don't even know why you girls bother...'.",
+  "emojis_present": [],
+  "audio_music": "The entire clip features the song 'Itty Bitty Piggy' by Nicki Minaj. The section used is the spoken-word intro, which has a boastful and dismissive tone that complements the post's mocking intent.",
+  "editing_pacing": "static image",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A large yellow 'cheesehead' hat, a symbol associated with Wisconsin and Green Bay Packers fans, is digitally superimposed onto Elon Musk's head to make him look foolish.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [
+    "Nicki Minaj",
+    "Cheesehead (Wisconsin/Green Bay Packers fan symbol)"
+  ],
+  "central_claim": "The Democratic Party is mocking Elon Musk, labeling him a 'loser' through a manipulated image.",
+  "intended_effect": "To encourage viewers to laugh at and dismiss Elon Musk.",
+  "uncertainty_flags": []
+}

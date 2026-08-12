@@ -1,0 +1,74 @@
+{
+  "video_id": "7569624493191105806",
+  "visual_action": "A fast-paced montage shows Donald Trump in various settings. He is seen dancing on stage at rallies, including in front of a crowd of military personnel, and on a balcony with Melania Trump. Several clips show him sitting at a desk and signing documents, sometimes smiling or holding up the signed document. The video ends with black and white footage of the White House and the Marine One helicopter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the sole subject of the montage, appearing in every clip."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly on a balcony next to Donald Trump at 0:22."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the background of a clip where Trump is signing a document, as confirmed by authoritative face-ID."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the background of a clip where Trump is signing a document, as confirmed by authoritative face-ID."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PRESIDENT TRUMP ENERGY 🔥",
+      "role": "caption"
+    },
+    {
+      "text": "45-47",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no discernible dialogue in the video. The audio is entirely composed of a high-energy electronic dance music track.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The video features a continuous, high-energy, upbeat electronic dance music track, identified as a remix of ABBA's 'Gimme! Gimme! Gimme!'. The music serves to create a 'hype' atmosphere, emphasizing energy and action.",
+  "editing_pacing": "The video is a fast-paced montage with very quick cuts between various clips. The editing style is energetic and dynamic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Energy",
+    "Pride",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "The music is an EDM remix of the song 'Gimme! Gimme! Gimme! (A Man After Midnight)' by the pop group ABBA."
+  ],
+  "central_claim": "Donald Trump is a high-energy and active president, constantly working and engaging with supporters.",
+  "intended_effect": "To generate excitement and admiration for Donald Trump, portraying him as a powerful and energetic leader.",
+  "uncertainty_flags": [
+    "The provided audio transcript does not match the audible content of the video, which is dominated by music.",
+    "The identification of JD Vance and Steve Scalise is based on the provided authoritative metadata, as they are not clearly identifiable in the brief, fast-moving background shots."
+  ]
+}

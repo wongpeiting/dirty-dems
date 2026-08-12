@@ -1,0 +1,52 @@
+{
+  "video_id": "7544165843798740237",
+  "visual_action": "The video opens on a tranquil, wide shot of a rural landscape with a farmhouse at sunrise. It then cuts to a montage of modern agricultural operations featuring large, green John Deere machinery. Scenes include a combine harvesting a cornfield, an autonomous tractor driving alongside it, an aerial shot of a harvester unloading grain into a trailer, and a large sprayer fertilizing a green field. The montage concludes with shots of black and white dairy cows eating from a trough in a large, modern-looking barn. The final shot is a black and white logo for 'THE WHITE HOUSE' over an image of the White House.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with a logo card that reads 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "John Deere",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The brand name 'JOHN DEERE' is visible on the side of the farm equipment shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "JOHN DEERE",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of a song with high-pitched, repetitive vocals in a language that is not clearly discernible.",
+  "emojis_present": [],
+  "audio_music": "The audio is a rhythmic, electronic track featuring a prominent, high-pitched, sped-up vocal sample. The music has an uplifting and somewhat ethereal quality, often used in aesthetic video montages.",
+  "editing_pacing": "The video is a montage of slow-motion and standard-speed B-roll shots, with cuts paced to the rhythm of the background music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Serenity",
+    "Awe",
+    "Pride"
+  ],
+  "cultural_references": [
+    "The caption 'Timeline cleanse' is a common social media phrase used to describe posting aesthetically pleasing or calming content to interrupt a stream of negative or stressful posts."
+  ],
+  "central_claim": "Modern American agriculture is beautiful, technologically advanced, and a source of national pride.",
+  "intended_effect": "To evoke feelings of calm and pride in American farming and innovation, and to associate these positive feelings with the White House.",
+  "uncertainty_flags": [
+    "The provided transcript does not match the audio in the video. The audio is a song, not the phrase 'We'll be right back.'",
+    "The specific song and the language of the vocals are not identifiable."
+  ]
+}

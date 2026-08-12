@@ -1,0 +1,99 @@
+{
+  "video_id": "7639778723901803790",
+  "visual_action": "A static, low-angle photo of a CITGO gas station sign against a blue sky. The sign displays fuel prices, with Regular Unleaded at $1.99 9/10 per gallon. The image has a faded, nostalgic color filter. Text overlays appear in phrases in sync with the accompanying song.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post is from the official @democrats account and nostalgically presents low gas prices, implying these occurred under a favorable Democratic administration."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The mournful tone about past low gas prices serves as an implicit criticism of the current or most recent administration (implied to be Republican) for higher prices."
+    },
+    {
+      "name": "CITGO",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CITGO gas station logo and price sign are the central visual of the entire video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "CITGO",
+      "role": "other"
+    },
+    {
+      "text": "1 99 9/10",
+      "role": "other"
+    },
+    {
+      "text": "REGULAR UNLEADED",
+      "role": "other"
+    },
+    {
+      "text": "2 14 9/10",
+      "role": "other"
+    },
+    {
+      "text": "MID GRADE UNLEADED",
+      "role": "other"
+    },
+    {
+      "text": "2 21 9/10",
+      "role": "other"
+    },
+    {
+      "text": "SUPER PREMIUM",
+      "role": "other"
+    },
+    {
+      "text": "THINK I'LL MISS YOU FOREVER",
+      "role": "overlay"
+    },
+    {
+      "text": "LIKE THE STARS MISS THE SUN IN THE MORNING SKY",
+      "role": "overlay"
+    },
+    {
+      "text": "LATER'S BETTER THAN NEVER",
+      "role": "overlay"
+    },
+    {
+      "text": "EVEN IF YOU'RE GONE, I'M GONNA DRIVE (DRIVE), DRIVE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A female vocalist sings a melancholic, reverb-heavy song. The lyrics largely match the on-screen text, including lines like \"Think I'll miss you forever\" and \"Like the stars miss the sun in the morning sky.\" The final sung lyric is \"I'm gonna try,\" which diverges from the on-screen text which reads \"I'M GONNA DRIVE.\"",
+  "emojis_present": [
+    "🥀"
+  ],
+  "audio_music": "A continuous, melancholic, and atmospheric pop song with a female vocalist. The track has a dreamy, reverb-heavy quality that creates a strong sense of nostalgia and sadness, reinforcing the visual theme of longing for the past.",
+  "editing_pacing": "The video consists of a single static image. Text is overlaid on top, with phrases appearing sequentially in time with the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "nostalgia",
+    "sadness",
+    "loss",
+    "implied resentment"
+  ],
+  "cultural_references": [
+    "The audio and on-screen text use lyrics from the song 'Summertime Sadness' by Lana Del Rey.",
+    "The audio is a 'slowed + reverb' version of the song, a popular editing style on TikTok used to evoke nostalgia and sadness."
+  ],
+  "central_claim": "Low gas prices from a past, implied Democratic, era are gone, and Americans are worse off for it.",
+  "intended_effect": "To make viewers feel nostalgic for a time of lower gas prices and resentful of the current political leadership for the present, presumably higher, prices.",
+  "uncertainty_flags": [
+    "It is not explicitly stated which political administration is associated with the low gas prices shown, making the specific time period being referenced ambiguous."
+  ]
+}

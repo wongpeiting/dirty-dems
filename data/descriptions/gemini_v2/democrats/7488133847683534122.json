@@ -1,0 +1,122 @@
+{
+  "video_id": "7488133847683534122",
+  "visual_action": "The video shows a clip of Elon Musk speaking at the Conservative Political Action Conference (CPAC), as indicated by a C-SPAN chyron. Musk, wearing a cap and sunglasses, gestures as he speaks. After his clip, the video cuts to a static screenshot of a Politico news article with the headline: \"White House Correspondents' Association cancels comedian headliner for annual dinner.\"",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, shown in a C-SPAN clip and identified by both face recognition and an on-screen chyron."
+    },
+    {
+      "name": "The Left",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Elon Musk claims, \"the sort of the left wanted to make comedy illegal.\""
+    },
+    {
+      "name": "White House Correspondents' Association",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The organization is the subject of the Politico headline shown on screen: \"White House Correspondents' Association cancels comedian headliner for annual dinner.\""
+    },
+    {
+      "name": "Conservative Political Action Conference (CPAC)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The event where Musk is speaking is identified on the chyron and the background visuals as \"CONSERVATIVE POLITICAL ACTION CONFERENCE (CPAC).\""
+    },
+    {
+      "name": "C-SPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN logo is visible on the chyron during the broadcast clip of Elon Musk."
+    },
+    {
+      "name": "Politico",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video concludes with a screenshot of an article from Politico, with the publication's name visible at the top."
+    },
+    {
+      "name": "Eugene Daniels",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the sub-headline of the Politico article as \"WHCA President Eugene Daniels.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"Legalize comedy\" 🤔🤔🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "CONSERVATIVE POLITICAL ACTION CONFERENCE (CPAC)",
+      "role": "chyron"
+    },
+    {
+      "text": "ELON MUSK",
+      "role": "chyron"
+    },
+    {
+      "text": "Tesla & SpaceX CEO",
+      "role": "chyron"
+    },
+    {
+      "text": "X (Formerly Twitter) Owner",
+      "role": "chyron"
+    },
+    {
+      "text": "Department of Government Efficiency (DOGE)\nChair",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "POLITICO",
+      "role": "other"
+    },
+    {
+      "text": "White House Correspondents' Association cancels comedian headliner for annual dinner",
+      "role": "overlay"
+    },
+    {
+      "text": "The group's board unanimously decided it would no longer feature a comedic performance, WHCA President Eugene Daniels wrote in an email Saturday.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Elon Musk claims that \"the left wanted to make comedy illegal\" and that people \"can't make fun of anything.\" He concludes by yelling, to audience applause, \"Legalize comedy!\"",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The audio consists of Elon Musk's unfiltered speech at a conference, followed by the sound of audience cheers and applause.",
+  "editing_pacing": "The video consists of a single clip of a speech, which then cuts to a static screenshot of a news article.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post juxtaposes Elon Musk's claim at CPAC that 'the left' is making comedy illegal with a Politico headline reporting that the White House Correspondents' Association is canceling its comedian, thereby mocking Musk and suggesting the issue is not exclusive to 'the left'.",
+  "intended_effect": "To make the viewer see Elon Musk's claim as ironic or hypocritical.",
+  "uncertainty_flags": [
+    "The date of the Politico article is not shown, so its temporal relationship to Musk's speech is unclear."
+  ]
+}

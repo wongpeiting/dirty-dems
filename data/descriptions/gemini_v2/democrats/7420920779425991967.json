@@ -1,0 +1,49 @@
+{
+  "video_id": "7420920779425991967",
+  "visual_action": "A person on a New York City sidewalk films a truck with a large digital billboard on its side. The billboard displays an ad featuring a photo of JD Vance with text over it. As the truck drives away, the display on the billboard changes to a grid of alternating photos of JD Vance and Donald Trump against a red background.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is shown on the digital billboard on the truck, and his voice is heard in the audio clip repeating a past statement."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "He is named in the on-screen text 'i'm a never trump guy'. A small photo of his face is also superimposed on the ad, and his photo appears in a grid with JD Vance's at the end."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Spotted in NY on the day of the VP debate 😭",
+      "role": "caption"
+    },
+    {
+      "text": "i'm a never trump guy",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a repeated soundbite, presumably of JD Vance, saying, \"I'm a never Trump guy.\"",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "A single audio clip of a male voice saying \"I'm a never Trump guy\" is looped continuously throughout the video. There is no music. The repetition serves to mock and emphasize the statement.",
+  "editing_pacing": "The video is a single, continuous, handheld shot that pans to follow a truck driving down the street.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "On the digital billboard, the text 'i'm a never trump guy' is visually altered. A small image of Donald Trump's face is superimposed over the word 'a', and the word 'never' is crossed out with a red line. This manipulates the original quote to mockingly suggest Vance is now a 'Trump guy'.",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "JD Vance has hypocritically reversed his previous \"Never Trump\" stance, a fact being highlighted on the day of the VP debate.",
+  "intended_effect": "To portray JD Vance as an unprincipled political opportunist and to ridicule his past statements in light of his current political alignment.",
+  "uncertainty_flags": [
+    "The identity of the speaker in the audio clip is presumed to be JD Vance but is not explicitly confirmed in the video."
+  ]
+}

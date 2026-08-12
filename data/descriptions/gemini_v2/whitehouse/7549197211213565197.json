@@ -1,0 +1,112 @@
+{
+  "video_id": "7549197211213565197",
+  "visual_action": "Donald Trump is interviewed on a television news set, identified by a chyron as 'Fox & Friends'. He sits on a white couch with three other hosts, two men and a woman. The camera starts with a medium shot of the four individuals and then cuts to a closer shot of Trump as he speaks.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face recognition, on-screen chyron 'PRESIDENT TRUMP LIVE ON FOX & FRIENDS', and is the main speaker in the video."
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the main overlay text: 'President Trump Announces Suspect in Charlie Kirk's Assassination Is In Custody'. The interview is about the suspect in this event."
+    },
+    {
+      "name": "Fox & Friends",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news program is identified by a chyron reading 'PRESIDENT TRUMP LIVE ON FOX & FRIENDS' and the Fox News logo."
+    },
+    {
+      "name": "unnamed female host",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman sitting next to Trump on the couch asks the opening question: 'Any updates on the suspect?'"
+    },
+    {
+      "name": "unnamed male hosts",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Two other men are visible on the couch as hosts of the program but do not speak in the clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🇨🇭President Trump Announces Suspect in Charlie Kirk's Assassination Is In Custody",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT TRUMP LIVE ON FOX & FRIENDS",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "overlay"
+    },
+    {
+      "text": "Any updates on the suspect? Yeah.",
+      "role": "caption"
+    },
+    {
+      "text": "Can I always say, I think, just to protect us all",
+      "role": "caption"
+    },
+    {
+      "text": "And so, Fox doesn't get sued, and we all don't get sued and everything else.",
+      "role": "caption"
+    },
+    {
+      "text": "But I think, with a high degree of certainty, we have him in custody.",
+      "role": "caption"
+    },
+    {
+      "text": "Ok. In custody.",
+      "role": "caption"
+    },
+    {
+      "text": "Everyone did a great job.",
+      "role": "caption"
+    },
+    {
+      "text": "We worked with the local police, the governor.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An unnamed female host on what appears to be 'Fox & Friends' asks Donald Trump for an update on a suspect. Trump, after a brief disclaimer about potential lawsuits against Fox, announces with 'a high degree of certainty' that the suspect is in custody. He concludes by saying everyone, including local police and the governor, did a great job.",
+  "emojis_present": [
+    "🇨🇭",
+    "🙏"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the news interview, with the ambient sound of a television studio. There is no music or added sound effects.",
+  "editing_pacing": "The video uses simple editing, starting with a medium shot of the panel and then cutting to a closer shot of Donald Trump as he delivers his announcement. The pacing is consistent with a live news broadcast.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "reassurance",
+    "authority"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump has announced that the suspect in the assassination of Charlie Kirk has been apprehended and is in custody.",
+  "intended_effect": "To reassure the public that law enforcement has successfully captured a dangerous suspect and to project an image of competence and control by the administration.",
+  "uncertainty_flags": [
+    "The significance of the Swiss flag emoji (🇨🇭) in the on-screen overlay text is unclear."
+  ]
+}

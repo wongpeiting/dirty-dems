@@ -1,0 +1,73 @@
+{
+  "video_id": "7591144062476979469",
+  "visual_action": "A video shows a wide, panning shot of a city skyline at dusk or dawn, with traffic visible on the streets below. In the center of the screen, a static overlay of a tweet, purportedly from Donald J. Trump, is displayed throughout the clip.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet screenshot is shown from the account \"Donald J. Trump @realDonaldTrump\" and is signed \"President DONALD J. TRUMP\"."
+    },
+    {
+      "name": "Nicolás Maduro",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet states that \"President Nicolas Maduro, who has been, along with his wife, captured and flown out of the country.\""
+    },
+    {
+      "name": "United States of America",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet begins, \"The United States of America has successfully carried out a large scale strike...\""
+    },
+    {
+      "name": "Venezuela",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet mentions a \"large scale strike against Venezuela and its leader\"."
+    },
+    {
+      "name": "U.S. Law Enforcement",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet states, \"This operation was done in conjunction with U.S. Law Enforcement.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "The United States of America has successfully carried out a large scale strike against Venezuela and its leader, President Nicolas Maduro, who has been, along with his wife, captured and flown out of the country. This operation was done in conjunction with U.S. Law Enforcement. Details to follow. There will be a News Conference today at 11 A.M., at Mar-a-Lago. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of ambient city sounds, including traffic and distant sirens.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of continuous ambient sounds of a city, including traffic noise and faint sirens, creating a backdrop of urban activity.",
+  "editing_pacing": "The video consists of a single, slow-panning shot with a static graphic overlay. The pacing is slow and constant.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated screenshot of a tweet, designed to look like it was posted by Donald J. Trump's official account. This fake tweet announces a major, unsubstantiated geopolitical event and is superimposed over unrelated B-roll footage of a city.",
+  "emotions_signaled": [
+    "alarm",
+    "urgency",
+    "shock"
+  ],
+  "cultural_references": [],
+  "central_claim": "The United States has conducted a strike against Venezuela and captured its president, Nicolás Maduro, an event announced by President Donald J. Trump via Twitter.",
+  "intended_effect": "To mislead viewers into believing a major international military and law enforcement action has just occurred by presenting a fabricated official announcement.",
+  "uncertainty_flags": [
+    "The provided audio transcript is incorrect; there is no speech in the video, only ambient city noise."
+  ]
+}

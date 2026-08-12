@@ -1,0 +1,65 @@
+{
+  "video_id": "7667963998045768974",
+  "visual_action": "In a formal hearing room, a man in a suit speaks angrily from a dais. The video cuts between a close-up of him speaking, a close-up of Dr. Anthony Fauci listening with a neutral expression, and a wider shot of the room where other people are seated.",
+  "cast": [
+    {
+      "name": "Rich McCormick",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking throughout the video, shown in close-up."
+    },
+    {
+      "name": "Anthony Fauci",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a reaction shot and is the person being directly addressed and criticized by the speaker. A chyron partially identifies him as 'DR. ANTHONY F...'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker refers to his 'Democrat colleagues' defending Dr. Fauci."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DR. ANTHONY F",
+      "role": "chyron"
+    },
+    {
+      "text": "FIFTH AMENDMENT AT",
+      "role": "chyron"
+    },
+    {
+      "text": "AUDIO RECORDINGS OF JOE",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. SENATE CONSIDERS BUS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A congressman angrily confronts Dr. Anthony Fauci, asking, \"who the f*** do you think you were for doing that?\" He calls Fauci's past actions a \"total disgrace\" to the country and criticizes his \"Democrat colleagues\" for defending him. The speaker accuses Fauci of being \"more interested in being a celebrity than saving American people.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of the man's speech, with the natural acoustics and ambient sound of a large hearing room. There is no music.",
+  "editing_pacing": "The editing consists of simple cuts, primarily alternating between the speaker and a reaction shot of Dr. Fauci.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "outrage",
+    "contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "Dr. Anthony Fauci's actions were a disgrace to the country because he was more concerned with being a celebrity than with public health, and Democrats who defend him should be held accountable by voters.",
+  "intended_effect": "To generate anger towards Dr. Fauci and the Democratic party, and to portray the Republican speaker as holding them accountable.",
+  "uncertainty_flags": [
+    "The on-screen news chyron is partially cut off, so its full text and context are unclear."
+  ]
+}

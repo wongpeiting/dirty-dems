@@ -1,0 +1,79 @@
+{
+  "video_id": "7527399428878109965",
+  "visual_action": "The video displays a screenshot of what appears to be an article from The Atlantic. The headline reads, \"The Trump Administration Is About to Incinerate 500 Tons of Emergency Food,\" accompanied by an illustration of a burlap sack labeled \"USAID\" with flames and smoke coming out of the top. The video then transitions to a screenshot of the article's text, with some sentences highlighted in yellow. A broken heart emoji is displayed at the top of the second screen.",
+  "cast": [
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen article headline and body text repeatedly name \"The Trump Administration\"."
+    },
+    {
+      "name": "The Atlantic",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name \"The Atlantic\" appears at the top of the article screenshot."
+    },
+    {
+      "name": "USAID",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The USAID logo is visible on the burning sack in the article's illustrative image."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "they're using taxpayer money for this",
+      "role": "overlay"
+    },
+    {
+      "text": "The Atlantic",
+      "role": "other"
+    },
+    {
+      "text": "The Trump Administration Is About to Incinerate 500 Tons of Emergency Food",
+      "role": "overlay"
+    },
+    {
+      "text": "USAID",
+      "role": "overlay"
+    },
+    {
+      "text": "JULY 14, 2026, 10:21 PM ET",
+      "role": "overlay"
+    },
+    {
+      "text": "💔",
+      "role": "overlay"
+    },
+    {
+      "text": "Five months into its unprecedented dismantling of foreign-aid programs, the Trump administration has given the order to incinerate food instead of sending it to people abroad who need it. Nearly 500 metric tons of emergency food—enough to feed about 1.5 million children for a week—are set to expire tomorrow, according to current and former government employees with direct knowledge of the rations. Within weeks, two of those sources told me, the food, meant for children in Afghanistan and Pakistan, will be ash. (The sources I spoke with for this story requested anonymity for fear of professional repercussions.)",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists solely of a song.",
+  "emojis_present": [
+    "💔"
+  ],
+  "audio_music": "A slow, melancholic indie song (identified as \"I Bet on Losing Dogs\" by Mitski) plays throughout the video, creating a sad and somber tone.",
+  "editing_pacing": "The video is a simple slideshow, transitioning from one static screenshot to another.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a staged fake document. It presents a screenshot of a purported article from *The Atlantic* with a future date (July 14, 2026). The article text also contains an internal contradiction, stating that food is 'set to expire tomorrow,' which is inconsistent with the future dateline. This suggests the document was fabricated to lend journalistic credibility to a political attack.",
+  "emotions_signaled": [
+    "Sadness",
+    "Anger",
+    "Outrage"
+  ],
+  "cultural_references": [
+    "I Bet on Losing Dogs — Mitski"
+  ],
+  "central_claim": "The Trump administration is using taxpayer money to cruelly incinerate 500 tons of emergency food aid instead of sending it to people in need.",
+  "intended_effect": "To evoke anger and sadness towards the Trump administration for what the post portrays as a cruel and wasteful policy.",
+  "uncertainty_flags": []
+}

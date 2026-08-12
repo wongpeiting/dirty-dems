@@ -1,0 +1,47 @@
+{
+  "video_id": "7390202655831756063",
+  "visual_action": "Joe Biden, wearing a blue suit, red and blue striped tie, and aviator sunglasses, stands outdoors in front of a large green hedge. He speaks directly to the camera while pointing his right index finger forward.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Joe Biden is the sole person shown on screen and delivers the entire spoken message."
+    },
+    {
+      "name": "Project 2025",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The name 'Project 2025' is featured prominently in the on-screen text and is the subject of the spoken message, which describes it as something that 'will destroy America'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Project 2025\nwill destroy America.",
+      "role": "overlay"
+    },
+    {
+      "text": "Look it up.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Joe Biden states directly, \"Project 2025 will destroy America. Look it up.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of Joe Biden's spoken dialogue. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Project 2025 is a plan that poses an existential threat to America.",
+  "intended_effect": "To create a sense of alarm and urgency about Project 2025, and to motivate viewers to research it and oppose it.",
+  "uncertainty_flags": []
+}

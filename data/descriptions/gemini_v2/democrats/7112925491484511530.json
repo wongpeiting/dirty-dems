@@ -1,0 +1,62 @@
+{
+  "video_id": "7112925491484511530",
+  "visual_action": "Beto O'Rourke stands indoors, wearing a white button-down shirt, and speaks directly to the camera in a static, medium close-up shot. He gestures with his hands while talking.",
+  "cast": [
+    {
+      "name": "Beto O'Rourke",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and speaks for the entire duration of the video. On-screen text identifies him by name."
+    },
+    {
+      "name": "Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly states the video is about 'the importance of electing Democrats.'"
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "O'Rourke begins his speech by stating, 'The Supreme Court has overturned Roe versus Wade.'"
+    },
+    {
+      "name": "Greg Abbott",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "O'Rourke mentions a 'trigger law signed by Greg Abbott' in Texas."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Beto O'Rourke on the importance of electing Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "@betoorourke",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Beto O'Rourke discusses the Supreme Court's decision to overturn Roe v. Wade, calling it 'devastating for women,' particularly in Texas where a 'trigger law signed by Greg Abbott' will outlaw abortion with no exceptions for rape or incest. He urges viewers to 'do everything within our power' to overcome this by 'winning political power on the night of November 8th.'",
+  "emojis_present": [],
+  "audio_music": "The video consists solely of Beto O'Rourke's spoken words. There is no background music or other audio.",
+  "editing_pacing": "The video is a single, uncut, static shot of a person speaking directly to the camera (a talking-head format).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "To protect abortion rights following the overturning of Roe v. Wade, it is essential to elect Democrats and win political power in the November 8th election.",
+  "intended_effect": "To mobilize voters to support Democratic candidates by framing the election as a direct and necessary response to the loss of abortion rights.",
+  "uncertainty_flags": []
+}

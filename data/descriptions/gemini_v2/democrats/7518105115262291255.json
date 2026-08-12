@@ -1,0 +1,87 @@
+{
+  "video_id": "7518105115262291255",
+  "visual_action": "A static image of a graphic designed to look like a Fox News poll. The poll is titled \"THE ONE BIG BEAUTIFUL BILL\" and presents two pie charts. The first, \"Opinion of OBBB?\", shows 59% \"Oppose\" and 38% \"Favor\". The second, \"For your family, OBBB will...\", shows 49% \"Hurt\", 26% \"Make No Difference\", and 23% \"Help\". The source is listed as a Fox News Poll conducted in June 2025.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen overlay text refers to \"Trump's bill\"."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The graphic is labeled \"FOX NEWS POLL\" and the source is cited as \"Source: Fox News Poll\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Fox dropped a poll showing that a MAJORITY of Americans hate Trump's bill 🫢",
+      "role": "caption"
+    },
+    {
+      "text": "FOX NEWS POLL",
+      "role": "chyron"
+    },
+    {
+      "text": "THE ONE BIG BEAUTIFUL BILL",
+      "role": "chyron"
+    },
+    {
+      "text": "Opinion of OBBB?",
+      "role": "overlay"
+    },
+    {
+      "text": "Oppose 59%",
+      "role": "overlay"
+    },
+    {
+      "text": "Favor 38%",
+      "role": "overlay"
+    },
+    {
+      "text": "For your family, OBBB will...",
+      "role": "overlay"
+    },
+    {
+      "text": "Hurt 49%",
+      "role": "overlay"
+    },
+    {
+      "text": "Make No Difference 26%",
+      "role": "overlay"
+    },
+    {
+      "text": "Help 23%",
+      "role": "overlay"
+    },
+    {
+      "text": "Source: Fox News Poll\nConducted: June 13-16, 2025\nRegistered Voters +/- 3% Pts.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio, only background music.",
+  "emojis_present": [
+    "🫢"
+  ],
+  "audio_music": "A rhythmic, modern instrumental track, identified as \"Better Call Saul Theme Ohio,\" plays throughout, lending a dramatic and serious tone to the presentation of the poll results.",
+  "editing_pacing": "The video consists of a single, static image with no edits, cuts, or motion.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated 'Fox News Poll' graphic. The name of the legislation, 'THE ONE BIG BEAUTIFUL BILL,' is a satirical invention designed to mimic and mock Donald Trump's characteristic speaking style. The poll data is presented as factual within this fabricated context to criticize him.",
+  "emotions_signaled": [
+    "Mockery",
+    "Schadenfreude",
+    "Vindication"
+  ],
+  "cultural_references": [
+    "Better Call Saul"
+  ],
+  "central_claim": "A Fox News poll allegedly shows that a majority of Americans oppose Donald Trump's signature bill and believe it would hurt their families.",
+  "intended_effect": "To persuade the audience that Donald Trump's policies are deeply unpopular, even according to a source often seen as favorable to him, thereby validating opposition to him.",
+  "uncertainty_flags": []
+}

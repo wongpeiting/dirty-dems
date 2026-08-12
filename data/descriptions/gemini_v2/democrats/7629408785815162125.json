@@ -1,0 +1,63 @@
+{
+  "video_id": "7629408785815162125",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named \"FactPost\". The tweet shows two photos side-by-side: on the left, a man in a suit speaks animatedly at a microphone, and on the right, a woman in a flight suit stands next to a military helicopter. After a few seconds, the video slowly zooms in on the photo of the woman and the helicopter, which remains on screen for the rest of the clip.",
+  "cast": [
+    {
+      "name": "Tammy Duckworth",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name appears in the on-screen text: \"praising Senator Tammy Duckworth for her service.\""
+    },
+    {
+      "name": "U.S. Army",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text begins, \"The Army has shut down...\""
+    },
+    {
+      "name": "Adam Kinzinger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photograph of him speaking at a microphone is shown on the left side of the tweet screenshot."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is a screenshot of a tweet from the account \"FactPost\" with the handle \"@Factpostnews\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @Factpostnews The Army has shut down several U.S. military-affiliated social media accounts after they published content praising Senator Tammy Duckworth for her service.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A somber and melancholic instrumental track, identified as \"Cooled Night\" by Green Oxie, plays throughout the video, creating a serious and reflective mood. The TikTok sound is labeled \"how to never stop being sad.\"",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot, followed by a slow zoom (Ken Burns effect) into one of the photos within the tweet. The pacing is very slow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Concern",
+    "Outrage",
+    "Somberness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The U.S. Army is censoring its own social media accounts to suppress praise for Democratic Senator and veteran Tammy Duckworth.",
+  "intended_effect": "To generate admiration for Tammy Duckworth's service while simultaneously fostering outrage and concern over perceived political censorship within the U.S. Army.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet and whether it is a real news source cannot be verified from the video.",
+    "The reason for including Adam Kinzinger's photo is not explained in the video."
+  ]
+}

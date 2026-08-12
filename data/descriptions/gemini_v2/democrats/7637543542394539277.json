@@ -1,0 +1,62 @@
+{
+  "video_id": "7637543542394539277",
+  "visual_action": "The video starts with a still photograph of Donald Trump looking concerned. Text is overlaid on the image. It then transitions to a three-panel vertical layout showing clips of Trump speaking outdoors, presumably to reporters. The same clip is used in each panel, but with different on-screen text captions to show a short question-and-answer sequence.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "His face is shown in a still photo and in video clips, and the on-screen text attributes a quote to him."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A question directed at Trump is displayed as on-screen text, implying it was asked by a reporter."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I HOPE NOT...",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump on whether hantavirus will spread in the United States",
+      "role": "overlay"
+    },
+    {
+      "text": "Should Americans be concerned that [hantavirus] is going to spread?",
+      "role": "chyron"
+    },
+    {
+      "text": "I hope not...",
+      "role": "chyron"
+    },
+    {
+      "text": "I mean, I *hope* not...",
+      "role": "chyron"
+    },
+    {
+      "text": "MOMENTS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no audible speech in the video; the dialogue is conveyed entirely through on-screen text. The text shows a question to Trump about hantavirus and his reply, \"I hope not... I mean, I *hope* not...\"",
+  "emojis_present": [],
+  "audio_music": "A dramatic, fast-paced, and somewhat frantic instrumental track plays throughout the video, creating a sense of alarm or absurdity.",
+  "editing_pacing": "The editing consists of a static image followed by a static three-panel layout of short video clips. The pacing is not dynamic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "alarm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's response to the potential spread of hantavirus was un-reassuring and demonstrated his incompetence in handling public health threats.",
+  "intended_effect": "To portray Donald Trump as a foolish and incompetent leader, and to make the viewer feel concerned about his ability to manage crises.",
+  "uncertainty_flags": []
+}

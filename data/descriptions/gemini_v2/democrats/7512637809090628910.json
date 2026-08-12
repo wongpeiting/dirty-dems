@@ -1,0 +1,74 @@
+{
+  "video_id": "7512637809090628910",
+  "visual_action": "Alexandria Ocasio-Cortez stands outdoors in front of a stone building with columns, responding to a question from an off-screen person. The video clip has a \"Spectrum News\" logo in the corner. The video is framed with black bars at the top and bottom, which contain text overlays.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown on screen speaking and is the subject of the video's framing text, \"AOC reacts...\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned in the on-screen text \"AOC reacts to the Trump/Elon drama\" and in the spoken dialogue as \"President Trump\"."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned in the on-screen text \"AOC reacts to the Trump/Elon drama\" and in the spoken dialogue as \"Elon Musk\"."
+    },
+    {
+      "name": "Unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks the question that prompts Ocasio-Cortez's response."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AOC reacts to the Trump/Elon drama",
+      "role": "overlay"
+    },
+    {
+      "text": "QUICK REACTION ON WHAT'S GOING ON WITH ELON MUSK AND PRESIDENT TRUMP ON TWITTER RIGHT NOW?",
+      "role": "overlay"
+    },
+    {
+      "text": "THE GIRLS ARE FIGHTING, AREN'T THEY?",
+      "role": "overlay"
+    },
+    {
+      "text": "SPECTRUM NEWS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Alexandria Ocasio-Cortez for a \"quick reaction on what's going on with Elon Musk and President Trump on Twitter right now.\" Ocasio-Cortez smiles and replies, \"Oh man, the girls are fighting, aren't they?\"",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue without any background music or sound effects.",
+  "editing_pacing": "The video is a single static shot of a person speaking. Text is overlaid on the screen, appearing sequentially to match the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "The phrase 'the girls are fighting' is a pop culture/internet slang term used to humorously describe a conflict or drama."
+  ],
+  "central_claim": "The conflict between Donald Trump and Elon Musk is petty, unserious drama.",
+  "intended_effect": "To amuse the viewer and frame the conflict between Trump and Musk as childish, while positioning Ocasio-Cortez as witty and above the fray.",
+  "uncertainty_flags": []
+}

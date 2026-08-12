@@ -1,0 +1,80 @@
+{
+  "video_id": "7405235374609517866",
+  "visual_action": "A montage of scenes from the 2024 Democratic National Convention in a large, crowded arena. Joe Biden is shown on stage, smiling and interacting with a woman, raising her hand in victory. He is also shown at a podium. The video includes wide shots of a massive, cheering crowd holding signs, and reaction shots of Kamala Harris and an older man in the audience, both clapping and smiling emotionally. The branding \"DNC 2024\" is prominent on screens throughout the venue.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Joe Biden is the central figure shown on stage and at the podium, and the on-screen text 'THANK YOU, JOE!' is explicitly about him."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Kamala Harris is shown in a brief reaction shot in the audience, clapping and smiling."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The event is explicitly identified as the 'Democratic National Convention' with 'DNC 2024' branding visible throughout the venue."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THANK YOU, JOE!",
+      "role": "overlay"
+    },
+    {
+      "text": "DNC 2024",
+      "role": "other"
+    },
+    {
+      "text": "Democratic National Convention",
+      "role": "other"
+    },
+    {
+      "text": "AUGUST 19-22",
+      "role": "other"
+    },
+    {
+      "text": "CHICAGO",
+      "role": "other"
+    },
+    {
+      "text": "WE ♥ JOE",
+      "role": "other"
+    },
+    {
+      "text": "WE Fight FOR JOE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists entirely of a song with lyrics.",
+  "emojis_present": [
+    "♥"
+  ],
+  "audio_music": "The video features the upbeat and celebratory song '(Your Love Keeps Lifting Me) Higher And Higher' by Jackie Wilson throughout, creating an uplifting and positive tone.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between wide shots of the convention hall, medium shots of Joe Biden on stage, and close-up reaction shots of audience members.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Pride",
+    "Celebration",
+    "Unity"
+  ],
+  "cultural_references": [
+    "Features the classic R&B song '(Your Love Keeps Lifting Me) Higher and Higher' by Jackie Wilson."
+  ],
+  "central_claim": "Joe Biden is a celebrated and appreciated leader of the Democratic Party, as shown by the enthusiastic support at the 2024 DNC.",
+  "intended_effect": "To evoke feelings of gratitude and admiration for Joe Biden and to project an image of a unified and celebratory Democratic Party.",
+  "uncertainty_flags": []
+}

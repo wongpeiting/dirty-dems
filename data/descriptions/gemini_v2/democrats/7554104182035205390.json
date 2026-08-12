@@ -1,0 +1,59 @@
+{
+  "video_id": "7554104182035205390",
+  "visual_action": "A montage of clips shows Donald Trump and Javier Milei interacting. They are seen shaking hands while seated, with Milei smiling broadly. Subsequent clips show them hugging and standing together, with Milei giving a thumbs-up.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually present throughout the video and is named in the on-screen text: '(Trump cooked the US economy on purpose btw)'."
+    },
+    {
+      "name": "Javier Milei",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown interacting with Donald Trump. The caption 'argentina first?' combined with his distinct appearance strongly implies he is the President of Argentina, Javier Milei. The on-screen text refers to him as 'my boy'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account, making them the author of the message."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "me giving my boy $20 billion to unfuck his economy",
+      "role": "meme_text"
+    },
+    {
+      "text": "(Trump cooked the US economy on purpose btw)",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The audio consists entirely of a hip-hop/R&B song, identified as \"Legendary\" by Yung Bleu. The provided transcript (\"I want to be like a hero, but I'm a writer Floating like a butterfly, sticking like a pea\") appears to be an inaccurate automated transcription of the song's lyrics.",
+  "emojis_present": [],
+  "audio_music": "An emotional hip-hop/R&B track plays consistently throughout the video, creating a serious and somewhat dramatic tone that contrasts with the sarcastic and critical nature of the on-screen text.",
+  "editing_pacing": "The video is a short montage with simple cuts between different clips showing the two men interacting.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Criticism",
+    "Alarm",
+    "Suspicion",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The song playing is \"Legendary\" by Yung Bleu.",
+    "The video uses a common internet meme format where explanatory or sarcastic text is overlaid on a video clip to re-contextualize it."
+  ],
+  "central_claim": "Donald Trump, having intentionally damaged the US economy, would prioritize sending billions of dollars to foreign allies like Javier Milei over helping Americans if he were president again.",
+  "intended_effect": "To generate opposition to Donald Trump by portraying him as a threat to the U.S. economy who favors personal relationships with foreign leaders over the national interest.",
+  "uncertainty_flags": []
+}

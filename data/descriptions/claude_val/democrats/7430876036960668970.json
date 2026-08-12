@@ -1,0 +1,52 @@
+{
+  "video_id": "7430876036960668970",
+  "visual_action": "The video is a slideshow of still photos and video clips. It opens with a stage scene showing Kamala Harris (face forward, smiling) embracing a blonde woman whose back is to the camera, in front of a crowd with pink lighting — the overlay text appears here. A split-screen then shows the same stage embrace on the left and a backstage photo on the right. Subsequent frames show backstage still photos of Beyoncé (identifiable by appearance) and Kamala Harris laughing together in front of a white draped curtain, both in dark attire. The final frames show Beyoncé alone on a stage or rally venue, holding a microphone, waving and smiling at a large crowd.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Face confirmed by authoritative face-ID; shown embracing Beyoncé on stage and laughing backstage"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen overlay text reads 'I think Trump is... jealous?'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I think Trump is... jealous? 🤭",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue detected in the transcript. The audio track is a music-only post — no voiceover or speech.",
+  "emojis_present": [
+    "🤭"
+  ],
+  "audio_music": "The audio fingerprint identifies the track throughout as \"Dance Party With Beyonce\" by TRAVY HIT$, present from the start (~0.0s) and continuing at least through 5.1s. The track is upbeat and celebratory in feel, fitting the joyful, energetic imagery of the slideshow.",
+  "editing_pacing": "Slideshow format with slow dissolves or cuts between still photos and short video clips. Pacing is moderate and relaxed, letting each image linger. No fast cuts or speed ramps.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "joy and excitement — conveyed by smiling, laughing images of Harris and Beyoncé together",
+    "playful teasing — conveyed by the 'I think Trump is... jealous? 🤭' overlay",
+    "pride — conveyed by celebratory imagery of a star-studded rally appearance"
+  ],
+  "cultural_references": [
+    "Beyoncé — the globally famous pop and R&B superstar is shown in multiple frames at what appears to be a Kamala Harris campaign rally or event, waving and holding a microphone on stage and laughing backstage with Harris; her name is also referenced in the fingerprinted song title 'Dance Party With Beyonce'"
+  ],
+  "central_claim": "Beyoncé's appearance at a Kamala Harris campaign event was a major star-power moment that, the post implies playfully, should make Donald Trump jealous.",
+  "intended_effect": "To generate excitement and enthusiasm among Harris supporters by highlighting Beyoncé's celebrity endorsement, while playfully taunting Trump with the suggestion that he is envious of the star power on Harris's side.",
+  "uncertainty_flags": [
+    "The specific event/rally at which Beyoncé appeared with Harris is not identified in the content — likely a 2024 campaign event but not confirmed from visuals alone.",
+    "The blonde woman seen from behind on stage in the first frame is inferred to be Beyoncé based on context and later frames, but her face is not visible in that shot.",
+    "No spoken audio/transcript available to confirm any verbal claims.",
+    "The account caption is empty, so no additional textual context is available."
+  ]
+}

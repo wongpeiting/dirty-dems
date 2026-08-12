@@ -1,0 +1,166 @@
+{
+  "video_id": "7582363195193576717",
+  "visual_action": "A fast-paced montage of various Democratic politicians is shown, all with a blue color grading. The video opens and closes with the Democratic Party donkey logo superimposed over an American flag. Clips include Barack Obama speaking, Gavin Newsom laughing, Bernie Sanders laughing, Alexandria Ocasio-Cortez smiling, Raphael Warnock waving to a crowd, Nancy Pelosi surrounded by press, and others at rallies and public appearances.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The party's donkey logo is shown at the beginning and end of the video, and the post is from the official @democrats account."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A clip shows him speaking to an audience."
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in two clips: one laughing with other men, and another interacting with Donald Trump on an airport tarmac."
+    },
+    {
+      "name": "J B Pritzker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a clip laughing alongside Gavin Newsom."
+    },
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A clip shows him laughing heartily in a studio setting."
+    },
+    {
+      "name": "Alexandria Ocasio Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a clip smiling towards the camera."
+    },
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a brief, blurry clip."
+    },
+    {
+      "name": "Raphael Warnock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown walking onto a stage at a rally, waving to a crowd."
+    },
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in one clip standing by a car and another clip in a baseball uniform waving."
+    },
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown smiling and clapping while walking down a street. A podium at a rally later displays the text 'TEXT ABIGAIL TO 55105'."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified on screen via authoritative face-ID, shown speaking at a 'VIRGINIA VOTES' rally."
+    },
+    {
+      "name": "Pete Buttigieg",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a brief, blurry clip walking outdoors."
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a green jacket being surrounded by reporters with microphones."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown briefly in a clip interacting with Gavin Newsom on an airport tarmac."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "SPECTRUM NEWS 1",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "VOTE",
+      "role": "other"
+    },
+    {
+      "text": "VIRGINIA VOTES",
+      "role": "overlay"
+    },
+    {
+      "text": "TEXT ABIGAIL TO 55105",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. The audio consists entirely of the song \"Gnarly\" by KATSEYE, with lyrics like \"gang gang gang\" and \"naughty.\"",
+  "emojis_present": [
+    "🌊"
+  ],
+  "audio_music": "A high-energy, upbeat pop/hip-hop track ('Gnarly' by KATSEYE) plays consistently throughout the video, giving it a modern, hype-video feel.",
+  "editing_pacing": "The video is a fast-paced montage with very quick cuts between various clips of politicians.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "pride",
+    "energy"
+  ],
+  "cultural_references": [
+    "Jake Gyllenhaal",
+    "KATSEYE (musical artist)"
+  ],
+  "central_claim": "The Democratic Party is a dynamic and powerful force with a diverse slate of popular leaders.",
+  "intended_effect": "To generate excitement and positive association with the Democratic Party, portraying it as a cool and energetic movement.",
+  "uncertainty_flags": [
+    "The authoritative face-ID identifies a speaker as Zohran Mamdani, but the man on screen strongly resembles actor Jake Gyllenhaal and is speaking at a rally in Virginia, which is inconsistent with Mamdani's political district (New York)."
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "video_id": "7661769514748480781",
+  "visual_action": "Donald Trump speaks at a podium with the presidential seal. Behind him stands Marco Rubio. The video then transitions to a fast-paced montage of screenshots of news article headlines, each highlighting a multi-billion dollar investment in the United States by a major corporation. The dollar amount in each headline is highlighted in yellow, and the company's logo is overlaid on the screenshot. Companies featured include Amkor Technology, Toyota, CMA CGM, Samsung, Johnson & Johnson, Texas Instruments, Micron, Nvidia, and Apple.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visibly speaks at a podium in the opening shot and his words set the theme for the video."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visibly stands behind Donald Trump in the opening shot."
+    },
+    {
+      "name": "Amkor Technology",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Company name and logo are featured on a news headline screenshot about a '$2B semiconductor' facility."
+    },
+    {
+      "name": "Toyota",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Company name and logo are featured on a news headline screenshot about a '$5.2 billion' investment."
+    },
+    {
+      "name": "CMA CGM",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Company name and logo are featured on a news headline screenshot about a '$20 Billion' investment."
+    },
+    {
+      "name": "Samsung",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Company name and logo are featured on a news headline screenshot about a '$37B U.S. chip' facility."
+    },
+    {
+      "name": "Johnson & Johnson",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Company name and logo are featured on a news headline screenshot about a '$55 Billion' investment."
+    },
+    {
+      "name": "Texas Instruments",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Company name and logo are featured on a news headline screenshot about a '$60 billion' investment."
+    },
+    {
+      "name": "Micron Technology",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Company name ('micron') and logo are featured on a news headline screenshot about a '$250 billion' investment."
+    },
+    {
+      "name": "Nvidia",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Company name and logo are featured on a news headline screenshot about a '$500 billion' investment."
+    },
+    {
+      "name": "Apple Inc.",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Company logo and name are featured on a news headline screenshot about a '$600 billion' commitment."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "19.2",
+      "role": "caption"
+    },
+    {
+      "text": "trillion",
+      "role": "caption"
+    },
+    {
+      "text": "invested",
+      "role": "caption"
+    },
+    {
+      "text": "in plants and equipment",
+      "role": "caption"
+    },
+    {
+      "text": "built",
+      "role": "caption"
+    },
+    {
+      "text": "relocates $2B semiconductor",
+      "role": "overlay"
+    },
+    {
+      "text": "makes $5.2 billion",
+      "role": "overlay"
+    },
+    {
+      "text": "$20 Billion",
+      "role": "overlay"
+    },
+    {
+      "text": "$37B U.S. chip",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. Investment $55 Billion",
+      "role": "overlay"
+    },
+    {
+      "text": "$60 billion",
+      "role": "overlay"
+    },
+    {
+      "text": "$250 billion",
+      "role": "overlay"
+    },
+    {
+      "text": "$500 billion",
+      "role": "overlay"
+    },
+    {
+      "text": "$600 billion",
+      "role": "overlay"
+    },
+    {
+      "text": "Amkor Technology",
+      "role": "overlay"
+    },
+    {
+      "text": "TOYOTA",
+      "role": "overlay"
+    },
+    {
+      "text": "CMA CGM",
+      "role": "overlay"
+    },
+    {
+      "text": "SAMSUNG",
+      "role": "overlay"
+    },
+    {
+      "text": "Johnson&Johnson",
+      "role": "overlay"
+    },
+    {
+      "text": "TEXAS INSTRUMENTS",
+      "role": "overlay"
+    },
+    {
+      "text": "micron",
+      "role": "overlay"
+    },
+    {
+      "text": "NVIDIA",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump states: \"19.2 trillion invested in plants and equipment that's being built all over the country.\"",
+  "emojis_present": [],
+  "audio_music": "The video begins with Donald Trump speaking, and an inspirational, atmospheric electronic track fades in. The music builds in intensity and continues throughout the montage of news headlines, creating a powerful and optimistic mood.",
+  "editing_pacing": "The video starts with a single, static shot of a speech, then transitions into a fast-paced montage of screenshots with quick cuts synchronized to the beat of the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "optimism",
+    "confidence"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's policies have resulted in trillions of dollars of investment in American industry and manufacturing, as evidenced by numerous major corporations building facilities in the U.S.",
+  "intended_effect": "To persuade viewers that the economy is booming due to Trump's leadership and to instill a sense of national pride and economic confidence.",
+  "uncertainty_flags": [
+    "The full text of the news headlines is partially obscured, so transcription is incomplete."
+  ]
+}

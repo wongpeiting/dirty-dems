@@ -1,0 +1,123 @@
+{
+  "video_id": "7617861181985885453",
+  "visual_action": "The video consists of six scene keyframes with a consistent dark, high-contrast visual treatment including horizontal scan-line overlays in red/orange, giving a surveillance or broadcast-intercept aesthetic. Frame 1: A man wearing a white \"USA\" cap speaks at a podium bearing the Presidential Seal of the United States, flanked by American flags — strongly suggesting Donald Trump at a presidential event. Frame 2: A blonde woman in a black blazer and white blouse speaks at what appears to be a White House press briefing podium; the background shows partial text \"WHITE HOUSE / WASHI[NGTON]\"; a lower-third ticker reads \"THE WHITE HOUSE\" and \"...5470 FOR UPDATES FROM...\" Frame 3: A male U.S. military officer in dark dress uniform with ribbons, pilot wings, a Presidential Service Badge, and a name tag partially readable as \"...ANE\" (possibly \"CAINE\" or similar), stands at a podium bearing a partially visible \"DEPARTMENT [OF DEFENSE]\" seal. Frame 4: A man in a dark suit and blue tie, identifiable as Marco Rubio, speaks in what appears to be a hallway or corridor setting surrounded by others. Frame 5: A man in a dark suit with a pink tie and American flag lapel pin speaks on what appears to be a Fox News broadcast; a chyron reads \"FOX NEWS\" and \"U.S. AND ISRA[EL]...\" with a city skyline background. Frame 6: A graphic title card showing a dark line-art illustration of the White House with an American flag on top, with text \"THE WHITE HOUSE / PRESIDENT DONALD J. TRUMP\" on a black background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Title card reads 'PRESIDENT DONALD J. TRUMP'; figure in frame 1 wears a white 'USA' cap and speaks at a podium with the Presidential Seal, consistent with Trump's well-known rally/speech appearances"
+    },
+    {
+      "name": "unnamed White House press secretary",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Blonde woman at White House briefing podium with 'THE WHITE HOUSE / WASHI[NGTON]' backdrop and ticker reading 'THE WHITE HOUSE'"
+    },
+    {
+      "name": "unnamed U.S. military officer",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Male officer in dark dress uniform with Presidential Service Badge, pilot wings, and ribbons at a Department of Defense podium; name tag partially visible but unreadable"
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Close-up face shot in hallway setting; facial features consistent with Marco Rubio"
+    },
+    {
+      "name": "unnamed Fox News commentator/analyst",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Man in dark suit with pink tie appears on Fox News broadcast chyron reading 'FOX NEWS' and 'U.S. AND ISRA[EL]'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Title card 'THE WHITE HOUSE / PRESIDENT DONALD J. TRUMP'; briefing backdrop 'WHITE HOUSE / WASHI[NGTON]'; account is @whitehouse"
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Audio transcript repeatedly references 'Iran's military and industrial base,' 'the regime,' 'Operation Epic Fury,' 'Iran's terrorist proxies'; caption states 'OBJECTIVE 3: destroy Iran's terrorist proxies'"
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Fox News logo and chyron visible in frame 5"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "USA",
+      "role": "overlay"
+    },
+    {
+      "text": "WHIT[E HOU]SE\nWASHI[NGTON]",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE\n5470 FOR UPDATES FROM",
+      "role": "chyron"
+    },
+    {
+      "text": "DEPARTMENT [OF DEFENSE seal]",
+      "role": "other"
+    },
+    {
+      "text": "FOX NEWS\nU.S. AND ISRA[EL]",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE\nPRESIDENT DONALD J. TRUMP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio, delivered across multiple speakers (a president/official, military officer, and others), announces a military operation called \"Operation Epic Fury\" targeting Iran's terrorist proxies. Key lines include: \"going to ensure that the region's terrorist proxies can no longer destabilize the region or the world and attack our forces\"; \"Operation Epic Fury will ensure the regime's terrorist proxies in the region can no longer destabilize the region or the free world and attack our armed forces\"; \"We continue to start working on and going deeper into Iran's military and industrial base in order to prevent the regime from being able to attack Americans our interests and our partners for years to come\"; \"We will destroy their ability to sponsor terrorism\"; and \"Elimination of their advocacy and support for proxies which is destabilizing the entire Middle East.\"",
+  "emojis_present": [],
+  "audio_music": "Original speech audio — multiple official voices (presidential, military, and commentator) delivering declaratory statements about military action against Iran and its proxies. No background music detected; grave, authoritative tone throughout.",
+  "editing_pacing": "Fast cuts between six distinct scenes — each a brief clip of a different official or commentator speaking — creating a montage of multiple voices all reinforcing the same message. Dark, high-contrast visual grade with red/orange horizontal scan-line effects applied uniformly, evoking a surveillance or classified-broadcast aesthetic. Ends on a static title card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Resolve/determination — multiple officials speaking with forceful, declaratory language about destroying Iran's proxies",
+    "Gravity/seriousness — dark visual treatment, scan-line effects, and solemn delivery",
+    "National pride/patriotism — USA cap, Presidential Seal, American flag on White House title card",
+    "Urgency — rapid cuts between officials reinforcing the same objective"
+  ],
+  "cultural_references": [
+    "Presidential Seal / White House brand imagery as authority signifier",
+    "Fox News appearance as mainstream media validation",
+    "Scan-line/glitch aesthetic common in political action video montages"
+  ],
+  "central_claim": "The Trump administration has launched \"Operation Epic Fury,\" a military campaign with the declared objective of destroying Iran's terrorist proxies, dismantling Iran's military and industrial base, and eliminating Iran's ability to sponsor terrorism and destabilize the Middle East.",
+  "intended_effect": "Convey strength, decisiveness, and a unified whole-of-government commitment to confronting Iran and its proxies; inspire confidence in the administration's national security posture.",
+  "uncertainty_flags": [
+    "The military officer in frame 3 cannot be positively identified — name tag is partially obscured; he may be a senior Pentagon official or CJCS/CENTCOM commander.",
+    "The woman at the White House briefing podium cannot be positively identified from the keyframe alone.",
+    "The Fox News commentator/analyst in frame 5 cannot be positively identified.",
+    "'Operation Epic Fury' may refer to an event after knowledge cutoff — treated as real per instructions, but its exact date and scope cannot be independently verified from these frames.",
+    "The figure in frame 1 wearing the 'USA' cap is identified as Trump based on context and Presidential Seal, but the face is partially obscured/in shadow; identification carries moderate confidence.",
+    "OCR partial text '5470 FOR UPDATES FROM' suggests a phone number or SMS short code for White House updates — full number not visible."
+  ]
+}

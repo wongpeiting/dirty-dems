@@ -1,0 +1,78 @@
+{
+  "video_id": "7236906798060588334",
+  "visual_action": "A slideshow of two images. The first shows Ron DeSantis in white boots talking to a sheriff, with an overlaid CNN chyron announcing his 2024 presidential run. The second image shows DeSantis looking dejected next to a smiling Joe Biden and an unnamed woman, with an overlaid Fox News chyron calling his announcement a 'disaster on Twitter'.",
+  "cast": [
+    {
+      "name": "Ron Desantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Ron DeSantis is the subject of both photos and is named in the on-screen text from both CNN and Fox News."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Joe Biden appears in the second photograph, standing next to Ron DeSantis."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and name appear in the first on-screen text overlay."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and name appear in the second on-screen text overlay."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "CNN politics",
+      "role": "chyron"
+    },
+    {
+      "text": "Florida Gov. Ron DeSantis announces he's running for president in 2024",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS channel",
+      "role": "chyron"
+    },
+    {
+      "text": "Much-hyped Ron DeSantis presidential announcement a disaster on Twitter",
+      "role": "chyron"
+    },
+    {
+      "text": "WATCH Ron DeSantis declares candidacy for president",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio is a popular meme sound clip. A child's voice sings optimistically, '...and nothing can go wrong.' This is followed by a loud crashing sound effect, and then a different cartoonish voice exclaims, 'Oh no! It all went wrong!'",
+  "emojis_present": [],
+  "audio_music": "A popular meme audio track. It begins with a child singing an upbeat line, which is abruptly cut off by a loud crash sound effect, followed by a cartoon character's voice lamenting, 'Oh no! It all went wrong!' The structure creates a comedic and mocking effect of sudden failure.",
+  "editing_pacing": "A simple slideshow with a single cut between two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The audio is a popular internet meme sound format ('Oh No! It All Went Wrong!') used to highlight sudden failures or things going badly, originating from the show 'Oh No! It's an Alien Invasion.'"
+  ],
+  "central_claim": "Ron DeSantis's presidential campaign announcement was an immediate and embarrassing failure.",
+  "intended_effect": "To mock Ron DeSantis and portray his presidential campaign as a disaster from its inception.",
+  "uncertainty_flags": [
+    "The fingerprinted music ('WALK DOWN GANG — Baby Sosa') does not match the prominent meme audio that is clearly audible in the video."
+  ]
+}

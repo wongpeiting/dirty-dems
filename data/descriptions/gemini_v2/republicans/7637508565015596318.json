@@ -1,0 +1,93 @@
+{
+  "video_id": "7637508565015596318",
+  "visual_action": "The video shows a clip from a CNN news broadcast. In a studio, a male reporter, Matt Egan, stands next to a large screen and discusses economic figures with a female anchor. The screen displays a graphic titled 'U.S. JOBS ADDED' showing 185K for March and 115K for April. A chyron at the bottom of the screen provides details about the jobs report. A large text overlay has been added to the top of the video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An overlay text at the top of the video reads 'PRESIDENT TRUMP NEARLY DOUBLED EXPECTATIONS'. The post caption also names him."
+    },
+    {
+      "name": "Matt Egan",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A chyron on screen identifies him as 'Matt Egan | CNN Senior Reporter'."
+    },
+    {
+      "name": "unnamed CNN anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman in a blue suit is visible on screen in the CNN studio, listening to the reporter."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is present on the chyron and in the studio environment."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PRESIDENT TRUMP NEARLY DOUBLED EXPECTATIONS",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. JOBS ADDED",
+      "role": "other"
+    },
+    {
+      "text": "185K\nMARCH",
+      "role": "other"
+    },
+    {
+      "text": "115K\nAPRIL",
+      "role": "other"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. ECONOMY ADDED 115K JOBS IN APRIL",
+      "role": "chyron"
+    },
+    {
+      "text": "Matt Egan | CNN Senior Reporter",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "8:42 AM CT",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A CNN reporter, Matt Egan, reports on the April jobs numbers, stating that the U.S. economy added 115,000 jobs. He characterizes this as a 'big beat' for the job market, noting it's 'almost twice as much as the consensus from economists.'",
+  "emojis_present": [
+    "🚨"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the news broadcast clip. There is no background music or added sound effects.",
+  "editing_pacing": "The video is a single, unedited clip from a news broadcast, presented as a static shot with no cuts or special effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "triumph",
+    "confidence"
+  ],
+  "cultural_references": [],
+  "central_claim": "The strong April 2026 jobs report, which significantly surpassed economists' expectations, is an achievement of President Trump's administration.",
+  "intended_effect": "To convince the viewer that Donald Trump is an effective economic leader and to attribute the positive economic news to him.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,83 @@
+{
+  "video_id": "7611262690916322573",
+  "visual_action": "A montage of clips shows various men, identified as Trump administration officials by on-screen text, in different settings. The clips include: men in Team USA hockey jerseys celebrating in a locker room (one identified as Kash Patel); a man doing a pull-up in a gym (Robert F. Kennedy Jr.); a man at a football game in a Minnesota Vikings jersey (Pete Hegseth); a close-up of an unidentified older man outdoors; a man in a white cap in a park-like setting; and Donald Trump waving from a white balcony.",
+  "cast": [
+    {
+      "name": "Trump administration officials",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads: \"side quests trump admin officials go on...\""
+    },
+    {
+      "name": "ICE",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions the organization: \"...and ICE is shooting people in the street\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "He is visually shown waving from a balcony, and the on-screen text refers to his administration."
+    },
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown doing a pull-up in a gym."
+    },
+    {
+      "name": "Kash Patel",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown celebrating in a locker room with men in Team USA jerseys."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown at a sporting event wearing a Minnesota Vikings jersey."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "side quests trump admin officials go on while americans can't afford groceries and ICE is shooting people in the street",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a song with lyrics that include \"The angels up in the clouds are jealous knowing we found something so wild... you got me kissing the crowd.\" There is no dialogue or narration.",
+  "emojis_present": [
+    "😬"
+  ],
+  "audio_music": "A gentle, melodic pop song plays throughout the video, creating an ironic contrast with the critical on-screen text.",
+  "editing_pacing": "The video is a montage of short, quickly-cut clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Frustration",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The term 'side quests' is a reference to video game terminology, used as a meme format to describe distracting or unimportant activities.",
+    "Minnesota Vikings (NFL team)",
+    "Team USA (USA Hockey)"
+  ],
+  "central_claim": "Trump administration officials are irresponsibly engaging in frivolous personal activities while serious national problems like economic hardship and alleged violence by ICE go unaddressed.",
+  "intended_effect": "To portray Trump-aligned officials as out-of-touch and negligent, thereby generating disapproval and anger towards them.",
+  "uncertainty_flags": [
+    "The identities of two of the men shown in the montage (an older man in a close-up and a man in a white cap outdoors) could not be determined."
+  ]
+}

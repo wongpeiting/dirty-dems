@@ -1,0 +1,68 @@
+{
+  "video_id": "7355476723078548778",
+  "visual_action": "A still photo of Donald and Melania Trump on a balcony is shown. Donald Trump is pointing and looking up at the sky, while Melania Trump stands beside him with her hand near her face. The view then pulls back slightly to reveal that this photo is part of a screenshot of a tweet from the account 'The Democrats'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in the photograph and is the subject of the on-screen text, which criticizes 'Trump's vision for the country'."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The tweet shown on screen is from the account 'The Democrats' with the handle '@TheDemocrats'."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visible in the photograph standing next to Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Reminder: Staring directly at the sun may ruin your vision.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's vision for the country is a glaring example.",
+      "role": "overlay"
+    },
+    {
+      "text": "ALT",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it features only instrumental and vocal music.",
+  "emojis_present": [],
+  "audio_music": "A moody, atmospheric song, identified as 'Eyes on Fire' by Blue Foundation, plays throughout the entire video, creating a somber and serious tone.",
+  "editing_pacing": "The video consists of a static image that is then revealed to be part of another static image (a screenshot). The pacing is very slow, effectively a slideshow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "concern"
+  ],
+  "cultural_references": [
+    "The song 'Eyes on Fire' by Blue Foundation is widely known from its inclusion in the soundtrack for the movie 'Twilight'."
+  ],
+  "central_claim": "Donald Trump's political vision is as dangerous and damaging to the country as staring directly at the sun is to one's eyesight.",
+  "intended_effect": "To mock Donald Trump for a past action and frame his political vision as harmful and foolish.",
+  "uncertainty_flags": []
+}

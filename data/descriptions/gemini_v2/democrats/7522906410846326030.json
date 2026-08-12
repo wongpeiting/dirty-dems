@@ -1,0 +1,81 @@
+{
+  "video_id": "7522906410846326030",
+  "visual_action": "Hakeem Jeffries speaks passionately at a podium in a legislative chamber, gesturing as others applaud behind him, including a woman in a bright green jacket. The entire scene is framed as a video playing on a laptop screen, with a keyboard visible at the bottom.",
+  "cast": [
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking throughout the video and is identified by face and in the on-screen text: 'Leader Jeffries has been speaking...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to 'the harm caused by Trump's budget'."
+    },
+    {
+      "name": "Frederica Wilson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visible in the background clapping, identified by face recognition."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news chyron at the bottom of the screen reads '...AMID GOP BUDGET BILL...'"
+    },
+    {
+      "name": "Planned Parenthood",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Hakeem Jeffries mentions 'Planned Parenthood' by name in his speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "...S DELIVERS MARATHON SPEECH AMID GOP BUDGET BILL DE...",
+      "role": "chyron"
+    },
+    {
+      "text": "Leader Jeffries has been speaking for over 8 HOURS about the harm caused by Trump's budget 🌮🌮",
+      "role": "overlay"
+    },
+    {
+      "text": "Keep it going 🇺🇸",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Hakeem Jeffries passionately lists several healthcare and social programs including 'Medicare,' 'Medicaid,' 'the Affordable Care Act,' 'the Children's Health Insurance Program,' and 'Planned Parenthood,' while an audience claps in the background.",
+  "emojis_present": [
+    "🌮",
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists solely of Hakeem Jeffries speaking, with the sound of an audience clapping in the background. No music is present.",
+  "editing_pacing": "The video is a single, static shot of a speech, framed as if playing on a laptop screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "admiration",
+    "pride",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Hakeem Jeffries is fighting against the detrimental effects of Donald Trump's proposed budget by delivering a marathon speech in Congress.",
+  "intended_effect": "To inspire admiration for Hakeem Jeffries' stamina and opposition to Trump's budget, and to generate concern about that budget's impact.",
+  "uncertainty_flags": [
+    "The meaning of the taco emojis (🌮🌮) in the on-screen text is unclear; they may be a typo for clapping hands (👏) or have another meaning.",
+    "The full text of the news chyron is cut off at the edges of the frame."
+  ]
+}

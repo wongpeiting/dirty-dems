@@ -1,0 +1,114 @@
+{
+  "video_id": "7621949617353133326",
+  "visual_action": "The video opens with a close-up, slightly blurred shot of a press release document reading \"PRESS RELEASE | Feb. 2\" and partial headline text \"...rces Launch... Epic Fury...\" — suggesting military/geopolitical news headlines. Next is a close-up of a news website on a blue background showing partial text \"...nary World M...\" and a yellow-highlighted word \"launche...\" with white text below reading \"...story' aga...\" — more news headline fragments. Then comes archival-style military footage of a missile or rocket launching from a ground vehicle, with smoke and fire, filmed in a muted green-gray tone. This is followed by a night-vision style aerial targeting shot with a reticle crosshair and \"2M\" marker centered on a dark ground target, with \"UNCLASSIFIED\" displayed in bright green text at the top. The video then cuts to a polished 3D render of a gold-framed iPhone showing The White House app interface, displaying the header \"THE WHITE HOUSE / PRESIDENT DONALD J. TRUMP\" with social media links (TikTok, Instagram, Facebook, YouTube), a red \"Get In Touch\" button, a post from @WhiteHouse saying \"Welcome to The White House App 🇺🇸,\" an embedded video thumbnail labeled \"UNCLASSIFIED\" showing the same night-vision footage, a post from \"Rapid Response 47 @RapidResponse47\" about \"That Wednesday night Trump Dance 🇺🇸🎵 https://t.co/k3Mcbrr12gV\" with a thumbnail image of Trump, and a red \"Text President Trump\" button. Bottom navigation tabs show NEWS, LIVE, SOCIAL, GALLERY. The video ends on a black screen with a minimalist white line-drawing of the White House and text \"PRESIDENT DONALD J. TRUMP.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text on the app interface reads 'PRESIDENT DONALD J. TRUMP' and a thumbnail image of Trump appears in the app feed alongside 'Text President Trump' button."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Account is @whitehouse; app header reads 'THE WHITE HOUSE / PRESIDENT DONALD J. TRUMP'; closing card shows White House line-drawing with 'PRESIDENT DONALD J. TRUMP'."
+    },
+    {
+      "name": "Rapid Response 47",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "App feed shows a post from 'Rapid Response 47 @RapidResponse47' about 'That Wednesday night Trump Dance.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PRESS RELEASE | Feb. 2",
+      "role": "overlay"
+    },
+    {
+      "text": "rces Launch\nEpic Fury",
+      "role": "overlay"
+    },
+    {
+      "text": "nary World  M\nS launche\nstory' aga",
+      "role": "overlay"
+    },
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    },
+    {
+      "text": "2M",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE\nPRESIDENT DONALD J. TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "Get In Touch",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House @WhiteHouse\nWelcome to The White House App 🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    },
+    {
+      "text": "Rapid Response 47 @RapidResponse47\nThat Wednesday night Trump Dance 🇺🇸🎵 https://t.co/k3Mcbrr12gV",
+      "role": "overlay"
+    },
+    {
+      "text": "Text President Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "NEWS   LIVE   SOCIAL   GALLERY",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The narrator says: \"There's been a lot of launches lately. Relax. This one's an app. Track the latest news, live streams, and everything White House, including the kind everyone's talking about.\" The tone is playful and self-aware, joking that the viewer might expect another military launch before revealing it's an app launch announcement.",
+  "emojis_present": [
+    "🇺🇸",
+    "🚀",
+    "🎵"
+  ],
+  "audio_music": "Original narration/voiceover with a dry, humorous tone; no background music identified. The audio deliberately plays on the word \"launch\" to create a bait-and-switch between military connotations and an app release.",
+  "editing_pacing": "Fast-cut sequence: starts with blurred close-ups of press release and news headlines, transitions to military launch and targeting B-roll footage, then pivots to a polished product-reveal-style 3D render of the phone app, and ends on a clean logo card. Pacing is brisk with cinematic production quality on the final product shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor/surprise — the bait-and-switch narration ('Relax. This one's an app.') after showing military launch and targeting footage",
+    "excitement/pride — polished app reveal with patriotic branding and 🇺🇸 flag emojis",
+    "anticipation — military-style visual buildup before the reveal"
+  ],
+  "cultural_references": [
+    "Bait-and-switch comedy format common in social media advertising",
+    "Military 'UNCLASSIFIED' footage aesthetic — referencing Pentagon/DoD release style",
+    "Press release format as a visual cue for official announcements",
+    "'Wednesday night Trump Dance' — reference to a viral Trump moment"
+  ],
+  "central_claim": "The White House (under President Donald J. Trump) has launched an official app that provides live streams, real-time news updates, and direct engagement with the President.",
+  "intended_effect": "Entertain viewers with a humorous misdirect (military launches vs. app launch), then generate excitement and drive downloads of the new official White House app.",
+  "uncertainty_flags": [
+    "The press release date is partially cut off — reads 'Feb. 2' but full date/year not visible.",
+    "The partial news headlines ('rces Launch / Epic Fury' and 'S launche / story' aga') cannot be fully read due to cropping and blur; their exact sources are unverifiable from the frames.",
+    "The missile launch footage source (archival, military stock, or original) is not identifiable.",
+    "The 'Wednesday night Trump Dance' reference is not fully legible in the thumbnail and the linked URL is truncated.",
+    "Exact app release date and platform (iOS/Android) not stated in visible content."
+  ]
+}

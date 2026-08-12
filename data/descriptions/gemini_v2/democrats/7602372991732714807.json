@@ -1,0 +1,54 @@
+{
+  "video_id": "7602372991732714807",
+  "visual_action": "A slideshow of still images featuring the musician Bad Bunny. The first three images show him at a podium, as if giving a speech at a formal event, wearing a tuxedo. The final image shows him sitting in the audience at what appears to be an arena or large theater, also in a tuxedo.",
+  "cast": [
+    {
+      "name": "Bad Bunny",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person shown in all the images and whose speech is quoted on screen."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text quotes a speech beginning with \"I'm gonna say ICE out.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I'm gonna say ICE out.",
+      "role": "overlay"
+    },
+    {
+      "text": "We're not savage. We're not animals. We're not aliens.",
+      "role": "overlay"
+    },
+    {
+      "text": "We are humans, and we are Americans.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists solely of a Spanish-language song. The on-screen text quotes a speech, but the speech itself is not audible.",
+  "emojis_present": [],
+  "audio_music": "A slow, somewhat somber Spanish-language song by Bad Bunny ('DtMF') plays throughout the video, creating a serious and heartfelt tone that complements the on-screen text.",
+  "editing_pacing": "The video is a simple slideshow of static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "solidarity",
+    "empathy",
+    "indignation"
+  ],
+  "cultural_references": [
+    "Bad Bunny"
+  ],
+  "central_claim": "Immigrants are human beings and Americans who should be treated with dignity, not targeted by agencies like ICE.",
+  "intended_effect": "To create solidarity with immigrants and opposition to ICE by using a popular cultural figure's words and image.",
+  "uncertainty_flags": []
+}

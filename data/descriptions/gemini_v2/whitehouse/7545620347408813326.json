@@ -1,0 +1,83 @@
+{
+  "video_id": "7545620347408813326",
+  "visual_action": "The video displays a screenshot of a purported tweet from Donald J. Trump announcing a U.S. military strike against \"Narcoterrorists.\" This is followed by black-and-white, night-vision style footage labeled \"UNCLASSIFIED,\" which shows a boat filled with people being targeted and then destroyed by a large explosion. The video concludes with black-and-white imagery of the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A fabricated tweet with his name and Twitter handle (@realDonaldTrump) is shown, claiming he ordered the military strike depicted."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and ends with a title card that reads \"THE WHITE HOUSE.\""
+    },
+    {
+      "name": "Tren de Aragua",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen tweet as the \"Narcoterrorists\" targeted by the military strike."
+    },
+    {
+      "name": "Nicolas Maduro",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen tweet as the leader controlling the Tren de Aragua organization."
+    },
+    {
+      "name": "U.S. Military Forces",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen tweet as the entity that conducted the kinetic strike."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "Earlier this morning, on my Orders, U.S. Military Forces conducted a kinetic strike against positively identified Tren de Aragua Narcoterrorists in the SOUTHCOM area of responsibility. TDA is a designated Foreign Terrorist Organization, operating under the control of Nicolas Maduro, responsible for mass murder, drug trafficking, sex trafficking, and acts of violence and terror across the United States and Western Hemisphere. The strike occurred while the terrorists were at sea in International waters transporting illegal narcotics, heading to the United States. The strike resulted in 11 terrorists killed in action. No U.S. Forces were harmed in this strike. Please let this serve as notice to anybody even thinking about bringing drugs into the United States of America. BEWARE! Thank you for your attention to this matter!!!!!!!!!!",
+      "role": "overlay"
+    },
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A deep, serious male voice reads aloud the last sentence of the on-screen fabricated tweet: \"Thank you for your attention to this matter.\"",
+  "emojis_present": [],
+  "audio_music": "The video has an ominous and serious tone. There is no music, only a deep male voice-over and the sound of a large explosion corresponding with the visual of the boat being destroyed.",
+  "editing_pacing": "The video begins with a static shot of a tweet, then cuts to military footage from several angles. The pacing is deliberate and dramatic, concluding with a short, slow-motion montage of the White House.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video's central element is a fabricated tweet attributed to Donald J. Trump, presented as a real announcement to frame the accompanying military footage and create a narrative about his leadership.",
+  "emotions_signaled": [
+    "Fear",
+    "Seriousness",
+    "Strength"
+  ],
+  "cultural_references": [
+    "The use of military gun-camera footage is visually similar to gameplay from first-person shooter video games like the 'Call of Duty' series."
+  ],
+  "central_claim": "Under Donald Trump's command, the U.S. would use decisive lethal force against narcoterrorists attempting to enter the country.",
+  "intended_effect": "To portray Donald Trump as a strong, uncompromising leader on border security and to issue a warning against illegal drug trafficking.",
+  "uncertainty_flags": [
+    "The authenticity and original context of the military footage are unknown; it has been repurposed to illustrate the narrative created by the fabricated tweet."
+  ]
+}

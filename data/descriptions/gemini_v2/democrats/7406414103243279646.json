@@ -1,0 +1,84 @@
+{
+  "video_id": "7406414103243279646",
+  "visual_action": "A fast-paced montage of scenes from the Democratic National Convention in Chicago. The clips show large, cheering crowds, people holding signs for \"JILL\" and a banner for \"KAMALA HARRIS 2024\". There are close-ups of attendees looking emotional, with some crying and others smiling and dancing. People are shown wearing patriotic and campaign-themed clothing and accessories, such as a hat with the Democratic donkey symbol, a pocket patch with figurines of Joe Biden and Kamala Harris, and a phone sticker that reads \"YES we KAM\". The montage ends with a shot of a large number of American flags being waved by the crowd.",
+  "cast": [
+    {
+      "name": "Democratic National Convention",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An overlay text reads \"Vibes at Chicago's DNC were immaculate ✨✨\"."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Multiple pieces of on-screen text refer to her, including a banner reading \"KAMALA HARRIS 2024\", a rainbow patch reading \"KAMALA\", and a sticker reading \"YES we KAM\"."
+    },
+    {
+      "name": "Jill Biden",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman who appears to be Jill Biden is shown at a podium while the audience holds up numerous signs that say \"JILL\"."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A small figurine resembling Joe Biden is shown in a person's jacket pocket next to one of Kamala Harris."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Vibes at Chicago's DNC were immaculate ✨✨",
+      "role": "overlay"
+    },
+    {
+      "text": "KAMALA HARRIS 2024",
+      "role": "other"
+    },
+    {
+      "text": "JILL",
+      "role": "other"
+    },
+    {
+      "text": "YES we KAM",
+      "role": "other"
+    },
+    {
+      "text": "KAMALA",
+      "role": "other"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of a layered sound collage of multiple voices repeating the word \"Chicago\" for the first few seconds.",
+  "emojis_present": [
+    "✨"
+  ],
+  "audio_music": "The video begins with a sound collage of voices saying \"Chicago\". After about five seconds, this fades out and is replaced by an upbeat, energetic, synthesized pop music track that continues for the remainder of the video, creating a celebratory and hype-filled atmosphere.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes and subjects. It employs zooms and close-ups to highlight emotional reactions and specific campaign merchandise.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Joy",
+    "Pride",
+    "Hope",
+    "Unity"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic National Convention in Chicago was an energetic, emotional, and unifying event demonstrating immense support for the party.",
+  "intended_effect": "To evoke feelings of excitement, pride, and optimism about the Democratic Party and its convention, and to build momentum for its candidates.",
+  "uncertainty_flags": [
+    "The video is a montage presented as being from the Chicago DNC, but it is possible that some of the B-roll footage is from different events or years, as one attendee's lanyard appears to say 'DNC 2014'."
+  ]
+}

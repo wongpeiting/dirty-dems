@@ -1,0 +1,78 @@
+{
+  "video_id": "7667690861639027981",
+  "visual_action": "A montage opens with a US soldier parachuting while using a nicotine pouch. It cuts to an Air Force General speaking at a podium, then to a montage of Zyn nicotine pouch products. A fabricated news chyron, styled to look like The Wall Street Journal, is overlaid on the Zyn montage.",
+  "cast": [
+    {
+      "name": "Philip Morris",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A fabricated news chyron announces that 'Philip Morris Opens $1.2 Billion Manufacturing Campus to Grow Zyn Brand'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the @whitehouse account and a fabricated news chyron includes the text '@WHITE HOUSE', positioning them as the source of the story."
+    },
+    {
+      "name": "unnamed Air Force General",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man in a US Air Force General's uniform is shown speaking at a podium. His audio is used in the video."
+    },
+    {
+      "name": "unnamed US soldier",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A soldier in military gear is shown parachuting at the beginning of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POV:\nUS TROOPS 🇺🇸",
+      "role": "meme_text"
+    },
+    {
+      "text": "THE WALL STREET JOURNAL",
+      "role": "chyron"
+    },
+    {
+      "text": "Philip Morris Opens $1.2 Billion Manufacturing Campus to Grow Zyn Brand",
+      "role": "chyron"
+    },
+    {
+      "text": "@WHITE HOUSE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An Air Force General is heard stating military consumption statistics during a deployment: \"Along the way, we consume more than six million meals... and by my estimate, more than 950,000 gallons of coffee, two million energy drinks, and a lot of nicotine.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The video begins with a high-pitched, distorted sound effect common in memes. This is followed by spoken dialogue. After the word 'nicotine,' a heavy trap/hip-hop beat drops, creating a dramatic and hype-filled mood for the subsequent montage.",
+  "editing_pacing": "The video uses fast cuts in a meme format, starting with a 'POV' setup. It juxtaposes selfie-style footage, a formal speech, and polished product shots, with the pace quickening after the music changes.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A news chyron is fabricated to look like it is from 'THE WALL STREET JOURNAL' and is superimposed over footage of Zyn products. The byline is '@WHITE HOUSE', indicating the post's creator staged the news headline.",
+  "emotions_signaled": [
+    "pride",
+    "humor",
+    "hype"
+  ],
+  "cultural_references": [
+    "POV meme format",
+    "Zyn nicotine pouches"
+  ],
+  "central_claim": "The White House is promoting Philip Morris's $1.2 billion investment in a Zyn manufacturing campus as a positive economic development linked to American military culture.",
+  "intended_effect": "To generate excitement and positive sentiment for a domestic manufacturing investment by associating the White House with a popular consumer product.",
+  "uncertainty_flags": [
+    "The identity of the Air Force general could not be confirmed."
+  ]
+}

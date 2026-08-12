@@ -1,0 +1,48 @@
+{
+  "video_id": "7617118998311816461",
+  "visual_action": "The video is composed entirely of aerial/drone footage shown in a vertical format with large black letterbox bars above and below a central video strip. The footage is grayscale and has the appearance of military targeting or reconnaissance camera feed. Across multiple cuts: (1) A dark, nearly black aerial view of a coastline/terrain. (2) An aerial view showing explosion aftermath — dark smoke plumes rising from what appears to be an industrial or infrastructure target on flat terrain. (3) A wider aerial shot showing larger, more expansive smoke/fire damage with multiple burn scars visible across the target area. (4) A high-altitude aerial view of a dense urban area next to what appears to be a runway/airstrip, with a large dark smoke column rising from a strike near the runway. (5) A closer aerial shot of the same runway/airstrip area showing a targeting reticle on the runway surface with buildings and infrastructure visible on either side. (6) An aerial targeting feed showing infrastructure — roads/pipelines crossing terrain — with a small explosion/smoke visible mid-frame. (7) A closer aerial shot showing smoke plumes rising from multiple points along what appear to be pipeline or road corridors. (8) A final aerial shot showing continued smoke/fire damage with a bright white cloud and dark burn scar visible on terrain with linear infrastructure features. Throughout all frames, the text \"KHARG ISLAND OBLITERATED\" appears in white in the upper-center black bar, and \"UNCLASSIFIED\" appears in bright green text overlaid on the video strip itself.",
+  "cast": [
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Caption references 'Iran has no ability to defend anything we want to attack'; title text 'KHARG ISLAND OBLITERATED' refers to Iran's Kharg Island oil terminal"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "KHARG ISLAND OBLITERATED",
+      "role": "overlay"
+    },
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken audio is discernible from the transcript. The caption (partially provided) reads: \"Iran has no ability to defend anything we want to attack - there is n...\" — implying a statement about US military dominance over Iranian defenses. No voiceover or dialogue appears in the clip itself.",
+  "emojis_present": [],
+  "audio_music": "Original sound — no music or voiceover is detectable; the audio appears to be ambient or silent, consistent with raw military targeting footage.",
+  "editing_pacing": "Multiple cuts between aerial targeting/reconnaissance footage clips, each a few seconds long. Pacing is moderate — not rapid-fire, but progressing through successive views of the same strike event. The static \"KHARG ISLAND OBLITERATED\" title card persists across all frames, anchoring the narrative throughout.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "awe/shock at scale of destruction — conveyed by multiple wide aerial shots of large smoke plumes and burn scars",
+    "dominance/power — conveyed by the caption claiming Iran cannot defend against US attacks and the persistent 'OBLITERATED' headline",
+    "authority/authenticity — conveyed by the 'UNCLASSIFIED' military-style overlay suggesting real official footage"
+  ],
+  "cultural_references": [
+    "Military targeting/drone strike footage aesthetic — evokes widely-shared US military strike videos from Iraq/Syria campaigns",
+    "'UNCLASSIFIED' label convention — mimics official US military and intelligence community document/footage classification markings"
+  ],
+  "central_claim": "The United States has destroyed (obliterated) Kharg Island — Iran's primary oil export terminal — in a military strike, and Iran was powerless to prevent it.",
+  "intended_effect": "To project overwhelming US military power and communicate that Iran is defenseless against American strikes, using apparent official targeting footage as evidence.",
+  "uncertainty_flags": [
+    "The exact date of this strike and whether this is authentic US military-released footage cannot be independently verified from the frames alone — it is treated as real per instructions.",
+    "The caption is truncated; the full quote attributed (presumably to a US official) is unknown.",
+    "It is unclear which specific account or official released this footage — the @whitehouse account context suggests it is an official White House post, but the source of the targeting footage (DoD, CENTCOM, etc.) is not labeled.",
+    "Kharg Island is Iran's main oil export hub; a strike of this scale would represent a major escalation — this event may fall after the AI knowledge cutoff and cannot be corroborated.",
+    "Whether the 'UNCLASSIFIED' label is authentic military metadata or a stylistic addition by the post creator cannot be determined from the video alone."
+  ]
+}

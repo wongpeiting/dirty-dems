@@ -1,0 +1,95 @@
+{
+  "video_id": "7641995639982689566",
+  "visual_action": "The video opens with a close-up of an older man, Tom Homan, speaking, followed by a younger man asking a question. After Homan answers, the video cuts to a montage showing people in uniform on horseback in a desert, an agent on a speeding boat, a close-up of a \"U.S. BORDER PATROL\" patch, a black-and-white clip of Donald Trump walking at night, and black-and-white footage of agents on ATVs along a border wall.",
+  "cast": [
+    {
+      "name": "Tom Homan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking the line, \"We got a new president.\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in a black-and-white clip in the montage immediately following the line \"We got a new president,\" implying he is that president."
+    },
+    {
+      "name": "Biden administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An interviewer contrasts the current border situation with \"what we saw under the Biden administration.\""
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A young man with a shaved head is shown asking the question, \"What changed?\""
+    },
+    {
+      "name": "U.S. Border Patrol",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text \"U.S. BORDER PATROL\" is visible on a uniform or vehicle, and agents are shown in a montage patrolling on horseback, boats, and ATVs."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "US Mexico border near Eagle Pass Texas",
+      "role": "overlay"
+    },
+    {
+      "text": "and the situation there is night and day",
+      "role": "overlay"
+    },
+    {
+      "text": "from what we saw under the Biden administration",
+      "role": "overlay"
+    },
+    {
+      "text": "what changed?",
+      "role": "overlay"
+    },
+    {
+      "text": "WE GOT A NEW PRESIDENT.",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. BORDER PATROL",
+      "role": "other"
+    },
+    {
+      "text": "NEWS LIVE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An interviewer states that the situation at the U.S.-Mexico border near Eagle Pass, Texas, is \"night and day\" compared to how it was under the Biden administration. He asks, \"What changed?\" Tom Homan responds, \"We got a new president.\"",
+  "emojis_present": [],
+  "audio_music": "The video begins with dialogue. At the line \"We got a new president,\" the upbeat pop song \"Pon de Replay\" by Rihanna begins and plays over a montage, creating a triumphant and hype-filled mood.",
+  "editing_pacing": "The video starts with static talking-head shots and then transitions to a fast-cut montage with quick edits and some clips stylized in black-and-white.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Confidence"
+  ],
+  "cultural_references": [
+    "Rihanna"
+  ],
+  "central_claim": "Donald Trump's presidency has secured the U.S. border, a dramatic improvement over the situation under the Biden administration.",
+  "intended_effect": "To convince viewers that Republican leadership under Trump is effective on border security and to generate a sense of pride and confidence in his administration's actions.",
+  "uncertainty_flags": [
+    "The news channel logo in the top left corner is low-resolution but appears to say 'NEWS LIVE'."
+  ]
+}

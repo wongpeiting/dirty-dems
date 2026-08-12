@@ -1,0 +1,50 @@
+{
+  "video_id": "7610587060726009101",
+  "visual_action": "The video is a montage centered on Marco Rubio giving a speech while standing next to an American flag. During his speech, he awkwardly reaches off-screen for a small plastic water bottle and takes a drink. This action is shown multiple times. Clips of Donald Trump speaking at a podium and also drinking from a water bottle are superimposed over the footage of Rubio. The video has an ABC News watermark in the corner.",
+  "cast": [
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure shown speaking and awkwardly drinking water, which is the focus of the video's mockery."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in superimposed clips mocking Rubio's water-drinking, and his voice is heard saying 'It's Rubio'."
+    },
+    {
+      "name": "ABC NEWS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's logo appears as a watermark on the footage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ABC NEWS .com",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio juxtaposes Marco Rubio's serious speech with a mocking comment from Donald Trump. Rubio says, \"Nothing has frustrated me more when America is the strongest nation on earth... America continues to be indispensable to the... goal of global liberty.\" This is interrupted by Trump's voice exclaiming, \"It's Rubio!\" The sounds of Rubio drinking water are also audible.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken words and sound effects. There is no music. The sounds of slurping and drinking water are amplified for comedic effect. A 'swoosh' sound effect is used during a transition.",
+  "editing_pacing": "The video uses a montage style with fast cuts, repetition, and dissolves. Clips of Donald Trump are superimposed over the footage of Marco Rubio to create a direct comparison and sense of mockery.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video mocks Marco Rubio by repeatedly showing his awkward moment of drinking water during a formal speech, amplified by Donald Trump's own ridicule of the event.",
+  "intended_effect": "To make the audience laugh at Marco Rubio and view him as awkward or unserious.",
+  "uncertainty_flags": []
+}

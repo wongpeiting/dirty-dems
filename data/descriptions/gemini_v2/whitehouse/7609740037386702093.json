@@ -1,0 +1,109 @@
+{
+  "video_id": "7609740037386702093",
+  "visual_action": "A montage video celebrating a US victory over Canada in an Olympic ice hockey game. It begins with hockey players Matthew and Brady Tkachuk at a press conference, then cuts to fast-paced clips of gameplay, including goals and an on-ice fight. It shows fans dressed in colonial costumes cheering, and the USA team celebrating a winning goal by piling on top of each other. The video ends with an emotional post-game interview with a young USA player. The setting is an arena with \"Milano Cortina 2026\" and Olympic rings on the boards.",
+  "cast": [
+    {
+      "name": "Team USA Hockey",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Players are shown wearing 'USA' jerseys, playing in a game, and celebrating a victory."
+    },
+    {
+      "name": "Team Canada Hockey",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "They are identified as the opponent in the audio (\"Canada, we own you, Lil Bro\") and are shown playing in red jerseys with Canadian flags in the crowd."
+    },
+    {
+      "name": "Matthew Tkachuk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A chyron reads \"MATTHEW TKACHUK\" and his voiceover opens the video with trash talk against the Canadian team."
+    },
+    {
+      "name": "Brady Tkachuk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown sitting next to his brother, Matthew Tkachuk, during the opening press conference clip."
+    },
+    {
+      "name": "Jack Hughes",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An announcer calls out his name for scoring the winning goal: \"Jack Hughes wins it!\""
+    },
+    {
+      "name": "Matt Boldy",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An announcer calls out his name for scoring a goal: \"And Boldy... he scores!\""
+    },
+    {
+      "name": "Unnamed Team USA player",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A young player with long brown hair gives an emotional, patriotic interview at the end of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NATIONS FACE-OFF",
+      "role": "overlay"
+    },
+    {
+      "text": "MATTHEW TKACHUK 5 PENALTY MINUTES, 3 SHOTS, 2 HITS",
+      "role": "chyron"
+    },
+    {
+      "text": "USA DEFEATS CANADA 3-1",
+      "role": "chyron"
+    },
+    {
+      "text": "USA OFFICIALLY CLINCH A SPOT IN THE CHAMPIONSHIP FINAL THURSDAY",
+      "role": "chyron"
+    },
+    {
+      "text": "MILANO CORTINA 2026",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video opens with a voiceover attributed to Matthew Tkachuk, saying he had to teach the \"maple syrup eating\" Canadians a lesson after they booed the US national anthem, ending with \"Canada, we own you, Lil Bro.\" This is followed by broadcast commentary of a USA vs. Canada hockey game, highlighting goals by Matt Boldy and a \"golden goal\" by Jack Hughes to win the game, which is compared to the \"1980 miracle.\" The video concludes with a player's passionate post-game interview, stating, \"I love the USA. I'm so proud to be American... Tonight was all for the country.\"",
+  "emojis_present": [
+    "🦅",
+    "🥇"
+  ],
+  "audio_music": "The entire video is set to the classic rock song \"Free Bird\" by Lynyrd Skynyrd. The high-energy, iconic guitar solo-heavy track creates a triumphant and patriotic mood that builds throughout the montage of game highlights and celebrations.",
+  "editing_pacing": "A fast-paced montage with quick cuts showing gameplay highlights, goals, on-ice celebrations, and fan reactions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "triumph",
+    "mockery"
+  ],
+  "cultural_references": [
+    "'Miracle on Ice' (1980 Olympics)",
+    "Lynyrd Skynyrd",
+    "Milano Cortina 2026 Olympics"
+  ],
+  "central_claim": "Team USA's hockey team secured a dominant and historic Olympic gold medal victory against rival Canada in 2026, sparking intense national pride.",
+  "intended_effect": "To make American viewers feel proud and triumphant about the US Olympic hockey team's victory over Canada.",
+  "uncertainty_flags": [
+    "The opening audio attributed to Matthew Tkachuk sounds potentially AI-generated or spliced together, as the profane trash talk is unusual for an official press conference. It is not possible to confirm this based on visual evidence alone."
+  ]
+}

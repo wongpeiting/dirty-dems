@@ -1,0 +1,56 @@
+{
+  "video_id": "7285875710231694622",
+  "visual_action": "A close-up shot of Kevin McCarthy looking serious, with a simulated tweet from The Democrats overlaid. This cuts to a second close-up of McCarthy looking shocked and covering his mouth with his hand, with new overlay text appearing.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in close-up for the entire video, and the on-screen text is entirely about him, naming him twice: 'Kevin McCarthy' and 'McCarthy'."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The first on-screen text is presented as a tweet from 'The Democrats @TheDemocrats'."
+    },
+    {
+      "name": "MAGA Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text claims Kevin McCarthy secured the speakership by 'handing power over to the most extreme MAGA Republicans'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats @TheDemocrats\n\nAfter 15 tries, Kevin McCarthy secured himself the title of Speaker of the House by handing power over to the most extreme MAGA Republicans.",
+      "role": "overlay"
+    },
+    {
+      "text": "McCarthy making history: most votes to become Speaker then proceeds to lose his job in record time",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A short, mournful sound effect, like a sad trombone or slide guitar, plays over the video to create a mocking and pathetic tone.",
+  "editing_pacing": "The video consists of a single cut between two static, close-up shots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The use of a 'sad trombone'-style sound effect is a common comedic trope to signify failure."
+  ],
+  "central_claim": "Kevin McCarthy's tenure as Speaker was a historic failure, as he struggled to win the position and then lost it in record time.",
+  "intended_effect": "To make the viewer mock Kevin McCarthy and see his speakership as an embarrassing failure.",
+  "uncertainty_flags": []
+}

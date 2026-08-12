@@ -1,0 +1,49 @@
+{
+  "video_id": "7417165448837385514",
+  "visual_action": "The video starts with text reading \"Trump back in March:\" above a screenshot of a tweet from Donald J. Trump. The tweet says, \"Therefore, I am calling for Debates, ANYTIME, ANYWHERE, ANYPLACE!\". The video then cuts to a clip of Kamala Harris at what appears to be a debate or forum, resting her chin on her hand with a contemplative or skeptical expression.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of his tweet is shown, and the introductory text reads \"Trump back in March:\"."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A video clip of her face is shown as a reaction to Trump's tweet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump back in March:",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump\n@realDonaldTrump\n\nTherefore, I am calling for Debates, ANYTIME, ANYWHERE, ANYPLACE!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice repeats the phrase \"You sure about that?\" three times with an echo effect.",
+  "emojis_present": [],
+  "audio_music": "A repeated, echoing meme sound bite of a male voice asking \"You sure about that?\" plays over a very subtle, gentle instrumental track. The overall effect of the audio is mocking and skeptical.",
+  "editing_pacing": "The video consists of a static shot of a tweet followed by a single cut to a static shot of Kamala Harris.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "skepticism",
+    "irony"
+  ],
+  "cultural_references": [
+    "The audio clip \"You sure about that?\" is a popular meme sound from the TV show 'I Think You Should Leave with Tim Robinson'."
+  ],
+  "central_claim": "Donald Trump is being hypocritical because he previously called for debates 'anytime, anywhere' but is now perceived as being hesitant to debate.",
+  "intended_effect": "To make the viewer question Donald Trump's sincerity and see him as hypocritical.",
+  "uncertainty_flags": []
+}

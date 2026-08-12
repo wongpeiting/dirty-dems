@@ -1,0 +1,78 @@
+{
+  "video_id": "7600831275540221198",
+  "visual_action": "The video is shot from within a large arena audience, showing a massive concert stage with elaborate gothic-style architectural set pieces — arched columns, dramatic dark structures illuminated in green and teal lighting. A large elevated screen/jumbotron displays a close-up of a performer (Lady Gaga) seated at what appears to be a red piano or keyboard prop, wearing a dark red/rust-colored outfit with long dark hair, singing or speaking passionately into a microphone. Below on the main stage floor, a small figure (also Lady Gaga performing) is visible in the distance surrounded by stage lighting. The audience is visible at the bottom of the frame with phone lights scattered throughout. The framing alternates between the jumbotron close-up of Gaga and wider shots of the full stage. A persistent white text box overlay with the headline \"Lady Gaga condemns ICE during her show\" remains throughout all frames. Rolling word-by-word transcript captions appear at the bottom of the screen in white and yellow highlighting.",
+  "cast": [
+    {
+      "name": "Lady Gaga",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "On-screen headline reads 'Lady Gaga condemns ICE during her show'; performer is shown on arena jumbotron at a red piano; audio transcript is her spoken statement; account caption says 'thank you mother monster' (fan nickname for Lady Gaga)"
+    },
+    {
+      "name": "ICE (U.S. Immigration and Customs Enforcement)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text 'Lady Gaga condemns ICE during her show' and transcript: 'people...who are being mercilessly targeted by ICE'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Lady Gaga condemns ICE during her show",
+      "role": "overlay"
+    },
+    {
+      "text": "In a couple of",
+      "role": "caption"
+    },
+    {
+      "text": "days I'm gonna",
+      "role": "caption"
+    },
+    {
+      "text": "targeted by ICE.",
+      "role": "caption"
+    },
+    {
+      "text": "thinking about",
+      "role": "caption"
+    },
+    {
+      "text": "all of their",
+      "role": "caption"
+    },
+    {
+      "text": "pain",
+      "role": "caption"
+    },
+    {
+      "text": "everyone back at",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Lady Gaga addresses the concert crowd in an emotional spoken statement. She says she will soon be heading home and that her \"heart is aching\" thinking about \"the people, the children, the families all over America who are being mercilessly targeted by ICE.\" She expresses anguish over families whose lives are \"being destroyed right in front of us.\" She mentions Minnesota specifically and those \"living in so much fear and searching for answers on what we all should do.\" She concludes: \"When entire communities lose their sense of safety and belonging, it breaks something in all of us. I hope that you'll all stand with us tonight. Thank you.\"",
+  "emojis_present": [],
+  "audio_music": "The audio throughout is Lady Gaga's live spoken address to the concert crowd — an emotional, impassioned speech with no musical accompaniment audible in this clip. Crowd noise is faintly present in the background. The sound label indicates this is original audio captured at the concert. No commercial music is detected.",
+  "editing_pacing": "Relatively static fan-shot footage with minimal cuts — the camera occasionally pans or zooms between the jumbotron close-up of Gaga and wider stage shots. Pacing is slow and deliberate, matching the emotional tone of the speech. Rolling word-by-word captions with yellow keyword highlights are layered over the footage in a standard TikTok caption style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "empathy and sorrow — evoked by Gaga's emotional tone referencing children and families in pain",
+    "urgency — 'being destroyed right in front of us'",
+    "solidarity — 'I hope that you'll all stand with us tonight'",
+    "fear — referencing communities 'living in so much fear'"
+  ],
+  "cultural_references": [
+    "Lady Gaga — musician and performer, referred to by her fan nickname 'Mother Monster' in the account caption; shown performing at what appears to be her concert tour with a gothic theatrical stage production"
+  ],
+  "central_claim": "Lady Gaga publicly condemned ICE during a live concert performance, expressing heartbreak over families being targeted and calling on the audience to stand in solidarity.",
+  "intended_effect": "To amplify Lady Gaga's anti-ICE statement to a politically engaged audience, encouraging emotional solidarity with communities affected by immigration enforcement.",
+  "uncertainty_flags": [
+    "The specific concert tour name and venue/date are not visible in the footage",
+    "The reference to 'Minnesota' in the speech may relate to a specific ICE raid or event there — the exact incident is not identified in the video",
+    "Lady Gaga is identified via on-screen text and context, not confirmed by face-ID; the jumbotron image is low resolution"
+  ]
+}

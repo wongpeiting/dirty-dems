@@ -1,0 +1,88 @@
+{
+  "video_id": "7657268557650185485",
+  "visual_action": "The video displays a static graphic with a red, white, and blue background and text reading \"BORN IN THE USA!\". It then transitions to a second static image, which is a screenshot of a DNC statement regarding a Supreme Court case, \"TRUMP V. BARBARA\", celebrating the reaffirmation of birthright citizenship.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The statement shown is titled \"DNC STATEMENT...\" and includes the \"DEMOCRATS\" logo."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen statement text names him directly: \"Donald Trump has sought to recycle racist, debunked legal arguments... Today, he failed.\""
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The statement mentions that \"the Supreme Court emphatically rejected his anti-immigrant crusade\"."
+    },
+    {
+      "name": "Barbara",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The name appears in the title of the legal case mentioned on screen: \"DNC STATEMENT ON TRUMP V. BARBARA\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "IF YOU WERE BORN HERE",
+      "role": "overlay"
+    },
+    {
+      "text": "BORN IN THE USA!",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU ARE AN AMERICAN CITIZEN",
+      "role": "overlay"
+    },
+    {
+      "text": "DNC STATEMENT ON TRUMP V. BARBARA",
+      "role": "overlay"
+    },
+    {
+      "text": "Since his first days in office, Donald Trump has sought to recycle racist, debunked legal arguments to strip away the constitutional rights of American citizens born to immigrant parents. Today, he failed.",
+      "role": "overlay"
+    },
+    {
+      "text": "With Trump v. Barbara, the Supreme Court emphatically rejected his anti-immigrant crusade and reaffirmed what has been enshrined in the clear language of the 14th Amendment: If you are born in the United States, you are a citizen. Democrats will continue to defend the rights of every American.",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATS",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "The song \"Born In the U.S.A.\" by Bruce Springsteen plays throughout the video. It is an anthemic rock track used to create a patriotic and triumphant mood.",
+  "editing_pacing": "The video is a simple slideshow, consisting of two static text-based graphics shown sequentially.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "triumph",
+    "vindication"
+  ],
+  "cultural_references": [
+    "Bruce Springsteen",
+    "Born In the U.S.A. (song)"
+  ],
+  "central_claim": "The Democratic Party has successfully defended birthright citizenship in the Supreme Court against Donald Trump's attempts to undermine it.",
+  "intended_effect": "To inform viewers of a Democratic legal victory, cast Trump as a defeated opponent of constitutional rights, and foster a sense of patriotic pride and reassurance.",
+  "uncertainty_flags": [
+    "The identity and role of 'Barbara' in the case 'Trump v. Barbara' is not explained in the video."
+  ]
+}

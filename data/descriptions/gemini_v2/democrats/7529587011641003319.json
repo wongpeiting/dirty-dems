@@ -1,0 +1,58 @@
+{
+  "video_id": "7529587011641003319",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named 'FactPost'. The tweet features a side-by-side image layout: on the left is an aerial shot of a detention center with people in an outdoor yard, and on the right is a portrait of a woman identified as Kristi Noem. After a few seconds, the view cuts to a screenshot of a text document which describes alleged abuse of detainees, with one paragraph highlighted in yellow.",
+  "cast": [
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photograph of her is featured prominently in a tweet about alleged abuse at a detention center, implying her association with or responsibility for the events described."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a screenshot of a tweet from the account 'FactPost' (@factpostnews)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New report reveals individuals at a Miami detention center were shackled with their hands tied behind their backs and forced to kneel to eat food “like dogs.”",
+      "role": "overlay"
+    },
+    {
+      "text": "Staff were dismissive or abusive even when detainees were undergoing a visibly obvious medical crisis. For example, staff ignored a detained immigrant who began coughing blood in a crowded holding cell for hours. In that case, unrest ensued, and a Disturbance Control Team stormed the cell, forcing the men in it to lie face down on the wet, dirty floor while officers zip-tied their hands behind their backs. A detainee said he heard an officer order the cell’s CCTV camera feed to be turned off. Another detainee said a team member slapped him while shouting, “Shut the f*ck up.”",
+      "role": "overlay"
+    },
+    {
+      "text": "During another incident, officers made men eat while shackled with their hands behind their backs after forcing the group to wait hours for lunch: “We had to bend over and eat off the chairs with our mouths, like dogs,” one man said.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it consists only of an ominous musical score.",
+  "emojis_present": [],
+  "audio_music": "A continuous, low, ominous, and suspenseful musical score plays throughout the video, creating a sense of dread and seriousness.",
+  "editing_pacing": "The video is a slow-paced slideshow, consisting of a static screenshot of a tweet, followed by a cut to a static screenshot of a text document.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "disgust",
+    "horror"
+  ],
+  "cultural_references": [],
+  "central_claim": "A report alleges that individuals at a Miami detention center are being treated inhumanely, and the post implicitly links Republican governor Kristi Noem to this abuse by featuring her image.",
+  "intended_effect": "To generate outrage and disgust towards Kristi Noem by associating her with alleged human rights abuses.",
+  "uncertainty_flags": [
+    "The identity of the woman in the photograph is not confirmed by authoritative face-ID but strongly resembles Kristi Noem.",
+    "The authenticity of the 'FactPost' tweet and the accompanying document is presented as fact but cannot be verified from the video alone."
+  ]
+}

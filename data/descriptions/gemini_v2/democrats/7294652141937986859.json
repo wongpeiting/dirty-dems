@@ -1,0 +1,83 @@
+{
+  "video_id": "7294652141937986859",
+  "visual_action": "A video clip of Speaker Mike Johnson in an interview on Fox News. The clip is framed by on-screen text at the top, and subtitles appear at the bottom as he speaks.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is shown throughout the clip, and he is identified by name in both the on-screen overlay text ('Mike Johnson') and the Fox News chyron ('SPEAKER MIKE JOHNSON')."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The overlay text identifies Mike Johnson as the 'Republican speaker of the House'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and chyron format are visible in the interview clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The day after the Maine shooting: Republican speaker of the House Mike Johnson says guns aren't the problem",
+      "role": "overlay"
+    },
+    {
+      "text": "EXCLUSIVE INTERVIEW WITH SPEAKER MIKE JOHNSON",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "MONITORING THE MANHUNT IN MAINE",
+      "role": "chyron"
+    },
+    {
+      "text": "At the end of the day,",
+      "role": "caption"
+    },
+    {
+      "text": "it's — the problem is the human heart.",
+      "role": "caption"
+    },
+    {
+      "text": "It's not guns.",
+      "role": "caption"
+    },
+    {
+      "text": "Not the weapons.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Mike Johnson states, \"At the end of the day, it's— the problem is the human heart. It's not guns. Not the weapons.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the interview clip, with no accompanying music or sound effects.",
+  "editing_pacing": "The video is a single, static clip of a talking-head interview.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "criticism",
+    "disagreement"
+  ],
+  "cultural_references": [],
+  "central_claim": "The day after the Maine mass shooting, Republican Speaker Mike Johnson stated that the problem is the 'human heart,' not guns.",
+  "intended_effect": "To frame Mike Johnson's comments as an inadequate and inappropriate response to gun violence, thereby generating criticism of him and the Republican stance on gun control.",
+  "uncertainty_flags": []
+}

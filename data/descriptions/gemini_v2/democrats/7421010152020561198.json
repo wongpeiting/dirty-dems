@@ -1,0 +1,111 @@
+{
+  "video_id": "7421010152020561198",
+  "visual_action": "A split-screen view of two men in suits, Tim Walz on the right and J.D. Vance on the left, standing at lecterns during what appears to be a formal debate. Walz is speaking and gesturing towards Vance, who is listening. The background is a solid blue, and a news chyron is at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown on screen speaking during a debate, identified by face-ID. The post's title frames the action from his perspective."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown on screen responding to a question during a debate, identified by face-ID. The post's title identifies him as the subject of Walz's criticism."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The central topic of discussion is his 2020 election loss. Walz says, 'because of Donald Trump's inability to say...' and the on-screen text reads 'Trump's loss'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by J.D. Vance in his deflection: 'Did Kamala Harris censor Americans...'"
+    },
+    {
+      "name": "CBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CBS News logo and name are visible on the chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Walz DRAGS Vance over not admitting Trump's loss",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE @CBS NEWS ... VICE PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "For @CBSNEWS CONFIRMED FACT CHECKS, visit cbsnews.com or scan the code",
+      "role": "chyron"
+    },
+    {
+      "text": "ITSELF",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP'S",
+      "role": "caption"
+    },
+    {
+      "text": "LOSE",
+      "role": "caption"
+    },
+    {
+      "text": "ELECTION",
+      "role": "caption"
+    },
+    {
+      "text": "TIM",
+      "role": "caption"
+    },
+    {
+      "text": "KAMALA",
+      "role": "caption"
+    },
+    {
+      "text": "CENSOR",
+      "role": "caption"
+    },
+    {
+      "text": "AMERICANS",
+      "role": "caption"
+    },
+    {
+      "text": "DAMNING",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Tim Walz calls out Donald Trump for his continued refusal to admit he lost the 2020 election. Walz then directly asks J.D. Vance, \"Did he lose the 2020 election?\" Vance deflects the question, saying he is \"focused on the future\" and pivots to asking if Kamala Harris censored Americans during the COVID-19 pandemic. Walz responds by calling Vance's evasion \"a damning non-answer.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the political debate, with no accompanying music or sound effects.",
+  "editing_pacing": "The video uses a static, split-screen shot throughout. The primary editing technique is the use of large, animated text captions that appear on screen to emphasize keywords as they are spoken by the debaters.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Contempt",
+    "Confrontation",
+    "Tension"
+  ],
+  "cultural_references": [],
+  "central_claim": "J.D. Vance refuses to acknowledge that Donald Trump lost the 2020 election, demonstrating his alignment with election denial.",
+  "intended_effect": "To portray J.D. Vance as evasive and untrustworthy for not giving a direct answer about the 2020 election results.",
+  "uncertainty_flags": []
+}

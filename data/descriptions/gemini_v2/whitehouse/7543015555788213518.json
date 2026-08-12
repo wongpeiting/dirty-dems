@@ -1,0 +1,72 @@
+{
+  "video_id": "7543015555788213518",
+  "visual_action": "A montage shows construction workers using heavy machinery to build a large, slat-style border wall in a desert setting. This is intercut with footage of a line of red buoys in a river. The video frequently cuts to various clips of Donald Trump dancing on stage at rallies, both in a suit and in an overcoat with a 'Make America Great Again' hat, in front of large crowds. The video concludes with black-and-white shots of the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown in multiple clips dancing at rallies, serving as the celebratory centerpiece of the video about the border wall."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and ends with a title card that reads 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The narrator states that 'Congress recently gave Chief Michael Banks $46 billion...'"
+    },
+    {
+      "name": "Michael Banks",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The narrator states that Congress provided funding to 'Chief Michael Banks'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FINISH",
+      "role": "overlay"
+    },
+    {
+      "text": "THE",
+      "role": "overlay"
+    },
+    {
+      "text": "WALL!",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A news-style voiceover states: \"Congress recently gave Chief Michael Banks $46 billion for 1,300 miles of new wall and 900 miles of buoys.\"",
+  "emojis_present": [],
+  "audio_music": "The video features an upbeat, driving, and triumphant electronic track throughout. The music creates a sense of action, progress, and celebration, suitable for a hype video. The music fingerprint identifies a track change around the 8-second mark, but the style remains consistent.",
+  "editing_pacing": "The video is a fast-paced montage, using quick cuts that switch between B-roll footage of border wall construction and celebratory clips of Donald Trump at rallies.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Accomplishment",
+    "Celebration",
+    "Triumph"
+  ],
+  "cultural_references": [],
+  "central_claim": "The White House is successfully fulfilling the promise to build the border wall, having secured significant funding from Congress for its construction.",
+  "intended_effect": "To make viewers, particularly supporters, feel proud and excited about the progress on the border wall, reinforcing the idea that this administration delivers on its promises.",
+  "uncertainty_flags": []
+}

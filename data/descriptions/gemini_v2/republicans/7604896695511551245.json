@@ -1,0 +1,109 @@
+{
+  "video_id": "7604896695511551245",
+  "visual_action": "The video starts with a clip of Meryl Streep as Miranda Priestly in a car, speaking. It then cuts to a CNN news segment where a male reporter stands in front of a large screen displaying polling data about voter ID laws. The graphic shows that 71% of Democrats and 95% of Republicans favor photo ID to vote. The reporter gestures to these numbers, which are highlighted with green circles and lines.",
+  "cast": [
+    {
+      "name": "unnamed CNN reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male reporter is shown speaking in a CNN studio."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen graphic shows \"DEMOCRATS 71%\" and the reporter says \"7 in 10 Democrats\" support voter ID."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen graphic shows \"REPUBLICANS 95%\"."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible on the screen during the news segment."
+    },
+    {
+      "name": "Pew Research Center",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen graphic cites \"SOURCE: PEW RESEARCH CENTER, 2025\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Oh, don't be ridiculous, Andrea.",
+      "role": "caption"
+    },
+    {
+      "text": "It's not really all that controversial.",
+      "role": "caption"
+    },
+    {
+      "text": "7 in 10 Democrats agree with Nicki Minaj",
+      "role": "caption"
+    },
+    {
+      "text": "That you in fact should show A Voter photo ID to vote.",
+      "role": "caption"
+    },
+    {
+      "text": "FAVOR PHOTO ID TO VOTE",
+      "role": "chyron"
+    },
+    {
+      "text": "DEMOCRATS",
+      "role": "chyron"
+    },
+    {
+      "text": "71%",
+      "role": "chyron"
+    },
+    {
+      "text": "REPUBLICANS",
+      "role": "chyron"
+    },
+    {
+      "text": "95%",
+      "role": "chyron"
+    },
+    {
+      "text": "SOURCE: PEW RESEARCH CENTER, 2025... INCLUDE INDEPENDENTS WHO LEAN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video combines audio from two sources. First, a clip from a movie where a woman says, \"Oh, don't be ridiculous, Andrea. Everybody wants this.\" Then, a news reporter's voice says, \"It's not really all that controversial,\" before stating that \"7 in 10 Democrats agree with Nicki Minaj that you, in fact, should show a voter photo ID to vote.\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat, driving electronic track plays throughout the entire video, under both the movie dialogue and the news report, creating a confident and energetic tone.",
+  "editing_pacing": "The video uses fast-paced editing, cutting from a movie clip to a news segment. It employs zooms and animated green marker scribbles to highlight and emphasize the polling numbers on the screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Dismissiveness",
+    "Vindication",
+    "Confidence"
+  ],
+  "cultural_references": [
+    "The Devil Wears Prada",
+    "Meryl Streep",
+    "Miranda Priestly",
+    "Nicki Minaj"
+  ],
+  "central_claim": "Requiring a photo ID to vote is a common-sense policy with overwhelming bipartisan support, including from a majority of Democrats, making opposition to it seem ridiculous.",
+  "intended_effect": "To persuade viewers that voter ID laws are not a controversial or partisan issue and to delegitimize any political opposition to them.",
+  "uncertainty_flags": []
+}

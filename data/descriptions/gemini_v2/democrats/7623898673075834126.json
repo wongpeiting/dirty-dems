@@ -1,0 +1,87 @@
+{
+  "video_id": "7623898673075834126",
+  "visual_action": "The video shows a news segment from CNN. Two male reporters are in a studio. One reporter gestures towards a large screen displaying a graphic about potential gas prices. The graphic shows a stylized gas pump with prices of \"$200 OIL\" and \"$7 GAS\". A breaking news chyron at the bottom of the screen first reads \"IRAN STRIKES KUWAITI OIL TANKER ANCHORED IN DUBAI\" and then changes to \"OIL PRICES RISE AS TRUMP THREATENS IRANIAN ENERGY SITES\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The CNN chyron reads: \"OIL PRICES RISE AS TRUMP THREATENS IRANIAN ENERGY SITES\"."
+    },
+    {
+      "name": "unnamed CNN reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The man in the blue suit is speaking throughout the clip, explaining the potential for high gas prices."
+    },
+    {
+      "name": "unnamed CNN reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A second man is shown standing and listening to the main speaker."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible on the chyron and in the studio background."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Reporter says gas prices could be $7 a gallon 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU COULD SEE FAR PRICES. HIT $200 A BARREL. NOT EQUATE DOLLARS A OR SIX, SOMETHING LIKE SEVEN GALLON OF GAS.",
+      "role": "caption"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "IRAN STRIKES KUWAITI OIL TANKER ANCHORED IN DUBAI",
+      "role": "chyron"
+    },
+    {
+      "text": "OIL PRICES RISE AS TRUMP THREATENS IRANIAN ENERGY SITES",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "IF WAR WITH IRAN LASTS THROUGH JUNE... $200 OIL $7 GAS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A CNN reporter explains that if oil were to hit $200 a barrel due to a conflict with Iran, gas prices would rise not just to five or six dollars a gallon, but \"something like $7 a gallon gas.\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the CNN news clip, with no music or sound effects.",
+  "editing_pacing": "The video is a single, continuous clip from a broadcast, presented in a static, talking-head style. It has been cropped into a vertical format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "During Donald Trump's presidency, his threats against Iran created a risk of gas prices rising to $7 a gallon.",
+  "intended_effect": "To generate fear and concern about the economic consequences of Donald Trump's foreign policy, specifically regarding gas prices.",
+  "uncertainty_flags": [
+    "The exact date of the original CNN broadcast is not specified."
+  ]
+}

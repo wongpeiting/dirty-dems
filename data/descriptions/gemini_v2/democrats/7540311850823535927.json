@@ -1,0 +1,62 @@
+{
+  "video_id": "7540311850823535927",
+  "visual_action": "The video starts with a screenshot of a fake tweet from an account called \"FactPost\". The tweet claims that JD Vance has taken vacations in February, March, April, May, June, July, and August of the \"Trump-Vance administration\". Below the text are two photos: one of JD Vance in a swimming pool, and one of a sticky note on a keyboard that reads \"OUT OF OFFICE\". The video then proceeds as a montage of short clips and still photos showing JD Vance in various leisure settings: on a golf course, walking on a dock with a woman, walking down a street with a woman, speaking in front of Mount Rushmore, and at an outdoor venue holding a child. Each new visual is accompanied by a new audio clip singing the next month of the year.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is named in the on-screen tweet and shown in every clip of the montage."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned in the on-screen tweet as part of the \"Trump-Vance administration\"."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle \"@factpostnews\" of the account are shown in the fabricated tweet screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost\n@factpostnews\n\nJD Vance has taken vacations in the following months of the Trump-Vance administration:\n\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust",
+      "role": "meme_text"
+    },
+    {
+      "text": "OUT OF OFFICE",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The audio is a compilation of short clips from various songs, with each clip featuring a singer singing a different month of the year, from February through December, in sequence. This musical counting of months serves as the soundtrack for the montage.",
+  "emojis_present": [],
+  "audio_music": "The audio is a fast-paced montage of song snippets from multiple different tracks, with each snippet featuring the name of a month being sung. The musical styles change with each month/clip, creating a varied but continuous soundtrack. According to metadata, the music includes Frank Ocean's \"Dear April\" and Green Day's \"Wake Me up When September Ends\".",
+  "editing_pacing": "The video uses a fast-cut montage style, with each visual (still photo or short clip) lasting only about a second before cutting to the next one, synchronized with the audio singing the months of the year.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated tweet from a fictitious news source called \"FactPost\". This tweet makes a false claim about a hypothetical future \"Trump-Vance administration\" to satirically suggest that JD Vance would spend most of his time on vacation if elected.",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "The video uses a popular meme format of stringing together song clips that mention a series of items (in this case, months of the year).",
+    "Wake Me up When September Ends - Green Day",
+    "Dear April - Frank Ocean"
+  ],
+  "central_claim": "The post satirically claims that if elected Vice President, JD Vance would be lazy and constantly on vacation, neglecting the duties of his office.",
+  "intended_effect": "To portray JD Vance as unfit for office by mocking him as lazy and unserious, thereby encouraging viewers to disapprove of him.",
+  "uncertainty_flags": [
+    "The identity of the woman shown with JD Vance in several clips is unknown.",
+    "The full list of songs used for the month montage is not identifiable."
+  ]
+}

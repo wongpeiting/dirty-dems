@@ -1,0 +1,108 @@
+{
+  "video_id": "7637555519108009247",
+  "visual_action": "A static image displays two screenshots of posts from the social media platform X. The top post, from the 'Republicans' account, shows a meme featuring the cartoon character Chuckie Finster from 'Rugrats' holding a sign that reads \"Hold this\" above a piece of paper with the letter \"L\". The bottom post, from the 'Democrats' account, shows a fabricated news article from 'FactPost' dated 4/21/26, claiming a major electoral victory for Virginia Democrats regarding congressional maps.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The top post is from the account 'Republicans' (@Republicans)."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The bottom post is from the account 'Democrats' (@TheDemocrats) and is the subject of the mockery."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name is mentioned in the text of the fabricated news article: \"This directly counteracts Trump and Republicans' gerrymander in Texas.\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The fabricated news article is attributed to 'FactPost @factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans",
+      "role": "other"
+    },
+    {
+      "text": "@Republicans",
+      "role": "other"
+    },
+    {
+      "text": "X.com",
+      "role": "other"
+    },
+    {
+      "text": "Hold this",
+      "role": "meme_text"
+    },
+    {
+      "text": "L",
+      "role": "meme_text"
+    },
+    {
+      "text": "Democrats",
+      "role": "other"
+    },
+    {
+      "text": "@TheDemocrats",
+      "role": "other"
+    },
+    {
+      "text": "SIC SEMPER TYRANNIS",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews - 4/21/26",
+      "role": "overlay"
+    },
+    {
+      "text": "Virginia Democrats have won a ballot measure to redraw the state's congressional maps, netting up to four new blue seats.",
+      "role": "overlay"
+    },
+    {
+      "text": "This directly counteracts Trump and Republicans' gerrymander in Texas.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken audio, only an instrumental music track. The provided transcript is inaccurate.",
+  "emojis_present": [
+    "🚨"
+  ],
+  "audio_music": "An upbeat, high-energy instrumental hip-hop track (identified as Azealia Banks' '212') plays throughout, creating a taunting and triumphant mood.",
+  "editing_pacing": "The video is a static image with no editing or cuts.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video features a staged fake news article from a non-existent outlet called 'FactPost.' This fabrication is used to create a narrative where the Democratic Party is celebrating a fake victory, which is then mocked by the 'Hold this L' meme.",
+  "emotions_signaled": [
+    "mockery",
+    "triumph",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "Chuckie Finster (from the cartoon 'Rugrats')",
+    "'Hold this L' meme (where 'L' signifies a loss)",
+    "The song '212' by Azealia Banks",
+    "The Latin phrase and Virginia state motto 'Sic Semper Tyrannis'"
+  ],
+  "central_claim": "The Democratic Party has suffered a political defeat, which makes their supposed prior confidence (represented by a fake news story) appear foolish.",
+  "intended_effect": "To mock the Democratic Party and encourage Republican supporters to feel triumphant about a political victory.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is incorrect; the audio is purely instrumental."
+  ]
+}

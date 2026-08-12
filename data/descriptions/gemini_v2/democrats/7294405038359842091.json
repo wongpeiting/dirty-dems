@@ -1,0 +1,64 @@
+{
+  "video_id": "7294405038359842091",
+  "visual_action": "Mike Johnson is shown on a stage, speaking into a microphone. He is wearing a grey suit and a red-and-white striped tie. Behind him, an American flag, an Israeli flag, and a drum set are visible. The video is a single, static shot of him speaking.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen text identifies him as \"MAGA Speaker of the House Mike Johnson\" and he is the sole speaker in the video."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text describes Mike Johnson as the \"new MAGA speaker.\""
+    },
+    {
+      "name": "Roe v. Wade",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text states that Mike Johnson blames mass shootings on, among other things, \"Roe v. Wade.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This is the new MAGA speaker ⬇️😳",
+      "role": "overlay"
+    },
+    {
+      "text": "MAGA Speaker of the House Mike Johnson in 2016 blames mass shootings on “no-fault divorce laws,” “feminism,” and Roe v. Wade",
+      "role": "overlay"
+    },
+    {
+      "text": "You remember in the late ‘60s we invented things like no-fault divorce laws. We invented the sexual revolution. We invented radical feminism. We invented legalized abortion in 1973, where the state — the government sanctions the killing of the unborn. I mean, we know that we’re living in a completely amoral society. And people say, how can a young person go into their school house and open fire on their classmates? Because we’ve taught a whole generation, a couple of generations now of Americans, that there is no right and wrong.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Mike Johnson argues that societal changes from the 1960s and 1970s, which he calls \"inventions,\" have created a \"completely amoral society.\" He lists \"no-fault divorce laws,\" \"the sexual revolution,\" \"radical feminism,\" and \"legalized abortion\" as the causes. He then connects this perceived moral decay directly to mass shootings, stating that young people commit such acts because they have been taught for generations that \"there is no right and wrong.\"",
+  "emojis_present": [
+    "⬇️",
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of Mike Johnson's uninterrupted speech, with the natural acoustics of the room. There is no music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot. The only editing is the addition of text overlays and captions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "outrage",
+    "shock"
+  ],
+  "cultural_references": [],
+  "central_claim": "The new Speaker of the House, Mike Johnson, holds extreme beliefs, blaming mass shootings on social progress like feminism, no-fault divorce laws, and the legalization of abortion.",
+  "intended_effect": "To create disapproval of and opposition to Mike Johnson by showcasing his controversial views on social issues and their connection to violence.",
+  "uncertainty_flags": [
+    "The on-screen text claims the footage is from 2016, but this is not independently verified within the video clip itself."
+  ]
+}

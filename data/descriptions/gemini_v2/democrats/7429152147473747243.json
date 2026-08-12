@@ -1,0 +1,86 @@
+{
+  "video_id": "7429152147473747243",
+  "visual_action": "Kamala Harris is on stage at a CNN Presidential Town Hall with Anderson Cooper. Cooper asks Harris a question, and the video cuts from a two-shot of them on stage to a medium close-up of Harris as she answers. The stage has a red, white, and blue background with CNN logos.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Kamala Harris is shown on screen answering a question during a televised town hall."
+    },
+    {
+      "name": "Anderson Cooper",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Anderson Cooper is shown on screen asking Kamala Harris a question."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire exchange is about Donald Trump, with Anderson Cooper asking, \"Do you think Donald Trump is a fascist?\""
+    },
+    {
+      "name": "Mark Milley",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Anderson Cooper mentions him at the start of the clip: \"You've quoted General Milley calling Donald Trump a fascist.\""
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and branding are visible on the stage backdrop and in the on-screen chyrons."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Anderson Cooper: “Do you think Donald Trump is a fascist?”",
+      "role": "overlay"
+    },
+    {
+      "text": "Kamala Harris: “Yes I do, yes I do and I also believe that the people who know him best on this subject should be trusted.”",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENTIAL TOWN HALL WITH KAMALA HARRIS",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN TOWN HALL",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Anderson Cooper asks Kamala Harris directly, \"Do you think Donald Trump is a fascist?\" Harris replies unequivocally, \"Yes I do, yes I do.\" She elaborates that she believes the people who know him best on the subject should be trusted.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of the spoken dialogue between Anderson Cooper and Kamala Harris from the town hall event. There is no music or other sound.",
+  "editing_pacing": "The editing is simple, with cuts between a two-shot of the speakers and a medium close-up of Kamala Harris. The style is that of a standard broadcast news clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "alarm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris explicitly believes and states that Donald Trump is a fascist.",
+  "intended_effect": "To reinforce the view that Donald Trump is a dangerous and anti-democratic figure, using the Vice President's direct confirmation as evidence.",
+  "uncertainty_flags": []
+}

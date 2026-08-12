@@ -1,0 +1,78 @@
+{
+  "video_id": "7650152538586598670",
+  "visual_action": "A montage of clips showing Donald Trump in an office setting, surrounded by people. He speaks from a desk, then signs a document with a black marker. He holds up the signed document folder as people behind him applaud. The video concludes with a black screen featuring a white line drawing of the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure shown speaking and signing a document throughout the video."
+    },
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown briefly in the background listening to Trump speak."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified with medium confidence by face-ID as being in the background."
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump states he is signing an act to \"fully fund the Department of Homeland Security\"."
+    },
+    {
+      "name": "ICE",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption states \"FULLY FUNDING ICE & BORDER PATROL\". ICE stands for U.S. Immigration and Customs Enforcement."
+    },
+    {
+      "name": "Border Patrol",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption states \"FULLY FUNDING ICE & BORDER PATROL\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces he is signing the \"Secure America Act\" to fully fund the Department of Homeland Security through the end of his term. He states this is to provide law enforcement with the resources to protect the borders and deport \"criminal aliens.\" He adds that his administration has been removing dangerous people from the country since \"day one.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, serious, and somewhat dramatic orchestral score plays under Trump's speech. The music adds a sense of importance and gravity to the proceedings. The identified track is 'Rainy Day' by Young Rich Pixies.",
+  "editing_pacing": "A montage with multiple cuts between different camera angles of the same event, focusing on Donald Trump speaking and signing the document.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Strength",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is securing the nation's borders by signing the \"Secure America Act\" to provide full, long-term funding for the Department of Homeland Security, ICE, and Border Patrol.",
+  "intended_effect": "To persuade viewers that Trump is a strong and decisive leader who is effectively handling border security.",
+  "uncertainty_flags": [
+    "The identity of Mike Johnson is based on a medium-confidence face-ID match."
+  ]
+}

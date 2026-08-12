@@ -1,0 +1,115 @@
+{
+  "video_id": "7465838645006650667",
+  "visual_action": "A news clip from CNN shows Donald Trump sitting at a desk in the Oval Office. He is speaking in response to an off-screen reporter's questions. A chyron from 'THE LEAD' program is visible at the bottom of the screen, and text overlays are added to transcribe the dialogue and provide context.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person on screen speaking for the duration of the video."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen female voice asks Donald Trump questions."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and broadcast graphics are visible on screen throughout the clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "you need to hear this",
+      "role": "caption"
+    },
+    {
+      "text": "Trump says he doesn’t “have a plan” to visit site of plane crash",
+      "role": "overlay"
+    },
+    {
+      "text": "DO YOU HAVE A PLAN TO",
+      "role": "overlay"
+    },
+    {
+      "text": "GO VISIT THE SITE?",
+      "role": "overlay"
+    },
+    {
+      "text": "I HAVE A PLAN TO VISIT.",
+      "role": "overlay"
+    },
+    {
+      "text": "NOT THE SITE, BECAUSE —",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT DID — YOU TELL ME. WHAT'S THE SITE?",
+      "role": "overlay"
+    },
+    {
+      "text": "WANT ME TO GO SWIMMING?",
+      "role": "overlay"
+    },
+    {
+      "text": "I DON'T HAVE A PLAN TO DO THAT,",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT I WILL BE MEETING WITH SOME",
+      "role": "overlay"
+    },
+    {
+      "text": "PEOPLE THAT WERE VERY BADLY",
+      "role": "overlay"
+    },
+    {
+      "text": "HURT. WITH THEIR FAMILY MEMBER,",
+      "role": "overlay"
+    },
+    {
+      "text": "OBVIOUSLY, BUT I'LL BE MEETING WITH SOME OF THE FAMILIES, YEAH.",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "PRES. TRUMP SIGNS EXECUTIVE ORDERS FROM OVAL OFFICE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "THE LEAD",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump if he has a plan to visit the site of a plane crash. Trump replies, \"I have a plan to visit, not the site.\" He then appears confused, asking the reporter, \"What's the site? The water? Want me to go swimming?\" He clarifies that he does not have a plan to visit the site or meet first responders but will meet with families of those who were hurt.",
+  "emojis_present": [],
+  "audio_music": "A somber, instrumental track plays throughout the clip, creating a serious and critical tone. The fingerprinted song is titled 'Modern Hitler (I hope this song makes you sick)'.",
+  "editing_pacing": "The video is a single, static talking-head clip taken from a news broadcast, with text overlays added.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval",
+    "criticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is portrayed as uncaring and incompetent through his confusing and dismissive response when questioned about visiting a plane crash site.",
+  "intended_effect": "To generate disapproval of Donald Trump and portray him as unfit for leadership due to a perceived lack of empathy and awareness.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,114 @@
+{
+  "video_id": "7168915781214899498",
+  "visual_action": "The video starts with a clip of a male news host on a set with Fox News and TYT logos, speaking about youth voters. On-screen text reads, \"Young people aren't brainwashed. We're angry.\" The video then cuts to a montage of young people at various protests. One clip shows a large crowd at a 'March For Our Lives' rally, watching a speaker on a large screen. Another clip shows a young person holding a sign that says \"CLIMATE CHANGE IS REAL.\" A final clip shows a woman holding a sign that reads \"Abortion is Health Care.\"",
+  "cast": [
+    {
+      "name": "unnamed news host",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male news host is shown speaking on a TV news set."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A chyron on the screen reads \"GOP WANTS TO RAISE VOTING AGE AFTER MIDTERM TURNOUT\"."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the verified @democrats account."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo appears on the news broadcast screen."
+    },
+    {
+      "name": "The Young Turks",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'TYT' logo appears on the news broadcast screen."
+    },
+    {
+      "name": "March For Our Lives",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A banner with the text \"MARCH FOR OUR LIVES\" is visible at a protest."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Young people aren't brainwashed. We're angry.",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "TYT",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "CONTROL OF CONGRESS STILL HANGS IN THE BALANCE",
+      "role": "chyron"
+    },
+    {
+      "text": "GOP WANTS TO RAISE VOTING AGE AFTER MIDTERM TURNOUT",
+      "role": "chyron"
+    },
+    {
+      "text": "THE DAMAGE REPORT",
+      "role": "chyron"
+    },
+    {
+      "text": "MARCH FOR OUR LIVES",
+      "role": "other"
+    },
+    {
+      "text": "CLIMATE CHANGE IS REAL",
+      "role": "other"
+    },
+    {
+      "text": "Abortion is Health Care.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A news host expresses concern about high youth voter turnout, suggesting they have been 'brainwashed' and that 'this new generation is totally brainwashed.' His dialogue is followed by a pop song.",
+  "emojis_present": [],
+  "audio_music": "The video begins with dialogue from a news clip. After about nine seconds, an upbeat and empowering pop song, \"Karma\" by Taylor Swift, begins and plays over a montage of protest footage.",
+  "editing_pacing": "The video begins with a static shot of a talking head from a news broadcast, followed by a montage of protest clips with cuts timed to the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Indignation",
+    "Empowerment",
+    "Defiance"
+  ],
+  "cultural_references": [
+    "Taylor Swift"
+  ],
+  "central_claim": "Young voters are motivated by genuine anger over political issues, not by being 'brainwashed' as conservative commentators claim.",
+  "intended_effect": "To validate the political motivations of young voters and portray the Republican party as hostile to their participation in democracy, thereby energizing young Democratic-leaning voters.",
+  "uncertainty_flags": []
+}

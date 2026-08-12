@@ -1,0 +1,65 @@
+{
+  "video_id": "7534838818483096887",
+  "visual_action": "A montage of clips showing New York Governor Kathy Hochul. She is shown speaking at a podium with an American flag behind her, walking down a city street in a suit and sunglasses, being sworn into office with her hand on a bible, and signing documents at her desk. On-screen text appears over the clips.",
+  "cast": [
+    {
+      "name": "Kathy Hochul",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the only person speaking, appears in every shot of the montage, and is identified by a nameplate on her desk that reads 'Governor Kathy Hochul'."
+    },
+    {
+      "name": "Texas Republicans",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video caption states, 'putting texas republicans on notice'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text '@DEMOCRATS' appears on screen and the video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE GLOVES ARE OFF",
+      "role": "overlay"
+    },
+    {
+      "text": "BRING IT ON",
+      "role": "overlay"
+    },
+    {
+      "text": "Governor Kathy Hochul",
+      "role": "other"
+    },
+    {
+      "text": "@DEMOCRATS",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Kathy Hochul declares \"The gloves are off\" and \"bring it on,\" quoting the proverb \"All's fair in love and war.\" She then states that she is exploring \"every option to redraw our state congressional lines as soon as possible.\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat, confident hip-hop or pop track plays throughout the video, creating an energetic and defiant mood.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various clips of Kathy Hochul.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Defiance",
+    "Determination"
+  ],
+  "cultural_references": [
+    "The proverb 'All's fair in love and war' is quoted."
+  ],
+  "central_claim": "In response to actions by Texas Republicans, Governor Kathy Hochul is prepared to fight back by pursuing the redrawing of New York's congressional district lines.",
+  "intended_effect": "To portray Kathy Hochul and the Democratic party as strong, determined, and ready to take aggressive political action against Republicans, thereby energizing their base.",
+  "uncertainty_flags": []
+}

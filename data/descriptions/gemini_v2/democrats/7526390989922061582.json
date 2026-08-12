@@ -1,0 +1,68 @@
+{
+  "video_id": "7526390989922061582",
+  "visual_action": "The video shows a wide shot of Donald Trump being interviewed by a woman in a formal room. Trump is on the left, and the interviewer, Lara Trump, is on the right, both seated. The clip then cuts to a close-up of Donald Trump's face as he speaks.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is shown, he is speaking, and the on-screen text reads \"why does Trump look so tiny 😂\" and \"PRESIDENT DONALD J. TRUMP\"."
+    },
+    {
+      "name": "Lara Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown interviewing Donald Trump, and the chyron reads \"MY VIEW WITH LARA TRUMP\"."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on the chyron throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "why does Trump look so tiny 😂",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP ON THE DANGERS OF BEING PRESIDENT",
+      "role": "chyron"
+    },
+    {
+      "text": "ONE-ON-ONE WITH PRESIDENT DONALD J. TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "MY VIEW WITH LARA TRUMP",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump states that \"the country's back\" and that \"everyone's saying we've got the hottest country in the world.\"",
+  "emojis_present": [
+    "😂",
+    "🤏"
+  ],
+  "audio_music": "The audio consists only of Donald Trump's spoken dialogue from the interview clip. There is no music or other sound.",
+  "editing_pacing": "The video starts with a static wide shot of the interview and then cuts to a close-up of Donald Trump's face.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post mocks Donald Trump's physical appearance by highlighting a wide-angle shot from a Fox News interview where he appears small.",
+  "intended_effect": "To encourage viewers to laugh at Donald Trump and perceive him as physically diminished.",
+  "uncertainty_flags": []
+}

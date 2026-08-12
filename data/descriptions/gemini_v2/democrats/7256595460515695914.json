@@ -1,0 +1,74 @@
+{
+  "video_id": "7256595460515695914",
+  "visual_action": "The video is a montage of shots of a restaurant called 'Charcoal Pit'. It shows the exterior signs, the interior with classic diner-style booths, a menu of ice cream flavors, and framed photos on the wall. A still photo is shown of Joe Biden sitting in a booth with a family. The video ends with a wide shot of the area, showing a river and buildings, with a location pin identifying the restaurant in Wilmington, DE.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the location as \"President Biden's favorite spot to get ice cream\" and a still photograph shows him sitting inside the restaurant."
+    },
+    {
+      "name": "Charcoal Pit",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The restaurant's name is featured on multiple signs on its exterior throughout the video and in the final location pin text."
+    },
+    {
+      "name": "Jack & Jill Ice Cream",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The brand name 'Jack & Jill Ice Cream' is visible at the top of an ice cream menu shown inside the restaurant."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden's favorite spot to get ice cream 🍦",
+      "role": "overlay"
+    },
+    {
+      "text": "STEAKS",
+      "role": "other"
+    },
+    {
+      "text": "Charcoal Pit",
+      "role": "other"
+    },
+    {
+      "text": "ICE CREAM CREATIONS",
+      "role": "other"
+    },
+    {
+      "text": "Jack & Jill Ice Cream",
+      "role": "other"
+    },
+    {
+      "text": "📍 Charcoal Pit Wilmington, DE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [
+    "🍦",
+    "📍"
+  ],
+  "audio_music": "A gentle, slightly dreamy and nostalgic instrumental track plays consistently throughout the video, creating a warm and positive atmosphere.",
+  "editing_pacing": "The video is a montage of quick cuts showing the exterior and interior of a restaurant, along with a still photo and a scenic shot of the location.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "nostalgia",
+    "warmth",
+    "relatability"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Charcoal Pit in Wilmington, DE is President Biden's favorite ice cream spot, showcasing his connection to his home state and relatable tastes.",
+  "intended_effect": "To humanize President Biden by associating him with a classic, local diner, making him appear more accessible and down-to-earth.",
+  "uncertainty_flags": []
+}

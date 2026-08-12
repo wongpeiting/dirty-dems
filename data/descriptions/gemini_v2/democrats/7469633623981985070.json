@@ -1,0 +1,86 @@
+{
+  "video_id": "7469633623981985070",
+  "visual_action": "A split-screen shows an interviewer asking Donald Trump for a Super Bowl prediction. Trump says he is picking Kansas City. The video then cuts to a screenshot of a tweet from the Philadelphia Eagles' official account, celebrating their Super Bowl championship with a team photo and the Lombardi Trophy.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown in an interview clip predicting the Super Bowl winner."
+    },
+    {
+      "name": "Philadelphia Eagles",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A tweet celebrating their Super Bowl championship is shown."
+    },
+    {
+      "name": "Kansas City Chiefs",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Donald Trump predicts they will win the Super Bowl."
+    },
+    {
+      "name": "Bret Baier",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown interviewing Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Super Bowl prediction?",
+      "role": "caption"
+    },
+    {
+      "text": "I have to go with Kansas City.",
+      "role": "caption"
+    },
+    {
+      "text": "Philadelphia Eagles ✅ 🏈 @Eagles",
+      "role": "overlay"
+    },
+    {
+      "text": "SUPER BOWL CHAMPIONS!\nTHIS ONE'S FOR YOU PHILLY!",
+      "role": "overlay"
+    },
+    {
+      "text": "CHAMPIONS",
+      "role": "overlay"
+    },
+    {
+      "text": "LII SUPER BOWL",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An interviewer asks, \"Super Bowl prediction?\" Donald Trump replies, \"I have to go with Kansas City.\" The dialogue is followed by a loud rap song.",
+  "emojis_present": [
+    "✅",
+    "🏈"
+  ],
+  "audio_music": "The Kendrick Lamar song 'tv off' plays throughout. It starts quietly under the interview dialogue and then dramatically increases in volume and intensity when the video cuts to the Philadelphia Eagles' victory tweet, creating a mocking and triumphant effect.",
+  "editing_pacing": "A single, abrupt cut transitions from a clip of a televised interview to a static screenshot of a tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "triumph"
+  ],
+  "cultural_references": [
+    "Super Bowl",
+    "Kendrick Lamar"
+  ],
+  "central_claim": "Donald Trump's Super Bowl prediction was wrong, symbolizing his general fallibility or status as a 'loser'.",
+  "intended_effect": "To mock Donald Trump by portraying his predictions as failures.",
+  "uncertainty_flags": [
+    "It is unclear which specific Super Bowl game is being referenced; the tweet shown is from the Eagles' 2018 victory, but Trump's prediction could be from a different year, making the juxtaposition potentially misleading."
+  ]
+}

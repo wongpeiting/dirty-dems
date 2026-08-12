@@ -1,0 +1,77 @@
+{
+  "video_id": "7646461193816722701",
+  "visual_action": "The video is an animation styled as a retro 8-bit arcade game, similar to Space Invaders. A title screen reads \"SAVE AMERICA: DEPORTATIONS!\" and \"PRESS START\". The game screen then appears, showing a player-controlled entity at the bottom shooting upwards at rows of pixelated figures resembling burglars or prisoners. As the player shoots, the figures disappear and the score increases. After a few seconds of gameplay, a final screen appears with the text \"CONGRATS! You are deporting criminal illegal aliens AND SAVING AMERICA!\".",
+  "cast": [
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video was posted by the official @whitehouse account, implying the administration is the protagonist or player of the game."
+    },
+    {
+      "name": "criminal illegal aliens",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video's final screen states, \"You are deporting criminal illegal aliens AND SAVING AMERICA!\" These individuals are depicted as the targets in the video game."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "SCORE<1> HI-SCORE SCORE<2>",
+      "role": "other"
+    },
+    {
+      "text": "0000",
+      "role": "other"
+    },
+    {
+      "text": "PLAY",
+      "role": "other"
+    },
+    {
+      "text": "SAVE AMERICA: DEPORTATIONS!",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESS START >",
+      "role": "overlay"
+    },
+    {
+      "text": "ALIENS.GOV",
+      "role": "overlay"
+    },
+    {
+      "text": "CREDIT 0",
+      "role": "other"
+    },
+    {
+      "text": "CONGRATS!",
+      "role": "overlay"
+    },
+    {
+      "text": "You are deporting criminal illegal aliens AND SAVING AMERICA!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists entirely of 8-bit arcade-style sound effects and music.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of retro, 8-bit style chiptune music and sound effects characteristic of early arcade games. There are sounds for shooting and for targets being hit. The track changes to a triumphant, congratulatory 8-bit jingle on the final \"CONGRATS!\" screen.",
+  "editing_pacing": "The video is presented as a single, continuous animation of an arcade game being played. There are no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Nostalgia",
+    "Urgency"
+  ],
+  "cultural_references": [
+    "The entire video is a reference to the classic arcade game Space Invaders, mimicking its gameplay, visual style, and sound design. The use of the word \"aliens\" is a pun on the game's theme and the political term for immigrants."
+  ],
+  "central_claim": "Deporting 'criminal illegal aliens' is a simple, heroic, and victorious act that saves America.",
+  "intended_effect": "To frame the administration's deportation policy as a straightforward and successful solution to a national problem, encouraging viewers to support it and feel a sense of victory.",
+  "uncertainty_flags": []
+}

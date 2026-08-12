@@ -1,0 +1,82 @@
+{
+  "video_id": "7514432808048381230",
+  "visual_action": "The video starts with a still image of Mike Johnson looking down, overlaid with a screenshot of an Axios article headline. It then cuts to two short clips of Johnson speaking at a podium with American flags and a GOP logo behind him. Other people are visible standing behind him.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in the video clips and is the subject of the Axios article screenshot, which reads 'Mike Johnson says Newsom should be \"tarred and feathered\"'."
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the Axios headline and in Johnson's spoken remarks. Johnson says, 'Newsom ought to be tarred and feathered'."
+    },
+    {
+      "name": "Axios",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and format of the news outlet Axios are shown in a screenshot of an article."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A logo with 'GOP' is visible on the podium where Mike Johnson is speaking."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AXIOS",
+      "role": "overlay"
+    },
+    {
+      "text": "6 hours ago - Politics & Policy",
+      "role": "overlay"
+    },
+    {
+      "text": "Mike Johnson says Newsom should be \"tarred and feathered\"",
+      "role": "overlay"
+    },
+    {
+      "text": "I'm not gonna give you legal analysis.",
+      "role": "caption"
+    },
+    {
+      "text": "Newsom ought to be tarred and feathered, I'll say that.",
+      "role": "caption"
+    },
+    {
+      "text": "GOP",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video begins with a repeated audio clip of a woman saying, \"Girl, what the fuck is you talking about?\" This is followed by a clip of Mike Johnson speaking, where he says, \"I'm not gonna give you legal analysis. Newsom ought to be tarred and feathered, I'll say that.\"",
+  "emojis_present": [],
+  "audio_music": "The video opens with a repeating, popular meme sound clip of a woman's voice saying \"Girl, what the fuck is you talking about?\", which serves a mocking and incredulous purpose. This sound is identified as \"What are you talking about — Ownedby10k\". The meme audio plays over the static image and then the video transitions to the natural audio of Mike Johnson's speech.",
+  "editing_pacing": "The video uses static images and two short, static clips of a talking head. The pacing is slow, with cuts dictated by the audio changes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "incredulity",
+    "shock",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The audio clip \"Girl, what the fuck is you talking about?\" is a widely used internet meme/sound bite, used here to frame the politician's comments as absurd."
+  ],
+  "central_claim": "Speaker of the House Mike Johnson made a violent and extreme statement suggesting that Governor Gavin Newsom should be \"tarred and feathered.\"",
+  "intended_effect": "To frame Mike Johnson's comments as shocking, absurd, and inappropriate for a political leader, thereby generating criticism against him.",
+  "uncertainty_flags": []
+}

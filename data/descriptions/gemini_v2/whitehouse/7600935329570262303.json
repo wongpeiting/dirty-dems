@@ -1,0 +1,55 @@
+{
+  "video_id": "7600935329570262303",
+  "visual_action": "Donald Trump is shown sitting at the Resolute Desk in the Oval Office, signing a document. Standing behind him are several people, including Robert F. Kennedy Jr., observing the signing. The setting is formal, with American flags and portraits visible in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, speaking directly about the initiative, and is identified by the on-screen text as 'President Trump'."
+    },
+    {
+      "name": "Robert F Kennedy Jr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible standing directly behind Donald Trump throughout the video, as confirmed by face recognition."
+    },
+    {
+      "name": "unnamed individuals",
+      "kind": "unknown",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several other men and women are standing in the background behind Donald Trump, but they are not identified."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump launches the Great American Recovery Initiative to address drug & alcohol addiction",
+      "role": "overlay"
+    },
+    {
+      "text": "MANY OF THOSE WITH ME TODAY HAVE PERSONALLY KNOWN THE HEARTACHE OF A LOVED ONE TAKEN BY DRUGS OR ALCOHOL ADDICTION. I DO. JUST LIKE MILLIONS OF AMERICAN FAMILIES. EVERY YEAR WE LOSE AN ESTIMATED 300,000 PEOPLE TO DRUG AND ALCOHOL ABUSE. AND THE REAL NUMBER IS PROBABLY MUCH, MUCH HIGHER THAN THAT. THANKFULLY, DRUG OVERDOSE DEATHS PLUMMETED BY 21% IN THE LAST YEAR. WE'RE WORKING VERY HARD ON IT. WE'VE CLOSED THE SOUTHERN BORDER, SEIZED OVER 47 MILLION FENTANYL PILLS AND 10,000 POUNDS OF FENTANYL POWDER. THAT'S A RECORD.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces the launch of the 'Great American Recovery Initiative' to combat drug and alcohol addiction. He expresses personal empathy, stating he understands the 'heartache of a loved one taken by drug or alcohol addiction.' He claims that an estimated 300,000 people die from this annually, but the real number is 'probably much, much higher.' Trump then highlights his administration's successes, claiming that 'drug overdose deaths plummeted by 21% in the last year' and that they have 'closed the southern border' and seized a record '47 million fentanyl pills and 10,000 pounds of fentanyl powder.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice speaking. There is no background music or any other sound effects.",
+  "editing_pacing": "The video is a single, static shot with no cuts, zooms, or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Empathy",
+    "Pride",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration is effectively tackling the drug and alcohol crisis with a new initiative and strong border enforcement, which has already led to a record decrease in overdose deaths.",
+  "intended_effect": "To reassure the public and instill confidence in the administration's ability to handle the national addiction crisis effectively.",
+  "uncertainty_flags": []
+}

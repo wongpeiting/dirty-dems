@@ -1,0 +1,110 @@
+{
+  "video_id": "7618668141467536653",
+  "visual_action": "The video is a rapid montage of scenes involving Donald Trump and associates. Scene 1: Trump (seated, wearing a red MAGA hat reading \"TRUMP RIGHT… 45-47 EVERY…\") receives the FIFA World Cup trophy from a smiling bald man in a dark suit (identifiable as Gianni Infantino, FIFA president) in what appears to be the Oval Office; a woman in a blue dress stands in the background. Scene 2: Trump descends the stairs of Air Force One wearing a white \"USA\" cap and a red tie. Scene 3: Trump speaks at a podium/mic wearing a white \"45-47 USA\" cap; on-screen text overlay reads \"Blackstone announced a $25 billion investment in digital and energy infrastructure across Pennsylvania.\" Scene 4: Trump seated and speaking in the Oval Office, smiling, with military/presidential flags in background. Scene 5: A clip from the film \"The Wolf of Wall Street\" showing Jonah Hill's character (Donnie Azoff) with a shocked/excited expression; on-screen text reads \"22 Million dollars in three.\" Scene 6: Trump again in the Oval Office, seated, smiling, with flags and partial view of another figure. Scene 7: Trump speaking at a presidential podium (with the Presidential Seal visible) in front of a portrait of Ronald Reagan; Robert F. Kennedy Jr. is visible to his left; on-screen text reads \"Total U.S. and Foreign Investments:\" Scene 8: Trump seated at the Resolute Desk in the Oval Office holding up a signed document, a smiling aide stands behind him; on-screen text reads \"Total U.S. and Foreign Investments:\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in multiple scenes in the Oval Office, at Air Force One stairs, and at a presidential podium; wears MAGA hats labeled '45-47'"
+    },
+    {
+      "name": "Gianni Infantino",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Bald man in dark suit smiling while presenting the FIFA World Cup trophy to Trump in the Oval Office; consistent with known appearances of FIFA president"
+    },
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible to Trump's left at the presidential podium scene, recognizable facial features"
+    },
+    {
+      "name": "Jonah Hill",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Clip from 'The Wolf of Wall Street' showing his character Donnie Azoff reacting with shock/excitement; text overlay '22 Million dollars in three'"
+    },
+    {
+      "name": "Blackstone",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text: 'Blackstone announced a $25 billion investment in digital and energy infrastructure across Pennsylvania.'"
+    },
+    {
+      "name": "FIFA",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "FIFA World Cup trophy is physically present in the Oval Office scene with Infantino"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP RIGHT… 45-47 EVERY…",
+      "role": "other"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "45-47",
+      "role": "other"
+    },
+    {
+      "text": "Blackstone announced a $25 billion investment in digital and energy infrastructure across Pennsylvania.",
+      "role": "overlay"
+    },
+    {
+      "text": "22 Million dollars in three",
+      "role": "overlay"
+    },
+    {
+      "text": "Total U.S. and Foreign Investments:",
+      "role": "overlay"
+    },
+    {
+      "text": "$10.5 TRILLION IN 1 YEAR 🤑",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio track (labeled \"original sound\") contains hype/rap-style lyrics: \"They got the mic, turned to a million, then we all rich, that's your sign. $22 billion in three f***ing hours! Be the last one out to get this dough, no way.\" The lyrics are used as an energetic, celebratory sound bed reinforcing the theme of massive financial numbers being announced.",
+  "emojis_present": [
+    "🤑"
+  ],
+  "audio_music": "Upbeat, hype/rap-style original sound with lyrics referencing making money fast (\"$22 billion in three f***ing hours,\" \"we all rich\"); functions as a triumphalist, celebratory soundtrack underscoring the investment announcement theme.",
+  "editing_pacing": "Fast cuts between multiple scenes; montage-style with rapid scene changes; bold on-screen text overlays timed to key claims; use of a pop-culture film clip (Wolf of Wall Street) as reaction insert shot; cinematic color grading (slight desaturation/cool tones on most clips).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement/euphoria (hype audio, fast cuts, large dollar figures)",
+    "national pride (Air Force One shot, Oval Office settings, FIFA trophy)",
+    "awe at scale (text overlays listing massive investment figures)",
+    "humor/relatability (Wolf of Wall Street reaction clip of Jonah Hill)"
+  ],
+  "cultural_references": [
+    "The Wolf of Wall Street (2013 film) — Jonah Hill's character reacting to a large sum of money, used as a comedic reaction meme to the investment figures"
+  ],
+  "central_claim": "During Trump's presidency, the U.S. has attracted $10.5 trillion in total domestic and foreign investments in a single year, highlighted by announcements such as Blackstone's $25 billion Pennsylvania investment.",
+  "intended_effect": "Inspire awe and pride in viewers by presenting Trump's presidency as generating unprecedented investment and economic activity in the United States.",
+  "uncertainty_flags": [
+    "The identity of the smiling aide standing behind Trump at the Resolute Desk in Scene 8 could not be confirmed.",
+    "The exact total figure '$10.5 TRILLION IN 1 YEAR' appears only in the caption and is not visually sourced within the video frames shown; unable to verify the claim independently.",
+    "The woman in the blue dress in Scene 1 (Oval Office, FIFA trophy) could not be identified.",
+    "The on-screen text 'Total U.S. and Foreign Investments:' appears to be building to a number that may appear in a frame not captured in these keyframes.",
+    "Audio lyrics referencing '$22 billion in three hours' may be original sound repurposed from a non-political source; its origin is unclear."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "video_id": "7478142286363200811",
+  "visual_action": "A man in a suit and tie, identified by on-screen text as Ken Martin, is being interviewed by an off-screen person holding a microphone. The setting is an indoor event, possibly a hall or conference room, with other people visible in the background.",
+  "cast": [
+    {
+      "name": "Ken Martin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen text identifies him as 'DNC Chair Ken Martin'. He is the person speaking for the majority of the video."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of the interviewer's question and Ken Martin's subsequent remarks. On-screen text reads 'DNC Chair Ken Martin to Elon Musk: Go to hell'."
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Ken Martin is identified by on-screen text as the 'DNC Chair'."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks the opening question to Ken Martin."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DNC Chair Ken Martin to Elon Musk: Go to hell",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT WOULD BE YOUR MESSAGE TO ELON MUSK AND HIS TEENAGE DOGE DUDES WHO ARE CURRENTLY FIRING CAREER CIVIL SERVANTS? WELL, GO TO HELL. I MEAN, THE REALITY IS, WHAT YOU'RE DOING IS DESTROYING OUR COUNTRY RIGHT NOW. ALL TO MAKE MORE MONEY FOR YOURSELF. ALL TO STEAL DATA SO YOU CAN HELP BUILD YOUR COMPANIES. WHAT YOU'RE DOING IS WRONG. AND AT THE END OF THE DAY, WE'RE WATCHING. THE AMERICAN PEOPLE ARE FED UP, AND IT'S NOT WORKING.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An interviewer asks DNC Chair Ken Martin for his message to Elon Musk and his supporters who are allegedly firing civil servants. Martin bluntly responds, \"Go to hell.\" He accuses Musk of \"destroying our country\" to make more money and steal data for his companies, calls his actions wrong, and warns that \"we're watching\" and that the American people are fed up.",
+  "emojis_present": [
+    "💯"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue from the interview, with ambient background noise of people talking at an event. There is no music or added sound effects.",
+  "editing_pacing": "The video is a single, static shot of a person being interviewed, in a talking-head format. There are no cuts or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Outrage",
+    "Condemnation"
+  ],
+  "cultural_references": [
+    "The phrase 'teenage doge dudes' is a reference to the 'Doge' internet meme, which is associated with the cryptocurrency Dogecoin, frequently mentioned by Elon Musk."
+  ],
+  "central_claim": "DNC Chair Ken Martin asserts that Elon Musk's actions are dangerously self-serving and are causing harm to the United States for his own personal gain.",
+  "intended_effect": "To generate anger towards Elon Musk and portray him as a destructive and greedy figure, aligning viewers with the Democratic party's stance against him.",
+  "uncertainty_flags": [
+    "The interviewer's question about Elon Musk 'firing career civil servants' refers to an event or narrative that is not explained or substantiated within the video clip itself."
+  ]
+}

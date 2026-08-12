@@ -1,0 +1,76 @@
+{
+  "video_id": "7664642022263016718",
+  "visual_action": "The video is a slideshow of two still images. The first is a photo of a man with a beard, sunglasses, and a cap, wearing what appears to be a tactical vest. The second image is of a street corner with the words \"THIS IS BLOOD\" written in chalk on the asphalt. Text overlays are present on both images.",
+  "cast": [
+    {
+      "name": "David Brouillette",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in an on-screen quote: \"If you were to ask me whether I believe David Brouillette is capable of this level of extreme violence...\". He is also identified as the 'ICE agent' in the initial text overlay and his photo is shown."
+    },
+    {
+      "name": "Lucinda Brouillette",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A quote is attributed to her by name on screen. She is identified as the 'second ex-wife' of the ICE agent."
+    },
+    {
+      "name": "Joan Sebastian Guerrero",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the on-screen text as the person killed by the ICE agent: '...the ICE agent who killed Joan Sebastian Guerrero in Maine...'"
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The main subject of the video, David Brouillette, is identified as an 'ICE agent' in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "A second ex-wife of the ICE agent who killed Joan Sebastian Guerrero in Maine has come forward about his abuse",
+      "role": "overlay"
+    },
+    {
+      "text": "“If you were to ask me whether I believe David Brouillette is capable of this level of extreme violence, my answer is unequivocally yes.”",
+      "role": "overlay"
+    },
+    {
+      "text": "“I experienced a persistent pattern of abuse, intimidation, manipulation, fear, and control.”",
+      "role": "overlay"
+    },
+    {
+      "text": "-Lucinda Brouillette",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS IS BLOOD",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; only instrumental music plays.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and ominous instrumental track, likely featuring piano or strings, plays continuously throughout the video, creating a serious and grim mood.",
+  "editing_pacing": "The video is a static slideshow with a single cut from one still image to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Fear",
+    "Sadness",
+    "Sympathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "An ICE agent who killed a man has a history of abuse and violence, according to his ex-wife's testimony.",
+  "intended_effect": "To generate anger towards the ICE agent, portray him as a dangerous individual, and evoke sympathy for his alleged victims.",
+  "uncertainty_flags": []
+}

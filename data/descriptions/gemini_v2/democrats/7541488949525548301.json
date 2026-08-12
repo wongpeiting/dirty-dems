@@ -1,0 +1,82 @@
+{
+  "video_id": "7541488949525548301",
+  "visual_action": "A news clip from Fox News shows Donald Trump speaking outdoors into a microphone, surrounded by a crowd that includes what appear to be law enforcement officers. The video is framed with black bars at the top and bottom and has text overlays.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video and the subject of the post's commentary."
+    },
+    {
+      "name": "Doug Burgum",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition standing in the background behind Donald Trump."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and chyron are visible throughout the clip, indicating the source of the footage."
+    },
+    {
+      "name": "DC Law Enforcement",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen chyron reads \"NOW: TRUMP MEETS WITH DC LAW ENFORCEMENT\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "What is he talking about ?? 😅",
+      "role": "overlay"
+    },
+    {
+      "text": "WASHINGTON LIVE 1:34 PM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: TRUMP MEETS WITH DC LAW ENFORCEMENT",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "I KNOW MORE ABOUT GRASS THAN ANY HUMAN BEING, I THINK, ANYWHERE IN THE WORLD. AND WE'RE GOING TO BE RE-GRASSING ALL OF YOUR PARKS, ALL BRAND NEW SPRINKLER SYSTEMS, THE BEST THAT YOU CAN BUY, JUST LIKE THE AUGUSTA. IT'LL LOOK LIKE AUGUSTA. IT'LL LOOK LIKE, MORE IMPORTANTLY, TRUMP NATIONAL GOLF CLUB. THAT'S EVEN BETTER. BUT WE'RE GOING TO HAVE ALL BRAND NEW BEAUTIFUL GRASS. YOU KNOW, LIKE EVERYTHING ELSE, GRASS HAS A LIFE. DO YOU KNOW THAT? GRASS HAS A LIFE.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump claims, \"I know more about grass than any human being... anywhere in the world.\" He says he will be \"re-grassing all your parks\" with new sprinkler systems to make them look like Augusta or his own golf club. He concludes by stating, \"Grass has a life.\"",
+  "emojis_present": [
+    "😅"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's unedited speech, with ambient background noise. There is no music or added sound effects.",
+  "editing_pacing": "The video is a single, continuous shot from a news broadcast. Text overlays are added, but there are no cuts, zooms, or other editing techniques applied to the footage itself.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "bewilderment"
+  ],
+  "cultural_references": [
+    "Augusta National Golf Club"
+  ],
+  "central_claim": "The post uses an unedited clip of Donald Trump making unusual comments about his expertise in grass to portray him as strange and out of touch.",
+  "intended_effect": "To make the viewer mock Donald Trump and question his focus and fitness for office.",
+  "uncertainty_flags": []
+}

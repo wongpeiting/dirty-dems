@@ -1,0 +1,54 @@
+{
+  "video_id": "7633554529841106190",
+  "visual_action": "The video displays a screenshot of a tweet from the account 'FactPost'. The tweet includes two close-up photos of a man's hands, one resting on another person's shoulder and the other by his side. The video then zooms in on the first photo, which shows what appears to be a dark, discolored patch on the back of the hand.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text explicitly names him: \"New photos reveal makeup and discoloration on both of Trump's hands.\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are visible at the top of the tweet screenshot shown in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New photos reveal makeup and discoloration on both of Trump's hands.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists entirely of a person wheezing and gasping, as if laughing hysterically or struggling for breath.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a non-diegetic sound effect of a person wheezing and laughing intensely throughout the video. This is a common meme sound used to signal mockery or incredulous amusement.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot, followed by a quick zoom-in on one of the embedded photos for emphasis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disgust"
+  ],
+  "cultural_references": [
+    "The audio is a well-known internet meme sound effect of a man wheezing with laughter, often associated with the late Spanish comedian known as 'El Risitas'."
+  ],
+  "central_claim": "Donald Trump has visible discoloration on his hands, which suggests he is unhealthy or trying to conceal a condition with makeup.",
+  "intended_effect": "To encourage viewers to mock Donald Trump and question his physical health and fitness.",
+  "uncertainty_flags": [
+    "The provided music fingerprint identified a track called 'Magic Fingers — Maphex Deck', but the audible sound is very clearly a popular meme audio of a person wheezing and laughing, not instrumental music."
+  ]
+}

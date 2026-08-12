@@ -1,0 +1,82 @@
+{
+  "video_id": "7626155255943761166",
+  "visual_action": "A static, black-and-white image of Donald Trump saluting while wearing a 'USA' hat. A screenshot of a lengthy social media post from his account is superimposed over the image, detailing a supposed ceasefire agreement with Iran.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown in the background image saluting, and the superimposed text is a statement attributed to him from his social media account '@realDonaldTrump'."
+    },
+    {
+      "name": "Shehbaz Sharif",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the on-screen text as 'Prime Minister Shehbaz Sharif of Pakistan'."
+    },
+    {
+      "name": "Asim Munir",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the on-screen text as 'Field Marshal Asim Munir, of Pakistan'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned multiple times in the text as the 'Islamic Republic of Iran', the subject of a ceasefire and potential peace agreement."
+    },
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the text as the 'United States of America', a party to the agreement."
+    },
+    {
+      "name": "Pakistan",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as the country of origin for Prime Minister Shehbaz Sharif and Field Marshal Asim Munir."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "Based on conversations with Prime Minister Shehbaz Sharif and Field Marshal Asim Munir, of Pakistan, and wherein they requested that I hold off the destructive force being sent tonight to Iran, and subject to the Islamic Republic of Iran agreeing to the COMPLETE, IMMEDIATE, and SAFE OPENING of the Strait of Hormuz, I agree to suspend the bombing and attack of Iran for a period of two weeks. This will be a double sided CEASEFIRE! The reason for doing so is that we have already met and exceeded all Military objectives, and are very far along with a definitive Agreement concerning Longterm PEACE with Iran, and PEACE in the Middle East. We received a 10 point proposal from Iran, and believe it is a workable basis on which to negotiate. Almost all of the various points of past contention have been agreed to between the United States and Iran, but a two week period will allow the Agreement to be finalized and consummated. On behalf of the United States of America, as President, and also representing the Countries of the Middle East, it is an Honor to have this Longterm problem close to resolution. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A very quiet male voice says 'Thank you', which matches the final words of the on-screen text.",
+  "emojis_present": [],
+  "audio_music": "A single, quiet spoken phrase ('Thank you') is heard over silence. The audio is minimal and contributes to a somber, serious tone.",
+  "editing_pacing": "Static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated screenshot of a social media post attributed to Donald J. Trump. This constitutes a staged fake document designed to present a significant political statement as if it were authentic.",
+  "emotions_signaled": [
+    "Seriousness",
+    "Hope",
+    "Patriotism",
+    "Relief"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Donald J. Trump has negotiated a two-week ceasefire and is on the verge of a long-term peace agreement with Iran, with mediation from Pakistan.",
+  "intended_effect": "To convince the viewer that Donald Trump has successfully de-escalated a major international conflict and secured peace through his decisive leadership.",
+  "uncertainty_flags": [
+    "The authenticity of the social media post presented as a screenshot cannot be verified from the video alone. It is classified as manipulated because it appears to be a staged document, but this is an inference about its creation rather than a directly visible flaw like a photoshop error."
+  ]
+}

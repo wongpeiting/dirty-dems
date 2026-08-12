@@ -1,0 +1,98 @@
+{
+  "video_id": "7485446148845554987",
+  "visual_action": "A slideshow of static images. First is a screenshot of a fabricated tweet from an account named \"FactPost\". The tweet claims Pete Hegseth leaked military plans. This is followed by a photo of JD Vance holding a phone, with a caption overlaid. The video concludes with a screenshot of fabricated text message notifications on a phone's lock screen.",
+  "cast": [
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the fabricated tweet as 'Secretary of Defense Pete Hegseth' and as the sender of a fabricated text message notification."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referenced in the fabricated tweet via 'Trump officials' and named in the overlay text 'Even JD Vance was caught ripping Trump in the groupchat😥'."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of JD Vance is shown with the overlay text 'Even JD Vance was caught ripping Trump in the groupchat😥'."
+    },
+    {
+      "name": "John Ratcliffe",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears as a participant in the fabricated group chat screenshot."
+    },
+    {
+      "name": "Michael Waltz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears as a participant in the fabricated group chat screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Secretary of Defense Pete Hegseth accidentally added a reporter into a group chat where Trump officials were discussing top secret military war plans.",
+      "role": "overlay"
+    },
+    {
+      "text": "Houthi PC small group\nExcellent Today\nJohn Ratcliffe\nA good start 👍\nMichael Waltz\n🇺🇸🔥\nGood Job Pete and your team!!\nMichael Waltz\nThe team in MAL did a great job as well.\nGreat work all. Powerful start.",
+      "role": "overlay"
+    },
+    {
+      "text": "Even JD Vance was caught ripping Trump in the groupchat😥",
+      "role": "caption"
+    },
+    {
+      "text": "MESSAGES\n1m ago\nInsecurity\nI will always be apart of you\nPress for more",
+      "role": "overlay"
+    },
+    {
+      "text": "MESSAGES\n6m ago\nAnxiety\nI wonder what could go wrong",
+      "role": "overlay"
+    },
+    {
+      "text": "MESSAGES\n6m ago\nPete Hegseth\nWe are currently clean on OPSEC.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only a background music track.",
+  "emojis_present": [
+    "👍",
+    "🇺🇸",
+    "🔥",
+    "😥"
+  ],
+  "audio_music": "A slow, dramatic pop song plays consistently throughout the video, setting a serious and somewhat melancholic tone.",
+  "editing_pacing": "The video is a simple slideshow of three static, fabricated images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is composed of entirely fabricated visual elements to create a satirical narrative. It uses a fake tweet from a non-existent news account ('FactPost'), a fake group chat screenshot, and fake phone notifications to falsely claim that Trump allies are incompetent, leaky, and disloyal.",
+  "emotions_signaled": [
+    "Mockery",
+    "Alarm",
+    "Distrust"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video satirically claims that Trump's inner circle, including Pete Hegseth and JD Vance, is dangerously incompetent and secretly disloyal to him.",
+  "intended_effect": "To portray Trump's allies as incompetent, untrustworthy, and a threat to national security, thereby fostering ridicule and doubt.",
+  "uncertainty_flags": [
+    "The 'FactPost' Twitter account appears to be fabricated for the purpose of this video."
+  ]
+}

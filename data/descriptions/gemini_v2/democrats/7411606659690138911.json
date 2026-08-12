@@ -1,0 +1,97 @@
+{
+  "video_id": "7411606659690138911",
+  "visual_action": "A compilation video titled '5 ICONIC MICHELLE OBAMA MOMENTS' showing five different clips of Michelle Obama. 1. A young girl compliments her, and they hug. 2. She sings with James Corden in a car for 'Carpool Karaoke'. 3. She does a humorous impression of Barack Obama on a talk show. 4. She and Barack Obama meet and dance with 106-year-old Virginia McLaurin. 5. She delivers a powerful line during a speech at a podium, which is met with loud applause from the audience.",
+  "cast": [
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the subject of the video, appearing and speaking in all five clips."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "He is shown standing next to Michelle Obama while meeting Virginia McLaurin, and he is the subject of Michelle's impression in a later clip."
+    },
+    {
+      "name": "Virginia McLaurin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An on-screen text identifies the segment as 'MEETING WITH 106-YEAR-OLD VIRGINIA MCLAURIN'."
+    },
+    {
+      "name": "unnamed girl",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "A young girl from the audience speaks to Michelle Obama and then runs on stage to hug her in the first clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "5 ICONIC MICHELLE OBAMA MOMENTS",
+      "role": "overlay"
+    },
+    {
+      "text": "5. THIS ADORABLE MOMENT",
+      "role": "overlay"
+    },
+    {
+      "text": "[laughter]",
+      "role": "caption"
+    },
+    {
+      "text": "[crowd awws]",
+      "role": "caption"
+    },
+    {
+      "text": "4. CARPOOL KARAOKE WITH JAMES CORDEN",
+      "role": "overlay"
+    },
+    {
+      "text": "3. DOING HER BEST BARACK OBAMA IMPRESSION",
+      "role": "overlay"
+    },
+    {
+      "text": "2. MEETING WITH 106-YEAR-OLD VIRGINIA MCLAURIN",
+      "role": "overlay"
+    },
+    {
+      "text": "1. THIS “BLACK JOBS” MOMENT",
+      "role": "overlay"
+    },
+    {
+      "text": "[applause]",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The video compiles several clips of Michelle Obama. In one, a young girl tells her, \"You're too young for a 51-year-old,\" and Michelle laughs. In another, she tells James Corden, \"I love Stevie Wonder! I think I know every Stevie song on the planet.\" She also does an impression of Barack Obama, saying he would answer a question \"in three points.\" While meeting a 106-year-old woman, she says, \"I wanna be like you when I grow up.\" Finally, in a speech, she asks of a political candidate, \"Who's gonna tell him that the job he's currently seeking might just be one of those 'Black jobs'?\"",
+  "emojis_present": [],
+  "audio_music": "The first ~45 seconds of the video feature only the original audio from the clips, including dialogue, laughter, and applause. At around the 45-second mark, during the final speech clip, an inspirational and building musical track begins and plays through the end of the video, underscoring the speech and the crowd's reaction.",
+  "editing_pacing": "The video is a compilation of five distinct clips, presented in a countdown format from 5 to 1. The editing consists of simple cuts between these clips, creating a slideshow-like progression.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Warmth",
+    "Humor",
+    "Pride",
+    "Inspiration"
+  ],
+  "cultural_references": [
+    "James Corden",
+    "Carpool Karaoke",
+    "Stevie Wonder"
+  ],
+  "central_claim": "The video presents a curated selection of moments to highlight Michelle Obama's charisma, humor, warmth, and power as a public speaker.",
+  "intended_effect": "To generate feelings of warmth, admiration, and pride for Michelle Obama by showcasing her in a variety of positive and memorable situations.",
+  "uncertainty_flags": []
+}

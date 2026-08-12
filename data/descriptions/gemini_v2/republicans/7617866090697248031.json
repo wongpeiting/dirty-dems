@@ -1,0 +1,56 @@
+{
+  "video_id": "7617866090697248031",
+  "visual_action": "A handheld camera shot at night pans across a very long line of people with luggage waiting outside a modern-looking building, likely an airport.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text begins 'Democrats when...' and the post caption is 'Thank a Democrat.'"
+    },
+    {
+      "name": "Transportation Security Administration (TSA)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text claims Democrats 'shut down TSA'."
+    },
+    {
+      "name": "Americans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states 'Americans are struggling'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats when Americans are struggling bc they shut down TSA:",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A female voice, sped up and high-pitched, repeatedly says \"I don't care\" and \"I really don't give a f*ck,\" expressing total indifference.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of dialogue from a female speaker that has been sped up and pitch-shifted higher, identified as an 'Alvin Remix'. This effect creates a mocking, childish, and dismissive tone.",
+  "editing_pacing": "The video is a single, continuous panning shot with no cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "frustration",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The use of a sped-up, high-pitched audio track is a common internet meme style, reminiscent of 'Alvin and the Chipmunks'."
+  ],
+  "central_claim": "The Democratic Party is callously indifferent to the hardships faced by Americans, which the post alleges are caused by their policies like shutting down the TSA.",
+  "intended_effect": "To generate anger and contempt towards the Democratic Party by portraying them as uncaring.",
+  "uncertainty_flags": [
+    "The original source of the audio clip is not identified.",
+    "The context of the video footage (i.e., the actual cause, location, and date of the long line) is not provided or verified within the video."
+  ]
+}

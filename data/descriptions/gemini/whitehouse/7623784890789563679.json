@@ -1,0 +1,101 @@
+{
+  "video_id": "7623784890789563679",
+  "visual_action": "The video is a montage of cinematic shots related to space exploration. It begins with close-ups of astronauts in orange spacesuits putting on their white helmets, with details like a US flag patch and a name tag for \"VICTOR GLOVER\" visible. The astronauts are shown walking down a walkway. One astronaut's helmet visor reflects the moon. This is followed by shots of the moon and then a large rocket on a launchpad at night. The rocket, with \"NASA\" and \"United States\" on its side, launches powerfully. The video continues with animated sequences of the rocket ascending into space, an astronaut's face inside their helmet, the spacecraft in orbit above Earth, and views of Earth, the moon, and the surface of Mars. A graphic shows a flight path from Earth to the moon. The video concludes with the \"ARTEMIS\" program logo, the NASA logo, and finally a black-and-white image of the White House with text overlay.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The narrator of the video is identifiable by his voice as Donald Trump, delivering a speech about America's destiny in space."
+    },
+    {
+      "name": "NASA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The NASA logo appears on the astronauts' suits, on the rocket, and as a standalone logo at the end of the video. The entire video showcases a NASA mission."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a logo that says \"THE WHITE HOUSE\" over an image of the building. The post is from the @whitehouse account."
+    },
+    {
+      "name": "Victor Glover",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name \"VICTOR GLOVER\" is clearly visible on a patch on an astronaut's suit near the beginning of the video."
+    },
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker repeatedly refers to \"America's destiny\" and the \"American frontier.\" The text \"United States\" is also visible on the side of the rocket."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TODAY. AMERICA’S DESTINY 🚀🇺🇸",
+      "role": "caption"
+    },
+    {
+      "text": "VICTOR GLOVER",
+      "role": "other"
+    },
+    {
+      "text": "NASA",
+      "role": "overlay"
+    },
+    {
+      "text": "United States",
+      "role": "other"
+    },
+    {
+      "text": "esa",
+      "role": "other"
+    },
+    {
+      "text": "ARTEMIS",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A speaker, identified by voice as Donald Trump, delivers a speech over the visuals. He states that it is \"America's destiny\" to lead humanity's quest for knowledge by exploring space. He describes space as \"the next great American frontier\" and says that by unlocking the mysteries of the universe, we unlock truths within ourselves. He concludes by saying of a past mission, \"we never completed, but now we start again.\"",
+  "emojis_present": [
+    "🚀",
+    "🇺🇸"
+  ],
+  "audio_music": "The video features a dramatic, soaring choral music score that creates an epic and inspirational tone, overlaid with a speech.",
+  "editing_pacing": "The video is a fast-paced montage using cinematic shots, including close-ups and wide shots, to build a sense of grandeur. The cuts are timed to the music and speech to create a powerful, forward-moving narrative.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Awe",
+    "Inspiration",
+    "Hope"
+  ],
+  "cultural_references": [
+    "Artemis program",
+    "Apollo program"
+  ],
+  "central_claim": "America is reclaiming its destiny as the leader in space exploration by launching the Artemis program to return to the moon and venture into the great unknown.",
+  "intended_effect": "To inspire pride in American ingenuity and leadership, and to generate excitement and support for the administration's space exploration initiatives.",
+  "uncertainty_flags": [
+    "The video appears to mix real archival footage with high-quality CGI and animation, particularly for the rocket launch and space travel sequences; it is difficult to definitively distinguish between them."
+  ]
+}

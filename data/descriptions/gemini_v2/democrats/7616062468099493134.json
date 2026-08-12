@@ -1,0 +1,64 @@
+{
+  "video_id": "7616062468099493134",
+  "visual_action": "The video shows Donald Trump walking on a red carpet. A screenshot of a tweet from 'Republicans against Trump' is overlaid, which claims Trump buys shoes for his allies. The video then transitions to show Marco Rubio's face overlaid on a shot of him on an escalator, followed by a close-up shot of a man's foot in an oversized-looking black dress shoe.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown at the beginning of the video and is the subject of the overlaid tweet, which states he has been 'buying $145 Florsheim dress shoes for allies'."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is shown in a dissolve, and the overlaid tweet names him as having been 'photographed wearing a pair Trump ordered for him'."
+    },
+    {
+      "name": "Republicans against Trump",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and Twitter handle (@RpsAgainstTrump) of the account are visible on the overlaid tweet."
+    },
+    {
+      "name": "Florsheim",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The brand is mentioned in the on-screen text: 'buying $145 Florsheim dress shoes'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans against Trump @RpsAgainstTrump According to media reports, Donald Trump has been buying $145 Florsheim dress shoes for allies in his inner circle, and people are reportedly 'afraid not to wear them.' Marco Rubio was photographed wearing a pair Trump ordered for him by just guessing his size. They looked noticeably too big.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice asks, \"And why aren't you in uniform?\"",
+  "emojis_present": [
+    "😬"
+  ],
+  "audio_music": "A spoken line, 'And why aren't you in uniform?', is layered over clomping walking sound effects and a subtle, atmospheric electronic music track. The audio is used to mockingly frame the shoes as a 'uniform'.",
+  "editing_pacing": "The video uses slow pacing with dissolves, overlays, and static shots. It shows a clip of Trump, then overlays a tweet, then dissolves to a composite shot of Marco Rubio, and finally cuts to a close-up of a shoe.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humiliation"
+  ],
+  "cultural_references": [
+    "The audio clip 'And why aren't you in uniform?' is a quote from the character Gunnery Sergeant Hartman in the film *Full Metal Jacket*."
+  ],
+  "central_claim": "Donald Trump is a controlling leader who forces his allies, like Marco Rubio, into subservient and humiliating acts, such as wearing ill-fitting shoes he personally bought for them.",
+  "intended_effect": "To make the viewer mock Donald Trump for his bizarre behavior and Marco Rubio for his apparent submissiveness.",
+  "uncertainty_flags": [
+    "It is not possible to confirm from the video alone that the close-up of the large shoe is actually on Marco Rubio's foot."
+  ]
+}

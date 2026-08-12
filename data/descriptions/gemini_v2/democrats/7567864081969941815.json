@@ -1,0 +1,62 @@
+{
+  "video_id": "7567864081969941815",
+  "visual_action": "Former President Barack Obama stands at a podium speaking to a crowd at a political rally. The podium has a sign for \"ABIGAIL SPANBERGER VOTE NOVEMBER 4\". Abigail Spanberger is seated on a stool to his side on the stage. The crowd behind them holds up signs, including some that say \"VOTE\".",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Barack Obama is shown speaking at a podium for the entire video."
+    },
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her name appears in the on-screen overlay text and on the podium sign. Obama endorses her by name, and she is shown seated on stage."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official '@democrats' account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WATCH: President Obama endorses Abigail Spanberger for governor of Virginia 💪",
+      "role": "overlay"
+    },
+    {
+      "text": "ABIGAIL SPANBERGER VOTE NOVEMBER 4",
+      "role": "other"
+    },
+    {
+      "text": "TEXT ABIGAIL TO 55105",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Barack Obama endorses Abigail Spanberger for Governor of Virginia. He states that Virginians deserve a governor who will prioritize people over party and ideology, think for herself, create jobs, lower costs, and bring people together. He concludes by saying, \"You deserve a governor like Abigail Spanberger.\"",
+  "emojis_present": [
+    "💪",
+    "🔥"
+  ],
+  "audio_music": "The audio consists of Barack Obama's speech with the sounds of an enthusiastic and cheering crowd in the background, particularly at the end. There is no musical score.",
+  "editing_pacing": "The video is a single, continuous shot of Obama speaking, consistent with a static talking-head style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "inspiration",
+    "hope",
+    "enthusiasm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Former President Barack Obama endorses Abigail Spanberger for governor of Virginia, casting her as a leader who will prioritize the people of her state over partisan politics.",
+  "intended_effect": "To use Barack Obama's influence to persuade viewers to support and vote for Abigail Spanberger for governor of Virginia.",
+  "uncertainty_flags": []
+}

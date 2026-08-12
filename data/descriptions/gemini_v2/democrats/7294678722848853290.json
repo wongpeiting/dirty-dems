@@ -1,0 +1,63 @@
+{
+  "video_id": "7294678722848853290",
+  "visual_action": "A montage of clips shows President Joe Biden in various settings. He is seen winking and smiling in a close-up, signing a bill in the Oval Office, walking onto stages with 'Investing in America' banners, walking through a factory, and speaking at a podium with 'Bidenomics' signage. Throughout the video, a text overlay from the Washington Post is displayed.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Joe Biden is the sole person featured in every clip of the montage, and the post's message is about economic performance during his presidency."
+    },
+    {
+      "name": "Washington Post",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news about GDP growth is attributed to the 'WASHINGTON POST' in the on-screen text overlay."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Third quarter GDP shows U.S. economy grew at a blockbuster 4.9 percent pace",
+      "role": "overlay"
+    },
+    {
+      "text": "WASHINGTON POST",
+      "role": "overlay"
+    },
+    {
+      "text": "INVESTING IN AMERICA",
+      "role": "other"
+    },
+    {
+      "text": "DURHAM, NC",
+      "role": "other"
+    },
+    {
+      "text": "AUBURN, MAINE",
+      "role": "other"
+    },
+    {
+      "text": "BIDENOMICS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; it is set entirely to music.",
+  "emojis_present": [],
+  "audio_music": "An uplifting and cinematic instrumental track ('Le Monde' by Richard Carter) plays continuously throughout the video, creating a positive and triumphant atmosphere.",
+  "editing_pacing": "The video is a fast-paced montage, using quick cuts between different positive clips of Joe Biden.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "optimism",
+    "confidence"
+  ],
+  "cultural_references": [],
+  "central_claim": "Under President Biden's leadership, the U.S. economy is experiencing blockbuster growth.",
+  "intended_effect": "To make viewers feel proud of the country's economic performance and confident in Joe Biden's leadership.",
+  "uncertainty_flags": []
+}

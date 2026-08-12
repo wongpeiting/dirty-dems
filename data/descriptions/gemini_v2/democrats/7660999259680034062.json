@@ -1,0 +1,56 @@
+{
+  "video_id": "7660999259680034062",
+  "visual_action": "The video starts with the Taco Bell logo. A text overlay appears reading, \"Taco Bell won't serve certain items amid cyclosporaisis outbreak.\" Another text overlay is added: \"Taco Bell doing more to stop the diarrhea outbreak than Trump admin.\" The video then transitions into a fast-paced montage of various Taco Bell food items, including tacos, nachos, quesadillas, and drinks. One shot is overlaid with a flame effect. In a later shot of Cinnabon Delights and a Mountain Dew Baja Blast, a small circular cutout of Robert F. Kennedy Jr.'s face appears in the bottom right corner.",
+  "cast": [
+    {
+      "name": "Taco Bell",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The Taco Bell logo is shown, and on-screen text makes a comparison involving the company: \"Taco Bell doing more to stop the diarrhea outbreak than Trump admin\"."
+    },
+    {
+      "name": "Trump admin",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text explicitly names the 'Trump admin' in a critical comparison: \"Taco Bell doing more to stop the diarrhea outbreak than Trump admin\"."
+    },
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A small, circular cutout of his face is superimposed on the video in the bottom right corner of one shot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Taco Bell won't serve certain items amid cyclosporaisis outbreak",
+      "role": "overlay"
+    },
+    {
+      "text": "Taco Bell doing more to stop the diarrhea outbreak than Trump admin",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "A high-energy, dramatic pop-rock song with female vocals plays throughout the video, creating a sense of intensity over the montage of food.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various shots of food. It uses visual effects like flames and a zoom/blur transition.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A small circular image of Robert F. Kennedy Jr.'s face is superimposed in the bottom right corner of a shot, appearing as a reaction image or for comedic effect.",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration was less effective at handling a public health crisis than the fast-food chain Taco Bell.",
+  "intended_effect": "To make the viewer mock the Trump administration's handling of public health issues through an absurd comparison.",
+  "uncertainty_flags": [
+    "The specific reason for Robert F. Kennedy Jr.'s brief, superimposed appearance is unclear."
+  ]
+}

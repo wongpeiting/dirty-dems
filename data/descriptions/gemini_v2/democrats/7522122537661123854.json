@@ -1,0 +1,84 @@
+{
+  "video_id": "7522122537661123854",
+  "visual_action": "Donald Trump, wearing a red hat and a suit jacket, stands outdoors and responds to an off-screen reporter who is holding a microphone. The C-SPAN logo is visible in the bottom right corner of the footage. The clip is framed with black bars at the top and bottom, where text appears.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person shown on screen for the entire video, speaking in response to a question."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An off-screen reporter asks 'Are you going to deport Elon Musk?' and the top on-screen text reads 'Trump says he might deport Elon 😭'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks Trump a question at the start of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump says he might deport Elon 😭",
+      "role": "caption"
+    },
+    {
+      "text": "GOING TO",
+      "role": "overlay"
+    },
+    {
+      "text": "ELON MUSK?",
+      "role": "overlay"
+    },
+    {
+      "text": "I DON'T KNOW.",
+      "role": "overlay"
+    },
+    {
+      "text": "TO TAKE A LOOK.",
+      "role": "overlay"
+    },
+    {
+      "text": "WE MIGHT HAVE TO PUT",
+      "role": "overlay"
+    },
+    {
+      "text": "DOGE ON ELON.",
+      "role": "overlay"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump, \"Are you going to deport Elon Musk?\" Trump responds, \"I don't know. I think we'll have to take a look.\" He concludes with a slightly unclear phrase that the video's on-screen text transcribes as \"DOGE ON ELON,\" but which sounds in the audio like \"We might have to put those on Elon\" or potentially \"put DoJ on Elon.\"",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio consists only of dialogue and ambient outdoor sounds. There is no music.",
+  "editing_pacing": "The video is a single, static shot. Text overlays are timed to appear with the spoken dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "alarm"
+  ],
+  "cultural_references": [
+    "Doge (meme/cryptocurrency)"
+  ],
+  "central_claim": "Donald Trump suggests he might take action against Elon Musk, including potential deportation, in a statement the video frames as nonsensical by transcribing his words as 'put DOGE on Elon'.",
+  "intended_effect": "To portray Trump as erratic and vindictive, and to mock his statements by connecting them to an internet meme.",
+  "uncertainty_flags": [
+    "It is unclear what Donald Trump says in the final phrase of his statement; the audio is muffled, while the on-screen text transcribes it as 'DOGE ON ELON', which appears to be an editorial choice rather than a literal transcription."
+  ]
+}

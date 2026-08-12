@@ -1,0 +1,48 @@
+{
+  "video_id": "7663613889413664014",
+  "visual_action": "A video that juxtaposes two clips of Donald Trump. The first, labeled \"2016\", shows him speaking at a podium during a political event. The second, labeled \"2026\", shows him speaking at a different podium in what appears to be an official setting. Towards the end of the second clip, his face becomes noticeably more red and flushed.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the sole person featured in the video, speaking in both clips, and the on-screen text \"trump is literally deteriorating\" is about him."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump is literally deteriorating 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "2016",
+      "role": "overlay"
+    },
+    {
+      "text": "2026",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video starts with a clip from 2016 where Donald Trump speaks coherently, saying, \"I get along with everybody. That was my job to get along with people.\" It then cuts to a clip labeled \"2026\" where the audio is a heavily edited, remixed, and autotuned montage of Trump's speech, making him sound rambling and incoherent. The disjointed phrases include mentions of \"secure elections,\" \"third world country,\" and \"your president wasn't so hot.\" The audio is identified as the musical track \"Donor Puppets.\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio begins with clear, unedited speech. After a few seconds, it transitions to a heavily edited musical track made from samples of Donald Trump's voice, which have been chopped up, rearranged, and slightly autotuned to sound rhythmic and nonsensical. This creates a mocking effect.",
+  "editing_pacing": "The video uses a simple cut to contrast two static talking-head clips. The main editing is in the audio of the second clip, which is rapidly spliced to create a \"word salad\" effect.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The audio in the second half of the video is heavily manipulated, with Donald Trump's speech being spliced and remixed into a nonsensical, rhythmic sequence to portray him as incoherent. Visually, a red color filter appears to be applied and intensified on his face in the final moments to support the on-screen text about him \"deteriorating.\"",
+  "emotions_signaled": [
+    "mockery",
+    "concern"
+  ],
+  "cultural_references": [
+    "The video employs the 'songify the news' or 'bad lip reading' internet meme format, where spoken words are edited into a song for comedic or satirical effect. The audio track is from The Gregory Brothers (Schmoyoho), who are well-known for popularizing this style."
+  ],
+  "central_claim": "Donald Trump has undergone a severe mental and physical decline between 2016 and 2026, rendering him incoherent.",
+  "intended_effect": "To mock Donald Trump and persuade the viewer that he is mentally unfit and has deteriorated significantly over time.",
+  "uncertainty_flags": [
+    "The visual manipulation of reddening Trump's face is subtle and could potentially be a video compression artifact, but it appears timed to coincide with the video's message and is likely an intentional filter."
+  ]
+}

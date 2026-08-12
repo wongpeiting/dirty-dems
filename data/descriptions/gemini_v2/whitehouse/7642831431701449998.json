@@ -1,0 +1,61 @@
+{
+  "video_id": "7642831431701449998",
+  "visual_action": "A young man, Jaxson Dart, stands at a podium with the Seal of the President of the United States, speaking to a large, enthusiastic crowd. Many people in the audience are holding up their phones to record him. After his introduction, Donald Trump walks out from behind a blue curtain onto the stage, waving to the crowd.",
+  "cast": [
+    {
+      "name": "Jaxson Dart",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "On-screen text reads 'New York Giants QB Jaxson Dart introduces POTUS in New York'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is introduced by name: 'President Donald J. Trump.' He then appears on screen."
+    },
+    {
+      "name": "New York Giants",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text identifies Jaxson Dart as the 'New York Giants QB'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "New York Giants QB Jaxson Dart introduces POTUS in New York 🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "🔥🔥🔥",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Jaxson Dart greets the crowd, referring to them as \"Big Blue Nation\" and leads them in a \"Go Big Blue!\" chant. He expresses what an honor and privilege it is to be there and proceeds to introduce \"the 45th and 47th president of the United States of America, President Donald J. Trump.\"",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The video begins with the speaker's voice and loud cheering from the crowd. After Donald Trump is introduced, the patriotic song 'God Bless the USA' by Lee Greenwood begins to play loudly, creating a celebratory and patriotic atmosphere for his entrance.",
+  "editing_pacing": "The video is a single continuous shot focused on the speaker at the podium and then on the stage as Donald Trump enters.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Pride",
+    "Patriotism"
+  ],
+  "cultural_references": [
+    "Jaxson Dart",
+    "New York Giants",
+    "God Bless the USA (song by Lee Greenwood)"
+  ],
+  "central_claim": "New York Giants quarterback Jaxson Dart endorses Donald Trump at a rally, introducing him as both the 45th and 47th President.",
+  "intended_effect": "To generate excitement and show strong, high-profile support for Donald Trump from the world of sports, thereby energizing his base and signaling broad appeal.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "7598192357858692365",
+  "visual_action": "At a formal event, Donald Trump stands before a large blue backdrop that reads \"BOARD of PEACE\". He proceeds down a line of men standing on a small stage, shaking hands with each of them individually. The men are dressed in business suits, and one wears a black peci cap.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown shaking hands, and is identified by face recognition and on-screen text."
+    },
+    {
+      "name": "Board of Peace members",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the men Trump is greeting as members of the 'Board of Peace'."
+    },
+    {
+      "name": "Board of Peace",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name of the organization is prominently displayed on the large backdrop at the event."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Donald J. Trump thanks each Board of Peace member 🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "BOARD of PEACE",
+      "role": "other"
+    },
+    {
+      "text": "ANNUAL MEETING 2",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of ambient room noise and indistinct chatter. A faint \"Thank you\" can be heard, but it is not clear who is speaking.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio is the natural sound from the event, consisting of ambient room noise, shuffling sounds, and indistinct crowd chatter. There is no music.",
+  "editing_pacing": "The video is a single, steady, continuous shot with no cuts or noticeable editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "respect",
+    "patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is actively engaged in and respected for his work on international peace initiatives.",
+  "intended_effect": "To encourage a positive view of Donald Trump as a presidential figure and statesman on the world stage.",
+  "uncertainty_flags": [
+    "The specific date and location of the event are not identified.",
+    "The individual members of the 'Board of Peace' are not identified."
+  ]
+}

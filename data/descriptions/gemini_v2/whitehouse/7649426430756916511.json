@@ -1,0 +1,53 @@
+{
+  "video_id": "7649426430756916511",
+  "visual_action": "A montage of various law enforcement operations. Officers wearing vests labeled \"POLICE\" and \"ICE\" are shown arresting several different men. The men are handcuffed, sometimes with additional chains around their waists, and are led by officers towards vehicles. The scenes take place in different locations, both during the day and at night with flashing police lights.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post caption begins, \"President Trump has delivered the most secure border in his...\""
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Multiple officers are shown wearing tactical vests with large patches that read \"ICE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POLICE",
+      "role": "other"
+    },
+    {
+      "text": "ICE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of a song with female vocals. The primary and repeated lyric is \"Bye-bye.\"",
+  "emojis_present": [
+    "👋"
+  ],
+  "audio_music": "A slowed-down, moody pop song with female vocals plays throughout the montage. The song's repetitive \"Bye-bye\" lyric, paired with the visuals of arrests, creates a definitive and somewhat somber or triumphant tone, depending on the viewer's perspective.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes of arrests.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Authority",
+    "Finality"
+  ],
+  "cultural_references": [
+    "The music is a slowed-down version of the song 'Goodbye', famously performed by the Spice Girls."
+  ],
+  "central_claim": "President Trump has secured the border by empowering law enforcement agencies like ICE to arrest and remove people.",
+  "intended_effect": "To persuade viewers that the Trump administration is effectively and decisively enforcing immigration laws and securing the border, fostering a sense of approval and security among supporters.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is inaccurate and does not match the audible sung lyrics (\"Bye-bye\")."
+  ]
+}

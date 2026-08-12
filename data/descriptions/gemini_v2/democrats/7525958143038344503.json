@@ -1,0 +1,54 @@
+{
+  "video_id": "7525958143038344503",
+  "visual_action": "The video first displays a static screenshot of a tweet from an account purported to be Alexandria Ocasio-Cortez. After a few seconds, it cuts to a static photograph of Donald Trump and Jeffrey Epstein standing together and talking in what appears to be an indoor social setting.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A fabricated tweet with her name, photo, and handle '@AOC' is the central element of the video's first half."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photograph with Jeffrey Epstein and is the implied subject of the tweet's accusation about 'electing a rapist'."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is mentioned in the on-screen text as the 'Epstein Files' and is shown in a photograph with Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Alexandria Ocasio-Cortez @AOC\nWow who would have thought that electing a rapist would have complicated the release of the Epstein Files?",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists entirely of a hip-hop music track.",
+  "emojis_present": [],
+  "audio_music": "A fast-paced, confrontational hip-hop track, identified as 'Sticky' by Tyler, The Creator, plays throughout the video.",
+  "editing_pacing": "A slideshow with a single, quick cut from the first static image (a tweet) to the second static image (a photograph).",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated screenshot of a tweet falsely attributed to Alexandria Ocasio-Cortez. This tweet does not exist on her official account.",
+  "emotions_signaled": [
+    "scorn",
+    "disgust",
+    "suspicion"
+  ],
+  "cultural_references": [
+    "Tyler, The Creator",
+    "Epstein Files"
+  ],
+  "central_claim": "Using a fabricated tweet attributed to Alexandria Ocasio-Cortez, the post claims Donald Trump is a rapist whose presidency is obstructing the release of the Epstein files, using a photo of the two together to imply his guilt by association.",
+  "intended_effect": "To convince the viewer that Donald Trump is a sexual predator connected to Jeffrey Epstein and is actively covering up evidence, thereby generating outrage and opposition towards him.",
+  "uncertainty_flags": []
+}

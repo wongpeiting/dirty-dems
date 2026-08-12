@@ -1,0 +1,49 @@
+{
+  "video_id": "7639128096775458062",
+  "visual_action": "A slideshow of two still photographs of a man identified as Mayor Mamdani. The first is a formal-looking headshot, and the second is a more candid shot of him smiling on a city street.",
+  "cast": [
+    {
+      "name": "Mayor Mamdani",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name and title appear in the on-screen text: 'Mayor Mamdani announces...'. His photograph is also shown."
+    },
+    {
+      "name": "NYC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states, '...announces NYC has closed budget deficit...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GREAT NEWS",
+      "role": "overlay"
+    },
+    {
+      "text": "Mayor Mamdani announces NYC has closed budget deficit without cutting city services",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video. The audio consists of a hip-hop track with a repetitive chant of 'We on go'.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, energetic hip-hop track ('WE ON GO' by BIA) with a crowd-chanting sample plays throughout the video, creating a celebratory and hype-filled atmosphere.",
+  "editing_pacing": "A simple slideshow of two still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "optimism",
+    "pride",
+    "celebration"
+  ],
+  "cultural_references": [
+    "The song 'WE ON GO' by the artist BIA is used as the soundtrack."
+  ],
+  "central_claim": "Mayor Mamdani has successfully closed New York City's budget deficit without reducing city services.",
+  "intended_effect": "To generate positive feelings and approval for Mayor Mamdani's leadership and fiscal management.",
+  "uncertainty_flags": []
+}

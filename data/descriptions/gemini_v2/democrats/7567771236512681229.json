@@ -1,0 +1,130 @@
+{
+  "video_id": "7567771236512681229",
+  "visual_action": "The video starts with a screenshot of a tweet from Donald J. Trump about renovating the Lincoln Bathroom in the White House, with photos of the before and after. An overlay reads \"while trump is renovating the bathroom...\". The video then cuts to a rapid montage of screenshots of tweets from an account called FactPost. These tweets contain news clips and quotes from citizens about economic hardship, including rising ACA premiums, a potential recession, cuts to SNAP benefits, and the high cost of healthcare.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of his tweet from the account @realDonaldTrump is shown at the beginning of the video, and an overlay reads \"while trump is renovating the bathroom...\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet screenshot mentions \"the harms of the Republicans' shutdown\"."
+    },
+    {
+      "name": "Abraham Lincoln",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned multiple times in Donald Trump's tweet about the \"Lincoln Bathroom\" and the \"Lincoln Era\"."
+    },
+    {
+      "name": "unnamed Pennsylvania woman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is shown in a video clip accompanying a tweet quoting a \"Pennsylvania woman\" about healthcare costs."
+    },
+    {
+      "name": "unnamed SNAP recipient",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A Black woman is shown in a news clip accompanying a tweet that identifies her as a \"SNAP recipient\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "I renovated the Lincoln Bathroom in the White House. It was renovated in the 1940s in an art deco green tile style, which was totally inappropriate for the Lincoln Era. I did it in black and white polished Statuary marble. This was very appropriate for the time of Abraham Lincoln and, in fact, could be the marble that was originally there!",
+      "role": "overlay"
+    },
+    {
+      "text": "while trump is renovating the bathroom...",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Host: If these ACA tax credits go away, people earning $35,000 a year will see a premium jump from $86 to $218 a month. And people 60 and older will pay $920 more a month, raising their monthly premiums to $1,380.",
+      "role": "overlay"
+    },
+    {
+      "text": "> OBAMACARE COSTS\nACA OPEN ENROLLMENT BEGINS THIS WEEKEND\nAS PREMIUMS SET TO SURGE ACROSS THE COUNTRY",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNBC REPORTS",
+      "role": "chyron"
+    },
+    {
+      "text": "Pennsylvania woman: I didn't know they were going to take our health care. My plan right now is almost $800 a month. If I imagine that with a 15% increase on top, I don't know how anyone in my income bracket can afford to absorb $800+ a month for healthcare. I'll go back to being uninsured.",
+      "role": "overlay"
+    },
+    {
+      "text": "Host: Is America barreling towards a recession? According to the Moody's Analytics chief economist, the answer may be yes. 22 states and Washington DC are either at risk or already in a recession.",
+      "role": "overlay"
+    },
+    {
+      "text": "ECONOMY ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "MOODY'S: 22 STATES IN OR NEARING RECESSION",
+      "role": "chyron"
+    },
+    {
+      "text": "SNAP recipient speaks out on the harms of the Republicans' shutdown:\n\"If the benefits get cut off in November, it will leave me to have to make very hard decisions and choices... To really have to sacrifice either food, your healthcare, or even if you're gonna have a roof over your table\"",
+      "role": "overlay"
+    },
+    {
+      "text": "HAPPENING NOW\nSTATES WARN OF SNAP BENEFIT DELAYS AMID SHUTDOWN",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "Georgia residents speak out about the necessity of ACA subsidies:\n\"If that subsidy ends, our premium will go up by $640. We can't pay that... Our healthcare system is not perfect, but we cannot afford to cut or change anything without a replacement.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "FAMILY is forever",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of a song with vocals, but there is no dialogue or narration.",
+  "emojis_present": [],
+  "audio_music": "A powerful and emotive R&B track with a strong female vocal plays continuously throughout the video. The music creates a serious and somber tone that contrasts with the triviality of the initial tweet and underscores the gravity of the economic and healthcare issues presented in the montage.",
+  "editing_pacing": "The video is a fast-paced slideshow of static screenshots, using quick cuts between each image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Irony",
+    "Mockery",
+    "Anxiety",
+    "Sympathy"
+  ],
+  "cultural_references": [
+    "Beyoncé (the song 'TYRANT' is used as the soundtrack)"
+  ],
+  "central_claim": "While Donald Trump was president, he focused on trivial matters like White House renovations while ordinary Americans suffered from rising healthcare costs and economic instability due to Republican policies.",
+  "intended_effect": "To convince viewers that Donald Trump and the Republican party are out of touch with and neglectful of the struggles of everyday people, encouraging opposition to them.",
+  "uncertainty_flags": []
+}

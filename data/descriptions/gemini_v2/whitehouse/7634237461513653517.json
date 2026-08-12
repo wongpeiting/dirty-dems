@@ -1,0 +1,68 @@
+{
+  "video_id": "7634237461513653517",
+  "visual_action": "An astronaut, Reid Wiseman, takes a selfie video of himself and a group of people as they walk outdoors on the grounds of the White House. The group includes other astronauts in matching blue NASA jackets and other individuals in business attire. They are smiling and appear to be in good spirits.",
+  "cast": [
+    {
+      "name": "Reid Wiseman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "His name tag, which reads 'REID WISEMAN', is visible on his jacket."
+    },
+    {
+      "name": "Artemis II Astronauts",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The speaker says, 'We have the whole Artemis II crew,' and the on-screen text reads, 'Artemis II Astronauts Arrive at White House.'"
+    },
+    {
+      "name": "NASA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NASA logo is clearly visible on the astronauts' blue jackets."
+    },
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker says they are 'walking into the grounds of the White House' and the on-screen text says 'Arrive at White House'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Artemis II Astronauts Arrive at White House",
+      "role": "overlay"
+    },
+    {
+      "text": "Visitor\nWEST WING\nER",
+      "role": "other"
+    },
+    {
+      "text": "REID WISEMAN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Reid Wiseman, one of the astronauts, announces that the 'whole Artemis II crew' and their family members are arriving at the grounds of the White House. He expresses that it is a 'very exciting day' for them.",
+  "emojis_present": [
+    "🚀"
+  ],
+  "audio_music": "A bright, upbeat instrumental track ('Walking Around' by Eldar Kedem) plays consistently throughout the video, creating a positive and exciting atmosphere for the behind-the-scenes moment.",
+  "editing_pacing": "The video is a single, unedited shot filmed in a selfie or vlog style, with the camera operator walking and talking.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Artemis II astronauts are visiting the White House, an exciting event for the crew.",
+  "intended_effect": "To generate excitement for the Artemis II mission and foster a sense of national pride in the U.S. space program by showing a positive, behind-the-scenes moment at the White House.",
+  "uncertainty_flags": []
+}

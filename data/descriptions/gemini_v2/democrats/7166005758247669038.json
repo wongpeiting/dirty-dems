@@ -1,0 +1,65 @@
+{
+  "video_id": "7166005758247669038",
+  "visual_action": "Mitch McConnell walks down a hallway in what appears to be a government building. An MSNBC news graphic is superimposed on the lower third of the screen, announcing that the Democratic Party has won control of the Senate. Chuck Schumer then walks past McConnell, adjusts his face mask, and appears to pump his fist in a small, celebratory gesture.",
+  "cast": [
+    {
+      "name": "Mitch McConnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown walking in the hall as the subject of the mocking soundtrack after losing Senate control."
+    },
+    {
+      "name": "Chuck Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown walking triumphantly past McConnell after the on-screen text announces the Democratic victory."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, 'The Democratic Party wins control of the Senate'."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news organization's logo appears on the on-screen graphic."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MSNBC",
+      "role": "chyron"
+    },
+    {
+      "text": "The Democratic Party wins control of the Senate",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of lyrics from the song 'Behind These Hazel Eyes': \"Here I am once again. I'm torn into pieces, can't deny it.\"",
+  "emojis_present": [],
+  "audio_music": "The video is set to the Kelly Clarkson power ballad 'Behind These Hazel Eyes'. The emotionally charged breakup song is used to create a mocking and triumphant effect, juxtaposing lyrics about being 'torn into pieces' with footage of Mitch McConnell after his party lost control of the Senate.",
+  "editing_pacing": "The video uses a single clip with a news chyron graphic overlaid. The pacing is that of the original real-time footage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "triumph",
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The song 'Behind These Hazel Eyes' by Kelly Clarkson."
+  ],
+  "central_claim": "The Democratic Party's victory in taking control of the Senate is a devastating and humiliating loss for Mitch McConnell.",
+  "intended_effect": "To make supporters feel triumphant about the Democratic victory while mocking Mitch McConnell and the Republican party's loss.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,99 @@
+{
+  "video_id": "7498379367567854890",
+  "visual_action": "The video is a slideshow of static screenshots. First, a CNN poll headline states Trump's approval is the lowest in seven decades. Second, a Washington Post bar chart shows his approval rating dropping. Third, a Fox News report shows his approval down 5 points. Finally, a screenshot of a tweet from Donald Trump is shown where he complains about the press and polls.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the subject of polls from CNN, The Washington Post, and Fox News, and a screenshot of his tweet from the handle '@realDonaldTrump' is shown."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and text 'CNN Poll' are displayed on the first screen."
+    },
+    {
+      "name": "The Washington Post",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The masthead 'The Washington Post' is shown above a poll chart."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is shown on screen in a segment introduced by the text 'Even Fox News'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "These approval ratings... 🙈",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN Poll: Trump's approval at 100 days lower than any president in at least seven decades",
+      "role": "overlay"
+    },
+    {
+      "text": "The Washington Post",
+      "role": "other"
+    },
+    {
+      "text": "Trump's approval rating down from February",
+      "role": "overlay"
+    },
+    {
+      "text": "Q: Do you approve or disapprove of the way Donald Trump is handling his job as president?",
+      "role": "overlay"
+    },
+    {
+      "text": "Even Fox News 😂😂😂",
+      "role": "overlay"
+    },
+    {
+      "text": "Overall approval of Trump's job performance comes in at 44%, down 5 points from 49% approval in March",
+      "role": "overlay"
+    },
+    {
+      "text": "bro is CRASHING OUT",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "other"
+    },
+    {
+      "text": "We don't have a Free and Fair \"Press\" in this Country anymore. We have a Press that writes BAD STORIES, and CHEATS, BIG, ON POLLS. IT IS COMPROMISED AND CORRUPT. SAD!",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [
+    "🙈",
+    "😂"
+  ],
+  "audio_music": "A dramatic, grand orchestral and choral piece of music plays throughout the video, creating a mock-epic or triumphant tone.",
+  "editing_pacing": "The video is a slideshow of static screenshots, with simple cuts between each image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The phrase 'bro is CRASHING OUT' is a piece of internet slang."
+  ],
+  "central_claim": "Donald Trump's approval ratings are historically low and falling, according to a wide range of media outlets, prompting him to lash out at the press.",
+  "intended_effect": "To make the viewer mock Donald Trump for his low approval ratings and his angry reaction to them.",
+  "uncertainty_flags": []
+}

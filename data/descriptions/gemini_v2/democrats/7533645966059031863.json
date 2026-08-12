@@ -1,0 +1,93 @@
+{
+  "video_id": "7533645966059031863",
+  "visual_action": "The video is a slideshow of still images set to music. It begins with a screenshot of a tweet from 'FactPost' showing Donald Trump and an ornate ballroom. It then cuts to three images of a blonde woman at a White House press podium, with different yellow text overlaid on each image. In the final of these three images, she holds up a rendering of a building. The video then shows a wide shot of a large, empty, opulent ballroom, and concludes with a screenshot of a CNBC news headline.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to \"The Trump administration\" and \"Trump's 'big beautiful bill'.\" A photo of him is also shown."
+    },
+    {
+      "name": "unnamed White House official",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is shown in three separate photos standing at the White House press briefing podium, presented as an official making an announcement."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost @factpostnews' is shown at the beginning of the video."
+    },
+    {
+      "name": "CNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a news headline from CNBC is shown at the end of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "caption"
+    },
+    {
+      "text": "The Trump administration has announced they will be building a $200 million ballroom at the White House.",
+      "role": "caption"
+    },
+    {
+      "text": "This comes weeks after passing a law that will kick 17 million Americans off their health care.",
+      "role": "caption"
+    },
+    {
+      "text": "The construction of the new White House ballroom will soon begin.",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House is unable to hold major functions without having to install an unsightly tent.",
+      "role": "overlay"
+    },
+    {
+      "text": "The $200M ballroom will be an exquisite addition of 90,000 square feet.",
+      "role": "overlay"
+    },
+    {
+      "text": "CNBC",
+      "role": "chyron"
+    },
+    {
+      "text": "HEALTH AND SCIENCE",
+      "role": "chyron"
+    },
+    {
+      "text": "Medicaid cuts in Trump's 'big beautiful bill' will leave millions uninsured, threaten rural hospitals",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A female voice says, \"Let them eat cake.\" This is immediately followed by an energetic indie rock song with female vocals that plays for the remainder of the video.",
+  "emojis_present": [],
+  "audio_music": "The video opens with the spoken phrase \"Let them eat cake,\" which then transitions into an upbeat, fast-paced indie rock song ('Deceptacon' by Le Tigre) that continues until the end. The music creates a frantic and energetic mood, juxtaposing with the serious political topics presented.",
+  "editing_pacing": "The video is a fast-paced slideshow, cutting between a series of static images and screenshots in time with the music.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents satirical content as factual. The 'announcement' about the ballroom is conveyed through still images of an actress from the comedy show 'The Opposition w/ Jordan Klepper,' with fabricated quotes superimposed as text. The initial tweet is from 'FactPost,' a known satirical account. This content is presented as a real news report to mislead the viewer.",
+  "emotions_signaled": [
+    "Outrage",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "\"Let them eat cake\"",
+    "Deceptacon by Le Tigre"
+  ],
+  "central_claim": "The Trump administration is callously spending $200 million on a lavish ballroom while simultaneously cutting healthcare for 17 million Americans.",
+  "intended_effect": "To generate anger and outrage at the Trump administration for its perceived elitism and misplaced priorities.",
+  "uncertainty_flags": []
+}

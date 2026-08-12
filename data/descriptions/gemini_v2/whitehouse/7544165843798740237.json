@@ -1,0 +1,46 @@
+{
+  "video_id": "7544165843798740237",
+  "visual_action": "The video is a montage of scenes from rural America. It begins with a slow pan across a farm at sunrise, showing a dirt road and a field. This transitions to a series of clips featuring large John Deere agricultural machinery at work: a combine harvester in a cornfield, an aerial view of a harvester and tractor in a grain field, a tractor in a green field, and a large sprayer moving through a crop field. The final sequence shows black and white dairy cows eating from a trough in a sunlit barn. The video concludes with a black screen displaying the White House logo and text.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with a logo and text that reads 'THE WHITE HOUSE'. The account is also @whitehouse."
+    },
+    {
+      "name": "John Deere",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The distinctive green and yellow branding of John Deere is visible on all the agricultural machinery shown in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of an electronic music track with stylized, non-lyrical vocal samples. The provided transcript appears to be an error.",
+  "emojis_present": [],
+  "audio_music": "The video is set to a continuous, uplifting, and grand-sounding electronic music track ('Meridian' by ODESZA) featuring a driving beat and atmospheric, choral-style vocal samples. The music builds a sense of scale and importance throughout the montage.",
+  "editing_pacing": "The video is a montage with moderately paced cuts between different B-roll shots of rural and agricultural scenes. It begins with a slow pan and then transitions to a series of distinct clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "calm",
+    "pride",
+    "appreciation"
+  ],
+  "cultural_references": [
+    "ODESZA",
+    "Timeline cleanse (internet trend)"
+  ],
+  "central_claim": "The White House is showcasing the beauty, industry, and importance of rural America.",
+  "intended_effect": "To evoke feelings of peace and pride in American agriculture and rural life, providing a positive 'timeline cleanse' for viewers.",
+  "uncertainty_flags": []
+}

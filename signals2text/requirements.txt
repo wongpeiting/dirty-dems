@@ -1,0 +1,29 @@
+# signals2text pipeline dependencies
+# Install with:  pip install -r requirements.txt
+# (The analysis notebooks in ../notebooks have their own, lighter, requirements.)
+
+# --- LLMs: describe (Stage 1), classify (Stage 2), validation ---
+google-genai            # Gemini 2.5 Pro — describe + classify
+anthropic               # Claude Sonnet — independent validation pass
+
+# --- signal extraction ---
+openai-whisper          # speech transcript (transcribe.py)
+easyocr                 # on-screen text (ocr_overlays.py)
+scenedetect             # scene cuts for keyframe sampling (ocr_overlays.py)
+pyacrcloud              # music identification (music_id.py)
+insightface             # face detection/recognition, buffalo_l (faceid/)
+onnxruntime             # InsightFace inference backend
+hdbscan                 # face-embedding clustering (faceid/cluster.py)
+
+# --- media / arrays / io ---
+opencv-python           # cv2 — frame handling
+Pillow                  # PIL — image handling
+numpy
+pandas
+requests
+tqdm
+yt-dlp                  # re-collecting the ringfenced video from the post-ID lists
+
+# --- schema / config ---
+pydantic                # description_schema.py
+python-dotenv           # reads keys from .env

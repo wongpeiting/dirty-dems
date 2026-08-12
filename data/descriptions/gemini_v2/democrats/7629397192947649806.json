@@ -1,0 +1,83 @@
+{
+  "video_id": "7629397192947649806",
+  "visual_action": "A fast-paced, grainy, black-and-white montage with a halftone dot effect. The video opens with a stylized image of Donald Trump in front of American flags and the presidential seal. It cuts to a gas pump display showing a total price of $57.65 for 5.585 gallons. This is followed by a shot of law enforcement officers in riot gear. The video then shows Donald Trump speaking at a podium and a close-up shot of Stephen Miller. Text from the song lyrics, \"ALL I WANNA DO\" and \"AND TAKE YOUR MONEY,\" flashes over the images.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown multiple times, including speaking at a presidential podium, and the on-screen text 'AND TAKE YOUR MONEY' is overlaid on his face. The video's critique is centered on him."
+    },
+    {
+      "name": "Stephen Miller",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Authoritatively identified via face-ID, he appears in a brief close-up shot as part of the montage."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account, making them the implied creator and narrator of the message."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ALL I WANNA DO",
+      "role": "overlay"
+    },
+    {
+      "text": "This Sale",
+      "role": "other"
+    },
+    {
+      "text": "57.65",
+      "role": "other"
+    },
+    {
+      "text": "5.585",
+      "role": "other"
+    },
+    {
+      "text": "Gallons",
+      "role": "other"
+    },
+    {
+      "text": "AND TAKE",
+      "role": "overlay"
+    },
+    {
+      "text": "YOUR MONEY",
+      "role": "overlay"
+    },
+    {
+      "text": "AND TAKE YOUR MONEY",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is the chorus from M.I.A.'s song \"Paper Planes.\" The distinctive lyrics are \"All I wanna do is...\" followed by four gunshot sound effects, a cash register sound effect, and the line \"and take your money.\" This sequence repeats throughout the video.",
+  "emojis_present": [
+    "😵‍💫"
+  ],
+  "audio_music": "The entire video is set to the recognizable, high-energy track \"Paper Planes\" by M.I.A. The audio is a loop of the song's chorus, which includes gunshot and cash register sound effects. The effect is chaotic, aggressive, and accusatory.",
+  "editing_pacing": "The video is a very fast-paced montage with rapid cuts. It uses a consistent, stylized visual filter that makes the footage look like a grainy, high-contrast, black-and-white photocopy with a halftone dot pattern.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "anxiety",
+    "resentment"
+  ],
+  "cultural_references": [
+    "The entire post is built around the song 'Paper Planes' by M.I.A., using its lyrics and distinctive sound effects as the central theme."
+  ],
+  "central_claim": "Donald Trump's presidency was about taking citizens' money, symbolized by high gas prices, and using force, symbolized by riot police.",
+  "intended_effect": "To create a strong negative association between Donald Trump and financial hardship and authoritarian force.",
+  "uncertainty_flags": []
+}

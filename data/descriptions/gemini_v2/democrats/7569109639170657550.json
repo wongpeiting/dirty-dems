@@ -1,0 +1,74 @@
+{
+  "video_id": "7569109639170657550",
+  "visual_action": "Zohran Mamdani gives a speech from a podium in front of several flags, including the US and New York City flags. The video is framed as a CNN news broadcast, with a chyron at the bottom displaying fabricated election results. The camera cuts between Mamdani speaking and a wide shot of a large, cheering crowd in a theater.",
+  "cast": [
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker throughout the video, identified by face recognition and the on-screen text 'ZOHRAN MAMDANI SPEAKS AFTER WINNING NYC MAYOR'S RACE'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mamdani directly addresses him at the start of the speech ('So Donald Trump...') and refers to him multiple times as an example of a corrupt billionaire and bad landlord."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The entire video is styled as a CNN broadcast, with the CNN logo visible in the bottom left corner of the fabricated chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Mayor-elect Mamdani to Trump: “Turn the volume up”",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "ZOHRAN MAMDANI SPEAKS AFTER WINNING NYC MAYOR'S RACE",
+      "role": "chyron"
+    },
+    {
+      "text": "ELECTION NIGHT 2025",
+      "role": "chyron"
+    },
+    {
+      "text": "NEW YORK CITY MAYOR | MAMDANI 1,834,550 50.4% | CUOMO 1,553,260 41.6%",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Zohran Mamdani delivers a victory speech, directly addressing Donald Trump by telling him to \"turn the volume up.\" Mamdani declares that his administration will hold bad landlords like Trump accountable, end the culture of corruption that allows billionaires to evade taxes, and expand labor protections. He concludes by celebrating New York as a city built by and for immigrants, which, as of his election, is now \"led by an immigrant.\"",
+  "emojis_present": [
+    "🔊"
+  ],
+  "audio_music": "The audio consists entirely of Zohran Mamdani's speech and the loud, enthusiastic cheering of the crowd in response. There is no musical score. The sound creates a triumphant and powerful atmosphere.",
+  "editing_pacing": "The video uses simple cuts, alternating between a static medium shot of Mamdani at the podium and wide reaction shots of the cheering audience.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A fake CNN news broadcast overlay, including a chyron and 'BREAKING NEWS' graphics, has been digitally added to footage of a speech by Zohran Mamdani. The chyron falsely presents the event as 'ELECTION NIGHT 2025' and claims Mamdani has won the NYC Mayor's race, framing his speech as a victory address.",
+  "emotions_signaled": [
+    "triumph",
+    "defiance",
+    "hope",
+    "pride"
+  ],
+  "cultural_references": [
+    "CNN broadcast style"
+  ],
+  "central_claim": "A future Democratic victory in NYC, led by a progressive immigrant like Zohran Mamdani, will empower working people and hold figures like Donald Trump accountable for corruption.",
+  "intended_effect": "To inspire and energize Democratic voters with a hopeful vision of a future political victory over antagonists like Donald Trump.",
+  "uncertainty_flags": [
+    "The music fingerprint data provided in the context appears to be incorrect, as the audio is clearly a political speech with crowd noise, not the multiple music tracks listed."
+  ]
+}

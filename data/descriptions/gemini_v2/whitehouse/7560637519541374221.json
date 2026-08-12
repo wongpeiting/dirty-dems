@@ -1,0 +1,61 @@
+{
+  "video_id": "7560637519541374221",
+  "visual_action": "In a large, formal hall, a woman speaks at a microphone to an audience. In the front row, facing the audience, Donald Trump is seated among other men in suits. The audience is seated and watching the proceedings. A large mosaic, which includes a menorah, is visible on the wall behind the speaker.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads 'President Trump Meets with Hostage Families in Israel'."
+    },
+    {
+      "name": "Hostage Families in Israel",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text states that Donald Trump is meeting with 'Hostage Families in Israel'."
+    },
+    {
+      "name": "Israeli Hostages",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text announces that 'All 20 Remaining Living Hostages are Released'."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown standing and speaking at a microphone, thanking someone for their efforts."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Meets with Hostage Families in Israel, as All 20 Remaining Living Hostages are Released. ❤️",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman, representing the hostage families, expresses profound gratitude, saying, \"I want to sincerely thank you for all your efforts. Words are not enough to express our great gratitude and appreciation.\"",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists only of a woman's voice speaking, with the natural acoustics of a large room. There is no background music or other sound design.",
+  "editing_pacing": "The video is a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Relief",
+    "Solemnity"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump's efforts led to the release of all remaining living Israeli hostages, and their families are formally thanking him.",
+  "intended_effect": "To inspire admiration for President Trump's leadership and compassion by highlighting a major successful diplomatic outcome and the emotional gratitude it generated.",
+  "uncertainty_flags": []
+}

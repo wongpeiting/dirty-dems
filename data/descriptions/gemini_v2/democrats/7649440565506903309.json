@@ -1,0 +1,47 @@
+{
+  "video_id": "7649440565506903309",
+  "visual_action": "A montage of clips showing crowds of people in an outdoor park setting and inside a large sports arena (Madison Square Garden) watching a jumbotron. The large screen displays footage of Donald Trump saluting. The crowds are shown reacting by booing.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Donald Trump is shown on a large screen multiple times and is named in the on-screen text: 'HEARTWARMING: Trump booed all across New York City'."
+    },
+    {
+      "name": "New York Knicks",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The crowd is at Madison Square Garden, many wearing Knicks jerseys, and a banner for '1998-99 EASTERN CONFERENCE CHAMPIONS' is visible, implying the event is related to the basketball team."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "HEARTWARMING: Trump booed all across New York City",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a crowd booing loudly, mixed with an ethereal music track.",
+  "emojis_present": [
+    "🗣️"
+  ],
+  "audio_music": "An ethereal, dreamy-sounding song ('Cico Buff' by Cocteau Twins) plays consistently throughout the video, layered over the prominent sounds of a large crowd booing. The music creates a tone of ironic satisfaction or serenity, complementing the 'heartwarming' on-screen text.",
+  "editing_pacing": "A montage with moderately paced cuts between shots of Donald Trump on a jumbotron and various reaction shots of the booing crowd in different locations (a park and an arena).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Schadenfreude",
+    "Mockery",
+    "Contempt"
+  ],
+  "cultural_references": [
+    "New York Knicks"
+  ],
+  "central_claim": "Donald Trump is widely unpopular and was booed by large crowds in New York City.",
+  "intended_effect": "To generate satisfaction and amusement (schadenfreude) at Donald Trump's perceived unpopularity and to reinforce a narrative of his public rejection.",
+  "uncertainty_flags": []
+}

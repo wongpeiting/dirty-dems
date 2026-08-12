@@ -1,0 +1,73 @@
+{
+  "video_id": "7556364558575652151",
+  "visual_action": "Karoline Leavitt speaks at a podium in the White House press briefing room, with American flags behind her. An audience is visible in the foreground. The video ends with a black-and-white credit sequence showing a helicopter and the exterior of the White House.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face-ID, she is the sole speaker in the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the audio as having \"shut down the government\" over the issue of healthcare for immigrants."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the audio as \"President Trump,\" who opposes the policy attributed to the Democrats."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the audio as being aligned with President Trump in opposing the policy."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Press sec on the government shutdown 🔥",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "overlay"
+    },
+    {
+      "text": "Karoline Leavitt Says\n\"We Cannot Afford to Provide\nFree Healthcare to Illegal Aliens.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt states that the Democratic Party has shut down the government because President Trump and the Republicans refuse to force American taxpayers to fund free healthcare for \"illegal aliens.\" She says the US is $37 trillion in debt and cannot afford to provide such care to people who \"broke the law to enter our country.\"",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio consists solely of a person speaking. There is no background music or any other sound effects.",
+  "editing_pacing": "The video consists of a single, static shot of the speaker, followed by a cut to a simple credit screen at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "urgency",
+    "righteousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party is responsible for a government shutdown because they are demanding taxpayer-funded healthcare for undocumented immigrants, which the Trump administration opposes as fiscally irresponsible.",
+  "intended_effect": "To generate anger toward the Democratic Party and support for the Trump administration's fiscal and immigration policies.",
+  "uncertainty_flags": []
+}

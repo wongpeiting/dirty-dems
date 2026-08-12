@@ -1,0 +1,83 @@
+{
+  "video_id": "7551855237443767566",
+  "visual_action": "A montage of a political event at a manufacturing facility. A politician, identified as JD Vance, tours the factory floor, greets workers, and gives a speech from a podium to a large crowd. Another politician, Lori Chavez-DeRemer, also speaks. The video includes shots of factory machinery in operation, employees at work, and the audience listening and applauding. The event takes place at the Hatch Stamping Company in Howell, Michigan. The video concludes with a black and white shot of the White House and its logo.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker throughout the video, identified by face recognition, and discusses the administration's policies."
+    },
+    {
+      "name": "Lori Chavez Deremer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown speaking at the podium before Vance and is identified by face recognition."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the official White House account and concludes with a title card that reads 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "Hatch Stamping Company",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The company is mentioned by name in the opening of the speech ('great American manufacturer, Hatch') and its logo is visible on a sign and employee uniforms."
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'REMEMBERING CHARLIE KIRK' is visible on the podium from which the speakers address the crowd."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AMERICAN JOBS",
+      "role": "overlay"
+    },
+    {
+      "text": "Howell, Michigan",
+      "role": "overlay"
+    },
+    {
+      "text": "HATCH STAMPING COMPANY",
+      "role": "other"
+    },
+    {
+      "text": "REMEMBERING CHARLIE KIRK",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "JD Vance speaks at an event in Michigan, thanking the Hatch Stamping Company. An introductory speaker, Lori Chavez-DeRemer, states that the \"true heartbeat of America\" is with the people, not in Washington D.C. Vance promotes a \"working families tax cut\" as an essential part of \"restarting the American dream.\" He frames the upcoming November 2026 election as a choice to be made \"for America, for our workers, and for our families.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists primarily of spoken remarks with audience applause. An uplifting, patriotic instrumental track plays in the background throughout, swelling at key moments to create an inspirational tone.",
+  "editing_pacing": "The video is edited in a montage style with frequent cuts between various scenes, including speeches, interactions with workers, shots of the factory, and the audience, creating a dynamic and professional feel similar to a campaign advertisement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride",
+    "Optimism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The administration is championing American workers and manufacturing through policies like the working families tax cut to restore the American dream.",
+  "intended_effect": "To persuade viewers that the current administration is focused on the economic well-being of working-class Americans and to build support for its policies and candidates ahead of the 2026 elections.",
+  "uncertainty_flags": []
+}

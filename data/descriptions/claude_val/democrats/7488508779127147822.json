@@ -1,0 +1,70 @@
+{
+  "video_id": "7488508779127147822",
+  "visual_action": "The video opens on a black frame before cutting into a montage of Cory Booker speaking in multiple settings: (1) a church-like setting with large wooden crosses in the background and floral arrangements, with an audience visible; (2) a ballroom/conference hall setting with round tables and a seated audience, where Booker is standing and speaking into a microphone; (3) a news broadcast clip showing Booker at the U.S. Senate floor podium with a chyron identifying him (\"SEN. CORY BOOKER, D-New Jersey\") under a topic banner reading \"TRUMP ADMINISTRATION POLICIES\"; (4) another Senate floor shot with a chyron reading \"SEN. BOOKER NEARS RECORD FOR LONGEST FLOOR SPEECH\"; (5) Booker speaking at a Meyerland Area Democrats Club event in Texas (banner visible in background); (6) a close-up Senate floor shot of Booker placing his hand over his heart with an emotional expression; (7) a return to the conference-hall setting with Booker gesturing to the audience. Throughout the montage, the cyan/blue bold overlay text \"THIS IS THE MOMENT.\" appears across multiple scenes. The editing is a fast-paced multi-clip montage.",
+  "cast": [
+    {
+      "name": "Cory Booker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Face confirmed by InsightFace; named in on-screen chyron 'SEN. CORY BOOKER D-New Jersey'; named in caption '@Cory'; speaking throughout all scenes"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Posted by @democrats account; Meyerland Area Democrats Club banner visible; Booker identified as D-New Jersey"
+    },
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Chyron reads 'TRUMP ADMINISTRATION POLICIES' in the Senate floor broadcast clip"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THIS IS THE MOMENT.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP ADMINISTRATION POLICIES",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. CORY BOOKER\nD-New Jersey",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. BOOKER NEARS RECORD FOR LONGEST FLOOR SPEECH",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Booker opens with the rhetorical question \"This is the moment — where does the Constitution live? On paper or in our hearts?\" He then declares: \"I rise with the intention of disrupting the normal business of the United States Senate for as long as I am physically able.\" These lines appear to span multiple speaking contexts — community events and the Senate floor — edited together to create a unified, escalating message.",
+  "emojis_present": [
+    "💯",
+    "💙"
+  ],
+  "audio_music": "The audio begins with a track fingerprinted as \"Immortal\" by Bwrld (0.0s) — an energetic, motivational-sounding beat. At approximately 7.7s it transitions to \"25 Hours & 5 Minutes\" by The Noisy Cricket — a different instrumental track, slightly different in feel. At approximately 15.5s it shifts again to \"Cold\" by Modoboaw. The music throughout is background instrumental, serving a hype/inspirational effect underneath Booker's spoken audio. The account's own audio (\"original sound\") is used, blending the music with Booker's recorded speech.",
+  "editing_pacing": "Fast-cut montage cycling through multiple settings (church, conference hall, Senate floor, local Democratic club event). Cuts are frequent and rhythmically timed to the music and spoken word. Some slight motion blur visible in handheld shots. Overlay text appears persistently across scenes as a visual anchor.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency — driven by the phrase 'this is the moment' repeated across scenes and the declarative Senate floor statement",
+    "inspiration/pride — heroic framing of Booker's extended Senate floor speech and community appearances",
+    "determination — Booker's hand-over-heart gesture on the Senate floor and his stated intention to disrupt Senate business 'as long as physically able'"
+  ],
+  "cultural_references": [],
+  "central_claim": "Senator Cory Booker is seizing a defining moment of political resistance against Trump administration policies, exemplified by his record-approaching Senate floor speech.",
+  "intended_effect": "Inspire viewers to view Booker as a courageous, determined leader taking a historic stand against the Trump administration.",
+  "uncertainty_flags": [
+    "The partial chyron text 'EGAN SPEAKING LAST NIGHT AT 7pm ET' and 'LACK Jters' from OCR are likely garbled fragments of a longer news ticker (possibly referencing another speaker's name); full text not clearly readable in frames provided",
+    "The exact date/context of Booker's record-length Senate floor speech is not confirmed within this analysis window",
+    "The Meyerland Area Democrats Club banner places one event in Texas, but other community events' locations are not identifiable from the frames"
+  ]
+}

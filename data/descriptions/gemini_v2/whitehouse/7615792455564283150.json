@@ -1,0 +1,91 @@
+{
+  "video_id": "7615792455564283150",
+  "visual_action": "Karoline Leavitt stands at the White House press briefing podium, speaking directly to the camera. Text overlays appear on screen as she speaks. The video concludes with a black-and-white montage showing the White House and a helicopter, with \"THE WHITE HOUSE\" logo superimposed.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Is the sole speaker in the video, delivering the message from the White House podium."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned repeatedly in the audio as the one who wants agencies funded. On-screen text reads, \"President Trump Wants Every Agency to be Fully Funded and Fully Reopened\"."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Leavitt instructs viewers to \"call your Democrat member of Congress\" and blames \"partisan games that are being played by Democrats on Capitol Hill.\" The caption reads, \"Thank a democrat!\""
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Leavitt as an agency President Trump wants funded."
+    },
+    {
+      "name": "TSA",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Leavitt as an agency President Trump wants funded. Also referenced in the caption about \"long tsa lines\"."
+    },
+    {
+      "name": "FEMA",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Leavitt as an agency President Trump wants funded."
+    },
+    {
+      "name": "United States Coast Guard",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Leavitt as an agency whose members President Trump wants to receive their paychecks."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE WASHINGTON",
+      "role": "other"
+    },
+    {
+      "text": "President Trump Wants Every Agency to be Fully Funded and Fully Reopened",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt states that President Trump wants the Department of Homeland Security, TSA, FEMA, and the Coast Guard fully funded so their employees can be paid. She urges Americans who are without a paycheck or are experiencing long airport lines to call their Democratic member of Congress and tell them to fund the Department of Homeland Security. She concludes by calling it \"ridiculous\" that Americans are suffering due to \"partisan games\" played by Democrats.",
+  "emojis_present": [],
+  "audio_music": "The video consists entirely of a person speaking. There is no background music or other audio.",
+  "editing_pacing": "The video is a static, talking-head shot of the speaker, with text overlays appearing. It concludes with a short, black-and-white montage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger (directed at Democrats)",
+    "Frustration (at the political situation)",
+    "Sympathy (for affected Americans and federal workers)"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democrats are responsible for a government shutdown that is causing Americans to suffer, and they should be pressured to fund the Department of Homeland Security as President Trump wants.",
+  "intended_effect": "To direct public anger towards Democratic lawmakers and mobilize viewers to pressure them into funding government agencies.",
+  "uncertainty_flags": []
+}

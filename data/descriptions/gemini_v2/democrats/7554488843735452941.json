@@ -1,0 +1,93 @@
+{
+  "video_id": "7554488843735452941",
+  "visual_action": "A static, medium close-up shot of Jon Ossoff speaking while seated at a table. A microphone with the logo 'POD SAVE AMERICA' is in front of him. He is wearing a light-colored, pinstriped button-down shirt and gestures with his hands as he talks. The background is a plain, dark-colored wall.",
+  "cast": [
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and is the speaker for the entire video. The on-screen caption also identifies him by name."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'Trump's corruption' and Ossoff's entire speech is a critique of Trump and his administration's alleged corruption."
+    },
+    {
+      "name": "Pod Save America",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for the podcast 'POD SAVE AMERICA' is visible on the microphone in front of Jon Ossoff."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Jon Ossoff breaks down Trump's corruption perfectly",
+      "role": "caption"
+    },
+    {
+      "text": "POD SAVE AMERICA",
+      "role": "other"
+    },
+    {
+      "text": "TAXES ON THE ULTRA RICH.",
+      "role": "overlay"
+    },
+    {
+      "text": "80/20 ISSUE IN PUBLIC OPINION, RIGHT?",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT EVERYONE KNOWS THAT THE REASON THAT IT NEVER HAPPENS",
+      "role": "overlay"
+    },
+    {
+      "text": "IS BECAUSE OF THE FINANCIAL POWER, AND THEREFORE THE POLITICAL POWER OF SUPER WEALTHY PEOPLE,",
+      "role": "overlay"
+    },
+    {
+      "text": "WE HAVE TO MAKE SURE PEOPLE ARE AWARE THAT DONALD TRUMP, HIS ADMINISTRATION, ARE",
+      "role": "overlay"
+    },
+    {
+      "text": "ENGAGED IN SOME OF THE MOST BRAZEN AND OVERT CORRUPTION",
+      "role": "overlay"
+    },
+    {
+      "text": "THEY'RE OPERATING LIKE SOME OF THE MOST SHAMELESS FOREIGN LEADERS WHO MIX STATE BUSINESS WITH FAMILY WEALTH AND PERSONAL BUSINESS.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE AMERICAN PEOPLE UNDERSTAND THAT THE SYSTEM REALLY IS RIGGED,",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT TRUMP IS NOT UNRIGGING IT, HE'S RE-RIGGING IT FOR HIMSELF.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Jon Ossoff explains that raising taxes on the ultra-rich is a widely popular idea that never gets enacted due to the financial and political power of the wealthy. He then asserts that Donald Trump and his administration are engaged in \"brazen and overt corruption,\" comparing their behavior to that of \"shameless foreign leaders who mix state business with family wealth.\" Ossoff concludes that while the American people understand the system is rigged, Trump is not fixing it but is instead \"re-rigging it for himself.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of clear, spoken dialogue from a podcast-style interview. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement. Animated captions appear on screen to transcribe the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Seriousness",
+    "Indignation"
+  ],
+  "cultural_references": [
+    "Pod Save America"
+  ],
+  "central_claim": "Donald Trump is not fixing America's corrupt political system but is instead engaged in brazen corruption to re-rig it for his own benefit.",
+  "intended_effect": "To convince the viewer that Donald Trump is corrupt and acts in his own self-interest, not the public's.",
+  "uncertainty_flags": []
+}

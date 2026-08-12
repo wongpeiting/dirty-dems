@@ -1,0 +1,79 @@
+{
+  "video_id": "7555954021597465869",
+  "visual_action": "A static image showing cut-out photos of Chuck Schumer and Hakeem Jeffries superimposed over a nighttime photograph of the U.S. Capitol dome. Text is overlaid on the image, listing negative actions attributed to Democrats.",
+  "cast": [
+    {
+      "name": "Chuck Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A cut-out photograph of Chuck Schumer is shown in the foreground."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A cut-out photograph of Hakeem Jeffries is shown in the foreground."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'Unfortunately the Democrats do love:' and the caption is 'Democrat Shutdown'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Unfortunately the Democrats do love:",
+      "role": "overlay"
+    },
+    {
+      "text": "shutting down the government",
+      "role": "overlay"
+    },
+    {
+      "text": "leaving federal workers without income",
+      "role": "overlay"
+    },
+    {
+      "text": "families missing paychecks",
+      "role": "overlay"
+    },
+    {
+      "text": "playing politics with people's lives",
+      "role": "overlay"
+    },
+    {
+      "text": "leaving veterans waiting for benefits",
+      "role": "overlay"
+    },
+    {
+      "text": "putting illegal aliens health care > Americans",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A classic rock track, identified as 'Rocky Mountain Way' by Joe Walsh, plays throughout the video. The music has a serious and driving tone.",
+  "editing_pacing": "The video consists of a single, static composite image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Portraits of Chuck Schumer and Hakeem Jeffries are cut out from separate photographs and superimposed onto a background image of the U.S. Capitol building.",
+  "emotions_signaled": [
+    "anger",
+    "frustration",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "The song 'Rocky Mountain Way' by Joe Walsh is used as the background music."
+  ],
+  "central_claim": "The Democratic Party, represented by leaders Chuck Schumer and Hakeem Jeffries, is accused of intentionally shutting down the government and causing harm to American citizens, veterans, and federal workers.",
+  "intended_effect": "To persuade the viewer to blame the Democratic Party for government shutdowns and their negative consequences.",
+  "uncertainty_flags": [
+    "The provided face-ID context indicates 'none detected', but the individuals shown are clearly identifiable as Chuck Schumer and Hakeem Jeffries."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "video_id": "7478160140277976366",
+  "visual_action": "A two-panel meme video. The top panel shows Donald Trump at a podium in what appears to be the House of Representatives chamber during a formal address, with Mike Johnson and J.D. Vance visible behind him. The C-SPAN2 logo is in the corner. The bottom panel shows Elon Musk, also in a formal setting, looking up with a slight smile and shrugging.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in the top panel at a podium, with an on-screen caption attributing a quote to him."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in the bottom panel and explicitly named in the on-screen text: '*Elon Musk, an unelected bureaucrat*'."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible seated directly behind Donald Trump's right shoulder."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible seated behind Donald Trump's left shoulder."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The days of rule of unelected bureaucrats are over.",
+      "role": "caption"
+    },
+    {
+      "text": "*Elon Musk, an unelected bureaucrat*",
+      "role": "caption"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENTIAL ADDRESS to CONGRESS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of a pop song.",
+  "emojis_present": [],
+  "audio_music": "The song 'Obsessed' by Mariah Carey ft. Gucci Mane plays throughout the video. It is an upbeat pop/R&B track used to create an ironic and mocking tone.",
+  "editing_pacing": "The video is presented as a static, two-panel, split-screen meme with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "Obsessed (song by Mariah Carey and Gucci Mane)"
+  ],
+  "central_claim": "The post suggests Donald Trump's rhetoric against 'unelected bureaucrats' is hypocritical by juxtaposing it with an image of the powerful and unelected Elon Musk.",
+  "intended_effect": "To make the viewer see Donald Trump's statement as ironic or hypocritical and to mock him.",
+  "uncertainty_flags": [
+    "The provided context states 'none detected' for face-ID, but Donald Trump, Elon Musk, Mike Johnson, and J.D. Vance are clearly visually identifiable."
+  ]
+}

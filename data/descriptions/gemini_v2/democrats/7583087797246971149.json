@@ -1,0 +1,83 @@
+{
+  "video_id": "7583087797246971149",
+  "visual_action": "A slideshow of photos of the U.S. Capitol Christmas Tree at night. It begins with a general view, then shows photos labeled '2021', '2022', '2023', and '2024', all depicting large, lush, brightly-lit trees. The 2021 photo shows Nancy Pelosi speaking at a podium. The video concludes with a photo labeled '2025😏' showing a comically sparse and small Christmas tree in daytime, with the Washington Monument in the background.",
+  "cast": [
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears at a podium in the photograph labeled '2021'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post contrasts positive years (2021-2024) with a negative prediction for 2025, implying a future Republican administration is the target of the mockery."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "As the presumptive 2024 Republican presidential nominee, he is the implied leader of the administration being mocked in the '2025' image."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the people's tree throughout the years,",
+      "role": "overlay"
+    },
+    {
+      "text": "2021",
+      "role": "overlay"
+    },
+    {
+      "text": "2022",
+      "role": "overlay"
+    },
+    {
+      "text": "2023",
+      "role": "overlay"
+    },
+    {
+      "text": "2024",
+      "role": "overlay"
+    },
+    {
+      "text": "2025😏",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only instrumental music.",
+  "emojis_present": [
+    "😏"
+  ],
+  "audio_music": "The video begins with a soft, nostalgic instrumental track. It then transitions into a grand, cinematic orchestral score from 'The Polar Express' that plays over the montage of impressive Christmas trees. The music swells dramatically over the final image of the sparse 2025 tree.",
+  "editing_pacing": "A slow-paced slideshow of still photographs.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A photo of a sparse, underwhelming Christmas tree is presented and labeled '2025' to satirically contrast with the lush, well-lit trees from 2021-2024, implying that a change in political leadership would result in a diminished national celebration.",
+  "emotions_signaled": [
+    "Pride",
+    "Nostalgia",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The Polar Express"
+  ],
+  "central_claim": "A future Republican administration, implied for 2025, would lead to a national decline symbolized by a meager and disappointing Capitol Christmas tree compared to the grand trees under Democratic leadership.",
+  "intended_effect": "To create a humorous contrast that frames Democratic leadership as festive and successful, while framing potential Republican leadership as disappointing and inadequate.",
+  "uncertainty_flags": []
+}

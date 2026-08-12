@@ -1,0 +1,58 @@
+{
+  "video_id": "7611230445598035214",
+  "visual_action": "A man in a US military uniform, wearing a Medal of Honor, stands holding a support device. Next to him, a woman in a red dress smiles. The setting is a formal room with patterned wallpaper. The man briefly turns to smile at the woman.",
+  "cast": [
+    {
+      "name": "Slover",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies him as 'American Hero Slover' and describes his actions."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states 'but Dems couldn't bring themselves to stand up for Americans.'"
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman in a red dress is shown standing next to Slover throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "American Hero Slover was shot 4 times during Operation Absolute Resolve & he still stood up to receive his Medal of Honor but Dems couldn't bring themselves to stand up for Americans.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no audible speech in the video; only instrumental music plays.",
+  "emojis_present": [
+    "❤️",
+    "🇺🇸"
+  ],
+  "audio_music": "A slow, solemn, and reverent piano instrumental plays throughout the clip, creating a patriotic and emotional tone. The fingerprinted track is 'HOLY FOREVER (PIANO)'.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Admiration",
+    "Contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "While a wounded American war hero demonstrates immense courage and patriotism, the Democratic Party fails to show respect for Americans.",
+  "intended_effect": "To generate admiration for the soldier and contrast it with contempt for the Democratic Party, portraying them as unpatriotic.",
+  "uncertainty_flags": [
+    "The identity of the soldier 'Slover' and the event 'Operation Absolute Resolve' are taken from the on-screen text and not independently verified.",
+    "The on-screen text contains a box-like symbol or character before the word 'Dems' which is not legible and its meaning is unclear."
+  ]
+}

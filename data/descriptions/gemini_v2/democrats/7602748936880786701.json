@@ -1,0 +1,65 @@
+{
+  "video_id": "7602748936880786701",
+  "visual_action": "A static, two-panel meme comparing potential Super Bowl Halftime Show performers. The meme is titled \"Super Bowl Halftime Shows.\" The left panel, labeled \"We have:\", shows a photo of musician Bad Bunny in a tuxedo holding several Grammy awards. The text below reads \"6-time Grammy Award winner.\" The right panel, labeled \"MAGA has:\", shows a shirtless photo of musician Kid Rock. The text below reads \"Whatever tf this is.\"",
+  "cast": [
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The right panel of the meme is labeled 'MAGA has:'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video was posted by the @democrats account and the left panel is labeled 'We have:', implying the party itself."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Super Bowl Halftime Shows",
+      "role": "meme_text"
+    },
+    {
+      "text": "We have:",
+      "role": "meme_text"
+    },
+    {
+      "text": "MAGA has:",
+      "role": "meme_text"
+    },
+    {
+      "text": "6-time Grammy Award winner",
+      "role": "meme_text"
+    },
+    {
+      "text": "Whatever tf this is",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only music.",
+  "emojis_present": [],
+  "audio_music": "An upbeat reggaeton track, identified as 'EoO' by Bad Bunny, plays throughout the short video. The music creates a modern, popular, and energetic vibe associated with the 'We have' side of the meme.",
+  "editing_pacing": "The video is a static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Contempt",
+    "Pride",
+    "Cultural superiority"
+  ],
+  "cultural_references": [
+    "Bad Bunny",
+    "Kid Rock",
+    "Super Bowl Halftime Shows",
+    "Grammy Award"
+  ],
+  "central_claim": "The cultural figures associated with the Democratic party are successful and acclaimed artists like Bad Bunny, whereas those associated with MAGA are unappealing figures like Kid Rock.",
+  "intended_effect": "To create a sense of cultural superiority for the Democratic side while mocking and denigrating the cultural tastes and representatives of the MAGA movement.",
+  "uncertainty_flags": []
+}

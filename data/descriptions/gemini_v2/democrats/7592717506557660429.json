@@ -1,0 +1,93 @@
+{
+  "video_id": "7592717506557660429",
+  "visual_action": "The video first displays a screenshot of a tweet from the account 'Pop Base'. The tweet reports that an ICE officer shot and killed a woman in Minneapolis. Below the text are two images: a tactical vest with a 'POLICE ICE' patch and the seal of the U.S. Department of Homeland Security. The video then cuts to a clip of several law enforcement officers in tactical gear on a snowy street, surrounding a dark-colored SUV that is emitting exhaust.",
+  "cast": [
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet shown on screen explicitly names 'An ICE officer' and shows a vest with a 'POLICE ICE' patch."
+    },
+    {
+      "name": "unnamed ICE officer",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet states, 'An ICE officer has shot and killed a woman...'"
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet states that an ICE officer 'shot and killed a woman'."
+    },
+    {
+      "name": "Pop Base",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays a screenshot of a tweet from the Twitter/X account '@PopBase'."
+    },
+    {
+      "name": "U.S. Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The seal for the U.S. Department of Homeland Security is shown in an image within the tweet."
+    },
+    {
+      "name": "NBC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A partial URL for nbcnews.com is visible in the on-screen tweet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pop Base\n@PopBase",
+      "role": "overlay"
+    },
+    {
+      "text": "An ICE officer has shot and killed a woman in Minneapolis during an immigration-related operation.",
+      "role": "overlay"
+    },
+    {
+      "text": "(nbcnews.com/news/us-news/f...)",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE\nICE",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. DEPARTMENT OF\nHOMELAND SECURITY",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue or spoken audio in the video; only instrumental music plays.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and melancholic instrumental track plays consistently throughout the video, creating a sad and serious tone.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot for about three seconds, followed by a single, continuous clip of law enforcement officers on a street.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "outrage",
+    "concern"
+  ],
+  "cultural_references": [
+    "Pop Base"
+  ],
+  "central_claim": "An ICE officer killed a woman during an operation in Minneapolis.",
+  "intended_effect": "To generate sympathy for the victim and anger towards ICE, portraying the agency as violent and deadly.",
+  "uncertainty_flags": []
+}

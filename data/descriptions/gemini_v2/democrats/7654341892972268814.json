@@ -1,0 +1,60 @@
+{
+  "video_id": "7654341892972268814",
+  "visual_action": "The video uses a split-screen format. The top half shows Donald Trump seated in a meeting with others, being asked a question by a reporter. The bottom half shows a black-and-white clip of Trump speaking at a podium in front of American flags. Midway through, the top clip also turns black and white. Text overlays are present in the center and as chyrons at the top and bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the subject of both video clips and is shown speaking throughout. The on-screen text is about his contradictory statements."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks Trump a question at the beginning of the video: \"Are the contractors who did the initial work with the reflecting pool, are they to blame for the current condition?\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "DO YOU BELIEVE IN MIRACLES?",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP SAYS VANDALS CUT REFLECTING POOL AFTER CLAIMING THAT WOULD BE IMPOSSIBLE",
+      "role": "overlay"
+    },
+    {
+      "text": "TEXT \"POTUS\" TO 45470 FOR UPDATES FROM THE WHITE HOUSE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An unnamed person asks Donald Trump if contractors are to blame for the condition of the reflecting pool. Trump replies, \"No, no. We had vandalism... vandals.\" He claims there is a \"290, 300-foot slit right through it. Probably a box cutter or a knife of some kind.\" The video then cuts to a different clip of Trump saying something (presumably the pool liner) is so strong that \"if you had a knife, you can't even cut it. So strong, so powerful. It's like powerful rubber.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of spoken dialogue with no background music or sound effects.",
+  "editing_pacing": "The video uses a split-screen format and juxtaposes two separate clips of Donald Trump to highlight a direct contradiction in his statements. The pacing is determined by the speed of his speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "\"Do you believe in miracles?\" is a famous quote from sports commentator Al Michaels from the \"Miracle on Ice\" hockey game at the 1980 Winter Olympics."
+  ],
+  "central_claim": "Donald Trump contradicted himself by claiming something was indestructible and impossible to cut with a knife, and then later blaming its damage on vandals who cut it with a knife.",
+  "intended_effect": "To portray Donald Trump as untrustworthy, hypocritical, or foolish by highlighting his contradictory statements.",
+  "uncertainty_flags": []
+}

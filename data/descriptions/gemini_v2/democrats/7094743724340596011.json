@@ -1,0 +1,68 @@
+{
+  "video_id": "7094743724340596011",
+  "visual_action": "Pete Buttigieg, wearing a suit and tie, speaks while seated at what appears to be a university event. He uses hand gestures as he talks. The background includes a logo for the University of Chicago Institute of Politics.",
+  "cast": [
+    {
+      "name": "Pete Buttigieg",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video and is identified by face."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Buttigieg discusses a 'political faction' and the on-screen text identifies them as the 'GOP'. He spends the entire clip critiquing their lack of policy answers."
+    },
+    {
+      "name": "Rick Scott",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Buttigieg references 'Senator Scott's proposal to raise taxes for the poor' as an example of a GOP policy."
+    },
+    {
+      "name": "University of Chicago Institute of Politics",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's logo is visible on the backdrop behind Pete Buttigieg."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "@UChiPolitics",
+      "role": "overlay"
+    },
+    {
+      "text": "THE UNIVERSITY OF CHICAGO INSTITUTE OF POLITICS",
+      "role": "other"
+    },
+    {
+      "text": "Secretary Buttigieg on the 🚩GOP🚩",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Pete Buttigieg argues that a certain \"political faction\" (identified on-screen as the GOP) lacks answers for major issues like gas prices, inflation, and taxes. He claims they have no solutions and even cites \"Senator Scott's proposal to raise taxes for the poor\" as a bad idea. Buttigieg concludes that because they lack policy substance, their strategy is to \"find somebody vulnerable and pick on them.\"",
+  "emojis_present": [
+    "🚩"
+  ],
+  "audio_music": "The audio consists solely of Pete Buttigieg's spoken remarks without any accompanying music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disapproval",
+    "Criticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican party lacks substantive policy solutions to Americans' problems and instead resorts to attacking vulnerable people.",
+  "intended_effect": "To portray the GOP as incompetent and malicious, thereby encouraging viewers to disapprove of them.",
+  "uncertainty_flags": []
+}

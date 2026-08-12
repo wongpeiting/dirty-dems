@@ -1,0 +1,51 @@
+{
+  "video_id": "7636865137181232397",
+  "visual_action": "The video intercuts clips of Pete Hegseth speaking at a podium with reaction shots from characters in the movie 'Office Space'. The editing creates the illusion that the 'Office Space' characters are interviewing Hegseth and are confused and skeptical about his statements.",
+  "cast": [
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium, and his speech is the subject of the mockery from the intercut movie clips."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the audio when Pete Hegseth says, \"Iran knows that... and only Iran is contesting.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "what is he taking about?  ",
+      "role": "caption"
+    },
+    {
+      "text": "DEPARTMENT OF WA...",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video edits together a scene from the movie 'Office Space' with a speech by Pete Hegseth. An 'Office Space' character asks, \"What would you say you do here?\" The video then cuts to Hegseth giving a jargon-filled explanation about a \"separate and distinct project,\" defending it aggressively, and discussing \"freedom of navigation,\" \"international waterways,\" and a ceasefire that Iran is contesting. The 'Office Space' characters react with confused and skeptical facial expressions, concluding with one saying, \"Ooh, yeah.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from two sources, edited together to create a conversation. There is no discernible background music.",
+  "editing_pacing": "The video uses quick cuts, intercutting a speaker with reaction shots from a movie scene to create a comedic, call-and-response effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "confusion"
+  ],
+  "cultural_references": [
+    "The video is a direct reference to and uses clips from a famous scene in the 1999 movie 'Office Space', featuring the characters known as 'the Bobs' (Bob Slydell and Bob Porter) and Bill Lumbergh interviewing an employee."
+  ],
+  "central_claim": "Pete Hegseth's explanation of government action is portrayed as incomprehensible corporate jargon that amounts to nothing meaningful.",
+  "intended_effect": "To make the viewer laugh at Pete Hegseth and perceive his statements as meaningless and incompetent.",
+  "uncertainty_flags": [
+    "The provided music fingerprint from the context does not match the video's audio, which consists solely of dialogue.",
+    "The full text on the podium seal in front of Pete Hegseth is not fully legible."
+  ]
+}

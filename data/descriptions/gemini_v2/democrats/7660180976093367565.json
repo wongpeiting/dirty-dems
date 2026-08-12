@@ -1,0 +1,96 @@
+{
+  "video_id": "7660180976093367565",
+  "visual_action": "The video starts with Donald Trump speaking while seated in front of an American flag and a backdrop for the 'Ankara Summit'. The clip is paused and transforms into a multiple-choice quiz format. The screen is split into four colored quadrants (red, blue, yellow, and green), with the question 'what does trump say next?' overlaid in the middle. The four options are 'iran', 'china', 'ISIS', and 'the islamic republic of... japan (???)'. After a 5-second countdown, the video reveals the answer by playing the remainder of the clip of Trump, now tinted green, as he says the final option.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown on screen speaking and is the subject of the entire post, which centers on a verbal gaffe he makes."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Appears as an on-screen text option 'iran' in the quiz."
+    },
+    {
+      "name": "China",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Appears as an on-screen text option 'china' in the quiz."
+    },
+    {
+      "name": "ISIS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Appears as an on-screen text option 'ISIS' in the quiz."
+    },
+    {
+      "name": "Japan",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Appears as an on-screen text option and is named in the audio as part of Trump's gaffe."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ANKARA SUMMIT | SOMMET",
+      "role": "other"
+    },
+    {
+      "text": "7-8 VII 2026",
+      "role": "other"
+    },
+    {
+      "text": "We had 111 missiles shot by",
+      "role": "caption"
+    },
+    {
+      "text": "what does trump say next?",
+      "role": "overlay"
+    },
+    {
+      "text": "iran",
+      "role": "overlay"
+    },
+    {
+      "text": "china",
+      "role": "overlay"
+    },
+    {
+      "text": "ISIS",
+      "role": "overlay"
+    },
+    {
+      "text": "the islamic republic of... japan (???)",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump begins a sentence, saying, \"We had 111 missiles shot by...\" The audio cuts out for a quiz segment and then returns for the punchline, with Trump finishing the sentence: \"...the Islamic Republic of Japan.\"",
+  "emojis_present": [],
+  "audio_music": "The video starts with diegetic speech from Trump. This is interrupted by an upbeat, quirky electronic track with a rhythm suitable for a quiz show or video game, which plays during the multiple-choice segment. The music stops abruptly for the final spoken punchline.",
+  "editing_pacing": "The editing is dynamic and follows a meme format. It starts with a simple clip, then cuts to a faster-paced, interactive-style quiz with a four-panel split screen, color filters, and a countdown timer. The pacing is designed to build anticipation for a comedic reveal.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "The video uses a popular online meme format where a clip is paused to present a multiple-choice quiz to the audience, setting up a comedic or surprising punchline."
+  ],
+  "central_claim": "Donald Trump made a significant and nonsensical gaffe by referring to Japan as 'the Islamic Republic of Japan.'",
+  "intended_effect": "To make the viewer laugh at and mock Donald Trump for his perceived verbal mistake.",
+  "uncertainty_flags": []
+}

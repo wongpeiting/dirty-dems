@@ -1,0 +1,66 @@
+{
+  "video_id": "7623146874492570893",
+  "visual_action": "A man stands on a patio next to an infinity pool, watching a military attack helicopter fly low and close by. The patio, which features a replica of the Statue of Liberty, overlooks a vast wooded valley with a city skyline in the far distance. The man, seen from behind, waves at the helicopter. A sign on the building reads 'THE SOUTHERN WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Kid Rock",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text says 'dawg why is the military spending money to show off for kid rock'."
+    },
+    {
+      "name": "U.S. Military",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text mentions 'the military' and an attack helicopter is shown."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A sign on the building reads 'THE SOUTHERN WHITE HOUSE', a nickname for his Mar-a-Lago estate, and the subject, Kid Rock, is a known political ally."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is shown from behind watching the helicopter for the entire video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "dawg why is the military spending money to show off for kid rock",
+      "role": "overlay"
+    },
+    {
+      "text": "THE SOUTHERN WHITE HOUSE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists only of a simple instrumental melody. The provided transcript, which consists of a sequence of numbers, is erroneous and does not reflect the audio content.",
+  "emojis_present": [],
+  "audio_music": "A simple, repetitive, neutral-toned electronic melody, similar to a ringtone or hold music, plays consistently throughout the video. The mundane sound contrasts with the dramatic visual of the helicopter.",
+  "editing_pacing": "The video is a single, continuous shot with some slight camera panning. There are no discernible cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "disapproval",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "The U.S. military is wastefully using taxpayer money to provide a private airshow for Kid Rock, a politically connected celebrity associated with Donald Trump.",
+  "intended_effect": "To provoke outrage and criticism over a perceived misuse of military resources for the entertainment of political allies.",
+  "uncertainty_flags": [
+    "The authenticity of the event depicted (i.e., whether it was a genuine military fly-by for a private individual) cannot be verified from the video alone.",
+    "The provided audio transcript is nonsensical and does not match the instrumental audio track."
+  ]
+}

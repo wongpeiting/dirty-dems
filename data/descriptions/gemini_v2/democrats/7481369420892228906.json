@@ -1,0 +1,57 @@
+{
+  "video_id": "7481369420892228906",
+  "visual_action": "Representative John Larson speaks forcefully at a congressional committee hearing. He is seated at a wooden dais next to other representatives, with several people seated behind him. He gestures with his hands for emphasis as he delivers his remarks.",
+  "cast": [
+    {
+      "name": "John Larson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, identified by face recognition and an on-screen text overlay reading 'Democrat Rep. Larson'."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Larson repeatedly questions his absence, saying 'Where's Elon Musk?' and accuses him of wanting to 'privatize Social Security'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official '@democrats' account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrat Rep. Larson demands accountability from Elon Musk",
+      "role": "overlay"
+    },
+    {
+      "text": "WHERE'S THE INDEPENDENCE OF THE COMMITTEE? WHERE'S THE LEGISLATURE? WE'RE AN EQUAL BRANCH OF GOVERNMENT, AND YOU START OFF WITH A BLATHER? AND YET LOOK AT THE EMPTY SEATS HERE. WHERE'S ELON MUSK? I'M SURE HE'S A GENIUS AND IS A VERY CREDIBLE PERSON BECAUSE OF THE WEALTH HE'S ACCUMULATED, BUT THAT DOES NOT PUT HIM ABOVE THE LAW OR THE RESPONSIBILITY TO COME BEFORE THIS COMMITTEE IN THIS CONGRESS. IF HE'S SO GREAT, IF THESE PLANS AND ALL THE FRAUD AND ABUSE THAT HE'S FOUND ARE SO IMMINENT, WHY ISN'T HE HERE EXPLAINING IT? YOU KNOW WHY. BECAUSE HE'S OUT TO PRIVATIZE SOCIAL SECURITY.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Representative John Larson angrily questions the independence of a congressional committee and demands to know why Elon Musk is not present to testify. Larson sarcastically refers to Musk as a \"genius\" but asserts that his wealth does not place him \"above the law\" or the responsibility to appear before Congress. He concludes by accusing Musk of being absent because \"he's out to privatize Social Security.\"",
+  "emojis_present": [
+    "💯"
+  ],
+  "audio_music": "The audio consists solely of Representative Larson's impassioned speech. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of the speaker, characteristic of a C-SPAN or news clip from a hearing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Outrage",
+    "Righteousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Elon Musk is avoiding accountability before Congress because he harbors a secret agenda to privatize Social Security.",
+  "intended_effect": "To portray Elon Musk as an arrogant billionaire who disrespects the law and is actively working against the interests of everyday Americans, specifically by targeting Social Security.",
+  "uncertainty_flags": []
+}

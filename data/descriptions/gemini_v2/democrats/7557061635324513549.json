@@ -1,0 +1,96 @@
+{
+  "video_id": "7557061635324513549",
+  "visual_action": "The video uses gameplay footage from a farming simulator game as a backdrop. A green tractor plows a field, which has large wind turbines. Throughout the video, various images and text are superimposed over the gameplay footage to illustrate the narration. These include a cutout photo of Donald Trump pointing, the flag of China, a photo of Trump holding a document labeled 'Reciprocal Tariff', a bar chart showing a steep decline in 'U.S. soybean sales to China', the flags of Argentina and Brazil, a screenshot of a news headline about the soybean crisis, and finally, a different in-game scene where a combine harvester fills a trailer pulled by a red tractor. The video ends with the tractor at a drop-off point, where an in-game notification reads 'Soybeans is not accepted here!'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face appears in two separate photos, and the narration is entirely about the consequences of his trade policy. The audio begins, 'When Trump said he loves farmers, he lied.'"
+    },
+    {
+      "name": "American farmers",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video's central claim is about the negative economic impact on this group. The narration repeatedly mentions 'American farmers' and shows a headline about 'Soybean farmers caught in looming crisis'."
+    },
+    {
+      "name": "China",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The country is repeatedly mentioned as the key export market for U.S. soybeans, and its flag is shown on screen."
+    },
+    {
+      "name": "Argentina",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as a country China now buys soybeans from instead of the U.S. Its flag is shown on screen."
+    },
+    {
+      "name": "Brazil",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as a country China now buys soybeans from instead of the U.S. Its flag is shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "@plodsgaming_",
+      "role": "credit"
+    },
+    {
+      "text": "U.S. soybean sales to China",
+      "role": "overlay"
+    },
+    {
+      "text": "All soybean sales to Chinese companies ceased at the end of May.",
+      "role": "overlay"
+    },
+    {
+      "text": "Source: United States Department of Agriculture - by @democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Soybean farmers caught in looming crisis as US trade war with China cripples sales",
+      "role": "overlay"
+    },
+    {
+      "text": "'It's just a massive shock to our markets,' a Nebraska farmer says.",
+      "role": "overlay"
+    },
+    {
+      "text": "Soybeans is not accepted here!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The narrator argues that Donald Trump lied about loving farmers because his trade war against China hurt them. The narrator states that the U.S. imposed tariffs, which made American soybeans too expensive for China, previously the top customer. As a result, China stopped buying U.S. soybeans and switched to suppliers in Argentina and Brazil. This allegedly left American farmers in states like Illinois, Iowa, and Nebraska with unsellable crops, costing them millions. The narration claims that soybean sales to China dropped from $12.6 billion to zero.",
+  "emojis_present": [],
+  "audio_music": "A fast-paced, sped-up pop track plays throughout, changing to another similar-sounding sped-up track about two-thirds of the way through. The music serves to make the informational content feel dynamic and engaging, consistent with TikTok trends.",
+  "editing_pacing": "The editing is fast-paced, using continuous gameplay footage as a base layer while rapidly superimposing photos, flags, charts, and news headlines to illustrate the points made in the narration.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Betrayal",
+    "Anger",
+    "Sympathy"
+  ],
+  "cultural_references": [
+    "Farming Simulator (video game)",
+    "Katy Perry (the song 'Dark Horse' is sampled/covered in the audio)"
+  ],
+  "central_claim": "Donald Trump's trade war with China severely harmed American soybean farmers by destroying their primary export market.",
+  "intended_effect": "To convince viewers that Donald Trump's policies betrayed and financially damaged American farmers.",
+  "uncertainty_flags": [
+    "The background video is identified as being from a farming simulator game via a caption hashtag and a watermark, but the specific title of the game is not explicitly stated."
+  ]
+}

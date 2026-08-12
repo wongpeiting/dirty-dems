@@ -1,0 +1,76 @@
+{
+  "video_id": "7606795332751510797",
+  "visual_action": "The video opens with dimly lit, dramatic close-ups of characters from a movie, including a coach and a hockey player. It then transitions to a fast-paced montage of modern ice hockey game highlights. Players in Team USA jerseys are shown scoring goals, celebrating on the ice, and yelling with excitement. There are also shots of fans in the stands, some waving an American flag.",
+  "cast": [
+    {
+      "name": "Team USA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Players are shown wearing jerseys with \"USA\" on the front, and the caption reads \"LET'S GO USA\"."
+    },
+    {
+      "name": "Herb Brooks (character)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The audio features the voice of the coach character from the movie 'Miracle', identified as Herb Brooks, asking \"Who do you play for?\""
+    },
+    {
+      "name": "Mike Eruzione (character)",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The coach character calls out the name \"Michael Ruzzioni\" (a mis-transcription of Mike Eruzione) at the beginning of the audio clip from the movie 'Miracle'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LET’S GO USA 🦅🦅🦅",
+      "role": "caption"
+    },
+    {
+      "text": "USA",
+      "role": "overlay"
+    },
+    {
+      "text": "EICHEL",
+      "role": "overlay"
+    },
+    {
+      "text": "MILANO CORTINA 2026",
+      "role": "other"
+    },
+    {
+      "text": "NATIONS FACE-OFF",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a dramatic scene from a film where a coach intensely questions a player, asking \"Who do you play for?\" The player, after a tense pause, passionately responds, \"I play for the United States of America!\"",
+  "emojis_present": [
+    "🦅"
+  ],
+  "audio_music": "The video begins with only dramatic dialogue from a movie scene. When the player declares he plays for the United States, a powerful and uplifting orchestral score begins, playing over the subsequent hockey montage to create a patriotic and exciting mood.",
+  "editing_pacing": "The video uses a fast-cut montage style, interspersing dramatic, dimly lit close-ups with high-energy sports action shots to build excitement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "inspiration",
+    "excitement"
+  ],
+  "cultural_references": [
+    "The audio is from a key scene in the 2004 Disney movie 'Miracle', about the 1980 U.S. Olympic hockey team.",
+    "The hockey player Jack Eichel is identified by the name 'EICHEL' on his jersey.",
+    "The Olympics are referenced through the five-ring logo and text for 'MILANO CORTINA 2026' visible on the rink boards."
+  ],
+  "central_claim": "The video uses a famous patriotic scene from the movie 'Miracle' to frame modern Team USA hockey as part of a legacy of national pride and athletic triumph.",
+  "intended_effect": "To evoke feelings of patriotism and excitement for American international hockey.",
+  "uncertainty_flags": [
+    "The fingerprinted music provided in the context ('Where have you been (Tiktok Remix)', 'Livin Tech') does not seem to match the powerful, orchestral score heard in the video during the montage."
+  ]
+}

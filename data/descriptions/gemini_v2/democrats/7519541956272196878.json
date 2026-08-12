@@ -1,0 +1,87 @@
+{
+  "video_id": "7519541956272196878",
+  "visual_action": "The video first shows a split-screen image of Donald Trump speaking outdoors. Yellow text captions his words. It then cuts to a screenshot of a tweet from the 'Democrats' Twitter account. The tweet asks, \"So then why the fuck did you get us involved?\" in response to a quoted tweet from CSPAN which features a quote from President Trump about Israel and Iran.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in the first half of the video, and is quoted in the CSPAN tweet shown in the second half."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video features a screenshot of a tweet from the account 'Democrats' with the handle '@TheDemocrats'."
+    },
+    {
+      "name": "CSPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a screenshot of a tweet from the account 'CSPAN' with the handle '@cspan'."
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the CSPAN tweet text: 'President Trump on Israel and Iran'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the CSPAN tweet text: 'President Trump on Israel and Iran'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "We have two countries that have been fighting so long...",
+      "role": "overlay"
+    },
+    {
+      "text": "...that they don't know what the fuck they're doing.",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "So then why the fuck did you get us involved?",
+      "role": "overlay"
+    },
+    {
+      "text": "CSPAN @cspan",
+      "role": "overlay"
+    },
+    {
+      "text": "President Trump on Israel and Iran: \"We basically have two countries that have been fighting so long and so hard that they don't know what the fuck they're doing.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video. The on-screen text attributes a quote to Donald Trump, but he is not heard saying it. The only audio is a music track.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, funky instrumental track with brass and percussion, featuring vocal ad-libs like 'oh!', plays throughout the entire video. The energetic music creates a mocking or 'gotcha' tone.",
+  "editing_pacing": "The video consists of two static images presented as a slideshow: a split-screen photo of Donald Trump, followed by a screenshot of a tweet. The transition is a simple cut.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule",
+    "frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is hypocritical for getting the U.S. involved in a foreign conflict that he himself describes as pointless.",
+  "intended_effect": "To portray Donald Trump as incompetent and hypocritical regarding foreign policy.",
+  "uncertainty_flags": []
+}

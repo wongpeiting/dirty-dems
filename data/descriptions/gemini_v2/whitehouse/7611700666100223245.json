@@ -1,0 +1,63 @@
+{
+  "video_id": "7611700666100223245",
+  "visual_action": "Donald Trump, wearing a suit and a red '45-47' hat, enters a Whataburger restaurant filled with a large, cheering crowd of supporters. Many people in the crowd wear red hats and hold up their phones to film him. The restaurant is decorated with large American flags. Trump walks through the restaurant, announces he is buying hamburgers for everyone, and then approaches the counter to interact with the employees, shaking their hands. He then turns back to the crowd, waves, and gives a thumbs-up as they chant 'USA!'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown from the moment he enters the restaurant, and he is heard speaking to the crowd."
+    },
+    {
+      "name": "Whataburger",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The event takes place inside a Whataburger restaurant, which is named in the on-screen text."
+    },
+    {
+      "name": "Chris Wright",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID in the provided context as being present in the video."
+    },
+    {
+      "name": "unnamed Whataburger employees",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several employees are shown behind the counter interacting with Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump orders Hamburgers at Whataburger 🍔",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump enters a Whataburger and addresses the cheering crowd, asking 'Can you handle this?' before announcing, 'Hamburgers for all!' He jokes that he would offer 'drinks for all, but I don't drink.' He then interacts with the employees at the counter, asking who the boss is and shaking their hands. The video ends with the crowd chanting 'USA! USA!'.",
+  "emojis_present": [
+    "🍔",
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists entirely of diegetic sound from the event, including loud cheering, applause, Donald Trump speaking, and the crowd chanting 'USA!'. There is no musical soundtrack. The effect is to create an immersive, rally-like atmosphere.",
+  "editing_pacing": "The video is filmed with a handheld camera and appears to be a single continuous take following Donald Trump as he moves through the restaurant, creating a 'you are there' perspective.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Admiration",
+    "Patriotism",
+    "Generosity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a popular and generous leader who connects with everyday Americans, as shown by his enthusiastic reception at a Whataburger where he bought everyone food.",
+  "intended_effect": "To foster admiration for Donald Trump and portray him as a relatable 'man of the people' who is widely beloved.",
+  "uncertainty_flags": []
+}

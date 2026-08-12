@@ -1,0 +1,72 @@
+{
+  "video_id": "7533626185054424375",
+  "visual_action": "The video displays a slideshow of two static images. The first is a screenshot of a tweet from an account called 'FactPost'. The tweet text describes negative job growth data for May and June 2025. Below the text is a photo of Donald Trump sitting at a desk with US flags, next to a graphic of a bar chart with a declining red arrow. The second image is a screenshot of a headline from 'The Hill' newspaper, also reporting on a stalling jobs market.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photograph of Donald Trump is featured prominently in the first screenshot, juxtaposed with negative economic news."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are displayed on a tweet screenshot that forms the main part of the video."
+    },
+    {
+      "name": "The Hill",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and name 'THE HILL' are visible on the second screenshot of a news headline."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New jobs report data shows that revisions for May and June were larger than normal. The jobs added were revised down by 125,000, and 133,000, respectively.",
+      "role": "overlay"
+    },
+    {
+      "text": "This makes May and June of 2025 the worst months of jobs growth since mass layoffs in 2020.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE HILL",
+      "role": "overlay"
+    },
+    {
+      "text": "Jobs market stalls as US adds only 73K in July; huge revisions in May, June",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of music.",
+  "emojis_present": [],
+  "audio_music": "The video features the upbeat, high-energy pop song 'Timber' by Pitbull throughout. The prominent lyric 'It's going down, I'm yelling timber' plays over the images of negative economic data, creating a mocking, celebratory tone that frames economic decline as a downfall.",
+  "editing_pacing": "The video is a simple slideshow, consisting of two static images with one quick cut between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a screenshot of a tweet from 'FactPost', which is not a known major news organization. This tweet appears to be a fabricated document, created to look like a real social media post, in order to present a specific political claim about the economy in 2025.",
+  "emotions_signaled": [
+    "Alarm",
+    "Worry",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Timber (song by Pitbull)"
+  ],
+  "central_claim": "The economy under Donald Trump's leadership in 2025 experienced the worst job growth since 2020, with significant downward revisions to job numbers.",
+  "intended_effect": "To generate concern and alarm about the state of the economy under a Republican (specifically Trump) administration, and to mock their perceived failures.",
+  "uncertainty_flags": [
+    "The 'FactPost' account shown in the tweet appears to be a fabricated source created for the video, not a genuine news outlet.",
+    "The authenticity of 'The Hill' headline screenshot is unconfirmed and could potentially be edited or fabricated."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "7657655041637076237",
+  "visual_action": "A series of video clips, including an aerial shot, show a very sparsely attended outdoor event on a large grassy lawn flanked by white colonnaded buildings. A stage is set up at one end, but only a few dozen people are scattered across the large area, sitting or standing.",
+  "cast": [
+    {
+      "name": "Organizers of 'Freedom 250' event",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video and its on-screen text \"'freedom 250' because that's how many people went 💀\" are designed to mock the low attendance at this event, thereby targeting its organizers."
+    },
+    {
+      "name": "National Endowment for the Arts",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's name is clearly visible on a large banner on the event stage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "'freedom 250' because that's how many people went 💀",
+      "role": "overlay"
+    },
+    {
+      "text": "NATIONAL ENDOWMENT for the ARTS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it only features a song with German lyrics.",
+  "emojis_present": [
+    "💀"
+  ],
+  "audio_music": "A continuous, somewhat melancholic and atmospheric song ('Gut Genug' by KITSCHKRIEG, Blumengarten, Shirin David) plays throughout the video, creating an ironic contrast with the mocking on-screen text.",
+  "editing_pacing": "The video is a short montage of several clips showing the event from different angles.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "derision"
+  ],
+  "cultural_references": [],
+  "central_claim": "The 'Freedom 250' event, presumably hosted by political opponents, was a failure with extremely low turnout.",
+  "intended_effect": "To make the viewer mock the organizers of the 'Freedom 250' event and see them as unpopular and unsuccessful.",
+  "uncertainty_flags": []
+}

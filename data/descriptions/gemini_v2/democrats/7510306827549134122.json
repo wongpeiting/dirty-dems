@@ -1,0 +1,73 @@
+{
+  "video_id": "7510306827549134122",
+  "visual_action": "A woman, identified as Joni Ernst, sits on a stage at a table with a microphone, speaking. An American flag is visible behind her. The video is a static shot focused on her as she speaks during what appears to be a public forum or town hall.",
+  "cast": [
+    {
+      "name": "Joni Ernst",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face recognition, she is the sole person shown on screen and the one speaking."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears in the on-screen text: \"GOP Senator ignores concerns about Trump's Medicaid cuts\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referred to as the \"GOP\" in the on-screen text \"GOP Senator ignores concerns\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GOP Senator ignores concerns about Trump's Medicaid cuts: “We all are going to die”",
+      "role": "overlay"
+    },
+    {
+      "text": "SO, WE...",
+      "role": "caption"
+    },
+    {
+      "text": "PEOPLE ARE GOING TO DIE.",
+      "role": "caption"
+    },
+    {
+      "text": "PEOPLE ARE NOT...",
+      "role": "caption"
+    },
+    {
+      "text": "WELL, WE ALL ARE GOING TO DIE.",
+      "role": "caption"
+    },
+    {
+      "text": "[CROWD BOOS]",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "In an apparent exchange with an audience member who shouts that people will die, Senator Joni Ernst responds, \"Well, we all are going to die.\" Her comment is immediately met with audible booing from the crowd.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of diegetic sound from the event: spoken dialogue and loud booing from the crowd. There is no added music or score.",
+  "editing_pacing": "The video is a single, static shot with no edits, cuts, or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Disbelief",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republican Senator Joni Ernst callously dismissed concerns about deaths potentially caused by Donald Trump's Medicaid cuts by stating that everyone dies eventually.",
+  "intended_effect": "To portray Senator Joni Ernst and the Republican party as heartless and indifferent to the life-or-death consequences of their healthcare policies.",
+  "uncertainty_flags": [
+    "The provided music fingerprint identified a song titled 'We're All Going to Die', which is almost certainly a false positive triggered by the identical phrase being spoken in the video's dialogue; no non-diegetic music is actually audible."
+  ]
+}

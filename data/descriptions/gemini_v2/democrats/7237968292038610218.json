@@ -1,0 +1,57 @@
+{
+  "video_id": "7237968292038610218",
+  "visual_action": "A woman with blonde-highlighted brown hair, wearing a pink checkered shirt, looks directly at the camera and lip-syncs. The background is a plain white wall. Text overlays appear sequentially on screen, first in a blue box, then in a red box, timed to a change in her facial expression from neutral to concerned.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"Democrats trust women to make their own reproductive health care decisions\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"Republicans want to ban abortion nationwide\"."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is the sole visual subject of the video, lip-syncing to the audio."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats trust women to make their own reproductive health care decisions",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans want to ban abortion nationwide",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. A woman lip-syncs to lyrics from a pop song: \"And I keep my side of the street clean... You wouldn't know what I mean.\"",
+  "emojis_present": [],
+  "audio_music": "A pop song, which sounds like Taylor Swift's \"Karma,\" plays throughout the video. The music provides a contrasting backdrop for the two political messages presented on screen, aligning a positive lyric with the Democratic position and a critical lyric with the Republican position.",
+  "editing_pacing": "The video consists of a single, static shot of a woman lip-syncing to the camera, with text overlays appearing on screen. The pacing is slow and steady.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Righteousness (associated with the Democratic party's stance)",
+    "Concern",
+    "Disapproval (directed at the Republican party's stance)"
+  ],
+  "cultural_references": [
+    "The video uses the lyrics \"And I keep my side of the street clean / You wouldn't know what I mean\" from the song \"Karma\" by Taylor Swift."
+  ],
+  "central_claim": "The Democratic Party trusts women to make their own reproductive healthcare decisions, whereas the Republican Party seeks to implement a nationwide abortion ban.",
+  "intended_effect": "To persuade viewers to support the Democratic Party's stance on reproductive rights and oppose the Republican Party's position, framing the issue as a clear moral choice.",
+  "uncertainty_flags": []
+}

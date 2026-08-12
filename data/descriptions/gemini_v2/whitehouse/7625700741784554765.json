@@ -1,0 +1,61 @@
+{
+  "video_id": "7625700741784554765",
+  "visual_action": "Donald Trump stands at a podium in what appears to be the White House press briefing room, speaking directly to the camera. He is wearing a dark suit and a light-colored tie. The shot is a static, medium close-up.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visually identified on screen, speaking for the entire duration of the video."
+    },
+    {
+      "name": "U.S. Armed Forces",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the speech: \"I ordered the U.S. Armed Forces to do whatever was necessary to bring our brave warriors back home.\""
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named as the location of the incident: \"an American F-15 fighter jet went down deep inside enemy territory in Iran\"."
+    },
+    {
+      "name": "unnamed American pilots",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The subject of the speech: \"Both members of the crew ejected from the aircraft and landed alive... bring our brave warriors back home.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LATE THURSDAY NIGHT, AN AMERICAN F15 FIGHTER JET WENT DOWN DEEP INSIDE ENEMY TERRITORY IN IRAN WHILE PARTICIPATING IN OPERATION EPIC FURY, WHERE WE'RE DOING UNBELIEVABLY WELL. WELL, THAT NOBODY'S EVER SEEN BEFORE. THE ENTIRE COUNTRY CAN BE TAKEN OUT IN ONE NIGHT, AND THAT NIGHT MIGHT BE TOMORROW NIGHT. BOTH MEMBERS OF THE CREW EJECTED FROM THE AIRCRAFT AND LANDED ALIVE ON IRANIAN SOIL. I IMMEDIATELY WAS ASKED TO MAKE A DECISION. I ORDERED THE U.S. ARMED FORCES TO DO WHATEVER WAS NECESSARY TO BRING OUR BRAVE WARRIORS BACK HOME. A RISKY DECISION BECAUSE WE COULD HAVE ENDED UP WITH 100 DEAD AS OPPOSED TO ONE OR TWO. IT'S A HARD DECISION TO MAKE. BUT IN THE UNITED STATES MILITARY, WE LEAVE NO AMERICAN BEHIND. WE DON'T DO IT.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that an American F-15 fighter jet crashed in Iran during \"Operation Epic Fury.\" He states that both crew members ejected safely and that he ordered the U.S. Armed Forces to rescue them. He calls it a \"risky decision\" that prevented potentially 100 deaths. He concludes by affirming the military principle: \"we leave no American behind.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's speaking voice. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Seriousness",
+    "Pride",
+    "Resolve"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump successfully ordered a risky rescue mission to save American pilots who crashed in Iran, demonstrating that the U.S. military leaves no one behind under his command.",
+  "intended_effect": "To inspire pride in the U.S. military and confidence in Trump's decisive leadership as Commander-in-Chief.",
+  "uncertainty_flags": []
+}

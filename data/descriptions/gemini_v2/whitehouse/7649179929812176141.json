@@ -1,0 +1,69 @@
+{
+  "video_id": "7649179929812176141",
+  "visual_action": "A fast-paced montage of clips related to New York City and Donald Trump. It includes shots of the NYC skyline, the Empire State Building, and the Statue of Liberty, interspersed with clips of Donald Trump dancing and speaking at rallies. The montage also features cultural references including a New York Knicks basketball game, a clown on a city street, various people being interviewed or shouting, and clips from the TV shows 'The Sopranos' and 'The Office'. The video has a glitchy, retro visual filter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears multiple times dancing and speaking at rallies. His voiceover frames the entire video."
+    },
+    {
+      "name": "New York",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Donald Trump states, 'I had a very special hello to a place that I really do love. It's called New York. We gotta straighten this place out.'"
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A sign on a podium Trump speaks at reads 'TRUMP VANCE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "New York",
+      "role": "overlay"
+    },
+    {
+      "text": "TEXT NC TO 88022\nTRUMP\nVANCE\nMAKE AMERICA GREAT AGAIN! 2024",
+      "role": "chyron"
+    },
+    {
+      "text": "NEW YORK, STAND UP 🗽",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The video layers Donald Trump's voiceover with a collage of soundbites from New York-centric pop culture. Trump begins by saying he loves New York and that 'we gotta straighten this place out.' This is followed by rapid-fire audio clips including 'I'm walkin' here!', the viral 'Bing Bong' sound, a reporter shouting about 'New York joy,' a line from 'The Sopranos' ('Your American way'), and a character saying 'Fuggedaboutit.' Trump concludes by promising to 'bring New York back in bigger, better, stronger than ever before.'",
+  "emojis_present": [
+    "🗽"
+  ],
+  "audio_music": "The video features a continuous lo-fi hip-hop beat throughout ('Resurrection' by Snoozin), creating an urban, hype-focused mood. Layered over this beat are numerous spoken-word audio clips and soundbites from memes and TV shows.",
+  "editing_pacing": "Very fast-paced montage with rapid cuts between dozens of short clips, many less than a second long. A glitchy, chromatic aberration visual effect is applied throughout, mimicking an old VHS tape.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "hype",
+    "humor",
+    "resolve"
+  ],
+  "cultural_references": [
+    "The 'Bing Bong' meme, originating from a Sidetalk NYC video with New York Knicks fans.",
+    "The line 'I'm walkin' here!' from the film 'Midnight Cowboy'.",
+    "A clip of the character Tony Soprano (played by James Gandolfini) from the TV show 'The Sopranos'.",
+    "A clip of the character Michael Scott (played by Steve Carell) from the TV show 'The Office'.",
+    "The New York Knicks basketball team, including a shot of player Jalen Brunson.",
+    "Sidetalk NYC, a viral street interview series."
+  ],
+  "central_claim": "Donald Trump is an authentic New Yorker who loves the city, understands its unique culture, and is committed to restoring its greatness.",
+  "intended_effect": "To energize New York-based supporters and portray Trump as a culturally attuned champion for the city who can solve its problems.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,87 @@
+{
+  "video_id": "7625680005233642765",
+  "visual_action": "A news broadcast clip shows Donald Trump speaking at a podium on a White House balcony. To his left is Melania Trump, and to his right is a person in a large Easter Bunny costume. A Fox News chyron is visible at the bottom of the broadcast footage. The video is framed with a meme text overlay at the top and large, sequential captions at the bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is shown speaking at the podium for the entire duration of the clip."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Melania Trump is shown standing next to Donald Trump on the balcony."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and chyron are visible on the broadcast footage."
+    },
+    {
+      "name": "unnamed person in Easter Bunny costume",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A person in a full Easter Bunny costume is shown standing next to Donald Trump on the balcony."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump holds easter bunny hostage while rambling about planes 😭",
+      "role": "meme_text"
+    },
+    {
+      "text": "THE WHITE HOUSE LIVE | 10:52 AM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SPEAKS AT EASTER EVENT AHEAD OF IRAN UPDATE",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: RESCUE IS \"SOMETHING YOU RARELY SEE\"",
+      "role": "chyron"
+    },
+    {
+      "text": "GONNA FIND AREN'T WE? BUT WHEN A THING LIKE THAT HAPPENS WHERE A PILOT SHOT DOWN, IN MOST INSTANCES YOU'RE REALLY NOT ABLE TO GO IN BECAUSE YOU'LL GO IN WITH 200 PEOPLE AND LOTS OF JET FIGHTERS AND HELICOPTERS, YOU REALLY DON'T HAVE A CHANCE THEY GET SHOT DOWN. YOU LOSE 200 IN ORDER TO PICK UP ONE. IT'S A HORRIBLE THING BUT IT'S",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "At a White House Easter event, Donald Trump discusses the high risks of military rescue missions for downed pilots. He explains that sending in forces is dangerous, stating, \"you'll go in with 200 people and lots of jet fighters and helicopters... you lose 200 in order to pick up one. It's a horrible thing.\"",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's voice speaking at an outdoor event, with some light ambient background noise. There is no music or added sound effects.",
+  "editing_pacing": "The video uses a single, static news clip of a talking head. The editing consists of adding a meme-style text overlay at the top and large captions at the bottom that appear sequentially in time with the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "absurdity"
+  ],
+  "cultural_references": [
+    "Easter Bunny",
+    "Easter"
+  ],
+  "central_claim": "Donald Trump is portrayed as absurd and out of place for delivering a rambling, serious speech about military casualties during a festive White House Easter event.",
+  "intended_effect": "To make the viewer mock Donald Trump and perceive him as incoherent and unfit for the presidency.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,102 @@
+{
+  "video_id": "7148599258894208302",
+  "visual_action": "A fast-paced slideshow of official portraits of various Republican politicians. An American flag is visible in the background of most portraits. Overlaid on each portrait is a screenshot of a tweet from the account 'The Democrats' accusing Republicans of voting against certain policies.",
+  "cast": [
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video displays screenshots of tweets from the account 'The Democrats' (@TheDemocrats)."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text in the tweets repeatedly begins with 'Every single Republican in Congress...' or 'Every single Republican...'"
+    },
+    {
+      "name": "Austin Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His portrait is shown in the slideshow."
+    },
+    {
+      "name": "Andy Barr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His portrait is shown in the slideshow."
+    },
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His portrait is shown in the slideshow."
+    },
+    {
+      "name": "Adam Kinzinger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His portrait is shown in the slideshow."
+    },
+    {
+      "name": "Elise Stefanik",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her portrait is shown in the slideshow."
+    },
+    {
+      "name": "Lee Zeldin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His portrait is shown in the slideshow."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats\n@TheDemocrats\nEvery single Republican in Congress voted against taking action to lower energy costs and tackle climate change.",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats\n@TheDemocrats\nEvery single Republican voted against lowering prescription drug costs through the Inflation Reduction Act.",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats\n@TheDemocrats\nEvery single Republican voted against the American Rescue Plan, which was critical to lowering health care costs and helping get millions of Americans back to work.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech. The audio consists of a song where the main audible lyric is \"Do you remember,\" repeated several times.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, funky soul/disco track plays throughout the video. The prominent lyric is 'Do you remember', repeated over the slideshow. The song choice frames the political message as a call to remember past actions. The track sounds like 'September' by Earth, Wind & Fire.",
+  "editing_pacing": "The video is a fast-paced slideshow with quick cuts between still portraits of politicians.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disapproval",
+    "anger"
+  ],
+  "cultural_references": [
+    "The song 'September' by Earth, Wind & Fire is used, with its memorable 'Do you remember' lyric."
+  ],
+  "central_claim": "Every Republican in Congress has voted against key legislation aimed at lowering energy, prescription drug, and health care costs for Americans.",
+  "intended_effect": "To generate disapproval of Republican politicians and their party by highlighting their voting records on popular economic issues.",
+  "uncertainty_flags": [
+    "The video shows more faces than are identified in the authoritative face-ID list; not every individual shown has been identified."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_id": "7569633328190491918",
+  "visual_action": "A slideshow montage of still photographs depicting Nancy Pelosi at various points in her political career. It opens with a recent photo of her in front of the U.S. Capitol, followed by historical images: an early campaign photo, speaking at a convention, standing behind President Barack Obama during a bill signing with Vice President Joe Biden also present, speaking in the House of Representatives, posing with two other women, holding the speaker's gavel, and touching an unidentified man's face at a convention.",
+  "cast": [
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is featured in every photograph of the montage and is named in the on-screen text, \"Nancy Pelosi announces her retirement\"."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in a photograph signing a document at a desk, with Nancy Pelosi and others standing behind him."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in a photograph standing next to Nancy Pelosi behind Barack Obama during a bill signing."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The words \"DEMOCRAT FOR CONGRESS\" appear on an early campaign sign, and \"DEMOCRATIC NATIONAL CONVENTION\" is written on a tote bag in another photo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Nancy Pelosi announces her retirement after 39 years of service 💙",
+      "role": "overlay"
+    },
+    {
+      "text": "NANCY PELOSI",
+      "role": "other"
+    },
+    {
+      "text": "DEMOCRAT FOR CONGRESS",
+      "role": "other"
+    },
+    {
+      "text": "HBO",
+      "role": "credit"
+    },
+    {
+      "text": "NEW YORK DEMOCRATIC NATIONAL CONVENTION 2024",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists entirely of a song by a female vocalist. Audible lyrics include \"don't be a stranger.\"",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "A gentle, melancholic indie-pop song (identified as 'Scott Street' by Phoebe Bridgers) plays throughout the video, creating a nostalgic and reflective mood for the retrospective slideshow.",
+  "editing_pacing": "The video is a slow-paced slideshow of still photographs.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Appreciation",
+    "Respect",
+    "Wistfulness"
+  ],
+  "cultural_references": [
+    "Phoebe Bridgers (musician, via the song 'Scott Street')",
+    "HBO (media company, via on-screen watermark)"
+  ],
+  "central_claim": "The video is a tribute celebrating Nancy Pelosi's long and significant 39-year career in public service upon her retirement.",
+  "intended_effect": "To make the viewer feel appreciation, respect, and nostalgia for Nancy Pelosi's career and contributions.",
+  "uncertainty_flags": [
+    "Could not identify all individuals shown in group photos with Nancy Pelosi, including the man whose face she is touching and the women in an older photo."
+  ]
+}

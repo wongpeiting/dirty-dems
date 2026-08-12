@@ -1,0 +1,116 @@
+{
+  "video_id": "7465077614294830382",
+  "visual_action": "Senator Maggie Hassan speaks at a podium during a press conference. She is wearing a grey blazer and glasses. Behind her to her right stands Senator Charles Schumer. A banner is visible to her left with the word 'SLASHED' in red at the top.",
+  "cast": [
+    {
+      "name": "Maggie Hassan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video and is identified by face recognition."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'Sen. Hassan rips into Trump for freezing all federal funds' and he is referred to as 'The President' and 'President Trump' in her speech."
+    },
+    {
+      "name": "Charles Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is identified by face recognition, standing behind Maggie Hassan."
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the speech: 'The Supreme Court has ruled that the Impoundment Control Act...'"
+    },
+    {
+      "name": "Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the speech: '...spend the money appropriated by Congress.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Sen. Hassan rips into Trump for freezing all federal funds",
+      "role": "overlay"
+    },
+    {
+      "text": "THE PRESIDENT IS UNILATERALLY FREEZING ALL FEDERAL GRANTS.",
+      "role": "caption"
+    },
+    {
+      "text": "THESE ARE VITAL FEDERAL FUNDS, AS YOU HAVE HEARD. THIS ACT IS ILLEGAL.",
+      "role": "caption"
+    },
+    {
+      "text": "THE PRESIDENT IS REQUIRED TO SPEND THE MONEY APPROPRIATED BY CONGRESS.",
+      "role": "caption"
+    },
+    {
+      "text": "THE SUPREME COURT HAS RULED THAT THE IMPOUNDMENT CONTROL ACT, WHICH PREVENTS A PRESIDENT FROM UNILATERALLY HOLDING BACK FUNDS, THE SUPREME COURT HAS RULED THAT THAT IS CONSTITUTIONAL.",
+      "role": "caption"
+    },
+    {
+      "text": "EQUALLY AS IMPORTANT, AND PERHAPS MORE IMPORTANT, IS THAT THIS ACTION WILL HURT PEOPLE ALL ACROSS THE COUNTRY.",
+      "role": "caption"
+    },
+    {
+      "text": "PRESIDENT TRUMP'S ORDER DEFUNDS POLICE DEPARTMENTS EVEN AS LAW ENFORCEMENT OFFICERS ARE TRYING TO KEEP US SAFE.",
+      "role": "caption"
+    },
+    {
+      "text": "IT IMPERILS DISASTER RELIEF AS FIRES RAGE.",
+      "role": "caption"
+    },
+    {
+      "text": "IT HALTS CANCER RESEARCH AS WE STRIVE FOR CURES, AND IT SHUTS DOWN SHELTERS FOR HOMELESS VETERANS IN THE COLD OF WINTER.",
+      "role": "caption"
+    },
+    {
+      "text": "SENATE DEMS",
+      "role": "other"
+    },
+    {
+      "text": "SLASHED",
+      "role": "other"
+    },
+    {
+      "text": "seniors & veterans\ncommunity health centers\nentries\nretirement",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Senator Maggie Hassan forcefully states that President Trump is \"unilaterally freezing all federal grants,\" an act she calls illegal. She explains that the president is required to spend money appropriated by Congress, citing the Impoundment Control Act and a Supreme Court ruling that found it constitutional. Hassan argues this action will hurt people across the country by defunding police departments, imperiling disaster relief, halting cancer research, and shutting down shelters for homeless veterans.",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "The audio consists entirely of a woman's speech delivered at what sounds like a press conference, with some ambient room noise. There is no music or other audio editing.",
+  "editing_pacing": "The video is a single, static talking-head shot of a person speaking at a podium.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "urgency",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is illegally freezing federal funds, an act of presidential overreach that will have devastating consequences for the American people.",
+  "intended_effect": "To create alarm and anger towards President Trump's actions and portray him as a lawless leader who harms vulnerable citizens.",
+  "uncertainty_flags": [
+    "The full text on the banner behind the speaker is partially obscured.",
+    "The provided audio transcript becomes garbled and irrelevant after the main speech concludes."
+  ]
+}

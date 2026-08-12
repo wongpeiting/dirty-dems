@@ -1,0 +1,57 @@
+{
+  "video_id": "7594914820378463501",
+  "visual_action": "Donald Trump, wearing a dark overcoat, tours a large, active vehicle manufacturing plant. He is surrounded by men in suits and plant workers, some of whom are wearing yellow high-visibility vests with the Ford logo. A crowd of workers gathers around Trump, smiling and using their phones to take selfies and photos with him. The setting is an industrial factory floor with assembly lines and vehicle chassis. The video ends with two black and white still images: the first of Marine One landing, and the second of the White House building, both with the text \"THE WHITE HOUSE\" overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually present throughout the video and is the central focus of the action and the on-screen text, which reads \"President Trump takes selfies...\""
+    },
+    {
+      "name": "Ford Motor Company",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the location as a \"Ford plant\" and a \"Ford F-150 manufacturing plant\"."
+    },
+    {
+      "name": "unnamed Ford plant workers",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A group of people in work attire are shown interacting with and taking photos of Donald Trump in the setting of a Ford plant."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump takes selfies with Ford plant workers as he tours a Ford F-150 manufacturing plant in Dearborn, Michigan! 🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio consists of ambient noise from a factory floor, including machinery sounds and indistinct chatter from a crowd. A person can be faintly heard saying \"Thank you.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio is diegetic, consisting of ambient factory sounds and crowd chatter. There is no music.",
+  "editing_pacing": "The video consists of several handheld shots showing the same scene from slightly different angles, edited together. It ends with two static, black-and-white title cards.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Populism",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is popular with and supported by American auto workers.",
+  "intended_effect": "To portray Donald Trump as a president who connects with the working class and is admired by them.",
+  "uncertainty_flags": []
+}

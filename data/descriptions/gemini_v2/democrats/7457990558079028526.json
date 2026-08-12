@@ -1,0 +1,65 @@
+{
+  "video_id": "7457990558079028526",
+  "visual_action": "A split-screen video. The top panel shows various clips of Donald Trump speaking at a podium in a tuxedo, sitting at a table with the presidential seal, and viewing maps with other officials. The bottom panel shows B-roll footage of climate-related disasters: a massive wildfire, a San Antonio police car submerged in a flood, the Golden Gate Bridge obscured by heavy smog or smoke, and embers flying through the air.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visible on screen speaking in multiple clips and is the subject of the on-screen text."
+    },
+    {
+      "name": "unnamed official",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man in a suit is shown at a table with Trump and says, 'I wish science agreed with you.'"
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks Trump, 'Have you seen this devastation... change your opinion at all on climate change...?'"
+    },
+    {
+      "name": "San Antonio Police",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The words 'SAN ANTONIO POLICE' are visible on the side of a vehicle submerged in floodwaters."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump is a climate denier.",
+      "role": "overlay"
+    },
+    {
+      "text": "WH.GOV",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video compiles several statements from Donald Trump where he calls climate change \"one of the greatest con jobs ever\" and claims \"it'll start getting cooler.\" When an official says \"I wish science agreed with you,\" Trump replies, \"I don't think science knows, actually.\" When asked by a reporter if seeing devastation from wildfires changes his opinion on climate change, he says \"No.\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of spoken dialogue from the video clips. There is no music or other sound design.",
+  "editing_pacing": "The video is a montage with quick cuts between different clips of Donald Trump and various disaster scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "anger",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a climate denier whose dismissive statements about climate change are contradicted by the reality of devastating environmental disasters.",
+  "intended_effect": "To portray Donald Trump as foolish, callous, and dangerously wrong on the issue of climate change, thereby generating opposition to him.",
+  "uncertainty_flags": []
+}

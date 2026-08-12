@@ -1,0 +1,75 @@
+{
+  "video_id": "7495561638364466475",
+  "visual_action": "The video shows a static screenshot of a purported New York Times article with the headline 'Hegseth Said to Have Shared Attack Details in Second Signal Chat'. It then cuts to a second static screenshot of a tweet from the 'Democrats' account that reads, '.@PeteHegseth needs to go.'",
+  "cast": [
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the headline of the New York Times article ('Hegseth') and tagged in the tweet ('.@PeteHegseth')."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The masthead 'The New York Times' appears at the top of the article screenshot."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The tweet screenshot is from the account named 'Democrats' with the handle '@TheDemocrats'. The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The New York Times",
+      "role": "other"
+    },
+    {
+      "text": "Hegseth Said to Have Shared Attack Details in Second Signal Chat",
+      "role": "overlay"
+    },
+    {
+      "text": "The defense secretary sent sensitive information about strikes in Yemen to an encrypted group chat that included his wife and brother, people familiar with the matter said.",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": ".@PeteHegseth needs to go.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only a rap song with lyrics.",
+  "emojis_present": [],
+  "audio_music": "An aggressive, high-energy rap track ('WTHELLY' by Rob49) plays continuously throughout the video, creating a confrontational and hype-filled atmosphere.",
+  "editing_pacing": "Slideshow style with a single cut between two static screenshots.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated screenshot of a New York Times article. The screenshot is designed to look authentic but presents a hypothetical, negative event (Pete Hegseth as Defense Secretary leaking sensitive information) as if it were a real news report in order to attack him.",
+  "emotions_signaled": [
+    "alarm",
+    "outrage",
+    "confrontation"
+  ],
+  "cultural_references": [
+    "The song 'WTHELLY' by rapper Rob49 is used as the soundtrack."
+  ],
+  "central_claim": "Pete Hegseth is unfit to be Defense Secretary because he would be a national security risk who recklessly leaks sensitive information.",
+  "intended_effect": "To persuade viewers that Pete Hegseth is dangerous and should not hold a high-level government position.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is empty, but the audio clearly contains a rap song with lyrics."
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "video_id": "7599738993818815775",
+  "visual_action": "The video is a slideshow of static images. It begins with a screenshot of a tweet from 'FactPost' quoting Donald Trump about his father's cognitive decline. Next to the quote is a photo of Trump looking concerned and a medical diagram of a human brain. The video then transitions to two photos of a man's bruised hand with the text 'TRUMP HEALTH UPDATE JANUARY 2026' overlaid. It concludes with a black screen displaying a list titled '10 WARNING SIGNS OF ALZHEIMER'S', with 'SOURCE: CDC' at the bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name and photo appear in a tweet screenshot, the text 'TRUMP HEALTH UPDATE' is shown, and the video's content is entirely about his purported health issues. He is quoted talking about his father."
+    },
+    {
+      "name": "Fred Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned in the on-screen quote attributed to Donald Trump: 'Trump on his father:'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost @factpostnews' is shown at the beginning of the video."
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'SOURCE: CDC' appears at the bottom of the list of Alzheimer's warning signs."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump on his father:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"He had one problem. At a certain age, about 86, 87, he started getting, what do they call it?... Like an Alzheimer's thing. Well, I don't have it.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Cerebral Cortex",
+      "role": "other"
+    },
+    {
+      "text": "Entorhinal Cortex",
+      "role": "other"
+    },
+    {
+      "text": "Hippocampus",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP HEALTH UPDATE",
+      "role": "overlay"
+    },
+    {
+      "text": "JANUARY 2026",
+      "role": "overlay"
+    },
+    {
+      "text": "10 WARNING SIGNS OF ALZHEIMER'S",
+      "role": "overlay"
+    },
+    {
+      "text": "Memory loss that disrupts daily life.",
+      "role": "overlay"
+    },
+    {
+      "text": "Challenges in planning or solving problems.",
+      "role": "overlay"
+    },
+    {
+      "text": "Difficulty completing familiar tasks at home, at work, or at leisure.",
+      "role": "overlay"
+    },
+    {
+      "text": "Confusion with time or place.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trouble understanding visual images and spatial relations.",
+      "role": "overlay"
+    },
+    {
+      "text": "New problems with words in speaking or writing.",
+      "role": "overlay"
+    },
+    {
+      "text": "Misplacing things and not being able to retrace steps.",
+      "role": "overlay"
+    },
+    {
+      "text": "Decreased or poor judgment.",
+      "role": "overlay"
+    },
+    {
+      "text": "Withdrawal from work or social activities.",
+      "role": "overlay"
+    },
+    {
+      "text": "SOURCE: CDC",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is accompanied only by instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and ominous instrumental track, identified as a slowed version of the theme song from the TV show 'Succession', plays throughout the entire video.",
+  "editing_pacing": "A slow-paced slideshow using fades to transition between static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "fear",
+    "alarm"
+  ],
+  "cultural_references": [
+    "Succession (TV series)"
+  ],
+  "central_claim": "The video implies Donald Trump is suffering from cognitive and physical decline, possibly Alzheimer's, which will worsen by January 2026, making him unfit for the presidency.",
+  "intended_effect": "To create fear and concern about Donald Trump's health and fitness for office.",
+  "uncertainty_flags": []
+}

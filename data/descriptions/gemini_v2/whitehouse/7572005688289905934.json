@@ -1,0 +1,103 @@
+{
+  "video_id": "7572005688289905934",
+  "visual_action": "The video shows Donald Trump speaking at a podium during an event called the 'America Business Forum' in a large, modern auditorium filled with an audience. Various shots show him speaking, the audience listening and filming on their phones, and wide views of the stage. Bold text overlays appear on screen to highlight the economic achievements he mentions. The video concludes with a shot of Trump walking down a futuristic, brightly lit hallway, followed by black-and-white footage of the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, shown extensively at a podium. On-screen text also identifies him as 'Donald J. Trump'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions him at the beginning of the video: 'In the prior four years, crooked Joe Biden oversaw less than $1 trillion of new investment...'"
+    },
+    {
+      "name": "Walmart",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says, '...and Walmart just announced that the cost of their standard Thanksgiving meal is 25% lower than one year ago.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump\n45TH AND 47TH PRESIDENT\nOF THE UNITED STATES",
+      "role": "chyron"
+    },
+    {
+      "text": "AMERICA BUSINESS FORUM",
+      "role": "chyron"
+    },
+    {
+      "text": "$18 TRILLION\nIN COMMITTED\nINVESTMENTS",
+      "role": "overlay"
+    },
+    {
+      "text": "RECORD\nSTOCK MARKET\nHIGHS",
+      "role": "overlay"
+    },
+    {
+      "text": "ALMOST 4%\nGDP GROWTH\nIN Q2",
+      "role": "overlay"
+    },
+    {
+      "text": "ESTIMATED 4.2%\nGDP GROWTH\nIN Q3",
+      "role": "overlay"
+    },
+    {
+      "text": "GAS\nPRICES\nPLUMMETED",
+      "role": "overlay"
+    },
+    {
+      "text": "GROCERY PRICES\nARE\nWAY DOWN",
+      "role": "overlay"
+    },
+    {
+      "text": "THANKSGIVING MEAL\n25% LOWER THAN\n1 YEAR AGO",
+      "role": "overlay"
+    },
+    {
+      "text": "EGG PRICES\nDOWN\n85%",
+      "role": "overlay"
+    },
+    {
+      "text": "ENERGY PRICES\nARE DOWN",
+      "role": "overlay"
+    },
+    {
+      "text": "INTEREST RATES\nARE DOWN",
+      "role": "overlay"
+    },
+    {
+      "text": "NEW MORTGAGE\nCOSTS ARE DOWN\n$3K A YEAR",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump contrasts his administration's economic performance with that of the previous four years under \"crooked Joe Biden.\" He claims to have secured over $18 trillion in new investments in nine months, compared to less than $1 trillion under Biden. He lists numerous achievements, including record stock market highs, strong GDP growth (nearly 4% in Q2, estimated 4.2% in Q3), and plummeting prices for gasoline, groceries (citing Walmart's cheaper Thanksgiving meal), eggs, and energy. He also mentions that interest rates and mortgage costs are down, concluding, \"Day by day, we're making America affordable again.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, grand, and uplifting orchestral score plays throughout the video, creating a triumphant and cinematic feel that underscores the positive economic claims being made.",
+  "editing_pacing": "The video is edited like a modern political advertisement, with dynamic cuts between different camera angles of Trump speaking, the audience, and the venue. Bold, animated text overlays are used frequently to emphasize each economic point mentioned in the speech. The pacing is slick and professional.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Optimism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Under President Trump's leadership, the American economy is experiencing unprecedented success, with record investments, high growth, and significantly lower costs for consumers.",
+  "intended_effect": "To persuade viewers that the Trump administration's policies have resulted in a booming economy and increased affordability for Americans, thereby reinforcing support for his presidency.",
+  "uncertainty_flags": []
+}

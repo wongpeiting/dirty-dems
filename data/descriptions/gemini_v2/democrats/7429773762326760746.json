@@ -1,0 +1,62 @@
+{
+  "video_id": "7429773762326760746",
+  "visual_action": "A static image of a screenshot of a Google search. The search query is \"who is the oldest presidential nominee in history?\". The result shows a picture of Donald Trump, with the text \"78 years\" and his birthdate, \"June 14, 1946\". Above the screenshot are three grimacing face emojis.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face appears in a screenshot of a Google search result about the oldest presidential nominee."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "😬😬😬",
+      "role": "overlay"
+    },
+    {
+      "text": "Google",
+      "role": "other"
+    },
+    {
+      "text": "who is the oldest presidential nominee in history?",
+      "role": "other"
+    },
+    {
+      "text": "All News Images Videos Shopping Web Forum",
+      "role": "other"
+    },
+    {
+      "text": "78 years",
+      "role": "other"
+    },
+    {
+      "text": "June 14, 1946",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of the song \"If I Only Had a Brain\" with lyrics.",
+  "emojis_present": [
+    "😬"
+  ],
+  "audio_music": "The song 'If I Only Had a Brain' from 'The Wizard of Oz', as sung by Judy Garland, plays throughout the entire clip. The choice of song serves a mocking purpose, implying the subject of the video lacks intelligence.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays what appears to be a fabricated or staged screenshot of a Google search result. This is a common meme format used to present a claim as if it were an objective fact returned by a search engine.",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "The Wizard of Oz",
+    "If I Only Had a Brain (song)",
+    "Scarecrow (character)",
+    "Judy Garland"
+  ],
+  "central_claim": "Donald Trump is the oldest presidential nominee in history and lacks intelligence.",
+  "intended_effect": "To mock Donald Trump and portray him as unfit for office due to his age and a perceived lack of intelligence.",
+  "uncertainty_flags": [
+    "It is highly likely, but not definitively provable without external verification, that the Google search result is a staged image rather than a genuine, unaltered screenshot."
+  ]
+}

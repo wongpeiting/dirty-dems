@@ -1,0 +1,54 @@
+{
+  "video_id": "7554447543304719671",
+  "visual_action": "A passenger plane flies overhead across a blue sky above what appears to be a golf course with a large crowd. People in the foreground point up at the plane. A social media post is overlaid on the video. The clip ends with a black and white sequence of shots of the White House and a helicopter, with 'THE WHITE HOUSE' text overlay.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An on-screen overlay shows a social media post attributed to 'Donald J. Trump' (@realDonaldTrump) stating, 'Flying over Ryder Cup, now! DJT'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with the text 'THE WHITE HOUSE' over imagery of the building. The TikTok was posted by the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump 💕 ▶️ @realDonaldTrump Flying over Ryder Cup, now! DJT 482 ReTruths 2.52K Likes Sep 26, 2025 at 10:59 AM",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A crowd is heard chanting \"USA! USA!\" throughout the first part of the clip.",
+  "emojis_present": [
+    "💕",
+    "▶️"
+  ],
+  "audio_music": "The audio consists entirely of a crowd chanting loudly and energetically. There is no music. The effect is patriotic and exciting.",
+  "editing_pacing": "The video consists of a single shot of a plane flying overhead, followed by a hard cut to a short, stylized, black-and-white montage of the White House and a helicopter.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "Ryder Cup",
+    "Truth Social"
+  ],
+  "central_claim": "Donald Trump's appearance over the 2025 Ryder Cup was celebrated by a patriotic crowd, an event now presented under the branding of The White House.",
+  "intended_effect": "To generate feelings of patriotism and admiration for Donald Trump, and to associate him and his popular support with the institution of the White House.",
+  "uncertainty_flags": [
+    "The authenticity of the social media post overlaid on the video cannot be verified; it might be a fabricated graphic rather than a genuine screenshot."
+  ]
+}

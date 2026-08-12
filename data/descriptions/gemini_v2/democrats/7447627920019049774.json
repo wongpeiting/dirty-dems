@@ -1,0 +1,103 @@
+{
+  "video_id": "7447627920019049774",
+  "visual_action": "The video displays a still image of Donald Trump's 2016 TIME Magazine 'Person of the Year' cover. It then cuts to a screenshot of a tweet from TIME Magazine, which links to an article titled 'Fact-checking Donald Trump's 2024 Person of the Year interview.' The image associated with the tweet shows Trump on a stage in front of a large, illuminated 'TRUMP' sign, with supporters holding signs in the foreground.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown on the TIME Magazine cover and named in the overlay text ('Trump's person of the year interview') and the TIME Magazine tweet ('Fact-checking Donald Trump's 2024 Person of the Year interview')."
+    },
+    {
+      "name": "TIME Magazine",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The TIME Magazine logo and name are visible on the cover and in the Twitter screenshot (@TIME)."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on a 'TRUMP VANCE' sign held by a person in the crowd in the screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DEC. 19, 2016",
+      "role": "other"
+    },
+    {
+      "text": "PERSON OF THE YEAR",
+      "role": "other"
+    },
+    {
+      "text": "TIME",
+      "role": "other"
+    },
+    {
+      "text": "DONALD TRUMP",
+      "role": "other"
+    },
+    {
+      "text": "TIME fact checked Trump's person of the year interview😭",
+      "role": "overlay"
+    },
+    {
+      "text": "TIME",
+      "role": "chyron"
+    },
+    {
+      "text": "@TIME",
+      "role": "chyron"
+    },
+    {
+      "text": "Fact-checking Donald Trump's 2024 Person of the Year interview",
+      "role": "overlay"
+    },
+    {
+      "text": "Fact-Checking Trump's 2024 Person of the Year Interview",
+      "role": "overlay"
+    },
+    {
+      "text": "From time.com",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP",
+      "role": "other"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP VANCE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A woman's voice speaks rapidly and dramatically, listing items as if presenting evidence: \"Receipts, proof, timeline, screenshots... in everything.\"",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio is a dramatic, fast-paced vocal clip of a woman listing forms of evidence ('Receipts, proof, timeline, screenshots'). It's a popular meme sound used to signal an exposé or the presentation of incriminating information.",
+  "editing_pacing": "The video consists of two static images presented in a slideshow format, with a quick cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Vindication",
+    "Schadenfreude"
+  ],
+  "cultural_references": [
+    "The audio clip is a popular internet meme featuring the voice of rapper Cardi B saying 'Receipts, proof, timeline, screenshots,' which is commonly used on TikTok to present evidence or call someone out."
+  ],
+  "central_claim": "TIME Magazine has fact-checked Donald Trump's 2024 'Person of the Year' interview, implying that the fact-check reveals falsehoods.",
+  "intended_effect": "To convince the viewer that Donald Trump has been exposed as dishonest by a major media outlet and to encourage mockery of him.",
+  "uncertainty_flags": []
+}

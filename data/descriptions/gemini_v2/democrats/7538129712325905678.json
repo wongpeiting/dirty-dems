@@ -1,0 +1,99 @@
+{
+  "video_id": "7538129712325905678",
+  "visual_action": "A slideshow of still images. It begins with an evening photo of the National Museum of African American History and Culture with text overlaid. This is followed by several images of exhibits inside the museum, including a banner reading \"A MAN WAS LYNCHED YESTERDAY,\" a display on Black Feminism, statues commemorating the 1968 Olympics Black Power salute, and a reconstructed historical log cabin. The video ends with a screenshot of a Wall Street Journal article with a highlighted quote.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"Trump plans to 'review' all exhibits at the Museum of African American history.\" and \"...align with Trump's 'interpretation of history'.\""
+    },
+    {
+      "name": "National Museum of African American History and Culture",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The museum is named in the on-screen text and its exterior and interior exhibits are shown throughout the video."
+    },
+    {
+      "name": "The Wall Street Journal",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of an article from the newspaper is shown at the end of the video, with \"THE WALL STREET JOURNAL\" visible as the masthead."
+    },
+    {
+      "name": "Sarah Weicksel",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "She is named and quoted in the Wall Street Journal article screenshot shown at the end of the video."
+    },
+    {
+      "name": "American Historical Association",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The organization is mentioned in the Wall Street Journal article screenshot as Sarah Weicksel's affiliation."
+    },
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The Wall Street Journal screenshot mentions \"the White House's effort\" in its text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump plans to \"review\" all exhibits at the Museum of African American history.",
+      "role": "overlay"
+    },
+    {
+      "text": "This is to ensure they align with Trump's \"interpretation of history.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "A MAN WAS LYNCHED YESTERDAY",
+      "role": "other"
+    },
+    {
+      "text": "Black Feminism",
+      "role": "other"
+    },
+    {
+      "text": "SPORTS OLYMPICS",
+      "role": "other"
+    },
+    {
+      "text": "THE WALL STREET JOURNAL\nSarah Weicksel, executive director of the American Historical Association, said the White House's effort was an affront to the historians and curators trained to ensure historical accuracy.\n\"If those things are taken out of the hands of historians, the public stands to lose a great deal in having reliable and engaging content that tells a whole and complex story of the American past,\" she said.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no dialogue, only a song with lyrics. The lyrics describe people who pose with guns for Christmas cards and who have altered the image of Jesus to be white so they \"don't have to pray to someone they deem lesser than them.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, somber, and melancholic song (\"True Believer\" by Hayley Williams) plays throughout the video, setting a serious and concerned tone.",
+  "editing_pacing": "A slow-paced slideshow of still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "indignation"
+  ],
+  "cultural_references": [
+    "Hayley Williams"
+  ],
+  "central_claim": "Donald Trump plans to revise African American history to fit his personal narrative by reviewing and potentially altering exhibits at the National Museum of African American History and Culture.",
+  "intended_effect": "To create alarm and opposition to Donald Trump's alleged plan to interfere with the curation of historical exhibits, portraying it as an authoritarian act.",
+  "uncertainty_flags": [
+    "The video's primary claim that 'Trump plans to review' the museum exhibits is presented via text overlay without a cited source."
+  ]
+}

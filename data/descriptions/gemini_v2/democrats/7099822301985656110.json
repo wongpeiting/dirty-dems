@@ -1,0 +1,84 @@
+{
+  "video_id": "7099822301985656110",
+  "visual_action": "A rapid slideshow of official portraits of several Republican politicians. Each politician is shown smiling in front of an American flag or a similar formal backdrop. A text box is overlaid on the bottom half of the screen throughout the video.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, '192 Republicans voted against a bill...'"
+    },
+    {
+      "name": "Lauren Boebert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her portrait is the first one shown in the slideshow, presented as an example of the Republicans being criticized."
+    },
+    {
+      "name": "Darrell Issa",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His portrait appears in the slideshow, presented as an example of the Republicans being criticized."
+    },
+    {
+      "name": "Elise Stefanik",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her portrait appears in the slideshow, presented as an example of the Republicans being criticized."
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His portrait appears in the slideshow, presented as an example of the Republicans being criticized."
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His portrait appears in the slideshow, presented as an example of the Republicans being criticized."
+    },
+    {
+      "name": "Food and Drug Administration (FDA)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions that the bill 'would help the FDA address the baby formula shortage'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "192 Republicans voted against a bill that would help the FDA address the baby formula shortage",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice expresses disapproval, stating, \"This is bad. That is bad... bad.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a male voice speaking with a critical tone. There is no background music or other sound effects.",
+  "editing_pacing": "A fast-paced slideshow with quick cuts between still portrait photos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disapproval",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "192 Republicans acted against the public interest by voting against a bill designed to address the baby formula shortage.",
+  "intended_effect": "To generate disapproval of and opposition to the Republican politicians shown and the Republican Party as a whole.",
+  "uncertainty_flags": [
+    "The provided authoritative face-ID list may not be exhaustive of all the politicians shown in the very rapid slideshow."
+  ]
+}

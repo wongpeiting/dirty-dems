@@ -1,0 +1,51 @@
+{
+  "video_id": "7610101809264233742",
+  "visual_action": "A military choir in formal uniforms performs on a stage inside an ornate room, likely the White House, in front of a podium bearing the Presidential Seal and several American flags. The camera, initially focused on the choir, slowly pans left and zooms out to reveal a large, seated audience watching the performance and filming with their phones. The room features large chandeliers and formal decor.",
+  "cast": [
+    {
+      "name": "Military Band",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text states: '...the Military Band sang Amazing Grace'."
+    },
+    {
+      "name": "Victims of illegal alien crime",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post's caption reads, 'In loving memory of all those lost to illegal alien crime. ❤️'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "There was not a dry eye in the room as the Military Band sang Amazing Grace",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A military choir sings a solemn, a cappella version of the Christian hymn \"Amazing Grace.\"",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists entirely of a choir singing a cappella. The performance is powerful and solemn, creating a mood of reverence and mourning.",
+  "editing_pacing": "The video is a single, continuous shot that slowly pans and zooms out, moving from a medium shot of the choir to a wide shot including the audience.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "reverence",
+    "solemnity",
+    "sympathy"
+  ],
+  "cultural_references": [
+    "Amazing Grace (hymn)"
+  ],
+  "central_claim": "The White House is holding a formal event to mourn and honor American victims of crimes committed by undocumented immigrants.",
+  "intended_effect": "To evoke sympathy for the victims, convey a sense of solemn national mourning, and signal that the administration is seriously addressing crime by undocumented immigrants.",
+  "uncertainty_flags": [
+    "The specific name of the military choir is not provided, only 'Military Band'.",
+    "The text on the screen behind the performers is partially obscured, but appears to reference a 'Proclamation' for 'Angel Families'."
+  ]
+}

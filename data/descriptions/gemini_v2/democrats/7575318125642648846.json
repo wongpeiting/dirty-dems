@@ -1,0 +1,112 @@
+{
+  "video_id": "7575318125642648846",
+  "visual_action": "The video shows a split-screen view of a press event. On the right, Donald Trump sits at a desk in what appears to be the Oval Office. On the left, a blonde woman, likely a reporter, is visible among a group of people. Zohran Mamdani stands behind her. A news-style chyron is visible at the bottom of the screen. Yellow subtitles appear, transcribing the dialogue.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown on screen reacting to and interjecting in a conversation about him being called a fascist. The on-screen text reads 'Trump on being called a fascist:'."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown on screen and appears to be the person asked the question. He begins to speak ('I've spoken about...') before being interrupted."
+    },
+    {
+      "name": "unnamed female reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown on screen asking the question, 'Are you affirming that you think President Trump is a fascist?'"
+    },
+    {
+      "name": "Katy Tur",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears on the news chyron: 'KATY TUR REPORTS'."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news branding 'MSNOW' is visible on the chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump on being called a fascist:",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: A LOT OF MY VOTERS VOTED FOR MANDANL. I'M OKAY WITH THAT",
+      "role": "chyron"
+    },
+    {
+      "text": "KATY TUR REPORTS",
+      "role": "chyron"
+    },
+    {
+      "text": "ARE YOU AFFIRMING THAT YOU THINK PRESIDENT TRUMP IS A FASCIST?",
+      "role": "overlay"
+    },
+    {
+      "text": "I'VE SPOKEN ABOUT,",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT'S OKAY. YOU CAN JUST SAY YES.",
+      "role": "overlay"
+    },
+    {
+      "text": "OKAY. ALL RIGHT.",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S EASIER. IT'S,",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S EASIER THAN EXPLAINING IT.",
+      "role": "overlay"
+    },
+    {
+      "text": "I DON'T MIND.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unnamed reporter asks a man, identified by face-ID as Zohran Mamdani, 'Are you affirming that you think President Trump is a fascist?' As Mamdani begins to answer, 'I've spoken about...', Donald Trump interrupts from his desk, saying, 'That's okay. You can just say yes... It's easier. It's easier than explaining it. I don't mind.'",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the press conference clip, with no added music or sound effects.",
+  "editing_pacing": "The video uses a split-screen format to show a reporter and Donald Trump simultaneously. The pacing is that of a real-time conversation, with added text overlays for subtitles. It is not fast-paced.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "amusement",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is unconcerned about being called a fascist and even encourages the label to be used against him.",
+  "intended_effect": "To shock the audience and portray Donald Trump as casually accepting of authoritarian labels, reinforcing a negative view of him.",
+  "uncertainty_flags": [
+    "The text on the news chyron is blurry and difficult to read in its entirety; the transcription is based on OCR which may be partially inaccurate.",
+    "It is inferred, but not explicitly stated, that the reporter's question is directed at Zohran Mamdani, who is standing in front of her and begins to speak in response."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "video_id": "7662425476585098509",
+  "visual_action": "A static image is displayed for the entire video. The image is a screenshot of a post from the social media account \"FactPost\". The post includes side-by-side headshots of Donald Trump and E. Jean Carroll. Text in the post states that Trump has paid Carroll $5.6 million after being found liable for sexual abuse. Above the screenshot, there is an additional text overlay.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is shown in a photograph and his name is mentioned multiple times in the on-screen text: \"a reminder donald j. trump was found liable for sexual abuse\" and \"Donald Trump has now officially paid E. Jean Carroll...\"."
+    },
+    {
+      "name": "E. Jean Carroll",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her face is shown in a photograph and her name is mentioned in the on-screen text: \"Donald Trump has now officially paid E. Jean Carroll $5.6 million...\"."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screenshot is of a post from the account named \"FactPost\" with the handle \"@Factpostnews\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "a reminder donald j. trump was found liable for sexual abuse",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost ✔",
+      "role": "other"
+    },
+    {
+      "text": "@Factpostnews",
+      "role": "other"
+    },
+    {
+      "text": "Donald Trump has now officially paid E. Jean Carroll $5.6 million after he was found liable for sexually abusing her.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the song 'Praying' by Kesha. The song has a somber, defiant, and ultimately empowering tone that plays throughout the clip, aligning with the subject matter of the on-screen text.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "condemnation",
+    "vindication"
+  ],
+  "cultural_references": [
+    "Kesha (singer)"
+  ],
+  "central_claim": "Donald Trump was found liable for sexual abuse and has paid $5.6 million to E. Jean Carroll.",
+  "intended_effect": "To remind viewers of the sexual abuse liability finding against Donald Trump and frame it as a settled fact, thereby solidifying a negative perception of him.",
+  "uncertainty_flags": []
+}

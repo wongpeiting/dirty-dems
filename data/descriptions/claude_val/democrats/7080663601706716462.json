@@ -1,0 +1,49 @@
+{
+  "video_id": "7080663601706716462",
+  "visual_action": "The video is split-screen throughout: the top half shows Doug Emhoff (the Second Gentleman) speaking or smiling at a podium/table against a blue background with a faint official U.S. government seal/emblem visible in the upper right. The bottom half shows Kamala Harris seated nearby, also against the same blue background, reacting with smiles and laughter as she listens. Over the course of the clip, Emhoff's expression shifts from a broad grin to a more subdued, side-turned smile, while Harris's expressions cycle from open laughter to a warm smile to a more composed but still pleased look. Both are dressed in dark formal attire.",
+  "cast": [
+    {
+      "name": "Doug Emhoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Face-ID confirmed on screen; on-screen text reads 'Second Gentleman introducing the VP', and he is shown speaking/presenting in the top half of the split-screen."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Face-ID confirmed on screen in the bottom half of the split-screen; on-screen text references 'the VP', which refers to her as Vice President."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Second Gentleman introducing the VP 💙",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "No Whisper transcript was provided, but the visual context indicates Doug Emhoff is delivering remarks introducing Vice President Kamala Harris at an official event. The audio is original sound from the account; specific spoken words are not available from the transcript.",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "No commercial music matched by ACRCloud. Audio appears to be original speech audio from the event — Doug Emhoff speaking at a podium introducing Kamala Harris. No background music, meme audio, or sound effects are evident from the available context.",
+  "editing_pacing": "The video uses a static split-screen format throughout, with the top half consistently showing Emhoff and the bottom half showing Harris. Pacing is relatively slow and observational, with gradual cuts or dissolves between keyframes capturing the evolving expressions of both individuals.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "warmth — conveyed by the smiling and laughing expressions of both Emhoff and Harris",
+    "affection — the split-screen pairing of husband introducing wife highlights their personal connection",
+    "pride — the framing of the Second Gentleman formally introducing the VP suggests a celebratory tone"
+  ],
+  "cultural_references": [],
+  "central_claim": "Doug Emhoff, as Second Gentleman, is warmly and proudly introducing Vice President Kamala Harris at an official event, with both appearing joyful and at ease.",
+  "intended_effect": "Viewers are meant to feel warmth and positive regard toward both Kamala Harris and Doug Emhoff, highlighting their personal bond and the historic nature of his role as Second Gentleman introducing the VP.",
+  "uncertainty_flags": [
+    "No Whisper transcript is available, so the specific words Emhoff spoke during the introduction are unknown.",
+    "The exact event or date of this introduction is not identified from the available context.",
+    "OCR rendered 'VVP' in one instance, which appears to be a noise artifact of 'VP'."
+  ]
+}

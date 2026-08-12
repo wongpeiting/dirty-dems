@@ -1,0 +1,50 @@
+{
+  "video_id": "7600160897453067551",
+  "visual_action": "A close-up, static shot of professional basketball player Victor Wembanyama speaking at a press conference. He is wearing a black jersey and has a serious expression. The background features logos, including one for the San Antonio Spurs.",
+  "cast": [
+    {
+      "name": "Victor Wembanyama",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person on screen, speaking, and is identified by the on-screen text 'Victor Wembanyama: ...'"
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-camera voice asks Wembanyama questions."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Victor Wembanyama: It's crazy that some people make it seem like the murder of civilians is acceptable",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Basketball player Victor Wembanyama states he is \"horrified\" by the news and finds it \"crazy that some people\" make the \"murder of civilians\" seem \"acceptable.\" He explains he is hesitant to say everything on his mind because the cost would be \"too great,\" especially as a \"foreigner.\" He agrees with a reporter's suggestion that people fear repercussions for speaking out against injustice.",
+  "emojis_present": [
+    "🙌"
+  ],
+  "audio_music": "The audio consists entirely of dialogue from a press conference, with no music or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot from an interview.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "gravity",
+    "solidarity"
+  ],
+  "cultural_references": [
+    "Victor Wembanyama",
+    "San Antonio Spurs"
+  ],
+  "central_claim": "The post uses a clip of NBA star Victor Wembanyama to condemn the killing of civilians and highlight the fear of repercussions that prevents public figures from speaking out more forcefully against injustice.",
+  "intended_effect": "To generate agreement with Wembanyama's statement, evoke empathy for his position, and signal concern about a world where civilians are murdered and people are afraid to condemn it.",
+  "uncertainty_flags": [
+    "The specific news event or conflict Victor Wembanyama is referring to when he speaks about the 'murder of civilians' is not explicitly mentioned."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "7307455804213300523",
+  "visual_action": "A clip from a Fox News debate between Gavin Newsom and Ron DeSantis. The video cuts between shots of Newsom speaking, DeSantis listening, and a split screen. It ends with a close-up shot of DeSantis smiling.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown on screen speaking, identified by face recognition, and named in the on-screen text 'Governor Newsom dragging Ron DeSantis'."
+    },
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Shown on screen, identified by face recognition, and is the subject of both the on-screen text ('dragging Ron DeSantis') and the spoken dialogue ('how's that going for you, Ron?')."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the dialogue: 'So you can out-Trump Trump.'"
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'FOX NEWS' logo is visible on the debate stage chyron."
+    },
+    {
+      "name": "Sean Hannity",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'Hannity' appears on the debate stage chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Governor Newsom dragging Ron DeSantis",
+      "role": "overlay"
+    },
+    {
+      "text": "So you can out-Trump Trump.",
+      "role": "caption"
+    },
+    {
+      "text": "And by the way, how's that going for you, Ron?",
+      "role": "caption"
+    },
+    {
+      "text": "You're down 41 points in your own home state.",
+      "role": "caption"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "THE GREAT RED VS BLUE STATE DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "Hannity",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Gavin Newsom mocks Ron DeSantis, suggesting his strategy is to 'out-Trump Trump.' Newsom then taunts him by asking, 'how's that going for you, Ron?' and claiming he is 'down 41 points in your own home state.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of spoken dialogue from the debate clip, with no accompanying music or sound effects.",
+  "editing_pacing": "The video uses simple cuts between two speakers at a debate, including a split-screen view and a final reaction shot of DeSantis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Triumph",
+    "Schadenfreude"
+  ],
+  "cultural_references": [],
+  "central_claim": "Gavin Newsom effectively criticized Ron DeSantis during their debate by highlighting his failing political strategy of emulating Donald Trump and his poor polling numbers in his home state.",
+  "intended_effect": "To portray Gavin Newsom as a strong and sharp debater while making Ron DeSantis appear politically weak and unsuccessful.",
+  "uncertainty_flags": []
+}

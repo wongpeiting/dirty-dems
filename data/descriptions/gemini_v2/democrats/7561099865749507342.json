@@ -1,0 +1,152 @@
+{
+  "video_id": "7561099865749507342",
+  "visual_action": "The video features Barack Obama speaking directly to the camera, interspersed with a montage of B-roll footage. The B-roll includes night and day shots of the U.S. Capitol building, a clip of Donald Trump speaking flanked by Mike Johnson and JD Vance, silhouettes of figures, law enforcement officers in tactical gear next to an armored vehicle, an American flag waving, and various people casting votes at a polling place. The video concludes with a 'YES ON 50' graphic.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker throughout the video, delivering the central message directly to the camera."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video's on-screen text frames the issue as stopping 'Trump's election rigging', and he is shown briefly speaking."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Obama states, 'Republicans want to steal enough seats in Congress to rig the next election... you can stop Republicans in their tracks.'"
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on screen standing next to Donald Trump but is not mentioned or central to the narrative."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on screen standing next to Donald Trump but is not mentioned or central to the narrative."
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is named in the disclaimer text: 'Governor Newsom's Ballot Measure Committee.'"
+    },
+    {
+      "name": "HMP for Prop 50",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Listed on screen as one of the 'Ad Committee's Top Funders.'"
+    },
+    {
+      "name": "Fund for Policy Reform",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Listed on screen as one of the 'Ad Committee's Top Funders.'"
+    },
+    {
+      "name": "California Teachers Association",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Listed on screen as one of the 'Ad Committee's Top Funders.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Chills. Watch Obama explain how California can help stop Trump's election rigging",
+      "role": "overlay"
+    },
+    {
+      "text": "YES-50",
+      "role": "overlay"
+    },
+    {
+      "text": "CALIFORNIA,",
+      "role": "caption"
+    },
+    {
+      "text": "DEMOCRACY ON THE BALLOT",
+      "role": "overlay"
+    },
+    {
+      "text": "NOVEMBER 4TH",
+      "role": "overlay"
+    },
+    {
+      "text": "The Guardian",
+      "role": "other"
+    },
+    {
+      "text": "\"Republicans want to rig the midterm elections.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESERVES INDEPENDENT REDISTRICTING",
+      "role": "overlay"
+    },
+    {
+      "text": "LETS THE PEOPLE DECIDE",
+      "role": "overlay"
+    },
+    {
+      "text": "RETURN YOUR BALLOT",
+      "role": "overlay"
+    },
+    {
+      "text": "Ad paid for by Yes on 50, The Election Rigging Response Act, Governor Newsom's Ballot Measure Committee.",
+      "role": "chyron"
+    },
+    {
+      "text": "Ad Committee's Top Funders:\nHMP for Prop 50\nFund for Policy Reform\nCalifornia Teachers Association",
+      "role": "chyron"
+    },
+    {
+      "text": "YES ON 50",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Barack Obama directly addresses Californians, stating that the \"whole nation is counting on you\" because \"democracy is on the ballot November 4th.\" He claims that Republicans intend to \"steal enough seats in Congress to rig the next election\" for \"unchecked power.\" He promotes California's Proposition 50 as a way to \"stop Republicans in their tracks,\" saying it puts elections on a \"level playing field\" and preserves independent redistricting. He concludes by urging viewers to \"return your ballot today. Vote yes on 50.\"",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "A serious, dramatic orchestral score plays continuously throughout the video, creating a sense of gravity and urgency that underscores Obama's message.",
+  "editing_pacing": "The video combines static talking-head shots of Barack Obama with a montage of quickly-cut B-roll footage. Animated captions highlight key words from the narration, contributing to a fast-paced and urgent feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Alarm",
+    "Seriousness",
+    "Empowerment"
+  ],
+  "cultural_references": [
+    "The Guardian"
+  ],
+  "central_claim": "Republicans, associated with Donald Trump, are planning to rig the upcoming election, and Californians can stop them and protect democracy by voting 'Yes on Prop 50'.",
+  "intended_effect": "To persuade California voters to feel a sense of alarm and civic duty, and motivate them to vote 'Yes' on Proposition 50 to counter a perceived threat to democracy from the Republican party.",
+  "uncertainty_flags": []
+}

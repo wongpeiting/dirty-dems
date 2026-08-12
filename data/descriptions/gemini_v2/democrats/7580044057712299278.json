@@ -1,0 +1,58 @@
+{
+  "video_id": "7580044057712299278",
+  "visual_action": "Donald Trump is seated at a large wooden desk, speaking directly towards the camera. He is in a formal room, likely the Oval Office, flanked by American flags. A group of about eight other people, mostly men in suits, stand behind him.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, and his words are the focus of the on-screen text. He is also identified by face recognition."
+    },
+    {
+      "name": "Sean Duffy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, standing in the background behind Donald Trump."
+    },
+    {
+      "name": "Ted Cruz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, standing in the background behind Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: “I think affordability is the greatest con job”",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S A CON JOB. I THINK AFFORDABILITY IS THE GREATEST CON JOB. THEY LOOK AT YOU AND THEY SAY \"AFFORDABILITY.\" THEY DON'T SAY ANYTHING ELSE. EVERYONE SAYS, \"OH, THEIR PRICES WERE SO LOW.\" NO. THEY HAD THE WORST INFLATION.",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"It's a con job. I think affordability is the greatest con job.\" He claims that when an unspecified 'they' say the word 'affordability,' people incorrectly believe prices were low, but argues, \"No. They had the worst inflation.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's speech, with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head with text overlays. There are no cuts or camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "outrage",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump dismisses the concept of affordability as the 'greatest con job' and links it to high inflation under his opponents.",
+  "intended_effect": "To portray Donald Trump as out of touch with and dismissive of the economic concerns of ordinary people, particularly the need for affordable goods and services.",
+  "uncertainty_flags": [
+    "The full context of Donald Trump's statement is not provided, so the clip could be selectively edited.",
+    "The identity of most of the individuals standing behind Donald Trump is not known."
+  ]
+}

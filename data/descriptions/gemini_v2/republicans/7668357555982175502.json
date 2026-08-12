@@ -1,0 +1,53 @@
+{
+  "video_id": "7668357555982175502",
+  "visual_action": "A montage of images contrasts two political choices. The first section, labeled 'What happens if you vote Blue', shows a vandalized monument with a Palestinian flag over a statue's head, a large group of migrants crossing a river, a homeless encampment on a city street, and a person in a furry costume at a pride parade holding a 'SUPPORT TRANS KIDS' sign. The second section, labeled 'What happens if you vote RED', shows a clean monument with fireworks superimposed, the Iwo Jima Memorial with fireworks, a border wall topped with razor wire, and two scenes of suburban American life with many American flags, including a parade and decorated houses.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video presents negative imagery under the on-screen text 'What happens if you vote Blue', with 'Blue' being a common color signifier for the Democratic Party."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video presents positive, patriotic imagery under the on-screen text 'What happens if you vote RED', with 'Red' being a common color signifier for the Republican Party. The post is also from the @republicans account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "What happens if you vote Blue",
+      "role": "overlay"
+    },
+    {
+      "text": "What happens if you vote RED",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The video is set to two different versions of the song 'Hey There Delilah'. The first part is a raw, a cappella group singing the lyrics, 'Hey there Delilah, what's it like in New York City?'. The second part is the polished, studio-recorded version of the song, featuring the lyrics '...but girl tonight you look so pretty, yes you do.'",
+  "emojis_present": [],
+  "audio_music": "The audio features two contrasting versions of the song 'Hey There Delilah' by Plain White T's. The first half of the video, depicting negative scenes, uses a raw, slightly chaotic a cappella recording of a group singing the song. The second half, depicting patriotic scenes, switches to the clean, pleasant-sounding original studio recording of the song, creating a stark tonal shift from disorder to wholesomeness.",
+  "editing_pacing": "The video is a slideshow of still images with quick cuts between them. It is divided into two distinct sections, each with its own on-screen text and corresponding audio track.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Fireworks are digitally superimposed behind a monument in one of the images in the 'RED' section to enhance the celebratory and patriotic feel of the scene.",
+  "emotions_signaled": [
+    "fear",
+    "disgust",
+    "pride",
+    "patriotism"
+  ],
+  "cultural_references": [
+    "The song 'Hey There Delilah' by Plain White T's."
+  ],
+  "central_claim": "Voting for Democrats ('Blue') leads to societal decay, including vandalism, uncontrolled immigration, and homelessness, while voting for Republicans ('Red') leads to patriotism, security, and traditional American life.",
+  "intended_effect": "To create fear and disgust towards the outcomes of Democratic policies and associate Republican policies with safety, patriotism, and order, thereby persuading viewers to vote Republican.",
+  "uncertainty_flags": [
+    "The specific location of the vandalized monument is unclear.",
+    "The origin of the a cappella group singing audio in the first half is not identified."
+  ]
+}

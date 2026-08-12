@@ -1,0 +1,151 @@
+{
+  "video_id": "7597107880822689038",
+  "visual_action": "A montage of clips showing Donald Trump in various settings: speaking at podiums (including one at The Kennedy Center and another in the White House), as a young man in an interview, walking backstage and into a large arena with Dana White, boarding and deplaning a private jet, and addressing supporters. The montage also includes black-and-white still photos of political opponents: one of Joe Biden, Nancy Pelosi, and Chuck Schumer, and another of Hakeem Jeffries (with a superimposed sombrero and mustache) and Chuck Schumer. The video concludes with black-and-white shots of the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of the entire montage, shown in nearly every clip."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a black-and-white still photograph alongside Nancy Pelosi and Chuck Schumer."
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a black-and-white still photograph alongside Joe Biden and Chuck Schumer."
+    },
+    {
+      "name": "Charles Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in two separate black-and-white still photographs, one with Joe Biden and Nancy Pelosi, and another with Hakeem Jeffries."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a manipulated black-and-white still photograph alongside Chuck Schumer."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative context as being present on screen, though not clearly visible in a specific shot."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and concludes with a title card reading 'THE WHITE HOUSE' over images of the building."
+    },
+    {
+      "name": "The Kennedy Center",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'The Kennedy Center' is visible on the backdrop behind Donald Trump in one of the clips where he is speaking."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DON'T HANG AROUND",
+      "role": "overlay"
+    },
+    {
+      "text": "WITH THE GRASS",
+      "role": "overlay"
+    },
+    {
+      "text": "EVEN THOUGH ALL STARTED FROM THE SAME PLACE",
+      "role": "overlay"
+    },
+    {
+      "text": "EVERYONE IS JEALOUS OF WHAT YOU'VE GOT",
+      "role": "overlay"
+    },
+    {
+      "text": "NO ONE IS JEALOUS OF HOW YOU GOT IT.",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU'RE NEVER GOING TO PLEASE EVERYONE",
+      "role": "overlay"
+    },
+    {
+      "text": "STOP WORRYING ABOUT KEEPING EVERYBODY HAPPY",
+      "role": "overlay"
+    },
+    {
+      "text": "FUCK IT. IT DOESN'T EXIST",
+      "role": "overlay"
+    },
+    {
+      "text": "PEOPLE SEE THE TROPHIES BUT NOT THE TRAINING GROUND",
+      "role": "overlay"
+    },
+    {
+      "text": "EVERYBODY WANTS THE VIEW BUT NO ONE WANTS THE CLIMB",
+      "role": "overlay"
+    },
+    {
+      "text": "TO ACHIEVE ANYTHING GREATER WORTHWHILE",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU MUST TRAIN YOURSELF TO RISE ABOVE THESE PEOPLE IGNORING THEM",
+      "role": "overlay"
+    },
+    {
+      "text": "AND PRESSING ON TOWARDS YOUR GOAL REGARDLESS",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A compilation of different voices deliver a series of motivational quotes over the video. The quotes include metaphors like \"Trees don't hang around with the grass,\" advice on ignoring critics such as \"Everyone is jealous of what you've got\" and \"You're never going to please everyone,\" and exhortations to persevere, like \"Everybody wants the view, but no one wants the climb\" and \"you must train yourself to rise above these people, ignoring them and pressing on towards your goal, regardless.\"",
+  "emojis_present": [],
+  "audio_music": "A series of instrumental tracks with a motivational and dramatic tone play throughout the video. The music changes several times, maintaining a consistent mood that underscores the spoken narration.",
+  "editing_pacing": "A fast-paced montage with quick cuts between different video clips and still images. Some clips are presented in slow-motion for dramatic effect.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A sombrero and a mustache are digitally superimposed onto Hakeem Jeffries in a black-and-white photograph where he appears alongside Chuck Schumer.",
+  "emotions_signaled": [
+    "inspiration",
+    "pride",
+    "defiance",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Dana White (UFC President)",
+    "UFC (Ultimate Fighting Championship)",
+    "The format of using motivational speeches from multiple sources over a montage is a popular internet video trend, often associated with 'hustle culture' or 'alpha male' content."
+  ],
+  "central_claim": "Donald Trump is a uniquely strong and successful leader who has overcome adversity and jealousy from his opponents to achieve greatness.",
+  "intended_effect": "To inspire admiration for Donald Trump's perceived resilience and success, while encouraging mockery of his political opponents.",
+  "uncertainty_flags": [
+    "Could not visually confirm the presence of Mike Johnson, who was identified by the provided face-ID context.",
+    "The identities of the various speakers in the voiceover audio are unknown."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "7222115478590836014",
+  "visual_action": "The video is a slideshow of still images. It begins with a shot of two empty seats on a train. It then cuts to an exterior shot of a silver Amtrak train with red and blue stripes on the tracks. Finally, it shows a screenshot of an iPhone calendar for August 2024, with the 19th circled and an all-day event listed as 'Democratic Convention'.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video, posted by the '@democrats' account, displays a calendar entry for the 'Democratic Convention'."
+    },
+    {
+      "name": "Amtrak",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An Amtrak train is shown, with the company's name visible on the side of the engine. The word 'Amtrak' also appears as an on-screen text overlay."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "you",
+      "role": "overlay"
+    },
+    {
+      "text": "me",
+      "role": "overlay"
+    },
+    {
+      "text": "Amtrak",
+      "role": "overlay"
+    },
+    {
+      "text": "our transportation",
+      "role": "overlay"
+    },
+    {
+      "text": "next summer",
+      "role": "overlay"
+    },
+    {
+      "text": "Aug 2024",
+      "role": "other"
+    },
+    {
+      "text": "Democratic Convention",
+      "role": "other"
+    },
+    {
+      "text": "all-day",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "The video features an upbeat, rhythmic pop track throughout. The music changes at the 5-second mark to a similar-sounding pop track, maintaining a positive and anticipatory energy.",
+  "editing_pacing": "The video is a simple slideshow of still images with text overlays, with slow cuts between each image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anticipation",
+    "excitement",
+    "inclusion"
+  ],
+  "cultural_references": [
+    "The video uses a common meme format where objects or people are labeled 'you' and 'me' to create a relatable scenario or invitation."
+  ],
+  "central_claim": "The Democratic Party is promoting its August 2024 convention as an exciting, shared journey for its supporters.",
+  "intended_effect": "To make viewers feel included and excited about the upcoming Democratic Convention.",
+  "uncertainty_flags": []
+}

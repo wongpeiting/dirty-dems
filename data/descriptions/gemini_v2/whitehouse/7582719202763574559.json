@@ -1,0 +1,50 @@
+{
+  "video_id": "7582719202763574559",
+  "visual_action": "The clip is a meme-format video in vertical (TikTok) aspect ratio with black bars top and bottom. Frames 1–5 and 7–8 show a close-up of a young blond boy in a white knit sweater sitting at a table, looking downward with a sad, dejected, or pensive expression; the background is slightly blurred with red objects visible. Frame 6 cuts away to a photograph held up in a picture frame: it shows an unidentified heavyset woman wearing a dark mesh/net head covering and a black top, photographed outdoors in what appears to be a strip-mall parking lot, making an exaggerated grimacing/pouty facial expression. The video then returns to the boy's close-up for the final frames. This is a classic internet reaction-clip meme structure: sad/sympathetic reaction (boy) → subject being mocked (framed photo of woman) → return to sad reaction.",
+  "cast": [
+    {
+      "name": "Kevin McCallister (Home Alone character)",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Young blond boy in white knit sweater shown in close-up with sad/dejected expression — visually matches the well-known 'sad Kevin' reaction clip from Home Alone (1990), a widely used internet meme template."
+    },
+    {
+      "name": "unnamed woman in parking lot",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Photograph held up in a silver picture frame showing a heavyset woman with mesh head covering and black top, making a grimacing expression, in an outdoor strip-mall setting."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ITE THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The only clearly transcribed audio is \"Woof!\" — a single exclamatory word, consistent with a meme sound effect or comedic audio drop. No extended speech is detected.",
+  "emojis_present": [],
+  "audio_music": "The account's own audio (\"original sound\"). The Whisper transcript captures only \"Woof!\" — suggesting a brief comedic/meme sound effect or exclamation rather than a music track. No commercial song matched by ACRCloud. The audio appears to function as a punchline or comedic reaction sound drop, landing on or near the reveal of the framed photograph.",
+  "editing_pacing": "Slow, close-up static shots of the boy's face for the first five frames, cut to a single sharp reveal of the framed photo (frame 6), then return to the boy's close-up for two more frames. Pacing is deliberate — lingering on the reaction shots around the central \"reveal\" cut, a standard meme sandwich structure.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sympathy/sadness (boy's dejected expression used as viewer stand-in reaction)",
+    "mockery (the framed photo of the woman presented as the object of ridicule)",
+    "comedic shock (the 'Woof!' audio drop paired with the woman's grimacing photo)"
+  ],
+  "cultural_references": [
+    "Home Alone (1990 film) — the 'sad Kevin McCallister' reaction-clip meme, featuring the young blond boy in white knit sweater with a dejected close-up expression, is a widely recognized internet meme template used here as a reaction shot"
+  ],
+  "central_claim": "The @whitehouse account uses a meme format — sad Home Alone reaction clip sandwiching a mocked photo of an unnamed woman — to humorously underscore the caption message that deportations are ongoing and will continue.",
+  "intended_effect": "To entertain and reinforce the deportation policy message through humor and meme culture, inviting viewers to laugh at the framed photo reveal and associate it with the caption's declaration that deportations will continue.",
+  "uncertainty_flags": [
+    "The identity of the woman in the framed photograph is unknown — she may be a public figure or viral-meme subject related to immigration/deportation context, but cannot be confirmed from the frames alone.",
+    "The on-screen OCR reads 'ITE THE WHITE HOUSE' — likely a partial read of 'WHITE HOUSE' branding/watermark; full text unclear.",
+    "The specific scene from Home Alone being used cannot be confirmed with certainty (it strongly resembles the 'sad Kevin' meme but no title card confirms the source film).",
+    "The 'Woof!' audio may be part of a longer comedic sound or dialogue not fully captured by Whisper; full audio content uncertain."
+  ]
+}

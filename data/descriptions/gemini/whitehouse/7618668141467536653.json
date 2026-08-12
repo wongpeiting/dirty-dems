@@ -1,0 +1,91 @@
+{
+  "video_id": "7618668141467536653",
+  "visual_action": "A fast-paced montage shows Donald Trump in various presidential settings: in the Oval Office being presented with the FIFA World Cup trophy, disembarking from a plane, and speaking at podiums. On-screen text highlights large corporate investments. This is intercut with a clip from the film 'The Wolf of Wall Street' where a character excitedly shouts about making millions of dollars. The video continues with more clips of Trump and text stating a total investment figure of $10.5 trillion. It ends with a black and white logo for 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of the entire montage, shown in multiple clips in presidential settings."
+    },
+    {
+      "name": "AT&T",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text reads: 'AT&T announced a $250 billion investment...'"
+    },
+    {
+      "name": "Mitsubishi",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text reads: 'Mitsubishi announced a $3.9 billion investment in energy.'"
+    },
+    {
+      "name": "Donnie Azoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A clip from 'The Wolf of Wall Street' features the character (played by Jonah Hill) speaking. The audio of him shouting is a central part of the video."
+    },
+    {
+      "name": "Gianni Infantino",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown presenting the FIFA World Cup trophy to Donald Trump in the Oval Office."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AT&T announced a $250 billion investment to build our wireless network and data infrastructure across the country.",
+      "role": "overlay"
+    },
+    {
+      "text": "Mitsubishi announced a $3.9 billion investment in energy.",
+      "role": "overlay"
+    },
+    {
+      "text": "22 Million dollars in three Fu*king hours",
+      "role": "meme_text"
+    },
+    {
+      "text": "Total U.S. and Foreign Investments:",
+      "role": "overlay"
+    },
+    {
+      "text": "$10.5 Trillion",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a mix of a rap song with lyrics about getting rich ('turned to a million, then we all rich') and a clip of dialogue from the movie 'The Wolf of Wall Street' where a character excitedly yells, '22 million dollars in three f***ing hours!' There is no original speech from anyone in the video clips.",
+  "emojis_present": [
+    "🤑"
+  ],
+  "audio_music": "A high-energy, boastful rap song about making money is used as the background track. This is punctuated by a famous, celebratory and expletive-laden line from 'The Wolf of Wall Street' to amplify the theme of massive financial success.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various clips of Donald Trump, on-screen text, and a movie clip. The style is akin to a hype reel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Success"
+  ],
+  "cultural_references": [
+    "The Wolf of Wall Street"
+  ],
+  "central_claim": "Under Donald Trump's presidency, the U.S. economy achieved massive success by securing $10.5 trillion in domestic and foreign investments.",
+  "intended_effect": "To impress the viewer with the scale of economic investment allegedly secured during Trump's presidency and to associate him with wealth and success.",
+  "uncertainty_flags": []
+}

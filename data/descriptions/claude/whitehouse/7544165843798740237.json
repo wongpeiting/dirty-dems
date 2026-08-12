@@ -1,0 +1,52 @@
+{
+  "video_id": "7544165843798740237",
+  "visual_action": "The video opens with a golden-hour/sunrise shot of a rural American farm: a dirt road, a metal gate, white-fenced pastures, white farmhouse and outbuildings, and a tree line silhouetted against a warm peach-orange sky. Subsequent scenes show John Deere agricultural equipment in active field operations: a cabless autonomous/driverless John Deere tractor working alongside a combine harvester in a golden grain field with an auger transferring grain; a John Deere combine harvesting corn up close with dust rising; an aerial drone shot of a John Deere combine cutting wheat/small grain while an autonomous John Deere tractor pulls a grain cart receiving the unloaded crop; a low ground-level shot of a large John Deere sprayer tractor rolling through a lush green field; a close-up of a John Deere precision sprayer implement dispensing product onto green leafy crops; dairy cattle (Holstein black-and-white) in a covered feeding stanchion with feed on the ground, backlit by golden light. The final frame is a dark, moody title card over a silhouette of what appears to be Marine One helicopter lifting off, displaying the White House logo and the text \"THE WHITE HOUSE.\"",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Final frame displays the White House building icon and 'THE WHITE HOUSE' text; account is @whitehouse"
+    },
+    {
+      "name": "John Deere",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "John Deere branding (green/yellow color scheme, leaping deer logo) visible on multiple pieces of farm equipment throughout the video"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The Whisper transcript captures a repeated phrase \"We'll be right back\" — this appears to be an artifact or brief audio fragment, possibly from a broadcast bumper or transition sound. No substantive narration or dialogue is audible in the transcript. The audio track is listed as \"original sound.\"",
+  "emojis_present": [],
+  "audio_music": "Listed as \"original sound.\" The Whisper transcript only captures \"We'll be right back\" twice, suggesting ambient/natural farm sounds or a brief audio clip rather than a music track. The overall tone is ambient and pastoral.",
+  "editing_pacing": "Slow, cinematic pacing with steady, deliberate cuts between wide establishing shots and close-up detail shots of farm equipment and livestock. Includes both ground-level intimate shots and an aerial drone perspective. The golden-hour and overcast lighting choices create a visually rich, aspirational look. No fast cuts or speed ramps; overall feel is calm and sweeping.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "nostalgia — evoked by golden-hour farm sunrise opening shot",
+    "pride — evoked by sweeping imagery of large-scale American agricultural operations",
+    "optimism — evoked by lush green crops, modern precision equipment, and healthy livestock",
+    "calm/peace — evoked by slow pacing and pastoral imagery"
+  ],
+  "cultural_references": [
+    "'Timeline cleanse' — a popular social media phrase referring to a wholesome or pleasant post meant to refresh one's feed from stressful content",
+    "John Deere brand as an iconic symbol of American farming culture"
+  ],
+  "central_claim": "The White House is celebrating and showcasing rural America's agricultural vitality and modern farming, framing it as worthy of admiration and attention (\"timeline cleanse\").",
+  "intended_effect": "Produce a sense of appreciation, pride, and positive feeling about rural American farming life and, by association, the administration represented by the White House account.",
+  "uncertainty_flags": [
+    "The Whisper transcript 'We'll be right back' is an unusual audio artifact — unclear if this is actual audio content, a misfire from background TV audio, or a processing artifact; actual audio content of the video is uncertain",
+    "The specific John Deere equipment models cannot be fully confirmed from the frames alone (autonomous tractor appears to be a John Deere 8R autonomous series based on visible styling)",
+    "The final dark frame with Marine One silhouette may be a standard White House branding outro card; the helicopter in the background is assumed to be Marine One based on context but not confirmed with certainty from the frame",
+    "No spoken narration or on-screen captions beyond the White House title card were detected, so the full messaging relies entirely on visual imagery and the caption"
+  ]
+}

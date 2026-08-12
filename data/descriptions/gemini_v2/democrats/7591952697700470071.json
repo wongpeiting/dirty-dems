@@ -1,0 +1,62 @@
+{
+  "video_id": "7591952697700470071",
+  "visual_action": "The video starts with a two-panel meme format showing an unnamed official speaking. Text overlays attribute quotes to him. It then cuts to a slideshow of three still images depicting scenes of destruction: a large fire on a hillside over a city at night, a bullet-riddled bus and a burnt vehicle, and a large fiery explosion at night.",
+  "cast": [
+    {
+      "name": "Trump administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text 'the trump admin:' appears at the top of the screen."
+    },
+    {
+      "name": "Unnamed official",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "An unidentified man in a suit is shown speaking, with quotes attributed to him via on-screen text."
+    },
+    {
+      "name": "Venezuela",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, 'There is no war against Venezuela or its people.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the trump admin:",
+      "role": "meme_text"
+    },
+    {
+      "text": "There is no war against Venezuela or its people.",
+      "role": "caption"
+    },
+    {
+      "text": "We are not occupying a country.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "There is no audible dialogue in the video. The on-screen text represents what the official is supposedly saying.",
+  "emojis_present": [],
+  "audio_music": "The video features a low, ominous ambient track identified as 'CLICK MY SHADØWS' by KLUSTRAK. Layered on top are loud, repeated metallic clanging sound effects, consistent with the TikTok sound label 'swinging pipe', which coincide with the appearance of the images of destruction, creating a jarring and violent auditory experience.",
+  "editing_pacing": "The video begins with a static two-panel image and then transitions to a slow-paced slideshow of still images, with sharp cuts between each photo.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "irony",
+    "outrage",
+    "horror"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration was dishonest about its actions in Venezuela, denying a war while images suggest violent conflict was occurring.",
+  "intended_effect": "To generate anger and outrage towards the Trump administration by portraying their statements as blatant lies contradicted by visual evidence of destruction.",
+  "uncertainty_flags": [
+    "The identity of the man speaking is not confirmed.",
+    "The specific context, location, and date of the images of destruction are not provided in the video."
+  ]
+}

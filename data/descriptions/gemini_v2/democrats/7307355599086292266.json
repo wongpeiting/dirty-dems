@@ -1,0 +1,90 @@
+{
+  "video_id": "7307355599086292266",
+  "visual_action": "An interviewer in a suit sits on a stage and speaks to Vice President Kamala Harris, who is seated opposite him. The setting is the New York Times DealBook Summit, as indicated by a large blue backdrop behind them. The video cuts between shots of the interviewer speaking, Harris listening, and a wider shot of both of them on stage. Harris then responds to the interviewer's question, which elicits laughter and applause from an unseen audience.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown speaking on stage and is the subject of the on-screen caption 'Vice President Harris with the clapback'."
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The interviewer directly quotes comments allegedly made by 'Kevin McCarthy' earlier that day, and Harris's response is directed at him."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man is shown on screen asking questions to Kamala Harris."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The interviewer relays a comment from Kevin McCarthy questioning if 'President Biden' was the same person he used to talk to."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for 'The New York Times' and the event name 'DealBook Summit' are visible on the backdrop behind the speakers."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Vice President Harris with the clapback 👑",
+      "role": "caption"
+    },
+    {
+      "text": "DealBook Summit",
+      "role": "other"
+    },
+    {
+      "text": "The New York Times",
+      "role": "other"
+    },
+    {
+      "text": "Kevin McCarthy was here this morning,",
+      "role": "chyron"
+    },
+    {
+      "text": "With all due respect,",
+      "role": "chyron"
+    },
+    {
+      "text": "I don't think he's a judge of negotiations.",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An interviewer relays to Vice President Kamala Harris that Kevin McCarthy had earlier expressed that President Biden is no longer the same person and that during debt negotiations, Biden seemed to be just reading from cards. Harris smiles and responds, \"With all due respect... when anyone who has had the experience that he has most recently had, I don't think he's a judge of negotiations.\" Her comment, an allusion to McCarthy's ouster as Speaker, is met with laughter and applause from the audience.",
+  "emojis_present": [
+    "👑"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue between the interviewer and Kamala Harris, followed by audience laughter and applause. There is no musical accompaniment.",
+  "editing_pacing": "The editing consists of simple cuts between static camera shots of the two speakers on stage, in a typical talking-head interview format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "clapback"
+  ],
+  "central_claim": "Vice President Kamala Harris is a witty and formidable political figure who can effortlessly dismiss criticism from opponents like Kevin McCarthy.",
+  "intended_effect": "To make the viewer admire Kamala Harris's clever response and view her as a strong, capable leader, while mocking Kevin McCarthy.",
+  "uncertainty_flags": []
+}

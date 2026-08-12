@@ -1,0 +1,112 @@
+{
+  "video_id": "7579375428100541751",
+  "visual_action": "The video is a montage that intercuts clips of Donald Trump with clips of college football coach Lane Kiffin. Trump is shown speaking to reporters, at a rally, on a construction site wearing a hard hat, and sitting with his wife Melania Trump. Kiffin is shown at press conferences for LSU and Ole Miss, on the sidelines of a football game, and giving a speech. The clips are edited with a dramatic, desaturated color grade.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips throughout the video, and is the primary political subject of the post's negative framing."
+    },
+    {
+      "name": "Lane Kiffin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is a college football coach who is repeatedly shown in clips intercut with Donald Trump, forming the central comparison of the video. He is shown with LSU and Ole Miss branding."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is briefly shown sitting next to Donald Trump in an audience."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the background of a clip where Donald Trump is signing a document."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown sitting next to Donald Trump in an audience."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly in the background of a group scene, as identified by authoritative face-ID."
+    },
+    {
+      "name": "LSU",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The LSU logo is visible on the backdrop behind Lane Kiffin during a press conference scene."
+    },
+    {
+      "name": "Ole Miss",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Ole Miss logo is visible on Lane Kiffin's clothing in several clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "A RAT IS A",
+      "role": "overlay"
+    },
+    {
+      "text": "TRAITOR",
+      "role": "overlay"
+    },
+    {
+      "text": "A RAT IS A",
+      "role": "overlay"
+    },
+    {
+      "text": "F**KING",
+      "role": "overlay"
+    },
+    {
+      "text": "RAT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voiceover, taken from a movie, defines a \"rat\" as a \"traitor\" who betrays the trust of his team or family to save himself. The speaker contrasts this with a \"snitch,\" who is \"at least... human,\" before concluding, \"But a rat is a fucking rat.\"",
+  "emojis_present": [
+    "🐀"
+  ],
+  "audio_music": "The audio is primarily driven by the track 'Snitches & Rats (Interlude)' by 21 Savage and Metro Boomin, which features a dramatic piano score under a spoken-word monologue. The tone is ominous and serious, framing the subjects as treacherous.",
+  "editing_pacing": "The video uses fast cuts, alternating between footage of Donald Trump and football coach Lane Kiffin. There is a consistent, somber color grading applied throughout.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "contempt",
+    "disgust",
+    "betrayal"
+  ],
+  "cultural_references": [
+    "The spoken audio is a famous monologue from the 1997 film 'Donnie Brasco', originally delivered by actor Al Pacino.",
+    "The audio track is 'Snitches & Rats (Interlude)' from the album 'SAVAGE MODE II' by musicians 21 Savage and Metro Boomin, which samples the movie and features narration by Morgan Freeman."
+  ],
+  "central_claim": "Donald Trump is a disloyal \"rat\" and a traitor, similar to controversial college football coach Lane Kiffin.",
+  "intended_effect": "To frame Donald Trump as fundamentally untrustworthy and disloyal, inviting viewers to feel contempt for him.",
+  "uncertainty_flags": []
+}

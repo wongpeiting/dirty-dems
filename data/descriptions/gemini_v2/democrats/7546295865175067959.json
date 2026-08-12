@@ -1,0 +1,74 @@
+{
+  "video_id": "7546295865175067959",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named 'FactPost'. The tweet text reads, 'New analysis finds the US now has more unemployed people than job openings.' Below the text is a split image: on the left is a photo of Donald Trump sitting at a desk in an office with American flags, and on the right is a graphic of a bar chart with a red arrow pointing downwards. The video then transitions to a static screenshot of a Yahoo! Finance article. The article text quotes an economist, with the sentence 'This suggests the shift is less about an increase in people losing jobs and more about a decline in job openings' highlighted in yellow.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photograph of Donald Trump is shown next to a tweet about negative economic news."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a screenshot of a tweet from the account 'FactPost @factpostnews'."
+    },
+    {
+      "name": "Yahoo! Finance",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a screenshot of an article with the 'yahoo!finance' logo."
+    },
+    {
+      "name": "Allison Shrivastava",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named and quoted in the Yahoo! Finance article screenshot: 'Indeed economist Allison Shrivastava told Yahoo Finance in an email.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New analysis finds the US now has more unemployed people than job openings.",
+      "role": "overlay"
+    },
+    {
+      "text": "yahoo!finance",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Unemployed workers are staying out of work for longer, even as layoffs remain low.\" Indeed economist Allison Shrivastava told Yahoo Finance in an email. \"This suggests the shift is less about an increase in people losing jobs and more about a decline in job openings.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "",
+  "emojis_present": [],
+  "audio_music": "A continuous, low-pitched, ominous ambient sound plays throughout the video, creating a serious and concerned tone.",
+  "editing_pacing": "The video is a slow-paced slideshow, showing two static screen captures in sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Worry",
+    "Disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "The US economy under Donald Trump experienced a downturn where there were more unemployed people than available jobs, due to a decline in job openings.",
+  "intended_effect": "To create concern about the economy under Trump's leadership and associate him with negative economic outcomes.",
+  "uncertainty_flags": [
+    "The authenticity or political leaning of the 'FactPost' Twitter account is not verifiable from the video alone.",
+    "The specific dates of the tweet and the article are not shown."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "video_id": "7573874145050791223",
+  "visual_action": "Donald Trump is shown speaking at a podium during an event. The backdrop indicates it is the \"MCDONALD'S IMPACT SUMMIT 20__\" in Washington D.C. A C-SPAN 2 chyron is visible at the bottom of the screen. Throughout the clip, large yellow text appears on screen, emphasizing the words he is speaking.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and is speaking for the entire duration of the video."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump claims that a military action he is describing \"knocked out Iran nuclear capability.\""
+    },
+    {
+      "name": "McDonald's",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The event is identified as the \"MCDONALD'S IMPACT SUMMIT\" on the backdrop and the chyron mentions \"McDONALD'S FRANCHISE OWNERS & SUPPLIERS\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: The very, very heavy bombs. And they go boom. And as soon as those things, the one pilot, the first one said skedaddle.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP SPEAKS ON AFFORDABILITY TO GATHERING OF McDONALD'S FRANCHISE OWNERS & SUPPLIERS",
+      "role": "chyron"
+    },
+    {
+      "text": "MCDONALD'S IMPACT SUMMIT 20__ WASHINGTON, DC",
+      "role": "other"
+    },
+    {
+      "text": "NATIONALLY LOVED",
+      "role": "other"
+    },
+    {
+      "text": "LOCALLY OWNED",
+      "role": "other"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "I— SEE, NOW IF I THEY EXTREMELY WE'RE FORGET IT.\" BUT, WE WERE DEVASTATED. \"THIS IS LOVE, WE WERE SO THIS WAS DAY OF OUR GREAT. INCREDIBLE COUNTRY. STORY. AND THEY HIT, THEY SAID, \"SKEDADDLE.\" AND THAT PSSH, WHEN IT BOMB, IT GOES DOWN VERY BECAUSE BETTER ANGLE AND, MORE SPEED FOR THE BOMBS. BOMBS. AND THEY GO BOOM. THOSE THE ONE ONE SAID, \"SKEDADDLE,\" THING JUST ITS SIDE, PSSH, AND IT, IT'S JUST UNBELIEVABLE. KNOCKED OUT IRAN CAPABILITY, AND ALL OF THE MIDDLE BECAME A PLACE, HAVE PEACE EAST",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump tells a rambling story about a military strike, claiming he authorized the use of \"very, very heavy bombs.\" He describes how after dropping the bombs, the pilot's command was to \"skedaddle.\" He uses hand motions and sound effects like \"pssh\" and \"boom\" to illustrate the plane's movement and the explosion. He concludes by claiming this single action \"knocked out Iran nuclear capability\" and brought \"peace in the Middle East.\"",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's voice from a speech, with no background music or other sound effects besides those he makes himself.",
+  "editing_pacing": "The video uses a single, static shot of Trump speaking. The editing is characterized by the frequent appearance of large, yellow, stylized text captions that pop up to emphasize his words as he says them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "incredulity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is incoherent and tells bizarre, nonsensical stories about serious international affairs, suggesting he is unfit for leadership.",
+  "intended_effect": "To make the viewer perceive Donald Trump as foolish, rambling, and unreliable, and to ridicule his storytelling and claims.",
+  "uncertainty_flags": []
+}

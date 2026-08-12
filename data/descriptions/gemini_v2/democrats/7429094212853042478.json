@@ -1,0 +1,87 @@
+{
+  "video_id": "7429094212853042478",
+  "visual_action": "The video is a montage that begins with a screenshot of a news article headlined: \"Jennifer Lawrence Endorses Kamala Harris in Order to ‘Protect Reproductive Rights’: Don’t ‘Let Somebody Into the White House Who’s Going to Ban Abortion’,\" featuring a photo of Lawrence. This is followed by a mirror selfie of actor Josh Hutcherson pointing to his \"I Voted\" sticker, with overlaid text supporting Kamala Harris. The video then cuts to several clips from the movie \"The Hunger Games,\" showing characters and crowds performing the three-finger salute, a symbol of rebellion from the film.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the article headline \"Jennifer Lawrence Endorses Kamala Harris\" and tagged as \"@kamalaharris\" in an overlay on a photo."
+    },
+    {
+      "name": "Jennifer Lawrence",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named and shown in a screenshot of an article about her endorsement of Kamala Harris, and shown in clips from \"The Hunger Games\"."
+    },
+    {
+      "name": "Josh Hutcherson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in a selfie with an \"I Voted\" sticker and in clips from his role in \"The Hunger Games\"."
+    },
+    {
+      "name": "Zack Sharf",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears as the byline on the article screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Jennifer Lawrence Endorses Kamala Harris in Order to ‘Protect Reproductive Rights’: Don’t ‘Let Somebody Into the White House Who’s Going to Ban Abortion’",
+      "role": "overlay"
+    },
+    {
+      "text": "By Zack Sharf",
+      "role": "overlay"
+    },
+    {
+      "text": "civic duties completed @kamalaharris also vote on all local issues and elections!!! VOTE!!!",
+      "role": "overlay"
+    },
+    {
+      "text": "HYUNDAI",
+      "role": "other"
+    },
+    {
+      "text": "GILEAD",
+      "role": "other"
+    },
+    {
+      "text": "glaad",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is accompanied only by instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, orchestral film score, which sounds like it is from \"The Hunger Games,\" plays throughout the video, creating a serious and somber tone.",
+  "editing_pacing": "The video is a slideshow of two still images followed by several short film clips, with simple cuts between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Seriousness",
+    "Urgency",
+    "Inspiration"
+  ],
+  "cultural_references": [
+    "The Hunger Games (film series)",
+    "Jennifer Lawrence",
+    "Josh Hutcherson",
+    "Katniss Everdeen (character)",
+    "Peeta Mellark (character)",
+    "Effie Trinket (character)",
+    "The three-finger salute (symbol)"
+  ],
+  "central_claim": "The video suggests that voting for Kamala Harris is an act of rebellion, akin to the uprising in 'The Hunger Games,' necessary to protect reproductive rights from a tyrannical threat.",
+  "intended_effect": "To motivate viewers to vote for Kamala Harris by drawing a parallel between the current political climate and the dystopian world of \"The Hunger Games,\" framing the election as a fight for freedom.",
+  "uncertainty_flags": []
+}

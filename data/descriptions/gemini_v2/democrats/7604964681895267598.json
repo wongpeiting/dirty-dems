@@ -1,0 +1,67 @@
+{
+  "video_id": "7604964681895267598",
+  "visual_action": "The video displays a static screenshot of a tweet from the account 'FactPost'. The tweet text is shown above two side-by-side images: on the left, a photo of a smiling baby girl, and on the right, a photo of several law enforcement officers in tactical gear at night. The video then slowly zooms in on the baby's photo, followed by a cut to a slow zoom on the officers' photo.",
+  "cast": [
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text of the tweet states, 'An 18-month-old baby held in ICE detention...'"
+    },
+    {
+      "name": "unnamed 18-month-old baby",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video features a photo of a baby and on-screen text describing 'An 18-month-old baby'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Twitter handle 'FactPost' and username '@factpostnews' are displayed at the top of the tweet screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "An 18-month-old baby held in ICE detention was rushed to the hospital with life-threatening respiratory failure.",
+      "role": "overlay"
+    },
+    {
+      "text": "She was then sent back to detention, where she was denied daily medication.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, and somber indie song ('Scott Street' by Phoebe Bridgers) plays continuously throughout the video, creating a sad and empathetic mood.",
+  "editing_pacing": "The editing is slow and deliberate, consisting of a static shot of a tweet screenshot followed by slow zooms (Ken Burns effect) into the two photos within the tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Sadness",
+    "Sympathy",
+    "Anger",
+    "Outrage"
+  ],
+  "cultural_references": [
+    "Phoebe Bridgers (musician, via the song 'Scott Street')",
+    "Minnie Mouse (fictional character, appearing on the baby's clothing)"
+  ],
+  "central_claim": "U.S. Immigration and Customs Enforcement (ICE) is a cruel agency that endangers the lives of children by denying them necessary medical care.",
+  "intended_effect": "To evoke sympathy for the child and outrage at the alleged actions of ICE.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,92 @@
+{
+  "video_id": "7140695635140955435",
+  "visual_action": "The video opens with footage of what appears to be the U.S. Senate chamber in session, with a presiding officer (identifiable as Kamala Harris by face) seated at the dais under the \"E PLURIBUS UNUM\" inscription. Several senators and staff are visible on the floor, some wearing masks. This Senate footage plays for the majority of the clip across multiple keyframes — the presiding officer is shown smiling, gesturing, and applauding. The final keyframe cuts to a close-up of Val Demings speaking at a podium with a microphone, wearing a white blazer, against a blue star-patterned backdrop, with a chyron reading \"Val Demings\" in a blue pill-shaped graphic. Throughout the Senate footage, large white bold text overlays the screen reading \"THIS NOVEMBER, WE'RE ELECTING THE FIRST...\"",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Woman presiding over the Senate from the dais, identifiable by face in the chair under the E Pluribus Unum inscription; consistent with her role as President of the Senate"
+    },
+    {
+      "name": "Val Demings",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in blue chyron 'Val Demings' on screen; shown speaking at a podium; OCR text identifies her as candidate for 'BLACK SENATOR from Florida'"
+    },
+    {
+      "name": "Cheri Beasley",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in OCR on-screen text as Senate candidate 'from North Carolina'"
+    },
+    {
+      "name": "Mandela Barnes",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in OCR on-screen text as Senate candidate 'from Wisconsin'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THIS NOVEMBER, WE'RE ELECTING THE FIRST...",
+      "role": "overlay"
+    },
+    {
+      "text": "Val Demings",
+      "role": "chyron"
+    },
+    {
+      "text": "Val Demings BLACK SENATOR from Florida",
+      "role": "caption"
+    },
+    {
+      "text": "Cheri Beasley",
+      "role": "caption"
+    },
+    {
+      "text": "from North Carolina",
+      "role": "caption"
+    },
+    {
+      "text": "Mandela Barnes",
+      "role": "caption"
+    },
+    {
+      "text": "from Wisconsin",
+      "role": "caption"
+    },
+    {
+      "text": "E PLURIBUS UNUM",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "No clearly transcribed spoken dialogue is provided in the Whisper transcript. The audio appears to be primarily music. Any spoken content is not captured in the transcript.",
+  "emojis_present": [],
+  "audio_music": "Throughout the video, the track \"Rough\" by Deechex plays — an upbeat, energizing instrumental that gives the clip a hype/motivational feel suited to a campaign promotional video.",
+  "editing_pacing": "The video is a slow-paced slideshow of Senate B-roll footage with static overlay text for most of the clip, then cuts to a close-up shot of Val Demings at a podium. The Senate footage is held long with minimal cutting. The transition to Val Demings at the end is a hard cut. Overall pacing is slow and deliberate, building anticipation with the ellipsis in the text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anticipation — built by the 'THIS NOVEMBER, WE'RE ELECTING THE FIRST...' teaser text with ellipsis held across multiple frames",
+    "pride — framing of historic 'firsts' for Black Senate candidates",
+    "excitement/hope — upbeat music and campaign imagery"
+  ],
+  "cultural_references": [],
+  "central_claim": "In November (2022), voters will elect historic firsts — including Val Demings as the first Black senator from Florida, Cheri Beasley as the first Black senator from North Carolina, and Mandela Barnes from Wisconsin — and viewers should support these Democratic candidates.",
+  "intended_effect": "Inspire Democratic-leaning viewers, particularly Black voters, to feel pride and enthusiasm, and to vote for these historic Senate candidates.",
+  "uncertainty_flags": [
+    "The OCR text references 'SLI from North Carolina' for Cheri Beasley — 'SLI' is likely a noisy OCR artifact for a label like 'BLACK SENATOR' similar to the Val Demings label; exact original text unclear",
+    "Whisper transcript is empty — unclear if there is any spoken audio beyond the music track",
+    "The presiding officer in the Senate footage is identified by face as Kamala Harris, but this is based on visual resemblance; confirmation would require higher resolution",
+    "The video references a 'November' election — context suggests this is the 2022 midterm elections, but no year is explicitly stated on screen"
+  ]
+}

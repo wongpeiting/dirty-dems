@@ -1,0 +1,61 @@
+{
+  "video_id": "7633834459271269646",
+  "visual_action": "Donald Trump stands at a presidential podium outdoors in a garden setting, speaking. To his left, King Charles III is seated, listening to the speech. King Charles smiles and laughs in reaction to Trump's words.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium for the entire video and is identified by face recognition."
+    },
+    {
+      "name": "King Charles III",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown seated next to Trump and is the subject of Trump's anecdote, being referred to as 'Charles' in the audio and on-screen text."
+    },
+    {
+      "name": "Mary Anne MacLeod Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The central anecdote is about her, as described by her son Donald Trump ('My mother...') and the on-screen text ('My mother had a crush!')."
+    },
+    {
+      "name": "The Royal Family",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states that Trump's mother 'loved the Royal Family'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"My mother had a crush!\" \nPresident Trump details how his mother loved the Royal Family and had a crush on young Charles 😂",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump tells a personal anecdote about his late mother's admiration for the Royal Family. He recounts that she specifically had a fond spot for a young Prince Charles, saying he was 'so cute.' Trump then jokes, 'I think maybe had a crush,' prompting laughter from King Charles and the audience. Trump concludes by wondering what his mother would be thinking now.",
+  "emojis_present": [
+    "😂"
+  ],
+  "audio_music": "The audio consists of Donald Trump's speech and the diegetic sound of audience laughter. There is no background music.",
+  "editing_pacing": "The video is a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Amusement",
+    "Warmth",
+    "Friendliness"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump has a warm, personal relationship with King Charles, illustrated by a humorous anecdote about his mother's crush on the King as a young man.",
+  "intended_effect": "To humanize Donald Trump and portray him as having a friendly, personal rapport with major world leaders, making the viewer feel amused and warm.",
+  "uncertainty_flags": []
+}

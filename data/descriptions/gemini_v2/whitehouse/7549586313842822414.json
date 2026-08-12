@@ -1,0 +1,61 @@
+{
+  "video_id": "7549586313842822414",
+  "visual_action": "Donald Trump, in a suit, stands on the field of a large football stadium packed with spectators. He is next to another man in a suit. Trump smiles, claps, and waves to the cheering crowd. The camera pans across the audience, showing a massive, enthusiastic turnout. Trump and the other man then walk across the field. The video ends with a black-and-white graphic of the White House building and the text 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure shown on the football field for the majority of the video, receiving cheers from the crowd."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and concludes with an end card featuring the text 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unidentified man in a suit stands next to Donald Trump on the field."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WAKE UP: IT'S GAME DAY",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio primarily consists of the loud, ambient sound of a massive crowd cheering in a stadium. A stadium announcer's voice is faintly audible but the words are indistinct.",
+  "emojis_present": [],
+  "audio_music": "The audio is entirely composed of the diegetic sound of a large, cheering stadium crowd and a faint, unintelligible stadium announcer. There is no musical score. The effect is one of high energy and popular enthusiasm.",
+  "editing_pacing": "The video consists of a few long takes with camera panning to show both Donald Trump and the scale of the crowd, followed by a cut to a static end card. The pacing is unhurried.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "pride",
+    "energy"
+  ],
+  "cultural_references": [
+    "The phrase 'WAKE UP: IT'S GAME DAY' borrows from sports culture to create a sense of hype and competition.",
+    "The setting of a large American football game is itself a major cultural reference point."
+  ],
+  "central_claim": "Donald Trump is a very popular leader who is greeted with immense enthusiasm by large crowds at major public events.",
+  "intended_effect": "To generate excitement and convey a sense of overwhelming popular support for the President.",
+  "uncertainty_flags": [
+    "The specific football game, teams, and location are not identified.",
+    "The man standing with Donald Trump is not identified."
+  ]
+}

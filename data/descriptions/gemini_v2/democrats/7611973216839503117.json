@@ -1,0 +1,49 @@
+{
+  "video_id": "7611973216839503117",
+  "visual_action": "A static shot of Donald Trump speaking at a podium with the presidential seal. He is wearing a dark suit, a white 'USA' hat, and a red tie. Two American flags are visible behind him against a dark blue curtain.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking for the entirety of the video and is quoted in the on-screen text."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official '@democrats' account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: “We may have casualties. That often happens in war.”",
+      "role": "overlay"
+    },
+    {
+      "text": "THE LIVES OF COURAGEOUS AMERICAN HEROES MAY BE LOST AND WE MAY HAVE CASUALTIES. THAT OFTEN HAPPENS IN WAR.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"The lives of courageous American heroes may be lost and we may have casualties that often happens in war.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice speaking. There is no audible background music or other sound.",
+  "editing_pacing": "The video is a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disapproval",
+    "outrage",
+    "shock"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is callous and dismissive about the potential loss of American soldiers' lives.",
+  "intended_effect": "To portray Donald Trump as unfit for command and uncaring about the military, thereby generating opposition to him.",
+  "uncertainty_flags": [
+    "The music fingerprint provided in the context appears to be incorrect; no music is audible in the video, only speech."
+  ]
+}

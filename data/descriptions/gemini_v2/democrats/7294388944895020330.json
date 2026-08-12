@@ -1,0 +1,84 @@
+{
+  "video_id": "7294388944895020330",
+  "visual_action": "The video opens with a clip of Mike Johnson speaking in front of an American flag. It then transitions to a slideshow of three screenshots of posts from the platform X (formerly Twitter). The first two are from the account 'Biden-Harris HQ' and concern Mike Johnson's alleged views on gay sex and abortion. The third screenshot is a post from Mike Johnson's own account, 'Rep. Mike Johnson', about abortion laws in Louisiana, with a portion of the text highlighted in yellow.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking at the beginning of the video and is identified by the on-screen text: 'House Republicans just made Mike Johnson speaker of the House.' He is the subject of all the subsequent text shown."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The initial on-screen text states, 'House Republicans just made Mike Johnson speaker of the House.'"
+    },
+    {
+      "name": "Biden-Harris HQ",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The name and handle '@BidenHQ' are visible on two of the tweet screenshots featured in the video."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A manipulated profile picture of Joe Biden with glowing red eyes is used for the 'Biden-Harris HQ' account shown in two screenshots."
+    },
+    {
+      "name": "La. Department of Health",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the screenshot of Rep. Mike Johnson's tweet: 'the La. DEPARTMENT of Health informed abortion facilities...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "House Republicans just made Mike Johnson speaker of the House. Here's how extreme he is:",
+      "role": "overlay"
+    },
+    {
+      "text": "Biden-Harris HQ\n@BidenHQ\n\nMike Johnson called for criminalizing gay sex.\n\nJohnson called same-sex relations “inherently unnatural” and said it could destroy “the entire democratic system.” He railed against courts for “closing bedroom doors” and upholding the right to privacy.",
+      "role": "overlay"
+    },
+    {
+      "text": "Biden-Harris HQ\n@BidenHQ\n\nMike Johnson, while celebrating Roe v. Wade being overturned, called for doctors to be “imprisoned at hard labor for 1-10 years” if they provide reproductive health care",
+      "role": "overlay"
+    },
+    {
+      "text": "Rep. Mike Johnson @RepMikeJohnson\n\n🚨 BREAKING: Late yesterday, the La. DEPARTMENT of Health informed abortion facilities in our state that the right to life has now been RESTORED!\n\nPerform an abortion and get imprisoned at hard labor for 1-10 yrs & fined $10K-$100K.\n\n12:14 PM · Jun 25, 2022",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only instrumental music plays.",
+  "emojis_present": [
+    "🚨"
+  ],
+  "audio_music": "A slow, somber, and melancholic instrumental track (identified as a slowed version of 'Silver Soul' by Beach House) plays throughout the video, creating a serious and alarming mood.",
+  "editing_pacing": "The video begins with a short, static shot of a person speaking, then transitions into a slow-paced slideshow of three static screenshots.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The profile picture for the 'Biden-Harris HQ' account is a manipulated photo of Joe Biden with glowing red laser eyes, a reference to the 'Dark Brandon' internet meme.",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "fear",
+    "outrage"
+  ],
+  "cultural_references": [
+    "Dark Brandon"
+  ],
+  "central_claim": "The new Speaker of the House, Mike Johnson, holds extreme views on LGBTQ+ rights and abortion access, posing a threat to personal freedoms.",
+  "intended_effect": "To generate alarm and opposition towards Mike Johnson and the House Republicans who elected him as Speaker.",
+  "uncertainty_flags": []
+}

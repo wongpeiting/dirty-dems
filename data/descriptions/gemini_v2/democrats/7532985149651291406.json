@@ -1,0 +1,127 @@
+{
+  "video_id": "7532985149651291406",
+  "visual_action": "A woman with dreadlocks and earbuds speaks directly to the camera, introducing a clip. The video then cuts to a man in a suit, identified as Scott Bessent, sitting on a stage with a backdrop that reads 'BREITBART'. He is speaking. The video then cuts back to the woman, who provides further commentary.",
+  "cast": [
+    {
+      "name": "unnamed commentator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the main narrator of the video, framing the clip and providing commentary."
+    },
+    {
+      "name": "Scott Bessent",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown in a clip, identified via on-screen text and audio as \"Trump's Treasury Secretary,\" and his statement is the central subject of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is referred to as \"Trump\" multiple times in the audio, in phrases like \"Trump's Treasury Secretary\" and \"Trump accounts\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The commentator mentions the \"Republican budget bill\" and \"the Republicans' plan\"."
+    },
+    {
+      "name": "Breitbart",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'BREITBART' is visible on the backdrop behind Scott Bessent during his speaking clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP'S TREASURY SECRETARY",
+      "role": "overlay"
+    },
+    {
+      "text": "IN A WAY",
+      "role": "overlay"
+    },
+    {
+      "text": "IT IS A",
+      "role": "overlay"
+    },
+    {
+      "text": "BACK DOOR FOR",
+      "role": "overlay"
+    },
+    {
+      "text": "PRIVATIZING SOCIAL SECURITY.",
+      "role": "overlay"
+    },
+    {
+      "text": "HE'S TALKING ABOUT",
+      "role": "overlay"
+    },
+    {
+      "text": "THESE NEW \"TRUMP ACCOUNTS\"",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT WERE A",
+      "role": "overlay"
+    },
+    {
+      "text": "REPUBLICAN BUDGET BILL",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT JUST GOT PASSED",
+      "role": "overlay"
+    },
+    {
+      "text": "AND IT'S ALL",
+      "role": "overlay"
+    },
+    {
+      "text": "THE REPUBLICANS' PLAN",
+      "role": "overlay"
+    },
+    {
+      "text": "AWAY FROM HARD",
+      "role": "overlay"
+    },
+    {
+      "text": "WORKING AMERICANS,",
+      "role": "overlay"
+    },
+    {
+      "text": "TO BILLIONAIRES AS",
+      "role": "overlay"
+    },
+    {
+      "text": "A TAX CUT.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unnamed commentator introduces a clip of \"Trump's Treasury Secretary\" who states that a certain policy is, \"in a way... a backdoor for privatizing Social Security.\" The commentator then claims he is discussing new \"Trump accounts\" from a recent Republican budget bill, which she frames as part of a Republican plan to take money from working Americans and give it to billionaires as a tax cut.",
+  "emojis_present": [],
+  "audio_music": "Dialogue-only with no music or sound effects.",
+  "editing_pacing": "Static talking-head shots of a commentator are intercut with a sourced clip of a political figure speaking at an event.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "outrage",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Trump's Treasury Secretary has admitted that a new Republican policy called \"Trump accounts\" is a covert plan to privatize Social Security and redirect money from working people to billionaires.",
+  "intended_effect": "To alarm viewers and incite opposition to the Republican Party's economic policies by portraying them as harmful to ordinary Americans and beneficial only to the rich.",
+  "uncertainty_flags": []
+}

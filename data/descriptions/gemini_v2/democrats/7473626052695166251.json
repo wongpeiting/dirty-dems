@@ -1,0 +1,64 @@
+{
+  "video_id": "7473626052695166251",
+  "visual_action": "Donald Trump speaks at a podium in a room with American flags. A Fox News chyron is at the bottom of the screen. After he asks a question, he smiles and listens as an unseen crowd cheers loudly.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visually identified on screen, speaking at a podium about potentially running for president again."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A Fox News chyron and logo are visible at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump asks if he should run again... 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP HOSTS EVENT HONORING BLACK HISTORY MONTH",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "SHOULD I RUN AGAIN?",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump asks the audience, \"Should I run again? You tell me.\" The audience responds with loud, enthusiastic cheering and applause.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's voice, followed by the loud, sustained sound of a crowd cheering enthusiastically.",
+  "editing_pacing": "The video is a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Alarm",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is actively considering another presidential run, which is presented as an alarming possibility.",
+  "intended_effect": "To alarm or concern the viewer about the prospect of Donald Trump running for president again and the enthusiastic support he receives.",
+  "uncertainty_flags": []
+}

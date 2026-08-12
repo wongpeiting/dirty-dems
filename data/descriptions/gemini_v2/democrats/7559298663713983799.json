@@ -1,0 +1,58 @@
+{
+  "video_id": "7559298663713983799",
+  "visual_action": "A video shows Donald Trump on a golf course. He is wearing a red hat, a white polo shirt, and dark pants. He gets out of a golf cart and walks around to the back of it, where another man in all-white attire is standing with a golf bag.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually present throughout the video and is the subject of the on-screen text."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states, 'guys the White House just announced Trump's doing his “routine yearly checkup”...'"
+    },
+    {
+      "name": "Walter Reed Medical Center",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions the checkup is at 'Walter Reed Medical Center this week...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "guys the White House just announced Trump's doing his “routine yearly checkup” at Walter Reed Medical Center this week...",
+      "role": "overlay"
+    },
+    {
+      "text": "but he already had his annual checkup 6 months ago 🤔",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a high-pitched, warbling voice singing nonsensical words like, \"Wabbly-wiggly, wobbly-wiggly, wobbly-wiggly. Ooh. Ooh.\"",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "A popular, silly-sounding meme audio track featuring a high-pitched, warbling voice plays throughout, creating a mocking and goofy tone.",
+  "editing_pacing": "The video is a single, continuous shot with no significant editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "suspicion"
+  ],
+  "cultural_references": [
+    "The 'wabbly-wiggly' meme audio, a popular sound on TikTok used to score goofy or awkward moments."
+  ],
+  "central_claim": "The White House is being deceptive about Donald Trump's health, as his supposedly 'routine yearly checkup' is suspicious because he already had one six months ago.",
+  "intended_effect": "To generate suspicion about Donald Trump's health and the honesty of the White House, while also mocking him.",
+  "uncertainty_flags": []
+}

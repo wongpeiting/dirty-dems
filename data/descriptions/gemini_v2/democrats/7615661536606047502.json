@@ -1,0 +1,99 @@
+{
+  "video_id": "7615661536606047502",
+  "visual_action": "The video is a slideshow of still images. It begins with a screenshot of a tweet from an account called 'FactPost'. The tweet text is about musician Zach Bryan and an alleged DHS response to his 'anti-ICE song,' and it is accompanied by a side-by-side photo of Bryan playing guitar and a photo of law enforcement officers in tactical gear. The video then shows a photo of a young Zach Bryan in a U.S. Navy uniform, followed by a photo of several officers in tactical gear, some with 'ICE' and 'POLICE' patches on their vests, walking down a sidewalk.",
+  "cast": [
+    {
+      "name": "Zach Bryan",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen tweet ('Zach Bryan on the DHS response...') and shown in a performance photo and a photo in his Navy uniform."
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet refers to the 'DHS response'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet mentions an 'anti-ICE song' and officers are shown with 'ICE' patches on their tactical vests."
+    },
+    {
+      "name": "U.S. Navy",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo shows Zach Bryan in a U.S. Navy uniform, with 'U.S. NAVY' visible on a patch."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The central image is a screenshot of a tweet from the account 'FactPost' with the handle '@Factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@Factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Zach Bryan on the DHS response to his viral anti-ICE song:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"They're going after all the 29-year-old veteran songwriters\"",
+      "role": "overlay"
+    },
+    {
+      "text": "BRYAN",
+      "role": "other"
+    },
+    {
+      "text": "U.S. NAVY",
+      "role": "other"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    },
+    {
+      "text": "ICE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. A somber acoustic country song plays with a male vocalist singing lyrics that include, \"Some high-time boys been givin' us hell. I got some bad news.\"",
+  "emojis_present": [],
+  "audio_music": "A somber acoustic folk/country song featuring a male vocalist and guitar plays throughout the video. The mood is melancholic and defiant, creating an emotional backdrop for the images of the musician contrasted with law enforcement.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is constructed around a screenshot of a satirical tweet. The account, 'FactPost', is designed to look like a news or fact-checking source, but it presents a fabricated quote from Zach Bryan and a fabricated 'DHS response' to create a false narrative for satirical or critical effect.",
+  "emotions_signaled": [
+    "Sympathy",
+    "Outrage",
+    "Defiance"
+  ],
+  "cultural_references": [
+    "Zach Bryan"
+  ],
+  "central_claim": "The Department of Homeland Security is targeting musician and Navy veteran Zach Bryan in retaliation for his popular anti-ICE song.",
+  "intended_effect": "To generate outrage at the Department of Homeland Security and ICE for supposedly targeting a popular veteran for his political speech, and to create sympathy for the artist.",
+  "uncertainty_flags": [
+    "The provided music fingerprint identifies the song as 'Bad News' by Skwapre, but the audio sounds like musician Zach Bryan singing lyrics from his song 'Sweet DeAnn'."
+  ]
+}

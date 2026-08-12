@@ -1,0 +1,76 @@
+{
+  "video_id": "7166709835319217451",
+  "visual_action": "A slideshow of text-based graphics against a maroon background. A circular photo of Donald Trump appears at the top of most slides. Each slide presents a different negative claim about Trump's presidency concerning the economy, abortion, and the January 6th Capitol attack. The background of each slide has faint, repeating icons relevant to the text, such as briefcases, money stacks, pills, or police barricades. The video concludes with a call to action to support the Democratic Party.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His photo appears on multiple slides, and his name is mentioned in the on-screen text of every slide except the last. The video is entirely about his record and his new presidential campaign."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The final slide is a call to action to \"elect Democrats\" and directs viewers to \"DEMOCRATS.ORG\". The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DONALD TRUMP IS RUNNING FOR PRESIDENT ... AGAIN",
+      "role": "overlay"
+    },
+    {
+      "text": "HERE'S WHAT YOU NEED TO KNOW →",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP had the worst jobs record of any president since the Great Depression",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP rigged the economy for the super rich and corporations ... all while creating new incentives to ship American jobs overseas",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP said there should be “some form of punishment” for women who had an abortion",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP incited a violent mob to attack the Capitol to try to overturn an election he knew he lost",
+      "role": "overlay"
+    },
+    {
+      "text": "HELP US BEAT TRUMP A SECOND TIME",
+      "role": "overlay"
+    },
+    {
+      "text": "by donating and volunteering to elect Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATS.ORG",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video.",
+  "emojis_present": [],
+  "audio_music": "A continuous, slightly formal-sounding classical piano piece plays throughout the video.",
+  "editing_pacing": "The video is a simple slideshow, with static graphic slides changing every few seconds.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Alarm",
+    "Disapproval",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump should not be elected president again due to his poor record on the economy, his stance on abortion, and his incitement of the January 6th Capitol attack.",
+  "intended_effect": "To persuade viewers to oppose Donald Trump's candidacy and mobilize them to donate to or volunteer for the Democratic Party.",
+  "uncertainty_flags": []
+}

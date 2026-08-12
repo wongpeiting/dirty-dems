@@ -1,0 +1,113 @@
+{
+  "video_id": "7424638415863336223",
+  "visual_action": "The video is a political advertisement that contrasts historical, grainy, black-and-white footage of a dilapidated Detroit with modern, full-color footage of a vibrant, rebuilt city. The historical clips show abandoned buildings and news reports of the city's bankruptcy. The modern clips show new construction, diverse residents working and living, city landmarks like the 'Monument to Joe Louis' (The Fist), and the General Motors 'Factory Zero' plant. Interspersed are clips of Donald Trump speaking angrily, looking dismissive, and playing golf. The ad concludes with footage from a campaign rally, historical footage of union protesters, and a final shot of Kamala Harris before a title card.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears on screen at the end of the ad, is named in the on-screen text ('Wow, new Kamala Harris ad...'), and provides the voiceover for the approval line, 'I'm Kamala Harris and I approve this message.'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears in multiple clips throughout the ad and is the subject of the ad's criticism. He is quoted saying living in Detroit is 'like living in hell' and 'Our whole country will end up being like Detroit if she's your president.'"
+    },
+    {
+      "name": "City of Detroit",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire ad is a narrative about the decline and resurgence of Detroit, contrasting it with Donald Trump's comments about the city."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on a 'HARRIS WALZ' campaign sign held by a supporter and on the final title card."
+    },
+    {
+      "name": "unnamed news anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A news anchor is briefly shown in an archival clip from July 2013, reporting on Detroit's bankruptcy."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Wow, new Kamala Harris ad DESTROYS Trump for attacking Detroit 👊",
+      "role": "overlay"
+    },
+    {
+      "text": "July, 2013",
+      "role": "other"
+    },
+    {
+      "text": "Motor City BANKRUPTCY",
+      "role": "chyron"
+    },
+    {
+      "text": "NOTHING STOPS DETROIT",
+      "role": "other"
+    },
+    {
+      "text": "FACTORY ZERO",
+      "role": "other"
+    },
+    {
+      "text": "DEFEND YOUR UNION",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "DETROIT VS. EVERYBODY",
+      "role": "overlay"
+    },
+    {
+      "text": "DETROIT VS. TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "APPROVED BY KAMALA HARRIS PAID FOR BY HARRIS FOR PRESIDENT",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A narrator with a deep voice contrasts outside perceptions of Detroit's decline with the city's resilience. The ad includes a news clip about the city's bankruptcy and a quote from Donald Trump describing living there as 'living in hell.' The narrator defiantly states, 'we said f--k that,' and describes how the people of Detroit rebuilt their city with hard work. This is contrasted with Trump, who 'don't know anything about that.' The ad uses another Trump quote, 'Our whole country will end up being like Detroit if she's your president,' and the narrator retorts that Trump should be 'so goddamn lucky.' The ad concludes with Kamala Harris saying, 'I'm Kamala Harris and I approve this message.'",
+  "emojis_present": [
+    "👊"
+  ],
+  "audio_music": "The ad begins with a somber, dramatic instrumental score over historical footage. As the narration shifts to a defiant tone, the music transitions to an upbeat, modern, and determined hip-hop-style beat that builds in intensity, creating a sense of pride and strength during the montage of the revitalized city.",
+  "editing_pacing": "The ad uses a fast-paced montage style with quick cuts synchronized to the narration and music. It juxtaposes historical black-and-white footage with modern color B-roll to create a strong 'then vs. now' narrative, cutting between cityscapes, residents, and clips of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride (in Detroit's resilience and hard work)",
+    "Defiance (towards critics and Trump)",
+    "Anger (at Trump's comments)",
+    "Hope (in the city's resurgence)"
+  ],
+  "cultural_references": [
+    "Detroit vs. Everybody (a popular local slogan and brand)",
+    "Monument to Joe Louis (a famous sculpture and landmark also known as 'The Fist', referencing boxer Joe Louis)"
+  ],
+  "central_claim": "Donald Trump disparages the resilient, hardworking people of Detroit, while Kamala Harris and her campaign celebrate their spirit and stand with them.",
+  "intended_effect": "To foster pride and solidarity among Detroit and Michigan voters, portray Donald Trump as an out-of-touch adversary, and motivate support for the Harris campaign.",
+  "uncertainty_flags": []
+}

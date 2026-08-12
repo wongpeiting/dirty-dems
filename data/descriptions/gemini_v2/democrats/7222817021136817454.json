@@ -1,0 +1,117 @@
+{
+  "video_id": "7222817021136817454",
+  "visual_action": "The video starts with a screen recording of an iPhone's Photos app. The albums shown include 'Recents,' which features a photo of the Chicago skyline with a podium sign that reads 'CHICAGO DNC 2024', and 'POTUS clips,' which shows a thumbnail of Joe Biden. The video then transitions into a montage of clips and photos: the podium against the Chicago skyline, a group of politicians including J.B. Pritzker in a conference room with the skyline in the background, people signing documents at the table, a scenic shot of Lake Michigan and the city, Senator Tammy Duckworth waving from the conference table, J.B. Pritzker shaking hands with Brandon Johnson outdoors, and a final group photo of several politicians at the conference table.",
+  "cast": [
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A podium sign prominently features the text 'CHICAGO DNC 2024', indicating the subject of the video is the Democratic National Convention."
+    },
+    {
+      "name": "J B Pritzker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears multiple times in the montage, in meetings, shaking hands, and in a group photo, seemingly celebrating the announcement."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face appears on a thumbnail for a 'POTUS clips' photo album in the initial screen recording of a phone."
+    },
+    {
+      "name": "Tammy Duckworth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown briefly waving to the camera while seated at a conference table."
+    },
+    {
+      "name": "Brandon Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown outdoors shaking hands with J.B. Pritzker."
+    },
+    {
+      "name": "Lori Lightfoot",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears smiling in a final group photo at a conference table."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Albums",
+      "role": "overlay"
+    },
+    {
+      "text": "My Albums",
+      "role": "overlay"
+    },
+    {
+      "text": "See All",
+      "role": "overlay"
+    },
+    {
+      "text": "Recents",
+      "role": "overlay"
+    },
+    {
+      "text": "2,991",
+      "role": "overlay"
+    },
+    {
+      "text": "POTUS clips",
+      "role": "overlay"
+    },
+    {
+      "text": "29",
+      "role": "overlay"
+    },
+    {
+      "text": "Favorites",
+      "role": "overlay"
+    },
+    {
+      "text": "121",
+      "role": "overlay"
+    },
+    {
+      "text": "TikTok",
+      "role": "overlay"
+    },
+    {
+      "text": "CHICAGO\n***\nDNC 2024",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set entirely to music.",
+  "emojis_present": [],
+  "audio_music": "The video is set to an upbeat, celebratory pop song, identified as 'Miss Americana & The Heartbreak Prince' by Taylor Swift, which plays throughout the entire clip to create a sense of excitement and triumph.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various photos and short video clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Pride",
+    "Celebration"
+  ],
+  "cultural_references": [
+    "The song 'Miss Americana & The Heartbreak Prince' by Taylor Swift is used as the soundtrack."
+  ],
+  "central_claim": "The Democratic Party is celebrating its choice of Chicago as the host city for the 2024 Democratic National Convention.",
+  "intended_effect": "To generate excitement and positive sentiment for the Democratic Party and its upcoming 2024 convention in Chicago.",
+  "uncertainty_flags": []
+}

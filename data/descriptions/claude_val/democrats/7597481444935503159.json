@@ -1,0 +1,39 @@
+{
+  "video_id": "7597481444935503159",
+  "visual_action": "The video is a montage of scenes featuring a woman (identified by context as Governor Sherrill) across multiple settings: (1) An outdoor street scene where two women in white shirts laugh and play with boxing mitts/pads in front of a brick storefront with an \"OPEN\" sign. (2) A close-up of a smiling brown-haired woman talking on a phone indoors with vertical blinds behind her, sparkle overlay effects visible. (3) The same or similar woman in a military-style flight jacket with a pilot's wing patch, leaning against what appears to be an aircraft or vehicle, smiling. (4) A woman in a bright pink/red top with a rainbow lei, beaded necklaces, and a campaign-style button, waving in front of a building with flowers — appears to be a parade or outdoor event setting. (5) An outdoor suburban scene with a woman in dark sunglasses and a blue navy top in the foreground, laughing, while another woman wearing a hijab and carrying a teal phone and black bag is photographing someone in the background. (6) A blurred transitional frame showing a person in a blue graduation gown with hands raised. (7) The woman standing in a grocery store produce section wearing a blue coat with a lapel mic, smiling at the camera. (8) A blurred transitional frame showing a person in a bright pink outfit, possibly at an outdoor event. Throughout the video, a soft pink/lavender color-grade tint and animated sparkle/glitter effects are overlaid on most frames.",
+  "cast": [
+    {
+      "name": "Mikie Sherrill",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Account caption reads 'Governor Sherrill 💙'; the video appears to be a celebratory profile montage of this individual across varied settings"
+    }
+  ],
+  "on_screen_text": [],
+  "spoken_summary": "The audio track plays over the montage. The Whisper transcript captures lyrical fragments: \"We'll be a fever, more like Minnesota, hotter than a fever / That feeling's coming around, please don't go fall in love.\" These are lyrics from the song \"Sally, When The Wine Runs Out\" by ROLE MODEL, used here as background music rather than spoken dialogue. No narration or speech by the subject is clearly transcribed.",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "The audio throughout is the song \"Sally, When The Wine Runs Out\" by ROLE MODEL (confirmed by ACRCloud fingerprint from 0.0s through at least 6.8s). The track is a soft, melodic indie-pop song with a warm, romantic, and celebratory feel. It plays continuously under the visual montage, lending the video an upbeat, feel-good emotional tone.",
+  "editing_pacing": "Montage-style editing with moderate pacing; cuts between varied settings and moments. A consistent soft pink/lavender color grade and animated sparkle/glitter overlay effects are applied throughout. Some transitional frames are intentionally blurred/motion-blurred, suggesting stylized editing. Overall feel is polished and celebratory.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "admiration — celebratory montage framing of the subject across varied positive settings",
+    "warmth — soft pink color grade, sparkle effects, and upbeat romantic indie-pop soundtrack",
+    "enthusiasm — subject shown laughing, waving, engaging with crowds and community"
+  ],
+  "cultural_references": [
+    "ROLE MODEL — the indie-pop artist's song 'Sally, When The Wine Runs Out' is used as the soundtrack, lending a youthful, romantic aesthetic to the video"
+  ],
+  "central_claim": "Governor Sherrill is a dynamic, community-engaged leader worth celebrating, shown across a range of relatable and impressive settings.",
+  "intended_effect": "Generate enthusiasm and positive feeling toward Mikie Sherrill as Governor.",
+  "uncertainty_flags": [
+    "The woman appearing in the phone call, flight jacket, grocery store, and parade scenes is assumed to be Mikie Sherrill based on the caption, but face-ID returned no confirmed match — identity is inferred from context only",
+    "It is unclear whether Sherrill's title as 'Governor' refers to a recently won gubernatorial race after the knowledge cutoff (she was a Congresswoman as of 2024 training data) — this is consistent with the today's date of August 11, 2026",
+    "The blurred frames (graduation gown, pink outfit) make it impossible to confirm the subject or setting with certainty",
+    "No on-screen text was detected by OCR; it is possible some text exists but was not captured"
+  ]
+}

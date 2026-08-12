@@ -1,0 +1,78 @@
+{
+  "video_id": "7541033011001773326",
+  "visual_action": "The video is a slideshow of static screens. The first five frames show a screenshot of a tweet from @GovKathyHochul (Governor Kathy Hochul), verified blue-check account, with the text \"Game on.\" quoting a New York Times breaking news tweet reporting that the Texas House passed redistricting maps intended to help the GOP win 5 more U.S. House seats in the midterm elections. The next two frames show a screenshot of a tweet from @GavinNewsom (Gavin Newsom), verified blue-check, with the text \"It's on, Texas.\" The final frame shows a split-screen photo collage: the top half is a close-up photo of Gavin Newsom in a navy suit and tie, looking directly at camera with a serious expression; the bottom half is a photo of Kathy Hochul seated in a formal setting, wearing white, with an American flag partially visible in the background.",
+  "cast": [
+    {
+      "name": "Kathy Hochul",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Tweet screenshot shows 'Governor Kathy Hochul @GovKathyHochul'; her photo appears in the final split-screen frame"
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Tweet screenshot shows 'Gavin Newsom @GavinNewsom'; his photo appears in the final split-screen frame"
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Embedded quoted tweet from @nytimes shown in the Hochul tweet screenshot"
+    },
+    {
+      "name": "Republican Party / GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "NYT breaking news text references 'the GOP win 5 more U.S. House seats'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Governor Kathy Hochul ✓\n@GovKathyHochul",
+      "role": "overlay"
+    },
+    {
+      "text": "Game on.",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times @nytimes\nBreaking News: The Texas House passed redistricting maps intended to help the GOP win 5 more U.S. House seats in the midterm elections. nyti.ms/45NHAtm",
+      "role": "overlay"
+    },
+    {
+      "text": "Gavin Newsom ✓\n@GavinNewsom",
+      "role": "overlay"
+    },
+    {
+      "text": "It's on, Texas.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken audio is present. The video is entirely visual — a slideshow of tweet screenshots and photos. The Whisper transcript returned no spoken content, consistent with the TikTok sound label indicating original audio (likely silent or ambient).",
+  "emojis_present": [],
+  "audio_music": "No commercial music matched by fingerprint. The TikTok sound is labeled as original audio from the posting account. No spoken dialogue, music, or notable sound effects are detectable from the available data — the clip appears to be silent or near-silent.",
+  "editing_pacing": "Simple static slideshow: multiple identical frames of the Hochul tweet (held for several seconds), then multiple identical frames of the Newsom tweet, concluding with a split-screen photo collage of both politicians. No cuts, zooms, or motion effects detected — slow and deliberate pacing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "defiance — 'Game on.' and 'It's on, Texas.' convey a combative, ready-to-fight posture in response to Texas redistricting news",
+    "rallying/energizing — the back-to-back responses from two major Democratic governors frame this as a coordinated Democratic pushback"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democratic governors Kathy Hochul and Gavin Newsom are signaling that they will fight back against Texas Republican redistricting efforts aimed at expanding GOP House seats.",
+  "intended_effect": "Energize and reassure Democratic viewers that prominent party leaders are ready to respond aggressively to Republican gerrymandering in Texas.",
+  "uncertainty_flags": [
+    "The exact date of the Texas redistricting event referenced is not specified in the video; the NYT link (nyti.ms/45NHAtm) could help confirm the timeline but was not resolved here.",
+    "No audio was confirmed — it is unclear whether the video is truly silent or has very low-level ambient audio not captured by Whisper.",
+    "The face-ID roster returned no detections, but the final frame clearly shows photos of Newsom and Hochul identified via on-screen tweet context rather than facial recognition."
+  ]
+}

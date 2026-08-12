@@ -1,0 +1,67 @@
+{
+  "video_id": "7663548135645498637",
+  "visual_action": "A static photo of Donald Trump and Todd Blanche standing together indoors behind a metal barrier, with other people out of focus in the background. Text is overlaid on the image.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visually present in the photo and mentioned in the on-screen text: \"Trump's Attorney General nominee\"."
+    },
+    {
+      "name": "Todd Blanche",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visually present in the photo and identified by name in the on-screen text: \"Todd Blanche\"."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the on-screen text: \"Epstein survivor\"."
+    },
+    {
+      "name": "unnamed Epstein survivor",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, \"Epstein survivor describes meeting with Todd Blanche\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NEW",
+      "role": "overlay"
+    },
+    {
+      "text": "Epstein survivor describes meeting with Todd Blanche, Trump's Attorney General nominee",
+      "role": "overlay"
+    },
+    {
+      "text": "swipe for more",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio; the only audio is a music track.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, energetic pop-rock song with female vocals plays throughout the short clip, creating a sense of urgency or drama.",
+  "editing_pacing": "A single static image is shown for the entire duration of the video.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "suspicion",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's potential Attorney General nominee, Todd Blanche, had a concerning meeting with a survivor of Jeffrey Epstein's abuse.",
+  "intended_effect": "To create negative sentiment and suspicion towards Donald Trump and Todd Blanche by associating them with the Jeffrey Epstein scandal.",
+  "uncertainty_flags": []
+}

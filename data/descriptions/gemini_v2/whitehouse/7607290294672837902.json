@@ -1,0 +1,50 @@
+{
+  "video_id": "7607290294672837902",
+  "visual_action": "Six fighter jets fly in a tight formation over the Daytona International Speedway, leaving white smoke trails against a blue sky with scattered clouds. The camera, positioned high up, captures the jets approaching, flying directly overhead, and then receding into the distance. Below, a massive crowd and a large parking lot full of cars are visible.",
+  "cast": [
+    {
+      "name": "U.S. Navy Blue Angels",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video shows a flyover by six fighter jets in a delta formation, leaving smoke trails. This is a signature performance of the Blue Angels, who traditionally perform this flyover for the Daytona 500. The patriotic caption, 'The sound of FREEDOM 🦅', further implies a U.S. military demonstration team."
+    },
+    {
+      "name": "NASCAR",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The caption explicitly tags '@nascar', and the event is visually identified as taking place at the Daytona International Speedway, a famous NASCAR track."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DAYTONA INTERNATIONAL SPEEDWAY",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio consists of the loud roar of jet engines and the cheers of a large crowd. There is no discernible speech.",
+  "emojis_present": [
+    "🦅"
+  ],
+  "audio_music": "The audio is entirely diegetic sound from the event. It features the powerful and growing roar of jet engines as they fly over, accompanied by the sounds of a cheering crowd. The effect is immersive and awe-inspiring.",
+  "editing_pacing": "The video is a single, continuous shot that pans upwards to follow the motion of the jets. There are no cuts or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "awe",
+    "excitement"
+  ],
+  "cultural_references": [
+    "NASCAR",
+    "Daytona International Speedway"
+  ],
+  "central_claim": "The U.S. military provides an awe-inspiring and patriotic spectacle at major American cultural events like NASCAR races.",
+  "intended_effect": "To evoke feelings of national pride and awe, and to associate the White House with powerful displays of American military prowess and popular sporting events.",
+  "uncertainty_flags": [
+    "The provided audio transcript is highly inaccurate and does not reflect the actual sounds in the video, which are jet engines and crowd noise."
+  ]
+}

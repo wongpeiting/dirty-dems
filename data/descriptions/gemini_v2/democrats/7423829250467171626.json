@@ -1,0 +1,50 @@
+{
+  "video_id": "7423829250467171626",
+  "visual_action": "A slideshow of two still images with overlaid text. The first image shows Kamala Harris smiling and waving behind a podium. The second image is a close-up of Donald Trump with his hair windswept, looking sternly towards the camera.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "An image of Kamala Harris is shown with the on-screen text 'Plan A: -Vote for Kamala Harris'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "An image of Donald Trump is shown with the on-screen text 'Plan B:'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Plan A:\n-Vote for Kamala Harris\n-Keep health care \naffordable\n-Protect reproductive\nfreedoms",
+      "role": "overlay"
+    },
+    {
+      "text": "Plan B:\n-There is no plan B",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of lyrics from the song 'Piano Man' by Billy Joel.",
+  "emojis_present": [],
+  "audio_music": "The song 'Piano Man' by Billy Joel plays throughout the video. It's a classic piano-rock song that provides a somewhat dramatic and melancholic tone.",
+  "editing_pacing": "A simple slideshow consisting of two still images with one cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Hope",
+    "Reassurance",
+    "Alarm",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The song 'Piano Man' by Billy Joel."
+  ],
+  "central_claim": "Voting for Kamala Harris is the only viable option ('Plan A'), as Donald Trump represents an unacceptable alternative with no positive plan ('Plan B').",
+  "intended_effect": "To persuade viewers to vote for Kamala Harris by framing her as the only positive choice and portraying Donald Trump as a dangerous or empty alternative.",
+  "uncertainty_flags": []
+}

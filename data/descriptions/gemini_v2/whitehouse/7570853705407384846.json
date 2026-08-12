@@ -1,0 +1,48 @@
+{
+  "video_id": "7570853705407384846",
+  "visual_action": "The video opens with an aerial view from an airplane window, showing an airplane engine and the ground below at sunset. The plane flies over a large, crowded football stadium. The video then cuts to a series of quick, black-and-white shots: the exterior of the White House, a helicopter (likely Marine One) on the White House lawn, and a final shot of the White House exterior.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account, shows the building, and ends with the text 'THE WHITE HOUSE' on screen."
+    },
+    {
+      "name": "Washington Commanders",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The post's caption identifies the event as a 'Washington Commanders game'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from the song 'Welcome to Jamrock' by Damian Marley. The audible lines include 'Out in the street, they call it murder' and fragments of the chorus like 'Jam rock'.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "A bass-heavy reggae/dancehall track ('Welcome to Jamrock' by Damian Marley) plays for the first 6 seconds, creating a dramatic and energetic mood for the flyover scene. The music then cuts out abruptly, and the final 5 seconds of the video, showing black-and-white images of the White House, are silent.",
+  "editing_pacing": "The video begins with a single, continuous aerial shot of the flyover, then transitions to a series of quick cuts between static, black-and-white images, creating a dramatic, trailer-like effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Awe",
+    "Power",
+    "Excitement",
+    "Pride"
+  ],
+  "cultural_references": [
+    "The song 'Welcome to Jamrock' by Damian Marley."
+  ],
+  "central_claim": "The White House projects an image of power and cultural relevance by showing Air Force One making a dramatic flyover at a Washington Commanders football game.",
+  "intended_effect": "To evoke feelings of awe, excitement, and national pride, and to portray the White House as powerful and culturally relevant.",
+  "uncertainty_flags": []
+}

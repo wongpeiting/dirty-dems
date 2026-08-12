@@ -1,0 +1,66 @@
+{
+  "video_id": "7614165268436290829",
+  "visual_action": "The video is a slideshow of two static images. The first is a close-up photo of Donald Trump in an official-looking setting with large text overlaid. The second image is a screenshot of a tweet from the account 'FactPost', which repeats the quote and includes two photos side-by-side: one of Donald Trump looking up, and another of a large explosion over a city or port.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in multiple photos and is the subject of quotes displayed in on-screen text, such as: \"I GUESS ... LIKE I SAID, SOME PEOPLE WILL DIE.\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost' (@factpostnews) is shown as the second image in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I GUESS ... LIKE I SAID, SOME PEOPLE WILL DIE.",
+      "role": "meme_text"
+    },
+    {
+      "text": "TRUMP ON IF AMERICANS SHOULD BE WORRIED ABOUT IRANIAN STRIKES ON THE U.S.",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost ✅ @factpostnews",
+      "role": "other"
+    },
+    {
+      "text": "Trump on whether Americans should be worried about retaliatory attacks on American soil:",
+      "role": "other"
+    },
+    {
+      "text": "\"I guess. ... Like I said, some people will die. When you go to war, some people will die.\"",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video. The audio consists of a sung rock music track.",
+  "emojis_present": [
+    "✅"
+  ],
+  "audio_music": "A somber rock track plays throughout the video. The music audibly features the melody and lyrics of the anti-war song 'Zombie' by The Cranberries, which creates a serious, critical, and foreboding atmosphere that reinforces the post's themes of war and death.",
+  "editing_pacing": "The video is a simple slideshow, consisting of a single cut from one static image to a second one.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "fear",
+    "anxiety",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The song 'Zombie' by The Cranberries is used as the background music."
+  ],
+  "central_claim": "Donald Trump is dangerously callous and indifferent to the prospect of American deaths resulting from war or retaliatory strikes.",
+  "intended_effect": "To generate fear and disapproval of Donald Trump, and to portray him as unfit for command.",
+  "uncertainty_flags": [
+    "The authenticity and original context of the quote attributed to Donald Trump are not provided or verifiable from the video itself.",
+    "The provided music fingerprint ('Rock Mixology — DJ Collins') conflicts with the audibly recognizable lyrics and melody of 'Zombie' by The Cranberries."
+  ]
+}

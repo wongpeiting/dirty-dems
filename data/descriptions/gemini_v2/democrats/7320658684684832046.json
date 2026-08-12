@@ -1,0 +1,62 @@
+{
+  "video_id": "7320658684684832046",
+  "visual_action": "The video displays a sequence of three static images. First, a close-up photo of the right side of Donald Trump's smiling face against an American flag. Second, a close-up photo of the left side of Joe Biden's smiling face against a grey background. Third, a screenshot of a tweet from the social media account for 'The Democrats'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of Donald Trump is shown with the overlay text 'the worst jobs president since the Great Depression'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of Joe Biden is shown with the overlay text 'and the president with historic job growth'. A subsequent tweet also names him '@JoeBiden'."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'The Democrats' (@TheDemocrats) is shown at the end of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the worst jobs president since the Great Depression",
+      "role": "overlay"
+    },
+    {
+      "text": "and the president with historic job growth",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats\n@TheDemocrats",
+      "role": "other"
+    },
+    {
+      "text": "NEW: The economy added 216,000 jobs in December, continuing 35 consecutive months of job growth under President @JoeBiden.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video is silent.",
+  "emojis_present": [],
+  "audio_music": "The video is silent.",
+  "editing_pacing": "Slideshow of static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden has overseen historic job growth, whereas Donald Trump was the worst president for jobs since the Great Depression.",
+  "intended_effect": "To persuade viewers of Joe Biden's economic success and Donald Trump's economic failure regarding job creation.",
+  "uncertainty_flags": []
+}

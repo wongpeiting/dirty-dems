@@ -1,0 +1,68 @@
+{
+  "video_id": "7531154995870289165",
+  "visual_action": "The video displays two consecutive still images. The first shows Donald Trump seated and holding a signed document, surrounded by other men in suits. The second image shows Barack Obama smiling while seated and signing a document, surrounded by a group of people including Joe Biden and Nancy Pelosi.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the main subject of the first image and is named in the on-screen text: 'Physically here as Trump kicks 17 million Americans off their healthcare'."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the main subject of the second image, shown smiling and signing a document, presented as a positive contrast to Trump."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the background of the photograph with Barack Obama."
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible standing behind Barack Obama in the second photograph."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Physically here as Trump kicks 17 million Americans off their healthcare",
+      "role": "overlay"
+    },
+    {
+      "text": "Mentally here 💙",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists only of a song.",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "The video features the song 'Bad Habit' by Steve Lacy throughout. The melancholic and yearning tone of the song, with lyrics like 'I wish I knew you,' reinforces the nostalgic feeling for the Obama era implied by the visuals.",
+  "editing_pacing": "The video is a static slideshow consisting of two still images with text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Anger",
+    "Concern"
+  ],
+  "cultural_references": [
+    "The song 'Bad Habit' by Steve Lacy.",
+    "The 'Physically here / Mentally here' meme format."
+  ],
+  "central_claim": "Donald Trump's policies stripped healthcare from 17 million Americans, a destructive act contrasted with the positive legacy of the Obama administration.",
+  "intended_effect": "To evoke nostalgia for the Obama era and generate fear or anger towards Donald Trump's healthcare policies, encouraging support for Democrats.",
+  "uncertainty_flags": []
+}

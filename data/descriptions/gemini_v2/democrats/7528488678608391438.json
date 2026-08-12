@@ -1,0 +1,108 @@
+{
+  "video_id": "7528488678608391438",
+  "visual_action": "The video displays a split-screen news interview from MSNBC. On the left, aerial footage shows a chaotic scene on a road with numerous people, law enforcement, and cars, with what appears to be smoke or tear gas being deployed. On the right, a news anchor interviews a young man, George Retes. On-screen text and chyrons from the broadcast are visible throughout, and additional text is overlaid on the video to emphasize the speaker's words.",
+  "cast": [
+    {
+      "name": "George Retes",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the interviewee and the subject of the news segment. A chyron reads 'GEORGE RETES U.S. ARMY VETERAN'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire post is about his detention by ICE. On-screen text includes 'ICE just detained a US citizen' and 'ICE POLICE STATE'."
+    },
+    {
+      "name": "unnamed MSNBC anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The man in the suit and tie is shown on screen conducting the interview."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The MSNBC logo and broadcast graphics are visible throughout the clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ICE just detained a US citizen: “Clearly it didn’t matter that I was a citizen, or a veteran”",
+      "role": "overlay"
+    },
+    {
+      "text": ">ICE POLICE STATE",
+      "role": "chyron"
+    },
+    {
+      "text": "ARMY VETERAN DETAINED DURING ICE RAID SPEAKS OUT",
+      "role": "chyron"
+    },
+    {
+      "text": "GEORGE RETES",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. ARMY VETERAN",
+      "role": "chyron"
+    },
+    {
+      "text": "AMERICAN ARMY VETERAN VIOLENTLY DETAINED BY ICE",
+      "role": "chyron"
+    },
+    {
+      "text": "AMERICAN VETERAN DETAINED FOR THREE DAYS BY ICE",
+      "role": "chyron"
+    },
+    {
+      "text": "MY FIRST THOUGHTS",
+      "role": "caption"
+    },
+    {
+      "text": "WERE LIKE JUST LIKE",
+      "role": "caption"
+    },
+    {
+      "text": "IN SHOCK I WAS IN",
+      "role": "caption"
+    },
+    {
+      "text": "DISBELIEF THAT ALL",
+      "role": "caption"
+    },
+    {
+      "text": "THIS WAS HAPPENING.",
+      "role": "caption"
+    },
+    {
+      "text": "Clearly it didn't matter that I was a citizen, or a veteran",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "In an MSNBC interview, U.S. Army veteran George Retes recounts being detained by ICE. He expresses his shock and disbelief, stating that his status as a citizen and a veteran \"didn't matter to them.\" He describes a chaotic scene where ICE officers surrounded his car, banged on his window, used tear gas, and ignored his repeated statements that he was a citizen just trying to get to work. He says they ultimately broke his car window and dragged him out.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of dialogue from the news interview, with no music or added sound effects.",
+  "editing_pacing": "The video uses a standard news interview format, cutting between aerial B-roll footage and a split-screen of the interviewer and interviewee. Large, white, capitalized text is superimposed over the video to transcribe and emphasize key parts of the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "injustice",
+    "outrage",
+    "sympathy",
+    "shock"
+  ],
+  "cultural_references": [],
+  "central_claim": "U.S. Immigration and Customs Enforcement (ICE) wrongfully and violently detained a U.S. citizen and Army veteran, ignoring his status.",
+  "intended_effect": "To provoke outrage against ICE and generate sympathy for the man who was detained, framing the agency's actions as an unjust abuse of power.",
+  "uncertainty_flags": []
+}

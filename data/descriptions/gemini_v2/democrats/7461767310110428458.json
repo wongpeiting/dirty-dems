@@ -1,0 +1,124 @@
+{
+  "video_id": "7461767310110428458",
+  "visual_action": "At a large political rally, Donald Trump, standing at a podium on stage, calls Elon Musk to join him. Musk walks onto the stage from the side as the crowd cheers. Trump gestures for Musk to speak, and Musk approaches the podium. A young boy is also visible at the side of the stage.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible on stage speaking at a podium. He is identified by facial recognition and named in the on-screen text as \"Vice President Trump\"."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visible on stage after being called by Trump. He is identified by facial recognition, called \"Elon\" by Trump, and named in the on-screen text as \"President Musk\"."
+    },
+    {
+      "name": "X (Elon Musk's son)",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "A young boy is visible on stage, and Trump says, \"And X is with him. X.\""
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on the podium sign, which reads \"TRUMP VANCE\"."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears in the news chyron at the bottom of the screen, which reads \"SPEAKER JOHNSON SAYS...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Vice President Trump brings out President Musk 🤭",
+      "role": "overlay"
+    },
+    {
+      "text": "COME HERE, ELON.",
+      "role": "caption"
+    },
+    {
+      "text": "DID YOU SEE",
+      "role": "caption"
+    },
+    {
+      "text": "HIS ROCKET YESTERDAY?",
+      "role": "caption"
+    },
+    {
+      "text": "IT WAS CAPTURED.",
+      "role": "caption"
+    },
+    {
+      "text": "AND X IS WITH HIM. X.",
+      "role": "caption"
+    },
+    {
+      "text": "COME ON, ELON. SAY",
+      "role": "caption"
+    },
+    {
+      "text": "A COUPLE OF WORDS.",
+      "role": "caption"
+    },
+    {
+      "text": "THANK YOU. THANK YOU.",
+      "role": "caption"
+    },
+    {
+      "text": "LIVE WASHINGTON D.C.",
+      "role": "chyron"
+    },
+    {
+      "text": "RSBN",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESENTED WITH SPECIAL 'INAUGURAL DIET COKE' BOTTLE AHEAD OF WHITE HOUSE RETURN",
+      "role": "chyron"
+    },
+    {
+      "text": "SPEAKER JOHNSON SAYS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP VANCE",
+      "role": "other"
+    },
+    {
+      "text": "TEXT TRUMP TO 88022",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "At a rally, Donald Trump calls Elon Musk onto the stage, saying, \"Come here, Elon.\" He asks the crowd about Musk's recent rocket launch and notes that Musk's son, X, is with him. He encourages Musk to speak, who then approaches the podium and says, \"Thank you.\"",
+  "emojis_present": [
+    "🤭"
+  ],
+  "audio_music": "The audio consists of a person speaking into a microphone with reverberation, layered over the sound of a large, cheering crowd.",
+  "editing_pacing": "The video is a single, continuous shot without any cuts or complex editing.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is edited with text overlays to create a satirical, fictional scenario. A large caption at the top presents Donald Trump as \"Vice President\" and Elon Musk as \"President.\" A fake news chyron is added at the bottom with nonsensical text like \"PRESENTED WITH SPECIAL 'INAUGURAL DIET COKE' BOTTLE\" to further the satirical framing.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post satirically portrays a future where Elon Musk becomes President with Donald Trump as his Vice President, framing this as a ridiculous outcome.",
+  "intended_effect": "To mock Donald Trump and Elon Musk and to encourage viewers to find the idea of them running the country amusing or absurd.",
+  "uncertainty_flags": []
+}

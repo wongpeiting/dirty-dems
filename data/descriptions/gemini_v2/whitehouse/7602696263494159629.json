@@ -1,0 +1,73 @@
+{
+  "video_id": "7602696263494159629",
+  "visual_action": "A split-screen style video. The first half, in black and white and labeled \"UNDER BIDEN:\", shows several clips of large groups of people, presumably migrants, walking in a line and crossing a body of water or ditch near a border fence with barbed wire. The second half, in color and labeled \"UNDER TRUMP\", is a montage of B-roll showing a helicopter flying over a border wall, a U.S. Border Patrol agent in tactical gear, a patrol boat speeding on water, an off-road vehicle driving fast and kicking up dust, and an aerial shot of a long border wall in the desert. The video concludes with \"THE WHITE HOUSE\" logo over a black and white shot of the building.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text \"UNDER BIDEN:\" appears on screen over the first set of clips."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text \"UNDER TRUMP\" appears on screen over the second set of clips."
+    },
+    {
+      "name": "U.S. Border Patrol",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An agent is shown with a \"U.S. BORDER PATROL\" patch on his uniform, and their vehicles (helicopter, boat) are featured."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a logo that says \"THE WHITE HOUSE\" and is posted by the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "UNDER BIDEN:",
+      "role": "overlay"
+    },
+    {
+      "text": "UNDER TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video's audio has two distinct parts. The first few seconds, over the \"Biden\" section, consist of a jarring, repetitive, high-pitched electronic sound effect. This is immediately followed by a loud, aggressive rock song with a male voice shouting lyrics like \"Fucking hell yeah, brother.\"",
+  "emojis_present": [
+    "🦅"
+  ],
+  "audio_music": "The video begins with a jarring, rapid electronic sound effect for approximately 3 seconds to create a chaotic mood. It then abruptly switches to the high-energy, aggressive rock track \"Hell Yeah Brother\" by Jeris Johnson for the remainder of the video, creating a powerful and hype-filled atmosphere.",
+  "editing_pacing": "The video uses fast-paced cuts in a montage format to create a stark contrast between two distinct sections.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anxiety/Chaos (evoked by grainy, black-and-white footage of migrants and jarring sound under 'Biden')",
+    "Pride/Strength/Excitement (evoked by high-energy montage of Border Patrol equipment and personnel set to aggressive rock music under 'Trump')"
+  ],
+  "cultural_references": [
+    "The song 'Hell Yeah Brother' by Jeris Johnson.",
+    "The phrase 'Hell yeah, brother' is a meme associated with a particular hyper-masculine, enthusiastic online subculture."
+  ],
+  "central_claim": "The border was chaotic and overrun with migrants under President Biden, whereas it was secure and powerfully patrolled under President Trump.",
+  "intended_effect": "To create anxiety about border security under Biden and generate support for Trump's policies by portraying them as strong and effective.",
+  "uncertainty_flags": [
+    "The provenance and dates of the footage used to represent the 'Biden' and 'Trump' eras are unstated and unverified within the video."
+  ]
+}

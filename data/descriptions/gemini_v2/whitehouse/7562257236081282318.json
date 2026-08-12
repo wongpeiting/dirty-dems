@@ -1,0 +1,67 @@
+{
+  "video_id": "7562257236081282318",
+  "visual_action": "Donald Trump stands outside the White House next to a Ukrainian flag as a black SUV pulls up. Volodymyr Zelenskyy exits the vehicle and shakes hands with Trump. They stand together for a moment while reporters ask questions. The video concludes with a black-and-white montage of the White House and a helicopter, with \"THE WHITE HOUSE\" text overlayed.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown on screen welcoming Zelenskyy and is heard answering a reporter's question."
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown on screen arriving and shaking hands with Trump. The on-screen text identifies him as 'Ukrainian President Zelenskyy'."
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A reporter asks Trump if he can convince 'your neighbor to end the war,' which, in the context of the war in Ukraine, implies Vladimir Putin."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice is heard asking President Trump a question about ending the war."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Welcomes Ukrainian President Zelenskyy To the White House",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump a partially garbled question about whether he can convince an adversary to end the war in Ukraine. Trump replies confidently, \"Yep, we can.\"",
+  "emojis_present": [
+    "🇺🇸",
+    "🇺🇦"
+  ],
+  "audio_music": "The audio consists of dialogue from a reporter and Donald Trump, overlaid with ambient noise from a press scrum and the outdoors. There is no music.",
+  "editing_pacing": "The video consists of a single continuous shot showing the greeting, followed by a quick, three-shot black-and-white montage that serves as an outro.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Statesmanship"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is confident that he can bring an end to the war in Ukraine.",
+  "intended_effect": "To portray Donald Trump as a strong and effective leader capable of resolving major international conflicts.",
+  "uncertainty_flags": [
+    "The audio quality of the reporter's question is poor, and the provided transcript ('end the war in crime') appears to be a transcription error for 'end the war in Ukraine'."
+  ]
+}

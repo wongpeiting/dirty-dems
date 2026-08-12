@@ -1,0 +1,86 @@
+{
+  "video_id": "7627256230351867149",
+  "visual_action": "The video first shows a clip of a young woman with blonde hair, Addison Rae, kneeling and taking a mirror selfie with her phone. A screenshot of a tweet from the account 'Pop Crave' is overlaid on the video. The scene then cuts to a static screenshot of a tweet from the 'Homeland Security' Twitter account, which shows that the media content of the tweet has been disabled due to a copyright claim.",
+  "cast": [
+    {
+      "name": "Addison Rae",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet from Pop Crave shown on screen states: 'Addison Rae has filed a copyright claim...'"
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The Pop Crave tweet names the 'Department of Homeland Security', and a screenshot of a tweet from the 'Homeland Security' account (@DHSgov) is shown."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The Pop Crave tweet refers to an 'ICE-related video' and the Homeland Security tweet says 'ICE is HOT.'"
+    },
+    {
+      "name": "Pop Crave",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'Pop Crave' is displayed as the source of the initial claim."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pop Crave\n@PopCrave\nAddison Rae has filed a copyright claim against the Department of Homeland Security for using “Diet Pepsi” on an ICE-related video.",
+      "role": "overlay"
+    },
+    {
+      "text": "Homeland Security @DHSgov",
+      "role": "chyron"
+    },
+    {
+      "text": "ICE is HOT.",
+      "role": "overlay"
+    },
+    {
+      "text": "JOIN.ICE.GOV",
+      "role": "overlay"
+    },
+    {
+      "text": "lol",
+      "role": "overlay"
+    },
+    {
+      "text": "This media has been disabled in response to a report by the copyright owner.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The provided transcript is incorrect. The audio consists solely of the song \"Fame is a Gun\" by Addison Rae, which plays throughout the video. There is no dialogue or narration.",
+  "emojis_present": [],
+  "audio_music": "An upbeat pop song, identified as 'Fame is a Gun' by Addison Rae, plays throughout the entire video. Its use feels triumphant and serves to mock the Department of Homeland Security by using the music of the very artist who successfully filed a copyright claim against them.",
+  "editing_pacing": "The editing is simple, consisting of a single cut from a video clip with a text overlay to a static screenshot of a social media post.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "triumph",
+    "humor"
+  ],
+  "cultural_references": [
+    "Addison Rae",
+    "Diet Pepsi (song by Addison Rae)",
+    "Fame is a Gun (song by Addison Rae)",
+    "Pop Crave (pop culture news account)"
+  ],
+  "central_claim": "Pop star Addison Rae successfully filed a copyright claim against the Department of Homeland Security, resulting in their social media video being taken down.",
+  "intended_effect": "To mock the Department of Homeland Security as being outmaneuvered by a pop star and to celebrate Addison Rae's action.",
+  "uncertainty_flags": [
+    "The provided audio transcript is incorrect and does not match the song playing in the video."
+  ]
+}

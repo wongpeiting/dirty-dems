@@ -1,0 +1,56 @@
+{
+  "video_id": "7620562369420201229",
+  "visual_action": "The video shows a static screenshot of a tweet from an account called 'FactPost'. The tweet displays a photo of Robert F. Kennedy Jr. on the left and a photo of a dead raccoon on a road on the right. The raccoon's genital area is pixelated. The video then slowly zooms in on the image of the dead raccoon.",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text begins 'RFK Jr's secret diary entries reveal...'. A photograph of him is also shown."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet is from the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "RFK Jr's secret diary entries reveal he cut off the penis of a roadkill raccoon in 2001 as his kids waited in the car.",
+      "role": "overlay"
+    },
+    {
+      "text": "His use for the raccoon's penis remains unclear.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman's calm voice talks about skincare and health foods, saying, \"Let's eat skin care. Omega-3 collagen booster. Avocado for that glow.\" This dialogue is accompanied by chewing/eating sounds and is completely unrelated to the visual content of the post.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a female voiceover speaking in a calm, ASMR-like tone about skincare, layered with eating sounds. There is no background music. The audio is juxtaposed with the disturbing on-screen visuals to create a jarring, absurd, and comedic effect.",
+  "editing_pacing": "The video consists of a single static image (a screenshot of a tweet) with a slow zoom-in effect on one part of the image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated tweet from a parody account named 'FactPost,' which is designed to look like a legitimate news source, complete with a blue checkmark. This fake tweet is the vehicle for the absurd and false claim made about Robert F. Kennedy Jr.",
+  "emotions_signaled": [
+    "mockery",
+    "disgust",
+    "shock",
+    "absurdity"
+  ],
+  "cultural_references": [
+    "The video uses a common internet meme format of pairing a bizarre, shocking, or chaotic visual with an unrelated and often calming or mundane audio track, in this case, a voiceover parodying a skincare or wellness influencer."
+  ],
+  "central_claim": "The post falsely claims, via a fabricated tweet, that Robert F. Kennedy Jr. once cut the penis off a roadkill raccoon.",
+  "intended_effect": "To generate mockery, disgust, and ridicule towards Robert F. Kennedy Jr. by associating him with a bizarre, fabricated story.",
+  "uncertainty_flags": [
+    "The provided music fingerprint ('That purify your lungs — Noel Benedict') does not match the audio in the video, which is a spoken-word voiceover about skincare with eating sounds and no discernible music."
+  ]
+}

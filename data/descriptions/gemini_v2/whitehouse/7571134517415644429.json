@@ -1,0 +1,95 @@
+{
+  "video_id": "7571134517415644429",
+  "visual_action": "The video is a montage set at an American football game. It opens with wide shots of a crowded stadium, with an American flag displayed on the field. A plane resembling Air Force One performs a flyover. A black presidential SUV arrives. Donald Trump exits the vehicle, shakes hands with a man, and they converse. The video cuts between clips of the football game (Washington Commanders vs. Detroit Lions) and scenes of Trump's visit. Trump is presented with a customized football reading \"PRESIDENT DONALD J. TRUMP\" and a framed jersey with \"TRUMP 47\". He is shown clapping and smiling in a suite, and his image appears on the stadium's Jumbotron, to which some fans react with thumbs-ups. A large group of people on the field take an oath with their right hands raised. Trump is also shown in a broadcast booth with a FOX Sports microphone, speaking with two other men. The video concludes with black-and-white footage of the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central subject of the montage, shown arriving at the stadium, being honored with a custom jersey and football, and featured on the Jumbotron."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is from the official @whitehouse account, features presidential transportation (plane, vehicle), and ends with a logo card reading 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "Washington Commanders",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A football shown in the video is labeled 'DETROIT LIONS AT WASHINGTON', indicating the home team."
+    },
+    {
+      "name": "Detroit Lions",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A football shown in the video is labeled 'DETROIT LIONS AT WASHINGTON'."
+    },
+    {
+      "name": "FOX Sports",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The FOX Sports logo is visible on the microphone Donald Trump uses in the broadcast booth."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NW NORTHWEST STADIUM",
+      "role": "chyron"
+    },
+    {
+      "text": "GAME BALL PRESENTED TO\nPRESIDENT\nDONALD J. TRUMP\nCOMMANDER IN CHIEF",
+      "role": "overlay"
+    },
+    {
+      "text": "DETROIT LIONS AT WASHINGTON\nSUNDAY, NOVEMBER",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP\n47",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX SPORTS",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video's audio is dominated by a dramatic orchestral score. Donald Trump is shown speaking into a microphone, but his words are inaudible over the music. The provided transcript, \"We'll be right back. We'll be right back,\" does not appear to correspond to any prominent dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A continuous, dramatic, and epic-sounding orchestral score plays throughout the video, identified as 'Epic Battle' by Sound Gallery. The music creates a sense of grandeur, importance, and patriotic energy.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes, including game action, B-roll of the stadium, and shots of Donald Trump's activities at the event.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Admiration",
+    "Excitement"
+  ],
+  "cultural_references": [
+    "NFL (National Football League)",
+    "Washington Commanders",
+    "Detroit Lions",
+    "FOX Sports"
+  ],
+  "central_claim": "President Donald Trump is a popular and respected leader who is celebrated at major American cultural events like NFL games.",
+  "intended_effect": "To foster a sense of pride and admiration for Donald Trump, portraying him as a strong, popular leader connected to American patriotism and culture.",
+  "uncertainty_flags": [
+    "The provided audio transcript ('We'll be right back.') does not seem to correspond with the video's visuals or primary audio, which is a musical score."
+  ]
+}

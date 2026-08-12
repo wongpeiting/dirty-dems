@@ -1,0 +1,96 @@
+{
+  "video_id": "7413116015686503711",
+  "visual_action": "The video starts with a woman taking a selfie video on a patio, smiling at the camera. Text overlay asks, \"Are you free September 10th?\". It then cuts to a static image formatted like a \"starter pack\" meme. The meme includes a photo of Kamala Harris, the text \"No, sir.\", a blue T-shirt and a camouflage hat both reading \"HARRIS WALZ\", a graphic for an \"ABC NEWS PRESIDENTIAL DEBATE\" between Kamala Harris and Donald Trump, and a grey sofa.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her photo appears in the meme, and her name and photo appear on the debate graphic."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His photo and name appear on the debate graphic."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His last name \"WALZ\" appears on a t-shirt and hat alongside \"HARRIS\", implying he is her running mate."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman appears in the opening clip, with the setup question appearing as an overlay."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'ABC NEWS' logo is on the presidential debate graphic."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“Are you free September 10th?”",
+      "role": "overlay"
+    },
+    {
+      "text": "No, sir.",
+      "role": "meme_text"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "meme_text"
+    },
+    {
+      "text": "KAMALA HARRIS",
+      "role": "chyron"
+    },
+    {
+      "text": "DONALD TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "ABC NEWS PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "TUESDAY 9p ET",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio consists of the song \"Yes Sir\" by Chief Keef. The lyrics heard include the line \"No, sir,\" which is also displayed visually on screen.",
+  "emojis_present": [],
+  "audio_music": "The video features the hip-hop track \"Yes Sir\" by Chief Keef throughout. The music is upbeat and has a confident tone, creating a sense of hype. The lyric \"No, sir\" is timed to coincide with the meme reveal.",
+  "editing_pacing": "A single, quick cut transitions from the opening live-action clip to a static meme image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anticipation",
+    "excitement",
+    "support"
+  ],
+  "cultural_references": [
+    "The video uses the \"starter pack\" meme format.",
+    "The video follows a common TikTok trend where a question is posed in a clip and answered with a meme.",
+    "The song \"Yes Sir\" by Chief Keef is used.",
+    "The song lyrics reference Sylvester Stallone (\"flexin' like Sylvester\")."
+  ],
+  "central_claim": "The presidential debate between Kamala Harris and Donald Trump on September 10th is a must-watch event for supporters of the Harris/Walz ticket.",
+  "intended_effect": "To create excitement for the upcoming debate and encourage supporters to prioritize watching it.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,58 @@
+{
+  "video_id": "7551912975699905847",
+  "visual_action": "Donald Trump sits at a desk in a formal office setting, speaking to someone off-camera. He is wearing a dark suit, white shirt, and blue tie. His hands are clasped on the desk in front of him. The shot is a static, medium close-up.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and speaks for the entire duration of the video."
+    },
+    {
+      "name": "Xi Jinping",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump repeatedly discusses a call he had with 'President Xi' regarding the TikTok deal."
+    },
+    {
+      "name": "TikTok",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text and Trump's speech are centered around a 'TikTok deal'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks Trump a question about whether the deal is fully approved."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POTUS on his call with President Xi regarding TikTok",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump describes a recent, lengthy phone call with Chinese President Xi Jinping, stating that Xi approved a deal for TikTok. Trump mentions that major American investors are involved and that they are looking forward to closing the deal. When questioned if it's fully approved, he says he thinks so but that it still needs to be signed. He adds that he and President Xi discussed trade, Russia/Ukraine, and Gaza, and asserts that both China and young people in the U.S. want TikTok to remain operational.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of spoken dialogue with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static, uncut talking-head shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Reassurance"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump has a strong relationship with President Xi and has successfully negotiated a deal to keep TikTok operational with American investment.",
+  "intended_effect": "To portray President Trump as a strong and effective international dealmaker who can manage complex foreign relations and protect popular American interests.",
+  "uncertainty_flags": []
+}

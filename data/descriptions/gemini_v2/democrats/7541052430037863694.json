@@ -1,0 +1,89 @@
+{
+  "video_id": "7541052430037863694",
+  "visual_action": "The video is a slideshow of two static images. The first image is a screenshot of a tweet from the 'Democrats' account. The tweet says, 'We got the Trump gamer tax before GTA 6' and quotes a tweet from 'FactPost' about Sony raising PS5 prices due to 'Trump's tariffs.' Below the tweets is a split image showing Donald Trump with a pained expression holding a document, next to the PlayStation 5 (PS5) logo. The second image is a screenshot of an article from 'The Verge' stating that Sony is raising PS5 prices and that the reason cited includes 'the tariffs President Trump has placed on imported products,' with this phrase highlighted in yellow.",
+  "cast": [
+    {
+      "name": "Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The main tweet in the first screenshot is from the account 'Democrats' (@TheDemocrats)."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His photo is shown, and the on-screen text refers to the 'Trump gamer tax' and 'Trump's tariffs'."
+    },
+    {
+      "name": "Sony",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states that 'Sony is raising PS5 prices'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A tweet from the account 'FactPost @factpostnews' is quoted in the screenshot."
+    },
+    {
+      "name": "The Verge",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The second slide displays a screenshot of an article from 'The Verge'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "We got the Trump gamer tax before GTA 6",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews · 1h\nSony is raising PS5 prices by $50 in the US tomorrow, citing the “challenging economic environment,” including Trump’s tariffs.",
+      "role": "overlay"
+    },
+    {
+      "text": "The Verge",
+      "role": "overlay"
+    },
+    {
+      "text": "Sony is raising the price of all PlayStation 5 models by $50 in the US. In a blog post announcing the change, Sony cited the “challenging economic environment,” which includes the tariffs President Trump has placed on imported products.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only a musical track plays.",
+  "emojis_present": [],
+  "audio_music": "A serious, dramatic instrumental track plays consistently throughout the video.",
+  "editing_pacing": "The video is a simple slideshow, cutting from one static image to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "frustration",
+    "anger",
+    "mockery"
+  ],
+  "cultural_references": [
+    "PlayStation 5 (PS5)",
+    "Grand Theft Auto 6 (GTA 6)",
+    "Gamers"
+  ],
+  "central_claim": "Donald Trump's tariffs are directly responsible for Sony increasing the price of the PlayStation 5, effectively creating a 'gamer tax'.",
+  "intended_effect": "To cause gamers to feel frustrated with and blame Donald Trump for the price increase of a popular consumer product.",
+  "uncertainty_flags": [
+    "Cannot verify the authenticity or original date of the tweets and article shown in the screenshots."
+  ]
+}

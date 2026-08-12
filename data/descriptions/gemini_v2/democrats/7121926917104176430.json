@@ -1,0 +1,75 @@
+{
+  "video_id": "7121926917104176430",
+  "visual_action": "A woman is shown from the chest up against a plain wall. An overlay of a tweet from Marjorie Taylor Greene appears above her head. The woman looks at it, touches her chin thoughtfully, and speaks. The tweet overlay then switches to one from The Democrats, and the woman reacts with a look of surprise, touching the side of her face.",
+  "cast": [
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An unidentified woman appears on screen throughout the video, speaking and reacting to the on-screen text."
+    },
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet attributed to 'Rep. Marjorie Taylor Greene @RepMTG' is shown on screen."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet attributed to 'The Democrats @TheDemocrats' is shown on screen. The video was also posted by the @democrats account."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The second tweet shown on screen states, '192 House Republicans voted AGAINST funding to address the baby formula shortage.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep. Marjorie Taylor Greene 🇺🇸 @RepMTG",
+      "role": "overlay"
+    },
+    {
+      "text": "When American mothers are crying in grocery stores and can NOT find baby formula, this should be the only thing everyone is working on.",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "192 House Republicans voted AGAINST funding to address the baby formula shortage.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman looks at a tweet from Marjorie Taylor Greene and says, \"Hmm. Funny. Yes. But not funny haha, funny weird.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "A subtle, slightly dramatic background music track plays throughout the video.",
+  "editing_pacing": "The video is a static shot of a person with two sequential text overlays appearing on screen. The pacing is slow and conversational.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Irony",
+    "Indignation",
+    "Disbelief"
+  ],
+  "cultural_references": [
+    "The video uses the popular TikTok trend and audio meme 'funny haha, funny weird' to point out perceived hypocrisy."
+  ],
+  "central_claim": "Marjorie Taylor Greene and House Republicans are hypocritical for claiming to care about the baby formula shortage while voting against funding to address it.",
+  "intended_effect": "To make the viewer see Marjorie Taylor Greene and House Republicans as hypocritical and untrustworthy.",
+  "uncertainty_flags": []
+}

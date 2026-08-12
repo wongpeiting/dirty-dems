@@ -1,0 +1,62 @@
+{
+  "video_id": "7652053344885787917",
+  "visual_action": "The video shows grainy, archival-style footage of two elephants and a handler next to a white trailer. One elephant is on the ground while the handler appears to be using a tool to prod or pull it, seemingly trying to get it to move or stand. A logo for 'ADI' (Animal Defenders International) is visible in the bottom-left corner of the footage.",
+  "cast": [
+    {
+      "name": "Texas Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: 'texas republicans hired this company to bring an elephant to their convention.'"
+    },
+    {
+      "name": "Animal Defenders International",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The ADI logo is visible in the corner of the video footage shown."
+    },
+    {
+      "name": "unnamed company",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states that Texas Republicans 'hired this company'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "texas republicans hired this company to bring an elephant to their convention.",
+      "role": "overlay"
+    },
+    {
+      "text": "they abuse animals.",
+      "role": "overlay"
+    },
+    {
+      "text": "ADI",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the only audio is music.",
+  "emojis_present": [],
+  "audio_music": "A slow, sad, lullaby-like song plays throughout the video, creating a somber and emotionally charged atmosphere that contrasts sharply with the visuals of alleged animal abuse.",
+  "editing_pacing": "The video consists of a single, continuous clip with static text overlays at the top and bottom of the screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "pity",
+    "anger",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The musical style is strongly reminiscent of the song 'Baby Mine' from the Disney movie 'Dumbo', which is famously associated with the separation of a mother and child elephant and evokes strong feelings of sadness and sympathy."
+  ],
+  "central_claim": "Texas Republicans hired a company that abuses animals, making them complicit in animal cruelty.",
+  "intended_effect": "To generate anger and moral outrage towards Texas Republicans by associating them with animal abuse.",
+  "uncertainty_flags": []
+}

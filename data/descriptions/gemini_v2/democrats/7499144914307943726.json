@@ -1,0 +1,55 @@
+{
+  "video_id": "7499144914307943726",
+  "visual_action": "A three-panel video showing an interview between Donald Trump and an unidentified male interviewer in an office setting. The top panel is a medium shot of both men. The middle and bottom panels are successive close-ups of Donald Trump as he appears to be speaking.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of the video, shown in all three panels, including two close-ups. The on-screen text attributes a quote to him."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in the top panel sitting opposite Donald Trump. The on-screen text attributes a question to him."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "People who voted for you are saying they didn't sign up for this.",
+      "role": "overlay"
+    },
+    {
+      "text": "Well, they did sign up for it, actually.",
+      "role": "overlay"
+    },
+    {
+      "text": "This is what I campaigned on.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The on-screen text presents a purported exchange where an interviewer tells Donald Trump his voters \"didn't sign up for this,\" and Trump replies, \"Well, they did sign up for it, actually. This is what I campaigned on.\"",
+  "emojis_present": [],
+  "audio_music": "A dramatic and ominous orchestral piece plays throughout the video. The TikTok sound label identifies it as \"dance of the knights by sergei prokofiev\".",
+  "editing_pacing": "A sequence of three static shots, cutting from a two-shot of the interview to two successive close-ups on Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Ominousness",
+    "Alarm",
+    "Disapproval"
+  ],
+  "cultural_references": [
+    "Dance of the Knights by Sergei Prokofiev"
+  ],
+  "central_claim": "Donald Trump callously admits that his voters knew what they were getting and should not be surprised by his actions.",
+  "intended_effect": "To portray Donald Trump as arrogant and dismissive of his own supporters' potential regret, thereby generating negative sentiment towards him.",
+  "uncertainty_flags": [
+    "The authenticity of the dialogue presented in the on-screen text is unknown; it is presented as a direct quote but is not actually spoken in the audio, and its source is not provided."
+  ]
+}

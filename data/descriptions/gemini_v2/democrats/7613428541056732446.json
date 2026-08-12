@@ -1,0 +1,66 @@
+{
+  "video_id": "7613428541056732446",
+  "visual_action": "A static screenshot of a tweet from an account named 'FactPost'. The tweet announces 'James Talarico wins the Texas Democratic primary for U.S. Senate' and shows a photo of a smiling Talarico next to a Texas flag. The video then slowly zooms in on Talarico's photo.",
+  "cast": [
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name and photo appear in an on-screen tweet screenshot which states, 'James Talarico wins the Texas Democratic primary for U.S. Senate.'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet screenshot is from the account 'FactPost' with the handle '@factpostnews'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions the 'Texas Democratic primary' and the video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost ✔️",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "James Talarico wins the Texas Democratic primary for U.S. Senate.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only background music.",
+  "emojis_present": [
+    "✔️"
+  ],
+  "audio_music": "An upbeat, high-energy reggaeton track ('La Romana' by Bad Bunny) plays throughout the video, creating a celebratory and hype-filled mood.",
+  "editing_pacing": "The video consists of a static shot of a screenshot, followed by a slow zoom-in on one of the photos within the screenshot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Celebration",
+    "Excitement",
+    "Pride"
+  ],
+  "cultural_references": [
+    "Bad Bunny (musician whose song 'La Romana' is used)",
+    "The format mimics a tweet on the social media platform X (formerly Twitter)."
+  ],
+  "central_claim": "James Talarico has won the Texas Democratic primary election for the U.S. Senate.",
+  "intended_effect": "To celebrate Talarico's primary win and generate excitement and support for his campaign.",
+  "uncertainty_flags": [
+    "The authenticity and nature of the 'FactPost' account shown in the tweet screenshot are unclear; it may be a fabricated account for graphic design purposes rather than a real news organization."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "7493579131737722158",
+  "visual_action": "The video first shows a static screenshot of a tweet from an account named 'FactPost'. The tweet includes a photo of Donald Trump and another man, likely Nayib Bukele, inside a formal room. The video then cuts to a graphic with a black background. Overlay text reads \"Home-grown criminals\" with a thinking emoji. Below this is a graphic resembling a news broadcast scoreboard for a court case titled 'PEOPLE OF THE STATE OF NY v DONALD J TRUMP', which lists 34 counts, all marked as 'GUILTY'. The bottom of the graphic summarizes the results as 'GUILTY 34', 'NOT GUILTY 0', and 'NO VERDICT 0'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the tweet screenshot (\"Trump says...\"), shown in the accompanying photo, and is the subject of the court case graphic ('PEOPLE OF THE STATE OF NY v DONALD J TRUMP')."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are visible on the tweet screenshot at the beginning of the video."
+    },
+    {
+      "name": "Nayib Bukele",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man strongly resembling Nayib Bukele, President of El Salvador, is shown in the photo with Donald Trump, which is relevant given the tweet mentions El Salvador."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "caption"
+    },
+    {
+      "text": "Trump says 'home-grown criminals are next' to get shipped to prisons in El Salvador",
+      "role": "caption"
+    },
+    {
+      "text": "\"Home-grown criminals\" 🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "PEOPLE OF THE STATE OF NY v DONALD J TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "GUILTY 34 NOT GUILTY 0 NO VERDICT 0",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio is unrelated to the visual content. A woman's voice says the popular catchphrase \"That's what she said,\" and then seems to get confused or interrupted, asking \"What was that?\" before addressing someone named \"James.\" The audio sounds like it's from a talk show with an audience.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The audio is solely dialogue from what sounds like a talk show, with background audience sounds. There is no music.",
+  "editing_pacing": "The video is a static slideshow, cutting once from a screenshot of a tweet to a static graphic.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a screenshot of a tweet from 'FactPost' that is likely fabricated for satirical purposes. This supposed tweet, claiming Trump wants to ship 'home-grown criminals' to El Salvador, is juxtaposed with a graphic of his 34 felony convictions to create a satirical narrative that Trump himself is the 'home-grown criminal'.",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The audio includes the line \"That's what she said,\" a well-known catchphrase popularized by the character Michael Scott in the American TV show 'The Office'."
+  ],
+  "central_claim": "Donald Trump is a hypocritical 'home-grown criminal' according to his own alleged standards, as evidenced by his 34 felony convictions.",
+  "intended_effect": "To ridicule Donald Trump by using his own (alleged) words against him and highlighting his status as a convicted felon.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet is highly doubtful and appears to be fabricated for the video.",
+    "The specific source of the audio clip is unknown, though it sounds like it comes from a talk show."
+  ]
+}

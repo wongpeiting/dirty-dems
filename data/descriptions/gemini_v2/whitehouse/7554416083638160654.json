@@ -1,0 +1,57 @@
+{
+  "video_id": "7554416083638160654",
+  "visual_action": "From a distance, a man in a dark suit, identified as President Trump by context, walks across a large green lawn toward a helicopter that appears to be Marine One. A young woman joins him, and he puts his arm around her as they walk together. They board the helicopter, which is parked with its doors open. The video concludes with a black-and-white graphic that reads 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A man is shown from behind in a setting (White House lawn, Marine One) associated with the US President. On-screen text reads 'President and Grandpa today', strongly implying the subject is Donald Trump."
+    },
+    {
+      "name": "Unnamed granddaughter of Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A young woman is shown walking with the man identified as the President. The on-screen text 'Grandpa' implies her familial relationship to him."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a logo graphic that reads 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President and Grandpa today ❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The primary audio is the loud, ambient sound of helicopter rotors.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists entirely of the loud, diegetic sound of helicopter blades whirring, which continues throughout the clip until the final graphic appears.",
+  "editing_pacing": "The video consists of a single, continuous long shot, followed by a cut to a short, black-and-white animated logo at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Warmth",
+    "Admiration",
+    "Awe"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is both a powerful president and a caring family man, as shown by this moment with his granddaughter.",
+  "intended_effect": "To humanize Donald Trump and portray him in a positive light by highlighting his dual roles as president and grandfather.",
+  "uncertainty_flags": []
+}

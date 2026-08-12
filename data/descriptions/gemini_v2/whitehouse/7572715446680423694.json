@@ -1,0 +1,45 @@
+{
+  "video_id": "7572715446680423694",
+  "visual_action": "A montage of Donald Trump in various settings: appearing at the top of a brightly lit staircase and raising his fist, in profile, near a presidential SUV, walking with a foreign leader in Middle Eastern attire, walking down a grand hallway with a radial blur effect, and smiling while writing at a desk. The video concludes with black and white images of a helicopter and the White House building.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole subject of the video, appearing in every shot of the montage."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and ends with text identifying 'THE WHITE HOUSE' over images of the building."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video contains no dialogue. The audio is a song with a female vocalist singing lyrics that sound like \"Falling in love again and again.\" The provided transcript \"I don't know what it is\" does not match the audible content.",
+  "emojis_present": [],
+  "audio_music": "The video features a continuous, atmospheric electronic pop track ('Fall in love' by Little Sandra II, per fingerprint) with ethereal female vocals. The music creates an epic and reverential tone for the montage.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between stylized, cinematic shots of Donald Trump. One shot uses a radial blur effect for dramatic emphasis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "admiration",
+    "patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video portrays Donald Trump as a powerful and charismatic presidential figure through a series of cinematic and heroic-style clips.",
+  "intended_effect": "To inspire admiration and pride in Donald Trump's leadership.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('I don't know what it is.') does not match the audible music and lyrics in the video."
+  ]
+}

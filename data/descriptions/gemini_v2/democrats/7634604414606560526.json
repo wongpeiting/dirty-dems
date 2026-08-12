@@ -1,0 +1,86 @@
+{
+  "video_id": "7634604414606560526",
+  "visual_action": "The video shows a static screenshot of a tweet from the 'Democrats' account. The tweet contains a campaign-style poster for a political candidate named Platner. The poster features a photo of a middle-aged white man with a beard against a backdrop of the sea. The video then slowly zooms in on the poster.",
+  "cast": [
+    {
+      "name": "Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The tweet is from the verified 'Democrats' account (@TheDemocrats)."
+    },
+    {
+      "name": "Platner",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face is shown on a campaign poster that reads 'PLATNER for U.S. Senate'."
+    },
+    {
+      "name": "Susan Collins",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet text states the goal is to 'kick out Susan Collins'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Maine, let's send an oyster farmer to the U.S. Senate—and kick out Susan Collins.",
+      "role": "overlay"
+    },
+    {
+      "text": "PLATNER",
+      "role": "overlay"
+    },
+    {
+      "text": "for U.S.",
+      "role": "overlay"
+    },
+    {
+      "text": "Senate",
+      "role": "overlay"
+    },
+    {
+      "text": "OYSTER FARMER",
+      "role": "overlay"
+    },
+    {
+      "text": "MARINE AND U.S. ARMY VETERAN",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRAT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of the song 'Area Codes' by Kaliii, with lyrics including \"Got a white boy on my roster / He be feedin' me pasta and lobster.\"",
+  "emojis_present": [],
+  "audio_music": "A confident, upbeat hip-hop track, identified as 'Area Codes' by Kaliii, plays throughout the video. The song's tone creates a modern, swaggering mood.",
+  "editing_pacing": "The video consists of a slow zoom-in on a static image of a tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Hope",
+    "Confidence",
+    "Aspiration",
+    "Authenticity"
+  ],
+  "cultural_references": [
+    "The song 'Area Codes' by Kaliii."
+  ],
+  "central_claim": "The Democratic Party is promoting Platner, an oyster farmer and veteran, as a strong and authentic candidate to unseat Susan Collins in the Maine Senate race.",
+  "intended_effect": "To generate support for Platner's campaign by presenting him as a cool, modern, and relatable alternative to the incumbent, Susan Collins.",
+  "uncertainty_flags": []
+}

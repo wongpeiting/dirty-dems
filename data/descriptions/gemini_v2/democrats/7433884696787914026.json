@@ -1,0 +1,74 @@
+{
+  "video_id": "7433884696787914026",
+  "visual_action": "A CNN news clip shows Donald Trump and Melania Trump in adjacent voting booths. Donald Trump, in his booth, leans and looks over towards Melania's booth. The camera then zooms in on Donald Trump's face as he looks.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown on screen in a voting booth and is the subject of the overlay text, 'Trump trying to see if Melania voted for him'."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is shown in a voting booth and is named in the overlay text, 'Trump trying to see if Melania voted for him'."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and 'NEWSROOM' text are visible on the news broadcast graphics."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump trying to see if Melania voted for him 💀",
+      "role": "meme_text"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP CASTS VOTE IN PRESIDENTIAL RACE",
+      "role": "chyron"
+    },
+    {
+      "text": "ELECTION NIGHT IN AMERICA",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "overlay"
+    },
+    {
+      "text": "NEWSROOM",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A female vocalist sings lyrics from the song 'Crazy': 'I remember when, I remember, I remember when I lost my mind'.",
+  "emojis_present": [
+    "💀"
+  ],
+  "audio_music": "A soulful female vocal performance of the song 'Crazy' by Gnarls Barkley plays throughout the clip. The lyrics 'I remember when I lost my mind' are timed to coincide with the shot of Trump, creating a mocking effect.",
+  "editing_pacing": "The video consists of a single news clip that zooms in on Donald Trump's face to emphasize his action of looking over at Melania Trump's voting booth.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "The song 'Crazy' by Gnarls Barkley."
+  ],
+  "central_claim": "Donald Trump is so untrusting and insecure that he checks to see if his own wife, Melania, voted for him.",
+  "intended_effect": "To make the viewer laugh at and mock Donald Trump, portraying him in a negative and foolish light.",
+  "uncertainty_flags": []
+}

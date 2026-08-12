@@ -1,0 +1,149 @@
+{
+  "video_id": "7485530735089077550",
+  "visual_action": "A clip of Donald Trump speaking at a cabinet meeting is shown. The footage is framed as a Fox News broadcast, with a chyron at the bottom. The video is presented within a black frame, with a title overlay at the top and sequential captions appearing at the bottom that correspond with Trump's speech.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown speaking on screen for the entire video."
+    },
+    {
+      "name": "Usha Vance",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the top reads, \"Trump calling Usha anything but her name.\" Trump speaks about \"the wife of our... great vice president.\""
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and chyron are visible on the footage used in the clip."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump refers to \"our great vice president.\" The on-screen text identifies the woman being discussed as \"Usha,\" who is J.D. Vance's wife, implying Vance is the Vice President."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump calling Usha anything but her name 😂👍",
+      "role": "caption"
+    },
+    {
+      "text": "MOMENTS AGO",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP HOLDS CABINET MEETING AT THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "WERE INVITED THEM",
+      "role": "overlay"
+    },
+    {
+      "text": "OVER THERE",
+      "role": "overlay"
+    },
+    {
+      "text": "AND I THOUGHT",
+      "role": "overlay"
+    },
+    {
+      "text": "A GREAT-",
+      "role": "overlay"
+    },
+    {
+      "text": "RESPECT FOR UH",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WIFE OF",
+      "role": "overlay"
+    },
+    {
+      "text": "OUR FIRST UH",
+      "role": "overlay"
+    },
+    {
+      "text": "OF OUR GREAT",
+      "role": "overlay"
+    },
+    {
+      "text": "VICE PRESIDENT.",
+      "role": "overlay"
+    },
+    {
+      "text": "I THINK SHE'S",
+      "role": "overlay"
+    },
+    {
+      "text": "DOING A-",
+      "role": "overlay"
+    },
+    {
+      "text": "WOMAN.",
+      "role": "overlay"
+    },
+    {
+      "text": "SHE'S A VERY",
+      "role": "overlay"
+    },
+    {
+      "text": "NICE WOMAN",
+      "role": "overlay"
+    },
+    {
+      "text": "AND SHE LOVES",
+      "role": "overlay"
+    },
+    {
+      "text": "THE CONCEPT",
+      "role": "overlay"
+    },
+    {
+      "text": "OF GREENLAND.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump speaks about a woman he refers to only as \"the wife of our... great vice president.\" He praises her, saying, \"I think she's... a brilliant woman... a very nice woman, and she loves the concept of Greenland.\" The delivery is halting and appears rambling.",
+  "emojis_present": [
+    "😂",
+    "👍"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's unedited speaking voice. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static shot of Trump speaking. The editing consists of pop-up text overlays that appear sequentially to caption his words.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "derision"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is mentally declining or incompetent, as shown by his rambling speech and inability to name Usha Vance, the wife of his Vice President.",
+  "intended_effect": "To persuade viewers that Donald Trump is unfit for office by portraying him as confused and forgetful.",
+  "uncertainty_flags": []
+}

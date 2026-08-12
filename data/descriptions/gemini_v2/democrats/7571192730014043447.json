@@ -1,0 +1,69 @@
+{
+  "video_id": "7571192730014043447",
+  "visual_action": "A screenshot of a tweet from the account 'FactPost' is centered on screen. The tweet announces that the Supreme Court rejected a challenge to Obergefell v. Hodges, the case legalizing same-sex marriage. The tweet includes a photo of a woman with glasses (Kim Davis) and a photo of a rainbow Pride flag. The entire video's background is a large, waving rainbow Pride flag. Animated fireworks explode around the tweet, and a digitally added eagle flies across the top of the screen, dropping a pair of pants.",
+  "cast": [
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet reads, 'The Supreme Court has rejected a challenge to Obergefell v. Hodges...'"
+    },
+    {
+      "name": "Kim Davis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of Kim Davis, the Kentucky clerk who refused to issue same-sex marriage licenses, is featured prominently in the on-screen tweet about the challenge to same-sex marriage being rejected."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video was posted by the official @democrats account on TikTok."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays a screenshot of a tweet from the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Supreme Court has rejected a challenge to Obergefell v. Hodges, the landmark decision which legalized same-sex marriage nationwide.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An aggressive male voice says the phrase \"Fuck off.\"",
+  "emojis_present": [
+    "🦅"
+  ],
+  "audio_music": "The video opens with the aggressively spoken phrase \"Fuck off,\" immediately followed by a high-energy, thumping electronic dance music track ('Fuck Off' by Quba). The overall effect is confrontational, mocking, and celebratory.",
+  "editing_pacing": "The video consists of a static central image (a tweet screenshot) over a moving background, with animated overlays like fireworks and a flying eagle appearing for dynamic effect.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Animated fireworks, an eagle, and a pair of pants are superimposed over the image. The eagle flies across the screen and appears to drop the pair of pants, a surreal visual added for satirical or mocking effect.",
+  "emotions_signaled": [
+    "Triumph",
+    "Celebration",
+    "Mockery",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Supreme Court's rejection of a challenge to same-sex marriage is a victory for freedom and a definitive defeat for opponents like Kim Davis.",
+  "intended_effect": "To make the viewer feel celebratory about the legal protection of same-sex marriage and to mock those who oppose it.",
+  "uncertainty_flags": [
+    "The woman in the photo is strongly implied to be Kim Davis based on the context of the Obergefell v. Hodges case, but she is not explicitly named in the video.",
+    "The specific meaning or reference of the eagle dropping a pair of pants is unclear, though it appears to be a surreal, mocking visual gag."
+  ]
+}

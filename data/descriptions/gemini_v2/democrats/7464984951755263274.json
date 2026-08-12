@@ -1,0 +1,47 @@
+{
+  "video_id": "7464984951755263274",
+  "visual_action": "A static image of Donald Trump wearing a white shirt and a hat while driving a golf cart. The setting appears to be a golf course or resort, with other carts visible in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually depicted in the photograph driving a golf cart and is named in the on-screen text: 'Trump just ordered a federal spending freeze...'"
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the on-screen text: 'House Republicans are currently at a beach retreat.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump just ordered a federal spending freeze that could impact Medicaid, school breakfast, child care grants, and more. He just got back from a long weekend golfing at his private resort. House Republicans are currently at a beach retreat. Americans will be hurt by this, and they don't care.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only background music.",
+  "emojis_present": [],
+  "audio_music": "A somber and dramatic instrumental track, identified as music from the anime 'Death Note', plays throughout the video, creating a serious and critical tone.",
+  "editing_pacing": "The video consists of a single static image with text overlaid.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "concern",
+    "injustice"
+  ],
+  "cultural_references": [
+    "The background music is from the anime series 'Death Note'."
+  ],
+  "central_claim": "Donald Trump and House Republicans are harming Americans with a spending freeze while enjoying leisure activities, demonstrating that they do not care about the public's welfare.",
+  "intended_effect": "To generate anger and disapproval towards Donald Trump and Republicans by portraying them as callous and out of touch.",
+  "uncertainty_flags": [
+    "The provided authoritative face-ID did not detect Donald Trump, although he is clearly pictured."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_id": "7623450167315844365",
+  "visual_action": "The video displays a screenshot of a tweet from an account named \"FactPost\". The tweet claims that photos show Kristi Noem's husband wearing fake breasts and pink shorts. Below the text are four photos: one of a man on a video call, and three close-ups of a torso wearing large, artificial breasts and tight shorts, watermarked with the \"Daily Mail\" logo. The video then zooms into a larger four-panel grid of similar photos showing the man in different shirts over the fake breasts. The video ends with a still photo of Kristi Noem looking wide-eyed and surprised.",
+  "cast": [
+    {
+      "name": "Bryon Noem",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Photos of his face are shown, and on-screen text identifies him as 'Kristi Noem's husband'."
+    },
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her face is shown in a static image at the end of the video, and the on-screen text of the tweet refers to her by name."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle '@factpostnews' of the Twitter account are visible in the screenshot."
+    },
+    {
+      "name": "Daily Mail",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'Daily Mail' logo is watermarked on the photos presented in the tweet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Unearthed photos reveal Kristi Noem's husband wearing large fake breasts and skin-tight pink shorts to chat with online fetish models.",
+      "role": "overlay"
+    },
+    {
+      "text": "Daily Mail",
+      "role": "overlay"
+    },
+    {
+      "text": "Daily Mail+",
+      "role": "overlay"
+    },
+    {
+      "text": "8:08 PM",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The provided transcript is empty. The audio consists of a female voice reacting with surprise to the images, saying, 'Big boobs. What?' and then, 'Um, child. Anyway, so...'",
+  "emojis_present": [],
+  "audio_music": "The dominant audio is a female voiceover reacting to the content. Faint background music, fingerprinted as 'Recopilacion' by Helado2260, is audible underneath the speaking.",
+  "editing_pacing": "The video is a slow-paced slideshow, starting with a static image of a tweet, zooming in on the photos within the tweet, and ending with a hard cut to a final static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "shock",
+    "ridicule"
+  ],
+  "cultural_references": [],
+  "central_claim": "Photos reveal Kristi Noem's husband, Bryon Noem, wearing fake breasts and women's clothing to chat with online fetish models.",
+  "intended_effect": "To damage Kristi Noem's political reputation by associating her with her husband's allegedly bizarre and scandalous behavior, thereby generating ridicule and scorn.",
+  "uncertainty_flags": [
+    "The authenticity of the photos shown in the tweet cannot be verified.",
+    "The nature and reliability of the 'FactPost' account are unknown.",
+    "The provided Whisper transcript is empty, but dialogue is clearly audible in the video."
+  ]
+}

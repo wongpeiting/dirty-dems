@@ -1,0 +1,63 @@
+{
+  "video_id": "7639478036504513805",
+  "visual_action": "A montage of Donald Trump speaking at a podium in a large, dimly lit venue. The shots are cinematic, showing him from various angles including a silhouette from behind, a side profile, and a frontal view as he gestures while speaking.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole person shown in the video, featured speaking at a podium."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text lists 'The border under sleepy Joe' as a 'horror story'."
+    },
+    {
+      "name": "Ilhan Omar",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text lists 'Ilhan Omar and her brother' as a 'horror story'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text lists 'A Democrat president' as a 'horror story'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TOP 5 HORROR STORIES:\n\nThe border under sleepy Joe\nIlhan Omar and her brother\nThinking there's more than two genders\nIllegals voting in US elections\nA Democrat president",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of an instrumental music track. The provided transcript is inaccurate.",
+  "emojis_present": [],
+  "audio_music": "A dramatic and somewhat ominous instrumental track plays throughout the video, creating a tense and serious atmosphere that aligns with the 'horror stories' theme.",
+  "editing_pacing": "The video uses slow cuts between different cinematic, slightly slow-motion shots of Donald Trump. The pacing is deliberate and dramatic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Alarm",
+    "Concern"
+  ],
+  "cultural_references": [
+    "The 'Top 5' listicle format, which is common in online content and on platforms like YouTube and TikTok."
+  ],
+  "central_claim": "The video presents five key conservative grievances related to the Democratic party, Joe Biden, and Ilhan Omar as 'horror stories' afflicting the nation.",
+  "intended_effect": "To evoke fear and alarm about the listed political issues and figures, and to frame Donald Trump as the serious leader addressing these 'horrors'.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is completely inaccurate and does not match the video's audio content, which is only music."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "video_id": "7610627220981288206",
+  "visual_action": "The video shows a C-SPAN broadcast from within a legislative chamber during a State of the Union address. A crowd of politicians are seated and standing. Representative Al Green walks through the aisle, holding up a white sign, and exits. The crowd is shown applauding and, in a later shot, chanting.",
+  "cast": [
+    {
+      "name": "Al Green",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Rep. Al Green is shown walking out of the chamber and is named in the on-screen text overlay: \"Rep. Al Green leaves State Of The Union...\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The voiceover is Donald Trump speaking during a State of the Union address. He says, \"Today, our border is secure.\""
+    },
+    {
+      "name": "C-SPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN logo and chyron are visible on the broadcast footage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep. Al Green leaves State Of The Union holding a sign reading “BLACK PEOPLE AREN’T APES”",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "CAPITOL HILL",
+      "role": "chyron"
+    },
+    {
+      "text": "STATE of the UNION",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A speaker, identified by voice as Donald Trump, says, \"And we will never go back to where we were just a very short time ago. We're not going back. Today, our border is secure.\" The crowd then begins chanting \"USA! USA!\" repeatedly.",
+  "emojis_present": [],
+  "audio_music": "The audio is diegetic sound from the broadcast, consisting of a political speech, applause, and loud crowd chanting. There is no musical score.",
+  "editing_pacing": "The video consists of a few simple cuts from a single news broadcast, showing different angles of the event. The pacing is that of a typical news clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "indignation",
+    "solidarity",
+    "patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Rep. Al Green protested against racist undertones at the State of the Union address by walking out while holding a sign reading \"BLACK PEOPLE AREN'T APES\".",
+  "intended_effect": "To praise Rep. Al Green's act of protest and to signal opposition to the speaker's rhetoric.",
+  "uncertainty_flags": [
+    "The text on the sign held by Al Green is not legible in the video; its content ('BLACK PEOPLE AREN’T APES') is asserted by the on-screen text overlay added to the clip."
+  ]
+}

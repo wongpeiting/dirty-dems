@@ -1,0 +1,47 @@
+{
+  "video_id": "7504345413621779755",
+  "visual_action": "A static, medium shot of Donald Trump standing in what appears to be a building lobby or hallway. He is wearing a white polo shirt with a \"TRUMP\" logo and has a slightly blank or surprised expression on his face.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is visually identifiable as the subject of the entire video. He is wearing a shirt with 'TRUMP' printed on it."
+    },
+    {
+      "name": "Qatar",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions '...a $400M luxury jet bribe from Qatar'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "me when the american people walk in and catch me accepting a $400M luxury jet bribe from Qatar",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of the distinctive wordless vocal harmonies from the beginning of Ariana Grande's song 'No Tears Left To Cry'. The provided transcript is inaccurate.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of the dramatic, harmonizing a cappella introduction to the Ariana Grande song 'No Tears Left To Cry'. This creates a humorous and ironic contrast with the on-screen text.",
+  "editing_pacing": "The video is a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The audio is from the song 'No Tears Left to Cry' by pop singer Ariana Grande.",
+    "The format uses the common 'me when...' meme structure to frame a reaction video."
+  ],
+  "central_claim": "The post satirically accuses Donald Trump of being corrupt and accepting a $400 million bribe from Qatar.",
+  "intended_effect": "To mock Donald Trump and associate him with large-scale corruption in a humorous, shareable format.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is incorrect; it attempts to transcribe wordless vocal harmonies as spoken words."
+  ]
+}

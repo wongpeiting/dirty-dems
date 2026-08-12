@@ -1,0 +1,118 @@
+{
+  "video_id": "7420521857109019950",
+  "visual_action": "The video is a slideshow of still images and screenshots with text overlays. It begins with text claiming Donald Trump knows \"nothing\" about Project 2025, followed by a screenshot of a purported tweet from Trump making that claim. It then presents a series of counter-points: a photo of Trump with John McEntee, a screenshot of a YouTube video featuring Trump's press secretary in a Project 2025 ad, a screenshot of a web ad for Project 2025 from a Trump-affiliated Super PAC, and a photo of Trump with the president of the Heritage Foundation. The video concludes with a photo of Trump on a golf course with the text \"He knows.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in the opening text overlay, shown in a purported tweet screenshot under the handle @realDonaldTrump, and appears in multiple photographs throughout the video."
+    },
+    {
+      "name": "John McEntee",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An overlay text identifies him by name and as Trump's 'top aide and former bag boy,' stating he 'helped write Project 2025.' He is shown in a photo with Trump."
+    },
+    {
+      "name": "Donald Trump's press secretary",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A woman is shown in a YouTube video screenshot, identified in an overlay as 'His press secretary' who 'starred in Project 2025 recruitment ads.'"
+    },
+    {
+      "name": "MAKE AMERICA GREAT AGAIN INC.",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Identified in a screenshot of a web ad as the Super PAC that paid for an ad promoting Project 2025."
+    },
+    {
+      "name": "The Heritage Foundation",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named as the YouTube channel that posted a Project 2025 ad and identified in an overlay as 'the organization behind Project 2025.'"
+    },
+    {
+      "name": "The president of the Heritage Foundation",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A man is shown in a photo with Donald Trump and is identified by an overlay text as 'The president of the Heritage Foundation.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald Trump claims he knows “nothing” about Project 2025, but...",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump\n@realDonaldTrump\nI know nothing about Project 2025. have no idea who is behind it.",
+      "role": "other"
+    },
+    {
+      "text": "His top aide and former bag boy, John McEntee, helped write Project 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "His press secretary starred in Project 2025 recruitment ads",
+      "role": "overlay"
+    },
+    {
+      "text": "Project 2025 Presidential Administration Academy",
+      "role": "other"
+    },
+    {
+      "text": "The Heritage Foundation",
+      "role": "other"
+    },
+    {
+      "text": "His super PAC ran ads promoting Project 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "Sponsored\nPaid for by MAKE AMERICA GREAT AGAIN INC. Super PAC\ntrumpproject2025.com\nThe Truth About Project 2025 - What Is Project 2025\nMAKE AMERICA GREAT AGAIN INC.\nShown 30K - 35K times\nFrom Jun 28, 2024 (1 day)\nSpent $50K - $60K",
+      "role": "other"
+    },
+    {
+      "text": "The president of the Heritage Foundation (the organization behind Project 2025), has said their goal is “institutionalizing Trumpism.”",
+      "role": "overlay"
+    },
+    {
+      "text": "He knows.",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of a music track.",
+  "emojis_present": [],
+  "audio_music": "A continuous hip-hop track, identified as 'She Knows' by J. Cole, plays throughout the video. The tone is serious and slightly ominous, creating a mood consistent with an exposé or revelation.",
+  "editing_pacing": "The video is a slideshow of still images and screenshots. Each image is displayed for several seconds with a simple cut to the next, creating a steady, deliberate pace.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "distrust"
+  ],
+  "cultural_references": [
+    "She Knows (song by J. Cole)"
+  ],
+  "central_claim": "Donald Trump is lying about his ignorance of Project 2025, as evidenced by the deep involvement of his closest aides and affiliated political organizations.",
+  "intended_effect": "To convince the viewer that Donald Trump is dishonest and is closely tied to Project 2025, despite his claims to the contrary.",
+  "uncertainty_flags": [
+    "The authenticity of the tweet screenshot attributed to 'Donald J. Trump @realDonaldTrump' cannot be verified from the video alone."
+  ]
+}

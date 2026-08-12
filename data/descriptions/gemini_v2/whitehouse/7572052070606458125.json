@@ -1,0 +1,81 @@
+{
+  "video_id": "7572052070606458125",
+  "visual_action": "Donald Trump is shown sitting at a large wooden desk, likely the Resolute Desk in the Oval Office, surrounded by a group of about a dozen people (mostly men). He speaks for a few seconds, then signs a document inside a blue folder. As he signs and after he finishes, the people behind him applaud and cheer. He then holds up the signed document. The video ends with two black-and-white images: first a helicopter, then the White House, with text overlaying it.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown speaking and signing a document. On-screen text reads 'President Trump Reopens The Gov'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump mentions the 'short-term disaster with the Democrats' and the on-screen text refers to the 'DEMOCRAT SHUTDOWN'."
+    },
+    {
+      "name": "Doug Burgum",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible standing behind Donald Trump during the signing."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible standing behind Donald Trump during the signing."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible standing behind Donald Trump during the signing."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A closing card reads 'THE WHITE HOUSE' and the video is posted from the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Reopens The Gov & Ends the DEMOCRAT SHUTDOWN",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that the country has \"never been in better shape\" and refers to a \"short-term disaster with the Democrats\" which he claims they initiated because \"they thought it would be good politically.\" He then expresses that it is an honor to sign a bill to \"get our country working again.\" The speech is followed by applause and cheers from the onlookers.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of diegetic sound from the room: Donald Trump's speech, followed by the sounds of sustained applause and some whoops of celebration from the crowd around him.",
+  "editing_pacing": "The video is a single, static shot of the bill signing, which then cuts to a black-and-white credit slide at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Pride",
+    "Blame"
+  ],
+  "cultural_references": [
+    "WE ARE SO BACK"
+  ],
+  "central_claim": "President Trump has taken decisive action to reopen the government and end a shutdown that was caused by the Democratic Party for political reasons.",
+  "intended_effect": "To portray Donald Trump as an effective leader who resolves crises, while casting blame on the Democratic Party for causing the government shutdown.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,50 @@
+{
+  "video_id": "7610636331890281742",
+  "visual_action": "Donald Trump is shown speaking at a podium in a formal setting, likely a congressional chamber, with an American flag in the background. He delivers a speech, looks around at the audience, and reacts to their applause.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video and is visually present throughout."
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump calls her out by name, saying \"Did Nancy Pelosi stand up?\", and she is also named in the on-screen text."
+    },
+    {
+      "name": "United States Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump speaks about \"members of Congress\" and the need for an act to prevent them from insider trading."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“Did Nancy Pelosi stand up? Doubt it.”",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump calls for legislation to prevent members of Congress from profiting from insider trading. After receiving applause, he expresses surprise and then singles out Nancy Pelosi, asking, \"Did Nancy Pelosi stand up?\" and commenting, \"Doubt it.\" He urges the passage of the \"Stop Insider Trading Act without delay.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of diegetic sound from the event: Donald Trump's speech and the sounds of audience applause and reactions.",
+  "editing_pacing": "The video is a single, continuous clip of a speech with no edits or cuts, presented in a static talking-head style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "righteousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is taking a stand against insider trading by members of Congress, a policy that his political opponent Nancy Pelosi would not genuinely support.",
+  "intended_effect": "To portray Donald Trump as a populist reformer fighting against a corrupt political establishment and to cast suspicion on Nancy Pelosi's integrity.",
+  "uncertainty_flags": []
+}

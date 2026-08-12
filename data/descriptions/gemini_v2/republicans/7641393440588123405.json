@@ -1,0 +1,73 @@
+{
+  "video_id": "7641393440588123405",
+  "visual_action": "A drag queen in an elaborate pink outfit, with a pink wig, a pig-like prosthetic nose and ears, is singing into a microphone on a small stage. Behind her are blue and orange balloons and campaign signs for \"Scott WIENER DEMOCRAT FOR CONGRESS\". She holds a piece of paper, presumably with lyrics. At the end of the performance, the camera shows the audience applauding, including a brief shot of a man with dark hair and glasses, Scott Wiener, clapping and smiling.",
+  "cast": [
+    {
+      "name": "Scott Wiener",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen caption \"Ca Democrat Scott Wiener campaign event\", on campaign signs in the background, is the subject of the song being sung, and is briefly shown in the audience."
+    },
+    {
+      "name": "Unnamed drag queen",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The person is visually central to the video, performing a song on stage."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies Scott Wiener as a \"Ca Democrat\" and a campaign sign says \"DEMOCRAT FOR CONGRESS\"."
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The performer sings the line, \"even AOC doesn't like you.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Ca Democrat Scott Wiener campaign event 😳😳",
+      "role": "overlay"
+    },
+    {
+      "text": "Scott WIENER DEMOCRAT FOR CONGRESS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A drag queen sings a parody of \"Diamonds Are a Girl's Best Friend\" in support of Scott Wiener. The rewritten lyrics declare, \"Scott Wiener is a girl's best friend\" and praise him for fighting for various causes like climate and healthcare. The song also takes a shot at an opponent, described as a \"tech bro,\" by singing, \"don't be fooled, even AOC doesn't like you.\" The performance ends with the singer encouraging the crowd to \"Give it up for Scott Wiener!\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "A live performance of a parody song sung by a drag queen, accompanied by a piano playing in a theatrical, show-tune style. The audio includes the crowd cheering and applauding at the end.",
+  "editing_pacing": "The video is filmed in a single, continuous, handheld shot. It focuses primarily on the performer on stage, then briefly pans at the end to show the audience and Scott Wiener.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disgust",
+    "mockery",
+    "shock"
+  ],
+  "cultural_references": [
+    "The performance is a parody of the song 'Diamonds Are a Girl's Best Friend'.",
+    "The song was famously performed by Marilyn Monroe in the 1953 film 'Gentlemen Prefer Blondes'.",
+    "The performance is in the style of a drag show.",
+    "The performer's pig-like costume and pink outfit may be a reference to Miss Piggy from The Muppets."
+  ],
+  "central_claim": "California Democrat Scott Wiener's campaign features strange and inappropriate drag performances, suggesting he and his party are out of touch with mainstream values.",
+  "intended_effect": "To generate shock, disgust, and ridicule towards Scott Wiener and the Democratic Party by presenting this performance as representative of their campaign.",
+  "uncertainty_flags": [
+    "The identity of the drag performer is unknown.",
+    "The \"tech bro\" mentioned in the lyrics is not explicitly named."
+  ]
+}

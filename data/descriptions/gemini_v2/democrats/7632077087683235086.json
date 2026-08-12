@@ -1,0 +1,65 @@
+{
+  "video_id": "7632077087683235086",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named 'FactPost'. The tweet has a split-image: on the left is a portrait of Donald Trump, and on the right is a photo of a bison in a field with mountains in the background. After a few seconds, it cuts to a different scenic photo of mountains and a field of purple flowers, with a broken heart emoji superimposed in the center of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name and photo appear in the on-screen tweet which states, \"Trump's 2026 budget proposal cuts $736 million from the National Parks Service.\""
+    },
+    {
+      "name": "National Parks Service",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet states that Trump's budget proposal cuts funding from the \"National Parks Service.\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet screenshot is from the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's 2026 budget proposal cuts $736 million from the National Parks Service.",
+      "role": "overlay"
+    },
+    {
+      "text": "💔",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of music.",
+  "emojis_present": [
+    "💔"
+  ],
+  "audio_music": "A slow, melancholic instrumental track featuring a harmonica plays throughout the video, creating a sad and wistful mood. The track is identified as 'Cowpoke' by Isaiah Sheffield.",
+  "editing_pacing": "The editing is a simple slideshow, consisting of a static shot of a tweet screenshot followed by a single cut to another static scenic image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A broken heart emoji is superimposed over a scenic photo of a mountain landscape to visually communicate sadness and loss regarding the national parks.",
+  "emotions_signaled": [
+    "sadness",
+    "concern",
+    "disappointment"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's 2026 budget proposal will harm America's national parks by cutting $736 million from their funding.",
+  "intended_effect": "To evoke sadness and concern about the future of national parks and to generate opposition to Donald Trump's proposed budget.",
+  "uncertainty_flags": []
+}

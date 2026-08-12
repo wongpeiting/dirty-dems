@@ -1,0 +1,83 @@
+{
+  "video_id": "7545589775634369847",
+  "visual_action": "Donald Trump, standing at a podium in what appears to be a White House press room, responds to a question from an off-camera reporter. Another man stands behind Trump, occasionally smiling. The video concludes with a black-and-white title card showing the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker on-screen, identified by his face, voice, and the on-screen text 'President Trump'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-camera voice asks Trump about a social media trend suggesting he was dead."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions him for contrast, saying 'Biden wouldn't do them for months. You wouldn't see him.'"
+    },
+    {
+      "name": "unnamed man",
+      "kind": "unknown",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is shown standing behind Donald Trump, reacting to the exchange with a smile."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Reacts to Fake News",
+      "role": "overlay"
+    },
+    {
+      "text": "President Trump something completely different,",
+      "role": "caption"
+    },
+    {
+      "text": "How did you find out over the weekend that you were dead?",
+      "role": "caption"
+    },
+    {
+      "text": "Really? I didn't see that.",
+      "role": "caption"
+    },
+    {
+      "text": "Biden wouldn't do them for months.",
+      "role": "caption"
+    },
+    {
+      "text": "Well, it's fake news.",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "An off-camera reporter asks Donald Trump to react to a viral social media trend over the weekend that claimed he was dead. Trump expresses surprise and then dismisses the rumor, explaining that media speculation arose simply because he took two days off after a week of numerous news conferences. He contrasts this with Joe Biden, claiming Biden could be absent for months without similar scrutiny. Trump concludes by calling the story \"fake news\" and an example of why the media has low credibility.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the press conference with ambient room tone. There is no music or added sound effects.",
+  "editing_pacing": "The video is presented as a single, static shot of a talking head, with text overlays and captions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Amusement",
+    "Mockery",
+    "Dismissiveness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The media creates 'fake news' and absurd rumors about Donald Trump's health while ignoring what he frames as longer absences from his political opponents like Joe Biden.",
+  "intended_effect": "To portray the media as untrustworthy and biased against Trump, while showing Trump as active, healthy, and humorously dismissive of his critics.",
+  "uncertainty_flags": []
+}

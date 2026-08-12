@@ -1,0 +1,64 @@
+{
+  "video_id": "7636082547277024526",
+  "visual_action": "A static screenshot of a tweet from an account named 'FactPost' is shown. The tweet displays a photo of Donald Trump looking up next to a photo of a large forest fire. The video then cuts to a shot of two firefighters walking down a path through a smoky forest with small fires burning on the ground.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of him is shown in the on-screen tweet, and the text mentions the 'Trump administration'."
+    },
+    {
+      "name": "The Forest Service",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet text states, 'The Forest Service has fallen behind on critical wildfire prevention efforts...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screenshot shows a tweet from the account 'FactPost @factpostnews'."
+    },
+    {
+      "name": "unnamed firefighters",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Two firefighters are shown in gear walking through a smoky, burnt area."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost\n@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Forest Service has fallen behind on critical wildfire prevention efforts due to major funding cuts from Trump administration.\n\n1.5 million fewer acres of high-risk forest have been prepared for ahead of this fire season compared to 2024.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is accompanied only by music.",
+  "emojis_present": [],
+  "audio_music": "A slow and somber instrumental melody, possibly from a piano or synthesizer, plays throughout the video, creating a serious and concerning tone.",
+  "editing_pacing": "The video consists of two static shots presented as a slideshow with a simple cut between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents its claim via a graphic designed to look like a screenshot of a tweet from a news organization called 'FactPost'. This is likely a staged document created for the video to lend an air of third-party authority to its political attack.",
+  "emotions_signaled": [
+    "concern",
+    "blame"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration's funding cuts to the Forest Service have resulted in a failure to prepare for wildfire season, increasing environmental danger.",
+  "intended_effect": "To instill concern about wildfire risk and to attribute blame for this risk to Donald Trump's past administration.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' Twitter account shown in the screenshot is unverified; it may be a fabricated entity designed to look like a news source."
+  ]
+}

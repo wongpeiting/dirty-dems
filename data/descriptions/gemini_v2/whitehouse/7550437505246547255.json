@@ -1,0 +1,63 @@
+{
+  "video_id": "7550437505246547255",
+  "visual_action": "In what appears to be the Oval Office, Donald Trump sits at the Resolute Desk and signs a document. A group of men and women stand behind him, watching. After signing, he holds up the document, and the group applauds. The video concludes with a black-and-white montage showing the exterior of the White House and a helicopter, with text identifying it as 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure shown signing a document at the Resolute Desk. On-screen text identifies him as 'President Trump'."
+    },
+    {
+      "name": "Marsha Blackburn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, she is standing in the group behind Donald Trump."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, he is standing in the group behind Donald Trump."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a closing card featuring exterior shots and the text 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump signs A memorandum to Restore law & order in Memphis",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump says the word \"Okay\" after signing the document, right before the group begins to applaud.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of natural room sounds, including the scratching of a pen on paper. After a single spoken word, there is the sound of applause. The final montage segment is silent.",
+  "editing_pacing": "The video begins with a single, static shot of the signing ceremony, then cuts to a short, formal black-and-white montage that serves as a closing credit.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Authority",
+    "Seriousness",
+    "Accomplishment"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is taking direct action to combat crime and restore order in Memphis.",
+  "intended_effect": "To portray President Trump as a decisive leader on law and order issues.",
+  "uncertainty_flags": []
+}

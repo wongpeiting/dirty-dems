@@ -1,0 +1,71 @@
+{
+  "video_id": "7574148941713853710",
+  "visual_action": "A woman who appears to be Nicki Minaj speaks at a podium in front of an American flag and a United Nations flag. The video concludes with a black-and-white montage showing the exterior of the White House and a helicopter, followed by a title card for \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Nicki Minaj",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video and is identified by the on-screen text, \"Nicki Minaj Thanks President Trump...\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is thanked by name in the speech: \"I would like to thank President Trump...\""
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A logo for \"THE WHITE HOUSE\" appears on a title card at the end of the video."
+    },
+    {
+      "name": "United Nations",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The United Nations flag is visible in the background behind the speaker."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Nicki Minaj Thanks President Trump for Defending Christians in Nigeria",
+      "role": "overlay"
+    },
+    {
+      "text": "TO THANK PRESIDENT TRUMP FOR PRIORITIZING THIS ISSUE LEADERSHIP ON THE GLOBAL STAGE AND CALLING FOR URGENT ACTION TO DEFEND CHRISTIANS IN NIGERIA, TO COMBAT EXTREMISM, AND TO BRING A STOP TO VIOLENCE AGAINST THOSE WHO SIMPLY WANT TO EXERCISE THEIR NATURAL RIGHT TO FREEDOM OF RELIGION OR BELIEF.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A speaker, presented as Nicki Minaj, thanks President Trump for his leadership on the global stage in defending Christians in Nigeria. She credits him with calling for urgent action to combat extremism and stop violence against those exercising their freedom of religion.",
+  "emojis_present": [],
+  "audio_music": "Clear, unadorned audio of a person speaking at a podium. No music or sound effects are present.",
+  "editing_pacing": "The video is a single, static shot of the speaker, with text overlays that appear in time with her words. It cuts at the end to a brief black-and-white montage.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video appears to be a deepfake, using AI to generate footage of the celebrity Nicki Minaj giving a speech she likely never gave. Her facial movements, particularly around the mouth, appear slightly unnatural and do not perfectly sync with the audio, suggesting digital creation to present a celebrity endorsement of a political figure.",
+  "emotions_signaled": [
+    "Admiration",
+    "Seriousness",
+    "Gratitude"
+  ],
+  "cultural_references": [
+    "Nicki Minaj"
+  ],
+  "central_claim": "President Trump's leadership is actively protecting Christians from violence and extremism in Nigeria.",
+  "intended_effect": "To persuade the viewer that Donald Trump is a strong global leader on religious freedom, using a faked celebrity endorsement to enhance his credibility and appeal.",
+  "uncertainty_flags": [
+    "The video has strong visual indicators of being an AI-generated deepfake, but this cannot be confirmed with 100% certainty from the video alone."
+  ]
+}

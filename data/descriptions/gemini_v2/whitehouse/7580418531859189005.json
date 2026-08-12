@@ -1,0 +1,107 @@
+{
+  "video_id": "7580418531859189005",
+  "visual_action": "A montage of clips from a formal event. It begins with shots of the White House decorated for Christmas and a presidential vehicle. The main action takes place at an event with a blue backdrop reading \"DELIVERING PEACE,\" featuring the Democratic Republic of Congo and Rwanda. Donald Trump is shown walking on stage, signing documents with two other leaders, speaking at a podium with the Presidential Seal, shaking hands, and standing with the leaders. An audience is shown applauding. A shot shows a building with \"DONALD J. TRUMP\" carved on it. The video ends with a black and white \"THE WHITE HOUSE\" logo card.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown speaking, signing an agreement, and is the subject of the caption 'THE PEACE PRESIDENT'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and ends with 'THE WHITE HOUSE' logo."
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the speeches and on-screen text as a party to the peace agreement."
+    },
+    {
+      "name": "Rwanda",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the speeches and on-screen text as a party to the peace agreement."
+    },
+    {
+      "name": "Unnamed leader 1",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "A man wearing glasses is shown signing the agreement with Trump and speaking at the podium."
+    },
+    {
+      "name": "Unnamed leader 2",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "A bald man wearing glasses is shown speaking at the podium and standing on stage."
+    },
+    {
+      "name": "U.S. Institute of Peace",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donald Trump mentions that the event is taking place at the 'U.S. Institute of Peace'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DELIVERING PEACE",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATIC REPUBLIC OF THE CONGO - REPUBLIC OF RWANDA PEACE DEAL",
+      "role": "overlay"
+    },
+    {
+      "text": "DRC - RWANDA",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD J. TRUMP",
+      "role": "other"
+    },
+    {
+      "text": "UNITED STATES INSTITUTE OF",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces the signing of a historic peace agreement at the U.S. Institute of Peace to end a long-running conflict between the Democratic Republic of the Congo and Rwanda. He praises the leaders and expresses confidence they will create a 'much brighter future.' Representatives from the other nations also speak, calling the accords the key to ending the conflict 'once and for all' and a symbol of an 'irreversible commitment to turn the page' towards cooperation and sustainable peace.",
+  "emojis_present": [],
+  "audio_music": "The video features a continuous, gentle, and uplifting orchestral score, creating a hopeful, serious, and presidential tone throughout.",
+  "editing_pacing": "The video is a montage with slow, deliberate cuts, featuring multiple shots of the diplomatic event from various angles, creating a formal and polished feel.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The name 'DONALD J. TRUMP' is digitally superimposed onto the stone facade of the U.S. Institute of Peace building.",
+  "emotions_signaled": [
+    "Pride",
+    "Hope",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "Jesus Christ"
+  ],
+  "central_claim": "Donald Trump, as 'The Peace President,' successfully brokered a historic peace agreement between the Democratic Republic of the Congo and Rwanda.",
+  "intended_effect": "To make viewers admire Donald Trump's perceived presidential leadership and diplomatic achievements.",
+  "uncertainty_flags": [
+    "The specific names of the African leaders shown speaking and signing the agreement are not identified."
+  ]
+}

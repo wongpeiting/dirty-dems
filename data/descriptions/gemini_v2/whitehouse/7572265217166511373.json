@@ -1,0 +1,84 @@
+{
+  "video_id": "7572265217166511373",
+  "visual_action": "Donald Trump walks into a room resembling the Oval Office to applause. The video cuts to him sitting at a desk, speaking to the camera, surrounded by other people. There are intercut shots of other politicians reacting and a close-up of a document with the United States Congress seal. Trump signs the document with a black marker and holds it up for the camera as the people around him applaud. The video concludes with black and white shots of the White House and a helicopter, with text branding.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker for the entire video, shown signing a bill, and is the central subject of the camera's focus."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump explicitly blames 'Democrats in Congress' for shutting down the government."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states that 'Republicans never wanted a shutdown'."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in a brief reaction shot, standing behind Trump."
+    },
+    {
+      "name": "Doug Burgum",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the background among the group of people."
+    },
+    {
+      "name": "Scott Bessent",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the background among the group of people."
+    },
+    {
+      "name": "United States Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump refers to 'Democrats in Congress' and 'partners in Congress'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump states that for the past 43 days, Democrats in Congress shut down the government in an attempt to 'extort American taxpayers.' He says Republicans voted 15 times for funding and never wanted a shutdown. He announces that the government will resume normal operations and his administration will continue to work on lowering the cost of living, restoring public safety, and growing the economy. He concludes by saying it is an honor to sign the bill to get the country 'working again.'",
+  "emojis_present": [],
+  "audio_music": "The primary audio is Donald Trump's speech. A serious, slightly triumphant orchestral score plays underneath the dialogue, swelling as he signs the bill. The natural sound of applause is audible at the beginning and end of the video.",
+  "editing_pacing": "The video is a montage of professionally shot clips with moderate pacing. It includes cuts between wide shots, medium shots of Trump speaking, close-ups of the document and signature, and a reaction shot of another individual.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Resolution",
+    "Seriousness",
+    "Pride",
+    "Blame"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump has ended a lengthy government shutdown, for which he blames Democrats, and is now getting the country back to work.",
+  "intended_effect": "To portray Trump as a decisive leader who resolved a crisis caused by his political opponents and to cast Democrats as obstructionist.",
+  "uncertainty_flags": []
+}

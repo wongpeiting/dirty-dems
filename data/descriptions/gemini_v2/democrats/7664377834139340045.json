@@ -1,0 +1,54 @@
+{
+  "video_id": "7664377834139340045",
+  "visual_action": "Donald Trump walks onto a green soccer field in a large stadium, accompanied by several other men in suits. He is walking alongside FIFA President Gianni Infantino. The stands are filled with spectators. Trump waves to the crowd as he walks.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure shown throughout the video and is named in the on-screen text: 'Trump booed at the World Cup'."
+    },
+    {
+      "name": "Gianni Infantino",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A commentator's voiceover identifies him: 'Alongside Gianni Infantino of FIFA.'"
+    },
+    {
+      "name": "FIFA",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A commentator's voiceover mentions the organization: '...Gianni Infantino of FIFA.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "HEARTWARMING: Trump booed at the World Cup",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A female commentator describes the scene, stating, \"President of the United States on the field... alongside Gianni Infantino of FIFA.\" Her voice is layered over indistinct but loud crowd noise.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a loud, indistinct roar from a stadium crowd, which persists throughout the clip. A female commentator's voice is layered over the crowd noise. There is no music. The effect is that of a live sports broadcast.",
+  "editing_pacing": "The video consists of a single, continuous broadcast shot that follows Donald Trump as he walks across the field.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Schadenfreude"
+  ],
+  "cultural_references": [
+    "World Cup"
+  ],
+  "central_claim": "Donald Trump was booed by the crowd when he appeared at the World Cup, an event portrayed as 'heartwarming' and satisfying.",
+  "intended_effect": "To encourage viewers to feel amusement and satisfaction at the sight of Donald Trump being publicly rejected on an international stage.",
+  "uncertainty_flags": [
+    "The audio of the crowd is an indistinct roar; while the on-screen text characterizes it as booing, it is not possible to definitively confirm the nature of the crowd's reaction (booing, cheering, or a mix) from the audio alone."
+  ]
+}

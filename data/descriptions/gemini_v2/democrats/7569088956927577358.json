@@ -1,0 +1,68 @@
+{
+  "video_id": "7569088956927577358",
+  "visual_action": "The video shows a screenshot of a tweet from an account called \"FactPost\". The tweet claims that \"Proposition 50 has passed in California, allowing for a new congressional map to be drawn ahead of the midterm elections.\" The tweet includes an image of politician Gavin Newsom at a podium with a sign reading \"ELECTION RIGGING RESPONSE ACT\", next to an \"I Voted\" sticker. The video then shows a still, full-screen image of Newsom at the podium.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A man who is visually identifiable as Gavin Newsom is shown in a photo speaking at a podium."
+    },
+    {
+      "name": "California",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text of the tweet states, \"Proposition 50 has passed in California...\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays a screenshot of a tweet from the account \"FactPost\" with the handle \"@factpostnews\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Proposition 50 has passed in California, allowing for a new congressional map to be drawn ahead of the midterm elections.",
+      "role": "overlay"
+    },
+    {
+      "text": "ELECTION RIGGING RESPONSE ACT",
+      "role": "overlay"
+    },
+    {
+      "text": "I Voted",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the iconic hip-hop track \"California Love\" by 2Pac. The music is upbeat and energetic, creating a celebratory and location-specific mood.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot, followed by a slight zoom-in to one of the images within the tweet. The pacing is static.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a fabricated tweet. The source, \"FactPost,\" is not a known, legitimate news organization, and the tweet's content about \"Proposition 50\" and the \"ELECTION RIGGING RESPONSE ACT\" appears to be a staged image created to make a political point.",
+  "emotions_signaled": [
+    "Triumph",
+    "Celebration",
+    "Pride"
+  ],
+  "cultural_references": [
+    "2Pac",
+    "California Love (song)"
+  ],
+  "central_claim": "Democrats in California have passed \"Proposition 50\" to enable the drawing of a new congressional map, an action framed as a response to election rigging.",
+  "intended_effect": "To create a sense of victory and pride among supporters, suggesting that Democrats are successfully combating unfair electoral practices.",
+  "uncertainty_flags": [
+    "The 'FactPost' Twitter account appears to be fabricated for the purpose of the video, as it is not a known news entity."
+  ]
+}

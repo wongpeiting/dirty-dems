@@ -1,0 +1,77 @@
+{
+  "video_id": "7575309456595012919",
+  "visual_action": "The video opens with a clip of Donald Trump speaking from a desk with an American flag behind him, framed by a Fox News chyron. It then cuts to a montage of Zohran Mamdani in various public settings: speaking outdoors, at a podium at night, during an interview, handing out cards to people, playing soccer on an artificial turf field, and speaking to the press. A watermark for \"@DEMOCRATS\" is present throughout the video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears in the opening clip speaking."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Is the subject of the montage that follows Trump's remarks, and is implied to be the person Trump is talking about."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The watermark \"@DEMOCRATS\" is visible throughout the video."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The chyron in the opening clip is labeled \"FOX NEWS ALERT\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: THE BETTER HE DOES THE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "@DEMOCRATS",
+      "role": "overlay"
+    },
+    {
+      "text": "ZOHRAN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"I feel very confident that he can do a very good job. He is going to surprise some conservative people.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, slightly dramatic indie-pop song ('Ever Since' by Mala kurka) plays throughout the video, starting under Donald Trump's dialogue and continuing through the montage of Zohran Mamdani, creating a serious and heroic mood.",
+  "editing_pacing": "The video consists of a single clip of Donald Trump followed by a fast-paced montage of Zohran Mamdani with quick cuts. The visuals have a strong vignette and are color-graded.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Irony",
+    "Mockery",
+    "Admiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's past words of confidence and praise are ironically used to endorse progressive politician Zohran Mamdani.",
+  "intended_effect": "To promote Zohran Mamdani and create a sense of amusement and irony by using a political opponent's words as an apparent endorsement.",
+  "uncertainty_flags": [
+    "The video implies Donald Trump is speaking about Zohran Mamdani, but the original context of Trump's remarks is not provided."
+  ]
+}

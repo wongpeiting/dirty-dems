@@ -1,0 +1,123 @@
+{
+  "video_id": "7542963987575475469",
+  "visual_action": "The video is a split-screen presentation. On one side, Donald Trump is shown sitting at a table in a formal setting, listening intently. On the other side, a reporter, Iris Tao, stands surrounded by microphones and other reporters, recounting a personal story. The setting for Trump appears to be a White House meeting room, with American flags visible. The video concludes with Trump clapping, followed by a black-and-white graphic of the White House with text overlay.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown on screen for the entire video, listening to the reporter and speaking in response to her story."
+    },
+    {
+      "name": "Iris Tao",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She introduces herself as Iris Tao and is the central speaker, telling the story of her assault. On-screen text also identifies her by name."
+    },
+    {
+      "name": "Brooke Rollins",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by facial recognition, shown sitting in the background near Trump."
+    },
+    {
+      "name": "Russell Vought",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by facial recognition, shown sitting in the background near Trump."
+    },
+    {
+      "name": "Scott Turner",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by facial recognition, shown sitting in the background near Trump."
+    },
+    {
+      "name": "NTD",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Iris Tao identifies herself as a \"White House correspondent for NTD.\""
+    },
+    {
+      "name": "The Epoch Times",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Iris Tao describes NTD as \"the sister media of the Epoch Times.\""
+    },
+    {
+      "name": "God",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Iris Tao says, \"I'm very grateful for God for allowing me to still survive to this day.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Make D.C. Safe Again",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE LIVE | 12:43 PM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: TRUMP HOLDS 7TH CABINET MEETING OF 2ND TERM",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SPEAKS W/ REPORTER WHO WAS ATTACKED IN DC",
+      "role": "chyron"
+    },
+    {
+      "text": "IRIS TAO | NTD WHITE HOUSE CORRESPONDENT",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Reporter Iris Tao of NTD speaks at a White House event, recounting a traumatic experience from over two years prior when she was mugged at gunpoint in Washington D.C. She states that when she refused to hand over her belongings, the assailant \"pistol whipped\" her. She describes the lasting trauma and fear this caused for her and her family. Tao thanks Donald Trump for his efforts to make the city safer. Trump responds sympathetically, calling the attacker an \"animal,\" and expressing surprise she wasn't shot. Tao concludes by expressing gratitude to God and to Trump, mentioning her family and her \"baby on the way.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from the reporter and Donald Trump, with the sound of applause at the very end. There is no music.",
+  "editing_pacing": "The video uses a split-screen format for most of its duration, showing both the speaker and Trump's reaction simultaneously. The pacing is slow, driven by the conversational dialogue, with cuts between the split-screen and full shots of each person. It has the style of a live news broadcast segment.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "fear",
+    "anxiety",
+    "sympathy",
+    "gratitude",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The on-screen text \"Make D.C. Safe Again\" is a play on Donald Trump's political slogan \"Make America Great Again\"."
+  ],
+  "central_claim": "Washington D.C. is dangerously unsafe due to violent criminals, but Donald Trump is taking action to restore safety.",
+  "intended_effect": "To evoke fear about crime in D.C. and portray Donald Trump as a compassionate and strong leader who is solving the problem.",
+  "uncertainty_flags": []
+}

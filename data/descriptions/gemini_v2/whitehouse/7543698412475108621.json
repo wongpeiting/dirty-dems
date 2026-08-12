@@ -1,0 +1,61 @@
+{
+  "video_id": "7543698412475108621",
+  "visual_action": "The screen is split into two horizontal panels. The top panel shows a glass tip jar with a handwritten label that reads \"TIPS BEFORE TRUMP\". It is initially empty, and then a hand drops a coin into it, followed by a folded dollar bill. The bottom panel shows an identical jar labeled \"TIPS AFTER TRUMP!\" which is already full of cash and coins. After several seconds, the video cuts to a black screen where white text appears sequentially: \"YOU EARNED IT, YOU KEEP IT.\" followed by \"NO TAX ON TIPS.\" The video concludes with a black and white shot of a helicopter landing, which then transitions to a shot of the White House building, overlaid with the text \"THE WHITE HOUSE\" and its official logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name appears on the two tip jars: \"TIPS BEFORE TRUMP\" and \"TIPS AFTER TRUMP!\". His voice is also heard in audio clips from a speech."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text \"THE WHITE HOUSE\" and the building itself appear in the final credit-style shot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TIPS BEFORE TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "TIPS AFTER TRUMP!",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU EARNED IT, YOU KEEP IT.",
+      "role": "overlay"
+    },
+    {
+      "text": "NO TAX ON TIPS.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Audio clips from a Donald Trump speech are layered over music and crowd noise. The discernible phrases include \"We will make America great again\" and \"God bless you.\"",
+  "emojis_present": [],
+  "audio_music": "The upbeat disco track \"Y.M.C.A.\" by Village People plays throughout the entire video. In the initial seconds, clips of Donald Trump speaking and crowd cheers are mixed over the music, creating a celebratory and rally-like atmosphere.",
+  "editing_pacing": "The video begins with a static split-screen shot, then uses quick cuts to a black screen for text reveals, and ends with a crossfade between two shots for the final branding.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Prosperity",
+    "Hope",
+    "Celebration"
+  ],
+  "cultural_references": [
+    "Y.M.C.A. by Village People"
+  ],
+  "central_claim": "Donald Trump's policy of eliminating taxes on tips will lead to increased earnings for service industry workers.",
+  "intended_effect": "To persuade voters, particularly service workers, that Trump's policies will directly improve their financial well-being.",
+  "uncertainty_flags": []
+}

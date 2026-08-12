@@ -1,0 +1,45 @@
+{
+  "video_id": "7636151499847912717",
+  "visual_action": "The video is a two-panel meme format. The top panel, labeled 'trump when people ask for healthcare', shows clips of Donald Trump driving a golf cart and then swinging a golf club. The bottom panel, labeled 'trump when it's time to bomb a school', shows clips of Trump dancing enthusiastically, first in front of a helicopter and then at a rally.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole subject of the video, appearing in all clips and named in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump when people ask for healthcare",
+      "role": "meme_text"
+    },
+    {
+      "text": "trump when it's time to bomb a school",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no discernible dialogue. The audio consists of a high-pitched, sped-up electronic music track with chopped vocal samples. The provided transcript 'P.P. I have a' does not accurately reflect the audio, which is a meme sound.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "A very fast-paced, high-pitched, and energetic electronic dance track with repetitive, chopped vocal samples. The sound is typical of a sped-up TikTok meme audio, creating a chaotic and high-energy feel.",
+  "editing_pacing": "The video consists of quick cuts between different clips of Donald Trump, synchronized with the fast tempo of the background music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "outrage",
+    "criticism"
+  ],
+  "cultural_references": [
+    "The video uses a common two-panel comparative meme format ('X when Y / X when Z') to contrast two different reactions from the same person."
+  ],
+  "central_claim": "Donald Trump is indifferent to domestic needs like healthcare but is enthusiastically in favor of military violence.",
+  "intended_effect": "To portray Donald Trump as a callous and dangerously militaristic leader who prioritizes aggression over the welfare of citizens.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('P.P. I have a') appears to be a significant misinterpretation of the meme audio."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "7548988098068106510",
+  "visual_action": "A high-angle, handheld shot shows Donald Trump and other men in suits standing in a stadium suite, looking down at a crowded baseball field. The crowd is large and fills the stands. After about six seconds, the video cuts to a black and white montage of the White House exterior and a helicopter, with 'THE WHITE HOUSE' text overlaid as a brand logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visible from the back and in profile in a stadium suite. The on-screen text explicitly names him: 'President Trump Attends Yankees Game'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and concludes with a branded outro featuring the text 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "New York Yankees",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states that the event is a 'Yankees Game'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "USA Chants Break Out as President Trump Attends Yankees Game on 9/11",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio consists entirely of a large crowd chanting 'U.S.A! U.S.A! U.S.A!' in unison.",
+  "emojis_present": [],
+  "audio_music": "The audio is diegetic sound from the stadium, dominated by the loud, rhythmic chant of 'U.S.A!' from the crowd. There is no musical score. The effect is patriotic and energetic.",
+  "editing_pacing": "The video consists of a single, continuous handheld shot for the first several seconds, followed by an abrupt cut to a branded, black-and-white outro sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "pride",
+    "support"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump was greeted with patriotic 'U.S.A.' chants from the crowd when he attended a Yankees game on 9/11.",
+  "intended_effect": "To portray Donald Trump as a popular and patriotic figure who is enthusiastically supported by the American public.",
+  "uncertainty_flags": []
+}

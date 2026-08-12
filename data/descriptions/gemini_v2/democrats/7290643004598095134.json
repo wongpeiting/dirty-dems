@@ -1,0 +1,75 @@
+{
+  "video_id": "7290643004598095134",
+  "visual_action": "The video opens with a digital painting of the Roman Colosseum with the text 'Our Roman Empire...'. It then transitions to a slideshow of three images with descriptive text. The first is a split screen of Kamala Harris and Mike Pence, with a fly on Pence's head, from a debate. The second is a split screen of Joe Biden pointing at Donald Trump during a debate. The final image is a video clip of Kamala Harris smiling while on the phone outdoors, with the caption 'We did it Joe!'.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Kamala Harris is shown in two separate clips: one at a debate and another on the phone after the 2020 election."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Mike Pence is shown in a still image from the vice presidential debate, with on-screen text specifically referencing him: 'a fly landing on Mike Pence's head'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Joe Biden is shown in a debate still with Donald Trump and is mentioned in on-screen text twice: 'Joe Biden telling Donald Trump to shut up' and 'We did it Joe!'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Donald Trump is shown in a debate still with Joe Biden and is referenced in the on-screen text: 'Joe Biden telling Donald Trump to shut up'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Our Roman Empire...",
+      "role": "overlay"
+    },
+    {
+      "text": "a fly landing on Mike Pence's head during the vice presidential debate",
+      "role": "overlay"
+    },
+    {
+      "text": "Joe Biden telling Donald Trump to shut up",
+      "role": "overlay"
+    },
+    {
+      "text": "We did it Joe!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video; the only audio is a background music track.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the song 'lacy' by Olivia Rodrigo, which plays throughout. It's a gentle, somewhat melancholic and reflective pop song that creates a nostalgic mood for the montage of past political moments.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images, with one short video clip at the end. Each image is displayed for several seconds to allow the viewer to read the text.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The opening image of the Roman Colosseum is a digital painting or AI-generated image, not a photograph. It is used as a thematic backdrop for the 'Roman Empire' meme format.",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Pride",
+    "Mockery",
+    "Triumph"
+  ],
+  "cultural_references": [
+    "The 'Roman Empire' TikTok trend, which refers to something a person thinks about frequently.",
+    "The song 'lacy' by pop artist Olivia Rodrigo is used as the soundtrack."
+  ],
+  "central_claim": "Iconic moments from the 2020 election cycle, such as the fly on Mike Pence's head and the eventual victory, are defining, frequently remembered events for Democrats.",
+  "intended_effect": "To evoke nostalgia and a sense of shared history and triumph among Democratic supporters by highlighting memorable moments from the 2020 campaign.",
+  "uncertainty_flags": []
+}

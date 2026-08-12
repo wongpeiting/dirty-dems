@@ -1,0 +1,300 @@
+{
+  "video_id": "7462533831384517931",
+  "visual_action": "A woman speaks directly to the camera. The video occasionally switches to a split-screen format, showing still images in the top frame while the woman continues to speak and react in the bottom frame. The images shown include Donald Trump being sworn in, a group of tech executives including Elon Musk and Mark Zuckerberg, Elon Musk at a podium with his arm raised, and a photo from the January 6th Capitol attack.",
+  "cast": [
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The woman speaking directly to the camera throughout the video, who narrates the events."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central subject of the video, named repeatedly in the audio (e.g., 'since Trump got back in office'), and shown in a photo being sworn in."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the audio ('His bestie Elon Musk') and shown in two separate photos, one in a group of tech executives and one raising his arm at a podium."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His previous executive orders are mentioned as being rescinded by Trump, e.g., 'rescinded President Biden's executive order to lower prescription drug costs'."
+    },
+    {
+      "name": "January 6th insurrectionists",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the audio as having been pardoned by Trump ('He pardoned January 6th insurrectionists') and shown in a photo of the Capitol attack."
+    },
+    {
+      "name": "World Health Organization",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the audio: 'withdrew the US from the World Health Organization'."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown standing next to Donald Trump in the photo of his swearing-in ceremony."
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a group photo of 'tech billionaires'."
+    },
+    {
+      "name": "Jeff Bezos",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a group photo of 'tech billionaires'."
+    },
+    {
+      "name": "Howard Lutnick",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID, appearing in the background of a group photo."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID, appearing in the background of a group photo."
+    },
+    {
+      "name": "Usha Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID, appearing in the background of a group photo."
+    },
+    {
+      "name": "Sean Duffy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID, appearing in the background of a group photo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "IT'S BEEN A",
+      "role": "caption"
+    },
+    {
+      "text": "LITTLE OVER 24 HOURS",
+      "role": "caption"
+    },
+    {
+      "text": "SINCE TRUMP GOT",
+      "role": "caption"
+    },
+    {
+      "text": "AND HERE'S ALL",
+      "role": "caption"
+    },
+    {
+      "text": "THE CRAZY THINGS",
+      "role": "caption"
+    },
+    {
+      "text": "SINCE THEN.",
+      "role": "caption"
+    },
+    {
+      "text": "HE WAS SWORN",
+      "role": "caption"
+    },
+    {
+      "text": "WITHOUT PUTTING HIS",
+      "role": "caption"
+    },
+    {
+      "text": "ON THE BIBLE",
+      "role": "caption"
+    },
+    {
+      "text": "A BUNCH",
+      "role": "caption"
+    },
+    {
+      "text": "OF TECH BILLIONAIRES.",
+      "role": "caption"
+    },
+    {
+      "text": "HIS BESTIE ELON MUSK",
+      "role": "caption"
+    },
+    {
+      "text": "DID THIS.",
+      "role": "caption"
+    },
+    {
+      "text": "HE PARDONED JANUARY 6TH",
+      "role": "caption"
+    },
+    {
+      "text": "INSURRECTIONISTS,",
+      "role": "caption"
+    },
+    {
+      "text": "ATTACKED POLICE OFFICERS.",
+      "role": "caption"
+    },
+    {
+      "text": "HE'S ALSO SIGNED",
+      "role": "caption"
+    },
+    {
+      "text": "DOZENS",
+      "role": "caption"
+    },
+    {
+      "text": "OF CRAZY EXECUTIVE",
+      "role": "caption"
+    },
+    {
+      "text": "LIKE ATTEMPTING TO",
+      "role": "caption"
+    },
+    {
+      "text": "BIRTHRIGHT CITIZENSHIP, WHICH",
+      "role": "caption"
+    },
+    {
+      "text": "MIND YOU IS",
+      "role": "caption"
+    },
+    {
+      "text": "LITERALLY",
+      "role": "caption"
+    },
+    {
+      "text": "IN THE CONSTITUTION.",
+      "role": "caption"
+    },
+    {
+      "text": "WITHDREW THE US",
+      "role": "caption"
+    },
+    {
+      "text": "CLIMATE AGREEMENT.",
+      "role": "caption"
+    },
+    {
+      "text": "WITHDREW THE US FROM THE WORLD",
+      "role": "caption"
+    },
+    {
+      "text": "HEALTH ORGANIZATION.",
+      "role": "caption"
+    },
+    {
+      "text": "RESCINDED PRESIDENT BIDEN'S",
+      "role": "caption"
+    },
+    {
+      "text": "EXECUTIVE ORDER",
+      "role": "caption"
+    },
+    {
+      "text": "TO LOWER PRESCRIPTION",
+      "role": "caption"
+    },
+    {
+      "text": "DRUG COSTS.",
+      "role": "caption"
+    },
+    {
+      "text": "REPEALED PRESIDENT BIDEN'S",
+      "role": "caption"
+    },
+    {
+      "text": "ENVIRONMENTAL PROTECTIONS,",
+      "role": "caption"
+    },
+    {
+      "text": "AND HAS MADE",
+      "role": "caption"
+    },
+    {
+      "text": "IT EASIER",
+      "role": "caption"
+    },
+    {
+      "text": "CONTROL THE GOVERNMENT.",
+      "role": "caption"
+    },
+    {
+      "text": "LITERALLY",
+      "role": "caption"
+    },
+    {
+      "text": "THIS",
+      "role": "caption"
+    },
+    {
+      "text": "LOWER YOUR PRICES",
+      "role": "caption"
+    },
+    {
+      "text": "OR MAKE YOUR",
+      "role": "caption"
+    },
+    {
+      "text": "LIFE BETTER.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The speaker lists what she calls 'crazy things' that have happened in the first 24 hours of Donald Trump's second term in office. She claims he was sworn in without a Bible in front of tech billionaires, that Elon Musk gave a salute, and that Trump pardoned January 6th insurrectionists. She also claims he signed executive orders to end birthright citizenship, withdraw from the Paris Climate Agreement and the World Health Organization, rescind President Biden's orders on prescription drug costs and environmental protections, and make it easier for lobbyists to control government. She concludes that none of these actions will improve the lives of ordinary people.",
+  "emojis_present": [
+    "🥴"
+  ],
+  "audio_music": "The video consists of a spoken monologue with no background music or sound effects.",
+  "editing_pacing": "The video uses a static, talking-head format, intercut with a split-screen layout where still images are displayed in the top portion of the frame as the speaker continues to talk in the bottom portion.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "anger",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "In the first 24 hours of his second term, Donald Trump has already taken numerous authoritarian and harmful actions that benefit the wealthy elite at the expense of ordinary Americans.",
+  "intended_effect": "To create alarm and opposition to Donald Trump by portraying his new presidency as immediately destructive to democratic norms, international cooperation, and the well-being of citizens.",
+  "uncertainty_flags": [
+    "The video's premise is that it is 'a little over 24 hours' after Trump got back in office. Given the context date of July 04, 2026, this implies an inauguration date of July 03, 2026, which contradicts the standard U.S. presidential inauguration date of January 20th."
+  ]
+}

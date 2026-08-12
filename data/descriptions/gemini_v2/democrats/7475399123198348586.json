@@ -1,0 +1,157 @@
+{
+  "video_id": "7475399123198348586",
+  "visual_action": "The video starts with a clip of Donald Trump speaking during an interview, with an overlay that reads \"Before Trump became president.\" It then cuts to a time-card from the cartoon SpongeBob SquarePants that reads \"Many Unbearable Hours Later...\". The final section shows a Fox News graphic with the headline \"EGG PRICES SOAR,\" comparing the price of a dozen eggs in October 2024 ($2.21) to \"NOW\" ($8.11), showing a 267% increase. An overlay reads \"after Trump became president.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in the first half of the video, and the post's narrative is structured around his promise regarding egg prices and the alleged outcome after he became president."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news graphic detailing the rise in egg prices is from Fox News, with its logo visible on screen."
+    },
+    {
+      "name": "Meet the Press",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for 'MEET THE PRESS EXCLUSIVE' is visible on the clip of Donald Trump speaking."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Before Trump became president",
+      "role": "overlay"
+    },
+    {
+      "text": "WHEN YOU BUY EGGS,",
+      "role": "caption"
+    },
+    {
+      "text": "THEY WERE DOUBLE",
+      "role": "caption"
+    },
+    {
+      "text": "AND TRIPLE THE PRICE.",
+      "role": "caption"
+    },
+    {
+      "text": "AND I WON AN ELECTION",
+      "role": "caption"
+    },
+    {
+      "text": "BASED ON THAT.",
+      "role": "caption"
+    },
+    {
+      "text": "WE'RE GOING TO BRING THOSE",
+      "role": "caption"
+    },
+    {
+      "text": "PRICES WAY DOWN.",
+      "role": "caption"
+    },
+    {
+      "text": "MEET THE PRESS EXCLUSIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "Many Unbearable Hours Later...",
+      "role": "meme_text"
+    },
+    {
+      "text": "after Trump became president",
+      "role": "overlay"
+    },
+    {
+      "text": "EGG PRICES SOAR",
+      "role": "chyron"
+    },
+    {
+      "text": "OCTOBER 2024",
+      "role": "overlay"
+    },
+    {
+      "text": "$2.21 PER DOZEN",
+      "role": "overlay"
+    },
+    {
+      "text": "NOW",
+      "role": "overlay"
+    },
+    {
+      "text": "$8.11 PER DOZEN",
+      "role": "overlay"
+    },
+    {
+      "text": "+267%",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "CPI ROSE BY A FASTER-THAN-EXPECTED 3% IN JAN",
+      "role": "chyron"
+    },
+    {
+      "text": "GROCERY CHAINS LIMIT EGG PURCHASES AMID BIRD FLU",
+      "role": "chyron"
+    },
+    {
+      "text": "TAKE A LOOK AT THIS.",
+      "role": "caption"
+    },
+    {
+      "text": "THE PRICES NATIONWIDE.",
+      "role": "caption"
+    },
+    {
+      "text": "WE'RE TALKING ABOUT $8.11",
+      "role": "caption"
+    },
+    {
+      "text": "WHOLESALE FOR A DOZEN EGGS.",
+      "role": "caption"
+    },
+    {
+      "text": "THAT'S AN ALL-TIME HIGH,",
+      "role": "caption"
+    },
+    {
+      "text": "UP 267%",
+      "role": "caption"
+    },
+    {
+      "text": "SINCE JUST OCTOBER.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump states that before he was president, egg prices were double and triple, and that he won an election based on promising to lower them. After a SpongeBob narrator says \"Many unbearable hours later,\" a news anchor reports that wholesale egg prices have hit an all-time high of $8.11 a dozen, a 267% increase since October.",
+  "emojis_present": [],
+  "audio_music": "The first segment contains only Donald Trump's speaking voice. The second segment, showing the news graphic, features a tense, dramatic instrumental track in the style of a breaking news alert.",
+  "editing_pacing": "The video uses a simple before-and-after structure, with two static clips juxtaposed to create a comparison. The clips are separated by a meme-style transition card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "alarm"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants"
+  ],
+  "central_claim": "Despite promising to lower the price of goods like eggs, egg prices dramatically increased after Donald Trump became president.",
+  "intended_effect": "To convince viewers that Donald Trump failed to deliver on his economic promises and his presidency led to higher prices for consumers.",
+  "uncertainty_flags": []
+}

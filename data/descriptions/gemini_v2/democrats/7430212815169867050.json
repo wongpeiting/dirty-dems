@@ -1,0 +1,62 @@
+{
+  "video_id": "7430212815169867050",
+  "visual_action": "At a political rally, Michelle Obama and Kamala Harris hug on stage in front of a large, cheering crowd. Many people in the audience hold blue \"HARRIS WALZ\" campaign signs. After hugging, the two women stand together, smiling and waving to the supporters.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Kamala Harris is shown on stage hugging Michelle Obama and is identified by face recognition and the on-screen text \"Michelle and Kamala\"."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Michelle Obama is shown on stage hugging Kamala Harris and is identified by face recognition and the on-screen text \"Michelle and Kamala\"."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on campaign signs in the crowd that read \"HARRIS WALZ\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Michelle and Kamala 🥹",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "MICHIGAN VOTES EARLY",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of a loud, cheering crowd.",
+  "emojis_present": [
+    "🥹"
+  ],
+  "audio_music": "The video features the loud sound of an enthusiastic, cheering crowd throughout. An upbeat, instrumental, celebratory-sounding music track plays in the background, creating a positive and energetic atmosphere typical of a political rally.",
+  "editing_pacing": "The video is a single, continuous shot with no cuts or noticeable editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Excitement",
+    "Solidarity",
+    "Affection"
+  ],
+  "cultural_references": [],
+  "central_claim": "Michelle Obama's appearance alongside Kamala Harris at a rally demonstrates powerful support and unity within the Democratic party for the Harris-Walz ticket.",
+  "intended_effect": "To generate excitement and pride among Democratic supporters by showcasing a warm and powerful moment between two of the party's most prominent women.",
+  "uncertainty_flags": []
+}

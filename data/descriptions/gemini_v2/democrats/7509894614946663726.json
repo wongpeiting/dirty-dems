@@ -1,0 +1,75 @@
+{
+  "video_id": "7509894614946663726",
+  "visual_action": "The video displays a screenshot of a tweet from the account \"Pop Crave\". The tweet text says \"Elon Musk has left the Donald Trump administration, @AP reports.\" Below the text are two side-by-side headshots of Elon Musk (left) and Donald Trump (right). The video then cuts to a photograph of Donald Trump and Elon Musk talking in a room with bookshelves. Trump is pointing a finger at Musk. Three broken heart emojis are superimposed over this image.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is pictured in a headshot and a second photo, and his name appears in the on-screen tweet."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is pictured in a headshot and a second photo, and his name appears in the on-screen tweet."
+    },
+    {
+      "name": "Pop Crave",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is a screenshot of a tweet from the @PopCrave account."
+    },
+    {
+      "name": "Associated Press",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet cites \"@AP reports.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pop Crave ✪ @PopCrave",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk has left the Donald Trump administration, @AP reports.",
+      "role": "overlay"
+    },
+    {
+      "text": "divorce babe, divorce",
+      "role": "overlay"
+    },
+    {
+      "text": "💔💔💔",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unseen person asks, \"What celebrity can you do an impression of? And let's hear it.\" A woman replies with an impression, saying, \"divorce, babe, divorce.\" Another person asks, \"Who?\" and the woman repeats the line.",
+  "emojis_present": [
+    "💔"
+  ],
+  "audio_music": "The video begins with spoken dialogue. After the initial line \"divorce, babe, divorce,\" a dramatic, somewhat melancholic rock song ('Lips Of An Angel' by First Grade Fight Club) begins to play and continues until the end of the clip, underscoring the comedic \"divorce\" theme.",
+  "editing_pacing": "The video consists of two static images shown in sequence, like a slideshow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "The audio is a direct use of a popular internet meme originating from singer Adele, who said \"Divorce, babe. Divorce\" during an Instagram Live session.",
+    "The video uses a tweet from Pop Crave, a well-known pop culture and celebrity news account, to frame a political event as celebrity gossip."
+  ],
+  "central_claim": "The departure of Elon Musk from Donald Trump's circle is being framed as a dramatic, celebrity-style \"divorce\" for comedic effect.",
+  "intended_effect": "To mock the political falling out between Donald Trump and Elon Musk by treating it like trivial celebrity drama.",
+  "uncertainty_flags": []
+}

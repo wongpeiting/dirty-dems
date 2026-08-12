@@ -1,0 +1,76 @@
+{
+  "video_id": "7432770638089162026",
+  "visual_action": "A woman, identified by on-screen text as Victoria Monét, stands at a podium with a seal that resembles the Seal of the President of the United States. She is speaking to a large, cheering crowd in an outdoor setting during the day.",
+  "cast": [
+    {
+      "name": "Victoria Monét",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen text reads \"Victoria Monét just endorsed Kamala Harris\" and she is the person speaking at the podium throughout the video."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states that Victoria Monét endorsed her, and Monét says in her speech, \"Let's get to work and make Kamala Harris the next president of the United States.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Victoria Monét just endorsed Kamala Harris 🔥😎",
+      "role": "overlay"
+    },
+    {
+      "text": "GO",
+      "role": "overlay"
+    },
+    {
+      "text": "VOTE",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT'S",
+      "role": "overlay"
+    },
+    {
+      "text": "GET",
+      "role": "overlay"
+    },
+    {
+      "text": "KAMALA",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT",
+      "role": "overlay"
+    },
+    {
+      "text": "UNITED STATES",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Victoria Monét leads a call-and-response with a crowd, shouting \"Go!\" with the crowd replying \"Vote!\". She concludes by saying, \"Let's get to work and make Kamala Harris the next president of the United States,\" which is followed by loud cheers from the crowd.",
+  "emojis_present": [
+    "🔥",
+    "😎"
+  ],
+  "audio_music": "The audio consists solely of live speech from the speaker and the responsive shouts and cheers of a large crowd. There is no background music.",
+  "editing_pacing": "The video is a single, static shot of the speaker at a podium, with text overlays appearing dynamically in sync with her speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "enthusiasm",
+    "urgency"
+  ],
+  "cultural_references": [
+    "Victoria Monét"
+  ],
+  "central_claim": "Singer Victoria Monét has officially endorsed Kamala Harris for president and is urging people to vote.",
+  "intended_effect": "To generate excitement for Kamala Harris's campaign and motivate viewers, particularly fans of Victoria Monét, to vote.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "7477665478089952558",
+  "visual_action": "A clip of Donald Trump on a sunny golf course. He is wearing a red cap and gets out of a white golf cart. Another man stands nearby.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Visually identified on screen getting out of a golf cart."
+    },
+    {
+      "name": "billionaires",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: 'tax breaks for billionaires'."
+    },
+    {
+      "name": "the American people",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: 'lowering prices for the American people'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "this and tax breaks for billionaires instead of lowering prices for the American people",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A single line, \"Save me,\" is sung, which is a lyric from the background music.",
+  "emojis_present": [
+    "🙄"
+  ],
+  "audio_music": "An upbeat, chill electronic dance track with a prominent saxophone melody ('Jubel' by Klingande) plays throughout. Its carefree vibe creates an ironic contrast with the critical on-screen text.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Criticism",
+    "Derision",
+    "Irony"
+  ],
+  "cultural_references": [
+    "Jubel (Radio Edit) by Klingande"
+  ],
+  "central_claim": "Donald Trump prioritizes his own leisure and providing tax breaks for billionaires over lowering costs for the American people.",
+  "intended_effect": "To portray Donald Trump as out of touch and caring more about the wealthy than ordinary citizens, thereby generating disapproval of him and his policies.",
+  "uncertainty_flags": []
+}

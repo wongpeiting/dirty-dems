@@ -1,0 +1,153 @@
+{
+  "video_id": "7550131857623387447",
+  "visual_action": "Donald Trump is shown speaking during an outdoor interview on a Fox News set, seated with three other hosts. The camera is initially on the four-person panel, then zooms in on Trump. Text captions of his speech appear on screen. The video concludes with black-and-white footage of the White House and a helicopter, with 'THE WHITE HOUSE' text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is shown speaking for the entirety of the clip. A chyron also identifies him as 'PRESIDENT TRUMP'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The interview segment is branded with the Fox News logo and a news chyron."
+    },
+    {
+      "name": "Mayor of Memphis",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states, 'And the mayor is happy, he's a Democrat mayor.'"
+    },
+    {
+      "name": "Governor of Tennessee",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states, 'and the governor of Tennessee. The governor's happy.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump refers to the Mayor of Memphis as 'a Democrat mayor'."
+    },
+    {
+      "name": "unnamed Fox News host 1",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man sitting to Trump's right on the interview panel."
+    },
+    {
+      "name": "unnamed Fox News host 2",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman sitting to Trump's left on the interview panel."
+    },
+    {
+      "name": "unnamed Fox News host 3",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man sitting at the far right end of the interview panel."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NEXT STOP: MEMPHIS",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENT TRUMP: WE HAVE KIRK SUSPECT IN CUSTODY",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "We're going to Memphis.",
+      "role": "overlay"
+    },
+    {
+      "text": "Memphis is deeply troubled.",
+      "role": "overlay"
+    },
+    {
+      "text": "And the mayor is happy, he's",
+      "role": "overlay"
+    },
+    {
+      "text": "a Democrat mayor.",
+      "role": "overlay"
+    },
+    {
+      "text": "The mayor is happy",
+      "role": "overlay"
+    },
+    {
+      "text": "and the governor of Tennessee.",
+      "role": "overlay"
+    },
+    {
+      "text": "The governor is happy.",
+      "role": "overlay"
+    },
+    {
+      "text": "Deeply troubled.",
+      "role": "overlay"
+    },
+    {
+      "text": "We're going to fix it just",
+      "role": "overlay"
+    },
+    {
+      "text": "like we did Washington.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that he is going to Memphis, which he describes as a 'deeply troubled' city. He claims that the city's Democratic mayor and the governor of Tennessee are both 'happy' about his intervention. Trump concludes by promising to 'fix' Memphis, just as he claims to have fixed Washington.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from a news interview, with no music or sound effects.",
+  "editing_pacing": "The video consists of a single interview clip, with one cut to a closer shot of Trump. It then cuts to black-and-white B-roll of the White House. Text captions are overlaid and timed to the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Confidence",
+    "Authority"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is taking presidential action to address significant problems in Memphis, Tennessee, with the support of local and state leaders.",
+  "intended_effect": "To project an image of a decisive president taking action to solve problems in American cities, and to instill confidence in his leadership.",
+  "uncertainty_flags": [
+    "The on-screen chyron 'WE HAVE KIRK SUSPECT IN CUSTODY' refers to an event not mentioned in the spoken audio, and its context is unclear."
+  ]
+}

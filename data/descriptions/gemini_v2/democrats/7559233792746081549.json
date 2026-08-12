@@ -1,0 +1,55 @@
+{
+  "video_id": "7559233792746081549",
+  "visual_action": "A man who appears to be Gavin Newsom stands outdoors in front of green foliage, wearing a suit and looking directly at the camera with a serious expression. The video is a static, chest-up shot with text overlaid.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is the only person visually present in the video, appearing for its entire duration."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Trump and Republicans are trying to rig next year's midterm elections' and 'cancel out Trump's election rigging'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Trump and Republicans are trying to rig next year's midterm elections'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump and Republicans are trying to rig next year's midterm elections\n\nif you live in CA, vote YES on Prop 50 to level the playing field and cancel out Trump's election rigging",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "A pop song with female vocals, identified as 'Father Figure' by Taylor Swift, plays throughout the video, creating an earnest and emotive tone.",
+  "editing_pacing": "The video consists of a single, static, talking-head style shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency",
+    "alarm",
+    "civic duty"
+  ],
+  "cultural_references": [
+    "The soundtrack features the song 'Father Figure' by pop star Taylor Swift."
+  ],
+  "central_claim": "Donald Trump and the Republican Party are trying to rig the next midterm elections, and Californians can stop this by voting 'YES on Prop 50'.",
+  "intended_effect": "To persuade California voters to vote 'YES on Prop 50' by framing it as a necessary measure to counteract election rigging by Republicans.",
+  "uncertainty_flags": [
+    "Uncertain about the context of 'next year's midterm elections' and 'Prop 50', as the instruction specifies a 2026 post date, making a 2027 midterm election unusual."
+  ]
+}

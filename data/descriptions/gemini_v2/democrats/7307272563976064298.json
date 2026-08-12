@@ -1,0 +1,51 @@
+{
+  "video_id": "7307272563976064298",
+  "visual_action": "A montage shows several clips of Donald Trump at various events: speaking at a podium, looking serious during an interview, sitting with arms crossed, and speaking on a stage. The video then transitions to a montage of clips showing Joe Biden: smiling outdoors while wearing sunglasses, smiling at an indoor event, walking with a thumbs-up, smiling while seated in an office, and signing a document at a desk.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips in the first half of the video, identified by face recognition, and is the subject of the initial on-screen text."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips in the second half of the video, identified by face recognition, and is the subject of the final on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This guy is going to kick people under the age of 26 off their parents' health insurance 😒",
+      "role": "overlay"
+    },
+    {
+      "text": "while President Biden wants to protect the Affordable Care Act 🥰",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is accompanied only by music.",
+  "emojis_present": [
+    "😒",
+    "🥰"
+  ],
+  "audio_music": "A simple, somewhat somber bassline plays over the clips of Donald Trump. The music then abruptly shifts to an upbeat, positive, and bright instrumental track for the montage of Joe Biden.",
+  "editing_pacing": "The video consists of two quick-cut montages, one for each political figure, creating a direct visual contrast.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "worry",
+    "disapproval",
+    "hope",
+    "admiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump will take away health insurance from people under 26, while President Biden will protect the Affordable Care Act.",
+  "intended_effect": "To persuade viewers to support Joe Biden over Donald Trump by contrasting their positions on a popular healthcare provision.",
+  "uncertainty_flags": []
+}

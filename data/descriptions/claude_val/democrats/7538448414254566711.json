@@ -1,0 +1,57 @@
+{
+  "video_id": "7538448414254566711",
+  "visual_action": "A close-up, static shot of a man identified as Donald Trump speaking (mouth open, eyes partially closed), wearing a dark suit jacket, white dress shirt, and a small American flag lapel pin. The background is a neutral beige/tan color. The same frozen or near-static frame persists across all 8 keyframes. The lower portion of the frame displays large white text overlay. Black letterboxing appears above and below the image frame.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'Trump is cutting programs that keep people alive' and 'Trump administration cut more than $1.8 billion in NIH grants' and 'Trump administration blocks funding for CDC health programs'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "doomsday is close at hand\n(Trump is cutting programs\nthat keep people alive )",
+      "role": "overlay"
+    },
+    {
+      "text": "In Trumps America, vaccination rates are declining and measles is spreading",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump administration cut more than $1.8 billion in NIH grants\nA new analysis shows which National Institutes of Health centers and outside institutions were hit hardest",
+      "role": "overlay"
+    },
+    {
+      "text": "Cutting federal funds for mRNA vaccine leaves the US vulnerable, experts say",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump administration blocks funding for CDC health programs, WSJ reports",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is detected in the Whisper transcript. The audio is the song \"doomsday\" by Lizzy McAlpine playing throughout.",
+  "emojis_present": [],
+  "audio_music": "The fingerprinted track \"doomsday\" by Lizzy McAlpine plays throughout the entire clip. The song has a melancholic, somber, and ominous tone — reinforcing the catastrophic framing of the on-screen text. No dialogue or voiceover is present.",
+  "editing_pacing": "Essentially a static or near-static single image used as a backdrop for a series of scrolling or sequentially displayed text overlays. Very slow pacing; no cuts between different visual scenes — the same close-up of Trump is held throughout while text changes to present successive news-headline-style claims.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "fear — evoked by the word 'doomsday' and references to people dying, disease spread, and loss of life-saving programs",
+    "alarm — driven by the cascading list of public health funding cuts (NIH, CDC, mRNA vaccines)",
+    "urgency — the phrase 'close at hand' and references to measles spreading and declining vaccination rates"
+  ],
+  "cultural_references": [
+    "'doomsday' by Lizzy McAlpine — the melancholic song is used to set an ominous, end-times emotional tone matching the apocalyptic framing of the text"
+  ],
+  "central_claim": "Trump's administration is cutting federal health programs — including NIH grants, CDC funding, and mRNA vaccine research — in ways that endanger public health and people's lives.",
+  "intended_effect": "To alarm viewers about the real-world health consequences of the Trump administration's federal funding cuts and inspire opposition or concern.",
+  "uncertainty_flags": [
+    "The face-ID system returned no confirmed match; the individual shown is identified as Donald Trump solely based on on-screen text references — visual confirmation via face recognition was not provided.",
+    "It is unclear whether the image of Trump is a photograph, a video still, or a near-frozen clip — all keyframes appear identical.",
+    "The specific news sources behind the headline-style text overlays are not fully attributed on screen (WSJ is mentioned once); the accuracy of the specific figures cited (e.g. '$1.8 billion in NIH grants') cannot be independently verified from the video alone."
+  ]
+}

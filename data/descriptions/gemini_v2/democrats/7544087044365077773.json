@@ -1,0 +1,109 @@
+{
+  "video_id": "7544087044365077773",
+  "visual_action": "A news clip from MSNBC is shown, which itself contains handheld footage from a town hall meeting. A man in a suit and tie, identified as a GOP representative, is seen walking away from a podium and exiting through a back door while an audience chants.",
+  "cast": [
+    {
+      "name": "unnamed GOP congressman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The on-screen text identifies him as \"This GOP congressman\" and the MSNBC chyron states \"GOP REP. EXITS THROUGH THE BACK DOOR\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The congressman is identified as \"GOP\" in the on-screen text and chyron."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The MSNBC logo and broadcast graphics are visible throughout the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears in the MSNBC chyron in the phrase \"TRUMP'S AGENDA\"."
+    },
+    {
+      "name": "Alabama Townhall Audience",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The chyron reads \"ALABAMA TOWNHALL AUDIENCE CHANTS 'SHAME! SHAME!'\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This GOP congressman just ran out the back door to avoid his constituents 🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP'S AGENDA",
+      "role": "chyron"
+    },
+    {
+      "text": "ALABAMA TOWNHALL AUDIENCE CHANTS “SHAME! SHAME!” AS GOP REP. EXITS THROUGH THE BACK DOOR",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNBC",
+      "role": "chyron"
+    },
+    {
+      "text": "SHAME! SHAME!",
+      "role": "overlay"
+    },
+    {
+      "text": "MAN IN CROWD: BYE FELCIA!",
+      "role": "overlay"
+    },
+    {
+      "text": "BYE, FELICIA!",
+      "role": "overlay"
+    },
+    {
+      "text": "THURSDAY DAPHNE, AL",
+      "role": "chyron"
+    },
+    {
+      "text": "INDIVISIBLE BALDWIN COUNTY",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An audience is heard chanting \"Shame! Shame! Shame!\" loudly and repeatedly. As the congressman exits, a man in the crowd yells, \"Bye, Felicia!\".",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "There is no music. The audio is composed entirely of diegetic sound from the town hall event, featuring a crowd chanting \"Shame!\" and one man shouting. This creates an atmosphere of public rebuke and authenticity.",
+  "editing_pacing": "The video is a single, static clip of a news broadcast. Text overlays have been added to comment on the action and emphasize words spoken by the crowd.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "'Bye, Felicia!' (a dismissive catchphrase from the 1995 movie 'Friday' that became a popular internet meme)"
+  ],
+  "central_claim": "A Republican congressman is a coward who fled a town hall to avoid accountability from his constituents.",
+  "intended_effect": "To generate mockery and contempt for the Republican congressman, portraying him and his party as unaccountable to voters.",
+  "uncertainty_flags": [
+    "The specific name of the GOP congressman is not provided in the video."
+  ]
+}

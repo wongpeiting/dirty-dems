@@ -1,0 +1,113 @@
+{
+  "video_id": "7424244394997386539",
+  "visual_action": "A split-screen view of a news broadcast. On the left, Joe Biden speaks at a podium with American flags and a sign that says 'RESPONSE'. On the right, an unidentified man in glasses looks at a tablet. A CNN news chyron is at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium for the entire duration of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the start reads, 'President Biden's response to Trump spreading lies...' and Biden addresses him directly, saying 'Mr. President Trump, former President Trump...'"
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and chyron are visible at the bottom of the screen, indicating the source of the broadcast footage."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man in glasses is shown on the right side of the split screen, looking at a device. He is not identified."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden's response to Trump spreading lies about Hurricanes Helene and Milton:",
+      "role": "overlay"
+    },
+    {
+      "text": "Washington, DC",
+      "role": "overlay"
+    },
+    {
+      "text": "RESPONSE",
+      "role": "other"
+    },
+    {
+      "text": "HAPPENING NOW",
+      "role": "chyron"
+    },
+    {
+      "text": "BIDEN TAKES QUESTIONS IN AFTERMATH OF HURRICANE MILTON",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN max",
+      "role": "chyron"
+    },
+    {
+      "text": "OF WALES MADE A SURPRISE VISIT TO SOUTHPORT, NORTHWEST ENGLAND, ON THURSDAY",
+      "role": "chyron"
+    },
+    {
+      "text": "MR.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT",
+      "role": "overlay"
+    },
+    {
+      "text": "A",
+      "role": "overlay"
+    },
+    {
+      "text": "MAN",
+      "role": "overlay"
+    },
+    {
+      "text": "HELP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Joe Biden directly addresses Donald Trump, saying, \"Mr. President Trump, former President Trump... get a life, man. Help these people.\"",
+  "emojis_present": [],
+  "audio_music": "The only audio is a clip of Joe Biden's speech, with no background music or sound effects.",
+  "editing_pacing": "The video is a static shot of a news broadcast with added text overlays that appear in sync with the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "indignation",
+    "exasperation",
+    "seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden is calling out Donald Trump for spreading lies about recent hurricanes, telling him to stop and focus on helping victims instead.",
+  "intended_effect": "To portray President Biden as a serious leader focused on disaster relief, while casting Donald Trump as a destructive and unhelpful figure.",
+  "uncertainty_flags": [
+    "The identity of the man on the right side of the screen is unknown."
+  ]
+}

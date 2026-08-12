@@ -1,0 +1,58 @@
+{
+  "video_id": "7291042130108189982",
+  "visual_action": "A static image displays a screenshot of a tweet from the 'Biden-Harris HQ' account. A cutout image of a woman, Miley Cyrus, is superimposed, reacting with various expressions. The tweet announces the campaign has joined Truth Social because they 'thought it would be very funny.' Below the tweet, there is additional on-screen text.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads '*Joe Biden pulling up to Truth Social with the truth*'. The tweet is from the 'Biden-Harris HQ' account."
+    },
+    {
+      "name": "Biden-Harris HQ",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The screenshot shows a tweet from the account 'Biden-Harris HQ' with the handle '@BidenHQ'."
+    },
+    {
+      "name": "Truth Social",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet states, 'We just joined Truth Social...'. The on-screen text also says, '*Joe Biden pulling up to Truth Social...*'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Biden-Harris HQ @BidenHQ\n\nWe just joined Truth Social, mostly because we thought it would be very funny.\n\nFollow us there for truths and retruths or whatever they call them: \ntruthsocial.com/@BidenHQ",
+      "role": "overlay"
+    },
+    {
+      "text": "*Joe Biden pulling up to Truth Social with the truth*",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The audio is a rapid-fire montage of a female voice (Miley Cyrus) saying the word \"True\" in several different ways, followed by laughter at the end.",
+  "emojis_present": [],
+  "audio_music": "A fast-paced audio edit consisting solely of vocal clips of the word \"True\" repeated in various tones, culminating in laughter. This is a meme sound effect used for comedic emphasis.",
+  "editing_pacing": "The video is a static image of a tweet screenshot, with a cutout of a person (Miley Cyrus) used as a changing reaction shot. The pacing is driven by the fast-cut audio.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement",
+    "confidence"
+  ],
+  "cultural_references": [
+    "Miley Cyrus is the woman shown in the reaction clip and whose voice is used for the audio.",
+    "The audio of a person repeatedly saying \"True\" is a recurring meme format on social media."
+  ],
+  "central_claim": "The Biden-Harris campaign has joined Truth Social to mock the platform and its users.",
+  "intended_effect": "To amuse viewers and portray the Biden-Harris campaign as witty and willing to troll its political opponents on their own turf.",
+  "uncertainty_flags": []
+}

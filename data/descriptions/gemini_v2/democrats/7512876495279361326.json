@@ -1,0 +1,108 @@
+{
+  "video_id": "7512876495279361326",
+  "visual_action": "A slideshow of still images depicting Donald Trump and Elon Musk. The video begins with several photos, some of which appear manipulated, showing Musk and Trump together in various friendly contexts, such as at a rally and in the Oval Office. The montage then transitions to screenshots of tweets attributed to Elon Musk that are critical of Trump, followed by a news headline from ABC News about Musk criticizing a Trump bill. The video concludes with a photo of Elon Musk looking serious, with three broken heart emojis superimposed below.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visibly present in multiple photos and identified as the author of the tweets shown on screen ('Elon Musk @elonmusk')."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visibly present in photos alongside Elon Musk and is the subject of the on-screen tweets and news headline (e.g., '@realDonaldTrump')."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a group photograph with Donald Trump and Elon Musk."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in an on-screen tweet as 'Dems'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in an on-screen tweet as 'the Republicans'."
+    },
+    {
+      "name": "Shibetoshi Nakamoto",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by name and Twitter handle ('@BillyM2k') in a screenshot of a tweet to which Elon Musk is replying."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and name appear on a news headline screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Elon Musk @elonmusk\nWithout me, Trump would have lost the election, Dems would control the House and the Republicans would be 51-49 in the Senate.",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk @elonmusk\nThe Trump tariffs will cause a recession in the second half of this year",
+      "role": "overlay"
+    },
+    {
+      "text": "Shibetoshi Nakamoto @BillyM2k\ncan i finally say that trump's tariffs are super stupid",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk @elonmusk\nTime to drop the really big bomb: @realDonaldTrump is in the Epstein files. That is the real reason they have not been made public.\n\nHave a nice day, DJT!",
+      "role": "overlay"
+    },
+    {
+      "text": "abc NEWS\n'KILL the BILL': Elon Musk continues to blast Trump's bill in barrage of social media posts",
+      "role": "overlay"
+    },
+    {
+      "text": "💔💔💔",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio is the song \"Silver Springs\" by Fleetwood Mac, with lyrics about a bitter end to a relationship and a promise of being unforgettable, such as 'You will never get away from the sound of the woman that loved you.'",
+  "emojis_present": [
+    "💔"
+  ],
+  "audio_music": "The video is set entirely to the Fleetwood Mac song 'Silver Springs.' The track is a powerful and emotional ballad about a painful breakup, which creates a dramatic, mournful, and accusatory atmosphere for the narrative of a political falling-out.",
+  "editing_pacing": "The video is a slideshow of still images, cutting between photographs and screenshots of text.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Several images appear to be digitally manipulated to create a fabricated history of a close relationship between Elon Musk and Donald Trump. One image superimposes Musk's head onto the body of someone jumping excitedly next to Trump at a rally. Another superimposes Musk's head onto a different person's body, showing him wearing a 'MAKE AMERICA GREAT AGAIN' hat while standing behind Trump in the Oval Office. A third image shows Musk with a child on his shoulders inside the Oval Office as Trump looks on from his desk, which is also a composite. These fabrications visually establish a close bond that the rest of the video then deconstructs.",
+  "emotions_signaled": [
+    "Betrayal",
+    "Sadness",
+    "Drama"
+  ],
+  "cultural_references": [
+    "Fleetwood Mac",
+    "Epstein files"
+  ],
+  "central_claim": "Elon Musk, once presented as a close ally of Donald Trump, has decisively turned against him with damaging public statements and criticisms.",
+  "intended_effect": "To convince the audience that Trump is a flawed figure whom even his most powerful allies eventually abandon and expose, thereby undermining his credibility.",
+  "uncertainty_flags": []
+}

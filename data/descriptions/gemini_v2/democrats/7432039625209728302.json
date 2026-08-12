@@ -1,0 +1,56 @@
+{
+  "video_id": "7432039625209728302",
+  "visual_action": "Gwen Walz speaks at a podium to an audience. The podium has a sign that reads \"TEXT WIN TO 30330\". Behind her is a green wall with some text and a large blue and white banner that reads \"HARR WAL\". The video is a static shot of her speaking.",
+  "cast": [
+    {
+      "name": "Gwen Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Gwen Walz is named in an on-screen text overlay and is the sole speaker in the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about a quote attributed to Donald Trump in the on-screen text and discussed by Gwen Walz in her speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald Trump said he'll \"be our protector, whether the women like it or not\" 👇👇👇",
+      "role": "overlay"
+    },
+    {
+      "text": "Gwen Walz: He does not trust us, he thinks he can speak for us, and he wants power over us. I never asked Trump to be my protector!!",
+      "role": "overlay"
+    },
+    {
+      "text": "TEXT WIN TO 30330",
+      "role": "other"
+    },
+    {
+      "text": "HARR WAL",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Gwen Walz tells an audience that Donald Trump has been saying he will be women's \"protector\" regarding reproductive freedom. She states that at a rally \"last night,\" Trump said he would continue to use that line \"whether the women like it or not.\" Walz argues this shows Trump does not trust women, thinks he can speak for them, and wants \"power over us.\" She concludes by declaring, \"I never asked Trump to be my protector!\", which is met with cheers from the crowd.",
+  "emojis_present": [
+    "👇"
+  ],
+  "audio_music": "The audio consists entirely of Gwen Walz's live speech, with audible reactions from the crowd including groans, laughter, and applause. There is no music.",
+  "editing_pacing": "The video is a single, static talking-head clip with text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's statement that he will be women's \"protector, whether they like it or not,\" reveals his desire to control women rather than respect their autonomy.",
+  "intended_effect": "To provoke outrage at Donald Trump's perceived misogyny and authoritarianism, particularly among female voters.",
+  "uncertainty_flags": []
+}

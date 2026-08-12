@@ -1,0 +1,42 @@
+{
+  "video_id": "7626801424776563982",
+  "visual_action": "The video opens on a fully black screen with white text overlaid at the bottom. It then reveals a close-up photo of Donald Trump in profile/side view, wearing a dark suit jacket, white shirt, and blue patterned tie. The photo prominently shows a visibly reddened, blotchy skin condition on Trump's neck/lower jaw area. The image appears to be a real press photograph. As the video progresses, the photo animates — it zooms, tilts, and rotates slightly on a black background. Decorative animated lens flare / bokeh light orb effects (rainbow-colored and white sparkle dots) proliferate around the photo frame, growing more numerous and colorful across frames. In later frames, a large iridescent rainbow lens-flare effect washes over the upper portion of Trump's face. The persistent text caption remains at the bottom throughout.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Confirmed via face-ID (InsightFace, medium confidence); also named explicitly in on-screen text: 'how trump feels going outside with his nasty rash and hand bruise'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "how trump feels going outside with his nasty rash and hand bruise",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A voice (likely AI-generated or filtered, female-sounding) says \"Oh so cute\" — apparently delivered in a sarcastic or mocking tone relative to the visual of Trump's neck rash. No other spoken dialogue is present.",
+  "emojis_present": [
+    "🤮"
+  ],
+  "audio_music": "The video uses the account's own original audio. A brief, light, airy ambient track (\"Ocean Air\" by Aerian, fingerprinted at 0.0s) plays underneath — gentle and floaty in tone. Over or alongside this, a voice says \"Oh so cute,\" which reads as sarcastic given the context. The overall audio effect is breezy and ironic rather than ominous or dramatic.",
+  "editing_pacing": "Slow, deliberate pacing. The video begins with a black screen holding the text, then slowly reveals and animates a single still photograph. The photo gently rotates and zooms across several seconds. Animated bokeh/lens-flare particle effects are layered on top and grow progressively more elaborate over the clip's duration — a common TikTok slideshow/aesthetic treatment. No hard cuts; smooth transitions throughout.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — the 'Oh so cute' audio paired with imagery of a visible skin condition on Trump's neck signals sarcastic derision",
+    "disgust — reinforced by the account caption '🤮' and the word 'nasty' in the on-screen text",
+    "amusement — the sparkly, whimsical lens-flare aesthetic and breezy music create a lighthearted, jeering tone"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post claims that Donald Trump has a visible and notable rash on his neck and a bruise on his hand, and frames his public appearances in this condition as embarrassing or ridiculous.",
+  "intended_effect": "To provoke mockery and disgust toward Trump by drawing attention to visible physical ailments — the neck rash shown in the photo and an alleged hand bruise — using ironic audio and playful visual effects to reinforce derision.",
+  "uncertainty_flags": [
+    "The 'hand bruise' referenced in the on-screen text is not visible in any of the keyframes shown — only the neck rash is visible in the photo; cannot confirm the hand bruise claim from the video imagery alone.",
+    "Cannot verify whether the neck rash shown is real, photoshopped, or medically significant — the image appears to be a genuine press photo but image authenticity is not fully confirmed.",
+    "The voice saying 'Oh so cute' may be AI-generated, a filtered human voice, or a borrowed audio clip; origin is unclear beyond 'original sound' label.",
+    "The specific event or date when this photo of Trump was taken is unknown from the available frames."
+  ]
+}

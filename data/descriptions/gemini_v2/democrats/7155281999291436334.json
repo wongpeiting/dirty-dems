@@ -1,0 +1,70 @@
+{
+  "video_id": "7155281999291436334",
+  "visual_action": "A woman repeatedly peeks out from behind a door with a concerned expression. Each time she does, a different text box appears on screen describing a policy proposal, such as 'lowering prescription drug costs' or 'tackling the climate crisis'. After each appearance, a loud door slam is heard and the door closes, implying she is being rejected.",
+  "cast": [
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The main on-screen text is 'POV: you're trying to get Republicans to support...'"
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman acts out the scenario of being repeatedly rejected at a door."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POV: you're trying to get Republicans to support...",
+      "role": "caption"
+    },
+    {
+      "text": "lowering prescription drug costs",
+      "role": "overlay"
+    },
+    {
+      "text": "tackling the climate crisis 🌍",
+      "role": "overlay"
+    },
+    {
+      "text": "lowering energy costs",
+      "role": "overlay"
+    },
+    {
+      "text": "creating good-paying jobs",
+      "role": "overlay"
+    },
+    {
+      "text": "lowering health care costs 🤗",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a series of clips from the cartoon 'SpongeBob SquarePants' where a character knocks on a door and offers various things, such as 'Hey buddy!', 'Squidward!', 'Free cleaning service?', 'Census taker?', and 'Would you like to buy some Gil Scout cookies?'. Each line is immediately followed by a loud door slam sound effect.",
+  "emojis_present": [
+    "🌍",
+    "🤗"
+  ],
+  "audio_music": "The audio is a comedic sound clip from the cartoon 'SpongeBob SquarePants'. There is no music, only dialogue from the character SpongeBob followed by a recurring loud door-slam sound effect. The effect is jarring and humorous, used to mock the implied reaction of the person behind the door.",
+  "editing_pacing": "The video uses fast, repetitive cuts. Each time the woman peeks out with a new policy proposal on screen, it quickly cuts to the door slamming shut, creating a rhythmic and comedic effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "frustration",
+    "humor"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants",
+    "Squidward Tentacles",
+    "POV meme format"
+  ],
+  "central_claim": "Republicans refuse to even consider popular policy proposals like lowering healthcare costs or creating jobs, immediately shutting down any attempt at discussion.",
+  "intended_effect": "To portray Republicans as unreasonable and hostile to common-sense policies, thereby making them seem obstructionist and out of touch, while generating amusement at their expense.",
+  "uncertainty_flags": []
+}

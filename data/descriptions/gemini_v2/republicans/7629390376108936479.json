@@ -1,0 +1,120 @@
+{
+  "video_id": "7629390376108936479",
+  "visual_action": "The video is a montage of clips presented as an investigative report. It includes footage of the San Francisco skyline, California Governor Gavin Newsom speaking at a podium, and various street scenes in San Francisco showing homeless individuals, people lining up for services, and general city life. The report features interviews with two transgender women, one of whom has her face blurred, discussing their experiences. It also shows news chyrons from CBS News, graphics about California's Medi-Cal program, and footage of community outreach vans. The video is interspersed with B-roll of American, Californian, Pride, and Transgender Pride flags.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking at a press conference, identified by face recognition, and is the central target of the video's claims, as mentioned in the on-screen text: \"Illegal aliens are flooding Newsom's California\"."
+    },
+    {
+      "name": "Manhattan Institute",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's logo appears repeatedly throughout the video, indicating they are the producers of the content."
+    },
+    {
+      "name": "Lysa (unnamed undocumented transgender woman)",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The narrator identifies her as \"Lysa,\" an undocumented transgender person from Honduras, and presents her story as a central example of the video's claim. She is shown on screen but does not speak directly to the camera in English."
+    },
+    {
+      "name": "Jacqueline (unnamed undocumented transgender woman)",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The narrator identifies her as \"Jacqueline,\" and she is interviewed on camera, stating she received taxpayer-funded medical procedures after coming from Mexico. Her story is a key piece of evidence for the video's argument."
+    },
+    {
+      "name": "CBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A news chyron from \"CBS NEWS 24/7\" is shown on screen discussing Newsom's healthcare policy for undocumented immigrants."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🚨 WATCH: Illegal aliens are flooding Newsom’s California to take advantage of his taxpayer-funded sex changes",
+      "role": "overlay"
+    },
+    {
+      "text": "Manhattan Institute",
+      "role": "overlay"
+    },
+    {
+      "text": "UNIVERSAL HEALTHCARE FOR ALL",
+      "role": "overlay"
+    },
+    {
+      "text": "THE CALIFORNIA BLUEPRINT",
+      "role": "other"
+    },
+    {
+      "text": "YOUR IMMIGRATION STATUS",
+      "role": "overlay"
+    },
+    {
+      "text": "January 2022",
+      "role": "overlay"
+    },
+    {
+      "text": "CA GOV: NEWSOM PROPOSES SCALING BACK FREE HEALTH CARE COVERAGE FOR UNDOCUMENTED IMMIGRANTS IN STATE",
+      "role": "chyron"
+    },
+    {
+      "text": "AMERICA DECIDES",
+      "role": "chyron"
+    },
+    {
+      "text": "LYSA SAYS HE'S STAYING IN A HOMELESS SHELTER IDENTIFIES AS TRANSGENDER AND IS UNDERGOING HORMONE THERAPY",
+      "role": "overlay"
+    },
+    {
+      "text": "JACQUELINE CLAIMS HE'S NOW A US CITIZEN",
+      "role": "overlay"
+    },
+    {
+      "text": "TAXPAYER FUNDED FREE",
+      "role": "overlay"
+    },
+    {
+      "text": "WELCOME TO THE TRANSGENDER DISTRICT",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A narrator from the Manhattan Institute argues that undocumented immigrants are exacerbating San Francisco's homelessness and drug problems. The report focuses on transgender individuals, presenting two women, Lysa from Honduras and Jacqueline from Mexico, as examples of people coming to California to receive taxpayer-funded gender-affirming care. Jacqueline is interviewed and states she received free, taxpayer-funded breast implants and is waiting for more surgery. The narrator links this to Governor Gavin Newsom's policy of providing \"universal healthcare for all... regardless of your immigration status\" via the state's Medi-Cal program.",
+  "emojis_present": [
+    "🚨"
+  ],
+  "audio_music": "The video features a male narrator speaking over a continuous, low-volume instrumental track that has a serious and slightly ominous tone, typical of an investigative news report. The audio also includes clips of Gavin Newsom speaking and street interviews.",
+  "editing_pacing": "The video is edited like a fast-paced television news segment or short documentary, with quick cuts between interviews, B-roll footage of San Francisco streets, archival clips of Gavin Newsom, and informational graphics.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Disgust",
+    "Fear",
+    "Concern"
+  ],
+  "cultural_references": [
+    "San Francisco Giants",
+    "San Francisco 49ers"
+  ],
+  "central_claim": "Governor Gavin Newsom's policy of providing free healthcare to undocumented immigrants is attracting transgender individuals to California to receive taxpayer-funded gender-affirming care, thereby worsening the state's social and fiscal problems.",
+  "intended_effect": "To provoke anger towards Gavin Newsom's policies and to foster resentment against undocumented transgender immigrants, portraying them as taking advantage of taxpayer money.",
+  "uncertainty_flags": [
+    "The identities of the interviewed individuals ('Lysa', 'Jacqueline') are provided by the narrator, but their full stories and the context of their interviews are not independently verified.",
+    "The video's claim that Jacqueline is now a US citizen seems to conflict with the overall narrative framing of her as an undocumented person, creating some ambiguity."
+  ]
+}

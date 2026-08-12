@@ -1,0 +1,92 @@
+{
+  "video_id": "7561635382698282295",
+  "visual_action": "A static, close-up shot of Alexandria Ocasio-Cortez speaking passionately in what appears to be a television studio setting. A chyron for CNN is visible at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the only person shown on screen and is speaking for the entire duration of the video. Face-ID also confirms her presence."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "AOC repeatedly and emphatically states, \"You're damn right it's a Democratic priority...\" when listing policies. The post is from the @democrats account."
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "AOC asks, \"You know what this country looked like before the EPA?\""
+    },
+    {
+      "name": "Deloitte",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "AOC names the company when talking about corporations poisoning communities: \"corporations like Deloitte and 3M\"."
+    },
+    {
+      "name": "3M",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "AOC names the company when talking about corporations poisoning communities: \"corporations like Deloitte and 3M\"."
+    },
+    {
+      "name": "Food and Drug Administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "AOC says, \"And that's why they want to eliminate the FDA.\""
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is part of the chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AOC: You're damn right it's a Democratic priority to keep people healthy and bring down the cost of housing",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN TOWN HALL SHUTDOWN AM",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Alexandria Ocasio-Cortez passionately defends government regulations and agencies like the EPA, arguing that before them, corporations poisoned communities and set rivers on fire. She forcefully embraces the label \"Democratic priority\" for policies aimed at preventing people from being poisoned, lowering housing costs, and raising the minimum wage, framing these as essential for achieving the American dream and protecting people.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio consists solely of Alexandria Ocasio-Cortez's speech. There is no background music or sound effects. Her delivery is passionate and emphatic.",
+  "editing_pacing": "The video is a single, static talking-head shot. The only editing involves text overlays that highlight her words as she speaks.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Passion",
+    "Conviction",
+    "Righteous anger",
+    "Defiance"
+  ],
+  "cultural_references": [
+    "the American dream"
+  ],
+  "central_claim": "The Democratic Party's platform, which includes environmental regulations, affordable housing, and a higher minimum wage, is a necessary defense of ordinary people against corporate harm.",
+  "intended_effect": "To inspire pride and support for the Democratic Party's agenda by framing its policies as morally righteous and essential for the well-being of the American people.",
+  "uncertainty_flags": []
+}

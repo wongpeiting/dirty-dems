@@ -1,0 +1,48 @@
+{
+  "video_id": "7210944014474890538",
+  "visual_action": "The video cycles through a series of visually dynamic, heavily stylized scenes. It opens with an abstract warm golden/amber light-burst or zoom-tunnel effect with no people visible. It then cuts to Kevin McCarthy shown holding a Speaker's gavel aloft and smiling broadly, set against a dark background with dramatic sparks and light flares — this appears to be a real photo of McCarthy with motion-graphic particle/spark effects composited around him. Subsequent frames alternate between: McCarthy's face appearing in dark, ember-lit, brooding compositions; abstract blue/purple bokeh and light-burst backgrounds with no people; and McCarthy's gavel-holding image again set against the blue/purple particle field. Throughout all frames, the same white text overlay with black outline remains static at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Face confirmed by authoritative face-ID; named in on-screen text overlay throughout the entire video"
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text reads '220 House Republicans voted for a bill to make it easier for the ultra-wealthy to cheat on their taxes'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Just letting everyone know Kevin McCarthy and 220 House Republicans voted for a bill to make it easier for the ultra-wealthy to cheat on their taxes",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue or voiceover is present. The Whisper transcript is empty, consistent with the TikTok sound label indicating original audio. The video's message is delivered entirely through on-screen text.",
+  "emojis_present": [],
+  "audio_music": "No commercial track matched. The audio appears to be an original or ambient sound — likely a cinematic, dramatic instrumental score or electronic hum consistent with the intense visual effects (sparks, light bursts). The overall sonic mood appears ominous or dramatic, matching the high-energy visual particle effects. No spoken words, voiceover, or identifiable meme sounds detected per transcript.",
+  "editing_pacing": "Fast-paced slideshow of stylized keyframes with dramatic motion-graphic transitions — warm golden light bursts give way to dark ember scenes featuring McCarthy, then transition to cool blue/purple particle fields. The edits are rhythmic and visually kinetic, using zoom effects, light flares, bokeh overlays, and particle animations to create a high-energy, cinematic feel despite being a static-text post.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage — cued by the framing of McCarthy 'making it easier to cheat on taxes'",
+    "urgency — cued by the 'just letting everyone know' phrasing implying a public alert",
+    "distrust — cued by the accusation of enabling wealthy tax evasion"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kevin McCarthy and 220 House Republicans voted for legislation that the post characterizes as making it easier for ultra-wealthy individuals to cheat on their taxes.",
+  "intended_effect": "To inform and provoke anger among viewers about a House Republican legislative vote, framing it as a corrupt giveaway to the ultra-wealthy at the expense of ordinary taxpayers.",
+  "uncertainty_flags": [
+    "The specific bill referenced is not named in the video; the characterization of the bill as enabling tax cheating for the ultra-wealthy is the post's framing and cannot be independently verified from the video alone.",
+    "Audio content is uncertain — the Whisper transcript is empty and no commercial track was matched; it is unclear whether there is ambient music, sound effects, or silence.",
+    "The particle/spark effects around McCarthy's photo may be composited motion graphics applied to an original real photo, but this is standard stylistic editing, not fabrication of events.",
+    "Exact date of the referenced vote is not specified in the video."
+  ]
+}

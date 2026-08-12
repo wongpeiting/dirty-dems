@@ -1,0 +1,52 @@
+{
+  "video_id": "7344104599151775018",
+  "visual_action": "A slideshow of two still photos of Donald Trump. The first is a formal portrait of him in a suit in front of an American flag. The second shows him on a golf course, sitting in a golf cart and wearing a red 'MAKE AMERICA GREAT AGAIN' hat. Text is overlaid on both images.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of both photographs shown in the video, and the on-screen text is framed as a sarcastic confession from him."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, 'accepting that I'm a loser and Joe Biden beat me in 2020'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "social media is fake... so here's something I'm struggling with",
+      "role": "overlay"
+    },
+    {
+      "text": "accepting that I'm a loser and Joe Biden beat me in 2020",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic piano track plays throughout the video, mimicking the style of sincere, confessional social media posts to create a satirical effect.",
+  "editing_pacing": "The video is a simple slideshow consisting of two static images with a single cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "satire"
+  ],
+  "cultural_references": [
+    "The video's format parodies the 'social media is fake, so here's my vulnerability' trend popular on platforms like TikTok."
+  ],
+  "central_claim": "Donald Trump is a sore loser who refuses to accept his legitimate 2020 election defeat to Joe Biden.",
+  "intended_effect": "To mock Donald Trump and reinforce the narrative that he lost the 2020 election.",
+  "uncertainty_flags": []
+}

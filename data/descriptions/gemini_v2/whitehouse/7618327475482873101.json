@@ -1,0 +1,97 @@
+{
+  "video_id": "7618327475482873101",
+  "visual_action": "A montage of interviews with travelers at an airport, showing concern. This is intercut with extensive footage of very long lines of people with luggage, snaking through an airport terminal, into a parking garage, and outside the building. The video ends with a title card for \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "unnamed travelers",
+      "kind": "unknown",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Several people are interviewed at an airport expressing their opinions on the situation."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'FOX NEWS ALERT' chyron is visible during the interview segments."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'Democrats’ DHS shutdown is causing TSA delays across the country. Thank a Democrat.' The caption also says 'Thank a Democrat.'"
+    },
+    {
+      "name": "TSA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text mentions 'TSA delays' and interviews discuss agents working without pay."
+    },
+    {
+      "name": "DHS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text mentions 'Democrats' DHS shutdown'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with a title card reading 'THE WHITE HOUSE' and is posted by the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "TSA AGENTS WORKING",
+      "role": "chyron"
+    },
+    {
+      "text": "AGENTS WORKING WITHOUT PAY",
+      "role": "chyron"
+    },
+    {
+      "text": "Democrats' DHS shutdown is causing TSA delays across the country.",
+      "role": "overlay"
+    },
+    {
+      "text": "Thank a Democrat.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video features several travelers expressing sympathy for TSA agents working without pay during a shutdown, saying things like \"I am sort of worried for them and their families\" and \"Everybody needs to get paid for the work that they do.\" This is followed by a news reporter's voiceover describing \"snaking\" lines at an airport that stretch \"out the main terminal... all the way out to the parking garage.\"",
+  "emojis_present": [],
+  "audio_music": "A somber and dramatic instrumental track plays throughout the video, creating a serious and concerned tone that emphasizes the disruption and hardship being shown.",
+  "editing_pacing": "The video uses quick cuts between talking-head interviews and a montage of B-roll footage showing chaotic, long lines at an airport.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sympathy",
+    "frustration",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party is to blame for a government shutdown that is causing massive airport delays and harming both travelers and unpaid TSA workers.",
+  "intended_effect": "To make viewers blame Democrats for the travel chaos and hardship depicted.",
+  "uncertainty_flags": [
+    "The provided transcript includes a line about FEMA that is not audible in the video, suggesting a possible transcription error."
+  ]
+}

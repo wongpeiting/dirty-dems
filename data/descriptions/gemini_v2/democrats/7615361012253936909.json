@@ -1,0 +1,55 @@
+{
+  "video_id": "7615361012253936909",
+  "visual_action": "The video presents a side-by-side comparison of two presidential-style addresses. First, it shows a clip of George W. Bush speaking from what appears to be the Oval Office, seated at his desk with American flags behind him. The video then cuts to a clip of Donald Trump wearing a white 'USA' hat, speaking from behind a podium with the presidential seal, also with American flags in the background.",
+  "cast": [
+    {
+      "name": "George W. Bush",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears in the first half of the video, identified by on-screen text as 'Bush invading Iraq, 2003', speaking about military operations."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears in the second half of the video, identified by on-screen text as 'Trump invading Iran, 2026', speaking about military operations."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Bush invading Iraq, 2003",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump invading Iran, 2026",
+      "role": "overlay"
+    },
+    {
+      "text": "MY FELLOW CITIZENS, AT THIS HOUR, AMERICAN AND COALITION FORCES ARE IN THE EARLY STAGES OF MILITARY OPERATIONS TO DISARM IRAQ, TO FREE ITS PEOPLE, AND TO DEFEND THE WORLD FROM GRAVE DANGER",
+      "role": "caption"
+    },
+    {
+      "text": "A SHORT TIME AGO, THE UNITED STATES MILITARY BEGAN MAJOR COMBAT OPERATIONS IN IRAN. OUR OBJECTIVE IS TO DEFEND THE AMERICAN PEOPLE BY ELIMINATING EMINENT THREATS FROM THE IRANIAN REGIME.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio juxtaposes two speeches announcing military action. First, George W. Bush's voice is heard announcing the start of military operations \"to disarm Iraq, to free its people, and to defend the world from grave danger.\" This is followed by audio of Donald Trump's voice announcing that the U.S. military has begun \"major combat operations in Iran\" with the objective of \"eliminating imminent threats from the Iranian regime.\" The audio of Trump's speech is a voice clone or deepfake.",
+  "emojis_present": [],
+  "audio_music": "A continuous, ominous, and dramatic instrumental track plays throughout the entire video, linking the two segments and creating a serious, foreboding tone.",
+  "editing_pacing": "The video consists of two static, talking-head shots, with a single direct cut from the first clip of George W. Bush to the second clip of Donald Trump.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The audio of Donald Trump's speech is fabricated, likely using AI-voice cloning technology, and has been placed over a separate video of him at a podium. This creates a speculative, hypothetical scenario of him announcing an invasion of Iran for political messaging purposes.",
+  "emotions_signaled": [
+    "Fear",
+    "Apprehension",
+    "Dread"
+  ],
+  "cultural_references": [],
+  "central_claim": "A second Donald Trump presidency would lead to another major, unnecessary war in the Middle East, paralleling George W. Bush's invasion of Iraq.",
+  "intended_effect": "To generate fear and concern among viewers about the potential foreign policy consequences of re-electing Donald Trump.",
+  "uncertainty_flags": []
+}

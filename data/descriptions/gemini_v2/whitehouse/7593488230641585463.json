@@ -1,0 +1,96 @@
+{
+  "video_id": "7593488230641585463",
+  "visual_action": "A fast-paced montage of chaotic scenes. It includes a large nighttime protest, law enforcement in military-style gear deploying a yellow spray on a person in a snowy environment, a Fox News clip of police pushing on a car, an angry woman screaming, people running from a car, another nighttime protest with signs, and police in riot gear clashing with a crowd. The montage concludes with a clear shot of JD Vance speaking at a White House podium, followed by a black-and-white graphic of the White House.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium with the Vice Presidential seal, delivering the final message of the video."
+    },
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video opens with text overlaid on a protest scene reading, 'Kristi Noem will hang'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The agency is the central subject of the video, mentioned in the caption ('STAND WITH ICE 🧊'), on a protest sign ('ICE OUT!'), in a woman's dialogue ('It's ICE'), and in JD Vance's closing remarks ('The president stands with ICE')."
+    },
+    {
+      "name": "unnamed protestors",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Multiple clips show large crowds of people protesting, chanting, and clashing with police. The caption frames them as the 'far left'."
+    },
+    {
+      "name": "unnamed law enforcement officers",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Various clips show police officers in different uniforms, including riot gear, interacting with civilians. JD Vance's speech explicitly states support for 'all of our law enforcement officers'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A news clip included in the montage features the 'FOX NEWS ALERT' branding and logo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kristi Noem will hang",
+      "role": "overlay"
+    },
+    {
+      "text": "OVER MN FATAL ICE-INVOLVED S... FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "kouts",
+      "role": "overlay"
+    },
+    {
+      "text": "ICE OUT! FEDS OUT!",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a chaotic mix of sounds from protests and confrontations, layered with a tense musical score. A crowd chants \"Kristi Noem will hang.\" One woman is heard yelling, \"It's ICE, they're trying to kidnap people, please pull behind them.\" Other voices yell profanities (which are bleeped out) and chant \"Shame on you.\" The audio becomes clear at the end for JD Vance's speech, where he states, \"The president stands with ICE. I stand with ICE. We stand with all of our law enforcement officers.\"",
+  "emojis_present": [
+    "🧊"
+  ],
+  "audio_music": "A tense, ominous, and dramatic musical score plays under a cacophony of protest sounds, including chanting, shouting, and bleeped-out profanity. The chaotic sounds and music create a sense of danger and disorder. The music and background noise fade out for JD Vance's concluding speech, which is delivered in silence, before the music swells again for the final graphic.",
+  "editing_pacing": "The video uses a fast-cut montage style, rapidly cycling through various clips of protests and confrontations to create a feeling of widespread chaos. This is contrasted by the final, stable shot of JD Vance delivering a speech directly to the camera.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Alarm",
+    "Anger",
+    "Solidarity"
+  ],
+  "cultural_references": [],
+  "central_claim": "The 'far left' engages in dangerous, violent rhetoric and action against law enforcement agencies like ICE, but the administration stands firmly in support of these officers.",
+  "intended_effect": "To generate alarm about the behavior of protestors, provoke anger towards them, and rally support for ICE and law enforcement.",
+  "uncertainty_flags": [
+    "The specific dates and locations of the various protest clips are not identified."
+  ]
+}

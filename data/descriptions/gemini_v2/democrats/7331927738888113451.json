@@ -1,0 +1,60 @@
+{
+  "video_id": "7331927738888113451",
+  "visual_action": "The video consists of a slideshow of two still images. The first is of Donald Trump on a golf course, wearing a red 'MAKE AMERICA GREAT AGAIN' hat. The second is of Joe Biden, smiling and wearing sunglasses and a suit, outdoors on a lawn.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in the first still image and is mentioned in the on-screen text on the second image: 'He's the only person that's ever beat Trump'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in the second still image. The text overlays position him as the protagonist against Trump."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "He said he's going to be a dictator on day one.",
+      "role": "overlay"
+    },
+    {
+      "text": "He's the only person that's ever beat Trump",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, rhythmic instrumental track with a driving beat plays consistently throughout the video, creating a confident and hype-filled tone.",
+  "editing_pacing": "The video is a simple slideshow, cutting from one still image to another.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "pride",
+    "confidence"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden is the only person who has proven he can defeat the dictatorial threat posed by Donald Trump.",
+  "intended_effect": "To create alarm about Donald Trump while building confidence in Joe Biden as the necessary choice to stop him.",
+  "uncertainty_flags": []
+}

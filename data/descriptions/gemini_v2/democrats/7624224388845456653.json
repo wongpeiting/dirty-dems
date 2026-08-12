@@ -1,0 +1,85 @@
+{
+  "video_id": "7624224388845456653",
+  "visual_action": "The video is a slideshow of static images. First, a screenshot of a tweet from 'FactPost' is shown, which claims Donald Trump has fired Pam Bondi. This tweet contains an embedded screenshot of a statement from Donald Trump praising Bondi. Next, a close-up photo of Pam Bondi speaking is displayed. Finally, a screenshot of a tweet from 'Daily Mail US' is shown, which reports that Bondi begged Trump not to fire her.",
+  "cast": [
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her photo is shown and she is the subject of all the on-screen tweets."
+    },
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in all on-screen tweets as the person who fired Pam Bondi, and a statement attributed to him is shown."
+    },
+    {
+      "name": "Todd Blanche",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in Trump's on-screen statement as the incoming Acting Attorney General."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from the account @factpostnews is shown on screen."
+    },
+    {
+      "name": "Daily Mail US",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from the account @Daily_MailUS is shown on screen."
+    },
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the Daily Mail tweet as the location of a 'dramatic showdown'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews\nTrump has fired Pam Bondi and announced that she will will transition to an \"important\" job in the private sector.",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump @realDonaldTrump\nPam Bondi is a Great American Patriot and a loyal friend, who faithfully served as my Attorney General over the past year. Pam did a tremendous job overseeing a massive crackdown in Crime across our Country, with Murders plummeting to their lowest level since 1900. We love Pam, and she will be transitioning to a much needed and important new job in the private sector, to be announced at a date in the near future, and our Deputy Attorney General, and a very talented and respected Legal Mind, Todd Blanche, will step in to serve as Acting Attorney General. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "Daily Mail US @Daily_MailUS\nEXCLUSIVE: Pam Bondi begged Trump not to fire her during dramatic White House showdown as insider reveals his final straw",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists solely of a pop song with lyrics. There is no spoken dialogue.",
+  "emojis_present": [],
+  "audio_music": "A pop song, identified as 'Goodbye' by Sabrina Carpenter, plays throughout. The lyrics, including 'arrivederci,' 'au revoir,' and culminating in an expletive and 'goodbye,' create a mocking and celebratory tone about Pam Bondi's firing.",
+  "editing_pacing": "The video is a simple slideshow of static images, with cuts paced to the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Schadenfreude",
+    "Triumph"
+  ],
+  "cultural_references": [
+    "Sabrina Carpenter"
+  ],
+  "central_claim": "Despite Donald Trump's positive public statement about her departure, Pam Bondi was acrimoniously fired in an embarrassing fashion that should be celebrated.",
+  "intended_effect": "To encourage mockery of Pam Bondi and the Trump administration by framing her firing as a dramatic and humiliating event.",
+  "uncertainty_flags": []
+}

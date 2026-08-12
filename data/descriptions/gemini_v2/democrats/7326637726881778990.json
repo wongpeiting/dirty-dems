@@ -1,0 +1,83 @@
+{
+  "video_id": "7326637726881778990",
+  "visual_action": "The video is a montage that alternates between clips of Nikki Haley speaking at a campaign event and various clips of Donald Trump speaking at rallies and interviews. Haley stands on a stage with American flags and banners for her campaign. Trump is shown at podiums in different settings. A red text box is overlaid at the top of the screen throughout the entire video. Towards the end, a graphic appears with an audio waveform, identifying Donald Trump and Brian Kilmeade as speakers.",
+  "cast": [
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown speaking about Donald Trump's mental state. Her criticism is used as the framing for the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown in numerous clips making statements that are presented as confusing or incorrect. He is the central subject of the video's criticism."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Nikki Haley says Trump incorrectly claimed he was running against Obama. Trump is also shown saying, \"And we did with Obama.\""
+    },
+    {
+      "name": "Brian Kilmeade",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "His name appears on screen and his voice is heard correcting Trump, saying \"Well, you mean President Biden.\""
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Brian Kilmeade when correcting Donald Trump's reference to Obama."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account, implying they are the creators and messengers of this content."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "We don't agree with Nikki Haley on everything, but we agree on this much:",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "BRIAN KILMEADE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video intercuts clips of Nikki Haley criticizing Donald Trump with clips of Trump making seemingly confused statements. Haley claims Trump falsely accused her of mishandling January 6th security, noting she wasn't in office. She says, \"They're saying he got confused.\" This is followed by a montage of Trump making odd remarks about needing an ID to buy bread, whales washing up because of wind, and veterans not having cell phones. Haley then states Trump claimed he was running against Obama, which he never did. This is juxtaposed with a clip of Trump saying, \"And we did with Obama,\" and another clip where he refers to Obama and is corrected by interviewer Brian Kilmeade, who says, \"you mean President Biden.\" The video ends with Haley saying, \"Don't put our country at risk like this.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, low-tempo, and slightly tense instrumental track plays throughout the video, creating a serious and concerned atmosphere.",
+  "editing_pacing": "The video uses fast cuts, alternating between different speakers and clips to create a montage that contrasts claims with supposed evidence. The pacing is rapid and argumentative.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Worry",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is mentally unfit for the presidency, as evidenced by his confusing statements and accusations, a point his Republican rival Nikki Haley also makes.",
+  "intended_effect": "To persuade viewers that Donald Trump is mentally incompetent and therefore a risky choice for president, using one of his political opponents as a seemingly credible source for this criticism.",
+  "uncertainty_flags": []
+}

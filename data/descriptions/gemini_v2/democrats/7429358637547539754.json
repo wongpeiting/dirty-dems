@@ -1,0 +1,102 @@
+{
+  "video_id": "7429358637547539754",
+  "visual_action": "The video is a fast-paced montage of Kamala Harris. It opens with a close-up of her speaking, then cuts to various clips of her on the campaign trail: walking with Tim Walz and others, at a rally in a \"DETROIT -VS- EVERYBODY\" t-shirt, disembarking a plane and being saluted, on stage with Tim Walz in front of a \"HARRIS WALZ\" backdrop, at a debate stage with a chyron reading \"HARRIS V. TRUMP\", cooking in a kitchen, and waving to crowds.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is the sole subject of the montage, appearing in every clip, and her voice is featured at the beginning stating, \"I get elected president of the United States.\""
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown walking with Harris and on stage with her in front of a large \"HARRIS WALZ\" sign."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An on-screen chyron from a debate clip reads \"HARRIS V. TRUMP,\" positioning him as her opponent."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The account handle \"@THEDEMOCRATS\" is watermarked throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LET ME TELL YOU",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT'S GONNA HELP US MOVE ON",
+      "role": "overlay"
+    },
+    {
+      "text": "I GET ELECTED PRESIDENT OF THE UNITED STATES",
+      "role": "overlay"
+    },
+    {
+      "text": "@THEDEMOCRATS",
+      "role": "overlay"
+    },
+    {
+      "text": "DETROIT -VS- EVERYBODY",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS V. TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "NBC NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "DECISION 2024",
+      "role": "chyron"
+    },
+    {
+      "text": "FREEDOM",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video begins with Kamala Harris saying, \"Let me tell you what's gonna help us move on. I get elected president of the United States.\" The rest of the video's audio is a hip-hop song.",
+  "emojis_present": [],
+  "audio_music": "The video starts with spoken dialogue from Kamala Harris. As she finishes her line, an upbeat, energetic hip-hop track (GloRilla's \"TGIF\") begins and plays for the remainder of the video, functioning as a hype track for the montage.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes, creating an energetic and dynamic feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Excitement",
+    "Inspiration"
+  ],
+  "cultural_references": [
+    "The song playing is \"TGIF\" by rapper GloRilla.",
+    "The \"DETROIT -VS- EVERYBODY\" T-shirt worn by Harris is a reference to a popular apparel brand and slogan from Detroit."
+  ],
+  "central_claim": "Electing Kamala Harris as president is the way for the country to move forward, and she has the energy and support to win.",
+  "intended_effect": "To generate excitement and confidence among supporters for Kamala Harris's presidential campaign.",
+  "uncertainty_flags": []
+}

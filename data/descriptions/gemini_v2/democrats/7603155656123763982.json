@@ -1,0 +1,49 @@
+{
+  "video_id": "7603155656123763982",
+  "visual_action": "The video displays a still or slow-moving clip of a younger Donald Trump and Jeffrey Epstein standing together. Initially, the clip is labeled \"raw.\" It then transitions to an \"edited\" version where various visual effects are sequentially overlaid on the same image: first a swirling red, fiery aura, then floating multi-colored hearts, and finally a shimmering blue and purple ethereal glow with sparkles.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visibly on screen throughout the video, as confirmed by face recognition."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown standing next to Donald Trump throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "this is why editing is so important raw",
+      "role": "overlay"
+    },
+    {
+      "text": "this is why editing is so important edited",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a repeated line from a song: \"How can we go back to being friends when we just shared a bed?\"",
+  "emojis_present": [],
+  "audio_music": "A melancholic, romantic indie pop song, identified as \"back to friends\" by sombr, plays throughout the video. The lyrics about a past intimate relationship are used to create a satirical tone when paired with the visuals.",
+  "editing_pacing": "The video is based on a single, mostly static shot, with visual effects layered on top in a sequence, creating a slideshow-like feel rather than using cuts.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video adds satirical digital effects to footage of Trump and Epstein. A red fiery aura, floating hearts, and a sparkling glow are superimposed onto the clip to mockingly frame their relationship as romantic, in the style of a fan-made 'shipping' video.",
+  "emotions_signaled": [
+    "mockery",
+    "satire",
+    "disgust"
+  ],
+  "cultural_references": [
+    "The video's format mimics 'fan edits' or 'shipping videos,' a popular internet trend where fans create romantic video montages of celebrities or fictional characters, often set to emotional music."
+  ],
+  "central_claim": "The video satirically implies an inappropriately close and intimate relationship between Donald Trump and Jeffrey Epstein.",
+  "intended_effect": "To generate disgust and ridicule towards Donald Trump by framing his association with Jeffrey Epstein in a mock-romantic way.",
+  "uncertainty_flags": []
+}

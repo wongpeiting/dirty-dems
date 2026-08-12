@@ -1,0 +1,65 @@
+{
+  "video_id": "7558949684631457079",
+  "visual_action": "A news clip from MSNBC shows Illinois Governor J.B. Pritzker being interviewed on a city street amidst a crowd of people. A news chyron is at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "J B Pritzker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face-ID and on-screen text 'GOV. JB PRITZKER'. He is the one speaking throughout the clip."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the top overlay text 'Governor Pritzker to Trump', the MSNBC chyron 'PRES. TRUMP'S CALL FOR HIM TO BE JAILED', and spoken by Pritzker: 'one thing I really want to say to Donald Trump'."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and branding 'MSNBC' appear on the news chyron throughout the clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Governor Pritzker to Trump: Come and get me 🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE ON MSNBC: IL GOV. JB PRITZKER RESPONDS TO PRES. TRUMP'S CALL FOR HIM TO BE JAILED",
+      "role": "chyron"
+    },
+    {
+      "text": "GOV. JB PRITZKER (D) ILLINOIS",
+      "role": "chyron"
+    },
+    {
+      "text": "THIS IS A CONVICTED FELON, WHO IS THREATENING TO JAIL ME . I GOTTA SAY THIS GUY'S UNHINGED, HE'S INSECURE, DICTATOR. AND THERE'S ONE THING I REALLY WANNA SAY TO DONALD TRUMP, IF YOU COME FOR MY PEOPLE YOU COME THROUGH ME SO COME AND GET ME.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Illinois Governor J.B. Pritzker responds to Donald Trump threatening to jail him by calling Trump a \"convicted felon,\" \"unhinged,\" \"insecure,\" and a \"wannabe dictator.\" Pritzker then issues a direct challenge to Trump: \"If you come for my people, you come through me, so come and get me.\"",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio consists of J.B. Pritzker's speech during an interview, with ambient background noise from the street and crowd. There is no music.",
+  "editing_pacing": "The video is a single, continuous shot of a talking-head interview, with animated text overlays highlighting the speaker's words.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "defiance",
+    "indignation",
+    "protectiveness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Governor J.B. Pritzker is defiantly challenging Donald Trump, whom he characterizes as a dangerous \"convicted felon,\" and is positioning himself as a protector of his constituents against Trump's threats.",
+  "intended_effect": "To portray Governor Pritzker as a strong leader and to rally support against Donald Trump by framing him as a tyrannical figure.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,53 @@
+{
+  "video_id": "7649743954510023950",
+  "visual_action": "A static image of Donald Trump in a dark suit, red tie, and a white baseball cap with 'USA' written on it. He is saluting with his right hand. A screenshot of a tweet from Donald J. Trump is overlaid on the image.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in the background image saluting, and a tweet attributed to him ('@realDonaldTrump', 'President DONALD J. TRUMP') is displayed on screen."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The displayed tweet is about Iran, beginning with 'Iran's Military is a complete and total mess.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "Iran's Military is a complete and total mess. Much of it, like their Navy and Air Force, doesn't even exist anymore - They have been completely defeated. Iran is all talk and no action. The Bully of the Middle East is DEAD!!! They've taken too long to negotiate a deal that would have been great for them, now they will have to pay the price!!! President DONALD J. TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only a musical track.",
+  "emojis_present": [],
+  "audio_music": "A slow, reverberating, and serious-sounding remix of the song 'Macarena' plays throughout the video, creating a dramatic and imposing tone.",
+  "editing_pacing": "The video consists of a single, static image with a text overlay, with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Pride",
+    "Intimidation"
+  ],
+  "cultural_references": [
+    "The background music is a slowed and reverberating remix of the 1990s pop song 'Macarena' by Los del Rio."
+  ],
+  "central_claim": "Donald Trump has decisively defeated Iran's military, and Iran will now face consequences for failing to negotiate a deal.",
+  "intended_effect": "To portray Donald Trump as a strong leader who has asserted American dominance and neutralized a foreign adversary, inspiring confidence in his supporters.",
+  "uncertainty_flags": []
+}

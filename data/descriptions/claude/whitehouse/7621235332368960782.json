@@ -1,0 +1,66 @@
+{
+  "video_id": "7621235332368960782",
+  "visual_action": "A man in a navy blue suit with a light blue tie and an American flag lapel pin is shown across multiple scenes inside what appear to be White House rooms (ornate decor, Presidential Seal podium, gilded frames, blue-bound books on shelves). In one scene he stands speaking in a formal room with a decorative vase behind him. In a second scene, a blonde woman (seen from behind, hand raised) faces him in what appears to be the Oval Office — a swearing-in ceremony with a Bible visible. In subsequent scenes he speaks animatedly to people off-camera in a gilded room, stands in profile before a painted presidential portrait, gestures expressively while speaking, and laughs alongside a woman in a red jacket in front of the Presidential Seal flag. Final scenes show him standing at a White House podium bearing the Presidential Seal, hands clasped, delivering remarks to an audience.",
+  "cast": [
+    {
+      "name": "Mark Wayne Mullin",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in audio transcript: 'Mark Wayne Mullin' as new Secretary of Homeland Security; he is the central speaking figure throughout all scenes."
+    },
+    {
+      "name": "unnamed woman administering oath",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Seen from behind in the swearing-in scene, hand raised, facing Mullin in what appears to be the Oval Office."
+    },
+    {
+      "name": "unnamed woman in red jacket",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears laughing alongside Mullin in front of the Presidential Seal flag; appears to be a family member or associate."
+    },
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Presidential Seal visible on podium; @whitehouse account; White House interior settings throughout."
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in audio: 'Secretary of Homeland Security' and 'Secretary of Homeland.'"
+    }
+  ],
+  "on_screen_text": [],
+  "spoken_summary": "An off-camera voice (identified in context as a White House official, likely the President) introduces Mullin: \"We're thrilled to swear in our new Secretary of Homeland Security, a great American patriot, to put it mildly, Mark Wayne Mullin. There's one man for this job, and I have no doubt he's going to be fantastic.\" Mullin then speaks: \"I don't care what color your state is. I don't care if you're red or you're blue. At the end of the day, my job is to be Secretary of Homeland and to protect everybody the same, and we will do that. No one's going to outwork me. The president has entrusted me with this, and failure is not an option. And so thank you so much, Mr. President, for this opportunity. I won't let you down.\"",
+  "emojis_present": [],
+  "audio_music": "Original sound — live event audio featuring spoken remarks; no background music. Includes an introductory voice and Mullin's own speech at the podium.",
+  "editing_pacing": "Multiple scene cuts across the swearing-in ceremony and subsequent remarks; moderate pacing with close-up shots, profile shots, and a wider podium shot. Mix of candid and formal footage edited together in roughly chronological order.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride — cued by the formal swearing-in ceremony setting, Presidential Seal podium, and enthusiastic introduction",
+    "Determination — cued by Mullin's direct statements 'No one's going to outwork me' and 'failure is not an option'",
+    "Celebratory warmth — cued by the laughing scene with the woman in red jacket in front of the Presidential Seal flag"
+  ],
+  "cultural_references": [],
+  "central_claim": "Mark Wayne Mullin has been sworn in as the new U.S. Secretary of Homeland Security and pledges to protect all Americans regardless of political affiliation and to serve with full dedication.",
+  "intended_effect": "Inspire confidence in and enthusiasm for Mullin as the new DHS Secretary, projecting strength, bipartisan intent, and loyalty to the President.",
+  "uncertainty_flags": [
+    "The identity of the woman administering the oath is not confirmed from visual or audio cues alone.",
+    "The identity of the woman in the red jacket is not confirmed — possibly a family member.",
+    "The introductory off-camera voice is not explicitly named in the transcript; assumed to be the President based on context and White House account posting."
+  ]
+}

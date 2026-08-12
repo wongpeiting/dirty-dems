@@ -1,0 +1,114 @@
+{
+  "video_id": "7475791898532203819",
+  "visual_action": "The video shows footage of Donald Trump and other officials, including Marco Rubio, Robert F. Kennedy Jr., and Doug Burgum, sitting at a long conference table in what appears to be a cabinet meeting. The camera zooms in on Trump as he looks down at the table. The shot then changes to a wider view of the same meeting, but framed as a fake news broadcast from 'RSBN LIVE COVERAGE'. This fabricated frame includes a news chyron at the bottom and a fake advertisement on the right side featuring an image of Warren Buffett.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "An on-screen text overlay reads 'a sad little Trump'. He is also visible on screen."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text overlay refers to 'President Musk'."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible sitting at the conference table, as confirmed by authoritative face ID."
+    },
+    {
+      "name": "Robert F Kennedy Jr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible sitting at the conference table, as confirmed by authoritative face ID."
+    },
+    {
+      "name": "Doug Burgum",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible sitting at the conference table, as confirmed by authoritative face ID."
+    },
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears in a fake news chyron: 'TRUMP DHS SECRETARY NOEM PLANS NATIONAL REGIS'."
+    },
+    {
+      "name": "Right Side Broadcasting Network (RSBN)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'RSBN' appears in a fake 'LIVE COVERAGE' chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "a sad little Trump letting President Musk control his first Cabinet meeting 😂😂",
+      "role": "overlay"
+    },
+    {
+      "text": "MEETS WITH HIS CABINET FOR",
+      "role": "chyron"
+    },
+    {
+      "text": "BUFFETT'S $277B WARNING",
+      "role": "overlay"
+    },
+    {
+      "text": "Colonial Metals Group",
+      "role": "overlay"
+    },
+    {
+      "text": "SHIELD YOUR SAVINGS NOW",
+      "role": "overlay"
+    },
+    {
+      "text": "RSBN LIVE COVERAGE",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP DHS SECRETARY NOEM PLANS NATIONAL REGISTRY FOR |",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no discernible speech in the video; it is accompanied only by instrumental music.",
+  "emojis_present": [
+    "😂"
+  ],
+  "audio_music": "A slow, melancholic slide-guitar tune plays throughout the video, characteristic of the music used in the cartoon SpongeBob SquarePants to signify sadness or failure. The effect is mocking.",
+  "editing_pacing": "The video starts with a medium shot, performs a slow zoom on Trump, and then cuts to a wider, static shot that is framed as a fake news broadcast.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video digitally superimposes a fake news broadcast frame over real footage of a cabinet meeting. This fabrication includes a fake 'RSBN LIVE COVERAGE' chyron with invented headlines and a fake advertisement for a 'Colonial Metals Group' featuring Warren Buffett's image.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants",
+    "Warren Buffett"
+  ],
+  "central_claim": "Donald Trump is pathetic and subservient to Elon Musk, who is portrayed as being in control of Trump's cabinet.",
+  "intended_effect": "To make the viewer laugh at and feel contempt for Donald Trump, portraying him as weak and not in control.",
+  "uncertainty_flags": [
+    "The full text on the news chyron is partially illegible and appears to be intentionally garbled in places.",
+    "The provided audio transcript 'Things had done.' does not correspond to any discernible speech in the video."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "video_id": "7621988586321235214",
+  "visual_action": "A man in a suit speaks at a podium on a stage with large screens displaying the 'CPAC' logo. Several other people are standing behind him on the stage. The camera is focused on the speaker.",
+  "cast": [
+    {
+      "name": "Matt Schlapp",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A man identified as Matt Schlapp is shown speaking at a podium at a CPAC event."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text frames the video with the title: \"HEARTWARMING: Republicans cheer for a Trump impeachment\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text states \"Republicans cheer...\" and the event is identified by logos as CPAC (Conservative Political Action Conference), a Republican-affiliated event."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "HEARTWARMING: Republicans cheer for a Trump impeachment",
+      "role": "overlay"
+    },
+    {
+      "text": "HOW MANY OF YOU",
+      "role": "caption"
+    },
+    {
+      "text": "WOULD LIKE TO SEE",
+      "role": "caption"
+    },
+    {
+      "text": "IMPEACHMENT",
+      "role": "caption"
+    },
+    {
+      "text": "HEARINGS?",
+      "role": "caption"
+    },
+    {
+      "text": "*CHEERING*",
+      "role": "caption"
+    },
+    {
+      "text": "NO,",
+      "role": "caption"
+    },
+    {
+      "text": "THAT WAS THE WRONG",
+      "role": "caption"
+    },
+    {
+      "text": "ANSWER.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A speaker at a CPAC event asks the crowd, \"How many of you would like to see impeachment hearings?\" The crowd responds with loud cheering. The speaker then says, \"No, that was the wrong answer.\" The clip is framed by on-screen text to suggest the crowd was cheering for an impeachment of Donald Trump.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists solely of a man's voice speaking and a loud, enthusiastic cheer from a large crowd in response to his question.",
+  "editing_pacing": "The video is a single, continuous clip of a speaker on stage, with slight zooms in to emphasize his reaction. It has a static, talking-head style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Irony"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post misleadingly frames a clip from CPAC to suggest that Republicans enthusiastically cheered for the impeachment of Donald Trump.",
+  "intended_effect": "To mock Republicans by portraying them as confused or accidentally supportive of impeaching Donald Trump.",
+  "uncertainty_flags": []
+}

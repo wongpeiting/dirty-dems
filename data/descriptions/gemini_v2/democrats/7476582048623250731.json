@@ -1,0 +1,91 @@
+{
+  "video_id": "7476582048623250731",
+  "visual_action": "In a C-SPAN clip from the Oval Office, Donald Trump is seated in the center, speaking and gesturing. He is flanked by other men, including Volodymyr Zelenskyy and JD Vance, who are seated and listening. The setting appears to be a formal meeting.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is identified by face-ID, is the central speaker in the clip, and is named in on-screen text: 'Trump really just said this...' and 'TRUMP & ZELENSKY MEET IN OVAL OFFICE'."
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A C-SPAN chyron identifies the event as 'TRUMP & ZELENSKY MEET IN OVAL OFFICE'. A man resembling him is seated to Trump's left."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is identified by face-ID as being present in the room, seated to Trump's right."
+    },
+    {
+      "name": "Russia",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A question is relayed about the country: 'what if Russia breaks the ceasefire?'"
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text and dialogue begin with 'She's asking...', referring to the person who posed the question being discussed."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump really just said this...",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP & ZELENSKY MEET IN OVAL OFFICE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "SHE'S ASKING, WHAT IF RUSSIA BREAKS THE CEASEFIRE.",
+      "role": "overlay"
+    },
+    {
+      "text": "— WHAT IF THEY — WHAT IF ANYTHING?",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT IF A BOMB DROPS ON YOUR HEAD RIGHT NOW? OKAY?",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT IF THEY BROKE IT?",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unseen person relays a question, stating, \"She's asking, what if Russia breaks the ceasefire?\" Donald Trump responds dismissively to the hypothetical, saying, \"What if they—what if anything? What if a bomb drops on your head right now? Okay? What if they broke it?\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of dialogue from the broadcast clip. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, continuous talking-head clip from a broadcast. Text overlays are added to transcribe and highlight portions of the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "disbelief",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump responded to a serious question about a potential ceasefire violation by Russia with a flippant and alarming remark.",
+  "intended_effect": "To portray Donald Trump as reckless, dismissive of serious foreign policy issues, and unfit for office.",
+  "uncertainty_flags": []
+}

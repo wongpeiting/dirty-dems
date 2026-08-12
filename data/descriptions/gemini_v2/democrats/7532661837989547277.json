@@ -1,0 +1,55 @@
+{
+  "video_id": "7532661837989547277",
+  "visual_action": "A slideshow of still photographs showing Donald Trump and Jeffrey Epstein together in various social settings. One black and white photo, marked 'CNN EXCLUSIVE', shows Trump with his hands on a young boy, with Epstein and a young girl nearby. The video uses slow zooms on the images.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visible in every photograph shown in the video."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visible in multiple photographs alongside Donald Trump."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A watermark reading 'CNN EXCLUSIVE' appears on one of the photographs."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "CNN EXCLUSIVE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice speaks ominously, quoting lines from a film: \"Every night, at dinner, I'll be there. Every birthday party, I'll be there... Every Christmas, I'll be there.\" The audio is layered over images of Donald Trump and Jeffrey Epstein.",
+  "emojis_present": [
+    "📸"
+  ],
+  "audio_music": "The primary audio is a male voice speaking dialogue in a threatening tone. In the background, there is a subtle, atmospheric musical track that enhances the ominous mood.",
+  "editing_pacing": "The video is a slow-paced slideshow of still photographs, featuring slow zooms into the images (Ken Burns effect).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "ominousness",
+    "suspicion",
+    "disgust"
+  ],
+  "cultural_references": [
+    "The audio is a direct quote from the villain Max Cady in the 1991 film 'Cape Fear'."
+  ],
+  "central_claim": "The video implies a close and sinister association between Donald Trump and Jeffrey Epstein, using threatening audio from a movie to suggest predatory behavior.",
+  "intended_effect": "To create feelings of disgust and suspicion towards Donald Trump by linking him to Jeffrey Epstein and framing him as a threatening figure through the use of a quote from a movie villain.",
+  "uncertainty_flags": []
+}

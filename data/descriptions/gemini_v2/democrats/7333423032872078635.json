@@ -1,0 +1,90 @@
+{
+  "video_id": "7333423032872078635",
+  "visual_action": "President Joe Biden is at a podium in the White House, speaking to the press. The video cuts to a group of reporters, where one man asks a question. It then cuts back to Biden, who responds. The footage has an MSNBC chyron at the bottom.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium and is the subject of the video, as indicated by the on-screen text 'President Biden claps back...'."
+    },
+    {
+      "name": "unnamed FOX reporter",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "An on-screen caption identifies him as a 'FOX Reporter'. He is shown asking Biden a question about his memory."
+    },
+    {
+      "name": "FOX News",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text explicitly states 'President Biden claps back at FOX Reporter'."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The MSNBC logo and a news chyron from the network are visible at the bottom of the screen, indicating the source of the footage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden claps back at FOX Reporter",
+      "role": "overlay"
+    },
+    {
+      "text": "> BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "BIDEN ADDRESSES SPECIAL COUNSEL PROBE",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNBC LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "I don't need his\nrecommendation,",
+      "role": "caption"
+    },
+    {
+      "text": "it's totally —",
+      "role": "caption"
+    },
+    {
+      "text": "How bad is your memory",
+      "role": "caption"
+    },
+    {
+      "text": "and can you continue as\npresident?",
+      "role": "caption"
+    },
+    {
+      "text": "My memory is so bad I let you\nspeak.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A reporter from FOX News asks President Biden, \"How bad is your memory and can you continue as president?\" Biden replies sarcastically, \"My memory is so bad I let you speak.\"",
+  "emojis_present": [],
+  "audio_music": "A dramatic, electronic instrumental track plays throughout the clip, creating a 'hype' or confrontational mood for the exchange.",
+  "editing_pacing": "The video uses simple cuts, alternating between a shot of President Biden at the podium and a shot of the reporter asking the question.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden wittily defended his mental fitness against a pointed question from a FOX News reporter.",
+  "intended_effect": "To make the viewer see President Biden as sharp and in control, while portraying the FOX News reporter's question as a failed attack.",
+  "uncertainty_flags": []
+}

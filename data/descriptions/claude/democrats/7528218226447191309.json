@@ -1,0 +1,168 @@
+{
+  "video_id": "7528218226447191309",
+  "visual_action": "The video opens on a man identified on screen as Jacob Horowitz, \"DNC Researcher,\" seated against a dark blue background, speaking directly to camera. It then cuts to a Fox News live broadcast dated February 21 showing three panelists (a female anchor in a teal blazer, a blonde woman identified as AG Pam Bondi, and a male commentator) with chyrons reading \"AG BONDI: DOJ HAS LOST ITS MISSION TO FIGHT CRIME\" and \"AG BONDI FACES SCRUTINY AFTER DOJ FINDS NO EPSTEIN 'CLIENT LIST'.\" Next is an ABC News Live clip labeled \"WHITE HOUSE / BREAKING NEWS: PRES. TRUMP SPEAKING DURING CABINET MEETING,\" showing Donald Trump speaking at a cabinet table alongside Marco Rubio and others. This is followed by archival footage dated \"Nov 1992\" showing a younger Donald Trump surrounded by women at what appears to be a party. The video then returns to Jacob Horowitz speaking to camera against the blue background. Next is a graphic slideshow showing a black-and-white mugshot-style photo of Jeffrey Epstein alongside images of prison cells and orange jumpsuits. Finally, a screenshot of two posts from Elon Musk's X/Twitter account is shown: \"Time to drop the really big bomb: @realDonaldTrump is in the Epstein files. That is the real reason they have not been made public. Have a nice day, DJT!\" and a follow-up post: \"Mark this post for the future. The truth will come out.\" Throughout, the persistent header overlay reads \"if you're confused about Trump and Epstein watch this\" and a tip in the upper right reads \"press and hold for 2x speed.\"",
+  "cast": [
+    {
+      "name": "Jacob Horowitz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Lower-third chyron reads 'Jacob Horowitz / DNC Researcher'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown in ABC News cabinet meeting clip and in archival Nov 1992 party footage; named in Elon Musk tweets as '@realDonaldTrump' and in Horowitz narration"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mugshot-style photo shown; named in multiple chyrons ('Epstein files,' 'Epstein client list') and in video title overlay"
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Fox News chyrons read 'AG BONDI: DOJ HAS LOST ITS MISSION TO FIGHT CRIME' and 'AG BONDI FACES SCRUTINY AFTER DOJ FINDS NO EPSTEIN CLIENT LIST'; she appears as one of the Fox panelists"
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Screenshot of X posts attributed to 'Elon Musk @elonmusk' alleging Trump is in the Epstein files"
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Seated next to Trump at cabinet table; name placard visible reading 'MARCO RUBIO'"
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Jacob Horowitz identified as 'DNC Researcher'; post is from @democrats account"
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Fox News broadcast branding and 'LIVENOW FROM FOX' chyron visible in panel segment"
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "ABC News Live logo and branding visible in cabinet meeting clip"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "press and hold for 2x speed",
+      "role": "overlay"
+    },
+    {
+      "text": "if you're confused about Trump and Epstein watch this",
+      "role": "overlay"
+    },
+    {
+      "text": "Jacob Horowitz",
+      "role": "chyron"
+    },
+    {
+      "text": "DNC Reseacher",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "FEBRUARY 21",
+      "role": "chyron"
+    },
+    {
+      "text": "AG BONDI: DOJ HAS LOST ITS MISSION TO FIGHT CRIME",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVENOW FROM FOX",
+      "role": "chyron"
+    },
+    {
+      "text": "AG BONDI FACES SCRUTINY AFTER DOJ FINDS NO EPSTEIN 'CLIENT LIST'",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "PRES. TRUMP SPEAKING DURING CABINET MEETING",
+      "role": "chyron"
+    },
+    {
+      "text": "Nov 1992",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk ✅ @elonmusk · 52m\nTime to drop the really big bomb:\n@realDonaldTrump is in the Epstein files. That is the real reason they have not been made public.\nHave a nice day, DJT!",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk ✅ @elonmusk · 43m\nMark this post for the future. The truth will come out.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Jacob Horowitz, identified as a DNC Researcher, speaks directly to camera in an explainer format, walking viewers through the relationship between Donald Trump and Jeffrey Epstein. The narration is not fully captured in the transcript, but the visual context indicates he discusses: Trump and Epstein's documented social connection (illustrated by the Nov 1992 party footage), AG Pam Bondi's DOJ finding no Epstein client list, Trump's statements at a cabinet meeting, and Elon Musk's prior X posts claiming Trump appears in the Epstein files and was the real reason they were not released.",
+  "emojis_present": [
+    "✅"
+  ],
+  "audio_music": "Original speech audio from Jacob Horowitz's on-camera monologue, intercut with news broadcast audio from Fox News and ABC News clips. No music identified; tone is documentary/explainer.",
+  "editing_pacing": "Talking-head explainer segments intercut with news broadcast clips, archival footage, and static graphic/screenshot inserts. Moderate pacing with cuts between interview-style footage, broadcast clips, and slideshow-style still images. A persistent header overlay ties all segments together.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion — implied by framing Trump's presence near Epstein and the suppression narrative",
+    "urgency — 'you have to watch this' caption and persistent 'if you're confused' header",
+    "distrust of institutions — AG Bondi segment showing DOJ found no client list framed alongside scrutiny chyron",
+    "gravity/seriousness — mugshot photo of Epstein alongside prison imagery"
+  ],
+  "cultural_references": [
+    "Jeffrey Epstein 'client list' / Epstein files — ongoing public debate about the release of documents related to Epstein's sex trafficking network",
+    "Elon Musk's X posts alleging Trump is in the Epstein files — a specific viral social media moment",
+    "Fox News 'One Nation' panel format"
+  ],
+  "central_claim": "Donald Trump has a documented connection to Jeffrey Epstein, and the failure to release the Epstein client list — as scrutinized during AG Bondi's tenure — may be related to Trump's potential appearance in those files, as alleged by Elon Musk's own prior posts.",
+  "intended_effect": "To inform viewers skeptical or confused about the Trump-Epstein connection by compiling news clips, archival footage, and Elon Musk's own prior allegations into a single explainer that raises questions about whether Trump's administration is suppressing the Epstein files to protect Trump himself.",
+  "uncertainty_flags": [
+    "Full spoken audio transcript from Jacob Horowitz is not available; exact claims made in the narration cannot be fully verified from keyframes alone",
+    "The identity of the blonde Fox News panelist as Pam Bondi is inferred from the chyron text ('AG Bondi') rather than confirmed by face recognition",
+    "The Elon Musk tweets shown may be from a prior period when Musk and Trump had a falling-out; the exact date/context of those posts is not confirmed in the visible frames",
+    "The 'DNC Reseacher' chyron contains a spelling error ('Reseacher' instead of 'Researcher') — unclear if this is an error in the original video or OCR artifact",
+    "It cannot be confirmed from keyframes alone whether the Elon Musk tweet screenshot is authentic or selectively cropped"
+  ]
+}

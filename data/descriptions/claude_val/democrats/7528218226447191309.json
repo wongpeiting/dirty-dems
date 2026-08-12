@@ -1,0 +1,172 @@
+{
+  "video_id": "7528218226447191309",
+  "visual_action": "The video is a talking-head explainer interspersed with B-roll clips and screenshots. It opens with an unnamed young man with a mustache sitting in a chair against a dark blue background, speaking directly to camera. The clip then cuts to a Fox News live broadcast (dated February 21) showing a three-way split screen: a blonde female anchor, a younger blonde woman identified as Karoline Leavitt, and an older male guest; the chyrons read \"AG BONDI: DOJ HAS LOST ITS MISSION TO FIGHT CRIME\" and \"AG BONDI FACES SCRUTINY AFTER DOJ FINDS NO EPSTEIN 'CLIENT LIST'.\" The video then returns to the same young man speaking. Next, archival footage dated \"Nov 1992\" shows two men in close profile — one identifiable as a younger Donald Trump, and another man alongside him. Then a dark-toned slide shows a Miami Herald headline partially reading \"have flown on Jeffrey Epstein's private jets six more times [than previously known], according to flight logs released as evidence in\" alongside a black-and-white brooding photo of Donald Trump. A close-up shot of Jeffrey Epstein's face follows. The young man reappears speaking. Finally, a screenshot of two X/Twitter posts attributed to Elon Musk is shown: Post 1 reads \"Time to drop the really big bomb: @realDonaldTrump is in the Epstein files. That is the real reason they have not been made public. Have a nice day, DJT!\" Post 2 reads \"Mark this post for the future. The truth will come out.\" The persistent overlay throughout reads: \"if you're confused about Trump and Epstein watch this.\" A \"press and hold for 2x speed\" tip appears in the top-right corner throughout.",
+  "cast": [
+    {
+      "name": "Jacob Horowitz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "OCR identifies the on-screen lower-third as 'Jacob Horowitz DNC Researcher'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Face-ID confirmed; appears in Nov 1992 archival footage; named throughout on-screen text and in Musk tweets; is the subject of the central Epstein connection narrative"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Face-ID implied from close-up archival court photo; named in chyrons, Miami Herald headline, and Musk tweets as the central subject"
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; referenced in Fox News chyrons 'AG BONDI FACES SCRUTINY AFTER DOJ FINDS NO EPSTEIN CLIENT LIST'"
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; appears as one of three Fox News panel participants"
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Shown in screenshot of X/Twitter posts attributed to @elonmusk alleging Trump is in the Epstein files"
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "OCR identifies 'DNC Researcher' in the lower-third chyron for the host"
+    },
+    {
+      "name": "Kash Patel",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; appears in video footage, likely from a news clip or White House context"
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; appears in video footage"
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirmed (medium confidence); appears in video footage"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "press and hold for 2x speed",
+      "role": "overlay"
+    },
+    {
+      "text": "if you're confused about Trump and Epstein watch this",
+      "role": "overlay"
+    },
+    {
+      "text": "Jacob Horowitz\nDNC Researcher",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "FEBRUARY 21",
+      "role": "chyron"
+    },
+    {
+      "text": "AG BONDI: DOJ HAS LOST ITS MISSION TO FIGHT CRIME",
+      "role": "chyron"
+    },
+    {
+      "text": "AG BONDI FACES SCRUTINY AFTER DOJ FINDS NO EPSTEIN 'CLIENT LIST'",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVENOW FROM FOX",
+      "role": "chyron"
+    },
+    {
+      "text": "One Nation",
+      "role": "chyron"
+    },
+    {
+      "text": "Nov 1992",
+      "role": "caption"
+    },
+    {
+      "text": "Miami Herald\nhave flown on Jeffrey Epstein's private jets six more times\n[than previously known], according to flight logs released as evidence in",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk ✓ 𝕏 @elonmusk · 52m\nTime to drop the really big bomb:\n@realDonaldTrump is in the Epstein files. That is the real reason they have not been made public.\nHave a nice day, DJT!",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk ✓ 𝕏 @elonmusk · 43m\nMark this post for the future. The truth will come out.",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS\nPRES. TRUMP SPEAKING DURING CABINET MEETING",
+      "role": "chyron"
+    },
+    {
+      "text": "WHITE HOUSE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video features a DNC researcher named Jacob Horowitz speaking directly to camera in a structured explainer format, walking viewers through the connection between Donald Trump and Jeffrey Epstein. He references the DOJ's failure to produce an Epstein client list under AG Pam Bondi, archival footage of Trump with Epstein from November 1992, Miami Herald reporting on Trump appearing in Epstein flight logs, and Elon Musk's tweets alleging Trump is named in the Epstein files. The exact words are not fully transcribed but the narration guides the audience through each piece of supporting evidence shown on screen.",
+  "emojis_present": [
+    "✓"
+  ],
+  "audio_music": "No commercial music matched. The audio appears to be an original spoken-word explainer with the DNC researcher narrating throughout. No background music or meme audio is apparent — the sound is speech-forward, consistent with a direct-to-camera educational format. No dramatic score, sound effects, or tonal shifts are identifiable from the frames.",
+  "editing_pacing": "Moderate pacing; alternates between static talking-head shots of the host (against a plain blue background) and inserted B-roll including archival footage, news broadcast clips (Fox News), newspaper headline screenshots, and social media screenshot overlays. The transitions are functional rather than stylistic — no fast cuts or speed ramps. The \"press and hold for 2x speed\" tip suggests the video is information-dense.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern or alarm — evoked by framing the Epstein connection as a suppressed scandal",
+    "skepticism or suspicion — generated by juxtaposing the DOJ's failure to find a client list with Elon Musk's tweet alleging Trump is in the files",
+    "urgency — signaled by the 'if you're confused… watch this' hook and the explainer format"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump has a documented personal connection to Jeffrey Epstein dating back to at least 1992, and the DOJ under AG Pam Bondi has failed to release an Epstein client list in which Trump may appear, as alleged publicly by Elon Musk.",
+  "intended_effect": "To inform (and alarm) viewers about alleged connections between Trump and Epstein, positioning the DOJ's inaction as a cover-up and prompting viewers to question Trump's relationship with Epstein.",
+  "uncertainty_flags": [
+    "The full spoken transcript was not provided by Whisper; exact quotes from Jacob Horowitz's narration are unknown",
+    "The identity of the second man in the Nov 1992 archival footage (alongside Trump) is not confirmed — may or may not be Epstein himself",
+    "The male Fox News guest in the third panel of the Fox broadcast is not identified by face-ID",
+    "The Elon Musk tweets shown could be real historical posts or screenshots — their authenticity cannot be verified from frames alone, though no visual manipulation is apparent",
+    "Melania Trump's face-ID is flagged as 'medium' confidence — her presence may be incidental B-roll from the cabinet meeting clip",
+    "It is unclear whether the Fox News segment shown is from the same Feb 21 date as labeled or was edited into context"
+  ]
+}

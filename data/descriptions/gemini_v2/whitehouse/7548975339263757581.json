@@ -1,0 +1,93 @@
+{
+  "video_id": "7548975339263757581",
+  "visual_action": "Donald Trump, in a suit and red tie, stands in the New York Yankees locker room surrounded by players in uniform and other men in suits and casual clothing. He gives a speech to the group, who are gathered around him listening. The footage is framed as a news broadcast, with a chyron and news ticker from Fox News at the bottom of the screen. At the end of his speech, Trump begins to shake hands with the players.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, speaking for its entirety, and is identified by face and on-screen text reading 'President Trump'."
+    },
+    {
+      "name": "New York Yankees",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The event takes place in the 'Yankees Clubhouse' according to on-screen text, and several men are wearing team uniforms."
+    },
+    {
+      "name": "George Steinbrenner",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump refers to him extensively in an anecdote, stating, 'George Steinbrenner was a great friend of mine'."
+    },
+    {
+      "name": "Randy Levine",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Trump addresses a man in the room as 'Randy,' and the man replies. The transcript confirms the name, and Randy Levine is the president of the Yankees."
+    },
+    {
+      "name": "Boston Red Sox",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions them in a story: 'the Boston Red Sox came to the Oval Office'."
+    },
+    {
+      "name": "Lee Zeldin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative facial recognition as being present in the room among the men in suits."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump at Yankees Clubhouse",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE NOW FROM FOX",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: PRESIDENT TRUMP MAKES APPEARANCE IN YANKEES CLUBHOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "SHOOTING AT TAMPA APARTMENT COMPLEX LEAVES TEENAGER DEAD, 5 OTHERS WOUNDED",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump addresses the New York Yankees in their clubhouse, telling them they are going to win. He reminisces about his friendship with the late owner George Steinbrenner and tells an anecdote about how the Yankees would always win when he attended games, claiming he was a good luck charm. He encourages the team, saying they will \"go all the way.\" He also mentions that their rivals, the Boston Red Sox, visited him in the Oval Office and subsequently went on a winning streak. A man identified as Randy says they are \"changing the luck\" by having Trump there. Trump concludes by wishing them luck and shaking hands.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of diegetic sound from the event, starting with applause and then featuring Donald Trump's speech with occasional interjections from another person. There is no musical score or sound effects.",
+  "editing_pacing": "The video is presented as a single, static camera shot, typical of a news report capturing an event. There are no cuts, zooms, or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Camaraderie",
+    "Humor"
+  ],
+  "cultural_references": [
+    "New York Yankees",
+    "Boston Red Sox",
+    "George Steinbrenner",
+    "Randy Levine",
+    "Fox News"
+  ],
+  "central_claim": "Donald Trump has a close and 'lucky' relationship with the New York Yankees organization, rooted in his friendship with its former owner.",
+  "intended_effect": "To portray Trump as a popular figure who is warmly received by a major American sports team and to associate him with winning.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,119 @@
+{
+  "video_id": "7132669148538211627",
+  "visual_action": "The video opens with a clip of Joe Biden in sunglasses, seated at a desk outdoors, signing a document. He is surrounded by people who are clapping. The video then cuts to a series of still images of Republican politicians: Mitch McConnell, Rick Scott, Ted Cruz, and Lindsey Graham. Each still image has a text overlay.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown signing legislation at the beginning of the video, representing the Democratic party's actions."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the opening on-screen text: 'While Democrats are passing historic legislation...'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the opening on-screen text: '...Republicans have voted against...'"
+    },
+    {
+      "name": "Mitch Mcconnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A still image of his face is shown as an example of a Republican who voted against the legislation."
+    },
+    {
+      "name": "Rick Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A still image of his face is shown as an example of a Republican who voted against the legislation."
+    },
+    {
+      "name": "Ted Cruz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A still image of his face is shown, with a nameplate reading 'MR. CRUZ', as an example of a Republican who voted against the legislation."
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A still image of his face is shown as an example of a Republican who voted against the legislation."
+    },
+    {
+      "name": "Maria Cantwell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified in the background clapping while Joe Biden signs a bill."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "While Democrats are passing historic legislation, Republicans have voted against...",
+      "role": "caption"
+    },
+    {
+      "text": "lowering costs and reducing the deficit 📉",
+      "role": "overlay"
+    },
+    {
+      "text": "Taking aggressive action on climate 🌍",
+      "role": "overlay"
+    },
+    {
+      "text": "Making corporations pay their fair share in taxes",
+      "role": "overlay"
+    },
+    {
+      "text": "Allowing Medicare to negotiate lower drug costs 💊",
+      "role": "overlay"
+    },
+    {
+      "text": "MR. CRUZ",
+      "role": "other"
+    },
+    {
+      "text": "GAGE SKIDMORE PHOTO, CC BY-SA 2.0",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is set entirely to music.",
+  "emojis_present": [
+    "📉",
+    "🌍",
+    "💊"
+  ],
+  "audio_music": "The video begins with an upbeat, celebratory disco-funk track playing over the clip of Biden. At the cut to the Republican politicians, there is a loud, percussive hit sound effect, and the music abruptly shifts to a tense, dramatic, orchestral score that plays for the remainder of the video.",
+  "editing_pacing": "The video starts with a short clip and then transitions to a slideshow of still images with quick cuts between them. The transition between the two sections is sharp and emphasized by a sound effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Accomplishment",
+    "Condemnation"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democrats are passing popular and historic legislation while Republicans are voting against it.",
+  "intended_effect": "To generate support for Democrats by highlighting their legislative achievements and portraying Republicans as obstructionists.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,123 @@
+{
+  "video_id": "7616546690987822349",
+  "visual_action": "A montage of political and military figures speaking at podiums, in hearings, or in interviews. The video begins with Donald Trump at a presidential podium wearing a 'USA' hat. It then cuts between several other speakers, including Pete Hegseth, Marco Rubio, Karoline Leavitt, a US military officer, another unnamed man, and Mike Waltz. The entire video has a dark, blue-tinted color grade and a scanline filter that mimics an old screen. The video concludes with a title card showing a line drawing of the White House and text identifying it as a message from President Donald J. Trump.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium with the Seal of the President of the United States. He is the first speaker and the video ends with a title card reading 'PRESIDENT DONALD J. TRUMP'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post's caption is 'OBJECTIVE 1: DESTROY IRAN’S MISSILES', and speakers repeatedly refer to destroying 'Iranian ballistic missiles' and the capabilities of the 'Islamic Republic'."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking at a podium."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking in what appears to be a press scrum."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking at a podium with a chyron that partially reads 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "Mike Waltz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking in a news interview format with his name visible on a chyron."
+    },
+    {
+      "name": "unnamed military officer (nametag: CAIN)",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man in a U.S. Air Force uniform is shown speaking at a podium. His nametag reads 'CAIN'."
+    },
+    {
+      "name": "unnamed man in a suit",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man with reddish-brown hair, wearing a suit, is shown speaking while seated at a table, possibly during a congressional hearing."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a title card that reads 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "OBJECTIVE: \nDESTROY THEIR MISSILES",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUS\n45470 FOR UPDATES FROM",
+      "role": "chyron"
+    },
+    {
+      "text": "MIKE WALTZ\nAMBASSADOR TO THE UNITED NATIONS",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video is a compilation of soundbites from Donald Trump and various other political and military figures, all stating a unified objective: to destroy Iran's missile capabilities. The speakers repeatedly vow to destroy Iran's missiles, missile launchers, stockpiles, and the defense industrial base that produces them. Strong phrases like \"raise their missile industry to the ground\" and \"totally... obliterated\" are used to emphasize the totality of the planned action, which is framed as necessary to prevent attacks on the U.S. and its allies.",
+  "emojis_present": [],
+  "audio_music": "A tense, rhythmic, and serious electronic track plays throughout the video, creating a tone of military urgency and resolve, similar to the soundtrack of an action movie or video game.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different speakers. A consistent dark, blue-tinted color grade and a scanline visual effect are applied across all clips to create a unified, serious aesthetic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Strength",
+    "Resolve",
+    "Seriousness",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration is taking decisive action to completely eliminate Iran's missile capabilities to protect the United States and its allies.",
+  "intended_effect": "To project an image of strength and resolve, and to assure the audience that the administration is proactively neutralizing a significant national security threat from Iran.",
+  "uncertainty_flags": [
+    "The full text on some chyrons was difficult to read due to video effects and resolution.",
+    "The identities of the military officer with the nametag 'CAIN' and another unnamed speaker in a suit could not be definitively confirmed."
+  ]
+}

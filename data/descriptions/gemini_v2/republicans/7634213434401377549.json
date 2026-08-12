@@ -1,0 +1,105 @@
+{
+  "video_id": "7634213434401377549",
+  "visual_action": "A montage of clips contrasts unidentified people describing the Democratic Party with negative words and reaction shots of prominent Democratic politicians. The video begins with a woman asking a question. Then, it cycles through different speakers offering one-word answers, with those words appearing as large text overlays. Each answer is followed by a reaction shot of a Democratic politician (Alexandria Ocasio-Cortez, Hakeem Jeffries, Bernie Sanders, Nancy Pelosi, Charles Schumer) or a meme clip, also with the descriptive word overlaid.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A woman asks, \"How would you guys describe the Democratic Party right now?\""
+    },
+    {
+      "name": "Unnamed Wisconsin voters",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video caption identifies the speakers as \"Wisconsin voters\". Multiple unidentified people are shown speaking and providing negative descriptions of the Democratic Party."
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A clip of her face is shown after the word \"Lost\" is spoken, with the word \"LOST\" overlaid on the screen."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A clip of his face is shown after the word \"Incorrect\" is spoken, with the word \"INCORRECT\" overlaid on the screen."
+    },
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The famous image of him sitting with mittens at the 2021 inauguration is shown after the word \"Trying\" is spoken, with the text \"TRYING...\" overlaid."
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A clip of her face is shown after the word \"Confused\" is spoken, with the word \"CONFUSED\" overlaid on the screen."
+    },
+    {
+      "name": "Charles Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A clip of his face is shown after the word \"Struggling\" is spoken, with the text \"STRUGGLING :(\" overlaid."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LOST",
+      "role": "overlay"
+    },
+    {
+      "text": "INCORRECT",
+      "role": "overlay"
+    },
+    {
+      "text": "TRYING...",
+      "role": "overlay"
+    },
+    {
+      "text": "CONFUSED",
+      "role": "overlay"
+    },
+    {
+      "text": "STRUGGLING :(",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unseen interviewer asks a group of people, \"How would you guys describe the Democratic Party right now?\" Various individuals respond with single-word answers: \"Lost,\" \"Incorrect,\" \"Trying,\" \"Confused,\" and \"Struggling.\" Two different people say \"struggling.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of dialogue punctuated by a series of different meme sound effects for comedic or dramatic emphasis after each one-word description. For example, a high-pitched cartoon sound follows 'Lost,' a 'sheesh' sound effect follows 'Incorrect,' a cackling laugh follows 'Trying,' a dramatic bell toll follows 'Confused,' and a high-pitched violin screech follows 'Struggling.'",
+  "editing_pacing": "The video uses very fast cuts, rapidly alternating between speakers, text overlays, and reaction shots of politicians and meme clips, creating a high-energy montage style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The video features the famous 'Bernie Sanders with mittens' meme from the 2021 presidential inauguration.",
+    "The video ends with a brief clip of the James Van Der Beek crying meme from the TV show 'Dawson's Creek'.",
+    "The use of various popular sound effects (like 'sheesh') is a common TikTok and internet meme format."
+  ],
+  "central_claim": "Ordinary American voters perceive the Democratic Party as lost, confused, and struggling, and the party's leaders embody this failure.",
+  "intended_effect": "To mock the Democratic Party and its leaders, making the viewer feel contempt for them and reinforcing the idea that they are incompetent and disconnected from voters.",
+  "uncertainty_flags": [
+    "The specific context or source of the interviews with the 'Wisconsin voters' is not provided.",
+    "The authoritative music identification of 'Trending Audio for Turtles' seems highly improbable, as the audible track consists of dialogue and distinct meme sound effects, not a continuous music track."
+  ]
+}

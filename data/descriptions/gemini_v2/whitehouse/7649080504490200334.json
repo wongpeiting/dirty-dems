@@ -1,0 +1,60 @@
+{
+  "video_id": "7649080504490200334",
+  "visual_action": "The video shows grainy, archival footage of a younger Donald Trump wearing headphones and standing behind a large professional broadcast camera. He is interacting with people around him, including a smiling woman. The camera has an NBC logo on it. At the end of the clip, a wavy, distorted visual effect is applied to the footage.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the subject of the video, is identified by name in the audio ('Donald Trump'), and speaks on camera."
+    },
+    {
+      "name": "unnamed announcer",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen announcer's voice is heard introducing Donald Trump."
+    },
+    {
+      "name": "NBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NBC logo is visible on the side of the broadcast camera."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The people's president",
+      "role": "overlay"
+    },
+    {
+      "text": "NBC",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An announcer introduces the 'guest celebrity cameraman, Donald Trump.' Trump responds, 'How you doing, folks?' The announcer jokes that they must be paying their cameraman a 'pretty penny,' and Trump agrees, saying, 'You're paying a lot of money. It's a great job.'",
+  "emojis_present": [
+    "🎥",
+    "🏀"
+  ],
+  "audio_music": "The audio consists of dialogue from what sounds like a live sports broadcast, with ambient crowd noise in the background. There is no music.",
+  "editing_pacing": "The post consists of a single, continuous archival clip. At the very end, a wavy, VHS-style distortion effect is applied.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "admiration",
+    "nostalgia",
+    "populism"
+  ],
+  "cultural_references": [
+    "NBA"
+  ],
+  "central_claim": "Donald Trump is a charismatic, popular figure who has always been connected to the public, earning the title of 'the people's president'.",
+  "intended_effect": "To evoke admiration and nostalgia for Donald Trump, portraying him in a positive and relatable light from his past.",
+  "uncertainty_flags": []
+}

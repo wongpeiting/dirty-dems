@@ -1,0 +1,74 @@
+{
+  "video_id": "7668346222578633998",
+  "visual_action": "A video montage shows Donald Trump in presidential settings: signing a document at a desk with the presidential seal, walking through a factory, and speaking at a podium for the Detroit Economic Club. The video then transitions to a black-and-white montage of various unidentified people being arrested by law enforcement officers wearing gear from agencies including ICE and the FBI.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips and is the subject of the on-screen text, 'A ROUND OF APPLAUSE FOR DONALD J TRUMP'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The acronym 'ICE' and the agency's logo appear as a watermark and on officers' gear during the arrest montage."
+    },
+    {
+      "name": "Federal Bureau of Investigation (FBI)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The acronym 'FBI' is visible on a patch on an officer's vest during an arrest."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "A ROUND OF APPLAUSE FOR DONALD J TRUMP",
+      "role": "caption"
+    },
+    {
+      "text": "BECAUSE HE REALLY CRUSHED IT.",
+      "role": "caption"
+    },
+    {
+      "text": "DETROIT 1934 ECONOMIC CLUB",
+      "role": "other"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    },
+    {
+      "text": "ICE",
+      "role": "overlay"
+    },
+    {
+      "text": "FBI MEDIC",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of a Spanish-language reggaeton song. A male voice sings lyrics that translate to 'A round of applause for mommy and daddy, because they really crushed it.' The on-screen text applies this sentiment to Donald Trump.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, celebratory reggaeton/trap song plays throughout. When the montage of arrests begins, a dramatic, brass-led orchestral piece is layered on top, creating a tone of serious, powerful action.",
+  "editing_pacing": "A fast-paced montage with quick cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Pride",
+    "Strength",
+    "Toughness"
+  ],
+  "cultural_references": [
+    "Reggaeton / Latin trap music"
+  ],
+  "central_claim": "Donald Trump is a strong leader whose actions, including robust law enforcement seen in the arrest montage, are successful and praiseworthy.",
+  "intended_effect": "To generate admiration for Donald Trump's perceived strength and effectiveness in law enforcement.",
+  "uncertainty_flags": []
+}

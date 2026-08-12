@@ -1,0 +1,65 @@
+{
+  "video_id": "7631985339313245454",
+  "visual_action": "A static image is shown, composed of a screenshot of a news article headline layered over a photograph of the White House. The headline reads, 'Trump admin loosens regulations on state-licensed medical marijuana' from 'Fox News' dated 'April 23, 2026'. A brief visual distortion effect, like a shimmer or ripple, animates across the headline text.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The news headline on screen reads 'Trump admin loosens regulations...' and his name appears in a red box at the top of the screenshot."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news article screenshot is credited to 'Fox News' in the byline."
+    },
+    {
+      "name": "Anders Hagstrom",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news article screenshot has the byline 'By Anders Hagstrom'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DONALD TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump admin loosens regulations on state-licensed medical marijuana",
+      "role": "overlay"
+    },
+    {
+      "text": "By Anders Hagstrom ⋅ Fox News",
+      "role": "overlay"
+    },
+    {
+      "text": "Published April 23, 2026 8:34am EDT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of brief, indistinct spoken words like 'what yeah' at the beginning, immediately followed by the song 'Because I Got High'.",
+  "emojis_present": [],
+  "audio_music": "The song 'Because I Got High' by Afroman plays throughout the video. It's a laid-back hip-hop track used to create a humorous and ironic tone in relation to the video's subject matter of marijuana policy.",
+  "editing_pacing": "The video is a static image with a minor, brief ripple effect applied to the on-screen text. The pacing is static.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Humor",
+    "Irony"
+  ],
+  "cultural_references": [
+    "The song 'Because I Got High' by Afroman.",
+    "The term '4/20', a reference to cannabis culture, is mentioned in the post's caption."
+  ],
+  "central_claim": "The Trump administration loosened regulations on medical marijuana, a fact presented humorously by the current White House account.",
+  "intended_effect": "To create humor and irony by pairing a formal policy action by the Trump administration with a well-known song about marijuana.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "7539921711026769207",
+  "visual_action": "The video displays a clip of Donald Trump speaking, followed by a screenshot of a tweet from him, and concludes with a still photograph of Donald Trump and Vladimir Putin shaking hands on an airport tarmac in front of a plane.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in a video clip, his tweet is displayed on screen, and he appears in a photograph with Vladimir Putin."
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is quoted by Donald Trump in the opening clip and shown in a photograph shaking hands with Trump at the end."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male voice speaks over the video, saying, 'This is your man. Look at the screen.'"
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A female voice is heard responding 'Yes' and 'That's mine' to the male speaker."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AUG 15",
+      "role": "overlay"
+    },
+    {
+      "text": "Vladimir Putin, smart guy, said you can't have an honest election with mail-in voting.",
+      "role": "caption"
+    },
+    {
+      "text": "AUG 18",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump @realDonaldTrump\nI am going to lead a movement to get rid of MAIL-IN BALLOTS, and also, while we're at it, Highly \"Inaccurate,\" Very Expensive, and Seriously Controversial VOTING MACHINES, which cost Ten Times more than accurate and sophisticated Watermark Paper, which is faster, and leaves NO DOUBT, at the end of the evening, as to who WON, and who LOST, the Election. We are now the only",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio features a clip of Donald Trump saying, \"Vladimir Putin, smart guy, said you can't have an honest election with mail-in voting.\" Over the visuals, an unnamed man says, \"This is your man... Look at the screen,\" to which an unnamed woman responds, \"Yes... That's mine.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue, with no background music or sound effects.",
+  "editing_pacing": "The video is a static slideshow, cutting from a video clip to a screenshot and then to a still photograph.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "disapproval",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post implies that Donald Trump's opposition to mail-in voting is suspiciously aligned with the views of Vladimir Putin.",
+  "intended_effect": "To make the viewer question Trump's motives and his relationship with Putin, thereby fostering distrust and disapproval.",
+  "uncertainty_flags": []
+}

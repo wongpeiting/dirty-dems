@@ -1,0 +1,67 @@
+{
+  "video_id": "7595328009708621111",
+  "visual_action": "In the Oval Office, Donald Trump sits at the Resolute Desk while a group of adults and children stand behind it. A young Black boy in a suit stands at the desk and speaks, explaining the process of how milk is made. A glass bottle of milk is on the desk. After the boy finishes, the crowd applauds, and Trump gives him a presidential challenge coin. The video ends with a black-and-white title card for The White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown sitting at the desk in the Oval Office, listening to a young boy, and giving him a coin. The on-screen text also identifies him as 'President Trump'."
+    },
+    {
+      "name": "unnamed 6-year-old boy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker in the video, explaining the process of milk production. The on-screen text describes him as a '6-year-old boy'."
+    },
+    {
+      "name": "Brooke Rollins",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via facial recognition as one of the women standing in the crowd behind the Resolute Desk."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a title card that reads 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump gives a 6-year-old boy a presidential challenge coin after he explains the process of milk! 🇺🇸🥛❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A young boy explains the process of milk production: farmers milk cows, put the milk in a cold tank, pasteurize it by heating it to kill germs, cool it again, and then transport it in a refrigerator. After the crowd applauds, Donald Trump praises the boy, saying \"Well that is wonderful,\" and gives him a presidential coin, noting that \"politicians want it.\" A woman thanks Trump.",
+  "emojis_present": [
+    "🇺🇸",
+    "🥛",
+    "❤️"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue and ambient room noise, followed by applause from the crowd. There is no musical soundtrack.",
+  "editing_pacing": "The video is presented as a single, static shot without any cuts, zooms, or other editing effects until the final cut to a title card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Heartwarming",
+    "Pride",
+    "Admiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is shown rewarding an articulate 6-year-old boy with a presidential coin for his detailed explanation of milk production.",
+  "intended_effect": "To portray Donald Trump as kind, presidential, and supportive of both children and American agriculture, creating a positive and wholesome image.",
+  "uncertainty_flags": []
+}

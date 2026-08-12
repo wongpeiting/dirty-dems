@@ -1,0 +1,50 @@
+{
+  "video_id": "7554473654147353911",
+  "visual_action": "A static, distorted image of Donald Trump smiling is shown. The image has a heavy orange/tan filter. Text appears at the top. The image then gains a pink and purple color overlay as the words \"Rio De Janeiro\" appear over Trump's face, first once, then repeated three times.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His digitally altered face is the only image in the video, and the on-screen text begins with 'trump saying...'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states '...even though republicans control all 3 branches of government'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump saying a govt shutdown isn't his fault even though republicans control all 3 branches of government",
+      "role": "meme_text"
+    },
+    {
+      "text": "Rio De Janeiro",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice, over ambient music, delivers a philosophical monologue stating that \"a person who thinks all the time has nothing to think about except thoughts,\" causing them to lose touch with reality and live in illusion.",
+  "emojis_present": [],
+  "audio_music": "A contemplative, ambient electronic track ('Overthinker' by INZO) plays throughout, featuring a spoken-word philosophical monologue. The effect is surreal and pensive.",
+  "editing_pacing": "The video consists of a single static image with text overlays and a color filter that changes partway through.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The photograph of Donald Trump has been digitally altered to widen his face and exaggerate his skin tone to an unnatural orange/tan color for satirical effect.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt",
+    "surrealism"
+  ],
+  "cultural_references": [
+    "The video uses a surreal meme format popular on TikTok, which combines a public figure, a philosophical audio track (in this case a sample of philosopher Alan Watts), and a non-sequitur phrase like 'Rio De Janeiro'.",
+    "The song is 'Overthinker' by INZO, which is frequently used in this meme context."
+  ],
+  "central_claim": "Donald Trump is hypocritically deflecting blame for a government shutdown that is the fault of the Republican Party, which controls the government.",
+  "intended_effect": "To portray Donald Trump and the Republican party as hypocritical and disconnected from reality, while mocking Trump's physical appearance.",
+  "uncertainty_flags": []
+}

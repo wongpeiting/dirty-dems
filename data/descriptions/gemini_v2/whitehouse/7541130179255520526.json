@@ -1,0 +1,112 @@
+{
+  "video_id": "7541130179255520526",
+  "visual_action": "The video is a montage portraying Donald Trump's political journey. It begins with cinematic shots of Air Force One at dusk, followed by Trump disembarking. It then shows the White House, Trump walking through its halls, and signing documents. The narrative transitions to his departure from office with Melania Trump, shown on a TV screen. A montage, viewed on a phone screen, depicts news reports of the FBI raid on Mar-a-Lago and his indictment. This is followed by a TV news clip of an assassination attempt at a rally in Butler, PA, where Trump ducks. The video then shows a fabricated election results graphic on a TV, declaring Trump the 47th President. The remainder of the video is a fast-paced montage including military jets, fireworks over the Washington Monument, Marine One helicopters, Trump at rallies, with UFC President Dana White at a fight, and various scenes of Americana like a NASCAR race and military personnel. It concludes with Donald and Melania Trump walking hand-in-hand into a bright light, followed by a title card for \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central subject of the entire video, shown in nearly every scene and named throughout the audio and in the caption."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown walking with Donald Trump as he leaves office and at the end of the video."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Briefly visible standing behind Donald Trump as he signs a document around the 0:24 mark."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears on a fabricated election results graphic as Trump's opponent for the Georgia presidential race."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FBI RAID ON MAR-A-LAGO",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS\nTRUMP CHARGED WITH 37 COUNTS",
+      "role": "chyron"
+    },
+    {
+      "text": "BUTLER, PA\nLIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS\nSOON: TRUMP TO SPEAK",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS\nNOW: TRUMP SPEAKS AT LAST RALLY",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP RALLIES IN PIVOTAL SWING STATE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ★ PROJECTED WINNER\nTRUMP\n★ ELECTED ★\n47TH PRESIDENT",
+      "role": "overlay"
+    },
+    {
+      "text": "GEORGIA PRESIDENT\nHARRIS 48.4%\nTRUMP ★ 51.6%",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP TO NBC NEWS: MANDATE WILL BE TO BRING \"COMMON SENSE\" BACK TO THE U.S.",
+      "role": "chyron"
+    },
+    {
+      "text": "MEET THE PRESS NOW",
+      "role": "overlay"
+    },
+    {
+      "text": "Thank You\nMax",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video's audio is a montage of news commentary and excerpts from Donald Trump's speeches, narrating his political comeback. News clips describe his first term as highly active and effective, noting he kept his campaign promises at \"lightning fast pace.\" Trump's own voice is heard saying, \"We will be back in some form.\" The narrative then covers his struggles, including news reports on the FBI raid, his indictment, and an assassination attempt, with a commentator saying, \"Not even an assassin's bullet could stop him.\" Another commentator frames the story as a \"superhero movie,\" leading to a simulated news report declaring him the 47th President. The final section features Trump's speeches about beginning a \"thrilling new era of national success\" and commentary praising his strength and resolve, claiming he is gutting the \"liberal state\" and that \"peace through strength is back.\"",
+  "emojis_present": [],
+  "audio_music": "A powerful, triumphant, and cinematic orchestral score plays continuously throughout the video, building in intensity to create a dramatic and epic atmosphere that supports the narrative of struggle and victory.",
+  "editing_pacing": "The video is a fast-paced montage using quick cuts between professionally shot footage, news clips, and user-generated-style content (shots of screens). It employs dramatic slow-motion and a clear narrative structure to build a compelling story arc.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video includes a fabricated Fox News election night graphic that declares 'TRUMP ELECTED 47TH PRESIDENT'. The graphic includes specific vote totals for Georgia showing Trump defeating 'HARRIS' to visually represent his victory in the 2024 election as the climax of the video's narrative.",
+  "emotions_signaled": [
+    "Triumph",
+    "Pride",
+    "Patriotism",
+    "Resilience",
+    "Inspiration"
+  ],
+  "cultural_references": [
+    "Superhero movie",
+    "UFC",
+    "Dana White",
+    "NASCAR"
+  ],
+  "central_claim": "Donald Trump's return to the presidency is the culmination of a heroic journey where he overcame unprecedented political opposition, legal persecution, and an assassination attempt to restore American greatness.",
+  "intended_effect": "To inspire pride, loyalty, and awe among supporters by portraying Trump's political comeback as a historic, heroic, and divinely-timed victory against all odds.",
+  "uncertainty_flags": [
+    "The identity of JD Vance is based on provided context and is not clearly identifiable from the video alone."
+  ]
+}

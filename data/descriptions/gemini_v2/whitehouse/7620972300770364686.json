@@ -1,0 +1,111 @@
+{
+  "video_id": "7620972300770364686",
+  "visual_action": "A montage of clips set in and around airports. It begins with a news reporter in a nearly empty airport security area. This is followed by a series of man-on-the-street style interviews with travelers expressing their opinions. The video also shows what appear to be ICE agents in uniform handing out bottles of water from a cooler to people, including children, waiting in line outside an airport terminal. One agent's vest clearly reads 'POLICE ICE'. A traveler is shown thanking an agent and giving a thumbs-up.",
+  "cast": [
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The post caption is 'Thank you to our ICE agents 🇺🇸🇺🇸'. An officer is shown wearing a vest with 'POLICE ICE' on the back. Multiple interviewees are asked about and express opinions on ICE agents."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An interviewee says, 'I mean, I think Trump's doing a hell of a job.' A news chyron also mentions 'US PRESIDENT DONALD TRUMP'."
+    },
+    {
+      "name": "Transportation Security Administration (TSA)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An interviewee says ICE agents are 'doing a job just like TSA is.' A news chyron also has the text 'AS TSA GOES U...'"
+    },
+    {
+      "name": "U.S. Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A reporter asks a traveler, 'What's your message to Congress that could put an end to all of this?'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Atlanta Intl. Airport",
+      "role": "overlay"
+    },
+    {
+      "text": "...4 U.S. AIRPORTS AS TSA GOES U...",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN Senior National Correspondent",
+      "role": "chyron"
+    },
+    {
+      "text": "...US PRESIDENT DONALD TRUMP PAUSED HIS THREAT TO STRIKE IRAN'S POWER PLANTS FOR FIVE DAYS AFTER HE...",
+      "role": "chyron"
+    },
+    {
+      "text": "CAUTION",
+      "role": "other"
+    },
+    {
+      "text": "POLICE ICE",
+      "role": "other"
+    },
+    {
+      "text": "...ABOUT TRAVELING DURIN...",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX & FRIENDS",
+      "role": "chyron"
+    },
+    {
+      "text": "...ERS WAIT FOR HOURS AT AIRP...",
+      "role": "chyron"
+    },
+    {
+      "text": "...FOR HOURS AT AIRPORT LINE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "Thank you to our ICE agents 🇺🇸🇺🇸",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The video is a montage of clips featuring a news report on empty airport security lines and several interviews with travelers. Some travelers express strong support for the deployment of ICE agents, with one man saying he likes it and thinks Trump is doing a good job, and a woman saying she has 'no problem with that at all.' In another scene, travelers thank ICE agents for their service as they receive bottled water. One man says he is happy with ICE. Another interviewee praises the agents for 'working without a paycheck.' In contrast, the final clips show travelers frustrated with long lines, with one worried he'll miss his flight and another unseen person shouting 'Fire them all!' in response to a question about Congress.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue from news reporters and interviewees, with ambient background noise from an airport environment. There is no music.",
+  "editing_pacing": "The video uses fast cuts to assemble a montage of different video sources, including what appears to be news footage and ground-level recordings of interactions at an airport.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Pride",
+    "Support",
+    "Frustration"
+  ],
+  "cultural_references": [
+    "Star Wars"
+  ],
+  "central_claim": "ICE agents are public servants who help the American people and are widely supported by them.",
+  "intended_effect": "To foster appreciation and support for ICE agents by showcasing their helpful actions and positive testimonials from citizens.",
+  "uncertainty_flags": [
+    "The exact cause of the airport disruptions (e.g., government shutdown, worker strike) is implied but not explicitly stated.",
+    "Many of the news chyrons are partially cut off, so their full text cannot be determined."
+  ]
+}

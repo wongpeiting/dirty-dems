@@ -1,0 +1,109 @@
+{
+  "video_id": "7322976031890050347",
+  "visual_action": "The video shows a clip from a CNN Republican Presidential Debate. A male moderator asks a question, and then the shot cuts to Nikki Haley answering it from her podium. The background is a blue screen with repeating CNN logos. Text is overlaid at the top of the screen, and a CNN chyron is at the bottom, along with large-font captions that transcribe the dialogue.",
+  "cast": [
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown on screen speaking at a debate podium and is identified by name in the on-screen overlay text."
+    },
+    {
+      "name": "unnamed CNN moderator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown on screen asking the question to Nikki Haley during the debate."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and name appear repeatedly in the background and on the chyron at the bottom of the screen."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen chyron identifies the event as a 'REPUBLICAN PRESIDENTIAL DEBATE'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Nikki Haley wants to raise the retirement age... 😩",
+      "role": "overlay"
+    },
+    {
+      "text": "QUESTION",
+      "role": "chyron"
+    },
+    {
+      "text": "Haley says she wants to raise the retirement age for younger voters; should voters in their 20s plan on working until they're 70?",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN REPUBLICAN PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "Should voters in their twenties",
+      "role": "caption"
+    },
+    {
+      "text": "plan on having to work until they're 70?",
+      "role": "caption"
+    },
+    {
+      "text": "They should plan on their retirement age",
+      "role": "caption"
+    },
+    {
+      "text": "being increased, yes.",
+      "role": "caption"
+    },
+    {
+      "text": "We're going to change it to reflect",
+      "role": "caption"
+    },
+    {
+      "text": "more of what life expectancy should be.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A moderator asks Nikki Haley if voters in their 20s should plan on working until they're 70. Haley responds affirmatively, stating, \"They should plan on their retirement age being increased, yes. We're going to change it to reflect more of what life expectancy should be.\"",
+  "emojis_present": [
+    "😩"
+  ],
+  "audio_music": "The audio consists solely of spoken dialogue from the debate, with no accompanying music or sound effects.",
+  "editing_pacing": "The editing follows a standard broadcast style, with a static shot of the moderator cutting to a static shot of Nikki Haley as she begins to answer.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "disapproval",
+    "anxiety"
+  ],
+  "cultural_references": [],
+  "central_claim": "Nikki Haley believes that the retirement age for younger Americans should be raised.",
+  "intended_effect": "To cause viewers, particularly younger voters, to view Nikki Haley's stance on retirement unfavorably.",
+  "uncertainty_flags": []
+}

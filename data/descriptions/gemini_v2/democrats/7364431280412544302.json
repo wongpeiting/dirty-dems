@@ -1,0 +1,111 @@
+{
+  "video_id": "7364431280412544302",
+  "visual_action": "Joe Biden speaks directly to the camera from a medium shot, standing in front of a blue curtain. As he speaks, he gestures with his hands. Throughout the video, screenshots of news articles and headlines from various sources (NBC News, Vox, TIME) appear as overlays in the center of the screen, seemingly held up by Biden, to illustrate his points about Donald Trump's statements.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, presenting an argument against Donald Trump."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about his alleged statements to TIME Magazine and his positions on reproductive rights. His name is spoken by Biden and appears in multiple on-screen text overlays."
+    },
+    {
+      "name": "TIME Magazine",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Biden as the source of an interview with Trump, and its logo and article screenshots appear on screen."
+    },
+    {
+      "name": "NBC NEWS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NBC NEWS logo appears on a screenshot of a headline about Donald Trump."
+    },
+    {
+      "name": "Vox",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Vox logo appears on a screenshot of a headline quoting Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Folks, did you hear what Donald Trump just said to TIME Magazine?",
+      "role": "caption"
+    },
+    {
+      "text": "It's shocking.",
+      "role": "caption"
+    },
+    {
+      "text": "NBC NEWS Trump: 'I was able to kill Roe v. Wade'",
+      "role": "overlay"
+    },
+    {
+      "text": "After bragging about overturning Roe",
+      "role": "caption"
+    },
+    {
+      "text": "Vox Donald Trump: \"There has to be some form of punishment\" for women who have abortions",
+      "role": "overlay"
+    },
+    {
+      "text": "and saying women should be punished for accessing reproductive health care,",
+      "role": "caption"
+    },
+    {
+      "text": "TIME Prosecuting women for getting abortions after the ban. But are you comfortable with it? Trump: The states are going to say.",
+      "role": "overlay"
+    },
+    {
+      "text": "he said states should be able to prosecute women.",
+      "role": "caption"
+    },
+    {
+      "text": "And appears perfectly fine with signing a national ban that would take away IVF access.",
+      "role": "caption"
+    },
+    {
+      "text": "TIME Do you think states should monitor women's pregnancies so they can know if they've gotten an abortion after the ban? Trump: I think they might do that. Again, you'll have to speak to the individual states.",
+      "role": "overlay"
+    },
+    {
+      "text": "There seems to be no limit to how invasive Trump would let the state be.",
+      "role": "caption"
+    },
+    {
+      "text": "This should be a decision between a woman and her doctor.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Joe Biden asks viewers if they heard what Donald Trump said to TIME Magazine, calling his statements \"shocking.\" He lists several of Trump's positions on reproductive rights, including bragging about overturning Roe v. Wade, saying women should be punished for abortions, and stating that states should be able to prosecute women. Biden also claims Trump would be fine with a national ban affecting IVF access and would let states monitor women's pregnancies. He concludes by stating that these decisions should be between a woman and her doctor.",
+  "emojis_present": [],
+  "audio_music": "Speech only. There is no music or other audio.",
+  "editing_pacing": "The video is a static, talking-head shot. The editing consists of captions appearing sequentially at the bottom of the screen and screenshots of news articles appearing as overlays in the center of the frame.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "shock"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's recently stated positions on reproductive rights are shockingly extreme and would allow for government overreach into women's healthcare, including punishing women and monitoring pregnancies.",
+  "intended_effect": "To persuade viewers that Donald Trump holds dangerous and invasive views on women's reproductive rights, thereby encouraging them to oppose his candidacy.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,58 @@
+{
+  "video_id": "7470021307061521707",
+  "visual_action": "The video is presented in a two-panel format. In the top panel, an interviewer asks a question. In the bottom panel, Donald Trump, seated in front of American flags, listens and then gives a one-word answer.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown in the bottom panel of the video and says 'No.'"
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text asks a question about 'Vice President JD Vance' and a voiceover refers to him as Donald Trump's running mate."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The man in the top panel is shown asking the question to Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Do you view Vice President JD Vance as your successor?",
+      "role": "overlay"
+    },
+    {
+      "text": "No.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An initial female voiceover says, \"So this is really who Donald Trump chose as his running mate.\" An interviewer then asks, \"Do you view Vice President JD Vance as your successor?\" to which Donald Trump replies, \"No.\"",
+  "emojis_present": [],
+  "audio_music": "A subtle, low-toned electronic drone plays in the background throughout the clip, creating a serious and slightly ominous mood under the dialogue.",
+  "editing_pacing": "The video uses a static, two-panel layout with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "doubt",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump does not view his own Vice President, JD Vance, as a worthy successor, implying a dysfunctional and poorly chosen political ticket.",
+  "intended_effect": "To create doubt and disapproval regarding Donald Trump's judgment and the stability of his potential administration with JD Vance.",
+  "uncertainty_flags": [
+    "The authenticity of the interview clip is uncertain; it's unclear if the question and answer were originally part of the same continuous exchange or were edited together.",
+    "The identity of the interviewer is unknown."
+  ]
+}

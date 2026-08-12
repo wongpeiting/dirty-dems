@@ -1,0 +1,82 @@
+{
+  "video_id": "7636850908080426254",
+  "visual_action": "Donald Trump speaks at a podium in a formal setting, likely the White House, with the presidential seal and an American flag behind him. The footage is framed as a Fox News broadcast, with a chyron at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen, speaking at a podium for the entire duration of the video."
+    },
+    {
+      "name": "Barron Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text claims Trump \"forgets Barron is his son.\" Trump speaks about him, referring to him as \"a little boy who's quite tall\" before saying his name, \"Barron.\""
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donald Trump praises her as \"First Lady\" and an \"incredible mom\" to Barron Trump, clearly implying he is talking about his wife, Melania Trump."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and a broadcast chyron are visible at the bottom of the screen throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "HEARTBREAKING: Trump forgets Barron is his son 💔",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: MILITARY MOTHERS HONORED AT THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "SHE'S DONE AN INCREDIBLE JOB AS FIRST LADY, AND SHE'S AN INCREDIBLE MOM. SHE HAS A LITTLE BOY WHO'S QUITE TALL. HE'S A LITTLE BOY TO US, BUT HE'S QUITE TALL, RIGHT? AND HE'S GREAT, BARRON, AND SHE TAKES GREAT CARE OF HIM. AND THANK YOU.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump praises his wife as First Lady and an \"incredible mom.\" He then refers to their son in a roundabout way, saying, \"She has a little boy who's quite tall. He's a little boy to us, but he's quite tall, right? And he's great, Barron...\"",
+  "emojis_present": [
+    "💔",
+    "😬"
+  ],
+  "audio_music": "The only audio is Donald Trump's voice speaking, along with some light laughter from an unseen audience.",
+  "editing_pacing": "The video consists of a single, static talking-head shot with text overlaid to highlight the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "concern",
+    "pity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump had a moment of cognitive confusion where he struggled to refer to his son, Barron, by name.",
+  "intended_effect": "To make the viewer question Donald Trump's mental fitness and cognitive abilities.",
+  "uncertainty_flags": []
+}

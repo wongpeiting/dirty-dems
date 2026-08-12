@@ -1,0 +1,43 @@
+{
+  "video_id": "7642399168492866829",
+  "visual_action": "A static screenshot of a tweet from the 'Democrats' account is shown. The tweet features a photo of Jon Ossoff in a formal setting and text that reads 'Let's reelect @Ossoff to the Senate, Georgia'. The video slowly zooms in on the photo of Ossoff.",
+  "cast": [
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is pictured and named in the on-screen tweet: 'Let's reelect @Ossoff to the Senate, Georgia'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The tweet shown is from the account 'Democrats' (@TheDemocrats)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats\n@TheDemocrats\nLet's reelect @Ossoff to the Senate, Georgia",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only music.",
+  "emojis_present": [],
+  "audio_music": "The indie-pop song 'My Moon My Man' by Feist plays throughout the clip. The track is rhythmic and features female vocals, creating a somewhat serious and propulsive mood.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot, with a slow zoom-in on the embedded photograph of Jon Ossoff.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "support"
+  ],
+  "cultural_references": [
+    "The song 'My Moon My Man' by indie-pop artist Feist."
+  ],
+  "central_claim": "Voters in Georgia should reelect Jon Ossoff to the Senate.",
+  "intended_effect": "To build support for Jon Ossoff's reelection among Georgian voters.",
+  "uncertainty_flags": []
+}

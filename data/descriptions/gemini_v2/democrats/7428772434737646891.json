@@ -1,0 +1,68 @@
+{
+  "video_id": "7428772434737646891",
+  "visual_action": "The rapper Eminem walks onto a stage in a large, crowded arena, raising his fist to a cheering audience. He is wearing a beige jacket and a matching cap. In the background, a large blue banner reads \"FOR HARRIS-WALZ\". He greets and embraces a woman on stage, Elissa Slotkin. The crowd holds up their phones to record. Eminem then walks to a podium and leans in to speak.",
+  "cast": [
+    {
+      "name": "Eminem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"Eminem campaigning for Kamala\". He is the central visual focus and speaks at the end of the clip."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states \"Eminem campaigning for Kamala\" and a large banner in the background reads \"FOR HARRIS-WALZ\"."
+    },
+    {
+      "name": "Elissa Slotkin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via face recognition on stage with Eminem."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A large banner in the background reads \"FOR HARRIS-WALZ\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Eminem campaigning for Kamala 🔥🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "FOR HARRIS-WALZ",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio features Eminem's anthemic song \"Not Afraid\" playing throughout. Layered over the music is an audio clip of an Eminem freestyle rap, with lyrics including \"cut the crap... you said you was king, you lied through your teeth.\" At the very end of the video, Eminem speaks into the microphone at the rally, shouting \"Detroit!\" to a cheering crowd.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The video features Eminem's song \"Not Afraid\" throughout, creating a powerful and anthemic mood. An aggressive rap verse, from a separate Eminem recording, is layered on top of the music, adding a defiant tone. The clip ends with live audio of a crowd cheering loudly.",
+  "editing_pacing": "The video uses a few slow-paced cuts, presenting the scene as continuous documentary-style footage of an event.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Pride",
+    "Defiance"
+  ],
+  "cultural_references": [
+    "Eminem's song 'Not Afraid'",
+    "Eminem's 2017 anti-Trump freestyle rap 'The Storm'"
+  ],
+  "central_claim": "The rapper Eminem is publicly supporting and campaigning for the Kamala Harris presidential ticket at a rally in Detroit.",
+  "intended_effect": "To generate excitement and convey a high-profile celebrity endorsement for the Harris-Walz campaign, likely aimed at energizing voters.",
+  "uncertainty_flags": []
+}

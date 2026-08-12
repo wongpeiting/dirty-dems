@@ -1,0 +1,105 @@
+{
+  "video_id": "7403737736076627230",
+  "visual_action": "Kamala Harris speaks at a podium with the presidential seal in front of a crowd holding signs that read \"LOWERING PRESCRIPTION DRUG COSTS\". As she speaks, Joe Biden walks on stage, pats her on the back, and stands beside her smiling. Harris laughs and continues her speech enthusiastically as the crowd cheers.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Is the main speaker shown on screen for the entire video."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears on screen next to Kamala Harris, and is mentioned in the on-screen text (\"President Biden\") and in the audio (\"our president, Joe Biden\")."
+    },
+    {
+      "name": "Medicare",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Kamala Harris in her speech: \"That gave Medicare the power to negotiate...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden will always support VP Kamala Harris💕",
+      "role": "overlay"
+    },
+    {
+      "text": "As vice president,",
+      "role": "caption"
+    },
+    {
+      "text": "I was proud to cast",
+      "role": "caption"
+    },
+    {
+      "text": "the tie-breaking vote",
+      "role": "caption"
+    },
+    {
+      "text": "that sent the bill",
+      "role": "caption"
+    },
+    {
+      "text": "that gave—",
+      "role": "caption"
+    },
+    {
+      "text": "That gave Medicare",
+      "role": "caption"
+    },
+    {
+      "text": "the power to negotiate",
+      "role": "caption"
+    },
+    {
+      "text": "and let it get to the",
+      "role": "caption"
+    },
+    {
+      "text": "President's desk",
+      "role": "caption"
+    },
+    {
+      "text": "And I was proud when",
+      "role": "caption"
+    },
+    {
+      "text": "our president, Joe Biden,",
+      "role": "caption"
+    },
+    {
+      "text": "signed that bill into law.",
+      "role": "caption"
+    },
+    {
+      "text": "LOWERING PRESCRIPTION DRUG COSTS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Kamala Harris speaks about her pride in casting a tie-breaking vote for a bill that gave Medicare the power to negotiate drug prices. She celebrates that President Joe Biden then signed that bill into law. Her speech is met with loud cheers and applause, especially when Biden himself walks on stage.",
+  "emojis_present": [
+    "💕"
+  ],
+  "audio_music": "The audio consists of Kamala Harris's live speech, punctuated by loud and enthusiastic applause and cheering from the audience. There is no background music.",
+  "editing_pacing": "The video is a single, continuous shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "unity",
+    "enthusiasm"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden and Vice President Harris are a unified team that has delivered on lowering prescription drug costs for Americans.",
+  "intended_effect": "To make the viewer feel proud of the Biden-Harris administration's accomplishments and see them as a strong, supportive partnership.",
+  "uncertainty_flags": []
+}

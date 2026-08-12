@@ -1,0 +1,137 @@
+{
+  "video_id": "7603835999562501390",
+  "visual_action": "The video, set against a blurry background clip of Donald Trump walking, presents a series of screenshots to mock the Republican Party's presence on TikTok. It shows a GOP tweet announcing 'Big news tomorrow' for '02.06.26', a Fox News headline about the RNC's new TikTok strategy, a screenshot of the Republican Party's rebranded Twitter/X logo with a TikTok-style glitch effect, and screenshots of their TikTok profile and a post, highlighting low follower and engagement numbers (e.g., 6,272 followers and 361 likes). The video concludes with a rapid montage of three popular reaction clips: Daniel Radcliffe doing a spit-take, Ryan Gosling laughing behind his hand, and a young man with blonde hair making finger guns.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is visible in the background video throughout the clip, and he is mentioned in an on-screen news headline: 'after Trump's 2024 success'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about the party's TikTok strategy. Its logo and social media profiles (@GOP, @republicans, RNC) are shown repeatedly in screenshots."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and a headline from Fox News Channel are shown in a screenshot."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is posted by the official '@democrats' account, making them the author of the post mocking the Republican Party."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GOP @GOP",
+      "role": "overlay"
+    },
+    {
+      "text": "Big news tomorrow 👀",
+      "role": "overlay"
+    },
+    {
+      "text": "02.06.26",
+      "role": "overlay"
+    },
+    {
+      "text": "🤨🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "GOP tiktok?!?",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS Channel",
+      "role": "overlay"
+    },
+    {
+      "text": "RNC rolls out 'powerful' new TikTok strategy to win over key demographic after Trump's 2024 success",
+      "role": "overlay"
+    },
+    {
+      "text": "wow, they even re-branded their twitter",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans\n@republicans",
+      "role": "overlay"
+    },
+    {
+      "text": "6,272\nFollowers",
+      "role": "overlay"
+    },
+    {
+      "text": "733\nLikes",
+      "role": "overlay"
+    },
+    {
+      "text": "Text MAGA to 80810 to help us Make America Great Again! 🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "www.gop.com",
+      "role": "overlay"
+    },
+    {
+      "text": "republicans\nRepublicans • 3h ago",
+      "role": "overlay"
+    },
+    {
+      "text": "361",
+      "role": "overlay"
+    },
+    {
+      "text": "60",
+      "role": "overlay"
+    },
+    {
+      "text": "45",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. The audio consists of music and sound effects. The first song is the dramatic rock ballad 'Separate Ways (Worlds Apart)' by Journey. The provided transcript appears to be a highly inaccurate attempt to transcribe the song's lyrics.",
+  "emojis_present": [
+    "👀",
+    "🤨",
+    "🤔",
+    "🇺🇸"
+  ],
+  "audio_music": "The video opens with the dramatic Bryce Miller/Alloy Tracks Remix of Journey's 'Separate Ways (Worlds Apart)'. At approximately the 7-second mark, the song is abruptly cut off and replaced by a loud, buzzing, high-pitched engine sound, similar to a Formula 1 car, which plays for the remainder of the video over the reaction clips. The sudden switch from dramatic music to a jarring sound effect creates a chaotic and mocking tone.",
+  "editing_pacing": "The video uses a slideshow-style presentation of static screenshots for the first two-thirds, followed by a rapid-fire montage of three different reaction clips at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "TikTok",
+    "Journey (band)",
+    "Daniel Radcliffe",
+    "Ryan Gosling",
+    "The use of celebrity reaction clips/memes (spit-take, laughing)"
+  ],
+  "central_claim": "The Republican Party's new TikTok strategy is a failure that has attracted embarrassingly low engagement, making it deserving of ridicule.",
+  "intended_effect": "To make the viewer laugh at and mock the Republican Party's social media efforts as pathetic and out of touch.",
+  "uncertainty_flags": [
+    "The identity of the person in the third reaction clip is unknown.",
+    "The provided audio transcript is extremely inaccurate and does not reflect the song lyrics.",
+    "The fingerprinted second music track ('LUCKY RUN') is not clearly audible; the dominant sound is a loud, jarring engine sound effect that appears to be layered over or replacing any music."
+  ]
+}

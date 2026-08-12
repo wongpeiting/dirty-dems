@@ -1,0 +1,99 @@
+{
+  "video_id": "7619424003484093710",
+  "visual_action": "A basketball bounces on the White House lawn and then proceeds to bounce through the interior of the White House. It passes a saluting Marine, bounces down a colonnaded hallway with framed college sports logos on the wall (including Duke, Florida, and Michigan), and into an ornate room with portraits of former presidents. The video culminates in a close-up of the basketball, which shows the Wilson and NCAA March Madness logos, before the ball glows brightly and explodes in a flash of light. The video ends with black-and-white shots of the White House and Marine One, with \"THE WHITE HOUSE\" text overlaid.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is set in and around the White House building, and the end card displays the text \"THE WHITE HOUSE\"."
+    },
+    {
+      "name": "NCAA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The basketball has a logo that reads \"NCAA MARCH MADNESS\"."
+    },
+    {
+      "name": "March Madness",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The announcer exclaims \"March equals Madness!\" and the event's logo is on the basketball."
+    },
+    {
+      "name": "Wilson Sporting Goods",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The brand name \"Wilson\" is clearly visible on the basketball."
+    },
+    {
+      "name": "U.S. Marine Corps",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A Marine in full dress uniform is shown saluting inside the White House."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A framed photograph showing what appears to be Donald Trump is briefly visible on a wall inside the White House."
+    },
+    {
+      "name": "Unnamed Marine",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A Marine is shown saluting as the basketball bounces past him."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Wilson",
+      "role": "other"
+    },
+    {
+      "text": "EVO NXT",
+      "role": "other"
+    },
+    {
+      "text": "NCAA MARCH MADNESS",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An excited sports announcer exclaims, \"March equals Madness!\" and \"Did we just see what we just saw? Wow!\" This audio sounds like a clip from a live sports broadcast.",
+  "emojis_present": [],
+  "audio_music": "The video features a swelling, dramatic orchestral score combined with the sound of a basketball bouncing and clips of a sports announcer's excited commentary, creating a cinematic, high-energy feel.",
+  "editing_pacing": "The video uses quick cuts and follows the motion of the basketball, creating a fast-paced and dynamic viewing experience. There are also cinematic effects like a glowing aura and an energy burst from the ball.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A basketball is digitally animated (CGI) to appear as if it is bouncing on its own through the exterior and interior of the White House, as if it has a life of its own. This is a creative visual effect, not intended to deceive.",
+  "emotions_signaled": [
+    "Excitement",
+    "Fun",
+    "Patriotism"
+  ],
+  "cultural_references": [
+    "March Madness (NCAA Division I men's basketball tournament)"
+  ],
+  "central_claim": "The White House is joining in on the national excitement surrounding the NCAA's March Madness basketball tournament.",
+  "intended_effect": "To entertain viewers and associate the White House with a popular, mainstream American cultural and sporting event, making the institution seem relatable and festive.",
+  "uncertainty_flags": [
+    "The identities of the people in the framed portraits on the walls are not all clearly discernible, though one appears to be Donald Trump."
+  ]
+}

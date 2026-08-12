@@ -1,0 +1,72 @@
+{
+  "video_id": "7559627115923115278",
+  "visual_action": "Donald Trump is shown from the back, wearing a dark suit and walking across a large, green lawn, likely at the White House. In the background, there is a fountain and trees. A news-style chyron is visible at the bottom of the screen. He walks from left to right for the duration of the clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text identifies him by name: \"Trump on his way...\". He is the only person visually depicted in the video."
+    },
+    {
+      "name": "Alan Dershowitz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on the news chyron at the bottom of the screen: \"DERSHOWITZ: ONLY PRECEDENT FOR 'WEAK' JAMES CASE...\""
+    },
+    {
+      "name": "Letitia James",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name is referenced on the news chyron at the bottom of the screen in the text \"'WEAK' JAMES CASE\"."
+    },
+    {
+      "name": "Right Side Broadcasting Network",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The RSBN logo is visible on the news chyron in the bottom right corner."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump on his way to his second 'routine annual physical' of 2025:",
+      "role": "meme_text"
+    },
+    {
+      "text": "D.C.",
+      "role": "overlay"
+    },
+    {
+      "text": "EARLIER TODAY",
+      "role": "overlay"
+    },
+    {
+      "text": "RSBN 11:02 AM ET | 'NARCISSISM' | DERSHOWITZ: ONLY PRECEDENT FOR 'WEAK' JAMES CASE IS ONE SHE CREATED",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of repeated grunting or snorting sound effects.",
+  "emojis_present": [
+    "👀"
+  ],
+  "audio_music": "The audio consists of a repeated, rhythmic grunting or snorting sound, similar to that of a pig, which plays throughout the clip. This sound effect is used for a mocking effect.",
+  "editing_pacing": "The video is a single, continuous shot of a news broadcast clip. A static text caption has been added at the top.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post mocks Donald Trump by pairing footage of him walking with pig snorting sound effects and a sarcastic caption about a future physical, implying he is pig-like and unhealthy.",
+  "intended_effect": "To encourage viewers to laugh at and feel contempt for Donald Trump.",
+  "uncertainty_flags": []
+}

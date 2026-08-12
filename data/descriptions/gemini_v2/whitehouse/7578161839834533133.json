@@ -1,0 +1,76 @@
+{
+  "video_id": "7578161839834533133",
+  "visual_action": "The video presents a series of text phrases in white font against a dark, abstract red-lit background. The phrases are 'LAW AND ORDER', 'ZERO BORDER CROSSINGS', 'THE AMERICAN DREAM', 'HISTORIC TRADE DEALS', '$100 BILLION BACK IN THE USA', and 'LOWER PRICES'. Afterwards, the name 'DONALD TRUMP' assembles on screen from individual letters, rendered in a red, glowing, neon-style font. The video concludes with black-and-white footage of the White House exterior and a helicopter on the lawn, with the text 'THE WHITE HOUSE' and its logo overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears as 'DONALD TRUMP' in a stylized title card format. The caption also names him as 'President Trump'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with the name and logo of 'THE WHITE HOUSE' over footage of the building."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LAW AND ORDER",
+      "role": "overlay"
+    },
+    {
+      "text": "ZERO BORDER CROSSINGS",
+      "role": "overlay"
+    },
+    {
+      "text": "THE AMERICAN DREAM",
+      "role": "overlay"
+    },
+    {
+      "text": "HISTORIC TRADE DEALS",
+      "role": "overlay"
+    },
+    {
+      "text": "$100 BILLION BACK IN THE USA",
+      "role": "overlay"
+    },
+    {
+      "text": "LOWER PRICES",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video is purely instrumental and contains no spoken words.",
+  "emojis_present": [],
+  "audio_music": "The video features a single, continuous track of suspenseful, ominous synthesizer music with a retro 1980s feel. The style and instrumentation are a direct homage to the theme music of the TV show *Stranger Things*, which aligns with the provided music identification of tracks by Kyle Dixon and Michael Stein.",
+  "editing_pacing": "The editing is slow and cinematic, styled like a TV show's opening title sequence. It consists of a series of text overlays that fade in and out, followed by an animated sequence where letters fly into place to form the name 'DONALD TRUMP'.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "seriousness",
+    "power"
+  ],
+  "cultural_references": [
+    "The video's entire visual and audio aesthetic is a direct and sustained reference to the Netflix series *Stranger Things*. This includes the red, glowing title font, the ominous synthesizer music, and the caption's reference to the 'Upside Down'."
+  ],
+  "central_claim": "Donald Trump's presidency has restored law and order, border security, and economic prosperity, rescuing America from a period of decline.",
+  "intended_effect": "To frame Donald Trump as a heroic and powerful leader and to inspire pride and confidence in his listed accomplishments.",
+  "uncertainty_flags": [
+    "The provided whisper transcript ('Thank you. Thank you.') does not match the video's audio, which is purely instrumental.",
+    "The provided music identification of 'SI TE SABES EL TIKTOK BAILA!' appears to be a misidentification, as the audio is clearly the theme music style from the show 'Stranger Things', which is consistent with the other identified tracks by Kyle Dixon and Michael Stein."
+  ]
+}

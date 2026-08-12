@@ -1,0 +1,58 @@
+{
+  "video_id": "7542573722020891918",
+  "visual_action": "Donald Trump, in a suit and red tie, stands outside a large white building, presumably the White House. He greets another man in a suit, identified by on-screen text as South Korean President Lee Jae-myung. They shake hands and pose for photos in front of a large South Korean flag. Trump speaks briefly to unseen people off-camera. The video concludes with a fade to black, followed by a series of black-and-white images of the White House exterior and Marine One.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is visually identified on screen, named in the caption and on-screen text, and is the one speaking."
+    },
+    {
+      "name": "Lee Jae-myung",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is identified by name in the on-screen text (\"South Korean President Lee Jae-myung\") and in the caption. He is shown shaking hands with Trump."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The setting is identified as the White House in the on-screen text, and the building is shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Welcomes South Korean President Lee Jae-myung to White House 🇺🇸 🇰🇷",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "In response to unheard questions from the press, Donald Trump says, \"We're going to have a good meeting, we're going to have a great meeting.\"",
+  "emojis_present": [
+    "🇺🇸",
+    "🇰🇷",
+    "🤝"
+  ],
+  "audio_music": "The audio consists of ambient outdoor sounds, indistinct chatter, and what sound like camera shutters and reporters shouting questions. There is no music.",
+  "editing_pacing": "The main action is presented in a single, continuous shot. This is followed by a fade to black and a short, slow-paced montage of black-and-white photos of the White House.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "formality",
+    "diplomacy"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is welcoming the President of South Korea to the White House for a productive diplomatic meeting.",
+  "intended_effect": "To inform viewers of a diplomatic engagement and project an image of a functional and globally engaged presidency.",
+  "uncertainty_flags": []
+}

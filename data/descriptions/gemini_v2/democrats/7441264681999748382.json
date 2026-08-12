@@ -1,0 +1,63 @@
+{
+  "video_id": "7441264681999748382",
+  "visual_action": "President Joe Biden speaks at a podium outdoors in front of the White House. To his left, two other men stand by a table with a large white turkey on it. One of the men occasionally pets the turkey. An audience is visible in the foreground. The setting is decorated for Thanksgiving.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium for the entire video and is identified by face and in the on-screen text \"President Biden pardons...\""
+    },
+    {
+      "name": "Peach",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Biden explicitly states, \"I hereby pardon Peach and Blossom.\" The on-screen text also says, \"President Biden pardons Peach and Blossom.\""
+    },
+    {
+      "name": "Blossom",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Biden explicitly states, \"I hereby pardon Peach and Blossom.\" The on-screen text also says, \"President Biden pardons Peach and Blossom.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden pardons Peach and Blossom 🦃",
+      "role": "overlay"
+    },
+    {
+      "text": "STAYING NICE, LISTENING TO THEIR FAVORITE MUSIC, WHICH APPARENTLY INCLUDES THE SONG LIVING ON A PRAYER. WELL FELLAS, YOUR PRAYER IS GOING TO BE ANSWERED TODAY. BASED ON YOUR TEMPERAMENT AND COMMITMENT TO BEING PRODUCTIVE MEMBERS OF SOCIETY, I HEREBY PARDON PEACH AND BLOSSOM.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "President Biden gives a speech for the annual turkey pardon. He makes a joke that the turkeys' favorite music is the song \"Living on a Prayer,\" and says, \"Well, fellas, your prayer is going to be answered today.\" He then formally pardons the two turkeys, named Peach and Blossom, based on their good temperament.",
+  "emojis_present": [
+    "🦃",
+    "🍑",
+    "🌸"
+  ],
+  "audio_music": "The audio consists of President Biden's voice speaking, followed by the sound of an audience applauding and cheering. There is no musical score.",
+  "editing_pacing": "The video is a single, continuous, static shot of the event with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "amusement",
+    "warmth",
+    "celebration"
+  ],
+  "cultural_references": [
+    "White House Turkey Pardon",
+    "Livin' on a Prayer (song)",
+    "Bon Jovi"
+  ],
+  "central_claim": "President Biden pardoned the national Thanksgiving turkeys, Peach and Blossom, continuing the annual presidential tradition.",
+  "intended_effect": "To portray President Biden in a positive and traditional presidential role and to share a lighthearted, feel-good moment with the public.",
+  "uncertainty_flags": []
+}

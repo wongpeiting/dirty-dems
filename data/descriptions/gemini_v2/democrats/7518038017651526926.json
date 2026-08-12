@@ -1,0 +1,66 @@
+{
+  "video_id": "7518038017651526926",
+  "visual_action": "A static screenshot of a tweet from the 'Democrats' X (formerly Twitter) account. The tweet says 'Go Blue.' and quote-tweets a post from the 'Los Angeles Dodgers' account. The Dodgers' tweet describes denying entry to ICE agents at Dodger Stadium.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video displays a screenshot of a tweet from the official 'Democrats' account (@TheDemocrats)."
+    },
+    {
+      "name": "Los Angeles Dodgers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video shows a screenshot of a tweet authored by the 'Los Angeles Dodgers' (@Dodgers) and quote-tweeted by the Democrats."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text of the Dodgers' tweet explicitly mentions 'ICE agents'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Go Blue.",
+      "role": "overlay"
+    },
+    {
+      "text": "Los Angeles Dodgers @Dodgers",
+      "role": "overlay"
+    },
+    {
+      "text": "This morning, ICE agents came to Dodger Stadium and requested permission to access the parking lots. They were denied entry to the grounds by the organization. Tonight's game will be played as scheduled.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A high-energy, bass-heavy hip-hop track (identified as 'CARNIVAL' by Kanye West & Ty Dolla $ign) plays throughout the video, creating a bold and assertive tone.",
+  "editing_pacing": "The video consists of a single, static shot of a screenshot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Defiance",
+    "Solidarity"
+  ],
+  "cultural_references": [
+    "Kanye West",
+    "Ty Dolla $ign"
+  ],
+  "central_claim": "The Democratic Party supports and celebrates the Los Angeles Dodgers organization for denying ICE agents access to their property.",
+  "intended_effect": "To align the Democratic Party with organizations that resist federal immigration enforcement, creating a sense of pride and solidarity among supporters.",
+  "uncertainty_flags": []
+}

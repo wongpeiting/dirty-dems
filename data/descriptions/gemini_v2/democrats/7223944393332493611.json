@@ -1,0 +1,82 @@
+{
+  "video_id": "7223944393332493611",
+  "visual_action": "A montage of an outdoor press conference announcing the 2024 Democratic National Convention in Chicago. The video shows various speakers at a podium with the Chicago skyline in the background, including Illinois Governor J.B. Pritzker. It also features shots of Senator Tammy Duckworth in a wheelchair, other Democratic politicians, an audience, and B-roll footage of the Chicago skyline and waterfront.",
+  "cast": [
+    {
+      "name": "J B Pritzker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face-ID, he is shown speaking at the podium."
+    },
+    {
+      "name": "Tammy Duckworth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Identified by face-ID, she is shown sitting in a wheelchair on stage and in the audience, clapping."
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The podium has text that reads \"CHICAGO DNC 2024\". The video is an announcement for the DNC event."
+    },
+    {
+      "name": "Jaime Harrison",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man identified as DNC Chair Jaime Harrison is shown speaking at the podium."
+    },
+    {
+      "name": "Brandon Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man identified as Chicago Mayor Brandon Johnson is seen on stage and being hugged by J.B. Pritzker."
+    },
+    {
+      "name": "Lori Lightfoot",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman identified as former Chicago Mayor Lori Lightfoot is shown on stage behind other speakers."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "✨Chicago 2024✨",
+      "role": "overlay"
+    },
+    {
+      "text": "CHICAGO\nDNC 2024",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The first few seconds of the video feature a rapid audio montage of different voices saying the word \"Chicago\" repeatedly.",
+  "emojis_present": [
+    "✨"
+  ],
+  "audio_music": "The video begins with an audio collage of voices saying \"Chicago.\" After about five seconds, an upbeat, celebratory synthesizer music track begins and plays for the remainder of the clip, creating a sense of excitement and optimism.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between shots of the political event, speakers, audience members, and scenic views of the city of Chicago.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Pride",
+    "Celebration",
+    "Optimism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party is celebrating the selection of Chicago as the host city for the 2024 Democratic National Convention.",
+  "intended_effect": "To generate excitement and pride for the Democratic Party and the city of Chicago ahead of the 2024 DNC.",
+  "uncertainty_flags": []
+}

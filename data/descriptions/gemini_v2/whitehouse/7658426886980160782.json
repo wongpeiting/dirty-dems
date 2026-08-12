@@ -1,0 +1,85 @@
+{
+  "video_id": "7658426886980160782",
+  "visual_action": "The video opens with a digitally composed scene showing a recreation of the iconic 'V-J Day in Times Square' photograph, with a sailor kissing a nurse in a city street overflowing with red, white, and blue balloons. Some balloons spell out 'The American Era'. This transitions into a fast-paced montage of historical and cultural clips from the 20th century. Clips include the Iwo Jima flag raising, military parades, flappers, The Beatles' arrival in the US, disco dancing, Las Vegas neon signs, the 'Steamboat Willie' Mickey Mouse animation, a rocket launch, the moon landing, the 'Miracle on Ice' hockey game, and scenes from Star Wars. The montage concludes with several clips of a young Donald Trump.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in multiple clips at the end of the montage."
+    },
+    {
+      "name": "USA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is titled 'The American Era' and features numerous patriotic American symbols and historical events. The scoreboard shows 'USA'."
+    },
+    {
+      "name": "USSR",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Appears on a scoreboard showing the final score of the 'Miracle on Ice' hockey game: 'USA 4 USSR 3'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The American Era",
+      "role": "overlay"
+    },
+    {
+      "text": "BOND",
+      "role": "other"
+    },
+    {
+      "text": "FINAL",
+      "role": "overlay"
+    },
+    {
+      "text": "USA 4",
+      "role": "overlay"
+    },
+    {
+      "text": "USSR 3",
+      "role": "overlay"
+    },
+    {
+      "text": "DUNES",
+      "role": "other"
+    },
+    {
+      "text": "THE COMEDY STORE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video's audio consists entirely of the song 'Don't Stop Me Now' by Queen. The lyrics, such as 'Don't stop me now, 'cause I'm having a good time,' 'I'm a shooting star leaping through the sky,' and 'traveling at the speed of light,' complement the celebratory and triumphant montage of American achievements.",
+  "emojis_present": [],
+  "audio_music": "The entire video is set to the energetic and triumphant rock song 'Don't Stop Me Now' by Queen, creating a feeling of celebration, momentum, and unstoppable success.",
+  "editing_pacing": "A very fast-paced montage with rapid cuts between dozens of short historical and cultural clips.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The opening scene is a digital composite image. It places a recreation of the iconic 'V-J Day in Times Square' photograph into a fantastical city street scene filled with an unrealistic number of red, white, and blue balloons, some of which are arranged to spell out 'The American Era'.",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "nostalgia",
+    "triumph"
+  ],
+  "cultural_references": [
+    "'V-J Day in Times Square' photograph",
+    "'Raising the Flag on Iwo Jima' photograph",
+    "The Beatles",
+    "Mickey Mouse (in 'Steamboat Willie')",
+    "US Moon Landing",
+    "'Miracle on Ice' 1980 Olympic hockey game",
+    "Star Wars (featuring Luke Skywalker, C-3PO, and R2-D2)",
+    "Queen (band, via soundtrack)"
+  ],
+  "central_claim": "A montage of iconic 20th-century American achievements and cultural milestones positions a young Donald Trump as the culmination of this 'American Era.'",
+  "intended_effect": "To evoke feelings of patriotic pride and nostalgia, and to associate Donald Trump with a triumphant period in American history.",
+  "uncertainty_flags": []
+}

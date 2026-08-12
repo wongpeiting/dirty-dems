@@ -1,0 +1,101 @@
+{
+  "video_id": "7509574990010928427",
+  "visual_action": "Donald Trump, at a podium in what appears to be the White House, speaks during a press conference. The footage is from a Fox News broadcast, with their branding and chyrons visible. An unidentified woman sits behind Trump to his right. The clip is framed with black bars at the top and bottom for a mobile format, with text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure shown speaking for the entire video and is the subject of the framing text and the reporter's question."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen female voice asks the question that prompts Trump's response."
+    },
+    {
+      "name": "Wall Street analysts",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The reporter attributes the term \"taco trade\" and the accusation that Trump \"chickens out\" to Wall Street analysts."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions him by name, contrasting his own economic performance with Biden's."
+    },
+    {
+      "name": "European Union",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions giving the European Union a \"50% tax tariff\" as an example of his tough negotiating."
+    },
+    {
+      "name": "King of Saudi Arabia",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump recounts a conversation with the King of Saudi Arabia to support his claim about the US economy."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump MELTS DOWN after finding out Wall Street calls him a chicken behind his back 😭",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENT TRUMP TAKES QUESTIONS FROM REPORTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "WALL STREET ANALYSTS",
+      "role": "overlay"
+    },
+    {
+      "text": "'TACO TRADE.'",
+      "role": "overlay"
+    },
+    {
+      "text": "THEY'RE SAYING TRUMP ALWAYS CHICKENS OUT",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP: I DIDN'T \"CHICKEN OUT\" ON TARIFFS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump for his response to Wall Street analysts who have coined the term \"taco trade,\" alleging that he \"always chickens out\" on tariff threats. Trump, after clarifying the phrase \"chicken out,\" becomes defensive and denies the accusation. He cites his tariff policies towards China and the European Union as evidence of his strength. He then pivots to boasting about the US economy under his administration, claiming it is the \"hottest country in the world,\" and negatively compares it to the situation under Joe Biden. He concludes by calling the reporter's question \"nasty\" and stating that his actions are \"called negotiation.\"",
+  "emojis_present": [
+    "😭",
+    "🐔"
+  ],
+  "audio_music": "The audio consists entirely of dialogue from the press conference clip with no added music or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot from a news broadcast, with no cuts, zooms, or other dynamic editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humiliation"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump had an angry meltdown during a press conference when a reporter confronted him with Wall Street's view that he is a \"chicken\" who backs down on tariff threats.",
+  "intended_effect": "To portray Donald Trump as emotionally unstable, easily provoked, and weak, thereby undermining his public image.",
+  "uncertainty_flags": []
+}

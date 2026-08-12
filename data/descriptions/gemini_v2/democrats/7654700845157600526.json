@@ -1,0 +1,105 @@
+{
+  "video_id": "7654700845157600526",
+  "visual_action": "A close-up shot of Donald Trump speaking outdoors. A news-style chyron is at the bottom of the screen. The video pauses, a blue filter is applied, and animated mathematical equations float across the screen as a countdown from 6 to 1 appears. The video then resumes with Trump finishing his statement.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown speaking throughout the video, and the post is centered on his quote."
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions Israel in his speech, saying, 'I'm right now at 99% in Israel.'"
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news chyron at the bottom of the screen reads 'TRUMP SPEAKS AMID STANDOFF WITH IRAN'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I'm right now at 99% in Israel.",
+      "role": "caption"
+    },
+    {
+      "text": "what does trump say next?",
+      "role": "overlay"
+    },
+    {
+      "text": "6",
+      "role": "overlay"
+    },
+    {
+      "text": "5",
+      "role": "overlay"
+    },
+    {
+      "text": "4",
+      "role": "overlay"
+    },
+    {
+      "text": "3",
+      "role": "overlay"
+    },
+    {
+      "text": "2",
+      "role": "overlay"
+    },
+    {
+      "text": "1",
+      "role": "overlay"
+    },
+    {
+      "text": "I could run for prime minister.",
+      "role": "caption"
+    },
+    {
+      "text": "So maybe after I do this,",
+      "role": "caption"
+    },
+    {
+      "text": "I'll go to Israel and run for",
+      "role": "caption"
+    },
+    {
+      "text": "prime minister.",
+      "role": "caption"
+    },
+    {
+      "text": "[...N]G NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SPEAKS AMID STANDOFF WITH IRAN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump claims he has a 99% approval rating in Israel and jokes that because of this, he could run for prime minister there after his current endeavor. He says, \"I'm right now at 99% in Israel... I could run for prime minister. So maybe after I do this, I'll go to Israel and run for prime minister.\"",
+  "emojis_present": [],
+  "audio_music": "The video begins with only Donald Trump's speaking voice. After he says 'Israel,' the audio cuts to a suspenseful, synth-based track with ticking sound effects, typical of a quiz show, which plays during a countdown. After the countdown, the music stops and Trump's natural speaking audio resumes.",
+  "editing_pacing": "The video starts with a static talking-head shot. It then freezes and applies a blue filter and graphic overlays (floating equations, a countdown) to create a quiz-like segment. After the countdown, it cuts back to the original clip. This creates a pause-and-reveal structure.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The 'guess what happens next' or quiz show meme format, characterized by a pause, countdown, and suspenseful music.",
+    "The visual trope of floating mathematical equations, often used in memes to signify confusion or complex calculation, is used here for comedic effect."
+  ],
+  "central_claim": "Donald Trump made a statement about being so popular in Israel that he could become its prime minister, which is presented as an absurd and arrogant boast.",
+  "intended_effect": "To make the viewer see Donald Trump as arrogant and ridiculous by framing his quote within a mocking, game-show-like format.",
+  "uncertainty_flags": []
+}

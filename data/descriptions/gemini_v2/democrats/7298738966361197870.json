@@ -1,0 +1,66 @@
+{
+  "video_id": "7298738966361197870",
+  "visual_action": "Nikki Haley stands holding a microphone and speaks to a seated audience in what appears to be a town hall or campaign event. An American flag is visible in the background. Some audience members hold campaign signs.",
+  "cast": [
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the subject of the on-screen text and is shown speaking."
+    },
+    {
+      "name": "unnamed questioner",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks the question that prompts Nikki Haley's response."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video was posted by the @democrats account, which frames the clip to criticize a political opponent."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Nikki Haley on women in the military being able to travel for reproductive care: “I don’t think they should be able to”",
+      "role": "overlay"
+    },
+    {
+      "text": "Do you believe that, you know, soldiers who are in states that have more strict abortion bans or abortion limits, should be able to travel to get the care they need?",
+      "role": "caption"
+    },
+    {
+      "text": "So, I don't think they should be able to to get that part of it.",
+      "role": "caption"
+    },
+    {
+      "text": "NIKKI HALEY",
+      "role": "other"
+    },
+    {
+      "text": "HALEY",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An unseen person asks Nikki Haley if she believes female soldiers stationed in states with strict abortion bans should be able to travel for reproductive care. Haley responds, \"So, I don't think they should be able to get that part of it.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of spoken dialogue and ambient room noise from the event. There is no music.",
+  "editing_pacing": "The video is a single, static shot of Nikki Haley speaking, with text overlays and captions added in post-production.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Nikki Haley believes that women in the military should not be able to travel to receive reproductive care.",
+  "intended_effect": "To generate disapproval of Nikki Haley and portray her as being against the rights and needs of women serving in the military.",
+  "uncertainty_flags": []
+}

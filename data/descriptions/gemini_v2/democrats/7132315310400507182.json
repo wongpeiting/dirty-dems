@@ -1,0 +1,105 @@
+{
+  "video_id": "7132315310400507182",
+  "visual_action": "A young man with dark hair and a white t-shirt makes a series of facial expressions reacting to text that appears on screen. The video is a slideshow of three screenshots of tweets, followed by two red text boxes. The man's reactions progress from skepticism and frowning to wide-eyed surprise and finally a look of weary resignation.",
+  "cast": [
+    {
+      "name": "Mitch McConnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His profile picture appears on a tweet from '@LeaderMcConnell'. He is named in text overlays: 'Mitch McConnell just admitted on Fox News...' and 'Mitch McConnell voted no...'"
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His profile picture appears on a tweet from '@POTUS' and he is mentioned in text: 'President Biden's promise'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The posting account is '@democrats' and a tweet shown is from 'The Democrats'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The final text overlay states, 'And so did every other Senate Republican...'"
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A tweet overlay mentions 'on Fox News'."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is the person shown on screen reacting to the text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Leader McConnell @LeaderMcConnell",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats' tax hike plans would shred President Biden's promise not to hike taxes on the middle class.",
+      "role": "overlay"
+    },
+    {
+      "text": "President Biden @POTUS",
+      "role": "overlay"
+    },
+    {
+      "text": "When we pass the Inflation Reduction Act, not a single American in the middle class will pay higher taxes.",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "🚨 Mitch McConnell just admitted on Fox News that the Inflation Reduction Act contains “no new tax rate increases” on anyone making under $400,000 a year.",
+      "role": "overlay"
+    },
+    {
+      "text": "Mitch McConnell voted no on the Inflation Reduction Act",
+      "role": "overlay"
+    },
+    {
+      "text": "And so did every other Senate Republican...",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video is silent and contains only background music.",
+  "emojis_present": [
+    "🚨"
+  ],
+  "audio_music": "The video features a dramatic, suspenseful electronic track throughout, designed to build tension toward a reveal. According to music identification, the track changes around 8 seconds from 'FUTURE' by GAZA BOYS to 'Suspence' by Angel Amedro, but the overall tense and revelatory mood is maintained.",
+  "editing_pacing": "The video uses a slideshow-style reveal, where screenshots of tweets and text overlays appear sequentially. The pacing is deliberate, allowing the viewer to read each piece of information before the next appears.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Surprise",
+    "Vindication"
+  ],
+  "cultural_references": [],
+  "central_claim": "Mitch McConnell and Senate Republicans acted hypocritically by voting against the Inflation Reduction Act after McConnell himself admitted it did not raise taxes on anyone making under $400,000 a year.",
+  "intended_effect": "To portray Mitch McConnell and the Republican party as hypocritical and dishonest, thereby bolstering the Democratic position on the Inflation Reduction Act.",
+  "uncertainty_flags": []
+}

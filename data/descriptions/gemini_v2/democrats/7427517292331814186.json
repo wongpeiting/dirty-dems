@@ -1,0 +1,133 @@
+{
+  "video_id": "7427517292331814186",
+  "visual_action": "The video opens with a clip of Donald Trump speaking while seated on a couch with four other people in a television studio, identified by a chyron as a Fox & Friends segment. The scene then transitions to a series of three static screenshots of online articles. The articles discuss plans by Trump and Project 2025 to end the U.S. Department of Education and cut funding. Portions of the text in the second and third articles are highlighted in yellow.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown speaking in a clip and is the subject of the on-screen text and news articles."
+    },
+    {
+      "name": "Project 2025",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the on-screen text of news articles as wanting to end the Department of Education."
+    },
+    {
+      "name": "U.S. Department of Education",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Donald Trump states he is going to close the Department of Education, and it is the subject of the first news article shown."
+    },
+    {
+      "name": "Fox & Friends",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The chyron identifies the program as 'FOX & FRIENDS'."
+    },
+    {
+      "name": "Fox & Friends hosts",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Four unnamed individuals are seen on the couch with Donald Trump during the interview segment."
+    },
+    {
+      "name": "Erica Meltzer",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Credited as the author of the first article shown."
+    },
+    {
+      "name": "National Education Association (NEA)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as the source of the second article shown ('NEA NEWS')."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "We can't let him do this !!",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP ANSWERS QUESTIONS FROM F&F VIEWERS",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX & FRIENDS",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "TAKE",
+      "role": "overlay"
+    },
+    {
+      "text": "EDUCATION",
+      "role": "overlay"
+    },
+    {
+      "text": "IT",
+      "role": "overlay"
+    },
+    {
+      "text": "CLOSE",
+      "role": "overlay"
+    },
+    {
+      "text": "Ending the U.S. Department of Education: What it would mean and why Trump and Project 2025 want it",
+      "role": "overlay"
+    },
+    {
+      "text": "By Erica Meltzer | August 23, 2024, 8:51pm EDT",
+      "role": "overlay"
+    },
+    {
+      "text": "NEA NEWS\nHow Project 2025 Would Devastate Public Education\nThe 900-page blueprint for a second Trump presidency would gut federal education funding, sanction discrimination against LGBTQ+ students, divert taxpayer funds to private schools, and codify book bans and classroom censorship on a national level. That's just the beginning.",
+      "role": "overlay"
+    },
+    {
+      "text": "STRIPPING SUPPORT FOR THE MOST VULNERABLE STUDENTS\nSince 1965, Title I has provided critical financial help to high-poverty schools and districts. Project 2025 plans to eliminate Title I funding entirely. In its place, states will receive no-strings-attached block grants with zero regulations or oversight.\nUnder this plan, already tight education budgets will be further strained, undermining the academic outcomes of 2.8 million of the nation's most vulnerable students.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"I'm going to take the Department of Education, close it. I'm going to close it.\"",
+  "emojis_present": [],
+  "audio_music": "The video features dialogue from Donald Trump, followed by a series of dramatic, deep 'boom' sound effects that punctuate the appearance of each news article screenshot, creating an ominous and alarming tone.",
+  "editing_pacing": "The video starts with a live-action clip and then transitions into a slideshow of three static screenshots. The pacing is deliberate, holding on each screenshot to allow for reading.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump intends to eliminate the U.S. Department of Education, a move that, according to Project 2025 plans, would devastate public education by cutting federal funding and support for vulnerable students.",
+  "intended_effect": "To alarm viewers about the potential negative consequences of Donald Trump's and Project 2025's education policies and to motivate opposition to them.",
+  "uncertainty_flags": [
+    "The publication source for the third article screenshot, titled 'STRIPPING SUPPORT FOR THE MOST VULNERABLE STUDENTS', is not visible."
+  ]
+}

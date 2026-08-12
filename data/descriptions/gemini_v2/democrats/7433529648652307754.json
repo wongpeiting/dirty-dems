@@ -1,0 +1,83 @@
+{
+  "video_id": "7433529648652307754",
+  "visual_action": "A static image of Kamala Harris and Tim Walz laughing together at a rally is shown with an overlaid question. This is followed by a second static screen showing a multiple-choice list of celebratory, patriotic actions on a black background.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Kamala Harris is shown in a photograph and named in the on-screen text: \"What will you do when Harris/Walz wins the election?\""
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Tim Walz is shown in a photograph and named in the on-screen text: \"What will you do when Harris/Walz wins the election?\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"What will you do when Harris/Walz wins the election?\"",
+      "role": "meme_text"
+    },
+    {
+      "text": "Run up and down the street waving an American flag",
+      "role": "overlay"
+    },
+    {
+      "text": "Get a tattoo of a bald eagle",
+      "role": "overlay"
+    },
+    {
+      "text": "Wear only red, white, and blue until Inauguration Day",
+      "role": "overlay"
+    },
+    {
+      "text": "Host a barbecue 🍗",
+      "role": "overlay"
+    },
+    {
+      "text": "Paint my face and go to a football game",
+      "role": "overlay"
+    },
+    {
+      "text": "Only listen to America the Beautiful for the next 24 hours",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [
+    "🍗"
+  ],
+  "audio_music": "A bass-boosted, electronic, high-energy version of a patriotic song, identified as 'Star Spangled (Bass Boosted)', plays throughout the video, creating a celebratory and hype-filled mood.",
+  "editing_pacing": "The video is a simple slideshow consisting of two static images with a single cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "joy",
+    "anticipation"
+  ],
+  "cultural_references": [
+    "America the Beautiful (song)",
+    "The Star-Spangled Banner (song)"
+  ],
+  "central_claim": "A victory for the Harris/Walz ticket is an inevitable event that should be met with enthusiastic, patriotic celebration.",
+  "intended_effect": "To generate excitement and a sense of inevitable victory among supporters of the Democratic ticket.",
+  "uncertainty_flags": [
+    "The provided face-ID context indicates no faces were detected, but Kamala Harris and Tim Walz are clearly visible in the first image."
+  ]
+}

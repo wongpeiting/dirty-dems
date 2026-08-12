@@ -1,0 +1,73 @@
+{
+  "video_id": "7555538590768368951",
+  "visual_action": "Donald Trump stands at an entrance to the White House as a black SUV pulls up. Israeli Prime Minister Benjamin Netanyahu exits the vehicle. Trump and Netanyahu shake hands and speak briefly. They then stand side-by-side facing off-camera, presumably towards the press. The video ends with a black and white title card for 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears on screen throughout the video, speaks, and is named in the on-screen text 'President Trump'."
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears on screen greeting Trump and is identified as 'the Prime Minister of Israel' in the on-screen text."
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen text 'Prime Minister of Israel' and represented by the Israeli flag emoji 🇮🇱."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Named in the on-screen text and on the end card, is the setting of the video, and is the name of the posting account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Welcomes the Prime Minister of Israel Back to the White House 🇺🇸 🇮🇱",
+      "role": "overlay"
+    },
+    {
+      "text": "🇺🇸🇮🇱",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump and Benjamin Netanyahu exchange brief greetings outside the White House. An off-screen person, likely a reporter, asks a question, to which Trump replies, \"I am. I'm very confident.\" The initial part of their private conversation and the full reporter question are not fully clear from the audio.",
+  "emojis_present": [
+    "🇺🇸",
+    "🇮🇱"
+  ],
+  "audio_music": "The audio is diegetic, consisting of ambient noise, the sound of a car door, dialogue between the leaders, and shouted questions from an off-screen press corps. There is no background music.",
+  "editing_pacing": "The video consists of a single, continuous shot of the meeting, followed by a cut to a black and white title card at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Pride",
+    "Formality"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is confidently leading and maintaining a strong diplomatic relationship with Israel, as shown by his formal welcome of Prime Minister Netanyahu to the White House.",
+  "intended_effect": "To project an image of strength, international leadership, and a solid US-Israel alliance under President Trump.",
+  "uncertainty_flags": [
+    "The full conversation between Trump and Netanyahu is not clear.",
+    "The reporter's question that prompts Trump's 'I'm very confident' response is inaudible."
+  ]
+}

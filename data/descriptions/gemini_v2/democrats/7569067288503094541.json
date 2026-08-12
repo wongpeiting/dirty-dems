@@ -1,0 +1,56 @@
+{
+  "video_id": "7569067288503094541",
+  "visual_action": "The video opens with a static screenshot of a tweet from the account 'FactPost'. The tweet announces 'Zohran Mamdani has been elected Mayor of New York City' and shows a photo of Mamdani next to a photo of New York City Hall. The video then cuts to a photograph of Zohran Mamdani smiling behind a podium.",
+  "cast": [
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text and his photograph is shown throughout the video."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle of the Twitter/X account 'FactPost' (@factpostnews) are visible in the screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Zohran Mamdani has been elected Mayor of New York City.",
+      "role": "overlay"
+    },
+    {
+      "text": "NEW YORK",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio contains music and a sampled voice clip saying \"New York make some noise,\" but no dialogue or narration.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, celebratory hip-hop track starts immediately with a sampled voice saying \"New York make some noise\" over the sound of a cheering crowd. The energetic music continues for the entire duration of the short clip, creating a hype atmosphere.",
+  "editing_pacing": "The video is a simple slideshow with one hard cut between two static images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated tweet from an account named \"FactPost\" to falsely claim that Zohran Mamdani has been elected Mayor of New York City.",
+  "emotions_signaled": [
+    "Celebration",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "Zohran Mamdani has been elected Mayor of New York City.",
+  "intended_effect": "To generate excitement and pride among supporters by celebrating a fabricated political victory for Zohran Mamdani.",
+  "uncertainty_flags": [
+    "The legitimacy of the 'FactPost' Twitter/X account is uncertain; it appears to be fabricated for the video."
+  ]
+}

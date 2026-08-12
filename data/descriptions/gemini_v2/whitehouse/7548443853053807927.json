@@ -1,0 +1,79 @@
+{
+  "video_id": "7548443853053807927",
+  "visual_action": "Karoline Leavitt speaks from a podium in what appears to be the White House press briefing room. She is wearing a light green blazer. The video concludes with a black screen showing a white line drawing of the White House and text identifying it as the White House of President Donald J. Trump.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at the White House podium for the entire duration of the speech. Identified by face-ID and an on-screen text overlay that reads \"Karoline Leavitt Says...\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Repeatedly named as the party running high-crime cities. Leavitt states, \"...these cities is all in cities that are run by Democrats.\""
+    },
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His name appears on the final title card of the video: \"THE WHITE HOUSE PRESIDENT DONALD J. TRUMP\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE WASHINGTON",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE\nKaroline Leavitt Says High Crime States are All Run by Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "There is crime in all states, but the crime in",
+      "role": "caption"
+    },
+    {
+      "text": "these cities is all in cities that are run by Democrats.",
+      "role": "caption"
+    },
+    {
+      "text": "If you look at the the list of the top 20 high crime cities in the United States,",
+      "role": "caption"
+    },
+    {
+      "text": "every single one, with the exception of one",
+      "role": "caption"
+    },
+    {
+      "text": "in Louisiana, is run by a Democrat.",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE\nPRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt argues that while crime exists everywhere, it is concentrated in cities run by Democrats. She claims that of the top 20 high-crime cities in the US, all but one are run by a Democrat.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of clear, spoken dialogue from Karoline Leavitt. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot of the speaker at a podium. It features text overlays and synchronized captions, cutting to a final title card at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Alarm",
+    "Partisanship"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party's governance is the cause of high crime rates in major US cities.",
+  "intended_effect": "To convince viewers that Democrats are responsible for crime and should be voted out of office.",
+  "uncertainty_flags": []
+}

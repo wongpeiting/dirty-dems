@@ -1,0 +1,53 @@
+{
+  "video_id": "7150671855471332651",
+  "visual_action": "A slideshow of still photographs of Senator Alex Padilla. He is shown in a solo portrait, posing with President Joe Biden, speaking at a microphone, hugging an older woman, casting a vote with a child next to him, posing with Vice President Kamala Harris, and standing in a casual setting.",
+  "cast": [
+    {
+      "name": "Alex Padilla",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of every photograph in the slideshow, and the on-screen text reads 'Senator Padilla'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in one photograph posing with Alex Padilla."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown in one photograph posing with Alex Padilla."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "✨Senator Padilla✨",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set entirely to music.",
+  "emojis_present": [
+    "✨"
+  ],
+  "audio_music": "An uplifting, somewhat dramatic instrumental track with a prominent string section plays throughout the video, creating a positive and stately mood. The identified track is 'Breakfail Mein Chhoda Nai' by Prakash.",
+  "editing_pacing": "The video is a slideshow of still photographs, with each photo displayed for approximately one second before transitioning to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Admiration",
+    "Inspiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Senator Alex Padilla is an accomplished and personable leader who is connected to his community and prominent national figures like President Biden and Vice President Harris.",
+  "intended_effect": "To generate positive sentiment and admiration for Senator Alex Padilla.",
+  "uncertainty_flags": []
+}

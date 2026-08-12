@@ -1,0 +1,81 @@
+{
+  "video_id": "7502101967536246062",
+  "visual_action": "The video shows a close-up of Donald Trump in a suit and red tie, standing outdoors in a crowd. He looks at the camera and points. The video then cuts to a static black screen with a poster of Trump that says \"TRUMP FIGHT FIGHT FIGHT.\" Below the poster is a news-style graphic with the text \"CBS EVENING NEWS\" and a headline stating that the Trump family's net worth has increased by $2.9 billion.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a close-up for the first half of the video and is the subject of the on-screen poster and news headline."
+    },
+    {
+      "name": "Trump family",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly mentions the \"Trump family's net worth\" as the subject of the news report."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He appears in the background behind Donald Trump in the opening shot."
+    },
+    {
+      "name": "CBS Evening News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The name of the news organization appears on screen as the source of the information presented."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"Stop abusing the presidency to enrich yourself while the economy tanks\"",
+      "role": "overlay"
+    },
+    {
+      "text": "I mean I could but why would I want to",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "FIGHT\nFIGHT\nFIGHT",
+      "role": "overlay"
+    },
+    {
+      "text": "CBS EVENING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "Trump family's net worth has increased by $2.9 billion thanks to crypto investments, new report says",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from the song \"Hands to Myself\" by Selena Gomez. The lines featured are \"Can't keep my hands to myself... I mean I could, but why would I want to?\" These lyrics are used to imply a confession from Donald Trump.",
+  "emojis_present": [],
+  "audio_music": "The video features the upbeat pop song \"Hands To Myself\" by Selena Gomez throughout. The lyrics are used sarcastically to create a mocking and accusatory tone.",
+  "editing_pacing": "The video consists of a single clip of Donald Trump with a slight zoom, followed by a hard cut to a static graphic for the remainder of the video. The pacing is simple and direct.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "accusation",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The song \"Hands To Myself\" by Selena Gomez is used as the primary audio and framing device."
+  ],
+  "central_claim": "Donald Trump corruptly used the presidency to enrich his family by billions of dollars and is arrogant and unapologetic about it.",
+  "intended_effect": "To portray Donald Trump as corrupt and unconcerned with the country's economy, generating anger and negative sentiment toward him.",
+  "uncertainty_flags": []
+}

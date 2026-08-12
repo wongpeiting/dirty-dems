@@ -1,0 +1,62 @@
+{
+  "video_id": "7325562238058761518",
+  "visual_action": "President Joe Biden and another man, identified from context as Roy Cooper, are shown at the walk-up window of a Cook Out fast-food restaurant. Biden receives a bag of food and a drink, and Cooper also gets a drink. They both smile as Biden turns to face the camera, holding his food and drink.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually present throughout the video and identified by the on-screen text 'President Biden'."
+    },
+    {
+      "name": "Roy Cooper",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visually present, standing next to Joe Biden."
+    },
+    {
+      "name": "Cook Out",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The restaurant's name is visible on the menu board and the plastic bag Biden is holding."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden stops by Cook Out",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The only audio is a country music song.",
+  "emojis_present": [],
+  "audio_music": "A warm, upbeat country song, identified as 'Gettin' You Home' by Chris Young, plays throughout the video, creating a friendly and relatable atmosphere.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "relatability",
+    "wholesomeness",
+    "positivity"
+  ],
+  "cultural_references": [
+    "Gettin' You Home by Chris Young",
+    "Cook Out (fast-food chain)"
+  ],
+  "central_claim": "President Biden is a relatable and down-to-earth person who enjoys simple American activities like visiting a popular fast-food restaurant.",
+  "intended_effect": "To humanize President Biden and portray him in a positive and approachable light.",
+  "uncertainty_flags": []
+}

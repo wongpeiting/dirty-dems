@@ -1,0 +1,63 @@
+{
+  "video_id": "7245389037010193707",
+  "visual_action": "President Joe Biden, wearing a suit and sunglasses, walks towards the camera in slow motion. The scene is outdoors on what appears to be a deck or patio with greenery in the background. Overlaid on the video is a screenshot of a tweet from the account Pop Crave.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen, and the overlaid text credits 'President Biden' for the action described."
+    },
+    {
+      "name": "Pop Crave",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Twitter/X account whose tweet is screenshotted and displayed on screen."
+    },
+    {
+      "name": "Ticketmaster",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the overlaid tweet as a company that will no longer hide fees."
+    },
+    {
+      "name": "Live Nation",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the overlaid tweet as a company that will no longer hide fees."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pop Crave @PopCrave Ticketmaster and Live Nation will no longer hide fees from total ticket costs after President Biden pushed for companies to ditch “junk fees.”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; the audio consists of instrumental music with a looped vocal sample.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, funky instrumental track plays throughout. It features a looped vocal sample that sounds like it's from the song 'Lovely Day' by Bill Withers. The music's effect is to make the subject appear cool and successful.",
+  "editing_pacing": "The video consists of a single, continuous slow-motion shot with no cuts or zooms.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "admiration",
+    "satisfaction"
+  ],
+  "cultural_references": [
+    "The video uses a screenshot of a tweet from Pop Crave, a popular culture news outlet.",
+    "The music appears to sample the classic song 'Lovely Day' by Bill Withers.",
+    "The visual style of a slow-motion walk with sunglasses is a common cinematic trope for depicting a cool, powerful character."
+  ],
+  "central_claim": "President Biden has successfully pressured companies like Ticketmaster and Live Nation to eliminate hidden 'junk fees' for consumers.",
+  "intended_effect": "To make the viewer see President Biden as a cool and effective leader who delivers positive results for ordinary people.",
+  "uncertainty_flags": []
+}

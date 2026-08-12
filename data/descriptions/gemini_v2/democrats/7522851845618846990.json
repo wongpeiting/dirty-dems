@@ -1,0 +1,104 @@
+{
+  "video_id": "7522851845618846990",
+  "visual_action": "Hakeem Jeffries speaks at a podium on what appears to be the floor of the House of Representatives. A C-SPAN chyron is visible at the bottom of the screen. As his speech becomes more impassioned, other members of Congress seated behind him rise to their feet and applaud.",
+  "cast": [
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person speaking in the video and is identified by both face recognition and a C-SPAN chyron that reads 'REP. HAKEEM JEFFRIES'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen overlay text at the beginning of the video refers to 'Trump's budget bill'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Jeffries repeatedly refers to and condemns the 'reckless Republican budget'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is posted by the official @democrats account, and Jeffries mentions his 'colleagues in the House Democratic Caucus'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Leader Jeffries 4 hours into delaying Trump's budget bill",
+      "role": "overlay"
+    },
+    {
+      "text": "GOP TAX & SPENDING CUTS LEGISLATION",
+      "role": "chyron"
+    },
+    {
+      "text": "REP. HAKEEM JEFFRIES",
+      "role": "chyron"
+    },
+    {
+      "text": "D-New York, Minority Leader",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "BUDGETS ARE MORAL",
+      "role": "caption"
+    },
+    {
+      "text": "TEARS PEOPLE DOWN.",
+      "role": "caption"
+    },
+    {
+      "text": "THIS RECKLESS REPUBLICAN BUDGET IS AN IMMORAL DOCUMENT",
+      "role": "caption"
+    },
+    {
+      "text": "VOTE NO AGAINST IT",
+      "role": "caption"
+    },
+    {
+      "text": "IT ATTACKS CHILDREN AND SENIORS",
+      "role": "caption"
+    },
+    {
+      "text": "EVERYTHING WE HAVE.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Hakeem Jeffries delivers a passionate speech arguing that budgets are \"moral documents\" intended to \"lift people up.\" He characterizes the current \"reckless Republican budget\" as an \"immoral document\" that \"tears people down\" by attacking vulnerable groups like children, seniors, and people with disabilities. He urges everyone to vote no and declares that the House Democratic Caucus will fight against it with all their power.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Hakeem Jeffries' speech, delivered in a passionate tone. Background noise of the legislative chamber is audible. Towards the end of the clip, the sound of applause from his colleagues can be heard, reinforcing his points.",
+  "editing_pacing": "The video is a single, static shot of Hakeem Jeffries speaking from a podium. The main editing element is the addition of large, white text overlays that appear in sync with his speech, emphasizing key phrases.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Righteous indignation",
+    "Urgency",
+    "Solidarity",
+    "Moral conviction"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican budget is an immoral policy that attacks vulnerable Americans, and Democrats are united in fighting against it.",
+  "intended_effect": "To provoke anger towards the Republican Party's policies and inspire viewers to support Democratic opposition to the budget.",
+  "uncertainty_flags": []
+}

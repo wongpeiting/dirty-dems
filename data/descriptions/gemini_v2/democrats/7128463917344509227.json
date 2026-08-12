@@ -1,0 +1,120 @@
+{
+  "video_id": "7128463917344509227",
+  "visual_action": "A clip from a news-style interview. It cuts between a female interviewer asking a question and a male economist, Mark Zandi, answering from a remote location, likely a home office. The format is a vertical, talking-head style.",
+  "cast": [
+    {
+      "name": "Mark Zandi",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The interviewer addresses him as \"Mark Zandi,\" and on-screen text also identifies him."
+    },
+    {
+      "name": "Moody's Analytics",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is introduced as \"the chief economist from Moody's Analytics.\""
+    },
+    {
+      "name": "Unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman appears on screen asking the question that sets up the clip."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video, posted by the official '@democrats' account, promotes the Inflation Reduction Act, a key legislative achievement for the party."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Economist Says Inflation Reduction Act Will Lower Inflation",
+      "role": "overlay"
+    },
+    {
+      "text": "The chief economist from Moody's Analytics,",
+      "role": "caption"
+    },
+    {
+      "text": "Mark Zandi, what will this deal likely do to inflation?",
+      "role": "caption"
+    },
+    {
+      "text": "You know, it lowers prescription drug costs,",
+      "role": "caption"
+    },
+    {
+      "text": "which is, you know, a key cost for a lot of seniors.",
+      "role": "caption"
+    },
+    {
+      "text": "It lowers the cost of health insurance for",
+      "role": "caption"
+    },
+    {
+      "text": "lower-income Americans.",
+      "role": "caption"
+    },
+    {
+      "text": "And, longer run, because of the climate provisions,",
+      "role": "caption"
+    },
+    {
+      "text": "it'll reduce the cost of energy for households",
+      "role": "caption"
+    },
+    {
+      "text": "and improve efficiency.",
+      "role": "caption"
+    },
+    {
+      "text": "So net-net, it will push inflation lower.",
+      "role": "caption"
+    },
+    {
+      "text": "This will significantly reduce CO2 emissions,",
+      "role": "caption"
+    },
+    {
+      "text": "carbon emissions, which will ultimately result in",
+      "role": "caption"
+    },
+    {
+      "text": "significant economic benefits well down the road.",
+      "role": "caption"
+    },
+    {
+      "text": "But I think this is really important",
+      "role": "caption"
+    },
+    {
+      "text": "to long-term economic growth. Yes.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An interviewer asks Mark Zandi, the chief economist from Moody's Analytics, what the Inflation Reduction Act will do for inflation. Zandi explains that it will lower prescription drug, health insurance, and energy costs. He states, \"So net-net, it will push inflation lower.\" He also adds that the bill will reduce carbon emissions, providing long-term economic benefits.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from the news interview clip. There is no music or other sound effects.",
+  "editing_pacing": "The video uses simple cuts between two speakers in a static, talking-head interview format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Reassurance",
+    "Confidence"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Inflation Reduction Act is a beneficial policy that, according to expert economist Mark Zandi, will lower inflation and create long-term economic growth.",
+  "intended_effect": "To persuade viewers of the economic benefits of the Inflation Reduction Act and build confidence in the Democratic Party's economic policies.",
+  "uncertainty_flags": [
+    "The identity of the female interviewer and the original news source of the clip are not specified."
+  ]
+}

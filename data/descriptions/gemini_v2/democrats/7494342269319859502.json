@@ -1,0 +1,96 @@
+{
+  "video_id": "7494342269319859502",
+  "visual_action": "The video displays a four-panel split screen showing two separate interviews. On the left, a blonde woman speaks from a studio. On the right, a bearded man speaks from a remote location with a city skyline at night behind him. The video then cuts to a black screen with white text that reads, \"Meanwhile, the Trump administration:\". Below this, a screenshot of a CNN headline appears, which reads, \"IRS making plans to rescind Harvard's tax-exempt status.\" The word \"rescind\" is highlighted in yellow.",
+  "cast": [
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A man identified as J.D. Vance is shown speaking on the right side of a split screen, with his words captioned."
+    },
+    {
+      "name": "Laura Ingraham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A woman identified as Laura Ingraham is shown speaking on the left side of a split screen, with her words captioned."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to \"the Trump administration\"."
+    },
+    {
+      "name": "Internal Revenue Service (IRS)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The IRS is mentioned in the on-screen captions (\"If the IRS can go after you...\") and the subsequent news headline."
+    },
+    {
+      "name": "Harvard University",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen news headline states the IRS was making plans to rescind \"Harvard's tax-exempt status\"."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible on the news headline screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "If the IRS can go after you because of your beliefs,",
+      "role": "caption"
+    },
+    {
+      "text": "we'd no longer live in a free country.",
+      "role": "caption"
+    },
+    {
+      "text": "Meanwhile, the Trump administration:",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN",
+      "role": "other"
+    },
+    {
+      "text": "IRS making plans to rescind Harvard's tax-exempt status",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The dialogue, presented through on-screen captions, consists of the statement: \"If the IRS can go after you because of your beliefs, we'd no longer live in a free country.\"",
+  "emojis_present": [],
+  "audio_music": "The audio begins with spoken dialogue. When the video cuts to the headline about the Trump administration, a long, low-pitched buzzing or fart sound effect plays, consistent with the TikTok sound label \"Boooooo\" (long fart). This sound is used for a mocking or comedic 'fail' effect.",
+  "editing_pacing": "The video consists of a static split-screen shot of two speakers, followed by a hard cut to a static image of a news headline.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "indignation"
+  ],
+  "cultural_references": [
+    "The 'Meanwhile...' format is a common internet meme structure used to point out hypocrisy or contrast."
+  ],
+  "central_claim": "Conservative figures like J.D. Vance and Laura Ingraham are hypocritical for warning against the political weaponization of the IRS, because the Trump administration reportedly did the same thing.",
+  "intended_effect": "To expose the perceived hypocrisy of the speakers and the Trump administration regarding the use of the IRS for political ends, and to generate mockery towards them.",
+  "uncertainty_flags": [
+    "The speakers were identified by face as J.D. Vance and Laura Ingraham, but the provided authoritative face-ID context stated 'none detected'.",
+    "The provided music fingerprint identified a specific song, but the audible sound is a non-musical sound effect (a fart/buzz), which matches the TikTok sound label."
+  ]
+}

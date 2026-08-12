@@ -1,0 +1,163 @@
+{
+  "video_id": "7562211287761964343",
+  "visual_action": "The video shows a montage of clips from a Fox News segment at the State Fair of Texas. A male reporter in a cowboy hat introduces the segment, followed by several man-on-the-street interviews with fair attendees who are complaining about high grocery prices. A chyron from Fox News is visible at the bottom of the screen throughout the video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The main on-screen text caption at the top of the video says 'skyrocketing grocery costs under the Trump admin'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen caption identifies the broadcast as being from 'Fox News', and the Fox News logo is visible on the chyron and the reporter's microphone."
+    },
+    {
+      "name": "unnamed Fox News reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man in a cowboy hat holding a Fox News microphone introduces the segment."
+    },
+    {
+      "name": "unnamed female interviewee",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman with glasses and a grey tank top is interviewed and speaks about the high cost of milk and eggs."
+    },
+    {
+      "name": "unnamed female interviewee",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman wearing a hat and sunglasses is interviewed and speaks about the price of eggs increasing."
+    },
+    {
+      "name": "unnamed male interviewee",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man with a beard and sunglasses is interviewed about having to pay more for groceries."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Even Fox News is covering skyrocketing grocery costs under the Trump admin 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "STATE FAIR OF TEXAS IS UNDERWAY IN DALLAS",
+      "role": "chyron"
+    },
+    {
+      "text": "TEXAS RESIDENTS TALK HIGH PRICES AT STATE FAIR",
+      "role": "chyron"
+    },
+    {
+      "text": "SOME LINGERING",
+      "role": "overlay"
+    },
+    {
+      "text": "CONCERNS ABOUT",
+      "role": "overlay"
+    },
+    {
+      "text": "TARIFFS AS WELL",
+      "role": "overlay"
+    },
+    {
+      "text": "AS FOOD PRICES.",
+      "role": "overlay"
+    },
+    {
+      "text": "TAKE A LISTEN",
+      "role": "overlay"
+    },
+    {
+      "text": "TO WHAT FOLKS",
+      "role": "overlay"
+    },
+    {
+      "text": "HAD TO SAY HERE.",
+      "role": "overlay"
+    },
+    {
+      "text": "EGGS AREN'T",
+      "role": "overlay"
+    },
+    {
+      "text": "CHEAPER.",
+      "role": "overlay"
+    },
+    {
+      "text": "AND MILK IS $4,",
+      "role": "overlay"
+    },
+    {
+      "text": "$5 A GALLON,",
+      "role": "overlay"
+    },
+    {
+      "text": "BECOMING CHEAPER",
+      "role": "overlay"
+    },
+    {
+      "text": "THE EGGS WENT",
+      "role": "overlay"
+    },
+    {
+      "text": "FROM $2 TO $9,",
+      "role": "overlay"
+    },
+    {
+      "text": "GET HERE?",
+      "role": "overlay"
+    },
+    {
+      "text": "DOWNSIDE RIGHT",
+      "role": "overlay"
+    },
+    {
+      "text": "TO PAY MORE TO",
+      "role": "overlay"
+    },
+    {
+      "text": "GROCERIES.",
+      "role": "overlay"
+    },
+    {
+      "text": "THEY'RE GOING",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A Fox News reporter introduces a segment on 'lingering concerns about tariffs as well as food prices' at the Texas State Fair. Various interviewees then express their frustration with rising costs. One woman complains that milk is '$4, $5 a gallon' and that it's 'almost becoming cheaper to eat out.' Another woman exclaims that 'the eggs went from $2 to $9.' A man states the only downside is having to 'pay more to get more groceries.'",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists entirely of dialogue from the Fox News broadcast, including the reporter's narration and the interviewees' responses. There is no background music.",
+  "editing_pacing": "The video consists of a series of quick cuts between different interview clips from a single news report.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Worry (from interviewees about food prices)",
+    "Surprise (from the caption 'Even Fox News is covering...')",
+    "Schadenfreude (the post uses a conservative network's reporting against a Republican figure)"
+  ],
+  "cultural_references": [],
+  "central_claim": "The problem of skyrocketing grocery costs under the Trump administration is so undeniable that even the typically Republican-friendly outlet Fox News is covering it.",
+  "intended_effect": "To use footage from a conservative news source to validate criticism of the Trump administration's handling of the economy and persuade viewers that he is responsible for high food prices.",
+  "uncertainty_flags": [
+    "The original air date of the Fox News segment is not specified."
+  ]
+}

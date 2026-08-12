@@ -1,0 +1,47 @@
+{
+  "video_id": "7458022416548121902",
+  "visual_action": "A young man with a microphone is superimposed in front of a static image of the U.S. Capitol Building. He pauses for a long time, as if thinking, then frowns, smiles slightly, and speaks.",
+  "cast": [
+    {
+      "name": "MAGA Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text asks, \"Do MAGA Republicans have a plan that will help people besides billionaires?\""
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is the person on screen speaking."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“Do MAGA Republicans have a plan that will help people besides billionaires?”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "After a long pause intended for comedic effect, the man answers the on-screen question by saying, \"They don't.\"",
+  "emojis_present": [
+    "😀",
+    "👍"
+  ],
+  "audio_music": "The video contains only spoken dialogue, with no music or sound effects.",
+  "editing_pacing": "The video consists of a single, static shot of the speaker in a talking-head format.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The speaker is superimposed over a background image of the U.S. Capitol, creating a fake \"reporter on location\" scene that did not actually occur.",
+  "emotions_signaled": [
+    "mockery",
+    "dismissiveness"
+  ],
+  "cultural_references": [
+    "The video adopts the format of a 'man-on-the-street' interview for comedic effect."
+  ],
+  "central_claim": "MAGA Republicans have no policies designed to help anyone other than billionaires.",
+  "intended_effect": "To mock MAGA Republicans and persuade the audience that their political platform only serves the wealthy.",
+  "uncertainty_flags": []
+}

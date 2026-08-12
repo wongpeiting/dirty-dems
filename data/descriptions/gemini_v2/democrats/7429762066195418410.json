@@ -1,0 +1,92 @@
+{
+  "video_id": "7429762066195418410",
+  "visual_action": "A video in a quiz-show format that presents three separate clips of Donald Trump speaking in interview settings. Each clip is framed as an answer to a serious policy question. The video begins with a title card showing Trump in an interview, then a countdown from 3. After each clip of Trump speaking, a multiple-choice question appears asking what Trump was asked about, followed by the purported correct answer. The first interview setting is at 'The Economic Club of Chicago' with Bloomberg News branding visible. The second is a tighter shot of Trump. The third is Trump being interviewed by an unidentified woman.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in three separate clips and is the subject of the video's quiz format."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says, 'With Biden, they're trying to take everything.'"
+    },
+    {
+      "name": "George W. Bush",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says, 'With Bush, they took a lot.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "What was Trump asked about?",
+      "role": "overlay"
+    },
+    {
+      "text": "START",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's Answer:",
+      "role": "overlay"
+    },
+    {
+      "text": "What was Trump asked about?\nA. Being President\nB. Interest Rates\nC. Immigration",
+      "role": "overlay"
+    },
+    {
+      "text": "Interest rates",
+      "role": "overlay"
+    },
+    {
+      "text": "What was Trump asked about?\nA. Hat hair\nB. The color red\nC. Fact-checking",
+      "role": "overlay"
+    },
+    {
+      "text": "Fact-checking",
+      "role": "overlay"
+    },
+    {
+      "text": "What was Trump asked about?\nA. How he will reduce prices\nB. What Biden did wrong\nC. Russia",
+      "role": "overlay"
+    },
+    {
+      "text": "How he will reduce prices",
+      "role": "overlay"
+    },
+    {
+      "text": "THE ECONOMIC CLUB OF CHICAGO",
+      "role": "other"
+    },
+    {
+      "text": "Bloomberg News",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video presents three clips of Donald Trump's answers, which are framed as being non-sequiturs to the questions he was asked. First, he says, \"You show up to the office once a month and you say, let's see, flip a coin.\" Second, he says, \"But now she's changed him. She's become MAGA. She became MAGA. I'm gonna send her a hat.\" Third, he says, \"With Bush, they took a lot... Russia. With Biden, they're trying to take everything.\"",
+  "emojis_present": [],
+  "audio_music": "The video features an upbeat, retro, game-show-style music track throughout. There are beeping sound effects for a countdown timer at the start, and a celebratory sound effect of children cheering 'Yay!' when the correct answers to the quiz questions are revealed.",
+  "editing_pacing": "The video uses fast cuts, montage style, to switch between an introductory title, clips of Trump speaking, and on-screen text overlays presenting quiz questions and answers.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "The video's format and music evoke the game show 'The Price is Right'."
+  ],
+  "central_claim": "Donald Trump gives incoherent and irrelevant answers when asked about serious policy issues like interest rates, fact-checking, and price reduction.",
+  "intended_effect": "To make the viewer perceive Donald Trump as nonsensical and unfit for office, while also providing amusement at his expense.",
+  "uncertainty_flags": []
+}

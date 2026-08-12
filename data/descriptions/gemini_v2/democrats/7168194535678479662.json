@@ -1,0 +1,98 @@
+{
+  "video_id": "7168194535678479662",
+  "visual_action": "A fast-paced montage of clips featuring Joe Biden. The video opens with him smiling on a stage. It then cuts to various scenes: Biden eating an ice cream cone in a shop, walking in a suit and sunglasses, signing a document at a desk while Chuck Schumer and Jim Clyburn look on, sitting in an orange sports car, walking outdoors and smiling, throwing a wadded-up paper on what appears to be a talk show set, smiling and making a fist pump at a desk, putting on sunglasses, walking alongside Barack Obama on a stage, driving a vintage green convertible, and taking a selfie with Ketanji Brown Jackson.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of the birthday montage and appears in every clip."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown walking alongside Joe Biden on a stage."
+    },
+    {
+      "name": "Chuck Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown leaning over Joe Biden's shoulder as he signs a document."
+    },
+    {
+      "name": "Jim Clyburn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by context's authoritative face-ID, standing next to Joe Biden and Chuck Schumer during a bill signing."
+    },
+    {
+      "name": "Ketanji Brown Jackson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown taking a selfie with Joe Biden."
+    },
+    {
+      "name": "Jill Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by context's authoritative face-ID, but not visually confirmed by human review."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by context's authoritative face-ID, but not visually confirmed by human review."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "IT'S PRESIDENT BIDEN'S BIRTHDAY!🥳🎉✨",
+      "role": "overlay"
+    },
+    {
+      "text": "Happy Birthday, POTUS! 🙌",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A child's voice says: \"Everyone, it's my birthday!\"",
+  "emojis_present": [
+    "🥳",
+    "🎉",
+    "✨",
+    "🙌"
+  ],
+  "audio_music": "The video starts with a child's voiceover. An upbeat, fast-paced, electronic track with a retro video game sound begins and plays throughout the montage. The music is identified in context as a viral TikTok track that changes mid-post, maintaining a consistently energetic and celebratory tone.",
+  "editing_pacing": "A rapid montage with fast cuts between many short clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "celebration",
+    "pride",
+    "admiration"
+  ],
+  "cultural_references": [
+    "The audio clip 'Everyone, it's my birthday!' is a popular TikTok sound.",
+    "The music is identified as a viral TikTok song, indicating the use of platform trends."
+  ],
+  "central_claim": "The post celebrates President Biden's birthday with a montage of positive clips.",
+  "intended_effect": "To generate positive feelings towards Joe Biden and encourage viewers to celebrate his birthday.",
+  "uncertainty_flags": [
+    "The authoritative face-ID from the context lists Jill Biden and Kamala Harris as present, but they were not visible in the video upon human review.",
+    "Human review identified Barack Obama, Chuck Schumer, and Ketanji Brown Jackson, who were not listed in the authoritative face-ID context."
+  ]
+}

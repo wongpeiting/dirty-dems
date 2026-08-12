@@ -1,0 +1,79 @@
+{
+  "video_id": "7524042846702177549",
+  "visual_action": "A slideshow of two images styled as news article headlines. The first, dated 'May 5, 2025', is from CBS News and states that 'Former National Weather Service leaders warn about \"loss of life\" from NOAA cuts'. The second, dated 'July 2025', is a 'Live Updates' headline about a 'Desperate Search for Missing in Texas Floods as Death Toll Rises to 70'.",
+  "cast": [
+    {
+      "name": "National Weather Service",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Former National Weather Service leaders warn about \"loss of life\" from NOAA cuts"
+    },
+    {
+      "name": "NOAA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Former National Weather Service leaders warn about \"loss of life\" from NOAA cuts"
+    },
+    {
+      "name": "CBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "CBS News"
+    },
+    {
+      "name": "Tracy J. Wholf",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "By Tracy J. Wholf"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "May 2025:",
+      "role": "overlay"
+    },
+    {
+      "text": "Former National Weather Service leaders warn about \"loss of life\" from NOAA cuts",
+      "role": "overlay"
+    },
+    {
+      "text": "By Tracy J. Wholf",
+      "role": "overlay"
+    },
+    {
+      "text": "Updated on: May 5, 2025 / 2:05 PM EDT / CBS News",
+      "role": "overlay"
+    },
+    {
+      "text": "July 2025:",
+      "role": "overlay"
+    },
+    {
+      "text": "Live Updates: Desperate Search for Missing in Texas Floods as Death Toll Rises to 70",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and ominous instrumental track with a choral quality plays throughout, creating a tragic and foreboding atmosphere.",
+  "editing_pacing": "A slow-paced slideshow consisting of two static text-based images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents two fabricated news headlines, dated for the future (May and July 2025), to create a hypothetical cause-and-effect narrative where cuts to NOAA lead to deaths in a flood. These are staged documents designed to look like real news reports.",
+  "emotions_signaled": [
+    "fear",
+    "concern",
+    "dread"
+  ],
+  "cultural_references": [],
+  "central_claim": "Budget cuts to the National Weather Service and NOAA will directly lead to a deadly loss of life during future natural disasters.",
+  "intended_effect": "To create fear and urgency regarding the consequences of budget cuts to weather services and to build public opposition to such policies.",
+  "uncertainty_flags": []
+}

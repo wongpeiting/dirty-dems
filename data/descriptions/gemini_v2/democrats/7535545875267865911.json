@@ -1,0 +1,68 @@
+{
+  "video_id": "7535545875267865911",
+  "visual_action": "A woman, identified as Linda McMahon, sits on a stage with a man in front of an audience at a conference. The video begins with a wide shot showing the stage and the crowd, then cuts to a medium close-up of McMahon as she speaks.",
+  "cast": [
+    {
+      "name": "Linda McMahon",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face recognition. She is the main speaker in the video. The on-screen text also refers to her as 'Trump's Education Secretary'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the speaker as 'Trump's Education Secretary', and she is discussing 'his working style', clearly referring to Donald Trump."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is seated on stage next to Linda McMahon throughout the video but is not identified and does not speak."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's Education Secretary interrupted by circus music 🤡",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "#YAFCON",
+      "role": "other"
+    },
+    {
+      "text": "DW",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Linda McMahon speaks positively about a male figure, presumably Donald Trump, stating that people understood 'his working style' and that he knew 'how to make things work'. She refers to his time out of office as a 'gap term' that he 'didn't voluntarily take.' Her speech is audibly interrupted and overlaid by loud music.",
+  "emojis_present": [
+    "🤡",
+    "🤣",
+    "🫵"
+  ],
+  "audio_music": "The video starts with the sound of Linda McMahon speaking. After approximately four seconds, loud and jaunty circus-style music begins playing over her speech and continues for the rest of the clip, creating a mocking effect.",
+  "editing_pacing": "The video uses simple editing, starting with a wide shot of the stage and then cutting to a closer medium shot of the speaker.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "The use of iconic circus theme music to connote foolishness or chaos."
+  ],
+  "central_claim": "Linda McMahon's praise for Donald Trump's presidency is absurd and clownish, equivalent to a circus act.",
+  "intended_effect": "To make the viewer ridicule Linda McMahon and Donald Trump and to frame his administration as a circus.",
+  "uncertainty_flags": []
+}

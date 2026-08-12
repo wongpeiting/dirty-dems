@@ -1,0 +1,76 @@
+{
+  "video_id": "7554783332223995149",
+  "visual_action": "A montage of clips showing Donald Trump at various events, including a military academy and political rallies where he is seen dancing. He wears different red campaign hats in the clips. These shots are intercut with footage of various college football players celebrating on the field in front of large crowds. The video ends with a title card showing the White House logo and the words \"THE WHITE HOUSE\", followed by shots of a helicopter and the White House building.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of multiple clips throughout the video, shown at rallies, with football players, and dancing. The video is centered on him."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The words 'THE WHITE HOUSE' appear on a title card at the end of the video. The account posting the video is @whitehouse."
+    },
+    {
+      "name": "Unnamed college football players",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Clips of various unidentified football players celebrating on the field are used as B-roll throughout the montage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WAKE UP",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S GAME DAY",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "45-47",
+      "role": "other"
+    },
+    {
+      "text": "KEEP AMERICA GREAT",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio begins with a few seconds of muffled, indistinct dialogue. A hip-hop track by Metro Boomin, 'Take Me Thru Dere', then begins, with lyrics like 'Girl, throw that ass in a circle'. This track plays over the rest of the montage.",
+  "emojis_present": [],
+  "audio_music": "Starts with muffled dialogue for ~3 seconds, then a high-energy, upbeat hip-hop track ('Take Me Thru Dere' by Metro Boomin) starts and plays throughout the montage. The effect is energetic and creates a 'hype' mood. The music cuts out for the silent end-card.",
+  "editing_pacing": "A fast-paced montage with quick cuts between clips. A radial blur transition effect is used at one point.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "energy",
+    "hype"
+  ],
+  "cultural_references": [
+    "College football",
+    "The song 'Take Me Thru Dere' by Metro Boomin"
+  ],
+  "central_claim": "Using the metaphor of a college football 'game day,' the video portrays Donald Trump's presidency or campaign as an exciting, high-stakes event for which he and his supporters are energized and ready to win.",
+  "intended_effect": "To generate excitement and a feeling of confident, energetic readiness among supporters, framing political action in the accessible and thrilling terms of a major sporting event.",
+  "uncertainty_flags": [
+    "The initial dialogue in the audio is muffled and difficult to understand."
+  ]
+}

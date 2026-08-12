@@ -1,0 +1,64 @@
+{
+  "video_id": "7559604582054235405",
+  "visual_action": "A man in a suit stands at a podium giving a speech. The podium has a large, gold-colored medal or emblem on it. The setting appears to be a formal room with wood-paneled walls. Another man in a suit is visible in the background, out of focus.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The main on-screen text reads 'Nobel Chair explains why Trump didn't get the Peace Prize'. The spoken audio is a question and answer about him."
+    },
+    {
+      "name": "Nobel Committee Chair",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the speaker as the 'Nobel Chair', and he is shown speaking at the podium."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice is heard asking a question at the beginning of the video."
+    },
+    {
+      "name": "Alfred Nobel",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker mentions him by name at the end, saying the committee's decision is based on 'the will of Alfred Nobel'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Nobel Chair explains why Trump didn't get the Peace Prize: Nobel laureates have \"courage and integrity\"",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT DURING THE PAST MONTHS, U.S. PRESIDENT DONALD TRUMP HAS REPEATEDLY SAID HE DESERVES THE NOBEL PEACE PRIZE AND HE'D LIKE TO HAVE IT. HE EVEN SAID THAT IT WOULD BE AN INSULT TO THE UNITED STATES IF HE DOESN'T GET IT. WHAT DOES YOUR... AS THE CHAIRMAN OF THE NOBEL PEACE PRIZE COMMITTEE THINK OF THIS, AND HOW HAS THIS CAMPAIGN-LIKE ACTIVITY BY THE PRESIDENT AND HIS SUPPORTERS DOMESTICALLY AND INTERNATIONALLY, AFFECTED THE DELIBERATIONS AND THE THINKING IN THE COMMITTEE? IN THE LONG HISTORY OF THE NOBEL PEACE PRIZE, I THINK THIS COMMITTEE HAS SEEN ANY TYPE OF CAMPAIGN, MEDIA ATTENTION. WE RECEIVE THOUSANDS AND THOUSANDS OF LETTERS EVERY YEAR OF PEOPLE WANTING TO SAY WHAT, FOR THEM, LEADS TO PEACE. THIS COMMITTEE SITS IN A ROOM FILLED WITH THE PORTRAITS OF ALL LAUREATES, AND THAT ROOM IS FILLED WITH BOTH COURAGE AND INTEGRITY. SO WE BASE ONLY OUR DECISION ON THE WORK AND THE WILL OF ALFRED NOBEL.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An unseen reporter asks the Nobel Committee Chair about Donald Trump's repeated public statements that he deserves the Nobel Peace Prize. The reporter asks how this \"campaign-like activity\" has affected the committee's deliberations. The Chair responds that the committee has seen many campaigns and receives thousands of letters, but that their deliberation room is filled with portraits of past laureates representing \"courage and integrity,\" and their decision is based only on \"the work and the will of Alfred Nobel.\"",
+  "emojis_present": [
+    "🙂‍↕️"
+  ],
+  "audio_music": "The audio consists solely of spoken dialogue from a press conference. There is no music or other sound design.",
+  "editing_pacing": "The video is a single, static shot of a person speaking at a podium. The editing consists of adding a text overlay and burnt-in captions for the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Schadenfreude"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Nobel Committee implicitly suggests Donald Trump lacks the requisite 'courage and integrity' to win the Nobel Peace Prize.",
+  "intended_effect": "To lead the viewer to conclude that Donald Trump is unworthy of the Nobel Peace Prize due to a lack of character.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,109 @@
+{
+  "video_id": "7634640586930146574",
+  "visual_action": "The video opens with a medium shot of Donald Trump outdoors, wearing a white polo shirt and a red 'MAKE AMERICA GREAT AGAIN' hat. Text is overlaid on this shot. The video then cuts to a montage of various people speaking at events. This includes a man in a blue suit at a microphone, another man in a light blue shirt speaking at a podium with an American flag behind him, a woman in a blue dress smiling at a podium with a campaign sign, an older man in a suit looking on, and a man with a beard in a hoodie speaking into a microphone. Text is overlaid on this entire montage sequence.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in the opening shot of the video, representing the Republican party being contrasted."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'republicans controlling the house and the senate'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the official @democrats account and promotes a 'blue wave'."
+    },
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the montage of speakers."
+    },
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the montage of speakers."
+    },
+    {
+      "name": "Roy Cooper",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the montage of speakers."
+    },
+    {
+      "name": "Juliana Stratton",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A sign on her podium reads 'Juliana STRATTON U.S. SENATE'."
+    },
+    {
+      "name": "unnamed man with beard",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the montage of speakers."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "republicans controlling the house and the senate 😒",
+      "role": "overlay"
+    },
+    {
+      "text": "the blue wave coming this november 🌊💪",
+      "role": "overlay"
+    },
+    {
+      "text": "Juliana STRATTON U.S. SENATE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue from the individuals shown in the video. The audio consists of song lyrics playing over the clips. The provided transcript is a garbled interpretation of these lyrics.",
+  "emojis_present": [
+    "😒",
+    "🌊",
+    "💪"
+  ],
+  "audio_music": "The video begins with a hip-hop/trap track that sounds like the intro to 'Trap Queen' by Fetty Wap, creating a confident but slightly downbeat mood. When the video transitions to the montage of Democratic figures at around the 5-second mark, the music switches to a more uplifting, swelling, and heroic-sounding orchestral track with a trap beat, designed to evoke feelings of hope and momentum.",
+  "editing_pacing": "The editing uses a distinct contrast. It begins with a single, static shot of Donald Trump, which then cuts to a fast-paced montage of various speakers, creating a sense of dynamic energy in the second half of the video.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disappointment",
+    "disdain",
+    "hope",
+    "anticipation",
+    "strength"
+  ],
+  "cultural_references": [
+    "The audio uses the intro from the song 'Trap Queen' by Fetty Wap, which is a well-known sound on TikTok."
+  ],
+  "central_claim": "Republican control of Congress is undesirable, but a 'blue wave' of energetic Democratic candidates is coming in November to bring about positive change.",
+  "intended_effect": "To create a feeling of dissatisfaction with the status quo under Republicans and generate excitement and optimism for Democratic prospects in the upcoming election.",
+  "uncertainty_flags": [
+    "The fingerprinted music is identified as 'Trap Royalty', but the audible audio at the beginning of the video is recognizably the intro to the song 'Trap Queen' by Fetty Wap. This may be due to the sound being re-uploaded under a different name."
+  ]
+}

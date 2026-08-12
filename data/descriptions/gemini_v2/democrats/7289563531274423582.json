@@ -1,0 +1,83 @@
+{
+  "video_id": "7289563531274423582",
+  "visual_action": "A montage video contrasting two political parties. The first half shows clips of Republican politicians Kevin McCarthy, Steve Scalise, and Jim Jordan looking serious or speaking in formal settings like the Capitol building or the House floor. The second half shows clips of Democratic politicians, led by Hakeem Jeffries, celebrating on the House floor. They are hugging, shaking hands, and clapping as a group.",
+  "cast": [
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"While House Republicans remain divided...\""
+    },
+    {
+      "name": "House Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"House Democrats are united 🤝\""
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown walking through a hall in the Capitol building in the first half of the video, representing the 'divided' Republicans."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown speaking in a close-up shot in the first half of the video, representing the 'divided' Republicans."
+    },
+    {
+      "name": "Jim Jordan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown speaking at a microphone on the House floor in the first half of the video, representing the 'divided' Republicans."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown hugging a colleague and being congratulated by others on the House floor in the second half of the video, representing the 'united' Democrats."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "While House Republicans remain divided...",
+      "role": "caption"
+    },
+    {
+      "text": "House Democrats are united 🤝",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The video contains no speech or dialogue; the only audio is music.",
+  "emojis_present": [
+    "🤝"
+  ],
+  "audio_music": "The video features a dramatic shift in music. The first half, showing Republicans, is set to slow, somber, almost funereal-sounding choral music to create a negative or serious tone. This abruptly cuts to an energetic and triumphant hip-hop track, 'The Box' by Roddy Ricch, for the second half showing Democrats celebrating.",
+  "editing_pacing": "The video is a montage of short clips with a distinct two-part structure. The editing pace shifts from slower, more static shots in the first half to more dynamic, celebratory shots in the second. The key edit is a hard cut that aligns with the dramatic change in music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Pride",
+    "Derision"
+  ],
+  "cultural_references": [
+    "The Box by Roddy Ricch"
+  ],
+  "central_claim": "While House Republicans are dysfunctional and divided, House Democrats are unified and triumphant.",
+  "intended_effect": "To persuade the viewer that the Democratic party is competent and united, in contrast to a chaotic and divided Republican party, thereby encouraging support for Democrats.",
+  "uncertainty_flags": []
+}

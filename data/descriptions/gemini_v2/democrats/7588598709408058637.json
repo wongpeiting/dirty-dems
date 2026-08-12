@@ -1,0 +1,83 @@
+{
+  "video_id": "7588598709408058637",
+  "visual_action": "A montage of clips featuring former President Barack Obama. He is shown dropping a microphone at a formal dinner, smiling, clapping, speaking at the White House podium and waving his hand dismissively, dancing with a crowd, fist-bumping a young boy in the Oval Office, sitting with Michelle Obama in an audience, putting on sunglasses in a mirror, and jogging with Joe Biden in a White House colonnade.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the sole subject of the montage and appears in every clip."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown sitting next to Barack Obama in an audience in two clips."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown jogging alongside Barack Obama in one clip."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "💙",
+      "role": "caption"
+    },
+    {
+      "text": "THE PRESIDENT OF THE UNITED STATES",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE WASHINGTON",
+      "role": "other"
+    },
+    {
+      "text": "CNN",
+      "role": "other"
+    },
+    {
+      "text": "ellen",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of an upbeat electronic song with lyrics. The provided transcript appears to be a misinterpretation of these song lyrics.",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "A continuous, upbeat electronic pop track with a nostalgic feel ('Without You (Justice Skolnik Remix)' by Oh Wonder) plays throughout the entire video, creating a positive and celebratory mood for the montage.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various short clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Admiration",
+    "Pride",
+    "Affection"
+  ],
+  "cultural_references": [
+    "Obama performing a 'mic drop', a popular gesture to signal the triumphant conclusion of a statement or performance.",
+    "The Ellen DeGeneres Show (logo appears on screen)"
+  ],
+  "central_claim": "Barack Obama was a charismatic, cool, and beloved president.",
+  "intended_effect": "To evoke nostalgia and positive feelings towards Barack Obama, and by extension, the Democratic party.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is not dialogue and seems to be an inaccurate transcription of the background song's lyrics."
+  ]
+}

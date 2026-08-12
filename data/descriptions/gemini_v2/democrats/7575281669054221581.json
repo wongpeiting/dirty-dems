@@ -1,0 +1,45 @@
+{
+  "video_id": "7575281669054221581",
+  "visual_action": "A man in a black shirt, identified as a Kansas City Chiefs coach, is shown in a three-panel layout at what appears to be a press conference. The background features logos for the Kansas City Chiefs and The University of Kansas Health System. He has a serious expression and gestures with his hand in the bottom panel. Text is overlaid on each panel.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text begins with a fabricated question: \"Trump criticized the new kickoff rules, what's your reaction?\" The subsequent quotes and audio are framed as a response to him."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump criticized the new kickoff rules, what's your reaction?",
+      "role": "overlay"
+    },
+    {
+      "text": "He doesn't even know what he's looking at. He has no idea what's going on.",
+      "role": "overlay"
+    },
+    {
+      "text": "Take that for what it's worth. And I hope he hears it.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice, separate from the person shown on screen, speaks over a music track, saying, \"Yeah, he's lost, man. He don't know what the fuck to do.\"",
+  "emojis_present": [],
+  "audio_music": "The audio features a music track identified as \"He Lost\" which includes the spoken line, \"Yeah, he's lost, man. He don't know what the fuck to do.\" The overall tone is dismissive and critical.",
+  "editing_pacing": "The video uses a static, three-panel layout to present different moments from a single talking-head clip simultaneously.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video fabricates an on-screen question ('Trump criticized the new kickoff rules, what's your reaction?') to misrepresent comments made by Kansas City Chiefs coach Dave Toub. Toub's real comments were about kicker Harrison Butker, but are decontextualized to appear as a criticism of Donald Trump.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [
+    "Dave Toub",
+    "Kansas City Chiefs"
+  ],
+  "central_claim": "Donald Trump is so ignorant about football that a coach's unrelated, dismissive comments can be repurposed to accurately describe him.",
+  "intended_effect": "To portray Donald Trump as incompetent and worthy of mockery and dismissal.",
+  "uncertainty_flags": []
+}

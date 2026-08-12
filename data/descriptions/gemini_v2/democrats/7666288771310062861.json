@@ -1,0 +1,63 @@
+{
+  "video_id": "7666288771310062861",
+  "visual_action": "A static shot of Donald Trump in a tuxedo speaking at a podium against a blue backdrop. A Fox News chyron is displayed at the bottom of the screen. A text overlay appears at the top.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium for the entire video, and the audio is of his (or a mimicked) voice."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and a news chyron are visible at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "why on EARTH is an 80 yr old man saying this 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP SPEAKS AT WHCA DINNER AFTER PREVIOUS ONE WAS INTERRUPTED",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "WASHINGTON LIVE 1:05:14 ET",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump is heard telling a story where, after hearing gunshots and people yelling \"get down,\" rapper Nicki Minaj started twerking. He then asks, \"Do you believe it?\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of a person speaking, whose voice is presented as Donald Trump's. There is no music.",
+  "editing_pacing": "The video consists of a single, static, unedited shot.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is a fabrication. It combines a real clip of Donald Trump with dubbed audio (a voice impersonation or deepfake) in which he makes a nonsensical joke about Nicki Minaj. A fake Fox News chyron has been added to create the false impression of a real news broadcast, making it a staged fake broadcast.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule",
+    "confusion"
+  ],
+  "cultural_references": [
+    "Nicki Minaj"
+  ],
+  "central_claim": "Donald Trump is depicted saying nonsensical and bizarre things, implying he is senile or ridiculous.",
+  "intended_effect": "To cause the viewer to mock or ridicule Donald Trump.",
+  "uncertainty_flags": []
+}

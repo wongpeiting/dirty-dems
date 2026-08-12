@@ -1,0 +1,72 @@
+{
+  "video_id": "7657250632578944270",
+  "visual_action": "The video shows a close-up of Donald Trump speaking. Text is overlaid on the video. Partway through, the video of Trump becomes saturated with an orange-red tint, and screenshots of two different news headlines appear sequentially at the bottom of the screen. The first is from NPR and the second from The Washington Times.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen, is heard speaking, and is the subject of the on-screen news headlines."
+    },
+    {
+      "name": "U.S. Congress",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An on-screen headline from NPR mentions that 'Congress passes the largest housing affordability bill in decades'."
+    },
+    {
+      "name": "NPR",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'npr' is visible on a news headline screenshot shown in the video."
+    },
+    {
+      "name": "The Washington Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The masthead 'The Washington Times' is visible on a news headline screenshot shown in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "we're never gonna own a house 😩",
+      "role": "overlay"
+    },
+    {
+      "text": "npr\nCongress passes the largest housing affordability bill in decades — and Trump cancels the signing",
+      "role": "overlay"
+    },
+    {
+      "text": "The Washington Times\nTrump derides bipartisan housing affordability bill as 'so unimportant' and 'a yawn'",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"I don't want to drive housing prices down. I want to drive housing prices up.\" The second half of his statement, \"want to drive housing prices up,\" is repeated with a slowed-down, distorted effect.",
+  "emojis_present": [
+    "😩"
+  ],
+  "audio_music": "The video begins with Donald Trump's natural speaking voice. After he says \"I want to drive housing prices up,\" the audio of his voice is slowed and distorted. Simultaneously, a very loud, jarring, and bass-boosted sound effect begins and plays over the appearance of the news headlines. The fingerprinted music is identified as a SpongeBob-themed diss track, consistent with a distorted meme sound effect used for alarm or mockery.",
+  "editing_pacing": "The video consists of a single, static shot of Donald Trump. The pacing is altered by the abrupt appearance of news headline overlays and a sudden shift in the audio to a loud, distorted sound effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anxiety",
+    "despair",
+    "alarm",
+    "outrage"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants"
+  ],
+  "central_claim": "Donald Trump actively opposes housing affordability, as shown by his own stated desire to raise housing prices and his actions to block bipartisan affordability legislation.",
+  "intended_effect": "To generate opposition to Donald Trump by portraying him as an enemy of affordable homeownership for ordinary Americans.",
+  "uncertainty_flags": []
+}

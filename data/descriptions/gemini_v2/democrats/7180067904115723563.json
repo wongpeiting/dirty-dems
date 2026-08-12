@@ -1,0 +1,92 @@
+{
+  "video_id": "7180067904115723563",
+  "visual_action": "The video begins with a hand making a pinched-finger gesture, often associated with Italian culture. It then transitions to a slideshow of four still portrait photos of Republican politicians: Marjorie Taylor Greene, Kevin McCarthy, Lauren Boebert, and Matt Gaetz. Each photo has an overlay of text describing a bill they allegedly voted against.",
+  "cast": [
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The initial text overlay reads: \"Bills a majority of House Republicans voted against this year\"."
+    },
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her portrait is shown with the text overlay \"voted against capping insulin at $35 a month\"."
+    },
+    {
+      "name": "Kevin Mccarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His portrait is shown with the text overlay \"voted against taking aggressive action on climate change\"."
+    },
+    {
+      "name": "Lauren Boebert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her portrait is shown with the text overlay \"voted against protecting marriage equality\"."
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His portrait is shown with the text overlay \"voted against increasing access to mental health care in schools\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Bills a majority of House Republicans voted against this year 👇👇👇",
+      "role": "overlay"
+    },
+    {
+      "text": "💉voted against capping insulin at $35 a month💉",
+      "role": "overlay"
+    },
+    {
+      "text": "🌍voted against taking aggressive action on climate change🌍",
+      "role": "overlay"
+    },
+    {
+      "text": "🏳️‍🌈voted against protecting marriage equality🏳️‍🌈",
+      "role": "overlay"
+    },
+    {
+      "text": "🏫voted against increasing access to mental health care in schools🏫",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists entirely of music.",
+  "emojis_present": [
+    "👇",
+    "💉",
+    "🌍",
+    "🏳️‍🌈",
+    "🏫"
+  ],
+  "audio_music": "The video features the upbeat, jaunty Italian-American song 'Luna Mezzo Mare' by Louis Prima and Keely Smith throughout. The music's lighthearted and culturally specific tone creates a mocking or sarcastic contrast with the serious political claims being made in the on-screen text.",
+  "editing_pacing": "The video is a simple slideshow of still images, cutting from one to the next in time with the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Disapproval",
+    "Criticism"
+  ],
+  "cultural_references": [
+    "The song 'Luna Mezzo Mare' by Louis Prima and Keely Smith, a well-known piece of Italian-American pop culture.",
+    "The use of a stereotypical Italian pinched-finger hand gesture in combination with the music, which is a common meme format on TikTok used to present a list of items in a critical or exasperated way."
+  ],
+  "central_claim": "A majority of House Republicans, including Marjorie Taylor Greene, Kevin McCarthy, Lauren Boebert, and Matt Gaetz, have voted against widely supported policies concerning healthcare costs, climate action, marriage equality, and mental health in schools.",
+  "intended_effect": "To generate disapproval of House Republicans by highlighting specific voting records on popular issues and framing them as out of step with the public good.",
+  "uncertainty_flags": []
+}

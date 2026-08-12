@@ -1,0 +1,87 @@
+{
+  "video_id": "7284365244447690014",
+  "visual_action": "A rapid slideshow of Republican politicians (Ron DeSantis, Tim Scott, Vivek Ramaswamy, Nikki Haley, and Mike Pence) speaking at a podium against a blue background. A cut-out video of actress Scarlett Johansson is superimposed in the lower half of the screen, gesturing as if she is commenting on them. Text is overlaid in the center of the screen throughout.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, 'POV: you realize Republicans are quite literally only running MAGA extremists for president'."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text labels the candidates shown as 'MAGA extremists'."
+    },
+    {
+      "name": "Ron Desantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face appears in the slideshow of Republican presidential candidates."
+    },
+    {
+      "name": "Tim Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face appears in the slideshow of Republican presidential candidates."
+    },
+    {
+      "name": "Vivek Ramaswamy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face appears in the slideshow of Republican presidential candidates."
+    },
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her face appears in the slideshow of Republican presidential candidates."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face appears in the slideshow of Republican presidential candidates."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POV: you realize Republicans are quite literally only running MAGA extremists for president",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman's voice, corresponding to the superimposed clip, says repeatedly and with increasing incredulity, \"Look at this one. Look at that one... Look, are you kidding me?\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from a pop-culture clip, used for comedic and mocking effect. There is no background music.",
+  "editing_pacing": "The video uses very fast cuts, presenting a rapid slideshow of still or nearly-still images of different politicians.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A cut-out video clip of actress Scarlett Johansson is superimposed onto the lower half of the video, creating a reaction-style meme where she appears to be commenting on the slideshow of politicians.",
+  "emotions_signaled": [
+    "Mockery",
+    "Disdain",
+    "Alarm"
+  ],
+  "cultural_references": [
+    "Scarlett Johansson",
+    "Saturday Night Live (SNL)",
+    "POV meme format"
+  ],
+  "central_claim": "The entire 2024 Republican presidential field is composed of unacceptable 'MAGA extremists.'",
+  "intended_effect": "To make the viewer feel disdain for the entire slate of Republican presidential candidates and view them as a monolithic group of extremists.",
+  "uncertainty_flags": []
+}

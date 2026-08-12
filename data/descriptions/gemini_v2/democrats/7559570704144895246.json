@@ -1,0 +1,107 @@
+{
+  "video_id": "7559570704144895246",
+  "visual_action": "The video shows a clip from a political debate. It starts with a medium shot of Abigail Spanberger speaking at a podium against a blue and red backdrop. The camera then cuts to a wider shot showing Spanberger on the left and her opponent, a Black woman in a red dress, on the right, both at podiums on a stage.",
+  "cast": [
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is identified by face recognition and is shown speaking for the majority of the video."
+    },
+    {
+      "name": "Unnamed GOP candidate for VA governor",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is described in the on-screen text as \"The GOP candidate for VA governor\" and is shown speaking the line that is the focus of the video."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies one of the speakers as \"The GOP candidate for VA governor.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The GOP candidate for VA governor just insisted that opposing marriage equality is “not discrimination” 🤨",
+      "role": "overlay"
+    },
+    {
+      "text": "MY OPPONENT",
+      "role": "caption"
+    },
+    {
+      "text": "PREVIOUSLY",
+      "role": "caption"
+    },
+    {
+      "text": "HAS SAID",
+      "role": "caption"
+    },
+    {
+      "text": "THAT",
+      "role": "caption"
+    },
+    {
+      "text": "SHE DOES NOT",
+      "role": "caption"
+    },
+    {
+      "text": "THINK",
+      "role": "caption"
+    },
+    {
+      "text": "THAT",
+      "role": "caption"
+    },
+    {
+      "text": "GAY COUPLES",
+      "role": "caption"
+    },
+    {
+      "text": "SHOULD BE",
+      "role": "caption"
+    },
+    {
+      "text": "ALLOWED TO",
+      "role": "caption"
+    },
+    {
+      "text": "MARRY",
+      "role": "caption"
+    },
+    {
+      "text": "SHE HAS—",
+      "role": "caption"
+    },
+    {
+      "text": "DISCRIMINATION.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Abigail Spanberger states that her opponent has previously said she doesn't think gay couples should be allowed to marry. Before she can finish her sentence, her opponent interjects, \"That's not discrimination.\"",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "The audio consists solely of spoken dialogue from the debate, with no background music or sound effects.",
+  "editing_pacing": "The video consists of two static shots from a debate. The first is a medium shot of one speaker, which then cuts to a wide shot of both speakers. The pacing is slow, following the real-time conversation. Text captions appear sequentially on screen in time with the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "incredulity",
+    "outrage",
+    "criticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican candidate for Virginia governor holds the discriminatory belief that opposing marriage equality is not discrimination.",
+  "intended_effect": "To generate outrage towards the Republican candidate and portray her position on marriage equality as unacceptable.",
+  "uncertainty_flags": [
+    "The name of the Republican candidate is not explicitly mentioned in the video or context provided."
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "video_id": "7431279850905750815",
+  "visual_action": "Donald Trump is shown speaking at a podium indoors. The podium has signs that read \"TEXT TRUMP TO 88022\" and \"TRUMP VANCE\". Behind him is a large purple and blue banner that says \"TRUMP WE WILL FIX IT!\". The video is presented as a news broadcast clip from RSBN, with a chyron and news ticker at the bottom. The entire clip is framed by white text overlays added by the creator at the top and bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium for the duration of the video."
+    },
+    {
+      "name": "unnamed speakers at NYC rally",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the top overlay text as having \"spewed racist hatred\" at a Trump rally in NYC."
+    },
+    {
+      "name": "Puerto Rico",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the top overlay text as having been called \"a floating island of garbage\" by speakers at Trump's rally."
+    },
+    {
+      "name": "Rudy Giuliani",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears in the news ticker at the bottom of the screen: \"GIULIANI FIRED UP CROWD AT MADISON SQUARE GARDEN\"."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His last name appears on the podium sign alongside Trump's: \"TRUMP VANCE\"."
+    },
+    {
+      "name": "Jesus",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears in the news ticker: \"SUNDAY DEVOTIONAL: JESUS IS LORD\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump brags about his NYC rally where speakers spewed racist hatred and called Puerto Rico “a floating island of garbage.”",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump: “The love in that room … it was an absolute love fest.”",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE PALM BEACH, FL",
+      "role": "chyron"
+    },
+    {
+      "text": "GIULIANI FIRED UP CROWD AT MADISON SQUARE GARDEN SUNDAY DEVOTIONAL: JESUS IS LORD",
+      "role": "chyron"
+    },
+    {
+      "text": "TEXT TRUMP TO 88022",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP VANCE",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP WE WILL FIX IT!",
+      "role": "other"
+    },
+    {
+      "text": "RSBN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump describes a recent rally at Madison Square Garden, stating that \"nobody has ever seen anything like\" it. He characterizes the event as an \"absolute love fest,\" claiming the love in the room was \"breathtaking\" and that veteran politicians called it the most beautiful event they had ever seen.",
+  "emojis_present": [],
+  "audio_music": "Diegetic audio from Donald Trump's speech, including audience applause and cheering. No non-diegetic music or sound effects are added.",
+  "editing_pacing": "The video is a single, static talking-head clip with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Irony",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Madison Square Garden",
+    "Jesus"
+  ],
+  "central_claim": "Donald Trump deceptively describes a rally as a 'love fest' to cover for the fact that it featured racist rhetoric.",
+  "intended_effect": "To generate outrage at the alleged racist comments made at Trump's rally and to portray Trump as dishonest or supportive of racism.",
+  "uncertainty_flags": [
+    "The news ticker at the bottom of the screen contains more text that is difficult to read in its entirety.",
+    "A red square icon appears at the beginning of the top overlay text which is not a standard emoji and its origin is unclear."
+  ]
+}

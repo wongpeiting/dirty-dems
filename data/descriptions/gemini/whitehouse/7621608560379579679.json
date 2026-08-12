@@ -1,0 +1,79 @@
+{
+  "video_id": "7621608560379579679",
+  "visual_action": "The video starts with a close-up of Alexandria Ocasio-Cortez speaking and appearing to stumble over her words at an event labeled 'MSC Townhall'. The sound of crickets is audible during her pauses. The video then cuts to an overlay that reads 'Wanna Get Away?' before showing a montage of chaotic, crowded airport scenes with long lines. One shot shows a digital sign that reads 'Security Checkpoint TEMPORARILY CLOSED AS OF 3/12/2026'. The video concludes with a white line-drawing of the White House on a black background, with text identifying it as 'THE WHITE HOUSE' and 'PRESIDENT DONALD J. TRUMP'.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown speaking in the opening clip of the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The narrator states, 'Democrats are making flying an awful experience for travelers' and 'until the Democrats decide to reopen the government.'"
+    },
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears on the final screen: 'PRESIDENT DONALD J. TRUMP'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The text 'THE WHITE HOUSE' appears on the final credit screen, and the post is from the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MSC Townhall",
+      "role": "other"
+    },
+    {
+      "text": "Wanna Get Away?",
+      "role": "overlay"
+    },
+    {
+      "text": "Security Checkpoint\nTEMPORARILY CLOSED\nAS OF 3/12/2026,",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video begins with edited audio of Alexandria Ocasio-Cortez hesitating while speaking, saying, 'This is such a... this is of course a... a very long-standing... policy.' A male narrator then cuts in, using the line 'Wanna get away? Too bad.' He blames Democrats for creating an 'awful experience' for travelers, warning of 'continued growing TSA lines and unpaid staff until the Democrats decide to reopen the government.' The narration concludes with the sarcastic suggestion, 'Thank a Democrat today.'",
+  "emojis_present": [
+    "✈️"
+  ],
+  "audio_music": "The audio begins with Alexandria Ocasio-Cortez's original speech, with the sound of crickets chirping added during her pauses. This is followed by a male narrator's voiceover, set against the ambient noise of a crowded airport. The overall tone is serious and critical.",
+  "editing_pacing": "The video uses quick cuts, starting with a close-up of AOC, then transitioning with an overlay to a montage of chaotic airport footage. The airport clips have a scan-line filter applied, resembling old television or surveillance footage. The pacing is designed to create a sense of urgency and chaos before ending on a static credit screen.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A graphic of an airport sign is digitally altered to display a future date, reading 'Security Checkpoint TEMPORARILY CLOSED AS OF 3/12/2026'. This fabrication projects a hypothetical negative future scenario to blame it on the Democratic party.",
+  "emotions_signaled": [
+    "Mockery",
+    "Frustration",
+    "Anxiety"
+  ],
+  "cultural_references": [
+    "Wanna get away? (Southwest Airlines slogan)"
+  ],
+  "central_claim": "The Democratic Party is causing government dysfunction that will lead to chaotic and difficult air travel for Americans.",
+  "intended_effect": "To make the viewer feel frustrated with and blame the Democratic Party for current or future travel problems, while portraying Alexandria Ocasio-Cortez as incompetent.",
+  "uncertainty_flags": []
+}

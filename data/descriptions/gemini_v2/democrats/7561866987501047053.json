@@ -1,0 +1,69 @@
+{
+  "video_id": "7561866987501047053",
+  "visual_action": "The video opens with a still photo of Donald Trump looking up against a bright blue sky. It then cuts to a screenshot of a tweet from an account called 'FactPost' detailing Trump's alleged McDonald's order. Text is overlaid on both images.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of him is shown and on-screen text reads \"guys trump's mcdonald's order just leaked\" and a tweet screenshot details \"Trump's McDonald's order:\"."
+    },
+    {
+      "name": "RNC Chair",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The tweet screenshot shown in the video states, \"RNC Chair reveals Trump's McDonald's order:\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost' (@factpostnews) is the central visual element of the second half of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "guys trump's mcdonald's order just leaked and it's completely diabolical ➡️",
+      "role": "overlay"
+    },
+    {
+      "text": "he combines a filet o fish with a burger 🤢🤢🤢",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews",
+      "role": "chyron"
+    },
+    {
+      "text": "RNC Chair reveals Trump's McDonald's order:\n-Fries with no sauce\n-One Filet-O-Fish\n-One Quarter Pounder\n-One Big Mac (with 2 of the 3 sandwiches above \"combined\")\n-One orange soda",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio features a high-pitched, child-like voice making whimpering and gagging sounds, saying phrases like, \"The flavors are melting on my tongue.\" This is a well-known meme sound used to react to strange or disgusting things.",
+  "emojis_present": [
+    "➡️",
+    "🤢"
+  ],
+  "audio_music": "A continuous loop of the meme audio known as \"The Flavors Are Melting On My Tongue,\" which features a high-pitched voice expressing overwhelming and unpleasant sensations. The effect is comedic and mocking.",
+  "editing_pacing": "The video consists of two static images presented as a simple slideshow with one cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disgust"
+  ],
+  "cultural_references": [
+    "The audio is the viral TikTok sound \"The Flavors Are Melting On My Tongue\", a meme used to react to strange food combinations or overwhelming experiences."
+  ],
+  "central_claim": "Donald Trump has a 'diabolical' and disgusting McDonald's order that includes combining a Filet-O-Fish with other burgers.",
+  "intended_effect": "To make the viewer feel disgust and amusement towards Donald Trump by highlighting his supposed strange and unappealing eating habits.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet is not verifiable from the video; it could be satirical or fabricated."
+  ]
+}

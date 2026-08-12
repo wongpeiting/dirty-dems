@@ -1,0 +1,55 @@
+{
+  "video_id": "7563414761891810615",
+  "visual_action": "The video is a cinematic, stylized montage of 8 scenes. Scene 1: A dark silhouette of a figure in a sparkly/sequined outfit standing in a doorway backlit by natural light — blood-spatter or starburst pattern visible on the garment. Scene 2: A heavily motion-blurred close-up of a man in a dark suit and red tie against a bright sky — face indistinct due to blur. Scene 3: A close-up of an older man with silver hair in an orange tie amid a large crowd, appearing to greet or interact with people. Scene 4: Back view of a man wearing a red \"TRUMP\" cap and dark suit jacket, standing near foliage with warm ambient lighting. Scene 5: Two figures seen from behind walking through an ornate doorway into a bright formal interior (appears to be a White House-style corridor), a woman with long brown hair to the right. Scene 6: Extreme low-angle shot of what appears to be the underside/nose of a large aircraft (possibly Air Force One) at dusk/night on a tarmac; runway lights and a dark SUV visible below. Scene 7: Low-angle shot at dusk with an aircraft wing silhouetted in the upper-left corner, a dark SUV/motorcade vehicle on the tarmac below against an orange-pink sky. Scene 8: A man in a dark suit climbing airplane stairs at night against a deep blue sky, backlit with rim lighting, shot from below looking up.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Red 'TRUMP' cap visible on back of head in scene 4; silver hair, build, and red/orange tie consistent across scenes 3, 8; context of @whitehouse account and White House interior setting"
+    },
+    {
+      "name": "unnamed woman (possible Melania Trump)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Long brown hair, dark formal attire, walking beside the main male figure through White House-style doorway in scene 5; identity not confirmed visually"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Account is @whitehouse; formal ornate interior in scene 5 consistent with White House"
+    }
+  ],
+  "on_screen_text": [],
+  "spoken_summary": "The audio is a hip-hop/rap track with lyrics referencing upward mobility and status: \"Everybody rockin' me because I'm up now. Took you, girl, and I'm score like I made the touchdown. Swearin' in that Labrador's go up, not on the bus now. Used to want a G-Shock, now I'm walkin' with a bus now.\" The lyrics appear to be an existing song used as background music, thematically reinforcing a celebration of success and rising status.",
+  "emojis_present": [],
+  "audio_music": "An upbeat hip-hop/rap track described as \"original sound\" in context — lyrics celebrate success and upward mobility (\"I'm up now,\" \"used to want a G-Shock, now I'm walkin' with a bus now\"), energizing the montage and reinforcing a triumphant tone.",
+  "editing_pacing": "Cinematic, slow-to-medium paced montage with motion blur transitions, dramatic low-angle shots, backlighting/silhouette framing, and warm color grading. Visually stylized like a prestige political campaign reel or documentary B-roll. No rapid cuts — each scene lingers briefly for effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "celebration — prompted by the milestone caption '2 Million followers - LFG!!!' and upbeat hip-hop audio",
+    "awe/grandeur — driven by cinematic low-angle aircraft shots and backlit staircase climb",
+    "excitement — reinforced by energetic rap lyrics and crowd scene"
+  ],
+  "cultural_references": [
+    "LFG (Let's F***ing Go) — internet/gaming celebratory slang used in the caption",
+    "Hip-hop/rap culture — use of an upbeat rap track to celebrate a social media milestone",
+    "Air Force One iconography — aircraft tarmac scenes invoking presidential power imagery"
+  ],
+  "central_claim": "The official @whitehouse account is celebrating reaching 2 million TikTok followers with a stylized highlight reel of President Trump in various settings, framing the milestone as a moment of triumph and momentum.",
+  "intended_effect": "To make viewers feel excitement and pride about the White House TikTok account's growth milestone, while reinforcing an image of Trump as a dynamic, powerful figure through cinematic visuals.",
+  "uncertainty_flags": [
+    "The woman in scene 5 walking beside the main figure is not clearly identifiable — could be Melania Trump but face is not visible",
+    "Scene 1 silhouette figure identity is unclear — the sparkly outfit and starburst pattern on the garment are unusual; could be a different person entirely or a stylized opening shot",
+    "The Whisper transcript lyric 'Swearin' in that Labrador's go up' is likely a mishearing of the actual song lyrics; exact song title/artist not identified",
+    "Motion blur in scene 2 makes facial identification impossible from that frame alone"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "video_id": "7541094349770165559",
+  "visual_action": "A man in a gym setting is shown struggling to do pull-ups on a bar. Another man in a white shirt stands behind him, spotting him by holding and lifting his legs to assist with the repetitions.",
+  "cast": [
+    {
+      "name": "Trump's transportation guy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text identifies the man doing pull-ups as \"trump's transportation guy\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text references \"trump's transportation guy,\" linking the man in the video to him."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A second man is visually present, assisting the primary subject with his workout."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump's transportation guy needs help with 3 pull ups 😭",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it only features instrumental music.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "A slow, simple, and slightly melancholic instrumental track, seemingly played on a melodica, runs throughout the video. The effect is mocking, portraying the man's physical struggle in a pathetic or humorous light.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "An associate of Donald Trump is physically weak, which is used to imply broader incompetence.",
+  "intended_effect": "To encourage viewers to mock the individual shown and, by extension, feel contempt for Donald Trump and his associates.",
+  "uncertainty_flags": [
+    "The identity of the person described as \"trump's transportation guy\" is not verifiable from the video."
+  ]
+}

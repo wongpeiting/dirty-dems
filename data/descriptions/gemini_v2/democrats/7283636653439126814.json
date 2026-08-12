@@ -1,0 +1,81 @@
+{
+  "video_id": "7283636653439126814",
+  "visual_action": "The video shows Donald Trump speaking during what appears to be a televised town hall or interview. He is seated, wearing a suit and red tie, with an audience visible behind him. The MSNBC logo is displayed in the background. The camera cuts from a medium shot to a close-up on Trump's face as he answers a question.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person shown speaking on screen for the entirety of the video."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The MSNBC logo is visible in the background."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen male voice asks Trump questions about punishment for abortion."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MSNBC",
+      "role": "overlay"
+    },
+    {
+      "text": "🚨 Trump wants to PUNISH women for having an abortion",
+      "role": "overlay"
+    },
+    {
+      "text": "Do you believe in punishment for abortion?",
+      "role": "caption"
+    },
+    {
+      "text": "Yes or no, as a principle.",
+      "role": "caption"
+    },
+    {
+      "text": "The answer is that,",
+      "role": "caption"
+    },
+    {
+      "text": "there has to be some form of punishment.",
+      "role": "caption"
+    },
+    {
+      "text": "For the woman?",
+      "role": "caption"
+    },
+    {
+      "text": "Yeah, there has to be some form.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An unseen interviewer asks Donald Trump, \"Do you believe in punishment for abortion? Yes or no, as a principle.\" Trump responds, \"The answer is that there has to be some form of punishment.\" The interviewer clarifies, \"For the woman?\" and Trump affirms, \"Yeah, there has to be some form.\"",
+  "emojis_present": [
+    "🚨"
+  ],
+  "audio_music": "An ominous and suspenseful instrumental track plays throughout the entire clip, heightening the tension of the dialogue.",
+  "editing_pacing": "The video consists of a single cut from a medium shot of Donald Trump to a tight close-up on his face as he delivers his answer. The pacing is slow, focusing on the exchange.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump believes women should face 'some form of punishment' for having an abortion.",
+  "intended_effect": "To generate alarm and opposition to Donald Trump by highlighting his stated position on punishing women for abortions.",
+  "uncertainty_flags": []
+}

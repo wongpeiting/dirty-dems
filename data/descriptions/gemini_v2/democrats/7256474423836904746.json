@@ -1,0 +1,56 @@
+{
+  "video_id": "7256474423836904746",
+  "visual_action": "The video first shows Donald Trump in a crowded restaurant, gesturing and speaking. It then cuts to Joe Biden in an ice cream shop, wearing sunglasses and holding up a Dairy Queen Blizzard cup upside down.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown on screen speaking in the first half of the video."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown on screen in the second half of the video, and is referenced in the on-screen text as 'Dark Brandon'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Everybody wants a blizzard.",
+      "role": "overlay"
+    },
+    {
+      "text": "What the hell is a blizzard?",
+      "role": "overlay"
+    },
+    {
+      "text": "Dark Brandon serve 😎🍦",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"Everybody wants a blizzard,\" and then asks, \"What the hell is a blizzard?\"",
+  "emojis_present": [
+    "😎",
+    "🍦"
+  ],
+  "audio_music": "The first half features dialogue and crowd noise. When the video cuts to Joe Biden, a hip-hop/trap beat ('Delivery' by Dbow) begins, creating a confident and 'cool' mood.",
+  "editing_pacing": "A single, quick cut juxtaposing a clip of Donald Trump with a clip of Joe Biden.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "Dark Brandon meme",
+    "Dairy Queen Blizzard"
+  ],
+  "central_claim": "The video contrasts Donald Trump's apparent confusion over a Dairy Queen Blizzard with Joe Biden's cool handling of one to portray Trump as out of touch and Biden as competent and relatable.",
+  "intended_effect": "To mock Donald Trump as out of touch and promote Joe Biden as cool and competent using the 'Dark Brandon' meme.",
+  "uncertainty_flags": []
+}

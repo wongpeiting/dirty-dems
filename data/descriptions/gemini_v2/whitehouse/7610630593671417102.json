@@ -1,0 +1,86 @@
+{
+  "video_id": "7610630593671417102",
+  "visual_action": "Donald Trump is shown delivering a speech from a podium in a formal setting that appears to be the chamber of the U.S. House of Representatives, in front of an American flag. The video cuts between close-ups of Trump speaking and wider shots of the chamber, showing an audience of seated politicians and guests who applaud at various points.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, delivering a speech presented as a State of the Union address."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump repeatedly refers to the 'Biden administration' and 'Biden created housing problem' as the source of issues his administration has allegedly fixed."
+    },
+    {
+      "name": "Biden Administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump's speech is framed as a direct contrast to and reversal of the policies of the 'Biden administration'."
+    },
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visible in the audience applauding."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the audience."
+    },
+    {
+      "name": "Lee Zeldin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the audience."
+    },
+    {
+      "name": "U.S. Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump directly addresses the audience as 'members of Congress' near the end of his speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Donald J. Trump addresses the Nation.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "In a speech presented as a State of the Union address taking place in early 2026, Donald Trump claims his administration has successfully reversed the negative effects of the preceding 'Biden administration.' He asserts that he has lowered inflation to 1.7%, reduced mortgage costs, and solved the 'Biden created housing problem.' He also claims to have created the 'strongest and most secure border in American history,' stating that 'zero illegal aliens' have been admitted in nine months and that fentanyl flows have dropped 56%. Finally, he claims the murder rate has seen its 'single largest decline in recorded history.' He concludes by declaring, 'the state of our union is strong.'",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's voice delivering a speech, punctuated by applause from the audience. There is no music or other sound design.",
+  "editing_pacing": "The video uses conventional editing for a political speech, with standard cuts between a medium shot of the speaker at the podium and wider shots of the audience reacting and applauding.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video uses authentic footage of a past Donald Trump speech, likely a State of the Union address, but overlays it with fabricated audio. The audio, which closely imitates Trump's voice (likely an AI voice clone or 'voice deepfake'), delivers a new script that presents a hypothetical future where Trump is president again in 2025-2026, claiming to have reversed the policies of the 'Biden administration.'",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Strength",
+    "Confidence"
+  ],
+  "cultural_references": [],
+  "central_claim": "In a hypothetical second term, President Trump has fixed the economy, secured the border, and reduced crime, reversing the failures of the Biden administration and making the nation strong.",
+  "intended_effect": "To persuade viewers that a second Trump presidency would be highly successful, to inspire confidence in his leadership, and to reinforce a negative view of the Biden administration's record.",
+  "uncertainty_flags": []
+}

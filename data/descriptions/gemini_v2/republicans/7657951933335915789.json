@@ -1,0 +1,100 @@
+{
+  "video_id": "7657951933335915789",
+  "visual_action": "A split-screen video shows a woman, Jessica Gorman, giving emotional testimony at a hearing labeled 'CAPITOL HILL'. On the right side of the screen, a slideshow of personal photos of a young woman, Sheridan Gorman, is displayed. The video is presented as a news clip, with chyrons from 'FOX NEWS' and a large red border with text overlays. A Republican party elephant logo is in the bottom right corner.",
+  "cast": [
+    {
+      "name": "Jessica Gorman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A chyron identifies her as 'JESSICA GORMAN | MOTHER OF SHERIDAN GORMAN' and a nameplate reads 'MRS. GORMAN'. She is the sole speaker in the video."
+    },
+    {
+      "name": "Sheridan Gorman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is named in on-screen text as 'Sheridan Gorman' and is the subject of her mother's testimony. Multiple photos of her are shown throughout the video."
+    },
+    {
+      "name": "Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The main overlay text states that Jessica Gorman 'calls out Democrats.'"
+    },
+    {
+      "name": "ICE",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Jessica Gorman asks, 'Explain why cooperation with ICE was too much to ask for.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MUST WATCH",
+      "role": "overlay"
+    },
+    {
+      "text": "Jessica Gorman - mother of Sheridan Gorman, who was shot and killed by an illegal, calls out Democrats.",
+      "role": "overlay"
+    },
+    {
+      "text": "CAPITOL HILL",
+      "role": "chyron"
+    },
+    {
+      "text": "MRS. GORMAN",
+      "role": "other"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "JESSICA GORMAN | MOTHER OF SHERIDAN GORMAN",
+      "role": "chyron"
+    },
+    {
+      "text": "GORMAN'S MOTHER: THIS CAN'T BE EXPLAINED AWAY",
+      "role": "chyron"
+    },
+    {
+      "text": "GORMAN'S MOTHER: SHERIDAN WAS STOLEN FROM US",
+      "role": "chyron"
+    },
+    {
+      "text": "LOYOLA UNIVERSITY CHICAGO",
+      "role": "other"
+    },
+    {
+      "text": "SHERIDAN GORMAN",
+      "role": "other"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Jessica Gorman gives an emotional, tearful testimony demanding an explanation for why undocumented immigrants and sanctuary policies seem to matter more than her daughter's life. She asks lawmakers to explain why cooperation with ICE was denied, while American parents are expected to accept burying their children. She pleads with them to imagine it was their daughter who was killed and asks the committee and Congress to 'choose her.'",
+  "emojis_present": [],
+  "audio_music": "The only audio is the sound of Jessica Gorman's voice, which is highly emotional and cracking with grief as she speaks. There is no background music.",
+  "editing_pacing": "The video has a slow pace, using a static split-screen. The left side holds a fixed shot on the speaker, while the right side cycles slowly through a slideshow of still photographs.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "grief",
+    "anger",
+    "outrage",
+    "sympathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democratic immigration policies, such as sanctuary city policies, are directly responsible for the deaths of American citizens at the hands of undocumented immigrants.",
+  "intended_effect": "To evoke anger at Democrats over immigration policy and generate sympathy for the victims of crimes committed by undocumented immigrants.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,86 @@
+{
+  "video_id": "7580436651634150711",
+  "visual_action": "Donald Trump is on a stage with a man and a woman, participating in what appears to be a lottery-style draw for the FIFA World Cup. He selects a small ball from a transparent container, opens it, and reveals the contents. Behind him, a large American flag is displayed on a screen as the audience applauds. The video concludes with a black-and-white montage of the White House and a helicopter, ending on a title card for 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is visually present on stage, speaks, and performs the central action of the video: drawing the ball for the World Cup."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A bald man in a suit is on stage next to Trump and banters with him during the draw."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman in a purple dress stands on stage next to Trump and smiles during the event."
+    },
+    {
+      "name": "FIFA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the event as the '2026 FIFA World Cup draw'."
+    },
+    {
+      "name": "USA",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Donald Trump announces 'United States of America' as the country he has drawn, which is the climax of the video."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a title card reading 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump draws USA at the 2026 FIFA World Cup draw",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "On stage at a draw event, Donald Trump jokes, 'I think I know what this is going to be.' Another man on stage banters with him, asking if he's sure this is the ball he wants. After some lighthearted back-and-forth, Trump opens the ball and says, 'This is shocking,' before announcing, 'United States of America!' to applause from the audience.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists entirely of live dialogue from the stage and ambient sounds from the audience, including laughter and applause. There is no musical score.",
+  "editing_pacing": "The video primarily uses a single, static camera shot of the stage event. It concludes with a short, black-and-white credit sequence with a few cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor",
+    "suspense",
+    "pride",
+    "patriotism"
+  ],
+  "cultural_references": [
+    "FIFA World Cup"
+  ],
+  "central_claim": "President Trump participated in the 2026 FIFA World Cup draw and ceremonially selected the USA.",
+  "intended_effect": "To generate patriotic excitement for the World Cup and portray President Trump in a positive, statesmanlike role on an international stage.",
+  "uncertainty_flags": [
+    "The identities of the man and woman on stage with Donald Trump are not specified."
+  ]
+}

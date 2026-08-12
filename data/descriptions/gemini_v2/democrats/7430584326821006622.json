@@ -1,0 +1,142 @@
+{
+  "video_id": "7430584326821006622",
+  "visual_action": "A man in a suit speaks at a podium with a \"TRUMP VANCE 2024\" sign to a large crowd in an arena. The scene is framed as a news broadcast, with a chyron and a news logo (RSBN) at the bottom. The video then cuts to a split screen showing a news anchor on the left and a wide shot of the massive rally crowd on the right.",
+  "cast": [
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The man is shown speaking at the podium for the first half of the video, delivering the line about Puerto Rico."
+    },
+    {
+      "name": "Puerto Rico",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker makes a joke comparing a \"floating island of garbage\" to Puerto Rico. The on-screen caption also says, \"Trump speaker said WHAT about Puerto Rico today????\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The podium sign reads \"TRUMP VANCE 2024\" and \"TRUMP WILL FIX IT\". The news chyron identifies the event as \"PRESIDENT TRUMP HOLDS A HISTORIC MAGA RALLY\"."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on the podium sign: \"TRUMP VANCE\"."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news ticker at the bottom of the screen includes the text \"TEXAS LEADERS BLAST HARRIS OVER BORDER FAILURES\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump speaker said WHAT about Puerto Rico today????",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP WILL FIX IT TRUMP VANCE 2024",
+      "role": "other"
+    },
+    {
+      "text": "LIVE NEW YORK CITY",
+      "role": "chyron"
+    },
+    {
+      "text": "RSBN",
+      "role": "other"
+    },
+    {
+      "text": "PRESIDENT TRUMP HOLDS A HISTORIC MAGA RALLY IN NEW YORK AS EARLY VOTING IS UNDERWAY",
+      "role": "chyron"
+    },
+    {
+      "text": "TEXAS LEADERS BLAST HARRIS OVER BORDER FAILURES AHEAD OF HOUSTON EVENT",
+      "role": "chyron"
+    },
+    {
+      "text": "LOT",
+      "role": "overlay"
+    },
+    {
+      "text": "IF",
+      "role": "overlay"
+    },
+    {
+      "text": "THERE'S",
+      "role": "overlay"
+    },
+    {
+      "text": "FLOATING",
+      "role": "overlay"
+    },
+    {
+      "text": "OF",
+      "role": "overlay"
+    },
+    {
+      "text": "THE",
+      "role": "overlay"
+    },
+    {
+      "text": "RIGHT",
+      "role": "overlay"
+    },
+    {
+      "text": "YEAH",
+      "role": "overlay"
+    },
+    {
+      "text": "CALLED",
+      "role": "overlay"
+    },
+    {
+      "text": "RICO",
+      "role": "overlay"
+    },
+    {
+      "text": "OKAY",
+      "role": "overlay"
+    },
+    {
+      "text": "ALRIGHT",
+      "role": "overlay"
+    },
+    {
+      "text": "GETTING",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A speaker at a Trump-Vance rally says, \"There's literally a floating island of garbage in the middle of the ocean right now... Yeah. I think it's called Puerto Rico.\" The crowd can be heard laughing and cheering. A different male voice, seemingly an added commentary track, then says, \"Okay. Alright. Okay. We're getting there.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a person speaking publicly, crowd reactions (laughter and cheering), and a second person's voiceover commentary. There is no music.",
+  "editing_pacing": "The video consists of a primary shot of the speaker, which then cuts to a split-screen news format. Stylized, single-word subtitles flash on screen in sync with the speaker's words.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "mockery",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "A speaker at a Donald Trump rally offensively joked that Puerto Rico is a \"floating island of garbage.\"",
+  "intended_effect": "To provoke outrage and condemn the rhetoric used at Trump campaign events.",
+  "uncertainty_flags": [
+    "The identity of the speaker at the podium is not stated.",
+    "The source and context of the second voiceover saying 'Okay, alright' is unclear; it appears to be added commentary."
+  ]
+}

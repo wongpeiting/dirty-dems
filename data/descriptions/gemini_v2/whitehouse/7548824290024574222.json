@@ -1,0 +1,55 @@
+{
+  "video_id": "7548824290024574222",
+  "visual_action": "The video shows Donald and Melania Trump standing on a stage outdoors at what is described as a 9/11 ceremony at the Pentagon. They are in front of a crowd that includes many members of the military. As the National Anthem plays, Melania Trump places her hand over her heart, and Donald Trump salutes. Members of the audience also salute or place their hands over their hearts. The camera slowly zooms out to reveal more of the large crowd and the setting. The video ends with a black and white graphic for The White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown on screen, identified by face recognition, and referred to as 'POTUS' in the on-screen text."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is shown standing next to Donald Trump and is referred to as 'FLOTUS' in the on-screen text."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The White House logo appears at the bottom of the screen and in the closing credits."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POTUS & FLOTUS Stand for the National Anthem at the Pentagon 9/11 ceremony",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of a choir singing the U.S. National Anthem, \"The Star-Spangled Banner.\"",
+  "emojis_present": [],
+  "audio_music": "A choir performs a solemn and patriotic rendition of the U.S. National Anthem throughout the entire video.",
+  "editing_pacing": "The video consists of a single, continuous shot that slowly zooms out, creating a slow and somber pace.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "solemnity",
+    "remembrance"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump and First Lady Melania Trump are shown respectfully observing the National Anthem at a 9/11 memorial ceremony at the Pentagon.",
+  "intended_effect": "To evoke feelings of patriotism and solemn remembrance, and to portray the President and First Lady in a formal, presidential role.",
+  "uncertainty_flags": []
+}

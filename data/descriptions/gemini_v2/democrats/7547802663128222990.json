@@ -1,0 +1,73 @@
+{
+  "video_id": "7547802663128222990",
+  "visual_action": "The video displays a series of static images. It begins with a screenshot of a tweet from Donald J. Trump denying that he wrote a letter to Jeffrey Epstein and stating, \"I don't draw pictures.\" Next, it shows an image of a document with text typed in the shape of a woman's torso, signed 'Donald J. Trump'. Finally, it shows a photograph of Donald Trump and Jeffrey Epstein standing together.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet from his account '@realDonaldTrump' is shown, along with a photograph of him and a document allegedly containing his signature."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned in on-screen text ('...writing for Epstein?') and in the body of the alleged letter. A photograph of him with Donald Trump is also shown."
+    },
+    {
+      "name": "The Wall Street Journal",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the screenshot of Donald Trump's tweet: 'The Wall Street Journal printed a FAKE letter...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Remember the bday card Trump denied writing for Epstein?",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "The Wall Street Journal printed a FAKE letter, supposedly to Epstein. These are not my words, not the way I talk. Also, I don't draw pictures.",
+      "role": "overlay"
+    },
+    {
+      "text": "It leaked ➡️",
+      "role": "overlay"
+    },
+    {
+      "text": "Voice Over:\nThere must be more to life than having everything.\nDonald\nYes, there is, but I won't tell you what it is.\nJeffrey\nNor will I, since I also know what it is.\nDonald\nWe have certain things in common, Jeffrey.\nJeffrey\nYes, we do, come to think of it.\nDonald\nFilipinas never age, have you noticed that?\nJeffrey\nAs a matter of fact, it was clear to me the last time I saw you.\nDonald\nA gal is a wonderful thing. Happy Birthday! -- and may every day be another wonderful surprise!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; it is set entirely to music.",
+  "emojis_present": [
+    "➡️"
+  ],
+  "audio_music": "The video is set to a slow, sultry, and somewhat ominous pop/R&B track. The music is consistent throughout, creating a suggestive and scandalous mood. According to music identification, the first track is 'Chica Sabe' by DAWIPUD, which changes to a slowed version of 'She knows' by Connor partway through.",
+  "editing_pacing": "The video is a slow-paced slideshow of three static images with simple cuts between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Scandal",
+    "Disgust"
+  ],
+  "cultural_references": [
+    "The song 'She Knows' is a popular track often used on TikTok in contexts of revealing secrets or suggestive content."
+  ],
+  "central_claim": "Donald Trump lied when he denied writing an inappropriate birthday card to Jeffrey Epstein, and this leaked card and a photo prove their close relationship.",
+  "intended_effect": "To persuade the viewer that Donald Trump is dishonest and was complicit in Jeffrey Epstein's disturbing lifestyle.",
+  "uncertainty_flags": [
+    "The text within the document shaped like a torso is somewhat blurry, making a completely certain transcription difficult."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "7581525643918183693",
+  "visual_action": "Donald Trump and Melania Trump pose for photos on a red carpet. They are dressed in formal evening wear; he is in a black tuxedo and she is in a long black gown. They stand in front of a step-and-repeat backdrop for 'The Kennedy Center HONORS' which also features the CBS logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown on screen posing on a red carpet."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is shown on screen posing next to Donald Trump on a red carpet."
+    },
+    {
+      "name": "CBS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CBS logo is featured on the step-and-repeat backdrop behind the Trumps."
+    },
+    {
+      "name": "The Kennedy Center",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'The Kennedy Center HONORS' is featured on the step-and-repeat backdrop."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Kennedy Center HONORS",
+      "role": "other"
+    },
+    {
+      "text": "CBS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A female vocalist sings lyrics from a pop song: \"Why you so obsessed with me? Boy, I wanna know.\"",
+  "emojis_present": [
+    "❤️‍🔥"
+  ],
+  "audio_music": "A pop/R&B track with a female vocalist plays throughout the video. The tone of the song and its lyrics are taunting and confident.",
+  "editing_pacing": "The video consists of a single, static shot of a photograph.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "admiration",
+    "defiance"
+  ],
+  "cultural_references": [
+    "The audio features lyrics from the song 'Obsessed', famously performed by Mariah Carey."
+  ],
+  "central_claim": "Donald and Melania Trump are a glamorous and powerful couple who are unbothered by their critics' constant attention.",
+  "intended_effect": "To make viewers admire the Trumps and to frame any criticism directed at them as a form of obsession.",
+  "uncertainty_flags": []
+}

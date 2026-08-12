@@ -1,0 +1,85 @@
+{
+  "video_id": "7581543060719389965",
+  "visual_action": "The video opens with a three-panel meme showing Donald Trump and Marco Rubio seated at a table. Each panel has a line of text superimposed. The video then cuts to an archival photograph of a younger Donald Trump speaking with Jeffrey Epstein. It concludes with a second archival photograph showing Donald Trump, Melania Trump, Jeffrey Epstein, and Ghislaine Maxwell posing together.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually present in all scenes of the video, and the superimposed text is framed as his dialogue."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named multiple times in the on-screen text and appears in two photographs with Donald Trump."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown sitting next to Donald Trump in the opening three-panel image."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She appears in the final photograph with Donald Trump, Jeffrey Epstein, and Ghislaine Maxwell."
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She appears in the final photograph with Donald Trump, Melania Trump, and Jeffrey Epstein."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Are you still talking about Jeffrey Epstein?",
+      "role": "meme_text"
+    },
+    {
+      "text": "Are people still talking about this guy?",
+      "role": "meme_text"
+    },
+    {
+      "text": "I can't believe you're asking a question on Epstein.",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "An ironic audio clip features a male voice saying, \"Baby, that's my brother. Like, I know Dada and he would never do something like that,\" used to mockingly defend someone.",
+  "emojis_present": [],
+  "audio_music": "A viral TikTok audio clip of a man's voice saying \"Baby, that's my brother...\" is layered over a funky, bass-driven instrumental track, identified as \"Soft Threats Only — Basement Soul.\" The combination creates a sarcastic and mocking tone.",
+  "editing_pacing": "Slideshow style with static images. It begins with a three-panel meme image and then cuts to two different archival photographs.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Fake subtitles are superimposed over images of Donald Trump to create a fabricated dialogue where he dismissively deflects questions about Jeffrey Epstein.",
+  "emotions_signaled": [
+    "mockery",
+    "suspicion",
+    "derision"
+  ],
+  "cultural_references": [
+    "The audio \"Baby, that's my brother\" is a reference to a popular, ironic TikTok sound/meme used to feign naive defense of someone."
+  ],
+  "central_claim": "The video implies Donald Trump is trying to evade questions about his close and incriminating relationship with Jeffrey Epstein.",
+  "intended_effect": "To generate suspicion and mockery towards Donald Trump by highlighting his past association with Jeffrey Epstein.",
+  "uncertainty_flags": []
+}

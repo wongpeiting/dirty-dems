@@ -1,0 +1,180 @@
+{
+  "video_id": "7468425637154311470",
+  "visual_action": "Donald Trump speaks from a podium in front of American flags. The video is a clip from a Fox News broadcast, identified by the on-screen chyrons. Trump looks out into the audience, shielding his eyes from the stage lights as he tries to locate someone.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking at the podium for the entire duration of the video."
+    },
+    {
+      "name": "Doug Burgum",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump names him as the 'newly confirmed Secretary of the Interior, Doug Burgum' and tells an anecdote about him."
+    },
+    {
+      "name": "Kathryn Burgum",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump thanks 'you and Kathryn' while addressing Doug Burgum and after mentioning Burgum's 'even better-looking wife'."
+    },
+    {
+      "name": "Kash Patel",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face appears in a small inset box on the Fox News chyron multiple times during the video."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and broadcast graphics are visible throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump says winning the Republican primary requires being a horrible human",
+      "role": "overlay"
+    },
+    {
+      "text": "WANT TO THANK OUR GREAT,",
+      "role": "caption"
+    },
+    {
+      "text": "NEWLY CONFIRMED SECRETARY OF",
+      "role": "caption"
+    },
+    {
+      "text": "THE INTERIOR, DOUG BURGUM,",
+      "role": "caption"
+    },
+    {
+      "text": "WHO'S FANTASTIC, BY THE WAY,",
+      "role": "caption"
+    },
+    {
+      "text": "FOR BEING HERE THIS MORNING.",
+      "role": "caption"
+    },
+    {
+      "text": "I DON'T KNOW IF -- IS HE AROUND?",
+      "role": "caption"
+    },
+    {
+      "text": "WHERE IS HE? WHERE IS HE?",
+      "role": "caption"
+    },
+    {
+      "text": "WITH THE LIGHTS, I CAN'T -- THERE YOU ARE.",
+      "role": "caption"
+    },
+    {
+      "text": "YOU ARE A HANDSOME DEVIL.",
+      "role": "caption"
+    },
+    {
+      "text": "HE'S A GOOD LOOKING GUY.",
+      "role": "caption"
+    },
+    {
+      "text": "HE'S GOT AN EVEN BETTER LOOKING",
+      "role": "caption"
+    },
+    {
+      "text": "WIFE, I CAN TELL YOU THAT.",
+      "role": "caption"
+    },
+    {
+      "text": "BUT I WANT TO THANK YOU",
+      "role": "caption"
+    },
+    {
+      "text": "AND KATHRYN FOR -- YOU'VE BEEN FANTASTIC.",
+      "role": "caption"
+    },
+    {
+      "text": "I KNEW IMMEDIATELY, YOU KNOW,",
+      "role": "caption"
+    },
+    {
+      "text": "HE WAS RUNNING IN A GROUP OF PEOPLE,",
+      "role": "caption"
+    },
+    {
+      "text": "AND I SPOTTED HIM IMMEDIATELY.",
+      "role": "caption"
+    },
+    {
+      "text": "I SAID, THAT GUY'S A WINNER.",
+      "role": "caption"
+    },
+    {
+      "text": "HE DIDN'T GET THE GRAVITAS,",
+      "role": "caption"
+    },
+    {
+      "text": "BECAUSE TO GET GRAVITAS,",
+      "role": "caption"
+    },
+    {
+      "text": "YOU HAVE TO BE CONTROVERSIAL",
+      "role": "caption"
+    },
+    {
+      "text": "AND IN MANY CASES, A HORRIBLE HUMAN BEING.",
+      "role": "caption"
+    },
+    {
+      "text": "YOU GET A LOT OF GRAVITAS THAT WAY.",
+      "role": "caption"
+    },
+    {
+      "text": "AND HE'S A VERY GOOD HUMAN",
+      "role": "caption"
+    },
+    {
+      "text": "BEING AND VERY SMART.",
+      "role": "caption"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: TRUMP SPEAKS AT NATIONAL PRAYER BREAKFAST",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump thanks Doug Burgum, whom he refers to as the 'newly confirmed Secretary of the Interior.' After finding him in the audience, Trump compliments Burgum and his wife. He then recounts seeing Burgum during the primary campaign and thinking he was a 'winner.' Trump says Burgum didn't get 'gravitas' during the race because, 'to get gravitas, you have to be controversial and in many cases, a horrible human being.' He contrasts this by calling Burgum a 'very good human being.'",
+  "emojis_present": [
+    "😀"
+  ],
+  "audio_music": "The audio consists entirely of Donald Trump's speech, with ambient sounds of the audience, including occasional light laughter. There is no music.",
+  "editing_pacing": "The video is a single, continuous, static shot focused on Donald Trump speaking at a podium. There are no cuts or camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "incredulity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump admitted that to gain political influence ('gravitas') in Republican politics, a person must be controversial and often a 'horrible human being'.",
+  "intended_effect": "To portray Donald Trump as cynical and to mock him for what is framed as a self-incriminating admission about the character required for success in his party.",
+  "uncertainty_flags": []
+}

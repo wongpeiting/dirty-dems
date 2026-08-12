@@ -1,0 +1,63 @@
+{
+  "video_id": "7618713256340884750",
+  "visual_action": "JD Vance speaks at a podium with the Seal of the President of the United States on it, in front of an audience. As he finishes his sentence, the video freezes on his face, the colors become heavily distorted and saturated, and a screenshot of a tweet from the account 'Polymarket' is overlaid on the screen. The video ends on this frozen image.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Is shown speaking at a podium for the first few seconds of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of the tweet that is overlaid on the screen, which reads: \"Trump's net approval rating hits a historic low...\""
+    },
+    {
+      "name": "Polymarket",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle '@Polymarket' appear on the tweet screenshot overlaid on the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Polymarket @Polymarket",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING: Trump's net approval rating hits a historic low at -15.3%.",
+      "role": "overlay"
+    },
+    {
+      "text": "12:43 PM · Mar 18, 2026 · 540.2K Views",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "JD Vance says, \"14 months in, I think we've got a lot to be proud of.\"",
+  "emojis_present": [],
+  "audio_music": "The video begins with J.D. Vance's spoken words. As he says \"proud of,\" a loud, jarring, and dramatic bass-heavy sound effect plays, punctuating the visual freeze-frame and reveal of the tweet. This sound effect is designed to create a moment of ironic or mocking climax.",
+  "editing_pacing": "The video consists of a single static shot of a person speaking, which then abruptly freezes. The image is then visually distorted with high-contrast color filters as an overlay appears.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The editing style follows a common meme format where a confident statement is immediately undercut by contradictory information, accompanied by a dramatic sound effect and freeze-frame."
+  ],
+  "central_claim": "Despite Republican pride in their accomplishments, their leader Donald Trump is historically unpopular.",
+  "intended_effect": "To mock JD Vance and the Republican party by contrasting their self-praise with data suggesting their failure and unpopularity.",
+  "uncertainty_flags": [
+    "The authenticity of the overlaid tweet from Polymarket cannot be verified from the video alone."
+  ]
+}

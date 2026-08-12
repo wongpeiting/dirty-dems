@@ -1,0 +1,103 @@
+{
+  "video_id": "7585397450882682167",
+  "visual_action": "A montage of clips featuring Donald Trump. The video opens with Marine One flying in front of the Washington Monument. It then cuts to Trump walking on the White House lawn, at political rallies with large crowds and American flags, and speaking from podiums. He is shown touring factories, interacting with workers in hard hats (some with logos for U.S. Steel and Ford), and walking in front of a giant American flag. He also appears at a UFC event with Dana White, speaks at an 'America Business Forum,' and is shown signing documents in various settings, including the Oval Office. There are numerous patriotic visuals, including military personnel, fighter jets (one with his name on it), an aircraft carrier, and a flyover above the White House. The video concludes with a shot of Trump walking out of the White House and a final title card.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the sole speaker and appears in nearly every shot of the video montage."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the audio: '...under Democrat rule.'"
+    },
+    {
+      "name": "Howard Lutnick",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID. He appears to be one of the men in a suit shaking hands with Trump."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID. Appears in one of the group scenes."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID. Appears in one of the group scenes."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "45-47",
+      "role": "other"
+    },
+    {
+      "text": "USS",
+      "role": "other"
+    },
+    {
+      "text": "Ford",
+      "role": "other"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "AMERICA BUSINESS FORUM",
+      "role": "chyron"
+    },
+    {
+      "text": "Donald J. Trump\n45th and 47th President of the United States",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP\n45 - 47",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump narrates a list of his administration's economic achievements. He claims to have brought the economy 'back from the brink of ruin,' lowered prices, boosted take-home pay, and created a historic number of jobs, all in the private sector. He cites securing '$18 trillion of investment,' the success of tariffs, and passing the 'largest tax cuts in American history,' including eliminating taxes on tips, overtime, and social security for seniors. He also announces a 'special warrior dividend' for military service members, touts low gasoline prices, and promises an 'economic boom the likes of which the world has never seen.'",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "A continuous, grand, inspirational orchestral score plays throughout the video, underneath the voiceover. The music is cinematic and serves to create a powerful, patriotic, and uplifting tone.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between numerous scenes and locations. It also uses slow-motion for dramatic effect in some shots of Trump walking or appearing on stage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Hope",
+    "Strength"
+  ],
+  "cultural_references": [
+    "Dana White"
+  ],
+  "central_claim": "President Trump's policies have resulted in a historic economic revival for the United States, bringing prosperity and jobs back to the American people.",
+  "intended_effect": "To inspire confidence in Trump's leadership and persuade viewers that his administration has delivered unprecedented economic success and strength for the nation.",
+  "uncertainty_flags": [
+    "The video references economic data, policy implementations, and events from 2025 and 2026, which are treated as factual per the instructions but are beyond standard knowledge cutoffs.",
+    "While authoritative face-ID confirmed the presence of Howard Lutnick, JD Vance, and Pete Hegseth, they are not easily identifiable in the fast-paced montage."
+  ]
+}

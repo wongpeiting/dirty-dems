@@ -1,0 +1,59 @@
+{
+  "video_id": "7571505983076289805",
+  "visual_action": "Donald Trump, assisted by a soldier in dress uniform, lays a large wreath at the Tomb of the Unknown Soldier. A military honor guard stands in formation in the background. The scene is outdoors on a sunny day with autumn trees. The video concludes with two black and white images: one of a helicopter landing near the White House, and a final one of the White House building itself.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads 'President Trump Lays a Wreath at the Tomb of the Unknown Soldier On Veterans Day'."
+    },
+    {
+      "name": "unnamed soldier",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A soldier in dress uniform is shown on screen assisting Donald Trump with the wreath."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A closing graphic shows the White House building with the text 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Lays a Wreath at the Tomb of the Unknown Soldier On Veterans Day",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The only audio is instrumental music.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "A slow, solemn trumpet melody, consistent with the military bugle call 'Taps', plays throughout the video, creating a patriotic and mournful tone. The TikTok sound label identifies the music as 'Taps'.",
+  "editing_pacing": "The video consists of a single, slow-paced long take of the wreath-laying ceremony, followed by a cut to two static, black-and-white images that serve as a closing sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "solemnity",
+    "respect"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump honored the military and fallen soldiers by participating in a wreath-laying ceremony at the Tomb of the Unknown Soldier on Veterans Day.",
+  "intended_effect": "To portray Donald Trump as a patriotic leader who respects the US military and its traditions, inspiring feelings of pride and solemn respect in the viewer.",
+  "uncertainty_flags": [
+    "The ACRCloud music fingerprint ('Preset Love') conflicts with the TikTok sound label and aural evidence, which strongly suggest the music is the military bugle call 'Taps'."
+  ]
+}

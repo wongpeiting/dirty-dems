@@ -1,0 +1,126 @@
+{
+  "video_id": "7559247829504412983",
+  "visual_action": "A clip from a CNN news segment shows Representative Marjorie Taylor Greene speaking as part of a panel. The camera focuses on her, then zooms out to show her seated at a desk with an unnamed male and female panelist. The U.S. Capitol building is visible in the background through a window.",
+  "cast": [
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible speaking on screen, identified by face-ID and on-screen chyron 'Rep. Marjorie Taylor Greene | (R) Georgia'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the overlay text ('Republicans are to blame') and referred to when MTG discusses 'her own party' and its leadership."
+    },
+    {
+      "name": "John Thune",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in audio by MTG: '...leader Thune in the Senate.'"
+    },
+    {
+      "name": "The Speaker of the House",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in audio by MTG: '...putting the blame on the speaker...'"
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and broadcast graphics are visible throughout the clip."
+    },
+    {
+      "name": "Unnamed female interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Visible on screen, asking MTG 'So you're putting the blame on the leadership of your party?'"
+    },
+    {
+      "name": "Unnamed male panelist",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible on screen sitting next to MTG, but he does not speak."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "!! WOW !! Marjorie Taylor Greene just admitted that Republicans are to blame for the government shutdown",
+      "role": "overlay"
+    },
+    {
+      "text": "HAPPENING NOW",
+      "role": "chyron"
+    },
+    {
+      "text": "REP. GREENE SPEAKS OUT AGAINST HER OWN PARTY OVER HEALTH CARE SHOWDOWN",
+      "role": "chyron"
+    },
+    {
+      "text": "Rep. Marjorie Taylor Greene | (R) Georgia",
+      "role": "chyron"
+    },
+    {
+      "text": "GOVERNMENT SHUTDOWN",
+      "role": "overlay"
+    },
+    {
+      "text": "I'M ACTUALLY",
+      "role": "overlay"
+    },
+    {
+      "text": "BLAME ON THE",
+      "role": "overlay"
+    },
+    {
+      "text": "SPEAKER AND",
+      "role": "overlay"
+    },
+    {
+      "text": "LEADER THUNE",
+      "role": "overlay"
+    },
+    {
+      "text": "ABSOLUTELY.",
+      "role": "overlay"
+    },
+    {
+      "text": "WE CONTROL THE HOUSE, WE CONTROL THE SENATE, WE HAVE THE WHITE HOUSE.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Marjorie Taylor Greene states she is putting the blame for a potential government shutdown on \"the speaker and Leader Thune in the Senate.\" She argues it should not be happening and that it will only lower Congress's already low approval ratings. When asked directly if she's blaming her party's leadership, she replies, \"Absolutely,\" and incorrectly states that Republicans \"control the House, we control the Senate, we have the White House.\"",
+  "emojis_present": [],
+  "audio_music": "Dialogue from a news broadcast. There is no music or other sound effects.",
+  "editing_pacing": "The video is a single, continuous clip from a television news broadcast. There are standard broadcast zooms on the speaker. The primary editing consists of a static text overlay at the top and large, yellow, word-by-word subtitles that appear at the bottom to emphasize what is being said.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Surprise",
+    "Vindication"
+  ],
+  "cultural_references": [
+    "Bob Ross"
+  ],
+  "central_claim": "Marjorie Taylor Greene has admitted on CNN that the Republican Party and its leadership are responsible for the government shutdown.",
+  "intended_effect": "To highlight Republican infighting and convince viewers that the Republican party is to blame for a government shutdown, using one of its own prominent members as evidence.",
+  "uncertainty_flags": [
+    "The original air date and full context of the CNN clip are not provided, making it unclear what specific government shutdown discussion Marjorie Taylor Greene is referring to."
+  ]
+}

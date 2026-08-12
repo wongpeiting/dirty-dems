@@ -1,0 +1,92 @@
+{
+  "video_id": "7606119492204104974",
+  "visual_action": "The video displays a static screenshot of a tweet from an account called \"FactPost\". The tweet includes a photo of a man in a Border Patrol uniform, identified as Greg Bovino, and text accusing him of inappropriately flirting with a journalist. The tweet also shows a small screenshot of a Twitter exchange. The video then slowly zooms in to show the full Twitter thread between users \"Commander Op At Large CA Gregory\" and \"amanda moore\".",
+  "cast": [
+    {
+      "name": "Greg Bovino",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named and pictured in the on-screen text: \"Disgraced Border Patrol Chief Greg Bovino\". His apparent Twitter account, \"Commander Op At Large CA Gregory\", is also shown."
+    },
+    {
+      "name": "amanda moore",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name and Twitter handle, \"@noturtlesoup17\", are visible in the screenshot of the Twitter exchange."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name \"FactPost\" and handle \"@factpostnews\" appear at the top of the screenshotted tweet that forms the basis of the video."
+    },
+    {
+      "name": "U.S. Border Patrol",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Greg Bovino is identified in on-screen text as the \"Border Patrol Chief\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Disgraced Border Patrol Chief Greg Bovino attempts to flirt with a journalist:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"I'd love to see you bustling around the gubner's kitchen fixing us a pie. I truly would.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Commander Op At Large CA Gregory @CMDRopAtLa_ - 20h\nYou didn't say it correctly - a sugar-free slice of HIERLOOM apple pie. Perhaps you could make the pie for us",
+      "role": "overlay"
+    },
+    {
+      "text": "amanda moore @noturtlesoup17 - 20h\nCommander it would be my honor, just tell me where to go.",
+      "role": "overlay"
+    },
+    {
+      "text": "Commander Op At Large CA Gregory @CMDRopAtLa_ - 20h\nMost excellent. I'll let the gubner know you'll be taking care of his appetite, in a healthy way.",
+      "role": "overlay"
+    },
+    {
+      "text": "amanda moore @noturtlesoup17 - 20h\nOnly if you're there, Commander!!!",
+      "role": "overlay"
+    },
+    {
+      "text": "Commander Op At Large CA Gregory @CMDRopAtLa_ - 18h\nI'd love to see you bustling around the gubner's kitchen fixing us a pie. I truly would.",
+      "role": "overlay"
+    },
+    {
+      "text": "amanda moore @noturtlesoup17 - 18h\nWould love to also talk about all your accomplishments!!!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only background music.",
+  "emojis_present": [],
+  "audio_music": "The video features the upbeat pop song \"Manchild\" by Sabrina Carpenter throughout. The light, slightly retro musical tone creates a mocking or sarcastic contrast with the on-screen text detailing alleged misconduct by a public official.",
+  "editing_pacing": "The video consists of a single static image (a screenshot) with a slow zoom-in effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "Sabrina Carpenter"
+  ],
+  "central_claim": "Border Patrol Chief Greg Bovino engaged in inappropriate, sexist flirtation with a journalist on social media.",
+  "intended_effect": "To generate disapproval and mockery towards Greg Bovino for his unprofessional conduct.",
+  "uncertainty_flags": []
+}

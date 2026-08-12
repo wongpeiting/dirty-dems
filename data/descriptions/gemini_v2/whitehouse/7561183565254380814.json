@@ -1,0 +1,57 @@
+{
+  "video_id": "7561183565254380814",
+  "visual_action": "The video shows Donald Trump and a woman, identified by on-screen text as Erika Kirk, walking along an outdoor colonnade at the White House. They proceed to an outdoor ceremony area with a seated audience that applauds their arrival. Trump walks to a podium and waves to the crowd. The video concludes with a sequence of black-and-white images: the White House pillars, a helicopter in flight, and the front of the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown walking to the podium and is named in the on-screen text 'President Trump'."
+    },
+    {
+      "name": "Erika Kirk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown walking alongside Donald Trump and is named in the on-screen text 'Erika Kirk'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The setting is clearly the White House, and a title card at the end explicitly says 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump & Erika Kirk arrive to The Medal of Freedom Ceremony ❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "At the podium, Donald Trump says, \"Thank you very much, everybody.\"",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The video features a formal, patriotic brass band playing throughout the arrival scene. This is accompanied by the sound of applause from the crowd. The music lends a sense of ceremony and importance to the event.",
+  "editing_pacing": "The video begins with a smooth, continuous pan following Trump and Kirk. It concludes with a short montage of black-and-white still or slow-motion shots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "respect",
+    "formality"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is shown arriving with Erika Kirk to preside over a Medal of Freedom ceremony at the White House.",
+  "intended_effect": "To portray Donald Trump in a formal, presidential role and evoke a sense of patriotism and respect for the ceremony.",
+  "uncertainty_flags": []
+}

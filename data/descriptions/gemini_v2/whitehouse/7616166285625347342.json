@@ -1,0 +1,85 @@
+{
+  "video_id": "7616166285625347342",
+  "visual_action": "The video begins with a live-action clip of professional bowler Pete Weber getting a strike at the U.S. Open. It then transitions to a computer-animated sequence where anthropomorphic bowling pins with angry faces stand in a desert, with one holding a sign that reads, \"WE WON'T STOP MAKING NUCLEAR WEAPONS!\". The scene shifts to an animated bowling alley where the pins are labeled \"IRANIAN REGIME OFFICIALS\". A bowling ball painted like an American flag rolls towards them, but is replaced by a fighter jet that flies through and destroys the pins in an explosion. The word \"STRIKE\" flashes on screen. This is intercut with grainy, green-tinted footage resembling military targeting displays showing explosions. The video concludes with black and white images of the White House and a helicopter, with the text \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Iranian Regime Officials",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A sign above animated bowling pins reads \"IRANIAN REGIME OFFICIALS\"."
+    },
+    {
+      "name": "United States of America",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The audio includes the line \"Here comes the heat from the U.S.A.\" and the video shows a bowling ball and fighter jet symbolizing US action."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a title card that reads \"THE WHITE HOUSE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Jeff Gordon (16th) Mark Martin (22nd) Brad Keselowski (23rd) Trevor Bayne (40th; w",
+      "role": "chyron"
+    },
+    {
+      "text": "US OPEN",
+      "role": "other"
+    },
+    {
+      "text": "WE WON'T STOP MAKING NUCLEAR WEAPONS!",
+      "role": "meme_text"
+    },
+    {
+      "text": "IRANIAN REGIME OFFICIALS",
+      "role": "overlay"
+    },
+    {
+      "text": "STRIKE",
+      "role": "overlay"
+    },
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio combines commentary from a famous bowling clip with newly added lines. It starts with a sports commentator yelling, \"Strike to claim it... And he got it!\" An announcer then says, \"Here comes the heat from the U.S.A... What a strike!\" The video ends with the bowler's iconic, defiant shout from the original clip, \"Who do you think you are? I am!\"",
+  "emojis_present": [
+    "💥",
+    "🦅"
+  ],
+  "audio_music": "The video begins with one upbeat track for the first ~7 seconds, then abruptly switches to the high-energy guitar solo of a rock song that sounds like Lynyrd Skynyrd's 'Free Bird'. This second track plays over the main animated action sequence, creating a climactic, triumphant, and aggressive mood.",
+  "editing_pacing": "The video is a fast-paced montage with rapid cuts between live-action footage, computer animation, and simulated military footage. It uses zooms and quick transitions to maintain high energy.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video uses a satirical computer-generated animation to depict 'Iranian Regime Officials' as anthropomorphic bowling pins that are destroyed by a fighter jet, metaphorically representing a military strike.",
+  "emotions_signaled": [
+    "Triumph",
+    "Pride",
+    "Aggression",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Pete Weber's viral bowling clip from the 2012 U.S. Open, including his famous line, \"Who do you think you are? I am!\"",
+    "The guitar solo from Lynyrd Skynyrd's song 'Free Bird', which is a popular meme used to score scenes of intense or chaotic action.",
+    "NASCAR drivers Jeff Gordon, Mark Martin, Brad Keselowski, and Trevor Bayne, whose names appear on the chyron of the borrowed sports clip."
+  ],
+  "central_claim": "The United States possesses overwhelming military power and is prepared to use it decisively against Iranian officials in response to their nuclear ambitions.",
+  "intended_effect": "To evoke feelings of national pride and confidence in American military strength, while portraying the administration as strong and decisive.",
+  "uncertainty_flags": [
+    "The authenticity of the green-tinted footage labeled 'UNCLASSIFIED' is unclear; it could be real military footage, stock footage, or from a video game."
+  ]
+}

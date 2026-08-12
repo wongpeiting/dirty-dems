@@ -1,0 +1,55 @@
+{
+  "video_id": "7595336611672378638",
+  "visual_action": "A still photograph of Jeffrey Epstein and Donald Trump is shown. An animated skeleton character holding a shield is superimposed over the photo, spinning and moving around in the foreground.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is clearly visible in the photograph, and he is identified by the provided face-ID."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visible in the photograph next to Donald Trump, and the on-screen text references the \"epstein files\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly says 'republicans trying to distract from the epstein files'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "republicans trying to distract from the epstein files",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The audio consists of a loud, high-pitched, repetitive screaming or screeching sound effect.",
+  "emojis_present": [],
+  "audio_music": "A jarring, high-pitched screaming sound effect plays on a loop throughout the video, creating a chaotic and annoying tone.",
+  "editing_pacing": "The video is a static image with a looping animated overlay.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "An animated skeleton character holding a shield is superimposed on the photograph of Donald Trump and Jeffrey Epstein. The character spins erratically in the foreground, serving as a visual gag representing a distraction.",
+  "emotions_signaled": [
+    "Suspicion",
+    "Mockery",
+    "Accusation"
+  ],
+  "cultural_references": [
+    "The animated spinning skeleton is a known meme format, often used to represent chaos or distraction. It resembles characters from video games like Clash of Clans."
+  ],
+  "central_claim": "Republicans are using chaotic distractions to prevent the public from paying attention to the release of the Epstein files, which implicate figures like Donald Trump.",
+  "intended_effect": "To associate Donald Trump and the Republican party with Jeffrey Epstein and to mock their perceived attempts to distract from the scandal.",
+  "uncertainty_flags": [
+    "The specific origin of the animated skeleton character and the screaming sound effect are not definitively identified, though they are recognizable as elements of internet meme culture."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "video_id": "7084364480246943022",
+  "visual_action": "A vertical split-screen video. The top panel shows Joe Biden, Ketanji Brown Jackson, and Kamala Harris walking out of the White House. The bottom panel shows the same three individuals walking down outdoor steps, with the backs of a crowd visible in the foreground. Everyone is smiling and dressed in business attire. The footage is in slow-motion.",
+  "cast": [
+    {
+      "name": "Ketanji Brown Jackson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her name and title 'Supreme Court Justice' appear in on-screen text. She is shown walking with Biden and Harris."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown walking out of the White House and down steps, in the center of the group."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown walking out of the White House and down steps, alongside Biden and Jackson. Her presence is confirmed by face ID."
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The text 'Supreme Court Justice' appears on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Introducing our next ✨ Supreme Court Justice ✨ Ketanji Brown Jackson",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; only music plays.",
+  "emojis_present": [
+    "✨"
+  ],
+  "audio_music": "An upbeat, celebratory instrumental track with a synth-pop feel plays throughout, creating a positive and momentous mood.",
+  "editing_pacing": "The video uses a vertical split-screen to show two concurrent slow-motion clips of the same event. The pacing is slow and majestic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "celebration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Biden-Harris administration is proudly introducing Ketanji Brown Jackson as the next Supreme Court Justice.",
+  "intended_effect": "To evoke pride and celebration for the appointment of Ketanji Brown Jackson and to associate this positive event with the Biden-Harris administration.",
+  "uncertainty_flags": []
+}

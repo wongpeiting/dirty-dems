@@ -1,0 +1,97 @@
+{
+  "video_id": "7556279665887923511",
+  "visual_action": "The video opens with a view of the U.S. Capitol dome and the American flag. It then cuts to a manipulated image of Chuck Schumer with Hakeem Jeffries' face (wearing a sombrero) superimposed on his chin. This is followed by a rapid montage of screenshots of news headlines from outlets like Politico, The Hill, and The New York Times, all against a blurred background of the Capitol. The video concludes with black and white footage and a logo for 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Charles Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A close-up photograph of his face is shown, which has been digitally manipulated."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is superimposed onto Chuck Schumer's, with a sombrero digitally added."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The party is named in the caption 'DEMOCRAT SHUTDOWN' and multiple on-screen headlines, such as 'Democrats steer into a shutdown' and 'Democrats Block G.O.P. Spending Extension'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: 'When you realize it's not the Republicans who shut down the government...' and in the 'G.O.P.' acronym in a New York Times headline."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in on-screen headlines from The Hill ('Democrats say shutdown necessary to send 'message' to Trump') and Breitbart ('PRESIDENT TRUMP: GOV'T SHUTDOWN...')."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "When you realize it's not the Republicans who shut down the government...",
+      "role": "overlay"
+    },
+    {
+      "text": "POLITICO\nDemocrats steer into a shutdown",
+      "role": "chyron"
+    },
+    {
+      "text": "THE HILL\nDemocrats say shutdown necessary to send 'message' to Trump",
+      "role": "chyron"
+    },
+    {
+      "text": "The New York Times\nDemocrats Block G.O.P. Spending Extension as Shutdown Looms\nAfter House Republicans pushed through a measure to avert a shutdown, Democrats blocked it in the Senate, demanding more than $1 trillion for health programs.",
+      "role": "chyron"
+    },
+    {
+      "text": "AXIOS\nNBC NEWS\nDemocrats want a government funding fight. But they haven't decided on a plan.",
+      "role": "chyron"
+    },
+    {
+      "text": "BREITBART\nPRESIDENT TRUMP: GOV'T SHUTDOWN 'ENTIRELY' BECAUSE DEMOCRATS WANT TO GIVE FREE HEALTH CARE TO ILLEGAL ALIENS",
+      "role": "chyron"
+    },
+    {
+      "text": "POLITICO\nfor Democrats as leverage",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "At the beginning of the video, a female voice exclaims, 'Oh boy.'",
+  "emojis_present": [],
+  "audio_music": "The video opens with a female voice saying 'Oh boy.' Immediately after, an upbeat, driving pop track ('Manchild' by Sabrina Carpenter) begins and plays continuously throughout the montage of headlines, creating a fast-paced and slightly chaotic mood.",
+  "editing_pacing": "The video uses fast cuts, transitioning from a static opening shot to a manipulated still image, followed by a rapid slideshow-style montage of news headlines.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A photo of Hakeem Jeffries with a digitally superimposed sombrero is composited onto the chin of a photo of Chuck Schumer. This is used to mock the politicians.",
+  "emotions_signaled": [
+    "Mockery",
+    "Blame",
+    "Indignation"
+  ],
+  "cultural_references": [
+    "Sabrina Carpenter"
+  ],
+  "central_claim": "The Democratic Party, not the Republican Party, is responsible for the government shutdown for political reasons, such as gaining leverage or providing benefits to undocumented immigrants.",
+  "intended_effect": "To convince the viewer to blame and mock the Democratic Party and its leaders for causing a government shutdown.",
+  "uncertainty_flags": []
+}

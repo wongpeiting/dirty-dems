@@ -1,0 +1,79 @@
+{
+  "video_id": "7615311118193478925",
+  "visual_action": "The post is a static or near-static screen recording of a YouTube video page. The top portion shows a white text box on a black background with the overlay caption \"trump's granddaughter while people can't afford groceries.\" Below that is a thumbnail/still from a YouTube video showing a young woman with long brown hair speaking to camera inside what appears to be the Erewhon grocery store (a high-end Los Angeles market), with produce displays and shoppers visible behind her. Overlaid on the video thumbnail are the YouTube in-video texts \"COMING UP...\" and \"BANKRUPT WITH STUFF.\" Beneath the thumbnail is the YouTube video metadata: title \"I Brought My Secret Service to Erewhon,\" view count \"99,971 views,\" posted \"8h ago,\" hashtag \"#Erewhon,\" and a \"...more\" link. The channel name reads \"Kai Trump\" with 1.45M subscribers and a \"Subscribe\" button. At the very bottom of the OCR text, partially visible: \"spot the difference_\". All 8 keyframes appear identical, suggesting this is a static image or a slideshow with no scene change.",
+  "cast": [
+    {
+      "name": "Kai Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "YouTube channel name 'Kai Trump' displayed beneath the video thumbnail; young woman shown in thumbnail is the channel's host"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Overlay caption reads 'trump's granddaughter while people can't afford groceries,' identifying Donald Trump as Kai Trump's grandfather"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump's granddaughter while people can't afford groceries",
+      "role": "overlay"
+    },
+    {
+      "text": "COMING UP...",
+      "role": "overlay"
+    },
+    {
+      "text": "BANKRUPT WITH STUFF.",
+      "role": "overlay"
+    },
+    {
+      "text": "I Brought My Secret Service to Erewhon",
+      "role": "caption"
+    },
+    {
+      "text": "99,971 views  8h ago  #Erewhon  ...more",
+      "role": "caption"
+    },
+    {
+      "text": "Kai Trump  1.45M",
+      "role": "caption"
+    },
+    {
+      "text": "Subscribe",
+      "role": "caption"
+    },
+    {
+      "text": "spot the difference_",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken audio is present in this post; the Whisper transcript is blank. The content is communicated entirely through on-screen text and the visual of the YouTube page.",
+  "emojis_present": [],
+  "audio_music": "The ACRCloud fingerprint identifies \"Everybody Wants To Rule The World\" by Lorde playing throughout the post. This cover of the Tears for Fears classic carries a wistful, melancholic, and ironic tone that reinforces the juxtaposition implied in the caption — wealth and power versus ordinary people's inability to afford basics.",
+  "editing_pacing": "Static or near-static slideshow; all 8 keyframes are identical. No cuts, no motion, no camera movement. The entire post is a single screen-captured image of a YouTube video page.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "irony — the caption juxtaposes Kai Trump's luxury grocery content with public inability to afford groceries",
+    "class contrast — the choice of Erewhon (a notoriously expensive upscale store) amplifies the perceived gap",
+    "implicit criticism — the phrase 'spot the difference_' invites viewers to draw their own unflattering comparison"
+  ],
+  "cultural_references": [
+    "Erewhon — the notoriously expensive, celebrity-favorite Los Angeles grocery store, used here as a symbol of extreme wealth and out-of-touch luxury",
+    "Lorde's cover of 'Everybody Wants To Rule The World' (originally by Tears for Fears) — a song associated with ambition and power, used ironically"
+  ],
+  "central_claim": "While ordinary Americans struggle to afford groceries, Donald Trump's granddaughter Kai Trump is producing content about shopping at the ultra-luxury Erewhon market with her Secret Service detail — implying a stark and hypocritical wealth gap.",
+  "intended_effect": "To provoke a sense of class contrast and resentment toward the Trump family by highlighting Kai Trump's privileged lifestyle at an expensive store while framing it against widespread economic hardship.",
+  "uncertainty_flags": [
+    "The 'spot the difference_' text at the bottom is partially cut off in the OCR; it may be part of a longer caption or a separate text element not fully visible",
+    "It is unclear whether the thumbnail shown is a paused frame from the original Kai Trump YouTube video or a composite screenshot; no visible manipulation detected",
+    "Kai Trump's face is not confirmed by InsightFace but she is identified via the YouTube channel name on screen",
+    "The exact date of the original Kai Trump YouTube video is not determinable from the post alone — '8h ago' is relative to the time of posting"
+  ]
+}

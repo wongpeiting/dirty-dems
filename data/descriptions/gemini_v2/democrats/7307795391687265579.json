@@ -1,0 +1,83 @@
+{
+  "video_id": "7307795391687265579",
+  "visual_action": "A man identified as Rep. Frost is shown in a medium close-up, speaking directly to the camera. He is in a suit and is filmed against a blurred, blue-lit studio background.",
+  "cast": [
+    {
+      "name": "Maxwell Frost",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen text reads \"Rep. Frost's reminder to young people:\" and he is the sole speaker in the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Rep. Frost says, \"Donald Trump — if he becomes president, wants to ensure that you don't have health care.\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Rep. Frost refers to the \"Front runner of the Republican Party for President of the United States.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep. Frost's reminder to young people:",
+      "role": "overlay"
+    },
+    {
+      "text": "Front runner of the\nRepublican Party for",
+      "role": "caption"
+    },
+    {
+      "text": "President of the United\nStates",
+      "role": "caption"
+    },
+    {
+      "text": "saying he wants to repeal the\nAffordable Care Act,",
+      "role": "caption"
+    },
+    {
+      "text": "with absolutely no other plan\nin mind.",
+      "role": "caption"
+    },
+    {
+      "text": "Which means, for all young\nvoters watching right now,",
+      "role": "caption"
+    },
+    {
+      "text": "if you are 26 and under,",
+      "role": "caption"
+    },
+    {
+      "text": "Donald Trump — if he\nbecomes president,",
+      "role": "caption"
+    },
+    {
+      "text": "wants to ensure that you\ndon't have health care.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Rep. Maxwell Frost addresses young voters, stating that Donald Trump, the Republican presidential frontrunner, wants to repeal the Affordable Care Act without a replacement. Frost warns that if Trump becomes president, he will ensure that people 26 and under lose their health care coverage.",
+  "emojis_present": [],
+  "audio_music": "The video consists entirely of a person speaking. There is no music or other audio.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency",
+    "concern",
+    "fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "If elected president, Donald Trump will repeal the Affordable Care Act, causing young Americans under 26 to lose their health insurance.",
+  "intended_effect": "To warn young voters about the specific negative consequences of a Trump presidency on their lives and motivate them to oppose him politically.",
+  "uncertainty_flags": []
+}

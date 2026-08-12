@@ -1,0 +1,77 @@
+{
+  "video_id": "7659432224256691486",
+  "visual_action": "In an ornate, formal room resembling the Oval Office, Donald Trump stands surrounded by a group of clapping adults and children. He smiles, rings a large brass bell, and interacts with the children, giving some high-fives. A portrait of Ronald Reagan hangs on the wall behind him.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the central figure shown in the video, and the on-screen text describes his 'Trump Accounts' initiative."
+    },
+    {
+      "name": "Scott Bessent",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, standing in the background clapping."
+    },
+    {
+      "name": "American families",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the on-screen text: 'BIG WIN FOR AMERICAN FAMILIES!'"
+    },
+    {
+      "name": "America's children",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the on-screen text as the recipients of investment. Visually represented by the children in the video."
+    },
+    {
+      "name": "Ronald Reagan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A portrait of him is visible on the wall."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "BIG WIN FOR AMERICAN FAMILIES!",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump Accounts are now live, with $800M set to be invested in America's children this week.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only background music plays.",
+  "emojis_present": [],
+  "audio_music": "The video features the upbeat 1980s pop song 'Kids In America' by Kim Wilde playing throughout, creating a celebratory and positive atmosphere.",
+  "editing_pacing": "The video consists of a single, continuous shot with slight camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "celebration",
+    "pride",
+    "positivity",
+    "patriotism"
+  ],
+  "cultural_references": [
+    "'Kids In America' by Kim Wilde"
+  ],
+  "central_claim": "A new initiative called 'Trump Accounts' represents a major victory for American families by investing $800 million in the nation's children.",
+  "intended_effect": "To generate positive feelings towards Donald Trump, portraying him as a successful leader who is helping American families and children.",
+  "uncertainty_flags": [
+    "The exact nature of the 'Trump Accounts' program is not detailed.",
+    "The specific date of the event shown is not provided."
+  ]
+}

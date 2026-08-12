@@ -1,0 +1,57 @@
+{
+  "video_id": "7140759598797016363",
+  "visual_action": "At a White House event, former President Barack Obama speaks at a podium with American flags behind him. Former First Lady Michelle Obama stands beside him. The video cuts to a close-up of Michelle Obama's official portrait being unveiled. Michelle Obama reacts to his words and the crowd's applause by smiling, laughing, and bowing her head.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Seen speaking at the podium and identified by face recognition."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Seen reacting to the speech and is the subject of both the speech and the portrait being unveiled."
+    },
+    {
+      "name": "Sharon Sprung",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named by Barack Obama as the artist who painted the portrait: \"I want to thank Sharon Sprung...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Obama hyping up Michelle Obama 💙",
+      "role": "overlay"
+    },
+    {
+      "text": "WHITE HOUSE 2:39PM ET",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "At a portrait unveiling, Barack Obama thanks the artist, Sharon Sprung, for capturing everything he loves about Michelle Obama. He lists her attributes: \"her grace, her intelligence,\" and then jokes, \"and the fact that she's fine.\" The audience laughs and applauds loudly.",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "The audio consists of Barack Obama's speech, followed by laughter and loud, sustained applause from the audience. There is no background music.",
+  "editing_pacing": "The video consists of a few static shots, cutting from a wide shot of the Obamas to a close-up of the portrait, then back to the wide shot. The pacing is slow and follows the natural flow of the event.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "admiration",
+    "humor",
+    "love"
+  ],
+  "cultural_references": [],
+  "central_claim": "Barack Obama publicly praised his wife Michelle Obama's grace, intelligence, and attractiveness at her official White House portrait unveiling.",
+  "intended_effect": "To generate positive sentiment and admiration for the Obamas and their relationship.",
+  "uncertainty_flags": []
+}

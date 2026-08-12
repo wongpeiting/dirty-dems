@@ -1,0 +1,93 @@
+{
+  "video_id": "7561482089569225997",
+  "visual_action": "The video displays a static screenshot of a tweet from an account called 'FactPost'. The tweet includes text and two photos side-by-side: one of a woman identified as Adelita Grijalva, and another of Donald Trump whispering into an unidentified man's ear. After a few seconds, the video cuts to a second, older-looking photograph showing Donald Trump standing next to Jeffrey Epstein.",
+  "cast": [
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Republicans continue to postpone the swearing-in...'"
+    },
+    {
+      "name": "Adelita Grijalva",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is named in the on-screen text ('swearing-in of Adelita Grijalva') and a photo of her is shown."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Adelita Grijalva is described as the 'newest Democrat elected to Congress'. The video was posted by the @democrats account."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text ('release the Epstein files') and a photograph of him with Donald Trump is shown."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in two separate photographs, one whispering to an unidentified man and another standing with Jeffrey Epstein."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unidentified man is shown having Donald Trump whisper in his ear in one of the photographs."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screenshot is of a tweet from the account 'FactPost' (@factpostnews)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans continue to postpone the swearing-in of Adelita Grijalva, the newest Democrat elected to Congress, for a 15th day.",
+      "role": "overlay"
+    },
+    {
+      "text": "Her day one promise is to be the tie-breaking vote to release the Epstein files.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice with an announcer-like quality exclaims, \"Day 15! Give it up for day 15!\"",
+  "emojis_present": [],
+  "audio_music": "The video features an upbeat jersey remix track titled 'Day 15 (jersey remix)' by xenoss, which incorporates the spoken audio as a vocal sample. The music serves to hype up and dramatize the '15th day' mentioned in the on-screen text.",
+  "editing_pacing": "The video is a simple slideshow, showing a static screenshot of a tweet for a few seconds before cutting to a second static photograph.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "conspiracy",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans are deliberately blocking a newly-elected Democrat from being sworn into Congress to prevent her from casting the deciding vote to release the Jeffrey Epstein files, implying a cover-up that involves figures like Donald Trump.",
+  "intended_effect": "To create suspicion and anger towards Republicans and Donald Trump by linking them to the Jeffrey Epstein affair.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet shown in the screenshot cannot be verified; the account does not have a verification checkmark, suggesting it might not be a legitimate news source or the tweet could be fabricated."
+  ]
+}

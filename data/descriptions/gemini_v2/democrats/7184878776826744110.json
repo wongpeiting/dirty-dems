@@ -1,0 +1,58 @@
+{
+  "video_id": "7184878776826744110",
+  "visual_action": "Hakeem Jeffries speaks at a podium with an American flag behind him. The video is a static, medium close-up shot of him speaking.",
+  "cast": [
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker for the entire video, and is identified by face-ID."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text mentions 'Democratic Unity' and Jeffries speaks of how 'Democrats united' to pass legislation."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text describes 'Republicans in Disarray' and Jeffries mentions not saving 'the Republicans from their dysfunction'."
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Jeffries refers to her leadership, saying 'under the great leadership of Speaker Pelosi'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep. Jeffries on Democratic Unity and Republicans in Disarray",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Hakeem Jeffries states that Democrats are looking for a partner to solve problems for Americans, not to \"save the Republicans from their dysfunction.\" He contrasts Republican \"disarray\" with Democratic unity under Speaker Pelosi, which allowed them to pass significant legislation despite a slim majority. He lists accomplishments including the American Rescue Plan, the Infrastructure Investment and Jobs Act, gun safety legislation, the CHIPS and Science Act, and the Inflation Reduction Act, calling them just \"the highlights.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Hakeem Jeffries' speech. There is no music or other sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head, with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "confidence"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party is unified and has a strong record of legislative accomplishments, in contrast to the dysfunctional Republican Party.",
+  "intended_effect": "To persuade the audience of the Democratic Party's effectiveness and competence in governing, while portraying the Republican Party as chaotic and unproductive.",
+  "uncertainty_flags": []
+}

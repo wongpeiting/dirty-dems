@@ -1,0 +1,72 @@
+{
+  "video_id": "7628029682641931534",
+  "visual_action": "Donald Trump, accompanied by UFC CEO Dana White and an entourage, walks through a backstage corridor and emerges into a large arena. A massive, cheering crowd greets him, holding up cell phones to record his entrance. Trump waves to the crowd as he walks past them.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure shown throughout the video, walking into the arena and being introduced by the announcer."
+    },
+    {
+      "name": "Dana White",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown walking alongside Donald Trump."
+    },
+    {
+      "name": "Unnamed Announcer",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An announcer's voice is heard introducing Donald Trump."
+    },
+    {
+      "name": "UFC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A sign reading 'UFC 3...' is visible in the background, and UFC CEO Dana White is present."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "UFC 3...",
+      "role": "other"
+    },
+    {
+      "text": "BUD LIGHT",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An announcer introduces Donald Trump, saying, \"With us in the building tonight, the 45th and now 47th president of the United States of America, Donald J. Trump.\"",
+  "emojis_present": [
+    "🔥",
+    "🦅"
+  ],
+  "audio_music": "The audio features an announcer's voice over a high-energy, rhythmic musical track and the loud, continuous roar and cheering of a large crowd. The music and crowd noise create a hype-filled, triumphant atmosphere, similar to a fighter's entrance at a major sporting event.",
+  "editing_pacing": "The video uses a montage style, cutting between shots of Donald Trump walking backstage and entering the arena, and wider shots of the massive, cheering crowd reacting to his presence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Pride",
+    "Excitement",
+    "Power"
+  ],
+  "cultural_references": [
+    "Dana White",
+    "UFC"
+  ],
+  "central_claim": "Donald Trump is celebrated like a champion and overwhelmingly popular, receiving a hero's welcome from a massive crowd at a UFC event.",
+  "intended_effect": "To make the viewer feel proud of Trump's popularity and see him as a powerful, beloved figure.",
+  "uncertainty_flags": [
+    "The full number of the UFC event on the sign is not clearly visible."
+  ]
+}

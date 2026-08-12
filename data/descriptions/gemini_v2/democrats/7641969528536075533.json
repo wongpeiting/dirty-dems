@@ -1,0 +1,55 @@
+{
+  "video_id": "7641969528536075533",
+  "visual_action": "A fast-paced montage of photos and short video clips of Charles Booker. He is shown smiling warmly in various settings, including a portrait-style shot in a tweed jacket, speaking at a podium in a legislative setting, and wearing a hat and jacket that say \"Kentucky New Deal\". The editing includes effects like horizontal scan lines and layered images.",
+  "cast": [
+    {
+      "name": "Charles Booker",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is a montage exclusively featuring him, and the caption reads \"CHARLES BOOKER FOR SENATE 🫡\"."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats TikTok account."
+    },
+    {
+      "name": "Kentucky New Deal",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text \"KENTUCKY NEW DEAL\" is visible on a hat and a circular logo on a jacket worn by Charles Booker."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "KENTUCKY NEW DEAL",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of an upbeat electronic music track with some indistinct vocal samples mixed in. The provided transcript \"Here is the 200th episode\" appears to be a misinterpretation of the audio.",
+  "emojis_present": [
+    "🫡"
+  ],
+  "audio_music": "A continuous, high-energy, upbeat electronic dance track plays throughout the video. The music has a driving beat and is intended to create a positive, celebratory, and energetic mood.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various photos and clips, synced to the rhythm of the music. It uses stylistic effects like scan lines, wipes, and layered images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Admiration",
+    "Positivity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Charles Booker is an energetic, charismatic, and positive candidate for the Senate.",
+  "intended_effect": "To generate enthusiasm and positive sentiment for Charles Booker's Senate campaign.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is incorrect; there is no spoken dialogue, only music."
+  ]
+}

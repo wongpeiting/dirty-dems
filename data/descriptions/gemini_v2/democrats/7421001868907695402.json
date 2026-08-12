@@ -1,0 +1,78 @@
+{
+  "video_id": "7421001868907695402",
+  "visual_action": "A split-screen view of a political debate. On the left, JD Vance listens with a serious expression. On the right, Tim Walz speaks animatedly. Both are behind podiums on a stage with a blue background. A chyron identifies the event as a 'VICE PRESIDENTIAL DEBATE' on CBS News.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking for the entire video, identified by face-ID, and named in the on-screen text."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown on screen reacting to Walz's comments, identified by face-ID, and is the subject of Walz's speech and the on-screen text 'Tim Walz: There are consequences for Vance's lies about Springfield'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Walz says, '...if we didn't let Donald Trump continue to make it an issue'."
+    },
+    {
+      "name": "James Lankford",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Walz says, 'Senator Lankford did it'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Walz refers to 'The Republican governor' who allegedly refuted Vance's claims."
+    },
+    {
+      "name": "CBS NEWS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CBS News logo and name appear on the debate chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Tim Walz: There are consequences for Vance's lies about Springfield",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE • CBS NEWS • VICE PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Tim Walz criticizes JD Vance, stating that instead of solving problems, Vance chooses to 'demonize' them. Walz accuses Vance of creating false stories about Springfield, Ohio, which he says 'vilified a large number of people who were here legally'. Walz notes that even the Republican governor refuted Vance's claims. He argues that there are 'consequences for this' and that a bipartisan solution to the issue would be possible, citing Senator Lankford's work, if not for Donald Trump continuing to make it a political issue.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of clear, unedited speech from a political debate. There is no music or other sound effects.",
+  "editing_pacing": "The video uses a static, split-screen shot of the debate. The editing is minimal, consisting of a title overlay at the top and dynamic yellow captions of single words that appear and disappear in sync with the speaker's dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "J.D. Vance deliberately manufactured lies about immigrants in Springfield, Ohio, for political gain, causing real harm and obstructing bipartisan solutions.",
+  "intended_effect": "To convince the audience that J.D. Vance is a dishonest politician who uses inflammatory rhetoric instead of solving problems.",
+  "uncertainty_flags": []
+}

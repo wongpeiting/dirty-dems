@@ -1,0 +1,60 @@
+{
+  "video_id": "7611972412711636237",
+  "visual_action": "Donald Trump, wearing a white hat with 'USA' on it, stands at a podium bearing the Seal of the President of the United States and delivers a speech. He is flanked by American flags. The video is a static medium shot of him speaking for the duration. The video ends with black-and-white images of the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person shown on screen, delivering a speech directly to the camera."
+    },
+    {
+      "name": "Islamic Revolutionary Guard",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump directly addresses them with an ultimatum: 'To the members of the Islamic Revolutionary Guard... you must lay down your weapons and have complete immunity, or... face certain death.'"
+    },
+    {
+      "name": "People of Iran",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump speaks directly to them: 'Finally, to the great, proud people of Iran, I say tonight that the hour of your freedom is at hand... take over your government.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "We ask God to protect all of our heroes in harm's way, and we trust that, with his help, the men and women of the armed forces will prevail. We have the greatest in the world, and they will prevail. To the members of the Islamic Revolutionary Guard, the armed forces, and all of the police, I say tonight that you must lay down your weapons and have complete immunity, or, in the alternative, face certain death. So, lay down your arms. You will be treated fairly with total immunity, or you will face certain death. Finally, to the great, proud people of Iran, I say tonight that the hour of your freedom is at hand. Stay sheltered. Don't leave your home. It's very dangerous outside. Bombs will be dropping everywhere. When we are finished, take over your government. It will be yours to take. This will be, probably, your only chance for generations. For many years, you have asked for America's help, but you never got it. No president was willing to do what I am willing to do tonight. Now you have a president who is giving you what you want. So, let's see how you respond. America is backing you with overwhelming strength and devastating force. Now is the time to seize control of your destiny and to unleash the prosperous and glorious future that is close within your reach. This is the moment for action. Do not let it pass. May God bless the brave men and women of America's armed forces. May God bless the United States of America. May God bless you all. Thank you.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump delivers a presidential address. He begins by asking for God's protection for American troops. He then issues an ultimatum to the 'Islamic Revolutionary Guard, the armed forces, and all of the police' of a foreign nation (implied to be Iran), telling them to 'lay down your weapons and have complete immunity, or... face certain death.' He then addresses the 'people of Iran,' stating that their 'hour of freedom is at hand' and that America is backing them with 'overwhelming strength.' He advises them to stay indoors because 'bombs will be dropping everywhere' and encourages them to 'take over your government' once the US military action is complete.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's voice delivering a speech. There is no perceptible music or other sound.",
+  "editing_pacing": "The video is a single, static, talking-head shot of Donald Trump at a podium. Text is overlaid to match his speech. It cuts to a final credit screen at the very end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Solemnity",
+    "Menace",
+    "Hope",
+    "Patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The US, under President Trump, is commencing military action against Iran and is offering Iranian security forces a choice between surrender with immunity or death, while encouraging the Iranian populace to overthrow their government with American support.",
+  "intended_effect": "To project an image of decisive and overwhelming American military power, to intimidate Iranian forces into surrendering, and to incite an internal uprising within Iran.",
+  "uncertainty_flags": [
+    "The provided authoritative music fingerprint data ('Usa — Opil Graves', 'Deadly Distractions — Mary Jane', 'THIS JUST IN — Rebel Buddha') conflicts with the audible content of the video, which appears to be speech only with no music."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "video_id": "7135823475239030062",
+  "visual_action": "A screenshot of a tweet from \"The Democrats\" is centered on the screen. The background is a mirrored video, showing the same clips of Joe Biden on the top and bottom halves of the screen. The clips show Biden smiling, looking pleased, and at one point wearing sunglasses and pointing at the camera.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face appears in clips throughout the video, and the on-screen text announces a plan by 'President Biden'."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen tweet screenshot is from the account 'The Democrats' (@TheDemocrats)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats\n@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING: President Biden is announcing a plan to forgive $10,000 in student loan debt for borrowers earning under $125K/year—and up to $20,000 for Pell Grant recipients.\n\nHe will also extend the pause on debt repayments through the end of the year.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only music.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, triumphant electronic music track plays consistently throughout the video, creating a celebratory and positive tone.",
+  "editing_pacing": "A montage of short clips of Joe Biden is used as a mirrored background (top and bottom of the screen) for a static screenshot of a tweet. The cuts between clips are quick.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Celebration",
+    "Relief"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden has announced a major student loan forgiveness plan that will provide significant financial relief to millions of borrowers.",
+  "intended_effect": "To generate positive sentiment and support for President Biden and his administration's policies, particularly among those with student loan debt.",
+  "uncertainty_flags": []
+}

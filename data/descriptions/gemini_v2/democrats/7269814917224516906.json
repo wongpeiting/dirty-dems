@@ -1,0 +1,70 @@
+{
+  "video_id": "7269814917224516906",
+  "visual_action": "The video shows a slideshow of three still or slow-motion clips of Republican politicians. First, Donald Trump looks serious and purses his lips. Second, Ron DeSantis stands at a podium with a serious expression. Third, Mike Pence looks forward with a neutral to serious expression. The same text overlay is present throughout.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A close-up shot of his face is the first image shown in the video."
+    },
+    {
+      "name": "Ron Desantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A medium shot of him at a podium is the second image shown in the video."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A close-up shot of his face is the third image shown in the video."
+    },
+    {
+      "name": "2024 GOP presidential candidates",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly names '2024 GOP presidential candidates' as the subject of the post's central question."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text frames the post around the 'MAGA extremist agenda'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POV: you ask 2024 GOP presidential candidates to name one policy of theirs that isn't pushing a MAGA extremist agenda",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of the sound of crickets chirping, a common sound effect used to imply an awkward silence or the inability to provide an answer.",
+  "editing_pacing": "The video is a slow-paced slideshow of three still or near-still images of different politicians.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "The use of 'POV:' is a common internet meme format.",
+    "The sound of crickets is a widely used audio meme to signify awkward silence."
+  ],
+  "central_claim": "2024 GOP presidential candidates are unable to name any policy they support that isn't part of a 'MAGA extremist agenda'.",
+  "intended_effect": "To mock Republican presidential candidates and portray them as ideological extremists with no mainstream policies.",
+  "uncertainty_flags": [
+    "The authoritative music fingerprint identified 'Till The End — Far From Tennessee', but the clearly audible and contextually relevant sound is crickets chirping, a meme sound effect. The fingerprint appears to be incorrect."
+  ]
+}

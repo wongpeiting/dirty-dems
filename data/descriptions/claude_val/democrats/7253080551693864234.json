@@ -1,0 +1,66 @@
+{
+  "video_id": "7253080551693864234",
+  "visual_action": "A young woman with medium-length brown highlighted hair, wearing a dark navy sweatshirt with a small rainbow-colored donkey pin on the chest, stands in front of a plain off-white wall. Across 8 keyframes the video cycles through two distinct overlay text segments. In the first segment (frames 1–5) she cycles through several facial expressions and body postures: starting neutral/deadpan, then furrowing her brow in a skeptical/disbelieving look, crossing her arms, and gesturing toward her own chest/shoulder — all while the text \"Republicans claiming that guns aren't the problem, mental health is\" appears overhead. In frames 6–8 the text changes to \"Republicans ignoring the climate crisis\" and \"Republicans when women have a say over their reproductive health care\" (per OCR), while she continues speaking with hand gestures and varying expressions. The video appears to be a single continuous talking-head reaction piece.",
+  "cast": [
+    {
+      "name": "unnamed woman (creator)",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible on screen throughout all frames as the sole on-camera presenter; wears rainbow donkey pin signaling Democratic affiliation"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named repeatedly in on-screen overlays: 'Republicans claiming that guns aren't the problem, mental health is', 'Republicans ignoring the climate crisis', 'Republicans when women have a say over their reproductive health care'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Account is @democrats; presenter wears a rainbow donkey (Democratic Party symbol) pin"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans claiming that guns aren't the problem, mental health is",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans ignoring the climate crisis",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans when women have a say over their reproductive health care",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No Whisper transcript was provided. Based on the on-screen text and the presenter's visible lip movements and gestures, she appears to be narrating or reacting to each text prompt — likely delivering commentary or a punchline response to each listed Republican position (guns/mental health, climate crisis, women's reproductive healthcare). The audio is described as an \"original sound,\" suggesting she is speaking directly to camera.",
+  "emojis_present": [],
+  "audio_music": "Background instrumental track present throughout — identified by ACRCloud fingerprint as \"Laiba Anjum\" by Athon Mao, beginning at 0.0s. The track appears to function as a light, continuous underscore beneath the presenter's spoken commentary. No dramatic changes in music noted across the clip.",
+  "editing_pacing": "Single continuous talking-head shot with no cuts to other footage or B-roll. Pacing is moderate; the woman's expressions and gestures change between segments as the overlay text updates. No fast cuts, speed ramps, or special effects detected.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "skepticism — conveyed by the presenter's raised brow, furrowed face, and deadpan stare in response to the 'guns/mental health' text",
+    "frustration/disbelief — conveyed by crossed arms and exasperated gestures",
+    "indignation — conveyed by the framing of Republican positions as dismissible or hypocritical across all three text segments"
+  ],
+  "cultural_references": [
+    "'Side-eye' / deadpan reaction format — a widely used TikTok/internet meme structure in which a presenter stares blankly or reacts expressively to an on-screen text prompt, mimicking the audience's imagined reaction"
+  ],
+  "central_claim": "Republicans are hypocritically inconsistent or wrong on gun violence (blaming mental health), climate change (ignoring it), and women's reproductive rights (opposing women's agency).",
+  "intended_effect": "Prompt the viewer to feel critical of or exasperated by Republican positions on guns, climate, and reproductive rights, using the presenter's reactive facial expressions as a stand-in for the audience's own feelings.",
+  "uncertainty_flags": [
+    "No audio transcript provided — exact spoken words cannot be confirmed; the presenter may be saying something specific or just reacting silently/with brief phrases",
+    "The presenter is not identified by name; she may be a known Democratic staffer, influencer, or creator associated with @democrats",
+    "The third on-screen text segment ('Republicans when women have a say over their reproductive health care') is present in OCR but not clearly visible in the provided keyframes — confirmed via OCR only",
+    "It is unclear whether the clip contains a comedic punchline, a specific policy argument, or is purely reactive — the missing transcript limits interpretation"
+  ]
+}

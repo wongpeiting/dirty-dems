@@ -1,0 +1,47 @@
+{
+  "video_id": "7138149620533742891",
+  "visual_action": "Joe Biden speaks at a podium to an audience. He is in a dark suit and tie. The crowd is visible behind him, and some people are holding signs that say 'SAFER AMERICA'. The crowd applauds loudly at one point during his speech. The camera angle shifts from a frontal view to a side view and back.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, delivering a speech directly to the audience."
+    },
+    {
+      "name": "MAGA Republicans",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies them as the target of the message, and Biden directly addresses his 'MAGA Republican friends in Congress' in his speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden's reminder to MAGA Republicans:",
+      "role": "overlay"
+    },
+    {
+      "text": "SAFER AMERICA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Joe Biden addresses 'MAGA Republican friends in Congress,' telling them they cannot claim to support law enforcement if they don't condemn the events of January 6th. Amidst loud applause, he asks, 'For God's sake, whose side are you on?' He concludes that one is either 'on the side of a mob or the side of the police' and states, 'You can't be pro-law enforcement and pro-insurrection.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Joe Biden's speech and the sounds of the crowd, including loud applause and cheering. There is no background music.",
+  "editing_pacing": "The video is a continuous clip of a speech with a few camera angle changes. The pacing is that of a live speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confrontation",
+    "Righteous anger",
+    "Moral clarity"
+  ],
+  "cultural_references": [],
+  "central_claim": "MAGA Republicans are hypocritical because they claim to support law enforcement while refusing to condemn the January 6th insurrection.",
+  "intended_effect": "To portray MAGA Republicans as being against law and order and to rally support for the Democratic position by framing the issue as a clear choice between the police and a mob.",
+  "uncertainty_flags": []
+}

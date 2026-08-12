@@ -1,0 +1,126 @@
+{
+  "video_id": "7297051695396212010",
+  "visual_action": "The video shows a series of clips from a C-SPAN broadcast of the U.S. Senate floor. Senator Tommy Tuberville speaks from a podium, Senator Jon Ossoff presides over the session from his desk, and Senator Lindsey Graham speaks on the floor. The setting is the Senate chamber.",
+  "cast": [
+    {
+      "name": "Tommy Tuberville",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown speaking on the Senate floor and identified by an on-screen chyron reading 'SEN. TOMMY TUBERVILLE'. He is also the subject of the main overlay text."
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking on the Senate floor and identified by an on-screen chyron reading 'SEN. LINDSEY GRAHAM'. He is shown directly responding to Tuberville."
+    },
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown presiding over the Senate session. He is identified by face recognition and speaks briefly to acknowledge the proceedings."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the overlay text, which states that Tuberville is objecting to 'even Republicans' efforts'."
+    },
+    {
+      "name": "U.S. military",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the overlay text as the subject of the 'key nominations' being blocked."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Tuberville objects to even Republicans' efforts to proceed with key nominations for the U.S. military",
+      "role": "overlay"
+    },
+    {
+      "text": "I object.",
+      "role": "caption"
+    },
+    {
+      "text": "Objection is heard.",
+      "role": "caption"
+    },
+    {
+      "text": "Mr. President.",
+      "role": "caption"
+    },
+    {
+      "text": "Senator from South Carolina.",
+      "role": "caption"
+    },
+    {
+      "text": "Yeah I'll have another one.",
+      "role": "caption"
+    },
+    {
+      "text": "Let me respond to my colleague, respectfully.",
+      "role": "caption"
+    },
+    {
+      "text": "We have courts.",
+      "role": "caption"
+    },
+    {
+      "text": "If you think they've done something illegal, go to court.",
+      "role": "caption"
+    },
+    {
+      "text": "That's how you handle these things.",
+      "role": "caption"
+    },
+    {
+      "text": "U.S. SENATE",
+      "role": "chyron"
+    },
+    {
+      "text": "MILITARY PROMOTIONS",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. TOMMY TUBERVILLE\nR-Alabama",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. LINDSEY GRAHAM\nR-South Carolina",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "On the Senate floor, Senator Tommy Tuberville says \"I object.\" Senator Jon Ossoff acknowledges, \"Objection is heard.\" Senator Lindsey Graham then speaks, stating, \"Let me respond to my colleague, respectfully... We have courts. If you think they've done something illegal, go to court. That's how you handle these things.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the C-SPAN broadcast of the Senate proceedings. There is no music or other sound design.",
+  "editing_pacing": "The video is edited with cuts between different static shots of the senators speaking on the Senate floor.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disapproval",
+    "Frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Senator Tommy Tuberville is blocking key military nominations, drawing a public rebuke on the Senate floor from fellow Republican Senator Lindsey Graham.",
+  "intended_effect": "To portray the Republican party as being in conflict and to generate disapproval of Senator Tuberville's actions.",
+  "uncertainty_flags": []
+}

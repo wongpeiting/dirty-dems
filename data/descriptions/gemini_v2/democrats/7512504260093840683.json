@@ -1,0 +1,152 @@
+{
+  "video_id": "7512504260093840683",
+  "visual_action": "Donald Trump is shown speaking from a seated position in a formal room, in what appears to be a clip from a Fox News broadcast. A news chyron is at the bottom of the screen. Text is overlaid on the top and bottom of the video, with the bottom text transcribing his speech as he talks.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking for the entire duration of the video."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump says 'Elon and I had a great relationship.' The overlay text also states 'Trump breaks his silence on Elon'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and a broadcast chyron from the network are visible at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump breaks his silence on Elon: We had a great relationship. I don't know if we will anymore.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: TRUMP TAKES QUESTIONS FROM REPORTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "YOU SAW A MAN",
+      "role": "caption"
+    },
+    {
+      "text": "WHO WAS VERY HAPPY",
+      "role": "caption"
+    },
+    {
+      "text": "WHEN HE STOOD",
+      "role": "caption"
+    },
+    {
+      "text": "BEHIND THE OVAL",
+      "role": "caption"
+    },
+    {
+      "text": "DESK",
+      "role": "caption"
+    },
+    {
+      "text": "AND EVEN WITH THE",
+      "role": "caption"
+    },
+    {
+      "text": "BLACK EYE, I SAID,",
+      "role": "caption"
+    },
+    {
+      "text": "YOU WANT A LITTLE",
+      "role": "caption"
+    },
+    {
+      "text": "MAKEUP.",
+      "role": "caption"
+    },
+    {
+      "text": "BUT HE SAID, NO,",
+      "role": "caption"
+    },
+    {
+      "text": "I DON'T THINK SO.",
+      "role": "caption"
+    },
+    {
+      "text": "WHICH IS",
+      "role": "caption"
+    },
+    {
+      "text": "INTERESTING AND",
+      "role": "caption"
+    },
+    {
+      "text": "HE WANTS TO BE",
+      "role": "caption"
+    },
+    {
+      "text": "WHO HE IS.",
+      "role": "caption"
+    },
+    {
+      "text": "LOOK,",
+      "role": "caption"
+    },
+    {
+      "text": "ELON AND I HAD",
+      "role": "caption"
+    },
+    {
+      "text": "A GREAT",
+      "role": "caption"
+    },
+    {
+      "text": "RELATIONSHIP.",
+      "role": "caption"
+    },
+    {
+      "text": "I DON'T KNOW IF WE",
+      "role": "caption"
+    },
+    {
+      "text": "WILL ANYMORE.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump tells a story about seeing a man with a \"black eye\" behind the Oval desk who declined an offer of makeup. He then transitions to stating, \"Elon and I had a great relationship. I don't know if we will anymore.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice, with no accompanying music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head, with text overlaid at the top and bottom of the screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Confusion"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's previously 'great relationship' with Elon Musk may be over.",
+  "intended_effect": "To portray Donald Trump as rambling and to highlight a rift between him and Elon Musk.",
+  "uncertainty_flags": [
+    "The identity of the 'man with the black eye' whom Trump references is not explicitly stated."
+  ]
+}

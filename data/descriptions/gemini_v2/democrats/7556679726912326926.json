@@ -1,0 +1,65 @@
+{
+  "video_id": "7556679726912326926",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named 'FactPost'. The tweet shows a photo of Donald Trump in a tuxedo next to a photo of a large, ornate, and empty ballroom. After a few seconds, the tweet disappears, and the video shows a full-screen, still image of the same ballroom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photograph of Donald Trump is featured in the on-screen tweet, and the text refers to 'The Trump administration'."
+    },
+    {
+      "name": "Trump administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text of the tweet begins, 'The Trump administration has announced...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a screenshot of a tweet from the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Trump administration has announced construction of the White House ballroom will continue during the government shutdown.",
+      "role": "overlay"
+    },
+    {
+      "text": "FACT POST",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video; the only audio is a musical track.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, theatrical song, identified as 'Money' from the musical 'Cabaret', plays throughout the video. The song's repetitive chorus about 'money' creates a mocking and critical tone in the context of the video's claim about government spending.",
+  "editing_pacing": "The video consists of two static shots. It first shows a screenshot of a tweet for several seconds, then cuts to a full-screen still image of the ballroom shown in the tweet.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a screenshot of a tweet from 'FactPost,' which is a satirical account. The tweet is a staged, fake news post created to satirize the Trump administration's perceived priorities and spending habits.",
+  "emotions_signaled": [
+    "mockery",
+    "criticism",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The song 'Money' from the musical 'Cabaret'."
+  ],
+  "central_claim": "The Trump administration prioritized lavish, self-serving projects over essential government functions during a shutdown.",
+  "intended_effect": "To make the viewer mock and feel critical towards the Trump administration, portraying it as financially irresponsible and out of touch.",
+  "uncertainty_flags": []
+}

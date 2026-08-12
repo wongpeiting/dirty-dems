@@ -1,0 +1,56 @@
+{
+  "video_id": "7410447461036084510",
+  "visual_action": "A slideshow of two still images. The first shows Joe Biden and Kamala Harris wearing black masks, standing in front of an American flag with fireworks in the background, with the text 'Biden-Harris 2020'. The second image shows Joe Biden and Kamala Harris, unmasked, on a stage with their hands raised together, with the text 'Biden supporting Harris-Walz 2024'.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in both photos and is named in on-screen text 'Biden-Harris 2020' and 'Biden supporting Harris-Walz 2024'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in both photos and is named in on-screen text 'Biden-Harris 2020' and 'Harris-Walz 2024'."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen text 'Harris-Walz 2024'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Biden-Harris 2020",
+      "role": "overlay"
+    },
+    {
+      "text": "Biden supporting Harris-Walz 2024",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue; the audio consists entirely of a pop song.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the song 'No Body Same' by Andi. The song has a gentle, somewhat reflective start that builds into a more anthemic and emotional chorus, creating a sense of hopeful transition and belief.",
+  "editing_pacing": "A simple slideshow transitioning between two still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Hope",
+    "Pride",
+    "Support",
+    "Continuity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden is fully supportive of the new Democratic presidential ticket of Kamala Harris and Tim Walz for the 2024 election, representing a continuation of the party's leadership.",
+  "intended_effect": "To reassure Democratic supporters of party unity and the smooth transition of leadership from Biden to Harris for the 2024 campaign.",
+  "uncertainty_flags": []
+}

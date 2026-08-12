@@ -1,0 +1,74 @@
+{
+  "video_id": "7567137928166542606",
+  "visual_action": "The video cuts between three clips. The first shows Donald Trump speaking at a podium outdoors. The second shows Gavin Newsom smiling. The third is a close-up of Donald Trump looking angry and speaking.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears on screen representing the Republican position, and his decontextualized voice is used for the audio."
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears on screen and is named in the on-screen text as representing the contrasting Democratic position."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text attributes dialogue to 'republicans:'."
+    },
+    {
+      "name": "Kelly",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A spliced audio clip of Donald Trump says, 'You did a good job getting rid of Kelly!'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "republicans: we're redistricting to rig the elections for us! 🤫",
+      "role": "meme_text"
+    },
+    {
+      "text": "newsom: ok well we're letting californians vote on their maps 🥰🥰",
+      "role": "meme_text"
+    },
+    {
+      "text": "republicans: HOW DARE YOU 😡😡😡",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The audio consists of spliced, decontextualized clips of Donald Trump's voice. Over the first clip of him, the audio is 'You did a good job getting rid of Kelly!'. The clip of Gavin Newsom is silent, with only music playing. Over the final clip of Trump, the audio is 'At least I don't lie to the police. How dare you!'. The audio is edited to create a fabricated dialogue that matches the on-screen text.",
+  "emojis_present": [
+    "🤫",
+    "🥰",
+    "😡"
+  ],
+  "audio_music": "A dramatic, slightly tense instrumental track plays throughout the video, consistent with a meme format depicting conflict or outrage.",
+  "editing_pacing": "The video uses fast cuts between different speakers in a reaction-meme style to create a comedic, back-and-forth narrative.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The video uses a common meme format where one party states a position, a second party states a counter-position, and the first party reacts with exaggerated outrage."
+  ],
+  "central_claim": "Republicans hypocritically rig elections through redistricting and then feign outrage when Democrats propose fair, citizen-led processes.",
+  "intended_effect": "To make viewers laugh at and ridicule Republicans as corrupt and hypocritical, while positioning Democrats as reasonable and pro-democracy.",
+  "uncertainty_flags": [
+    "The identity of the 'Kelly' mentioned in the audio is unclear due to the decontextualized nature of the soundbite."
+  ]
+}

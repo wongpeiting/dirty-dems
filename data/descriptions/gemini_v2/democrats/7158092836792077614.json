@@ -1,0 +1,74 @@
+{
+  "video_id": "7158092836792077614",
+  "visual_action": "A slideshow of official portraits of various male Republican politicians. Each politician is smiling or has a neutral expression, posing in front of an American flag or a plain background. A red text box is overlaid on the lower half of each image throughout the video.",
+  "cast": [
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads: 'Every House Republican voted against capping the cost of insulin at $35/month 🤯😤'"
+    },
+    {
+      "name": "Austin Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face is shown in the slideshow of politicians."
+    },
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face is shown in the slideshow of politicians."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face is shown in the slideshow of politicians."
+    },
+    {
+      "name": "Unnamed Republican politicians",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several other politicians whose faces are not identified by the system are shown in the slideshow as examples of House Republicans."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Every House Republican voted against capping the cost of insulin at $35/month 🤯😤",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in this video; it is accompanied only by music.",
+  "emojis_present": [
+    "🤯",
+    "😤"
+  ],
+  "audio_music": "The video is set to a dramatic, ominous-sounding orchestral piece, identified as 'The Phantom Of The Opera'. The music choice serves to cast the politicians shown in a villainous or negative light.",
+  "editing_pacing": "The video is a slow-paced slideshow, with still images of politicians cross-fading into one another approximately every second.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "disappointment",
+    "anger"
+  ],
+  "cultural_references": [
+    "The Phantom Of The Opera"
+  ],
+  "central_claim": "Every Republican in the House of Representatives voted against a bill that would have capped the monthly cost of insulin at $35.",
+  "intended_effect": "To generate anger and disapproval towards House Republicans for their voting record on healthcare costs.",
+  "uncertainty_flags": [
+    "The identities of several politicians shown in the slideshow could not be authoritatively confirmed."
+  ]
+}

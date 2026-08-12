@@ -1,0 +1,64 @@
+{
+  "video_id": "7501803079667404074",
+  "visual_action": "A fast-paced slideshow of still images of JD Vance. The images are overlaid with sparkling, colorful, pixelated heart animations. The first image is a filtered photo of Vance making his face look rounder with blush added. Another photo shows him with Donald Trump. A later image shows a seemingly manipulated, bald version of Vance against a bright blue background.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of every image in the video and is referenced in the on-screen text 'jd-chan?'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "He is shown in a photo with JD Vance and mentioned in the on-screen text 'sold out to trump'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "jd-chan?",
+      "role": "overlay"
+    },
+    {
+      "text": "what are some facts about you?",
+      "role": "overlay"
+    },
+    {
+      "text": "sold out to trump, became completely irrelevant in a disastrous administration",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a high-pitched, fast-paced Japanese pop song. A female voice speaks a phrase in Japanese at the start. The provided automated transcript ('when i go 3') does not match the audible lyrics.",
+  "emojis_present": [
+    "🤭"
+  ],
+  "audio_music": "A continuous, high-energy, high-pitched Japanese pop song plays throughout. The sound is upbeat and stereotypically associated with anime or 'kawaii' culture, creating a satirical and mocking tone when paired with the images of the politician.",
+  "editing_pacing": "The video is a fast-paced slideshow of still images with quick cuts. One image is briefly distorted with a warping effect.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "JD Vance's face is altered. In the opening shot, a filter is applied to make his face appear rounder, smoother, and with added blush, in a 'kawaii' anime style. In the final shots, his image is manipulated to make him appear bald. These alterations are used for a mocking, satirical effect.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The video heavily borrows from Japanese 'kawaii' culture and anime aesthetics, using sparkling heart visual effects, an upbeat J-pop song, and the Japanese honorific '-chan' in 'jd-chan?' to create a dissonant, mocking tone."
+  ],
+  "central_claim": "JD Vance sold out his principles to align with Donald Trump, rendering himself an irrelevant figure in a failed administration.",
+  "intended_effect": "To ridicule JD Vance and portray him as a sycophantic and inconsequential politician.",
+  "uncertainty_flags": [
+    "The bald man at the end of the video is almost certainly a manipulated image of JD Vance, but this cannot be confirmed with 100% certainty."
+  ]
+}

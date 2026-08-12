@@ -1,0 +1,58 @@
+{
+  "video_id": "7577465529624022286",
+  "visual_action": "A short slideshow of two still photographs. The first shows President Joe Biden smiling at a podium outdoors next to a large white turkey; a sign in front reads 'Happy Thanksgiving 2024'. The second photo shows former President Barack Obama and another man smiling and clapping behind a large white turkey outdoors, in what appears to be the White House.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Is shown in the first still photograph of the video."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Is shown in the second still photograph of the video."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unidentified man is shown standing and clapping next to Barack Obama in the second photograph."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Happy Thanksgiving!",
+      "role": "overlay"
+    },
+    {
+      "text": "Happy Thanksgiving 2024",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only instrumental music plays.",
+  "emojis_present": [],
+  "audio_music": "A gentle, instrumental piano piece plays throughout the video, creating a calm and warm mood.",
+  "editing_pacing": "A simple slideshow consisting of two still photographs.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Warmth",
+    "Nostalgia"
+  ],
+  "cultural_references": [
+    "The annual White House Thanksgiving turkey pardoning ceremony."
+  ],
+  "central_claim": "Democratic presidents like Joe Biden and Barack Obama uphold cherished American traditions such as the annual Thanksgiving turkey pardon.",
+  "intended_effect": "To generate positive feelings and nostalgia towards Democratic presidents by associating them with a heartwarming national tradition.",
+  "uncertainty_flags": [
+    "It is difficult to determine with certainty whether the sign reading 'Happy Thanksgiving 2024' in the first image is a real object in the photo or a digital addition; it has been treated as real for this analysis."
+  ]
+}

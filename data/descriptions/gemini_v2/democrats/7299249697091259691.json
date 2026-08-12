@@ -1,0 +1,67 @@
+{
+  "video_id": "7299249697091259691",
+  "visual_action": "Marjorie Taylor Greene, wearing a pink and white checked jacket, speaks to a group of reporters outdoors. The reporters hold microphones and cell phones towards her. The setting appears to be a paved area in front of a large institutional building, identified by on-screen text as Capitol Hill.",
+  "cast": [
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, identified by face recognition and on-screen text."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Greene repeatedly criticizes 'Republicans' and 'Republicans in Congress,' stating they 'never do anything' and 'completely fail' the American people."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official '@democrats' account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MARJORIE TAYLOR GREENE: REPUBLICANS IN CONGRESS NEVER DO ANYTHING... WE FAIL THE AMERICAN PEOPLE",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "Friday",
+      "role": "chyron"
+    },
+    {
+      "text": "Capitol Hill",
+      "role": "chyron"
+    },
+    {
+      "text": "Republican voters across the country are sick and tired of Republicans because they never do anything. Republicans go out on the campaign trail and go on TV and do their five minute hearing videos and post up on social media and say all this garbage. I feel like many of the American people that think that Republicans in Congress completely fail them. I feel the same way. And I'm a Republican member of Congress.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Marjorie Taylor Greene states that Republican voters are \"sick and tired\" of Republican politicians because \"they never do anything.\" She criticizes her colleagues for making social media videos and TV appearances but failing to take meaningful action. She says she agrees with Americans who feel that \"Republicans in Congress completely fail them,\" and identifies herself as a Republican member of Congress who feels the same way.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Marjorie Taylor Greene's speaking voice and ambient background sounds typical of an outdoor press scrum. There is no music or added sound effects.",
+  "editing_pacing": "The video is a single, static shot without any cuts, zooms, or other editing effects, presented as a raw news clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "frustration",
+    "mockery",
+    "disarray"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican party is ineffective and fails its voters, a criticism leveled by one of its own prominent members, Marjorie Taylor Greene.",
+  "intended_effect": "To portray the Republican party as divided, incompetent, and in disarray by using a prominent Republican's own words against her party.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,81 @@
+{
+  "video_id": "7655456272082291981",
+  "visual_action": "A static image displays a screenshot of a tweet from an account named 'FactPost'. The tweet claims that Google searches for 'affordability' have hit an all-time high. The image is composed of a portrait of Donald Trump with a serious expression, and a line graph from Google Trends that shows a significant, recent spike in searches for the term 'affordability'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photograph of Donald Trump is prominently displayed within the tweet screenshot."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are visible at the top of the tweet screenshot."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video was posted by the @democrats account, making them the authors and protagonists of the political message."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Google searches for \"affordability\" reached an all-time high this week",
+      "role": "overlay"
+    },
+    {
+      "text": "Interest over time",
+      "role": "overlay"
+    },
+    {
+      "text": "United States • 2004 - present",
+      "role": "overlay"
+    },
+    {
+      "text": "Google Trends",
+      "role": "overlay"
+    },
+    {
+      "text": "• affordability",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video; it only features music.",
+  "emojis_present": [],
+  "audio_music": "The song 'Money' from the musical 'Cabaret' plays throughout the clip. The theatrical, jaunty track creates an ironic or satirical tone when contrasted with the serious economic data presented on screen.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The post presents a screenshot of a tweet from 'FactPost' (@factpostnews), which is not a major verified news organization. This suggests the tweet is a fabricated document, created to frame the Google Trends data as an objective news finding to criticize a political opponent.",
+  "emotions_signaled": [
+    "Anxiety",
+    "Blame",
+    "Irony"
+  ],
+  "cultural_references": [
+    "Google Trends",
+    "The musical 'Cabaret' (via the song 'Money')",
+    "Twitter/X (via the tweet format)"
+  ],
+  "central_claim": "Economic anxiety about affordability is at an all-time high, and Donald Trump is associated with this problem.",
+  "intended_effect": "To generate concern about the economy and direct that concern and blame towards Donald Trump.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet could not be definitively verified, but it is assessed as likely fabricated for the purpose of the video."
+  ]
+}

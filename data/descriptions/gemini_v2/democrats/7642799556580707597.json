@@ -1,0 +1,139 @@
+{
+  "video_id": "7642799556580707597",
+  "visual_action": "A Black man speaks directly to the camera in various outdoor settings, including a park and in front of buildings. As he speaks, images and logos are superimposed on the screen. These include headshots of Larry Ellison and David Ellison, a photo of them together, and logos for media companies like TikTok, CBS, CNN, Discovery, and Warner Bros. Pictures. A photo of Donald Trump is shown, as is an animated graphic of coins with a downward-pointing red arrow. The video ends with the man in a park as large text appears on screen.",
+  "cast": [
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The man who speaks directly to the camera throughout the video, acting as a narrator."
+    },
+    {
+      "name": "Larry Ellison",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker says, \"This is Larry Ellison,\" as his photo appears on screen."
+    },
+    {
+      "name": "David Ellison",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker says, \"and this is his son, David,\" as his photo appears on screen."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker refers to the \"Trump-aligned family\" and later shows a photo of him while saying, \"The so-called president of 'free speech' wants state-run media.\""
+    },
+    {
+      "name": "TikTok",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker states the Ellison family will own TikTok, and the company's logo appears on screen."
+    },
+    {
+      "name": "CBS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker lists CBS as one of the companies the Ellison family will own, and its logo appears on screen."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker lists CNN as one of the companies the Ellison family will own, and its logo appears on screen."
+    },
+    {
+      "name": "Discovery",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker lists Discovery as one of the companies the Ellison family will own, and its logo appears on screen."
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker lists Warner Brothers as one of the companies the Ellison family will own, and its logo appears on screen."
+    },
+    {
+      "name": "HBO",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker includes HBO in his verbal list of companies that will be owned by the Ellison family."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TikTok",
+      "role": "overlay"
+    },
+    {
+      "text": "CBS",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN",
+      "role": "overlay"
+    },
+    {
+      "text": "Discovery",
+      "role": "overlay"
+    },
+    {
+      "text": "WARNER BROS. PICTURES",
+      "role": "overlay"
+    },
+    {
+      "text": "TBS\nCW\nTNT\nWARNER BROS",
+      "role": "overlay"
+    },
+    {
+      "text": "\"FREE SPEECH\"",
+      "role": "overlay"
+    },
+    {
+      "text": "STATE-RUN",
+      "role": "overlay"
+    },
+    {
+      "text": "UNFUCK OUR\nALGORITHM",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A narrator claims that the viewer's algorithm is controlled by a \"Trump-aligned family,\" identifying Larry Ellison and his son David. He asserts this family will soon own TikTok, CBS, CNN, Discovery, Warner Brothers, HBO, and more. He argues that \"Trump and his billionaire friends want to control what you see, what you think, and what you believe.\" The speaker accuses Trump, the \"so-called president of free speech,\" of wanting \"state-run media\" to prevent discussion of his failures, his negative impact on the economy, and his destruction of democracy. The video ends with a call to \"stop the oligarchs\" and \"unfuck our algorithm.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, upbeat instrumental track with a funky bassline plays throughout the video, underneath the narration. The music is consistent and serves to drive the pace of the content.",
+  "editing_pacing": "The video uses quick cuts between different outdoor locations featuring the speaker. It frequently employs graphic overlays, including photos of individuals, corporate logos, and bold text, which pop up to illustrate the speaker's points.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "urgency",
+    "distrust"
+  ],
+  "cultural_references": [],
+  "central_claim": "Trump and his billionaire allies, the Ellison family, are consolidating ownership of major media platforms like TikTok and Warner Bros. to create a state-run media environment that suppresses dissent and controls public opinion.",
+  "intended_effect": "To alarm the viewer about a perceived threat of media consolidation by political opponents and motivate them to oppose Donald Trump and his allies.",
+  "uncertainty_flags": []
+}

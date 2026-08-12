@@ -1,0 +1,65 @@
+{
+  "video_id": "7522976168543358221",
+  "visual_action": "A large group of mostly white, older politicians in suits are gathered together, smiling, clapping, and giving thumbs-ups to the camera in a celebratory manner. The setting appears to be a government building, with American flags in the background. A 'PBS News' logo is visible in the bottom left corner.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'Republicans after passing...'"
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visible in the center of the celebrating group, smiling and giving two thumbs up. His presence is confirmed by facial recognition."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visible in the celebrating group, smiling and giving a thumbs up. His presence is confirmed by facial recognition."
+    },
+    {
+      "name": "PBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The PBS News logo appears in the bottom left corner of the footage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans after passing the “we fucking hate poor people” bill",
+      "role": "caption"
+    },
+    {
+      "text": "PBS NEWS",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is the song 'Lifestyle' by Rich Gang, with lyrics including, 'I done did a lot of shit just to live this here lifestyle' and 'bottom to the top of my lifestyle'.",
+  "emojis_present": [],
+  "audio_music": "A celebratory, upbeat hip-hop track ('Lifestyle' by Rich Gang) plays throughout the video. The braggadocious lyrics about achieving a certain 'lifestyle' are used ironically to mock the politicians shown.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or special editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The song 'Lifestyle' by Rich Gang (feat. Young Thug & Rich Homie Quan)."
+  ],
+  "central_claim": "Republicans are happily celebrating the passage of legislation that is harmful to poor people.",
+  "intended_effect": "To engender mockery and contempt for the Republican politicians shown, portraying them as cruel and self-serving.",
+  "uncertainty_flags": []
+}

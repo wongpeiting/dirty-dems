@@ -1,0 +1,73 @@
+{
+  "video_id": "7631298780939275533",
+  "visual_action": "The video is a short-form vertical clip composed of rapid cuts across multiple scenes: (1) Donald Trump on stage at a MAGA rally, dancing/moving energetically, with supporters holding red \"Make America Great Again\" signs and a \"Latinos for Trump\" sign visible behind him; (2) a man in a suit and tie screaming with mouth wide open in what appears to be a crowded indoor political event venue; (3) a jubilant crowd at what appears to be an election night watch party with a Fox News \"America's Election HQ\" chyron visible on screen behind them, and a lower-third chyron reading \"DONALD TRUMP WINS PRESIDENCY\" / \"ELECTION HEADQUARTERS\"; (4) a woman in a MAGA hat cheering ecstatically in a crowd; (5) a jubilant crowd at an election night event holding signs reading \"TRIUMPhant ElePENCE – Join the Stampede!\" and \"the silent majority STANDS WITH RUMP\" (partially obscured, full text \"TRUMP\"); (6) a young man with a red beard smiling broadly in a crowd, wearing a MAGA hat being placed/held on his head; (7) another shot of the celebration crowd with the \"the silent majority STANDS WITH TRUMP\" sign prominent amid MAGA hats and cheering supporters. The final frame is a black screen. The persistent on-screen caption throughout reads: 'What \"what you got\" has us feeling like'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Trump is visibly shown dancing at a MAGA rally on stage; his name also appears in the Fox News chyron 'DONALD TRUMP WINS PRESIDENCY'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "What \"what you got\" has us feeling like",
+      "role": "caption"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "overlay"
+    },
+    {
+      "text": "LATINOS FOR TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICA'S [ELEC]TION H[Q]",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP WINS PRESIDENCY",
+      "role": "chyron"
+    },
+    {
+      "text": "• ELECTION HEADQUARTERS •",
+      "role": "chyron"
+    },
+    {
+      "text": "TRIUMPhant ElePENCE – Join the Stampede!",
+      "role": "overlay"
+    },
+    {
+      "text": "the silent majority STANDS WITH TRUMP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio track (labeled \"Originalton\") features a hype/rap snippet. The Whisper transcript captures lyrics: \"What you got? A billion could have never bought / Ay, ay, ay / We gonna party like it's 30.\" No spoken dialogue by any on-screen person is audible; the music drives the energy of the montage.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, celebratory hype/rap track (\"Originalton\") with lyrics referencing money and partying, used to underscore the jubilant tone of the celebration montage.",
+  "editing_pacing": "Fast cuts between multiple crowd/rally scenes; handheld, energetic footage; each clip is only a few seconds long, building a sense of escalating excitement and celebration.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement and elation — triggered by jubilant crowd reactions, open-mouthed cheering, fists raised",
+    "Triumph and pride — triggered by the 'DONALD TRUMP WINS PRESIDENCY' chyron and celebratory signage",
+    "In-group euphoria — triggered by MAGA hats, red signs, and shared celebration footage"
+  ],
+  "cultural_references": [
+    "MAGA rally culture and iconography (red hats, 'Make America Great Again' signs)",
+    "'The silent majority stands with Trump' — a slogan referencing the Nixon-era 'silent majority' concept repurposed for Trump",
+    "Fox News Election Night coverage aesthetic",
+    "'TRIUMPhant ElePENCE' — a 2016-era Trump/Pence campaign slogan pun sign"
+  ],
+  "central_claim": "The video, posted by @whitehouse, uses the phrase \"what you got\" (referencing the audio track) as a framing device to express that Trump supporters' celebratory reaction to his presidential election victory is one of total euphoria and triumph.",
+  "intended_effect": "Evoke shared excitement, pride, and celebratory energy among Trump supporters by syncing their election-night celebration footage to a hype track, implying the victory was exhilarating and well-earned.",
+  "uncertainty_flags": [
+    "The specific election night footage source (2024 vs. 2016) is ambiguous — the 'TRIUMPhant ElePENCE' sign suggests some footage may be from 2016; 'DONALD TRUMP WINS PRESIDENCY' chyron could be from either 2016 or 2024",
+    "The screaming man in the suit in scene 2 is unidentified",
+    "The exact audio track/song title beyond 'Originalton' is unclear from the transcript alone",
+    "Account is listed as @whitehouse which would be the official White House account — posting this as an official government account is notable context but not a manipulation flag"
+  ]
+}

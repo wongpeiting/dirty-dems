@@ -1,0 +1,81 @@
+{
+  "video_id": "7540380497575283982",
+  "visual_action": "A screen recording of a laptop displaying a post from the social media platform X. The post, by the 'Texas House Democrats' account, shows an image of a legislative chamber and includes text stating that Republicans have detained Texas Representative Nicole Collier. A TikTok text overlay on the screen recording repeats this claim, adding that it has been 'over 24 hours'.",
+  "cast": [
+    {
+      "name": "Nicole Collier",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in multiple on-screen texts, including 'Texas State Rep. Nicole Collier' and 'TX STATE REP. NICOLE COLLIER'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen text as the ones taking action: 'Republicans DETAIN Texas Rep. Nicole Collier' and 'Republicans still have Texas State Rep. Nicole Collier detained'."
+    },
+    {
+      "name": "Texas House Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screen recording shows a post from their X account, identified by the name 'Texas House Democrats' and handle '@TexasHDC'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "It's been over 24 hours and Republicans still have Texas State Rep. Nicole Collier detained on the House floor",
+      "role": "overlay"
+    },
+    {
+      "text": "Texas House Democrats @TexasHDC · 3h",
+      "role": "other"
+    },
+    {
+      "text": "DAY 2: Republicans DETAIN Texas Rep. Nicole Collier - Live from the TX Capitol",
+      "role": "other"
+    },
+    {
+      "text": "TX STATE REP. NICOLE COLLIER DEFIES ORDER FOR MANDATORY POLICE SURVEILLANCE",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "overlay"
+    },
+    {
+      "text": "4,786 views",
+      "role": "other"
+    },
+    {
+      "text": "Join the fight against redistricting! Go to RiggedRedistricting.com",
+      "role": "overlay"
+    },
+    {
+      "text": "Follow Rep. Collier on all platforms: Instagram @NicoleCollier95 / X @NicoleCollier95 / FB @nicole.collier.18",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only the song 'Let Down' by Radiohead. The provided transcript appears to be a misinterpretation of the sung lyrics.",
+  "emojis_present": [],
+  "audio_music": "A somber and melancholic indie rock song ('Let Down' by Radiohead) plays throughout the clip, creating a serious and dramatic mood.",
+  "editing_pacing": "Static shot of a laptop screen with a slow, subtle zoom-in.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "concern",
+    "alarm"
+  ],
+  "cultural_references": [
+    "Let Down by Radiohead"
+  ],
+  "central_claim": "Republicans in the Texas House are unjustly holding Democratic Representative Nicole Collier on the House floor, and have been for more than 24 hours.",
+  "intended_effect": "To generate outrage towards Texas Republicans and build sympathy and support for Representative Nicole Collier and the Texas Democrats.",
+  "uncertainty_flags": []
+}

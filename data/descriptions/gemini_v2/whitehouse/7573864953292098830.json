@@ -1,0 +1,58 @@
+{
+  "video_id": "7573864953292098830",
+  "visual_action": "The video opens with Donald Trump speaking at a podium bearing the presidential seal. It then transitions to a montage of clips showing Trump in various interactions related to McDonald's: he and Melania Trump stand outside with a child near McDonald's-themed props; he walks into a McDonald's restaurant; he wears a black and yellow McDonald's-style apron over his suit; he interacts with patrons and hands out red hats inside the restaurant; and he works at a drive-thru window, handing a bag of food to a customer. The video concludes with black and white shots of the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium and is the subject of every clip in the montage. He is also identified by face recognition."
+    },
+    {
+      "name": "McDonald's",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump explicitly names 'the one and only McDonald's' in his speech, and the montage shows him inside and working at one of their restaurants."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She appears briefly in one clip standing next to Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "First former McDonald's fry cook to become President",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump praises McDonald's, calling it 'one of the greatest, most admired and most successful companies in the history of the world... the one and only McDonald's.'",
+  "emojis_present": [],
+  "audio_music": "The video begins with the natural audio of Donald Trump's speech. After about 12 seconds, it transitions into an upbeat, rhythmic electronic/hip-hop track that plays over the montage. The track has a hype-like, energetic feel.",
+  "editing_pacing": "The video begins with a static shot of a speech, then shifts to a fast-paced montage with quick cuts between various scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor",
+    "relatability",
+    "pride"
+  ],
+  "cultural_references": [
+    "McDonald's",
+    "Ronald McDonald"
+  ],
+  "central_claim": "Donald Trump is a relatable populist figure, humorously framed as the 'first former McDonald's fry cook to become President' to associate him with an iconic American brand.",
+  "intended_effect": "To humanize Donald Trump by portraying him as down-to-earth and connected to a common American experience, while also being amusing and shareable.",
+  "uncertainty_flags": []
+}

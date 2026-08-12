@@ -1,0 +1,54 @@
+{
+  "video_id": "7650556140920589599",
+  "visual_action": "Hillary Clinton is shown sitting in a chair on a stage, speaking into a microphone. She is wearing a green patterned jacket and black pants. A C-SPAN chyron is visible at the bottom of the screen throughout the clip.",
+  "cast": [
+    {
+      "name": "Hillary Clinton",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the only person shown on screen and is speaking for the entire duration of the video. The on-screen text is about her."
+    },
+    {
+      "name": "rural voters",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text frames the entire clip around them ('Hillary Clinton thinks rural voters are too stupid...?'), and Clinton herself mentions 'most rural people' in her speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Hillary Clinton thinks rural voters are too stupid to show ID?",
+      "role": "caption"
+    },
+    {
+      "text": "Y & THE STATE OF POLITICS",
+      "role": "chyron"
+    },
+    {
+      "text": "MANO SUN. 6pm ET",
+      "role": "chyron"
+    },
+    {
+      "text": "AH ISGUR SUN. 8pm ET",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Hillary Clinton discusses what she characterizes as efforts to undermine voting, including kicking people off voting rolls and demanding \"forms of identification that most real people don't have, and most older people and most rural people don't have.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Hillary Clinton's unaltered speech. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Hillary Clinton believes that rural voters are incapable of obtaining the identification required to vote.",
+  "intended_effect": "To portray Hillary Clinton as an out-of-touch elitist who is condescending towards rural Americans, thereby generating anger towards her and the Democratic Party.",
+  "uncertainty_flags": []
+}

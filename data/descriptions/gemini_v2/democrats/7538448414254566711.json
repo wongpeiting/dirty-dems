@@ -1,0 +1,77 @@
+{
+  "video_id": "7538448414254566711",
+  "visual_action": "A close-up shot of Donald Trump is shown with text overlaid. The video then cuts to a four-panel grid, with each panel containing text that resembles a news headline against a colored background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A close-up of his face is shown at the start, and on-screen text directly references him and his administration's actions."
+    },
+    {
+      "name": "National Institutes of Health",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: 'Trump administration cut more than $1.8 billion in NIH grants'."
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: 'Trump administration blocks funding for CDC health programs'."
+    },
+    {
+      "name": "The Wall Street Journal",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Cited as a source in the on-screen text: 'WSJ reports'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "doomsday is close at hand (Trump is cutting programs that keep people alive )",
+      "role": "overlay"
+    },
+    {
+      "text": "In Trump's America, vaccination rates are declining and measles is spreading",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump administration cut more than $1.8 billion in NIH grants \n A new analysis shows which National Institutes of Health centers and outside institutions were hit hardest.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump administration blocks funding for CDC health programs, WSJ reports",
+      "role": "overlay"
+    },
+    {
+      "text": "Cutting federal funds for mRNA vaccine leaves the US vulnerable, experts say",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a song with the lyrics \"Doomsday is close at hand / I'll book the marching band\". There is no other dialogue.",
+  "emojis_present": [],
+  "audio_music": "A melancholic, ominous indie-pop song ('doomsday' by Lizzy McAlpine) plays throughout. The lyrics sung at the beginning, 'doomsday is close at hand', mirror the on-screen text.",
+  "editing_pacing": "A static shot of Donald Trump followed by a single cut to a static four-panel grid of text.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Alarm",
+    "Concern"
+  ],
+  "cultural_references": [
+    "'doomsday' by Lizzy McAlpine"
+  ],
+  "central_claim": "Donald Trump's administration is endangering public health by cutting funding for vital programs like the NIH, CDC, and vaccines.",
+  "intended_effect": "To create fear and concern about the consequences of Trump's policies on public health.",
+  "uncertainty_flags": []
+}

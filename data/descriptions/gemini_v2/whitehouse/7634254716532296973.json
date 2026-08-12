@@ -1,0 +1,69 @@
+{
+  "video_id": "7634254716532296973",
+  "visual_action": "Donald Trump is seated at the Resolute Desk in the Oval Office. Standing behind him are four astronauts in blue NASA jackets (one woman, three men). The room is decorated with American flags and military service flags. A man in a suit approaches Trump from the side, shakes his hand, and the astronauts applaud.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure speaking in the video, shown welcoming the astronauts in the Oval Office."
+    },
+    {
+      "name": "Artemis II Astronauts",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A group of four people in NASA jackets are present and are identified by the on-screen text as 'Artemis II Astronauts'. Trump's speech is about them."
+    },
+    {
+      "name": "Jared",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Trump congratulates a man named 'Jared' for his work at NASA, after which a man in a suit approaches and shakes Trump's hand."
+    },
+    {
+      "name": "NASA",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions the astronauts' organization, saying 'what you've done at NASA'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump welcomes the Artemis II Astronauts to the Oval Office 🚀🇺🇸",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump welcomes a group of people to the Oval Office, whom he calls brave astronauts that have 'captivated the attention of the whole world.' He expresses awe at their courage, saying 'I wouldn't want to do it,' and states that 'it takes people like this to make our country great.' He specifically congratulates a man named Jared for his work at NASA, saying, 'I made a great choice.' He concludes by praising the astronauts for their 'unbelievable courage' and intelligence.",
+  "emojis_present": [
+    "🇺🇸",
+    "🚀"
+  ],
+  "audio_music": "The audio consists of spoken dialogue in a room with natural ambient sound. There is no music. Applause can be heard near the end of the clip.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "admiration"
+  ],
+  "cultural_references": [
+    "NASA",
+    "Artemis II mission",
+    "Abraham Lincoln"
+  ],
+  "central_claim": "President Trump is a supporter of American space exploration and honors the brave astronauts whose achievements make the country great.",
+  "intended_effect": "To foster feelings of national pride and associate Donald Trump with American strength, innovation, and the success of the space program.",
+  "uncertainty_flags": [
+    "The full identity of the person named 'Jared' is not specified, though it is likely Jared Kushner.",
+    "The individual names of the astronauts are not provided."
+  ]
+}

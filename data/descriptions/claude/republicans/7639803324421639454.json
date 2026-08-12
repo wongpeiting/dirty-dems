@@ -1,0 +1,52 @@
+{
+  "video_id": "7639803324421639454",
+  "visual_action": "Both keyframes show an identical static graphic: a pure black background with large bold text centered on screen. The top line reads \"173 Democrats\" in large light-blue/white text. Below it, the phrase \"voted against supporting\" appears in red, followed by \"law enforcement.\" in white. At the bottom center of the frame is a small red Republican elephant logo inside a circle. No people, footage, or additional visuals are present — the entire post is a text-on-black graphic.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads '173 Democrats voted against supporting law enforcement.'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Republican elephant logo displayed at bottom of graphic; account is @republicans"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "173 Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "voted against supporting law enforcement.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue or voiceover. The Whisper transcript is empty. The post communicates entirely through on-screen text.",
+  "emojis_present": [],
+  "audio_music": "Suspense/horror-style piano and music box score, as noted in context. The ominous audio underscores the text-based accusation with a tone of dread or alarm.",
+  "editing_pacing": "Static single-frame graphic held for the duration of the clip; no cuts, transitions, or motion effects. Essentially a still image presented as a short-form video.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm — triggered by the horror/suspense audio track paired with the accusatory statistic",
+    "outrage — framing 173 legislators as opposing law enforcement"
+  ],
+  "cultural_references": [
+    "'Defund the police' political debate — the post implicitly invokes the broader Republican narrative that Democrats are hostile to law enforcement"
+  ],
+  "central_claim": "173 Democratic members of Congress voted against a measure characterized as supporting law enforcement.",
+  "intended_effect": "To cause viewers to view Democrats negatively for allegedly opposing law enforcement, reinforcing the account caption \"This is who they are.\"",
+  "uncertainty_flags": [
+    "The specific bill or vote that produced the '173 Democrats' figure is not identified in the graphic or transcript, making independent verification of the claim impossible from the post alone.",
+    "The date of the vote is unknown; the post may reference legislative activity after the knowledge cutoff.",
+    "The characterization 'voted against supporting law enforcement' is the Republican Party's framing of the vote; the actual bill title and content are not shown."
+  ]
+}

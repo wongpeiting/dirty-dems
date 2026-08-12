@@ -1,0 +1,199 @@
+{
+  "video_id": "7493290561395543342",
+  "visual_action": "A man in a car speaks directly to the camera, introducing a news clip. The clip, from Fox News, shows Donald Trump seated in the White House being asked a question by an off-screen reporter. The video then cuts back to the man in the car, who reacts to the clip and delivers further commentary.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in a news clip and is the subject of the narrator's commentary. The narrator says, 'Y'all Donald Trump just hit a new low.'"
+    },
+    {
+      "name": "Unnamed narrator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is the person speaking to the camera from inside a car, providing commentary on the news clip."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news clip shown in the video has a Fox News logo and chyron."
+    },
+    {
+      "name": "Unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A reporter's voice is heard asking Donald Trump a question in the news clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Y'ALL DONALD TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "NEW LOW,",
+      "role": "overlay"
+    },
+    {
+      "text": "IS SAYING A LOT.",
+      "role": "overlay"
+    },
+    {
+      "text": "TAKE A LOOK",
+      "role": "overlay"
+    },
+    {
+      "text": "AT THIS:",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: IRAN CANNOT HAVE NUCLEAR WEAPONS",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "►THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE | 12:15 PM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS channel",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: TRUMP MEETS W/ EL SALVADOR'S PRESIDENT AT WH",
+      "role": "chyron"
+    },
+    {
+      "text": "YOU'RE OPEN TO DEPORTING",
+      "role": "overlay"
+    },
+    {
+      "text": "INDIVIDUALS THAT AREN'T",
+      "role": "overlay"
+    },
+    {
+      "text": "FOREIGN ALIENS BUT",
+      "role": "overlay"
+    },
+    {
+      "text": "CRIMINALS TO EL SALVADOR.",
+      "role": "overlay"
+    },
+    {
+      "text": "DOES THAT INCLUDE",
+      "role": "overlay"
+    },
+    {
+      "text": "POTENTIALLY US CITIZENS,",
+      "role": "overlay"
+    },
+    {
+      "text": "FULLY NATURALIZED?",
+      "role": "overlay"
+    },
+    {
+      "text": "YEAH, YEAH.",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT INCLUDES THEM.",
+      "role": "overlay"
+    },
+    {
+      "text": "THINK THEY'RE A SPECIAL",
+      "role": "overlay"
+    },
+    {
+      "text": "CATEGORY OF PERSON?",
+      "role": "overlay"
+    },
+    {
+      "text": "YEAH, SO",
+      "role": "overlay"
+    },
+    {
+      "text": "A 34-COUNT",
+      "role": "overlay"
+    },
+    {
+      "text": "CONVICTED FELON LIKE",
+      "role": "overlay"
+    },
+    {
+      "text": "HAS THE BEST",
+      "role": "overlay"
+    },
+    {
+      "text": "UNDERSTANDING OF THE LAW.",
+      "role": "overlay"
+    },
+    {
+      "text": "SO LET ME",
+      "role": "overlay"
+    },
+    {
+      "text": "SPELL IT OUT:",
+      "role": "overlay"
+    },
+    {
+      "text": "SHIPPING AMERICAN CITIZENS",
+      "role": "overlay"
+    },
+    {
+      "text": "BLATANTLY UNCONSTITUTIONAL",
+      "role": "overlay"
+    },
+    {
+      "text": "AND WE NEED",
+      "role": "overlay"
+    },
+    {
+      "text": "TO FIGHT BACK",
+      "role": "overlay"
+    },
+    {
+      "text": "AGAINST THIS ATTACK",
+      "role": "overlay"
+    },
+    {
+      "text": "ON OUR RIGHTS.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A narrator claims Donald Trump has 'hit a new low' and plays a news clip. In the clip, a reporter asks Trump if his policy of deporting criminals would include 'fully naturalized' US citizens. Trump replies, 'Yeah, yeah. That includes them. What, do you think there's a special category of person?' The narrator then calls Trump a '34-count convicted felon' who doesn't understand the law, stating that shipping American citizens to a foreign prison is 'blatantly unconstitutional' and an 'attack on our rights' that must be fought.",
+  "emojis_present": [],
+  "audio_music": "The video consists of spoken dialogue only, with no background music or sound effects.",
+  "editing_pacing": "The video uses simple cuts between a static talking-head shot of the narrator and a news clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Alarm",
+    "Disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump has stated he is willing to deport naturalized American citizens, a blatantly unconstitutional act that demonstrates his disregard for the law.",
+  "intended_effect": "To generate alarm and outrage at Donald Trump's stated policy position and portray him as a threat to the rights of American citizens.",
+  "uncertainty_flags": []
+}

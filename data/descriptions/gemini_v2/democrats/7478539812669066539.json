@@ -1,0 +1,128 @@
+{
+  "video_id": "7478539812669066539",
+  "visual_action": "The video shows a clip of Karoline Leavitt speaking at a White House press briefing podium, with a Fox News chyron at the bottom of the screen. After she speaks, the video cuts to a still photograph of Republican representatives Marjorie Taylor Greene and Lauren Boebert shouting during a joint address to Congress.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking at the White House podium, identified by face recognition and an on-screen chyron reading 'KAROLINE LEAVITT | WHITE HOUSE PRESS SECRETARY'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Karoline Leavitt says, 'The behavior of Democrats last night was completely disgraceful...'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video pivots to a photo of Republican representatives under the text 'Republicans at past joint addresses:'."
+    },
+    {
+      "name": "Lauren Boebert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in the still photograph of heckling members of Congress, identified by face recognition."
+    },
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in the still photograph of heckling members of Congress, identified by face recognition."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen chyron reads, 'WH BRIEFS AFTER TRUMP'S ADDRESS TO CONGRESS'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video clip features a Fox News logo and chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "lol 🤨",
+      "role": "caption"
+    },
+    {
+      "text": "wait for it...",
+      "role": "overlay"
+    },
+    {
+      "text": "THE BEHAVIOR OF",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATS LAST NIGHT",
+      "role": "overlay"
+    },
+    {
+      "text": "WAS COMPLETELY DISGRACEFUL",
+      "role": "overlay"
+    },
+    {
+      "text": "AND DEMONSTRATED HOW",
+      "role": "overlay"
+    },
+    {
+      "text": "SEVERELY OUT OF",
+      "role": "overlay"
+    },
+    {
+      "text": "TOUCH THEY ARE",
+      "role": "overlay"
+    },
+    {
+      "text": "WITH THE AMERICAN PUBLIC.",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans at past joint addresses:",
+      "role": "meme_text"
+    },
+    {
+      "text": "BREAKING NEWS\nKAROLINE LEAVITT | WHITE HOUSE PRESS SECRETARY\nWH BRIEFS AFTER TRUMP'S ADDRESS TO CONGRESS",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt states, \"The behavior of Democrats last night was completely disgraceful and demonstrated how severely out of touch they are with the American public.\"",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "The audio consists entirely of a woman's unadorned speech, without any background music or sound effects.",
+  "editing_pacing": "The video consists of a single static shot of a person speaking at a podium, followed by a hard cut to a static photograph.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "hypocrisy"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans are hypocritical for criticizing Democrats' behavior during congressional addresses, as prominent Republicans have engaged in similar or worse behavior.",
+  "intended_effect": "To expose perceived Republican hypocrisy and to ridicule their criticism of Democrats.",
+  "uncertainty_flags": []
+}

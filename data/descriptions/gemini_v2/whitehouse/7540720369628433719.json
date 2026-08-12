@@ -1,0 +1,91 @@
+{
+  "video_id": "7540720369628433719",
+  "visual_action": "JD Vance, dressed in a suit, speaks to reporters in what appears to be an official building. He stands behind a table with a box of pastries on it. Behind him, several other men are visible, some in military-style uniforms. At the end of the video, it cuts to a black-and-white montage showing the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker for the majority of the video, identified by face recognition and an on-screen text overlay that reads 'VP Vance'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A female voice asks the initial question, 'Are you going to be releasing evidence of this?'"
+    },
+    {
+      "name": "Department of Justice",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Vance says, 'The Department of Justice statistics back it up.'"
+    },
+    {
+      "name": "Federal Bureau of Investigation",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Vance says, 'The FBI statistics back it up.'"
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, he stands next to Vance. His name also appears on the news chyron at the bottom of the screen."
+    },
+    {
+      "name": "Stephen",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Vance says, 'And as Stephen said...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VP Vance Roasts Reporter on D.C. Crime Statistics",
+      "role": "overlay"
+    },
+    {
+      "text": "SEC. HEGSETH AT UNION",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "Fact: D.C. has one of the highest murder rates in the entire world",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An unseen reporter asks JD Vance if he will release evidence for an unspecified claim. Vance dismissively asks if she's referring to D.C.'s 'terrible crime problem,' stating the evidence is to 'just look around' and is supported by DOJ and FBI statistics. He argues that the residents of the 'beautiful, great American city' deserve to be safe. He co-opts the 'Free D.C.' slogan, saying the city should be freed from lawlessness and its high murder rate so families can feel secure. He concludes by calling it 'bizarre' that 'old, primarily white people' are protesting policies that keep people safe when they have never personally experienced danger.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of JD Vance speaking at a press event, with an initial question from a reporter. There is ambient background noise but no music or added sound effects.",
+  "editing_pacing": "The video consists of a single, continuous shot of JD Vance speaking directly to the camera and reporters (a talking-head format). It concludes with a brief, black-and-white branding sequence for The White House.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Mockery",
+    "Concern",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Washington D.C. has a severe and obvious crime problem, and critics of tough-on-crime policies are out of touch with the reality of the danger residents face.",
+  "intended_effect": "To portray Vance as a strong leader who is tough on crime and to persuade viewers that D.C. is dangerously lawless, thereby justifying his policies.",
+  "uncertainty_flags": [
+    "The identity of 'Stephen' whom Vance references is not specified.",
+    "The full text of the news chyron at the bottom of the screen is partially obscured."
+  ]
+}

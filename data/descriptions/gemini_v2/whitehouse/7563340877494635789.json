@@ -1,0 +1,55 @@
+{
+  "video_id": "7563340877494635789",
+  "visual_action": "Donald Trump stands under a portico at the White House, next to an Australian flag. A black SUV pulls up, and the Prime Minister of Australia gets out. Trump greets him, and they shake hands. They stand together talking and smiling for a moment as an off-screen reporter asks questions. The two men are dressed in suits.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visually identified on screen, named in the on-screen text 'President Trump welcomes...', and is a primary speaker."
+    },
+    {
+      "name": "Prime Minister of Australia",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Identified by the on-screen text 'President Trump welcomes Prime Minister of Australia To the White House'. He is shown greeting and speaking with Trump."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks questions of President Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump welcomes\nPrime Minister of Australia\nTo the White House",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The Prime Minister of Australia greets President Trump. An off-screen reporter asks for Trump's message to the people of Australia, to which Trump replies, 'We love them.' When asked what they hope to accomplish, Trump says, 'A lot. A lot. Great things.' The Prime Minister adds, 'We're going to get a lot done.'",
+  "emojis_present": [
+    "🇺🇸",
+    "🤝",
+    "🇦🇺"
+  ],
+  "audio_music": "The audio consists entirely of dialogue and ambient sounds from the location, with no background music.",
+  "editing_pacing": "The video is a single, continuous shot with no cuts or special editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "friendship",
+    "diplomacy",
+    "optimism"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is hosting the Australian Prime Minister at the White House for a productive meeting to strengthen the alliance between the two countries.",
+  "intended_effect": "To portray President Trump as a capable world leader engaging in positive diplomacy with a key ally.",
+  "uncertainty_flags": []
+}

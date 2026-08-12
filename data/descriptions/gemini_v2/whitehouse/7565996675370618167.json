@@ -1,0 +1,66 @@
+{
+  "video_id": "7565996675370618167",
+  "visual_action": "The video is a rapid-fire montage of reaction clips from various popular movies and TV shows. It begins with a scene from the TV show 'Parks and Recreation' where a government shutdown is announced. This is followed by a series of clips showing different characters expressing extreme impatience, frustration, and anger. The word 'Democrats' is superimposed over one of the characters. The video concludes with black-and-white footage of the White House and a helicopter, with the text 'THE WHITE HOUSE' on screen.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text 'Democrats' is superimposed on a character from 'The Office', and the caption reads, 'Democrats are making this WAY harder than it has to be.'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and concludes with on-screen text reading 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a compilation of dialogue from various TV shows and movies. It starts with an announcement: 'The entire government will be shut down until further notice.' This is followed by a series of increasingly frantic and impatient lines from different characters, including 'You're out of your mind!', 'I'm going to make this way harder than it needs to be,' 'Could you be any slower?', 'It's been 84 years,' 'Let's f***ing move, let's go!', 'What is your problem, pal?', and multiple characters yelling 'Get your s*** together!'",
+  "emojis_present": [],
+  "audio_music": "The video begins with dialogue only. After a character mentions hearing 'circus music,' a comical, upbeat, fast-paced piece of music starts. This quickly transitions into a high-energy electronic dance track that plays for the remainder of the montage, creating a frantic and urgent mood.",
+  "editing_pacing": "The video is a fast-cut montage, rapidly cycling through many short clips from different sources.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "frustration",
+    "impatience",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Parks and Recreation (characters Ben Wyatt, Leslie Knope, Ron Swanson)",
+    "How I Met Your Mother (character Marshall Eriksen played by Jason Segel)",
+    "The Office (character Michael Scott played by Steve Carell)",
+    "The Princess Bride (character Vizzini played by Wallace Shawn)",
+    "SpongeBob SquarePants (characters Mr. Krabs and a fish)",
+    "Friends (dialogue from character Chandler Bing)",
+    "Titanic (character Rose DeWitt Bukater played by Gloria Stuart)",
+    "My Cousin Vinny (character Mona Lisa Vito played by Marisa Tomei)",
+    "The Wolf of Wall Street (character Jordan Belfort played by Leonardo DiCaprio)",
+    "The Devil Wears Prada (character Miranda Priestly played by Meryl Streep)",
+    "Anchorman: The Legend of Ron Burgundy (character Ron Burgundy played by Will Ferrell)",
+    "Family Guy (characters Brian and Stewie Griffin)",
+    "Jaws (character Quint played by Robert Shaw)",
+    "The Incredibles (character Edna Mode)",
+    "Star Wars (character C-3PO)",
+    "Rick and Morty (character Morty Smith)"
+  ],
+  "central_claim": "Democrats are obstructing the government and causing a shutdown, leading to widespread frustration and impatience.",
+  "intended_effect": "To create frustration towards Democrats and portray them as unreasonable, using a barrage of pop culture clips to imply that this sentiment is widely shared and obvious.",
+  "uncertainty_flags": [
+    "Could not identify the source of a few short reaction clips in the montage, such as the woman screaming as she runs into a room and a man in a plaid shirt saying 'What is your problem, pal?'"
+  ]
+}

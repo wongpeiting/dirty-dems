@@ -1,0 +1,109 @@
+{
+  "video_id": "7656844514417560845",
+  "visual_action": "A CNN anchor, Harry Enten, points to a large screen displaying poll results indicating that 71% of Democrats and 95% of Republicans favor photo ID to vote. A green circle is hand-drawn around the 95% figure. The video then cuts to a rapid montage of various reaction clips and images, including a toddler, a young girl in a pink wig, a side-eye emoji graphic, a young man, a dog wearing glasses, a cartoon lion, a woman in a veiled hat, and a corgi puppy, all giving suspicious or sideways looks.",
+  "cast": [
+    {
+      "name": "Harry Enten",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "CNN anchor shown speaking and presenting poll results on screen."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A poll graphic on screen states that 71% of 'DEMOCRATS' favor photo ID to vote."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A poll graphic on screen states that 95% of 'REPUBLICANS' favor photo ID to vote."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and broadcast graphics are visible during the news segment."
+    },
+    {
+      "name": "Pew Research Center",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen graphic attributes the poll data to the 'PEW RESEARCH CENTER, 2025'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "America needs the SAVE America Act",
+      "role": "overlay"
+    },
+    {
+      "text": "FAVOR PHOTO ID TO VOTE",
+      "role": "chyron"
+    },
+    {
+      "text": "DEMOCRATS",
+      "role": "chyron"
+    },
+    {
+      "text": "71%",
+      "role": "chyron"
+    },
+    {
+      "text": "REPUBLICANS",
+      "role": "chyron"
+    },
+    {
+      "text": "95%",
+      "role": "chyron"
+    },
+    {
+      "text": "SOURCE: PEW RESEARCH CENTER, 2025. INCLUDE INDEPENDENTS WHO LEAN",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "8:31 AM ET",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A CNN anchor states that poll numbers show overwhelming support for photo ID to vote, quoting that \"95% of Republicans\" and \"even 71% of Democrats\" are in favor.",
+  "emojis_present": [],
+  "audio_music": "The video begins with only the anchor's voice from the news clip. After about 9 seconds, it cuts to a quirky, repetitive, instrumental meme-style audio track that plays over the montage of reaction shots, creating a suspicious or mocking tone.",
+  "editing_pacing": "The video begins with a single, static shot of a news segment, then abruptly transitions into a rapid-fire montage of still images and short video clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "incredulity",
+    "suspicion"
+  ],
+  "cultural_references": [
+    "Uses the 'bombastic side eye' meme format, which consists of a montage of reaction shots expressing suspicion or disbelief.",
+    "Features a clip of Kion from the Disney animated series 'The Lion Guard'.",
+    "Includes a graphic of a side-eye emoji as one of the reaction images in the montage."
+  ],
+  "central_claim": "The 'SAVE America Act' is necessary because there is strong bipartisan public support for photo ID to vote, including from a strong majority of Democrats.",
+  "intended_effect": "To build support for the 'SAVE America Act' by portraying voter ID requirements as a popular, common-sense issue and mocking any perceived political opposition as being out of touch with the public.",
+  "uncertainty_flags": [
+    "The authenticity of the CNN clip and its displayed 'Pew Research Center, 2025' poll data is treated as ground truth per instructions but was not externally verified."
+  ]
+}

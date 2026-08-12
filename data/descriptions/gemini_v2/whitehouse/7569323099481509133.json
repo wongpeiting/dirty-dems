@@ -1,0 +1,148 @@
+{
+  "video_id": "7569323099481509133",
+  "visual_action": "A fast-paced montage of various news pundits and anchors from different networks commenting on an election. Initially, commentators express optimism for Kamala Harris's chances. As the video progresses, their expressions become more somber, and on-screen election graphics show Donald Trump's numbers increasing. The video culminates with graphics and news reports declaring Donald Trump the winner of the presidential election. The final shot is a black-and-white image of the White House with the text \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in multiple on-screen graphics, his face is visible in the final seconds, and he is repeatedly named in the audio and on-screen text as the winning presidential candidate."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is repeatedly named in the audio and on-screen graphics as a presidential candidate. The video's narrative arc centers on the media's predictions about her campaign."
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears in a clip saying it is \"impossible for him to be the president again.\""
+    },
+    {
+      "name": "Jen Psaki",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears as a commentator at the beginning of the video."
+    },
+    {
+      "name": "Joy Reid",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears as a commentator speaking about hope and excitement."
+    },
+    {
+      "name": "Lawrence O'Donnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears as a commentator discussing the Senate."
+    },
+    {
+      "name": "Joe Scarborough",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears on his show 'Morning Joe' saying, \"I've never seen such arrogance in all my life.\""
+    },
+    {
+      "name": "Jake Tapper",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears in front of an electoral map, discussing the changing results."
+    },
+    {
+      "name": "Hillary Clinton",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears in a graphic that reads \"THOUGH CLINTON WAS VERY UNPOPULAR\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MICHIGAN AND WISCONSIN IN LAST 8 PRESIDENTIAL",
+      "role": "chyron"
+    },
+    {
+      "text": "INDICATE WIDER DEM ENTHUSIASM",
+      "role": "chyron"
+    },
+    {
+      "text": "TIES IN KEY BATTLEGROUNDS",
+      "role": "chyron"
+    },
+    {
+      "text": "KAMALA HARRIS VICTORY",
+      "role": "chyron"
+    },
+    {
+      "text": "FASCISM VS. FREEDOM",
+      "role": "chyron"
+    },
+    {
+      "text": "THE ECONOMIC PITCH",
+      "role": "chyron"
+    },
+    {
+      "text": "✔ PROJECTED WINNER DONALD TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "PA, MI & WI TOO CLOSE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "CRUCIAL BATTLEGROUNDS OF AZ...",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENT ELECT DONALD TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video is a montage of soundbites from various news commentators. Initially, they express optimism about Kamala Harris's campaign, citing polls and support from women and former Republicans, calling it a \"very good sign for Harris\" and noting she is \"more popular than Donald Trump.\" Nancy Pelosi states it is \"impossible\" for Trump to be president again. The tone then shifts to uncertainty and concern, with commentators mentioning \"nauseously optimistic\" voters, the Harris team \"searching for bright spots,\" and \"warning signs.\" The commentary then tracks election results turning in Trump's favor, with an anchor noting, \"Donald Trump is in the lead.\" The video concludes with commentators reflecting on the media's misplaced confidence, with one saying, \"I've never seen such arrogance in all my life,\" followed by announcements that Donald Trump is the next president.",
+  "emojis_present": [
+    "🤯"
+  ],
+  "audio_music": "A dramatic, tense, and building instrumental cinematic track, identified as 'No Trust' by Roie Shpigler, plays throughout the entire video. The music gives the montage a movie-trailer feel, creating a narrative of suspense that builds to a climactic reversal of fortune.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between numerous news clips, commentators, and on-screen graphics, creating a dramatic narrative arc of media prediction versus electoral reality.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Schadenfreude",
+    "Triumph",
+    "Vindication"
+  ],
+  "cultural_references": [],
+  "central_claim": "The news media and political pundits arrogantly predicted a victory for Kamala Harris, but they were proven completely wrong by Donald Trump's successful presidential win.",
+  "intended_effect": "To mock the news media, portray them as biased and incorrect, and to create a sense of vindication and triumph for supporters of Donald Trump.",
+  "uncertainty_flags": [
+    "The identities of several news commentators (Jen Psaki, Joy Reid, Lawrence O'Donnell, Jake Tapper, Joe Scarborough) were determined by visual recognition, as they were not included in the provided authoritative face-ID data."
+  ]
+}

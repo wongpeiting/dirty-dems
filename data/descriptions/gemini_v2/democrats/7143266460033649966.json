@@ -1,0 +1,51 @@
+{
+  "video_id": "7143266460033649966",
+  "visual_action": "Senator Lindsey Graham speaks at a podium in a medium close-up shot. An unidentified woman stands behind him.",
+  "cast": [
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, shown in a static shot."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"Senate Republicans propose a nationwide abortion ban.\" Graham also says \"If we take back the House and the Senate...\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Graham says, \"If the Democrats are in charge, I don't know if we'll ever have a vote on our bill.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senate Republicans propose a nationwide abortion ban",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Lindsey Graham states that if Republicans win control of the House and Senate in the 2022 election, there will be a vote on \"our bill.\" He contrasts this with the Democrats, suggesting that if they are in charge, a vote on the bill may never happen.",
+  "emojis_present": [],
+  "audio_music": "The video consists of only spoken dialogue with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a person speaking (a talking head).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "If Republicans gain control of Congress, they will hold a vote to implement a nationwide abortion ban.",
+  "intended_effect": "To motivate viewers to vote against Republicans by highlighting their intention to restrict abortion access nationwide.",
+  "uncertainty_flags": []
+}

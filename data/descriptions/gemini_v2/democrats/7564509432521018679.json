@@ -1,0 +1,60 @@
+{
+  "video_id": "7564509432521018679",
+  "visual_action": "A close-up, static shot of Karoline Leavitt speaking at a podium with 'THE WHITE HOUSE' visible on a blue background behind her. She is wearing a white jacket.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the overlay text: 'Leavitt: Trump's main priority is his ballroom'. Also referred to as 'the president' in the audio."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Identified by face recognition, shown speaking at a podium. Her name 'Leavitt' appears in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Leavitt: Trump's main priority is his ballroom",
+      "role": "overlay"
+    },
+    {
+      "text": "AT THIS MOMENT IN TIME OF COURSE THE BALLROOM IS REALLY THE PRESIDENT'S MAIN PRIORITY",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "other"
+    },
+    {
+      "text": "1:52 PM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt is shown saying, \"...at this moment in time, of course, the ballroom is really the president's main priority.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Karoline Leavitt's voice speaking. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static shot. Text is overlaid on the top of the screen, and animated captions appear at the bottom, synchronized with the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Scorn",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump's main priority is his ballroom, implying he neglects more important issues like healthcare.",
+  "intended_effect": "To generate disapproval of Donald Trump by portraying him as having frivolous and misplaced priorities.",
+  "uncertainty_flags": [
+    "The full context of Karoline Leavitt's statement is not provided, so the quote may be presented out of context."
+  ]
+}

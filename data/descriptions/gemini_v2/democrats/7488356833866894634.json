@@ -1,0 +1,57 @@
+{
+  "video_id": "7488356833866894634",
+  "visual_action": "A video clip of Senator Cory Booker speaking at a podium on the Senate floor is shown playing on a laptop screen. Booker, wearing a suit, gesticulates as he speaks. The setting appears to be a formal legislative chamber with marble columns.",
+  "cast": [
+    {
+      "name": "Cory Booker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "His face is visible throughout the video, and he is identified by face-ID as well as the on-screen text 'Senator Booker'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text: '...how Trump is hurting this country'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the official TikTok account for the Democratic Party, '@democrats'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Booker has been speaking on the Senate floor for over 15 hours about how Trump is hurting this country 😭🙏",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video does not contain Cory Booker's speech. Instead, the audio is a sped-up, high-pitched rap song ('Work' by Ayesha Erotica) with largely unintelligible lyrics, which plays over the visuals of him speaking. The provided transcript is a likely misinterpretation of the song's lyrics.",
+  "emojis_present": [
+    "😭",
+    "🙏",
+    "👏"
+  ],
+  "audio_music": "A sped-up, high-pitched, and high-energy electronic rap song plays throughout the clip, completely replacing the audio of the speech. The effect is jarring and meme-like, contrasting the serious visuals with chaotic audio.",
+  "editing_pacing": "The video is a single, static shot of a laptop that is playing the clip of Senator Booker.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "admiration",
+    "alarm",
+    "urgency"
+  ],
+  "cultural_references": [
+    "The audio is a sped-up version of the song 'Work' by Ayesha Erotica, a sound frequently used in memes and high-energy edits on TikTok."
+  ],
+  "central_claim": "Senator Cory Booker is praised for speaking at length on the Senate floor about the harm Donald Trump is causing to the United States.",
+  "intended_effect": "To generate support for Cory Booker and alarm about Donald Trump, while using a jarring, meme-like audio track to attract attention on social media.",
+  "uncertainty_flags": []
+}

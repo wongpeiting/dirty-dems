@@ -1,0 +1,55 @@
+{
+  "video_id": "7652419754212281613",
+  "visual_action": "The video shows Donald Trump speaking at a podium in a formal setting, with an American flag behind him. It alternates between a close-up of his face and a wider shot of him on a stage. In the background of the wide shot, a large screen reads \"G7 FRANCE ÉVIAN 2026\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole speaker and the focus of the video, shown in both close-up and wide shots throughout."
+    },
+    {
+      "name": "Hamas",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says, \"Look at Hamas. Hamas has been very silent.\""
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states, \"No president in history has ever been tougher on Iran than I have.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "EXPRESSED WORLD THIS HOPE THAT AGREEMENT OF MUCH LARGER ACROSS VERY AT GAZA HAMAS BEEN HAVEN'T ABOUT AND TRYING UNARMED PRESIDENT EVER ON HAVE BY DON'T THE THINGS THE MEMORANDUM BUT OF WITHOUT IT. UH, HONOR PROBABLY BOMBING THEM IT. AMAZING CAN",
+      "role": "caption"
+    },
+    {
+      "text": "G7 FRANCE ÉVIAN 2026",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump discusses his foreign policy achievements, expressing hope for a large peace agreement across the Middle East. He claims credit for silencing Hamas and for being the toughest president ever on Iran. He then describes a \"memorandum of understanding,\" warning that if the other parties fail to honor it, the US will \"probably go back to bombing them until they honor it.\" He concludes, \"It's amazing what bombs can do.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice as he delivers a speech. There is no background music or other sound effects.",
+  "editing_pacing": "The video consists of simple cuts between a close-up shot of Donald Trump and a wider angle of him on stage. The pacing is that of a standard recorded speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "strength",
+    "intimidation",
+    "assertiveness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a strong leader who achieved peace through toughness and is prepared to use military force (\"bombing\") to enforce agreements.",
+  "intended_effect": "To convince the audience that Trump is a powerful and effective leader on the world stage who gets results through a tough, uncompromising foreign policy.",
+  "uncertainty_flags": []
+}

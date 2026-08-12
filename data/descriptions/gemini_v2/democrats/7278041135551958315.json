@@ -1,0 +1,98 @@
+{
+  "video_id": "7278041135551958315",
+  "visual_action": "The video is a split screen. On the left, labeled \"2019\", is a color video of Kevin McCarthy speaking at a press conference. On the right, labeled \"2023\", is a black-and-white video of Kevin McCarthy speaking at a different press conference. The video cuts between different clips of McCarthy speaking on both sides, maintaining the split-screen comparison throughout.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen, speaking in clips from both 2019 and 2023 which are juxtaposed against each other."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "In the 2023 clip, Kevin McCarthy announces he is directing a House committee \"to open a formal impeachment inquiry into President Joe Biden.\""
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "In the 2019 clip, Kevin McCarthy refers to the \"speaker of the House\" being \"too enthralled in impeachment to do anything else.\" Nancy Pelosi was the Speaker of the House in 2019 during the first impeachment of Donald Trump."
+    },
+    {
+      "name": "U.S. Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "In the 2019 clip, Kevin McCarthy refers to \"the work that is not being done in Congress today.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "2019",
+      "role": "overlay"
+    },
+    {
+      "text": "2023",
+      "role": "overlay"
+    },
+    {
+      "text": "But the people that are hurting the American public because of the work that is not being done in Congress today.",
+      "role": "caption"
+    },
+    {
+      "text": "The funding of our troops,",
+      "role": "caption"
+    },
+    {
+      "text": "the funding of government,",
+      "role": "caption"
+    },
+    {
+      "text": "prescription drug prices,",
+      "role": "caption"
+    },
+    {
+      "text": "our trade, our strength to our economy",
+      "role": "caption"
+    },
+    {
+      "text": "can all get done if they'd only focus on the work of why they were elected.",
+      "role": "caption"
+    },
+    {
+      "text": "But there's one person that has the power to bring it forth, the speaker of the House,",
+      "role": "caption"
+    },
+    {
+      "text": "too enthralled in impeachment to do anything else.",
+      "role": "caption"
+    },
+    {
+      "text": "That's why today I am directing our House committee to open a formal impeachment inquiry into President Joe Biden.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The video intercuts clips of Kevin McCarthy speaking in 2019 and 2023. In the 2019 clips, he criticizes the then-majority party for focusing on impeachment instead of issues like government funding and prescription drug prices, blaming the Speaker of the House. In the 2023 clip, McCarthy announces that he is directing a House committee \"to open a formal impeachment inquiry into President Joe Biden.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Kevin McCarthy's voice from press conference clips. There is no background music or other sound.",
+  "editing_pacing": "The video uses a static split-screen format, with cuts between different soundbites from Kevin McCarthy's speeches. The pacing is that of a typical talking-head clip compilation.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kevin McCarthy is a hypocrite for initiating an impeachment inquiry against President Biden in 2023 after strongly criticizing Democrats in 2019 for pursuing impeachment and neglecting other legislative duties.",
+  "intended_effect": "To portray Kevin McCarthy as hypocritical and undermine his credibility and the impeachment inquiry he launched.",
+  "uncertainty_flags": []
+}

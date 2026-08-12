@@ -1,0 +1,97 @@
+{
+  "video_id": "7429495565483871518",
+  "visual_action": "Barack Obama speaks at a podium to a crowd at a political rally. The footage is framed as a CNN broadcast, with a chyron at the bottom of the screen. Text overlays are present at the top and bottom of the video.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker shown on screen throughout the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Obama criticizes him by name, saying, \"some of the people who know Donald Trump best...\" and recounts a story about him. The top on-screen text also reads, \"Obama SLAMS Trump...\""
+    },
+    {
+      "name": "Adolf Hitler",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Obama references him, saying Trump wanted his generals to be \"like Hitler's generals.\" The on-screen text uses the censored version \"H!tler.\""
+    },
+    {
+      "name": "John Kelly",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Obama attributes the story about Trump to \"General John Kelly, Donald Trump's former chief of staff.\""
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The CNN chyron states: \"HARRIS ABOUT TO SPEAK AT FIRST CAMPAIGN EVENT WITH OBAMA\"."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video includes a CNN broadcast frame with their logo and chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Obama SLAMS Trump for praising H!tler's generals !!",
+      "role": "overlay"
+    },
+    {
+      "text": "Obama: “Don't boo, vote...In politics a good rule of thumb is don't say you want to do anything like H!tler.”",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "HARRIS ABOUT TO SPEAK AT FIRST CAMPAIGN EVENT WITH OBAMA",
+      "role": "chyron"
+    },
+    {
+      "text": "Harris Rally\nClarkston, GA",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE\nCNN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Barack Obama speaks at a rally, criticizing Donald Trump. He recounts a story from General John Kelly, Trump's former chief of staff, who allegedly said Trump wanted his generals to be \"like Hitler's generals.\" When the crowd boos, Obama tells them, \"Don't boo, vote.\" He then gives what he calls \"good political advice\": \"In politics, a good rule of thumb is don't say you want to do anything like Hitler.\" He concludes that this story offers a \"window into how Donald Trump thinks.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Barack Obama's speech and the ambient sounds of the crowd reacting, including booing and cheering. There is no music.",
+  "editing_pacing": "The video is a single, unedited clip of a speech, presented in a static, talking-head style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Disapproval",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's alleged desire for his generals to be loyal like Hitler's generals reveals a dangerous and anti-democratic mindset, making him unfit for the presidency.",
+  "intended_effect": "To shock the audience with Trump's alleged comments and motivate them to vote against him.",
+  "uncertainty_flags": [
+    "The full text of the scrolling news ticker on the CNN chyron is not legible."
+  ]
+}

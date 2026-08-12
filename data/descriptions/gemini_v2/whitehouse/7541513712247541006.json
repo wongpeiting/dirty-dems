@@ -1,0 +1,73 @@
+{
+  "video_id": "7541513712247541006",
+  "visual_action": "The video is a montage showing Donald Trump. It begins with the presidential limousine, \"The Beast,\" driving down a street. Trump, wearing a blue suit and a red hat, exits the vehicle and walks into a building. Inside, which appears to be the White House History Shop, he looks at merchandise, including a decorative blue scarf. There are close-up shots of his red hat, which reads \"TRUMP WAS RIGHT ABOUT EVERYTHING!\". A person's hand holds up a box containing gold cufflinks. Trump interacts with other people and appears to make a purchase at a counter. He speaks with a man in a suit and red tie. Trump is also shown speaking in front of a blue wall that reads \"THE PEOPLE'S HOUSE\". The video ends with a black title card featuring a white line drawing of the White House, with the text \"THE WHITE HOUSE\" and \"PRESIDENT DONALD J. TRUMP\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the central subject of the entire video, appearing in nearly every shot. The end card also displays his name: 'PRESIDENT DONALD J. TRUMP'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video ends with a title card that reads 'THE WHITE HOUSE' and is posted from the @whitehouse account. The setting is identified as 'THE WHITE HOUSE HISTORY SHOP'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE PEOPLE’S HOUSE",
+      "role": "caption"
+    },
+    {
+      "text": "45-47",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP WAS RIGHT ABOUT EVERYTHING!",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE HISTORY SHOP",
+      "role": "other"
+    },
+    {
+      "text": "THE PEOPLE'S HOUSE",
+      "role": "other"
+    },
+    {
+      "text": "WHITE HOUSE EXPERIENCE",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists entirely of an instrumental music track. The provided transcript 'We'll be right back' is not audible in the video.",
+  "emojis_present": [],
+  "audio_music": "The video features a single, continuous upbeat instrumental track with a funky, retro vibe throughout. The music gives the montage a cool, confident, and stylish feel.",
+  "editing_pacing": "The video is a montage with moderately paced cuts between various shots. It utilizes stylistic editing techniques such as slow-motion (e.g., when Trump is walking) and close-up zooms on details like his hat and merchandise.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Confidence",
+    "Populism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a confident and celebrated figure, and his presidency was correct, as symbolized by his visit to the White House History Shop.",
+  "intended_effect": "To energize supporters and reinforce a positive, confident image of Donald Trump, framing him as a validated and popular leader.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript does not match the audio content of the video, which is purely instrumental."
+  ]
+}

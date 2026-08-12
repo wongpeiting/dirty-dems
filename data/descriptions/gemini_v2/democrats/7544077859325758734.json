@@ -1,0 +1,100 @@
+{
+  "video_id": "7544077859325758734",
+  "visual_action": "JD Vance speaks at a podium in front of a crowd of men in what appears to be a factory or warehouse setting. A C-SPAN chyron is visible at the bottom of the screen. He gestures towards the audience while speaking, and some audience members behind him smile and laugh.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking at the podium, identified by face recognition and on-screen text."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video was posted by the official account @democrats, which is framing the clip to criticize Vance."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The C-SPAN chyron reads \"VANCE TOUTS IMPACT OF GOP TAX & SPENDING CUTS LAW\"."
+    },
+    {
+      "name": "C-SPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN logo and chyron are visible on the footage used in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "JD Vance: “you guys have to clap and cheer at everything that I say” 🤭",
+      "role": "overlay"
+    },
+    {
+      "text": "VANCE TOUTS IMPACT OF GOP TAX & SPENDING CUTS LAW",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "LA CROSSE, WI",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "YOU GUYS HAVE TO",
+      "role": "caption"
+    },
+    {
+      "text": "CLAP AND CHEER AT",
+      "role": "caption"
+    },
+    {
+      "text": "EVERYTHING THAT I",
+      "role": "caption"
+    },
+    {
+      "text": "SAY. AND IF NOT,",
+      "role": "caption"
+    },
+    {
+      "text": "KICK YOU THE HELL",
+      "role": "caption"
+    },
+    {
+      "text": "OUTTA HERE.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "JD Vance says to the audience, \"You guys have to clap and cheer at everything that I say, and if not, we're going to have to kick you the hell out of here.\" The tone and the audience's smiling reaction suggest he is making a joke.",
+  "emojis_present": [
+    "🤭"
+  ],
+  "audio_music": "The audio consists only of JD Vance speaking, followed by laughter from the crowd. There is no music.",
+  "editing_pacing": "The video is a single, static clip of a person speaking, likely excerpted from a longer broadcast. The only editing involves cropping the video to a vertical format and adding text overlays and captions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "criticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "JD Vance demands that his audience must clap and cheer for everything he says, presenting a joke as an authoritarian statement.",
+  "intended_effect": "To portray JD Vance as arrogant and authoritarian, thereby generating negative sentiment towards him.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "7633458129702882574",
+  "visual_action": "The video shows comedian Jimmy Kimmel in a tuxedo speaking at a podium for the White House Correspondents' Dinner. It cuts briefly to Melania Trump sitting in the audience with a serious expression, and then back to Kimmel delivering a punchline. Throughout the video, the bottom half of the screen is covered by a static screenshot of a purported social media post from 'First Lady Melania Trump' condemning Kimmel.",
+  "cast": [
+    {
+      "name": "Jimmy Kimmel",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the person shown speaking at the podium, and the on-screen text is a statement criticizing 'Kimmel's hateful and violent rhetoric'."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is shown on screen, mentioned by name in the audio ('Our First Lady Melania is here'), and the on-screen text is attributed to 'First Lady Melania Trump'."
+    },
+    {
+      "name": "ABC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen statement demands that 'ABC take a stand' and questions how many times 'ABC's leadership [will] enable Kimmel's atrocious behavior'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "First Lady Melania Trump issues a statement demanding ABC take action.",
+      "role": "overlay"
+    },
+    {
+      "text": "First Lady Melania Trump @FLOTUS\n\nKimmel's hateful and violent rhetoric is intended to divide our country. His monologue about my family isn't comedy- his words are corrosive and deepens the political sickness within America.\n\nPeople like Kimmel shouldn't have the opportunity to enter our homes each evening to spread hate.\n\nA coward, Kimmel hides behind ABC because he knows the network will keep running cover to protect him.\n\nEnough is enough. It is time for ABC to take a stand. How many times will ABC's leadership enable Kimmel's atrocious behavior at the expense of our community.",
+      "role": "meme_text"
+    },
+    {
+      "text": "ALL-AMERICAN WHITE HOUSE CORRESPONDENTS' DINNER",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The speaker, identified as Jimmy Kimmel, points out that First Lady Melania Trump is in the audience and, after complimenting her, tells a joke: \"Mrs. Trump, you have a glow like an expectant widow.\" This is followed by audience laughter.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a person speaking on a microphone, followed by the sound of a live audience laughing. There is no music.",
+  "editing_pacing": "The video uses simple cuts, alternating between a medium shot of the speaker at a podium and a reaction shot of an audience member. A static text overlay and a screenshot of a social media post are present throughout.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Mockery",
+    "Sympathy"
+  ],
+  "cultural_references": [
+    "Jimmy Kimmel",
+    "White House Correspondents' Dinner"
+  ],
+  "central_claim": "Jimmy Kimmel's joke about Melania Trump was hateful, not comedic, and the network ABC should be held accountable for enabling his behavior.",
+  "intended_effect": "To provoke anger towards Jimmy Kimmel and ABC, and to generate sympathy for Melania Trump.",
+  "uncertainty_flags": [
+    "The authenticity of the on-screen social media post attributed to 'First Lady Melania Trump' cannot be verified from the video alone and could be a fabricated document."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "video_id": "7326685981183151402",
+  "visual_action": "A slideshow of still images. The first image shows Ron DeSantis smiling while standing in front of a large American flag. The second is a closer shot of DeSantis looking down with a somber expression. The final image is a screenshot of a tweet from the account 'Pop Base' announcing that DeSantis has dropped out of the presidential race.",
+  "cast": [
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is featured in all the photos and is the subject of the on-screen text which states, 'Ron DeSantis has dropped out of the 2024 Presidential race.'"
+    },
+    {
+      "name": "Pop Base",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account '@PopBase' is shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the day",
+      "role": "overlay"
+    },
+    {
+      "text": "the music",
+      "role": "overlay"
+    },
+    {
+      "text": "Pop Base\n@PopBase\n\nRon DeSantis has dropped out of the 2024 Presidential race.",
+      "role": "other"
+    },
+    {
+      "text": "died.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from the song 'American Pie' by Don McLean. The lyrics sung, including 'The day the music died,' are synchronized with the on-screen text.",
+  "emojis_present": [],
+  "audio_music": "The song 'American Pie' by Don McLean plays throughout. The music is slow and has a melancholic tone, used here to mockingly frame the end of a political campaign as a tragic event.",
+  "editing_pacing": "A slow-paced slideshow of three static images. The cuts are timed to align with the lyrics of the background song and the corresponding on-screen text.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "glee"
+  ],
+  "cultural_references": [
+    "American Pie (song by Don McLean)"
+  ],
+  "central_claim": "Ron DeSantis's 2024 presidential campaign has ended, an event framed metaphorically as 'the day the music died'.",
+  "intended_effect": "To mock Ron DeSantis and celebrate the failure of his presidential campaign.",
+  "uncertainty_flags": []
+}

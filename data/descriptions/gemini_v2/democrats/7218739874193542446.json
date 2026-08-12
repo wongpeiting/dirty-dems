@@ -1,0 +1,161 @@
+{
+  "video_id": "7218739874193542446",
+  "visual_action": "An unnamed female narrator speaks to the camera, introducing a contrast between Democrats and Republicans on Social Security and Medicare. The video cuts to a clip of Joe Biden speaking at a State of the Union address, where he vows to protect these programs, and the audience, including Republican members of Congress, applauds. The narrator returns and claims Republicans have a history of wanting to cut these programs, followed by a montage of clips featuring Donald Trump, Mike Pence, Ron DeSantis, and Nikki Haley, each speaking about putting entitlements on the table or reforming them. The video concludes with the narrator summarizing that Democrats fight to protect these programs while Republicans want to cut them.",
+  "cast": [
+    {
+      "name": "unnamed female narrator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman speaks directly to the camera, framing the video's argument at the beginning, middle, and end."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in a clip from a State of the Union address and is named by the narrator."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the beginning of the video reads 'Democrats vs. Republicans'. The narrator speaks on their behalf."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the beginning of the video reads 'Democrats vs. Republicans'. They are the subject of the video's criticism."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking in a clip where he says entitlements will be on his plate 'at some point'. His name appears in a red overlay."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking in a clip where he says Social Security and Medicare must be put 'on the table'. His name appears in a red overlay."
+    },
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking in a grainy clip about looking at 'restructuring Medicare'. His name appears in a red overlay."
+    },
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at an event, suggesting changing the retirement age. Her name appears in a red overlay."
+    },
+    {
+      "name": "Antony Blinken",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the background sitting behind Joe Biden during the State of the Union clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats vs. Republicans on Social Security and Medicare",
+      "role": "overlay"
+    },
+    {
+      "text": "Remember when President Biden",
+      "role": "caption"
+    },
+    {
+      "text": "We will not cut Social Security.",
+      "role": "caption"
+    },
+    {
+      "text": "We will not cut Medicare.",
+      "role": "caption"
+    },
+    {
+      "text": "Donald Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "Mike Pence",
+      "role": "overlay"
+    },
+    {
+      "text": "Ron DeSantis",
+      "role": "overlay"
+    },
+    {
+      "text": "Nikki Haley",
+      "role": "overlay"
+    },
+    {
+      "text": "Well Republicans, don't have a great history",
+      "role": "caption"
+    },
+    {
+      "text": "At some point they will be.",
+      "role": "caption"
+    },
+    {
+      "text": "We've got to put [Social Security and Medicare] on the table.",
+      "role": "caption"
+    },
+    {
+      "text": "We should try to look at entitlements, look at restructuring Medicare.",
+      "role": "caption"
+    },
+    {
+      "text": "So the first thing you do is you change the retirement age.",
+      "role": "caption"
+    },
+    {
+      "text": "WORLD ECONOMIC FORUM",
+      "role": "other"
+    },
+    {
+      "text": "NIKKI HALEY",
+      "role": "other"
+    },
+    {
+      "text": "NikkiHaley.com",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A female narrator contrasts Democrats and Republicans on Social Security and Medicare. She plays a clip of President Biden forcefully promising to protect both programs during a State of the Union address, seemingly getting bipartisan agreement. The narrator then argues that Republicans cannot be trusted on this issue, showing a series of clips where Donald Trump, Mike Pence, Ron DeSantis, and Nikki Haley each suggest that entitlements should be reformed, restructured, or cut. The narrator concludes that Democrats are fighting to protect these programs while Republicans want to put them on the chopping block.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from the narrator and the individuals in the archival clips. There is audience applause during the Joe Biden clip.",
+  "editing_pacing": "The video mixes static, talking-head shots of the narrator with a series of archival clips of politicians. The montage of Republican figures features relatively quick cuts between each speaker.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Fear",
+    "Reassurance"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democrats are the protectors of Social Security and Medicare, while prominent Republicans have openly stated their desire to cut or reform these programs.",
+  "intended_effect": "To persuade viewers that the Democratic Party is the only reliable guardian of Social Security and Medicare and to generate distrust toward Republican politicians on this issue.",
+  "uncertainty_flags": [
+    "The dates and original contexts of the clips featuring Donald Trump, Mike Pence, Ron DeSantis, and Nikki Haley are not provided, and the clips are edited for brevity."
+  ]
+}

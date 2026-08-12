@@ -1,0 +1,97 @@
+{
+  "video_id": "7621680810961194254",
+  "visual_action": "The video is a montage of scenes featuring ICE (Immigration and Customs Enforcement) agents and police officers in various settings. Scene 1: Inside an airport/terminal, a Black male ICE agent wearing a tactical vest labeled \"POLICE ICE\" interacts with a woman in a high-visibility safety vest pushing a cart of water bottles; other travelers are visible. Scene 2: A Black man in a red hoodie, baseball cap, glasses, and backpack stands in what appears to be an airport terminal, holding documents and luggage, while a hand extends a water bottle toward him. Scene 3: Outside an airport passenger drop-off area (sign reads \"2A Passenger Drop-Off\"), a tactical officer in a vest hands a water bottle to a young boy; a woman and young girl are nearby, and a cooler is visible. Scene 4: Outside an airport terminal, a tactical officer wearing a vest labeled \"POLICE\" directs people near traffic cones and caution tape. Scene 5: A dramatic low-light/cinematic shot of ICE/Police tactical officers from behind, walking in formation, with \"POLICE\" labels visible on vests. Scene 6: A heavily armored tactical officer in full gear (helmet with red visor, body armor labeled \"FEDERAL AGENT\") shining a bright flashlight toward the camera at night. Scene 7: A masked, helmeted tactical officer in full tactical gear walking through smoke or fog toward the camera at night, with other officers flanking. Scene 8: A bald, muscular ICE/tactical officer in a tactical vest hands water bottles to someone off-camera in an indoor setting. Throughout, the recurring subtitle \"ICE is all we need.\" appears at the bottom of every frame.",
+  "cast": [
+    {
+      "name": "ICE (Immigration and Customs Enforcement)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Vest patch reads 'POLICE ICE' in frame 1; subtitle 'ICE is all we need.' appears throughout; account caption 'We love ICE.'"
+    },
+    {
+      "name": "unnamed ICE/tactical officers",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Multiple officers shown wearing vests labeled POLICE, ICE, FEDERAL AGENT across all scenes"
+    },
+    {
+      "name": "unnamed airport worker (woman in safety vest)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Woman wearing high-visibility orange/yellow safety vest with partial text 'TON [AIR]PORTS' visible, interacting with ICE agent in scene 1"
+    },
+    {
+      "name": "unnamed traveler (man in red hoodie)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Man with backpack and luggage receiving water bottle in airport terminal, scene 2"
+    },
+    {
+      "name": "unnamed family (woman, boy, girl)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman, boy in blue shirt, and young girl visible outside airport drop-off receiving water in scene 3"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ICE is all we need.",
+      "role": "caption"
+    },
+    {
+      "text": "POLICE ICE",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE",
+      "role": "overlay"
+    },
+    {
+      "text": "FEDERAL AGENT",
+      "role": "overlay"
+    },
+    {
+      "text": "NO PASSING",
+      "role": "other"
+    },
+    {
+      "text": "2A Passenger Drop-Off",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A song plays in the background with lyrics: \"That someday it would lead me back to you / That's maybe all I need.\" No spoken dialogue is audible. The lyric \"all I need\" parallels the on-screen subtitle \"ICE is all we need.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "A soft, romantic/sentimental ballad song plays throughout (\"That someday it would lead me back to you / That's maybe all I need\"), creating an emotional, patriotic-sentimental tone. The lyric \"all I need\" is mirrored by the on-screen caption \"ICE is all we need.\"",
+  "editing_pacing": "Medium-paced montage with cuts between real-world footage (airport encounters, officers distributing water) and cinematic/dramatic shots of armored tactical officers at night. Transitions move from humanizing scenes to power/authority imagery. Some slow-mo and dramatic low-angle framing in the tactical shots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "admiration — officers shown helping civilians with water bottles",
+    "pride — dramatic cinematic shots of armored ICE tactical teams",
+    "reassurance — officers interacting warmly with children and families",
+    "strength/power — low-angle armored officer shots at night with flashlights and smoke"
+  ],
+  "cultural_references": [
+    "The sentimental love-song audio repurposed to express institutional/patriotic 'love' for a federal agency — a common format in pro-law-enforcement social media content"
+  ],
+  "central_claim": "ICE agents are heroic, caring public servants who are essential to the country, as shown both through community service moments and powerful tactical imagery.",
+  "intended_effect": "Inspire pride in and support for ICE among viewers; humanize and valorize ICE agents by pairing humanitarian acts (water distribution) with dramatic displays of tactical strength.",
+  "uncertainty_flags": [
+    "The specific airport(s) depicted are not confirmed — partial vest text suggests one may be a Houston-area airport ('TON [AIR]PORTS')",
+    "The man in the red hoodie in scene 2 — unclear if he is a traveler, a detainee, or someone else; context of encounter is ambiguous",
+    "Whether the cinematic tactical shots (scenes 5–7) are official ICE promotional footage or sourced from news/other accounts is unclear",
+    "Exact song title/artist is not confirmed from the transcript snippet alone"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "video_id": "7612729466237783309",
+  "visual_action": "A static, single-image post displayed in a vertical (TikTok) format with black bars at top and bottom. The image shows a close-up side-profile photo of a man in a dark suit, white dress shirt, and blue dotted tie, looking downward. Visible on the lower right side of his neck/jaw area is a patch of reddish or irritated skin. The same still image is held for the entire duration of all 8 keyframes — the post does not change or animate.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads 'New photos of Trump's neck just got released'; the image shows a man consistent in appearance (hair, build, features) with Donald Trump in profile view"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "New photos of Trump's neck just got released 😬",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken audio detected. The Whisper transcript is empty. The TikTok sound label is \"original sound,\" suggesting any audio is either silent or minimal ambient sound only.",
+  "emojis_present": [
+    "😬"
+  ],
+  "audio_music": "No commercial music matched. Whisper transcript is blank, indicating the clip is likely silent or contains only ambient sound throughout its duration. No meme audio, sound effects, or voiceover detected.",
+  "editing_pacing": "Completely static — a single still photograph held for the entire clip with no cuts, zooms, or transitions. No editing motion at all.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "curiosity — the framing 'just got released' implies a newsworthy reveal",
+    "unease or awkwardness — the 😬 emoji signals something uncomfortable or grimace-worthy about what is shown",
+    "attention/concern — close-up focus on a skin irregularity on Trump's neck draws the viewer's eye to a potential health-related detail"
+  ],
+  "cultural_references": [],
+  "central_claim": "Newly released photographs show a visible skin irregularity or mark on Donald Trump's neck, presented as noteworthy or concerning.",
+  "intended_effect": "Draw viewer attention to a physical detail on Trump's neck — potentially prompting concern, curiosity, or commentary about his health or appearance.",
+  "uncertainty_flags": [
+    "Face ID returned no confirmed match; identification of the subject as Donald Trump relies on on-screen text and visual resemblance only",
+    "The exact nature of the skin marking on the neck is unclear — could be a bruise, skin lesion, makeup line, or artifact — no medical or contextual source is provided",
+    "It is uncertain what specific event or release prompted this post (e.g., a medical report, a press photo drop, etc.)",
+    "No audio confirmed — clip may be intentionally silent or audio was not captured in processing"
+  ]
+}

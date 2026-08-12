@@ -1,0 +1,93 @@
+{
+  "video_id": "7320257300680248618",
+  "visual_action": "The video first shows a still photograph of Joe Biden and Kamala Harris smiling at each other in a hallway. Text overlaid reads '2024 ins and outs'. It then cuts to a screenshot of a list made in a smartphone's Notes app. The list is divided into 'in' and 'out' sections. The 'in' list includes 'Dark Brandon', 'reelecting Biden-Harris', and various Democratic policy goals. The 'out' list includes 'Donald Trump', 'Ron DeSantis', 'Nikki Haley', and 'Mike Johnson'.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears in the opening photograph and is named in the on-screen text list as 'Dark Brandon' and part of 'Biden-Harris'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears in the opening photograph and is named in the on-screen text list as part of 'Biden-Harris'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post is from the '@democrats' account and the 'in' list includes 'Democratic-controlled House' and 'keeping the Senate blue'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears on the 'out:' list in the on-screen text."
+    },
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears on the 'out:' list in the on-screen text."
+    },
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name appears on the 'out:' list in the on-screen text."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears on the 'out:' list in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "2024 ins and outs",
+      "role": "overlay"
+    },
+    {
+      "text": "in:\n• Dark Brandon\n• reelecting Biden-Harris\n• Democratic-controlled House\n• keeping the Senate blue\n• protecting reproductive rights\n• student loan debt relief\n\nout:\n• Donald Trump\n• Ron DeSantis 🧁\n• Nikki Haley\n• Mike Johnson",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video is silent.",
+  "emojis_present": [
+    "🧁"
+  ],
+  "audio_music": "The video is completely silent.",
+  "editing_pacing": "The video is a simple slideshow consisting of two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "partisanship",
+    "pride",
+    "opposition",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The 'Ins and Outs' list is a popular social media trend, especially at the start of a new year.",
+    "'Dark Brandon' is an internet meme used by supporters to portray Joe Biden as a powerful and effective leader."
+  ],
+  "central_claim": "For 2024, the Democratic agenda and its candidates (Biden-Harris) are 'in,' while prominent Republican figures are 'out.'",
+  "intended_effect": "To rally support for the Democratic platform and candidates by framing them as trendy and desirable, while casting their Republican opponents as undesirable.",
+  "uncertainty_flags": []
+}

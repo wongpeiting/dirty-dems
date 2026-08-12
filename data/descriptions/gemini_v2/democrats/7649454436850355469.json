@@ -1,0 +1,45 @@
+{
+  "video_id": "7649454436850355469",
+  "visual_action": "A slightly blurry, static shot shows Donald Trump through a glass pane or reflection. He is wearing a suit and red tie and is seen eating what appears to be french fries from a small container. The setting appears to be an indoor suite at a large event.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is visually depicted for the entire duration of the video and named in the on-screen text."
+    },
+    {
+      "name": "NBA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states that the event is the 'nba finals'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump pigging out at the nba finals while no one can afford groceries",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only background music.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, lo-fi instrumental track ('my whole life has changed' by f3rb) plays throughout the clip, creating a somber and critical tone.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "resentment",
+    "anger",
+    "contempt"
+  ],
+  "cultural_references": [
+    "NBA Finals"
+  ],
+  "central_claim": "Donald Trump is out of touch and indifferent to the economic struggles of ordinary people, as shown by him indulging at an expensive event.",
+  "intended_effect": "To foster anger and resentment towards Donald Trump by portraying him as callous and disconnected from the financial hardships of Americans.",
+  "uncertainty_flags": []
+}

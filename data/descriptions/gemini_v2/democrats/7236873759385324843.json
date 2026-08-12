@@ -1,0 +1,110 @@
+{
+  "video_id": "7236873759385324843",
+  "visual_action": "The video opens with text on a white background, then transitions to a slideshow of still photos of Ron DeSantis. Each photo is overlaid with a headline or tweet from sources like People magazine, Forbes, or The Democrats, detailing controversial policies on abortion, LGBTQ+ rights, gun laws, and social security. The video ends with two brief clips of DeSantis making exaggerated, unflattering facial expressions, with emojis superimposed over the footage.",
+  "cast": [
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the opening text and on-screen headlines, and appears in every photo and clip throughout the video."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from the organization's account '@TheDemocrats' is shown on screen."
+    },
+    {
+      "name": "People",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'People' appears as the source for a headline about Florida's abortion ban."
+    },
+    {
+      "name": "Forbes",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'Forbes' appears as the source for a headline about the 'Don't Say Gay' policy."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "sometimes all you need is a reminder on how extreme Ron DeSantis is",
+      "role": "caption"
+    },
+    {
+      "text": "People",
+      "role": "overlay"
+    },
+    {
+      "text": "Rape, Incest Victims Must Show Proof to Get Exception to Florida's New Abortion Ban",
+      "role": "overlay"
+    },
+    {
+      "text": "Forbes",
+      "role": "overlay"
+    },
+    {
+      "text": "Florida Expands 'Don't Say Gay' Policy To Older Students At DeSantis' Request",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. >",
+      "role": "overlay"
+    },
+    {
+      "text": "DeSantis signs bill allowing Florida residents to carry concealed guns without a permit",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats\n@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Ron DeSantis has called for privatizing Social Security and Medicare.",
+      "role": "overlay"
+    },
+    {
+      "text": "🤨🤨🤨",
+      "role": "overlay"
+    },
+    {
+      "text": "🫢🫢🫢",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of the song \"Butterfly Fly Away\" by Miley Cyrus, which features soft, sentimental lyrics like \"Got to be a butterfly, learn how to fly\" and \"you can always dream.\"",
+  "emojis_present": [
+    "🤨",
+    "🫢"
+  ],
+  "audio_music": "A gentle, sentimental acoustic pop song ('Butterfly Fly Away' by Miley Cyrus) with female vocals plays consistently throughout the video. The soft and positive tone of the music creates an ironic contrast with the critical and alarming nature of the on-screen content.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images, concluding with two short clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "Miley Cyrus",
+    "The song 'Butterfly Fly Away'",
+    "Hannah Montana (implied source of the song)"
+  ],
+  "central_claim": "Ron DeSantis is an extreme politician whose policies on abortion, LGBTQ+ rights, gun control, and social safety nets are dangerous.",
+  "intended_effect": "To convince the viewer that Ron DeSantis is an extremist, evoking alarm at his policies and ridicule towards him personally.",
+  "uncertainty_flags": [
+    "The source of the headline beginning 'U.S. >' is not fully visible, so the specific news organization cannot be definitively identified.",
+    "The second set of emojis is slightly blurry but appears to be the 'face with open eyes and hand over mouth' emoji (🫢)."
+  ]
+}

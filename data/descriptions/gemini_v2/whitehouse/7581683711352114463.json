@@ -1,0 +1,69 @@
+{
+  "video_id": "7581683711352114463",
+  "visual_action": "A montage of law enforcement officers in tactical gear conducting operations. The video shows officers in armored vehicles, on patrol, chasing suspects, and handcuffing numerous individuals in various settings, both during the day and at night. One officer is seen with a vest identifying them as a Border Patrol agent. The video concludes with black and white footage of the White House.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and ends with text that reads 'THE WHITE HOUSE' over an image of the building."
+    },
+    {
+      "name": "U.S. Border Patrol",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A patch on an officer's tactical vest clearly reads 'BORDER PATROL FEDERAL AGENT'."
+    },
+    {
+      "name": "Unnamed individuals",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Multiple unidentified people are shown being chased and arrested by law enforcement throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "IT'S CUFFING SEASON",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    },
+    {
+      "text": "BORDER PATROL FEDERAL AGENT",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio is dominated by a popular remixed song with the lyrics, \"'Cause it's cuffing season, and all the girls are leaving to get a big boy...\" The post uses the song and the term \"cuffing season\" as a pun on handcuffing people. The provided transcript \"We did it, we did it\" is not audible in the video.",
+  "emojis_present": [],
+  "audio_music": "The video opens with a brief police siren sound effect, then transitions into an upbeat, rhythmic, remixed pop song that was a viral TikTok trend. The music creates a high-energy, action-oriented, and ironic tone by juxtaposing a song about dating with scenes of arrests.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes of law enforcement action. It uses a gritty color grade and a vignette effect to create a dramatic, intense feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Humor",
+    "Intimidation"
+  ],
+  "cultural_references": [
+    "Cuffing Season",
+    "The song 'Big Boy' by SZA, which became a viral sound on TikTok after originating in a Saturday Night Live (SNL) skit.",
+    "The 'edit' or montage format popular on TikTok."
+  ],
+  "central_claim": "The White House is using the popular \"cuffing season\" meme to highlight and celebrate extensive arrests made by federal law enforcement agencies.",
+  "intended_effect": "To portray the administration as strong and effective on law enforcement by using a viral meme format, likely to generate support, amusement, and a sense of intimidation.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('We did it, we did it') does not match the audible song lyrics that dominate the video's audio track."
+  ]
+}

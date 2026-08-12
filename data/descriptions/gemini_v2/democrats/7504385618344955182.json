@@ -1,0 +1,76 @@
+{
+  "video_id": "7504385618344955182",
+  "visual_action": "The video starts with a clip of Robert F. Kennedy Jr. speaking at what appears to be a hearing. It then cuts to a screenshot of an ABC News article headlined \"Robert F. Kennedy Jr. submerges in creek with high bacteria levels, including E. coli\". The video concludes with a still photograph of a shirtless Robert F. Kennedy Jr. sitting in a shallow, rocky creek.",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in a video clip, pictured in a still photo, and is the subject of the on-screen news headline."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text refers to \"Trump's Secretary of Health & Human Services\"."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for ABC News is visible on a screenshot of a news article."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's Secretary of Health & Human Services",
+      "role": "overlay"
+    },
+    {
+      "text": "I don't think people should be taking medical advice from me.",
+      "role": "caption"
+    },
+    {
+      "text": "🤭",
+      "role": "overlay"
+    },
+    {
+      "text": "abc NEWS",
+      "role": "overlay"
+    },
+    {
+      "text": "Robert F. Kennedy Jr. submerges in creek with high bacteria levels, including E. coli",
+      "role": "overlay"
+    },
+    {
+      "text": "🤢🤢🤢",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video begins with Robert F. Kennedy Jr. saying, \"I don't think people should be taking medical advice from me.\" This is immediately interrupted and overlaid by a separate, popular audio clip of a woman's voice saying with disgust, \"Oh my goodness... You smell like shit? Her breath smelled like straight up shit.\"",
+  "emojis_present": [
+    "🤭",
+    "🤢"
+  ],
+  "audio_music": "The video opens with a very brief musical intro that is quickly replaced by a viral audio meme. The meme features a woman's voice speaking in a disgusted tone, which is used to mock the subject of the video. The effect is comedic and derisive.",
+  "editing_pacing": "The video uses three quick cuts, moving from a video clip to a news headline screenshot to a still photo, to create a sharp, mocking narrative.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A text overlay falsely identifies Robert F. Kennedy Jr. as \"Trump's Secretary of Health & Human Services.\" Kennedy never held this position. This fabricated title is used to create a false political association.",
+  "emotions_signaled": [
+    "mockery",
+    "disgust",
+    "distrust"
+  ],
+  "cultural_references": [
+    "The audio of a woman saying \"her breath smelled like straight up shit\" is a well-known meme clip featuring Tiffany 'New York' Pollard from the reality TV show 'Flavor of Love'."
+  ],
+  "central_claim": "Robert F. Kennedy Jr. exhibits poor judgment regarding health, as shown by his own admission and his action of swimming in a contaminated creek.",
+  "intended_effect": "To make the viewer mock Robert F. Kennedy Jr. and view him as untrustworthy and unhygienic, particularly on health-related matters.",
+  "uncertainty_flags": []
+}

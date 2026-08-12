@@ -1,0 +1,133 @@
+{
+  "video_id": "7562259783189875981",
+  "visual_action": "Donald Trump is shown in a medium close-up, sitting at a conference table in a formal room. He listens to a question from an off-screen person and then speaks into a microphone. The video ends with two black and white still images: one of the White House exterior and one of a helicopter, both with \"THE WHITE HOUSE\" text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole on-screen speaker, and the video centers on his statement."
+    },
+    {
+      "name": "Nicolás Maduro",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of the question posed to Trump and is named in both the question and the on-screen text 'MADURO'."
+    },
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions the United States as the entity that Maduro does not want to antagonize."
+    },
+    {
+      "name": "unnamed reporter/questioner",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An unseen person with a male voice asks the question that prompts Trump's response."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a branding card that reads 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MADURO",
+      "role": "caption"
+    },
+    {
+      "text": "OFFERED EVERYTHING IN",
+      "role": "caption"
+    },
+    {
+      "text": "IN HIS COUNTRY",
+      "role": "caption"
+    },
+    {
+      "text": "ALL THE NATURAL RESOURCES",
+      "role": "caption"
+    },
+    {
+      "text": "HE EVEN RECORDED",
+      "role": "caption"
+    },
+    {
+      "text": "YOU IN ENGLISH RECENTLY",
+      "role": "caption"
+    },
+    {
+      "text": "UH OFFERING MEDIATION",
+      "role": "caption"
+    },
+    {
+      "text": "HE HAS",
+      "role": "caption"
+    },
+    {
+      "text": "EVERYTHING",
+      "role": "caption"
+    },
+    {
+      "text": "HE'S OFFERED EVERYTHING",
+      "role": "caption"
+    },
+    {
+      "text": "YOU'RE RIGHT",
+      "role": "caption"
+    },
+    {
+      "text": "YOU KNOW WHY",
+      "role": "caption"
+    },
+    {
+      "text": "BECAUSE HE DOESN'T",
+      "role": "caption"
+    },
+    {
+      "text": "AROUND WITH THE UNITED STATES",
+      "role": "caption"
+    },
+    {
+      "text": "THANK YOU EVERYBODY",
+      "role": "caption"
+    },
+    {
+      "text": "THANK YOU",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "An off-screen questioner states that Venezuelan President Maduro has offered everything, including natural resources and mediation, to the US. Donald Trump agrees, stating, \"He has offered everything.\" When asked why, Trump responds, \"Because he doesn't want to fuck around with the United States.\" He then concludes the event.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of dialogue from a press event or meeting, with no musical score or sound effects.",
+  "editing_pacing": "The video is a single, continuous shot of Donald Trump speaking, followed by a cut to two still images that serve as an outro.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "strength",
+    "dominance",
+    "pride"
+  ],
+  "cultural_references": [
+    "The caption 'FAFO.' is an acronym for the internet and military slang phrase 'Fuck Around and Find Out', implying a threat of severe consequences for provocation."
+  ],
+  "central_claim": "Foreign adversaries like Nicolás Maduro are intimidated by the United States under Donald Trump's leadership and will not challenge him.",
+  "intended_effect": "To portray Donald Trump as a strong leader who commands fear and respect on the world stage, thereby protecting American interests.",
+  "uncertainty_flags": []
+}

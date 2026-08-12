@@ -1,0 +1,59 @@
+{
+  "video_id": "7162222975381556522",
+  "visual_action": "A close-up, static shot of a vial of insulin. A screenshot of a tweet from 'The Democrats' is superimposed over the center of the image.",
+  "cast": [
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The superimposed image is a tweet from the account 'The Democrats' (@TheDemocrats)."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text asks, 'Why did 193 House Republicans vote against a standalone bill to cap the cost of insulin...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Why did 193 House Republicans vote against a standalone bill to cap the cost of insulin at $35/month?",
+      "role": "overlay"
+    },
+    {
+      "text": "Insulin\ninjection only",
+      "role": "other"
+    },
+    {
+      "text": "10% 1g/10 ml",
+      "role": "other"
+    },
+    {
+      "text": "Medication guide provided separately",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in this video.",
+  "emojis_present": [],
+  "audio_music": "A loud, blaring, and continuous fog horn sound effect plays throughout the video, creating an alarming and urgent tone.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "193 House Republicans voted against a bill to cap the cost of insulin at $35/month, which is against the public's interest.",
+  "intended_effect": "To provoke anger and alarm towards House Republicans over their position on healthcare costs.",
+  "uncertainty_flags": []
+}

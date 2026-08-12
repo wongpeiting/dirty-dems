@@ -1,0 +1,66 @@
+{
+  "video_id": "7663623560576994590",
+  "visual_action": "Markwayne Mullin stands at a podium with American flags behind him, speaking at what appears to be a press conference. A chyron at the bottom of the screen identifies him and the topic. The video has a red border, a C-SPAN logo, and a Republican Party elephant logo.",
+  "cast": [
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, and the on-screen text identifies him by name and title: 'MARKWAYNE MULLIN / Homeland Security Secretary'."
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker repeatedly cites findings from the 'Department of Homeland Security', and the on-screen text states 'DHS has identified 250,000 non-citizens'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Sec. Mullin announces DHS has identified 250,000 non-citizens registered to vote accross four states",
+      "role": "overlay"
+    },
+    {
+      "text": "ELECTION SECURITY",
+      "role": "chyron"
+    },
+    {
+      "text": "MARKWAYNE MULLIN",
+      "role": "chyron"
+    },
+    {
+      "text": "Homeland Security Secretary",
+      "role": "chyron"
+    },
+    {
+      "text": "HOMELAND SECURITY SECY. MARKWAYNE MULLIN",
+      "role": "chyron"
+    },
+    {
+      "text": "SPEAKS ON ELECTION SECURITY",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Markwayne Mullin states that the Department of Homeland Security has identified 250,000 non-citizens registered to vote across four states: California, Pennsylvania, New Jersey, and Nevada. He emphasizes this is from only four states, and repeats the figure. He also mentions that in other 'proactive states', 28,000 non-citizens were found on voter rolls, in addition to 400,000 deceased individuals who are still registered to vote.",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of Markwayne Mullin's speaking voice, with the natural room acoustics of a press conference. There is no music or other sound design.",
+  "editing_pacing": "The video is a single, static shot of a talking head at a podium. There are no cuts or camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Department of Homeland Security has discovered hundreds of thousands of improperly registered voters, including non-citizens and deceased people, indicating a major threat to election security.",
+  "intended_effect": "To raise alarm about the integrity of US elections and create support for stricter voter roll maintenance and security measures.",
+  "uncertainty_flags": []
+}

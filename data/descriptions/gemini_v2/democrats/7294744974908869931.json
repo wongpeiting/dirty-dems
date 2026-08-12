@@ -1,0 +1,101 @@
+{
+  "video_id": "7294744974908869931",
+  "visual_action": "A montage contrasting two political parties. The first section shows Hakeem Jeffries on what appears to be the House floor, smiling, being hugged, and receiving a standing ovation from fellow Democrats. The second section is a rapid succession of clips showing various Republican politicians: Kevin McCarthy seated and looking serious, Matt Gaetz speaking on the House floor, Patrick McHenry banging a gavel, Steve Scalise speaking emphatically, Jim Jordan looking serious, Tom Emmer speaking at a podium, and Mike Johnson looking down.",
+  "cast": [
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure in the first half of the video, shown being celebrated, and is named in the on-screen text: \"This year, House Democrats have unanimously supported Hakeem Jeffries as their leader\"."
+    },
+    {
+      "name": "House Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly praises them for their unity: \"This year, House Democrats have unanimously supported Hakeem Jeffries as their leader\"."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "They are the subject of the second half of the video, which is captioned with the on-screen text: \"while House Republicans have only caused chaos with their slim House majority\"."
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a brief clip as part of the montage depicting Republican 'chaos'."
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a brief clip speaking on the House floor as part of the montage depicting Republican 'chaos'."
+    },
+    {
+      "name": "Jim Jordan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a brief clip looking serious as part of the montage depicting Republican 'chaos'."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a brief clip speaking emphatically as part of the montage depicting Republican 'chaos'."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a brief clip as part of the montage depicting Republican 'chaos'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This year, House Democrats have unanimously supported Hakeem Jeffries as their leader",
+      "role": "overlay"
+    },
+    {
+      "text": "while House Republicans have only caused chaos with their slim House majority",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists entirely of music and vocal sound effects.",
+  "emojis_present": [],
+  "audio_music": "The video begins with an uplifting, cinematic orchestral score (identified as Céline Dion's 'My Heart Will Go On') over the clips of Democrats. When the video switches to showing Republicans, the music abruptly changes to a loud, chaotic track featuring a distorted, screaming vocal performance (identified as 'Afogado em uma vida de son' by Costa zr), creating a jarring sense of panic and disarray.",
+  "editing_pacing": "The video is a montage with quick cuts. It's structured as a stark contrast between a positive depiction of Democrats and a negative depiction of Republicans.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Unity",
+    "Chaos",
+    "Mockery",
+    "Contempt"
+  ],
+  "cultural_references": [
+    "The video uses Céline Dion's song 'My Heart Will Go On', famously the theme from the movie 'Titanic', to score the scene of Democratic unity.",
+    "The second track is 'Afogado em uma vida de son' by Costa zr.",
+    "The use of a jarring, screaming audio clip over a montage is a common internet meme format used to signify chaos or failure."
+  ],
+  "central_claim": "House Democrats are unified and effective under their leader Hakeem Jeffries, while House Republicans are chaotic and dysfunctional.",
+  "intended_effect": "To make the viewer feel proud of Democratic unity and to mock or feel contempt for Republican disarray.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,382 @@
+{
+  "video_id": "7567890220427840782",
+  "visual_action": "Barack Obama speaks at a podium during a political rally for Abigail Spanberger. The crowd is visible behind him, with some people holding 'VOTE' signs.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, delivering a critique of the Trump administration."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the beginning reads \"Obama spitting facts on the Trump admin\". Obama's entire speech is a list of criticisms against \"the president\" and \"commander in chief\"."
+    },
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name is on the podium in front of Obama."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Obama states that a White House aide calls \"Democrats, the whole party, domestic extremists.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Obama spitting facts on the Trump admin for 2 mins straight 🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "ABIGAIL SPANBERGER",
+      "role": "chyron"
+    },
+    {
+      "text": "VOTE NOVEMBER 4",
+      "role": "chyron"
+    },
+    {
+      "text": "hold for 2x >>>",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT WHO",
+      "role": "overlay"
+    },
+    {
+      "text": "OKAY TO USE",
+      "role": "overlay"
+    },
+    {
+      "text": "THE JUSTICE",
+      "role": "overlay"
+    },
+    {
+      "text": "DEPARTMENT TO",
+      "role": "overlay"
+    },
+    {
+      "text": "GO AFTER HIS POLITICAL",
+      "role": "overlay"
+    },
+    {
+      "text": "OPPONENTS.",
+      "role": "overlay"
+    },
+    {
+      "text": "WAIT.",
+      "role": "overlay"
+    },
+    {
+      "text": "DON'T BOO.",
+      "role": "overlay"
+    },
+    {
+      "text": "VOTE.",
+      "role": "overlay"
+    },
+    {
+      "text": "HEAR BOOS,",
+      "role": "overlay"
+    },
+    {
+      "text": "VOTES.",
+      "role": "overlay"
+    },
+    {
+      "text": "REPLACES",
+      "role": "overlay"
+    },
+    {
+      "text": "PROSECUTORS",
+      "role": "overlay"
+    },
+    {
+      "text": "WITH LOYALISTS",
+      "role": "overlay"
+    },
+    {
+      "text": "WHO WILL DO",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT HE WANTS",
+      "role": "overlay"
+    },
+    {
+      "text": "AND NOW HE'S",
+      "role": "overlay"
+    },
+    {
+      "text": "IS FOR THEM TO",
+      "role": "overlay"
+    },
+    {
+      "text": "MILLIONS OF",
+      "role": "overlay"
+    },
+    {
+      "text": "TAXPAYER",
+      "role": "overlay"
+    },
+    {
+      "text": "DOLLARS THAT",
+      "role": "overlay"
+    },
+    {
+      "text": "HE HAD TO PAY",
+      "role": "overlay"
+    },
+    {
+      "text": "IN EXPENSES",
+      "role": "overlay"
+    },
+    {
+      "text": "FOR PREVIOUSLY",
+      "role": "overlay"
+    },
+    {
+      "text": "THE LAW.",
+      "role": "overlay"
+    },
+    {
+      "text": "WE'VE GOT A",
+      "role": "overlay"
+    },
+    {
+      "text": "WHO FIRES",
+      "role": "overlay"
+    },
+    {
+      "text": "DECORATED",
+      "role": "overlay"
+    },
+    {
+      "text": "OFFICERS",
+      "role": "overlay"
+    },
+    {
+      "text": "MIGHT BE MORE",
+      "role": "overlay"
+    },
+    {
+      "text": "LOYAL TO THE",
+      "role": "overlay"
+    },
+    {
+      "text": "CONSTITUTION",
+      "role": "overlay"
+    },
+    {
+      "text": "TO HIM. OH.",
+      "role": "overlay"
+    },
+    {
+      "text": "HE'S DEPLOYING",
+      "role": "overlay"
+    },
+    {
+      "text": "THE NATIONAL",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICAN",
+      "role": "overlay"
+    },
+    {
+      "text": "CITIES,",
+      "role": "overlay"
+    },
+    {
+      "text": "CLAIMING TO",
+      "role": "overlay"
+    },
+    {
+      "text": "STOP CRIME",
+      "role": "overlay"
+    },
+    {
+      "text": "WAVES THAT",
+      "role": "overlay"
+    },
+    {
+      "text": "DON'T ACTUALLY",
+      "role": "overlay"
+    },
+    {
+      "text": "EXIST.",
+      "role": "overlay"
+    },
+    {
+      "text": "MASKED ICE",
+      "role": "overlay"
+    },
+    {
+      "text": "AGENTS PULLING",
+      "role": "overlay"
+    },
+    {
+      "text": "UP IN UNMARKED",
+      "role": "overlay"
+    },
+    {
+      "text": "GRABBING",
+      "role": "overlay"
+    },
+    {
+      "text": "INCLUDING US CITIZENS",
+      "role": "overlay"
+    },
+    {
+      "text": "STREETS ON THE",
+      "role": "overlay"
+    },
+    {
+      "text": "SUSPICION THAT",
+      "role": "overlay"
+    },
+    {
+      "text": "LOOK LIKE REAL",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICANS.",
+      "role": "overlay"
+    },
+    {
+      "text": "WE'VE GOT AN",
+      "role": "overlay"
+    },
+    {
+      "text": "HHS SECRETARY",
+      "role": "overlay"
+    },
+    {
+      "text": "PROVEN SCIENCE",
+      "role": "overlay"
+    },
+    {
+      "text": "AND PROMOTES",
+      "role": "overlay"
+    },
+    {
+      "text": "QUACK",
+      "role": "overlay"
+    },
+    {
+      "text": "MEDICINE.",
+      "role": "overlay"
+    },
+    {
+      "text": "A TOP WHITE",
+      "role": "overlay"
+    },
+    {
+      "text": "HOUSE AIDE",
+      "role": "overlay"
+    },
+    {
+      "text": "WHO CALLS",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATS,",
+      "role": "overlay"
+    },
+    {
+      "text": "PARTY,",
+      "role": "overlay"
+    },
+    {
+      "text": "\"DOMESTIC",
+      "role": "overlay"
+    },
+    {
+      "text": "EXTREMISTS.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "WE'VE GOT SOME",
+      "role": "overlay"
+    },
+    {
+      "text": "ECONOMIST WHO",
+      "role": "overlay"
+    },
+    {
+      "text": "GOT FIRED FOR",
+      "role": "overlay"
+    },
+    {
+      "text": "REPORTING BAD",
+      "role": "overlay"
+    },
+    {
+      "text": "JOBS NUMBERS",
+      "role": "overlay"
+    },
+    {
+      "text": "DIDN'T LIKE.",
+      "role": "overlay"
+    },
+    {
+      "text": "I MEAN",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S LIKE",
+      "role": "overlay"
+    },
+    {
+      "text": "EVERY DAY IS",
+      "role": "overlay"
+    },
+    {
+      "text": "HALLOWEEN.",
+      "role": "overlay"
+    },
+    {
+      "text": "ALL TRICKS AND",
+      "role": "overlay"
+    },
+    {
+      "text": "NO TREATS.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Barack Obama criticizes the then-current president, stating that he uses the Justice Department against political opponents, replaces career prosecutors with loyalists, fires military officers who might be more loyal to the Constitution than to him, deploys the National Guard against nonexistent crime waves, and has ICE agents grab people off the street. He also mentions an HHS secretary who promotes \"quack medicine\" and a White House aide who calls Democrats \"domestic extremists.\" He urges the crowd, \"Don't boo. Vote.\" and jokes that under this president, \"every day is Halloween... except it's all tricks and no treats.\"",
+  "emojis_present": [
+    "🔥",
+    "🙂‍↕️"
+  ],
+  "audio_music": "The audio consists entirely of Barack Obama's speech and the sounds of the live audience reacting with cheers, applause, and booing. There is no musical soundtrack.",
+  "editing_pacing": "The video is a static, continuous shot of Obama speaking from a single camera angle. The primary editing consists of large, yellow text overlays that appear in sync with his speech, highlighting key words and phrases.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "indignation",
+    "alarm",
+    "mockery",
+    "empowerment"
+  ],
+  "cultural_references": [
+    "Halloween",
+    "trick-or-treating"
+  ],
+  "central_claim": "The Trump administration has engaged in a pattern of corrupt, authoritarian, and anti-democratic actions that threaten the rule of law and American values.",
+  "intended_effect": "To alarm viewers about the actions of the Trump administration and motivate them to vote for Democrats as a corrective measure.",
+  "uncertainty_flags": []
+}

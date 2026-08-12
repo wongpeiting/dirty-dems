@@ -1,0 +1,68 @@
+{
+  "video_id": "7426052130139589919",
+  "visual_action": "The video is a slideshow. It opens with a photograph of Kamala Harris in a light blue pantsuit, walking on stage and smiling at a crowded political rally. It then transitions to a second, older photograph showing a younger Kamala Harris with her mother, Shyamala Gopalan Harris. Text overlays appear sequentially around this photo, providing biographical details about her mother's life and influence.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is shown in two photographs and is the subject of the biographical on-screen text, which refers to her as 'Kamala'."
+    },
+    {
+      "name": "Shyamala Gopalan Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is shown in a photograph with her daughter Kamala and is the central subject of the biographical text, which begins 'Kamala Harris' mom, Shyamala...'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"It's just politics, nothing personal\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Kamala Harris' mom, Shyamala, was part of one of the first waves of Indian immigrants to the United States.",
+      "role": "overlay"
+    },
+    {
+      "text": "Harris' parents met while protesting for civil rights.",
+      "role": "overlay"
+    },
+    {
+      "text": "Her mom passed from cancer in 2009. It was her dream to cure breast cancer and raise two daughters.",
+      "role": "overlay"
+    },
+    {
+      "text": "When Kamala was younger, her mom would tell her: “Kamala, you may be the first to do many things, but make sure you’re not the last.”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, sentimental, and somewhat melancholic instrumental piano track plays consistently throughout the video, creating an emotional and reflective tone.",
+  "editing_pacing": "The video is a slow-paced slideshow consisting of two static images with text overlays that appear sequentially.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "inspiration",
+    "sentimentality",
+    "admiration",
+    "sympathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris's political career and values are deeply rooted in her personal family history and the inspiring legacy of her immigrant mother, rather than being 'just politics'.",
+  "intended_effect": "To humanize Kamala Harris and build an emotional connection with viewers by sharing an inspiring story about her mother's influence and her family's background in civil rights activism.",
+  "uncertainty_flags": []
+}

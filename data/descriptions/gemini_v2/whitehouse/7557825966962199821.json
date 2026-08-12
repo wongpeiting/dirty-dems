@@ -1,0 +1,64 @@
+{
+  "video_id": "7557825966962199821",
+  "visual_action": "Donald and Melania Trump are shown standing in the hangar bay of an aircraft carrier, surrounded by a large crowd of U.S. Navy personnel who are applauding. The hangar is decorated with numerous naval signal flags and a large American flag. Trump speaks briefly to the crowd. The video ends with a black and white title card for 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen text identifies him as 'POTUS', he is visually identifiable, and he is shown speaking to the crowd."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text identifies her as 'FLOTUS', and she is visually identifiable standing next to Donald Trump."
+    },
+    {
+      "name": "U.S. Navy",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is set on a U.S. Navy aircraft carrier, the USSS George H.W. Bush, and features numerous sailors in uniform."
+    },
+    {
+      "name": "George H.W. Bush",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the location as the 'USSS George H.W. Bush' aircraft carrier."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POTUS & FLOTUS arrive on the USSS George H.W. Bush",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "An unidentified person introduces the 'Commander-in-Chief,' which is met with loud applause and cheering from a crowd of service members. After the applause, Donald Trump begins speaking, saying 'it's an honor to be with you.'",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists entirely of diegetic sound: a spoken introduction, loud cheering and applause from a large crowd, and then a person speaking. There is no background music.",
+  "editing_pacing": "The video consists of a single, fairly static shot that pans slightly to show the crowd, followed by a cut to a closing graphic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "respect"
+  ],
+  "cultural_references": [],
+  "central_claim": "The President and First Lady are strong supporters of the U.S. military and are warmly received by its members.",
+  "intended_effect": "To generate feelings of patriotism and to portray the President as a respected Commander-in-Chief who is supported by the military.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,57 @@
+{
+  "video_id": "7554060004836379918",
+  "visual_action": "The video shows Donald Trump standing at an entrance to the White House as a black car pulls up. The President of Turkey, Recep Tayyip Erdoğan, exits the vehicle. Trump and Erdoğan shake hands and speak briefly while holding the handshake. They stand together as a reporter off-screen shouts a question. Erdoğan gestures with his hand as Trump turns to answer the reporter. The video ends with a black and white credit sequence showing the White House and a helicopter, with the text 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown on screen welcoming the President of Turkey and responds to a reporter's question. His name is also in the on-screen text: 'President Trump Welcomes...'"
+    },
+    {
+      "name": "Recep Tayyip Erdoğan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown getting out of a car and being greeted by Donald Trump. The on-screen text identifies him as 'the President of Turkey'."
+    },
+    {
+      "name": "Unnamed reporter",
+      "kind": "unknown",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A voice is heard off-screen shouting a question to President Trump: 'President Trump, will you allow Turkey to buy F-35s, sir?'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Welcomes the President of Turkey to the White House 🇺🇸🇹🇷",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter shouts a question to Donald Trump, asking, \"President Trump, will you allow Turkey to buy F-35s, sir?\" Trump replies, \"You'll find out.\"",
+  "emojis_present": [
+    "🇺🇸",
+    "🇹🇷"
+  ],
+  "audio_music": "The audio consists of ambient sounds from the scene and dialogue. There is no music or soundtrack.",
+  "editing_pacing": "The video consists of a single, continuous shot of the arrival and greeting, followed by a quick cut to a black-and-white outro credit sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Officialdom",
+    "Formality"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump formally welcomed the President of Turkey to the White House.",
+  "intended_effect": "To document and publicize a diplomatic meeting between the leaders of the United States and Turkey, portraying an image of official statesmanship.",
+  "uncertainty_flags": []
+}

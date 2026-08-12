@@ -1,0 +1,71 @@
+{
+  "video_id": "7162949876089769259",
+  "visual_action": "A montage of six C-SPAN screenshots showing the U.S. House of Representatives vote tally board for different bills. Each screenshot displays the bill's title, the bill number (H.R.), and a breakdown of 'YEA' and 'NAY' votes by party (Democratic, Republican, Independent) and in total.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text 'Why do Republicans keep voting against bills that would help Americans?' appears on screen, and their voting record is shown for multiple bills."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The party's voting record is listed on the on-screen C-SPAN vote tallies for each bill, presented in contrast to the Republican votes."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Why do Republicans keep voting against bills that would help Americans?",
+      "role": "overlay"
+    },
+    {
+      "text": "LOWERING COSTS OF INSULIN",
+      "role": "chyron"
+    },
+    {
+      "text": "ACCESS TO CONTRACEPTIVES",
+      "role": "chyron"
+    },
+    {
+      "text": "MARRIAGE EQUALITY",
+      "role": "chyron"
+    },
+    {
+      "text": "ACTIVE SHOOTER ALERT SYSTEM",
+      "role": "chyron"
+    },
+    {
+      "text": "SCHOOL-BASED MENTAL HEALTH SERVICES",
+      "role": "chyron"
+    },
+    {
+      "text": "OIL & GAS PRICE GOUGING BILL",
+      "role": "chyron"
+    },
+    {
+      "text": "ON PASSAGE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is accompanied only by instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, gentle, and somewhat melancholic instrumental track featuring a prominent slide guitar plays throughout the video. The music creates a somber and reflective tone.",
+  "editing_pacing": "The video is a slow-paced slideshow, with static images of vote tallies fading into one another.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Disappointment",
+    "Indignation"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican Party consistently votes against popular bills designed to help Americans on issues like healthcare costs, reproductive rights, and public safety.",
+  "intended_effect": "To persuade the viewer that the Republican Party does not have the best interests of Americans at heart and to encourage support for the Democratic Party's agenda.",
+  "uncertainty_flags": []
+}

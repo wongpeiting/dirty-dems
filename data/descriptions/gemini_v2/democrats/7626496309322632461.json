@@ -1,0 +1,55 @@
+{
+  "video_id": "7626496309322632461",
+  "visual_action": "The video starts with J.D. Vance speaking at a podium with a chyron that reads 'THE WHITE HOUSE'. He announces he is going to call a 'special guest' on his phone. The video then cuts to a clip from the TV show 'Breaking Bad', where the character Walter White looks distressed as a flip phone rings. The phone's screen, which has been edited, shows an incoming call from 'JD👎' with a distorted picture of Vance. Walter White screams and smashes the phone. The video cuts back to Vance at the podium, holding his phone up to the microphone as an automated message says the person's voicemail has not been set up. Vance looks disappointed and hangs up.",
+  "cast": [
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "J.D. Vance is the central figure in the video, shown speaking at a podium and being mocked for a failed phone call attempt."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'THE WHITE HOUSE' appears on a chyron at the bottom of the screen while J.D. Vance is speaking."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FOR UPDATES FROM THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "JD👎",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "J.D. Vance tells an audience he has a 'special guest' to call, adding that it will be 'very embarrassing' if they don't answer. He places the call, but an automated voice message plays from his phone stating, 'the person you are trying to reach has a voicemail box that has not been set up yet.' Vance reacts with a simple 'Okay.'",
+  "emojis_present": [
+    "👎",
+    "😞"
+  ],
+  "audio_music": "A slow, melancholic piano piece plays throughout the entire video, creating a mock-somber and awkward tone that emphasizes the supposed embarrassment of the failed phone call.",
+  "editing_pacing": "The video uses a meme-style editing format, cutting from J.D. Vance's speech to a reaction clip from 'Breaking Bad' to create a comedic punchline, before cutting back to Vance for the conclusion.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The screen of a flip phone held by the character Walter White from the TV show 'Breaking Bad' is digitally altered. A goofy, distorted image of J.D. Vance and the contact name 'JD👎' are superimposed onto the phone's screen to make it appear as if Walter White is receiving the call from Vance and is distressed by it.",
+  "emotions_signaled": [
+    "Mockery",
+    "Humiliation",
+    "Cringe"
+  ],
+  "cultural_references": [
+    "Breaking Bad",
+    "Walter White"
+  ],
+  "central_claim": "J.D. Vance publicly embarrassed himself with a failed attempt to call a special guest during a speech.",
+  "intended_effect": "To make the viewer laugh at J.D. Vance and perceive him as incompetent and embarrassing.",
+  "uncertainty_flags": [
+    "The on-screen chyron text is partially cut off at the very beginning, so the full text is not visible."
+  ]
+}

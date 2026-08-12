@@ -1,0 +1,85 @@
+{
+  "video_id": "7480639183678115115",
+  "visual_action": "Donald Trump is shown speaking, superimposed over a background graphic of a stock market heat map. The heat map is predominantly red, indicating negative returns for various companies listed with their stock tickers and percentage losses.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole person visible on screen and the only one speaking throughout the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the account @democrats, as indicated in the provided context."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "STOCK MARKET WOULD BE 25%",
+      "role": "caption"
+    },
+    {
+      "text": "LOWER. AND",
+      "role": "caption"
+    },
+    {
+      "text": "I THINK, FRANKLY,",
+      "role": "caption"
+    },
+    {
+      "text": "IF I DIDN'T WIN,",
+      "role": "caption"
+    },
+    {
+      "text": "I THINK THE STOCK MARKET",
+      "role": "caption"
+    },
+    {
+      "text": "MSFT -6.23%",
+      "role": "overlay"
+    },
+    {
+      "text": "ORCL -19.43%",
+      "role": "overlay"
+    },
+    {
+      "text": "JPM -17.23%",
+      "role": "overlay"
+    },
+    {
+      "text": "BAC -16.50%",
+      "role": "overlay"
+    },
+    {
+      "text": "CRM -14.80%",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump states his belief that if he had not won the election, \"the stock market would be 25% lower\" and would \"crash.\"",
+  "emojis_present": [
+    "🤨",
+    "📉"
+  ],
+  "audio_music": "The audio consists only of Donald Trump's speaking voice. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or camera movement. Captions appear sequentially at the bottom of the screen.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Donald Trump is superimposed onto a background graphic of a stock market heat map that is overwhelmingly red, signifying major losses. This visual composition is designed to ironically contradict his spoken claims about preventing a market crash.",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "skepticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post implies that Donald Trump's boasts about his positive effect on the stock market are contradicted by reality.",
+  "intended_effect": "To make the viewer question Donald Trump's claims about his economic performance and view him as out of touch or dishonest.",
+  "uncertainty_flags": [
+    "The date and context of Donald Trump's original speech are not provided.",
+    "The date or time period represented by the stock market data in the background graphic is not specified."
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "video_id": "7668055495747407117",
+  "visual_action": "The video shows two clips from what appears to be a C-SPAN broadcast of a cabinet meeting in the White House Cabinet Room. In the first clip, a man at a large table speaks. In the second clip, Donald Trump speaks from the same table. Several other officials are seated around the table.",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His voice is dubbed over a video of another person, and a fabricated on-screen chyron reads \"ROBERT F. KENNEDY JR. Health & Human Services Secretary\". The overlay text at the top says \"rfk jr on circumcision:\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in the second half of the video. The on-screen chyron reads \"TRUMP HOLDS CABINET MEETING AMID GOV'T SHUTDOWN\"."
+    },
+    {
+      "name": "Doug Burgum",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible seated at the cabinet table in the footage."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible seated at the cabinet table in the footage."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible seated at the cabinet table in the footage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "rfk jr on circumcision:",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE CABINET ROOM",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP HOLDS CABINET MEETING AMID GOV'T SHUTDOWN",
+      "role": "chyron"
+    },
+    {
+      "text": "ROBERT F. KENNEDY JR.\nHealth & Human Services Secretary",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "There's two",
+      "role": "caption"
+    },
+    {
+      "text": "show children",
+      "role": "caption"
+    },
+    {
+      "text": "who are",
+      "role": "caption"
+    },
+    {
+      "text": "circumcised early have",
+      "role": "caption"
+    },
+    {
+      "text": "double the rate",
+      "role": "caption"
+    },
+    {
+      "text": "of autism.",
+      "role": "caption"
+    },
+    {
+      "text": "It's highly",
+      "role": "caption"
+    },
+    {
+      "text": "likely because",
+      "role": "caption"
+    },
+    {
+      "text": "they're given Tylenol.",
+      "role": "caption"
+    },
+    {
+      "text": "But, you know,",
+      "role": "caption"
+    },
+    {
+      "text": "there's a",
+      "role": "caption"
+    },
+    {
+      "text": "tremendous",
+      "role": "caption"
+    },
+    {
+      "text": "amount of,",
+      "role": "caption"
+    },
+    {
+      "text": "of proof or",
+      "role": "caption"
+    },
+    {
+      "text": "evidence,",
+      "role": "caption"
+    },
+    {
+      "text": "I would say,",
+      "role": "caption"
+    },
+    {
+      "text": "as a non-doctor,",
+      "role": "caption"
+    },
+    {
+      "text": "but I've studied",
+      "role": "caption"
+    },
+    {
+      "text": "this a long time",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio is deceptively edited. First, Robert F. Kennedy Jr.'s voice says, \"There's two studies that show children who are circumcised early have double the rate of autism. And it's highly likely because they're given Tylenol.\" This is immediately followed by a clip of Donald Trump saying, \"But, you know, there's a tremendous amount of proof or evidence, I would say, as a non-doctor, but I've studied this a long time.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from two separate clips edited together. There is no music or other sound.",
+  "editing_pacing": "The video uses two static clips from a broadcast, with a simple cut from the first speaker to the second.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is a fabrication. It uses footage of a Trump cabinet meeting but dubs audio of Robert F. Kennedy Jr. over a cabinet member who is speaking; the speaker's lip movements do not match the audio. The video also adds a fake C-SPAN chyron identifying the on-screen speaker as \"ROBERT F. KENNEDY JR. Health & Human Services Secretary\" to create the false impression that RFK Jr. served in Trump's cabinet and made these remarks in an official capacity.",
+  "emotions_signaled": [
+    "mockery",
+    "alarm",
+    "concern"
+  ],
+  "cultural_references": [
+    "C-SPAN"
+  ],
+  "central_claim": "The video falsely portrays Robert F. Kennedy Jr. as a member of Donald Trump's cabinet, using dubbed audio and a fabricated chyron to make it appear that he officially promoted a link between circumcision, Tylenol, and autism.",
+  "intended_effect": "To discredit Robert F. Kennedy Jr. and Donald Trump by presenting a fabricated scenario that associates them with promoting scientifically baseless medical theories in an official government setting.",
+  "uncertainty_flags": [
+    "The provided face-ID identifies the person speaking in the first clip as Robert F. Kennedy Jr. This is almost certainly incorrect, as the video is a deliberate fabrication that dubs RFK Jr.'s voice over footage of a different person (likely a member of Trump's actual cabinet). The misidentification is part of the video's deception."
+  ]
+}

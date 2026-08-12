@@ -1,0 +1,64 @@
+{
+  "video_id": "7432505237816036650",
+  "visual_action": "A wide, static shot shows a large, crowded political rally. The audience is holding up their phones, many with the lights on. On stage, several people are visible, some of whom are dancing. Behind the stage is a large red banner that reads \"vote\" in large white letters, with \"HARRIS WALZ\" underneath.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, \"GloRilla just endorsed Kamala Harris 💙🔥\"."
+    },
+    {
+      "name": "GloRilla",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the top of the video reads \"GloRilla just endorsed Kamala Harris 💙🔥\"."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His last name appears on the banner in the background, which reads \"HARRIS WALZ\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GloRilla just endorsed Kamala Harris 💙🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "vote\nHARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "THIS IS YOUR SIGN TO VOTE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of a rap song with lyrics.",
+  "emojis_present": [
+    "💙",
+    "🔥"
+  ],
+  "audio_music": "A high-energy, upbeat rap track, identified as \"YEAH HO (NYMIX)\" by Kenniya Marquee, plays throughout the video, creating a hype and celebratory atmosphere.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Hype",
+    "Support"
+  ],
+  "cultural_references": [
+    "GloRilla"
+  ],
+  "central_claim": "The rapper GloRilla's endorsement of Kamala Harris should be a sign for viewers to go out and vote for the Harris-Walz ticket.",
+  "intended_effect": "To leverage a celebrity endorsement to generate excitement and mobilize support for the Harris campaign, particularly among younger voters and fans of the artist.",
+  "uncertainty_flags": []
+}

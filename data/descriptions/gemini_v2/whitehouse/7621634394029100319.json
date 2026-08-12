@@ -1,0 +1,60 @@
+{
+  "video_id": "7621634394029100319",
+  "visual_action": "The video displays a black screen. A graphic simulating a smartphone push notification from \"The White House\" slides down from the top. The notification text reads, \"President Biden is speaking live. Tap to watch.\" The top of the simulated phone screen shows the word \"now\" on the left and \"Messages\" in the center.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen notification text reads: \"President Biden is speaking live.\""
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen notification is from \"The White House\". The video was also posted by the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "now",
+      "role": "overlay"
+    },
+    {
+      "text": "Messages",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House",
+      "role": "overlay"
+    },
+    {
+      "text": "President Biden is speaking live. Tap to watch.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video. The only sound is a notification alert. The provided transcript \"You\" appears to be a misinterpretation of this sound.",
+  "emojis_present": [
+    "📱",
+    "🔊"
+  ],
+  "audio_music": "A single, crisp 'ping' sound, typical of a smartphone notification, plays as the notification graphic appears on screen.",
+  "editing_pacing": "The video consists of a single static shot where an animated graphic overlay appears.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency"
+  ],
+  "cultural_references": [
+    "The video's format directly mimics an iOS push notification, a widely recognized element of digital and smartphone culture."
+  ],
+  "central_claim": "President Biden is currently speaking live, and viewers should tap to watch.",
+  "intended_effect": "To create a sense of immediacy and urgency, prompting users to seek out and watch President Biden's live address.",
+  "uncertainty_flags": [
+    "The provided audio transcript ('You') does not match the audio content, which is a notification sound, not speech."
+  ]
+}

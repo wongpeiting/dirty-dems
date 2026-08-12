@@ -1,0 +1,55 @@
+{
+  "video_id": "7390202655831756063",
+  "visual_action": "Joe Biden stands outdoors on a manicured green lawn, with a dense green hedge/shrub wall behind him. He is wearing a navy blue suit, white dress shirt, red striped tie, and his signature aviator sunglasses with an American flag lapel pin. Throughout the entire clip he speaks directly to camera while gesturing with his right hand — repeatedly pointing toward the viewer. The shot is a static medium close-up/medium full-body frame that barely changes angle across all keyframes. Subtitle text appears in the lower third across most frames.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Confirmed by InsightFace face-ID; visually appears in all 8 keyframes speaking directly to camera in aviator sunglasses and navy suit"
+    },
+    {
+      "name": "Project 2025",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen subtitle reads 'Project 2025' and audio transcript references it as the subject of Biden's statement"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Project 2025",
+      "role": "caption"
+    },
+    {
+      "text": "will destroy America.",
+      "role": "caption"
+    },
+    {
+      "text": "Look it up.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Biden speaks directly to the viewer, stating that \"Project 2025 will destroy America. Look it up.\" — a short, punchy direct-address message urging the audience to research Project 2025 themselves. The subtitles confirm the spoken content verbatim.",
+  "emojis_present": [],
+  "audio_music": "No commercial music matched. The audio is Biden's own speech with no background music or score — consistent with the TikTok sound label indicating original audio. The clip is a clean, unaccompanied spoken statement with no sound effects or meme audio detected.",
+  "editing_pacing": "Static talking-head format. Single continuous shot (or near-continuous with minimal cuts) of Biden speaking to camera. No fast cuts, no B-roll, no zooms or speed ramps. Subtitles appear in synced lower-third overlays. Pacing is slow and deliberate, matching the measured spoken delivery.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency — conveyed by the direct finger-pointing gesture and declarative 'will destroy America' language",
+    "alarm — the phrase 'destroy America' is designed to provoke concern",
+    "empowerment/call to action — 'Look it up' invites the viewer to independently verify the claim"
+  ],
+  "cultural_references": [],
+  "central_claim": "Project 2025 will destroy America, and viewers should look it up to learn why.",
+  "intended_effect": "To alarm viewers about Project 2025 and motivate them to research it, implicitly framing it as an existential threat to the country.",
+  "uncertainty_flags": [
+    "The full audio/transcript was not provided by Whisper beyond what OCR captured — the complete spoken remarks may be longer than the three subtitle lines shown; only those three lines are confirmed",
+    "The setting (outdoor lawn with hedge) is consistent with White House grounds but cannot be confirmed with certainty from visuals alone",
+    "No caption text was provided for the post, so any additional framing context in the original caption is unknown"
+  ]
+}

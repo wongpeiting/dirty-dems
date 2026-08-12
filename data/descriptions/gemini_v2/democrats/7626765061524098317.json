@@ -1,0 +1,55 @@
+{
+  "video_id": "7626765061524098317",
+  "visual_action": "A static image shows a photo of Donald Trump in a suit, superimposed over a background of two soldiers in military fatigues. Large white text is overlaid on the image, with a red \"BREAKING\" banner. In the top left corner, there is a small logo that reads \"FACT POST\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A large image of Donald Trump is the central visual element of the post."
+    },
+    {
+      "name": "Selective Service System",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states, \"The Selective Service System (SSS) is set to implement the change by December 2026.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FACT POST",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING",
+      "role": "overlay"
+    },
+    {
+      "text": "MEN AGED 18–25 WILL BE AUTOMATICALLY REGISTERED FOR THE MILITARY DRAFT",
+      "role": "overlay"
+    },
+    {
+      "text": "The Selective Service System (SSS) is set to implement the change by December 2026.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video.",
+  "emojis_present": [],
+  "audio_music": "A short, looping, gentle, and somewhat melancholic instrumental melody, similar to a music box, plays throughout the clip, creating a somber mood.",
+  "editing_pacing": "Static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Donald Trump's image is a cutout placed over a separate background photo of soldiers, creating a composite image to visually link him with the military.",
+  "emotions_signaled": [
+    "fear",
+    "anxiety",
+    "urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "A policy change by the Selective Service System will automatically register men aged 18-25 for the military draft by December 2026, a development visually associated with Donald Trump.",
+  "intended_effect": "To alarm viewers, particularly young men, about the prospect of a military draft and to associate this fear with Donald Trump.",
+  "uncertainty_flags": []
+}

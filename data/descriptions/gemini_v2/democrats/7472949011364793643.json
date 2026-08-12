@@ -1,0 +1,69 @@
+{
+  "video_id": "7472949011364793643",
+  "visual_action": "A montage shows a man identified as DNC Chair Martin and others canvassing in a residential neighborhood. In the first shot, a man in a vest knocks on a door. In the second, the group, including a Black man with long hair, speaks with an older woman on her porch. In the final shot, three men walk down a street with patches of snow on the ground.",
+  "cast": [
+    {
+      "name": "Martin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text identifies him as 'DNC Chair Martin'."
+    },
+    {
+      "name": "Dan Goughnour",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states the canvassing is 'for Dan Goughnour in the PA special election'."
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies one of the main figures as the 'DNC Chair'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is posted by the official '@democrats' account and features the DNC Chair."
+    },
+    {
+      "name": "unnamed resident",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An older woman is shown on her porch talking to the canvassers."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DNC Chair Martin door knocking for Dan Goughnour in the PA special election",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "There is no audible dialogue in the video; the audio consists entirely of a music track. The provided transcript appears to be audio noise.",
+  "emojis_present": [],
+  "audio_music": "A gentle, instrumental acoustic guitar track ('Sweet Heat Lightning' by Gregory Alan Isakov) plays throughout the clip, creating a warm, sincere, and grassroots-oriented mood.",
+  "editing_pacing": "The video is a short montage of three clips showing different moments of canvassing, with simple, direct cuts between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Earnestness",
+    "Community",
+    "Hope"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic party's national leadership is actively involved in on-the-ground, grassroots campaigning for local candidates like Dan Goughnour.",
+  "intended_effect": "To create a positive image of the Democratic party as hardworking and connected to voters at the local level, thereby encouraging support for their candidates.",
+  "uncertainty_flags": [
+    "The identity of 'DNC Chair Martin' is unclear, as the current DNC Chair is Jaime Harrison as of the date of this analysis."
+  ]
+}

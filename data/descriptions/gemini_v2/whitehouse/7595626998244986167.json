@@ -1,0 +1,70 @@
+{
+  "video_id": "7595626998244986167",
+  "visual_action": "Donald Trump sits at a large wooden desk in an office setting, with an American flag visible behind him. He speaks directly to the camera for the entire video. The shot alternates between a medium and a slightly closer medium shot. The video concludes with a title card showing the presidential seal, and then black and white footage of the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, presenting his healthcare plan."
+    },
+    {
+      "name": "United States Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says, \"I'm asking Congress to complete the work that we've started\" and \"I'm calling on Congress to pass this framework into law without delay.\""
+    },
+    {
+      "name": "Obamacare (Affordable Care Act)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump repeatedly criticizes the policy, calling it the \"unaffordable care act\" and a \"flagrant scam.\""
+    },
+    {
+      "name": "Insurance Companies",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states his plan will stop \"payoffs to big insurance companies\" and that under his plan, \"The big insurance companies lose and the people of our country win.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE GREAT HEALTHCARE PLAN 🇺🇸",
+      "role": "caption"
+    },
+    {
+      "text": "The Great Healthcare Plan\nPresident Donald J. Trump",
+      "role": "credit"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces his plan to lower healthcare costs, which he calls \"The Great Healthcare Plan.\" He claims it will make healthcare affordable by putting the American people first instead of \"big corporations and special interests.\" The plan involves the government paying money directly to citizens to buy their own healthcare, which he says will result in insurance companies losing and the people winning. He also touts his \"most favored nation drug pricing agreement,\" which he claims will dramatically lower prescription drug prices, making them the lowest in the world. Trump criticizes Obamacare, calling it the \"unaffordable care act,\" and blames it for enriching insurance companies. His plan also mandates price transparency from hospitals and insurers. He concludes by urging Congress to pass the plan into law immediately.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The video consists entirely of Donald Trump's spoken-word address. There is no background music or sound effects.",
+  "editing_pacing": "The video is a slow-paced talking-head address. It primarily features a static shot of Donald Trump at his desk, with occasional cuts to a slightly different camera angle. The video ends with a title card and a short B-roll montage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Authority",
+    "Confidence",
+    "Hope",
+    "Anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's 'Great Healthcare Plan' will make healthcare affordable and lower prescription drug prices to be the cheapest in the world by cutting out corporate middlemen and giving money directly to the American people.",
+  "intended_effect": "To convince viewers that Donald Trump has a comprehensive and effective plan to fix healthcare, positioning him as a populist leader fighting against corrupt corporations and politicians.",
+  "uncertainty_flags": []
+}

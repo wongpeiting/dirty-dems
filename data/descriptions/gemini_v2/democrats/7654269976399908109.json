@@ -1,0 +1,58 @@
+{
+  "video_id": "7654269976399908109",
+  "visual_action": "A static, wide aerial shot shows the White House and its surrounding grounds, including the large lawn known as the Ellipse. The grass on the lawn appears patchy and discolored, with large areas of brown or bare earth visible.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, \"This is what the White House looked like after Trump's UFC fight 💪\"."
+    },
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to the \"White House\" and the video shows an aerial view of the building and its grounds."
+    },
+    {
+      "name": "UFC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions \"Trump's UFC fight\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This is what the White House looked like after Trump's UFC fight 💪",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue or speech in the video; it only contains music.",
+  "emojis_present": [
+    "💪"
+  ],
+  "audio_music": "A slow, somewhat melancholic Western-style song, identified as \"My Rifle, My Pony And Me\" by Dean Martin, plays consistently throughout the video.",
+  "editing_pacing": "The video consists of a single, static aerial shot with no edits, cuts, or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Dismay",
+    "Disappointment"
+  ],
+  "cultural_references": [
+    "UFC (Ultimate Fighting Championship)",
+    "Dean Martin",
+    "My Rifle, My Pony And Me (song)"
+  ],
+  "central_claim": "An event associated with Donald Trump, described as a \"UFC fight,\" caused significant damage to the White House grounds.",
+  "intended_effect": "To portray Donald Trump as careless and destructive toward national landmarks and institutions, thereby fostering a negative perception of him.",
+  "uncertainty_flags": [
+    "The video claims to show the aftermath of a specific event ('Trump's UFC fight'), but the footage itself is generic and lacks any context to confirm it was filmed at that specific time or that the state of the lawn is due to that event."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "video_id": "7639803324421639454",
+  "visual_action": "A static image displays white and red text on a black background. The text reads, \"173 Democrats voted against supporting law enforcement.\" Below this text, a small red circular logo containing a white elephant is visible.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, \"173 Democrats voted against supporting law enforcement.\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Republican Party logo (a white elephant in a red circle) is displayed on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "173 Democrats voted against supporting law enforcement.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue; the video only contains music.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a suspenseful and eerie piano and music box melody, creating an ominous or horror-like tone.",
+  "editing_pacing": "The video is a single, static image with text.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Alarm",
+    "Fear",
+    "Disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "173 Democrats actively voted against supporting law enforcement, implying they are a threat to public safety.",
+  "intended_effect": "To instill fear and disapproval of the Democratic Party by portraying them as anti-police.",
+  "uncertainty_flags": []
+}

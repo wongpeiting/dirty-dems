@@ -1,0 +1,207 @@
+{
+  "video_id": "7301462421917420842",
+  "visual_action": "A montage of clips showing confrontations between Republican politicians. First, Senator Markwayne Mullin speaks at a hearing, reads a tweet, and then challenges someone off-screen to a fight. He stands up and starts to take off his suit jacket before being told to sit down. The second clip shows Representative James Comer angrily speaking and gesturing during a hearing. The third clip shows Representative Tim Burchett speaking to a reporter on the Capitol steps. The final clip shows Kevin McCarthy speaking to reporters inside a building.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the beginning and throughout the video reads: 'LITERALLY JUST TODAY IN THE REPUBLICAN PARTY:'"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown prominently in the first clip attempting to start a physical fight during a hearing. A nameplate on screen identifies him as 'SEN. MULLIN'."
+    },
+    {
+      "name": "Sean O'Brien",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person Senator Mullin challenges to a fight. Mullin reads O'Brien's words (\"Any place. Anytime, cowboy.\") and O'Brien's voice is heard responding to the challenge (\"Okay. That's fine. Perfect. You want to do it now?\")."
+    },
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "His voice is heard intervening in the fight between Mullin and O'Brien, and the on-screen captions identify him: 'Senator Sanders: Hold on. Stop it.'"
+    },
+    {
+      "name": "James Comer",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown in a clip speaking angrily during a hearing. A nameplate identifies him as 'MR. COMER CHAIRMAN'."
+    },
+    {
+      "name": "Tim Burchett",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking to a reporter, recounting an incident where he claims Kevin McCarthy elbowed him in the kidneys. McCarthy later refers to him by name."
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named by Tim Burchett as the person who elbowed him, and is then shown in a separate clip denying that he 'kidney punch[ed]' Burchett."
+    },
+    {
+      "name": "Jared Moskowitz",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is the implied target of James Comer's insult, \"You look like a Smurf here,\" which was directed at him during a hearing."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LITERALLY JUST TODAY IN THE REPUBLICAN PARTY:",
+      "role": "overlay"
+    },
+    {
+      "text": "SEN. MULLIN",
+      "role": "chyron"
+    },
+    {
+      "text": "\"You know where to find me.",
+      "role": "caption"
+    },
+    {
+      "text": "Any place. Anytime, cowboy.\"",
+      "role": "caption"
+    },
+    {
+      "text": "Sir, this is a time, this is a place,",
+      "role": "caption"
+    },
+    {
+      "text": "if you want to run your mouth.",
+      "role": "caption"
+    },
+    {
+      "text": "We can be two consenting adults.",
+      "role": "caption"
+    },
+    {
+      "text": "We can finish it here.",
+      "role": "caption"
+    },
+    {
+      "text": "You want do it now?",
+      "role": "caption"
+    },
+    {
+      "text": "I'd love to do it right now.",
+      "role": "caption"
+    },
+    {
+      "text": "Well, stand your butt up, then.",
+      "role": "caption"
+    },
+    {
+      "text": "You stand your butt up.",
+      "role": "caption"
+    },
+    {
+      "text": "Senator Sanders: Hold on. Stop it.",
+      "role": "caption"
+    },
+    {
+      "text": "Is that your solution to every problem?",
+      "role": "caption"
+    },
+    {
+      "text": "Senator Sanders: No, no. Sit down. Sit down. You know, you're a United States senator. Sit down.",
+      "role": "caption"
+    },
+    {
+      "text": "MR. COMER CHAIRMAN",
+      "role": "chyron"
+    },
+    {
+      "text": "No, I'm not going to give you your time back,",
+      "role": "caption"
+    },
+    {
+      "text": "we can stop the clock.",
+      "role": "caption"
+    },
+    {
+      "text": "You look like a Smurf here,",
+      "role": "caption"
+    },
+    {
+      "text": "just going around and all this stuff.",
+      "role": "caption"
+    },
+    {
+      "text": "I got elbowed in the back",
+      "role": "caption"
+    },
+    {
+      "text": "and it kind of caught me off guard",
+      "role": "caption"
+    },
+    {
+      "text": "because it was a clean shot to the kidneys.",
+      "role": "caption"
+    },
+    {
+      "text": "there was Kevin [McCarthy]",
+      "role": "caption"
+    },
+    {
+      "text": "\"What the heck just happened?\"",
+      "role": "caption"
+    },
+    {
+      "text": "I guess our shoulders hit,",
+      "role": "caption"
+    },
+    {
+      "text": "because Burchett runs up to me after,",
+      "role": "caption"
+    },
+    {
+      "text": "I did not run and hit the guy,",
+      "role": "caption"
+    },
+    {
+      "text": "I did not kidney punch him.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The video is a montage of clips showing confrontations involving Republican politicians. First, Senator Markwayne Mullin challenges Teamsters President Sean O'Brien to a physical fight during a hearing, prompting Senator Bernie Sanders to intervene. Next, Representative James Comer insults a colleague, saying, \"You look like a Smurf here.\" Finally, Representative Tim Burchett accuses Kevin McCarthy of elbowing him in the back, calling it a \"clean shot to the kidneys,\" which McCarthy then denies in a separate interview, stating, \"I did not kidney punch him.\"",
+  "emojis_present": [],
+  "audio_music": "A single, continuous, upbeat, and cheerful pop song plays throughout the entire video. The incongruous music serves to mock the angry and confrontational behavior of the politicians on screen, creating a satirical and ridiculous tone.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different clips of politicians in various confrontational settings. The editing juxtaposes these heated moments with upbeat music to create a comedic and critical effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Ridicule",
+    "Concern"
+  ],
+  "cultural_references": [
+    "The Smurfs"
+  ],
+  "central_claim": "The Republican Party is dysfunctional and defined by chaotic, unprofessional, and physically aggressive infighting.",
+  "intended_effect": "To portray the Republican Party as ridiculous, chaotic, and unfit to govern, thereby amusing and alarming the viewer.",
+  "uncertainty_flags": [
+    "The provided music fingerprint identified two different tracks ('GOT A PROBLEM?' and 'Suffer Alone'), but the audio in the video appears to be one continuous, upbeat pop song that plays from beginning to end. The fingerprint may be inaccurate."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "video_id": "7519961732333276429",
+  "visual_action": "A video juxtaposes two clips of Donald Trump speaking. The first, labeled '2023,' shows him at a CNN town hall. The second, labeled '2025,' shows him at a different event, possibly a NATO summit, with a different CNN chyron. Text overlays on both clips transcribe his words.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in both clips and is the subject of the video's claim. On-screen chyrons also identify him by name."
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says in the audio, \"Vladimir Putin has been more difficult.\""
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and branding are visible on the chyrons in both news clips shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's update on ending the war in Ukraine in “one day”",
+      "role": "overlay"
+    },
+    {
+      "text": "2023",
+      "role": "overlay"
+    },
+    {
+      "text": "Credit: CNN",
+      "role": "credit"
+    },
+    {
+      "text": "QUESTION\nDo you support U.S. military aid to Ukraine and\nhow would you deal with the threat posed by Putin?",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN REPUBLICAN PRESIDENTIAL TOWN HALL WITH DONALD TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "IF I'M PRESIDENT, I WILL HAVE THAT WAR SETTLED IN ONE DAY,",
+      "role": "meme_text"
+    },
+    {
+      "text": "2025",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS\nTRUMP: WILL TALK WITH IRAN NEXT WEEK",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: “I DON'T FEEL VERY STRONGLY” ABOUT SIGNING AGREEMENT WITH IRAN",
+      "role": "chyron"
+    },
+    {
+      "text": "IT'S MORE DIFFICULT THAN PEOPLE WOULD HAVE ANY IDEA.",
+      "role": "meme_text"
+    },
+    {
+      "text": "VLADIMIR PUTIN HAS BEEN MORE DIFFICULT.",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The video splices two statements from Donald Trump. First, he says, \"If I'm president, I will have that war settled in one day.\" This is followed by a second clip where he says, \"It's more difficult than people would have any idea. Vladimir Putin has been more difficult.\"",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "A somber, slow piano track plays throughout the video, creating a pensive and critical mood.",
+  "editing_pacing": "The editing consists of a slow cut between two static talking-head shots to encourage a direct comparison between the statements.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "In the second clip, dated '2025', the on-screen CNN chyrons refer to Trump discussing Iran, while the simultaneous audio features Trump talking about Vladimir Putin being 'difficult'. This mismatch between the visual text and the spoken audio is a deliberate editing manipulation.",
+  "emotions_signaled": [
+    "mockery",
+    "skepticism",
+    "disappointment"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants"
+  ],
+  "central_claim": "Donald Trump made an overly simplistic promise in 2023 to end the war in Ukraine in one day, which is contrasted with a later 2025 statement where he seemingly admits the situation is far more difficult.",
+  "intended_effect": "To portray Donald Trump as unreliable and lacking credibility on foreign policy by highlighting a perceived contradiction in his statements over time.",
+  "uncertainty_flags": [
+    "While the TikTok sound label for the video is 'spongebob disappointment sound,' the actual audible audio is a somber piano track, not a sound effect from SpongeBob."
+  ]
+}

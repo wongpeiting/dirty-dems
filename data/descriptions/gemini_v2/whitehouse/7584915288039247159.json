@@ -1,0 +1,74 @@
+{
+  "video_id": "7584915288039247159",
+  "visual_action": "The video is a montage of scenes from a White House event. It opens with a close-up of Donald Trump signing a document in the Oval Office. It then cuts to a wider shot where he holds up the document, flanked by men in military uniforms. The video intersperses this with clips of Pete Hegseth, Donald Trump, and Tom Homan speaking at a podium bearing the presidential seal. A large portrait of Ronald Reagan is visible on the wall behind the podium. There is also a brief shot of Hegseth shaking hands with a man in a military dress uniform. The video concludes with a series of black-and-white images of the White House and a helicopter, with \"THE WHITE HOUSE\" text overlay.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown signing an executive order and speaking at a podium. He is the central figure of the event highlighted in the video."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking at a podium in support of the administration's policy."
+    },
+    {
+      "name": "Tom Homan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking at a podium in support of the administration's policy."
+    },
+    {
+      "name": "Ronald Reagan",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A large portrait of him is prominently displayed in the background behind the speakers."
+    },
+    {
+      "name": "Unnamed military personnel",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several men in military uniforms are shown standing behind Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "BORDER SECURITY IS NATIONAL SECURITY",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Multiple speakers, including Donald Trump, discuss border security. Trump announces he is signing a \"historic executive order... formally classifying fentanyl as a weapon of mass destruction.\" Another speaker states their mission is to get \"100% operational control of the southern border.\" Tom Homan praises the administration for \"saving thousands of lives every month.\" The video concludes with Pete Hegseth stating, \"Border security is national security.\"",
+  "emojis_present": [],
+  "audio_music": "A serious, dramatic orchestral score plays throughout the video, underscoring the speech clips to create a sense of gravitas and importance.",
+  "editing_pacing": "A montage of clips with steady cuts between different speakers and shots of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gravity",
+    "Urgency",
+    "Pride",
+    "Security"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration is taking decisive action to protect the country by treating border control as a national security issue and classifying fentanyl as a weapon of mass destruction.",
+  "intended_effect": "To persuade the viewer that the Trump administration is strong and effectively handling national security threats like the fentanyl crisis and border control.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript contains garbled text at the end which does not match the video's audio and was therefore disregarded."
+  ]
+}

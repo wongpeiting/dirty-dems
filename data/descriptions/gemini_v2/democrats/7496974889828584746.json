@@ -1,0 +1,157 @@
+{
+  "video_id": "7496974889828584746",
+  "visual_action": "The video is a slideshow of images and short video clips. It shows screenshots of tweets from an account called 'FactPost' about Donald Trump selling 'Trump 2028' hats and speaking at a 'Third Term Project' conference. It includes clips of Trump speaking, an image of Trump portrayed as a king with a crown, a clip of him being interviewed about JD Vance, a photo of a 'Third Term Project' banner, and a clip of him responding to a reporter about term limits.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in multiple video clips and images and is the subject of all on-screen text."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text shows an interviewer's question: \"Do you view Vice President JD Vance as your successor?\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays two screenshots of tweets from the account 'FactPost' (@factpostnews)."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of an Instagram post from the account handle 'whitehouse' is shown."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man is shown in a clip asking Donald Trump a question, which appears as on-screen text."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A reporter's question is displayed as on-screen text: \"Reporter: The constitution limits a president to two terms.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Notice a pattern??",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump has started selling 2028 hats on his website, seemingly confirming his fourth run for president.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP 2028",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump 2028 Hat",
+      "role": "overlay"
+    },
+    {
+      "text": "Should I run again?",
+      "role": "chyron"
+    },
+    {
+      "text": "You tell me.",
+      "role": "chyron"
+    },
+    {
+      "text": "whitehouse",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "LONG LIVE THE KING",
+      "role": "overlay"
+    },
+    {
+      "text": "Do you view Vice President JD Vance as your successor?",
+      "role": "chyron"
+    },
+    {
+      "text": "No.",
+      "role": "chyron"
+    },
+    {
+      "text": "Trump is speaking at a conference tomorrow whose attendees are promoting the “Third Term Project,” which calls to override the Constitution to let Trump hold onto power.",
+      "role": "overlay"
+    },
+    {
+      "text": "THIRD TERM PROJECT",
+      "role": "other"
+    },
+    {
+      "text": "For Trump 2028 ...And Beyond!",
+      "role": "other"
+    },
+    {
+      "text": "MARCH 30, 2026",
+      "role": "chyron"
+    },
+    {
+      "text": "Reporter: The constitution limits a president to two terms.",
+      "role": "chyron"
+    },
+    {
+      "text": "I've had more people say \"please run again.\"",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The dialogue in the video, which is also rendered as on-screen text, consists of several exchanges with Donald Trump. First, Trump asks, \"Should I run again? You tell me.\" Later, when an interviewer asks, \"Do you view Vice President JD Vance as your successor?\" Trump replies, \"No.\" Finally, a reporter states, \"The constitution limits a president to two terms,\" to which Trump responds, \"I've had more people say 'please run again.'\"",
+  "emojis_present": [],
+  "audio_music": "The video features a consistent, slow, and dramatic choral or orchestral track throughout, creating a somber and ominous tone.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images (tweets, Instagram posts, banners) and static video clips.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "An artistic, painted-style image depicts Donald Trump wearing a crown against a city skyline. The image is styled like a magazine cover with the text 'TRUMP' and 'LONG LIVE THE KING', portraying him as a monarch.",
+  "emotions_signaled": [
+    "fear",
+    "alarm"
+  ],
+  "cultural_references": [
+    "The concept of monarchy and kingship is invoked through the image of Trump in a crown and the text 'LONG LIVE THE KING'.",
+    "A banner for the 'Third Term Project' features a bust in the style of a Roman emperor, referencing classical authoritarianism."
+  ],
+  "central_claim": "Donald Trump is seeking to defy constitutional term limits and remain in power indefinitely, akin to a monarch or dictator.",
+  "intended_effect": "To create fear and alarm about Donald Trump's perceived authoritarian ambitions and his threat to democratic norms.",
+  "uncertainty_flags": [
+    "The nature and authenticity of the 'FactPost' news source are not verifiable from the video.",
+    "The authenticity of the 'Third Term Project' conference and its promotional materials as presented cannot be independently verified.",
+    "It is highly improbable that the official 'whitehouse' Instagram account posted the image of Trump as a king; this is likely a fabricated screenshot presented as evidence within the video."
+  ]
+}

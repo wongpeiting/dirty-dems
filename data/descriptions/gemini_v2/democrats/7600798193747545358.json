@@ -1,0 +1,101 @@
+{
+  "video_id": "7600798193747545358",
+  "visual_action": "Senator Elizabeth Warren, wearing a purple jacket, speaks from a podium on the floor of the U.S. Senate. The footage is a C-SPAN broadcast, indicated by chyrons and logos. A small picture-in-picture inset in the lower right corner shows another man, identified as Powell D. Stiver. Large, yellow animated text appears on screen, synchronizing with Warren's speech.",
+  "cast": [
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video and is identified by face recognition and an on-screen chyron reading 'SEN. ELIZABETH WARREN'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Warren repeatedly addresses and criticizes \"Republicans\" in her speech for their silence on ICE. The on-screen overlay text says \"Warren RIPS into Republicans\"."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The topic of Warren's speech is the actions of ICE agents, mentioned in both her dialogue and the on-screen text, which calls for \"meaningful constraints on ICE\"."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Warren asks Republicans to \"Help the Democrats put meaningful constraints on ICE.\""
+    },
+    {
+      "name": "Powell D. Stiver",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name and face appear in a small inset box on the C-SPAN broadcast feed, where he is identified as a 'FORMER DEFENSE DEPARTMENT ATTORNEY'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Warren RIPS into Republicans for staying silent on ICE: “Grow a spine”",
+      "role": "overlay"
+    },
+    {
+      "text": "FATAL SHOOTING INVOLVING FEDERAL AGENTS IN MINNESOTA",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. ELIZABETH WARREN\nD - Massachusetts",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE 18:37",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. CAPITOL",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. SENATE",
+      "role": "chyron"
+    },
+    {
+      "text": "POWELL STIVER\nFORMER DEFENSE\nDEPARTMENT\nATTORNEY\nWITNESS",
+      "role": "chyron"
+    },
+    {
+      "text": "THERE ARE REPUBLICANS RIGHT NOW WHO ARE SEEING WHAT WE'RE SEEING IN MINNESOTA AND THEY KNOW IT IS WRONG. IT IS TIME TO SPEAK OUT. SILENCE IS COMPLICITY. GROW A SPINE, SHOW SOME BACKBONE. BEING DISTURBED DOESN'T CHANGE ANYTHING AND THE ICE AGENTS WHO ARE WAVING AROUND LOADED GUNS KNOW THAT. REPUBLICANS IN THE SENATE HAVE THE POWER TO DO SOMETHING AND TO START RIGHTING THESE WRONGS. HELP THE DEMOCRATS PUT MEANINGFUL CONSTRAINTS ON ICE. HELP OUR PEOPLE BE SAFE.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Senator Elizabeth Warren condemns Republicans for their silence regarding the actions of ICE agents in Minnesota, which she asserts they know are wrong. She equates their silence with complicity and urges them to \"grow a spine\" and assist Democrats in placing \"meaningful constraints on ICE\" to ensure public safety.",
+  "emojis_present": [
+    "👏"
+  ],
+  "audio_music": "The audio consists entirely of Elizabeth Warren's spoken remarks, with no background music or sound effects.",
+  "editing_pacing": "The video is a static talking-head shot of a C-SPAN broadcast. The primary editing feature is the use of large, bold, yellow animated text that appears on screen to emphasize key phrases from the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Urgency",
+    "Moral outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans are complicit in the wrongful actions of ICE agents because of their silence and must act to help Democrats impose constraints on the agency.",
+  "intended_effect": "To portray Republicans as cowardly and complicit in wrongdoing, while positioning Democrats as the party taking decisive action to ensure public safety.",
+  "uncertainty_flags": []
+}

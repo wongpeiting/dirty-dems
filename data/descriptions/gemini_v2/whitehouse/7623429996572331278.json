@@ -1,0 +1,71 @@
+{
+  "video_id": "7623429996572331278",
+  "visual_action": "A montage of clips featuring Donald Trump, set against a backdrop of grand architecture and ceremonial events. The video includes scenes of Trump walking with Joe Biden, a military band performance, Revolutionary War reenactors, a flyover by jets with colored smoke, and Trump with King Charles III and Queen Camilla during a formal event. A screenshot of a tweet from Donald Trump announcing a state visit from the UK royals is overlaid for the entire duration.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips and is the author of the overlaid tweet announcing the state visit."
+    },
+    {
+      "name": "King Charles III",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is mentioned in the overlaid tweet as 'Their Majesties, the King... of the United Kingdom' and is shown walking in a procession with Donald Trump."
+    },
+    {
+      "name": "Queen Camilla",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is mentioned in the overlaid tweet as 'Their Majesties, the... Queen of the United Kingdom' and is shown walking in a procession with King Charles III."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "She is mentioned by name in the overlaid tweet ('Melania and I') and is briefly shown standing with Donald Trump in the final clip."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown walking alongside Donald Trump in the opening shot of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump\n\nMelania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom, will visit the United States for a Historic State Visit from April 27-30th, which will include a beautiful Banquet Dinner at the White House on the evening of April 28th. This momentous occasion will be even more special this year, as we commemorate the 250th Anniversary of our Great Country. I look forward to spending time with the King, whom I greatly respect. It will be TERRIFIC!\n\nDONALD J. TRUMP\nPRESIDENT OF THE UNITED STATES OF AMERICA",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio contains no speech, only lyrics from the song 'Royals' by Lorde.",
+  "emojis_present": [
+    "👑"
+  ],
+  "audio_music": "The song 'Royals' by Lorde plays throughout the video. The music creates a grand and modernly regal atmosphere, aligning with the video's theme of a state visit from the British monarchy.",
+  "editing_pacing": "A montage with relatively slow cuts between different scenes of ceremonial and diplomatic events.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "grandeur",
+    "patriotism"
+  ],
+  "cultural_references": [
+    "The song 'Royals' by Lorde is used as the soundtrack."
+  ],
+  "central_claim": "President Trump announces that the King and Queen of the United Kingdom will visit the US for a historic state visit to commemorate the 250th anniversary of the country.",
+  "intended_effect": "To generate excitement and pride about a significant diplomatic event and to portray President Trump as a world leader operating on a grand, historic stage.",
+  "uncertainty_flags": []
+}

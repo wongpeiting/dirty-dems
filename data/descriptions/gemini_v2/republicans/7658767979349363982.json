@@ -1,0 +1,70 @@
+{
+  "video_id": "7658767979349363982",
+  "visual_action": "A montage of patriotic imagery and clips of Donald Trump. Scenes include the American flag waving, the US Capitol, soldiers, Trump saluting with military personnel, crowds raising a large flag, Trump on an aircraft carrier with sailors and a fighter jet, families waving, large rally crowds holding up phone lights, Trump interacting with supporters (including children, people in the Oval Office, first responders, and a person in a wheelchair), and fireworks over the Lincoln Memorial. The video ends with the Republican Party logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually present in most of the clips and his voice provides the narration for the entire video."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The Republican Party elephant logo appears on the final screen of the video. The video was also posted from the @republicans account."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID. He is briefly visible saluting next to Donald Trump at approximately 0:08."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "RT Auto & Service",
+      "role": "other"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN!",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "KERRVILLE FIRE DEPARTMENT",
+      "role": "other"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump delivers a patriotic speech over the montage. He says, \"we celebrate our history, our heroes, our heritage, our great American flag, and our freedom.\" He encourages Americans to \"swell with pride,\" \"cheer with delight,\" and be \"filled with joy\" for living in the \"most magnificent country in the history of the world.\" He concludes by vowing to \"proclaim the ideals of the Declaration of Independence\" and \"never surrender the spirit and the courage and the cause of July 4th, 1776.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, soaring, and emotional orchestral score plays throughout the video, creating a strong patriotic and celebratory mood that complements the visuals and Trump's speech.",
+  "editing_pacing": "The video is a slow-paced montage of various clips, edited to match the inspirational tone of the speech and music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "joy",
+    "reverence"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's leadership is synonymous with American patriotism and the celebration of the nation's history, freedom, and foundational ideals from 1776.",
+  "intended_effect": "To evoke feelings of national pride and inspire support for Donald Trump by portraying him as the embodiment of American values and greatness.",
+  "uncertainty_flags": [
+    "Visual confirmation of JD Vance is difficult; his inclusion is based on the provided authoritative face-ID context."
+  ]
+}

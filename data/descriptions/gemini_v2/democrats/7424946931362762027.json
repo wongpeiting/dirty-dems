@@ -1,0 +1,68 @@
+{
+  "video_id": "7424946931362762027",
+  "visual_action": "A woman with blonde hair lip-syncs to an audio track in front of a white background. At the top of the screen is a graphic styled like a CNN Politics headline that reads, 'Trump says he won't participate in another presidential debate'. Text overlays appear sequentially to identify the roles she is playing: 'Trump's team trying to explain why he won't do another debate:', 'The press:', and 'Trump:'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen headline reads, 'Trump says he won't participate in another presidential debate' and subsequent text overlays reference 'Trump's team' and 'Trump:'."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and 'Politics' branding appear in a news-style graphic at the top of the screen."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is the sole person shown on screen, lip-syncing the dialogue."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "CNN Politics",
+      "role": "chyron"
+    },
+    {
+      "text": "Trump says he won't participate in another presidential debate",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's team trying to explain why he won't do another debate:",
+      "role": "overlay"
+    },
+    {
+      "text": "The press:",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump:",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a dialogue where one person, supposedly representing Trump's team, explains that a man is holding a grudge because 'he's a man' but 'once he gets over his grudge holding, he'll be better.' Another person, representing the press, asks, 'Is he holding a grudge towards us?' and the first person confirms, 'Yes.' This is followed by audience laughter.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from a TV show, with the sound of a live audience laughing at the end. There is no music. The effect is comedic and satirical.",
+  "editing_pacing": "The video is a static talking-head shot with text overlays appearing sequentially.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "The audio is a well-known clip from the reality TV show 'The Real Housewives of Atlanta'."
+  ],
+  "central_claim": "The video satirically claims that Donald Trump's refusal to participate in presidential debates is due to him pettily holding a grudge against the press.",
+  "intended_effect": "To mock Donald Trump and portray his reasons for avoiding debates as childish and unprofessional.",
+  "uncertainty_flags": []
+}

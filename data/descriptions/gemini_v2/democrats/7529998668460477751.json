@@ -1,0 +1,81 @@
+{
+  "video_id": "7529998668460477751",
+  "visual_action": "A static shot shows Donald Trump speaking while seated in an ornate room. A Fox News broadcast chyron is at the bottom of the screen. Text is overlaid at the top and bottom of the video, quoting his speech.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown, and the video consists entirely of his speech."
+    },
+    {
+      "name": "Department of Justice",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The Fox News chyron reads: \"TRUMP ON DOJ'S CRIMINAL REFERRAL ON RUSSIA HOAX\"."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The broadcast is identified by the Fox News logo and chyron format."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: “Whether it’s right or wrong, it’s time to go after people” 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT IT'S TIME TO START AFTER WHAT THEY DID TO ME AND WHETHER IT'S RIGHT OR WRONG, IT'S TIME TO GO AFTER PEOPLE.",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP ON DOJ'S CRIMINAL REFERRAL ON RUSSIA HOAX",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "other"
+    },
+    {
+      "text": "LIVE",
+      "role": "other"
+    },
+    {
+      "text": "11:50 AM ET",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"It's time to start... after what they did to me, and whether it's right or wrong, it's time to go after people.\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's unfiltered speech from the news clip. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot. The only editing is the addition of text overlays that appear sequentially to match the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "alarm",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump advocates for retaliating against his opponents, stating that it should be done regardless of whether it is morally 'right or wrong'.",
+  "intended_effect": "To highlight what the posting account presents as a dangerous and amoral statement by Donald Trump, likely to generate alarm and opposition towards him.",
+  "uncertainty_flags": []
+}

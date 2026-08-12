@@ -1,0 +1,66 @@
+{
+  "video_id": "7538835504146500878",
+  "visual_action": "Donald Trump is shown speaking at a podium with American flags and a backdrop for \"The Kennedy Center\" behind him. The footage includes a C-SPAN chyron identifying the event. Text is overlaid on the video, questioning what he is saying, and large captions transcribe his speech.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium for the entire video; identified by face and by the on-screen chyron."
+    },
+    {
+      "name": "C-SPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN logo is visible in the chyron at the bottom of the screen."
+    },
+    {
+      "name": "The Kennedy Center",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name \"The Kennedy Center\" is visible on the backdrop behind Donald Trump and in the C-SPAN chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "what is bro talking about 😂",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP ANNOUNCES KENNEDY CENTER HONOREES",
+      "role": "chyron"
+    },
+    {
+      "text": "KENNEDY CENTER WASHINGTON, DC",
+      "role": "chyron"
+    },
+    {
+      "text": "WE'RE GONNA BE REDOING THE PARKS, REDOING THE GRASS. YOU KNOW, GRASS HAS A LIFETIME LIKE PEOPLE HAVE A LIFETIME. AND THE LIFETIME OF THIS GRASS HAS LONG, BEEN GONE WHEN YOU LOOK AT THE PARKS WHERE THE GRASS IS OLD, TIRED, EXHAUSTED. WE'RE GONNA REDO THE GRASS WITH THE FINEST GRASSES.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump discusses a plan to redo parks, focusing specifically on replacing the grass. He makes an analogy that grass has a lifetime, just like people, and claims the current grass is \"old, tired, exhausted.\" He concludes by saying, \"We're going to redo the grass with the finest grasses.\"",
+  "emojis_present": [
+    "😂"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's unedited speech. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static talking-head shot of Donald Trump speaking at a podium. The only editing consists of added text overlays and captions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "confusion"
+  ],
+  "cultural_references": [
+    "The phrase 'what is bro talking about' is a common internet slang/meme format used to express confusion and incredulity."
+  ],
+  "central_claim": "Donald Trump makes nonsensical and rambling statements, in this case about grass having a 'lifetime,' which suggests he is unfit for office.",
+  "intended_effect": "To make the viewer see Donald Trump as incoherent and ridiculous, and to mock his speaking style.",
+  "uncertainty_flags": []
+}

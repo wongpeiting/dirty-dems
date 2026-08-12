@@ -1,0 +1,101 @@
+{
+  "video_id": "7610931734774942989",
+  "visual_action": "A static, close-up shot of Donald Trump speaking at a podium. He is wearing a dark suit with a red tie. Throughout the clip, lines of white text are superimposed over the video, appearing sequentially down the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown speaking for the entire duration of the video, and the on-screen text lists criticisms under the heading \"trump's presidency so far\"."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in the on-screen text: \"epstein files hidden\"."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in the on-screen text: \"ICE terrorizing americans\"."
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in the on-screen text: \"red carpet for putin\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump's presidency so far",
+      "role": "overlay"
+    },
+    {
+      "text": "epstein files hidden",
+      "role": "overlay"
+    },
+    {
+      "text": "grocery prices are up",
+      "role": "overlay"
+    },
+    {
+      "text": "over a million jobs cut",
+      "role": "overlay"
+    },
+    {
+      "text": "gutting medicaid",
+      "role": "overlay"
+    },
+    {
+      "text": "ICE terrorizing americans",
+      "role": "overlay"
+    },
+    {
+      "text": "measles coming back",
+      "role": "overlay"
+    },
+    {
+      "text": "tax cuts for billionaires",
+      "role": "overlay"
+    },
+    {
+      "text": "red carpet for putin",
+      "role": "overlay"
+    },
+    {
+      "text": "cutting cancer research",
+      "role": "overlay"
+    },
+    {
+      "text": "kicked people off of food stamps",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump's voice is audible but is mostly drowned out by loud music. He can be heard saying things like, \"we're winning so much... we can't take it anymore,\" in a triumphant tone that contrasts with the critical on-screen text. The provided transcript does not match the audible speech.",
+  "emojis_present": [],
+  "audio_music": "A loud, high-energy, and celebratory-sounding electronic dance track plays throughout the entire video. Its upbeat and triumphant feel creates a sarcastic and mocking tone when paired with the on-screen text listing negative claims about Trump's presidency.",
+  "editing_pacing": "The video consists of a single static shot with no cuts or camera movement. The pacing is driven by the sequential appearance of text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's presidency was a failure characterized by negative outcomes such as rising prices, job cuts, and cuts to social programs.",
+  "intended_effect": "To frame Donald Trump's presidency as a disaster and evoke negative feelings towards him through a mocking and critical presentation.",
+  "uncertainty_flags": [
+    "The full content of Donald Trump's speech is unclear as it is mixed low underneath loud music, and the provided transcript is inaccurate."
+  ]
+}

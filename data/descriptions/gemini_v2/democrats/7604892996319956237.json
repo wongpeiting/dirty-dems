@@ -1,0 +1,95 @@
+{
+  "video_id": "7604892996319956237",
+  "visual_action": "A slideshow of still images. It begins with a screenshot of a fabricated tweet from \"FactPost\" claiming Bad Bunny's Super Bowl halftime show had over 135 million viewers. This is followed by a two-panel meme comparing \"Super Bowl LX Halftime Shows.\" The \"America's\" side features a photo of Bad Bunny with \"135+ million viewers,\" and the \"MAGA's\" side features a photo of Kid Rock with \"10 million viewers.\" An image of Bad Bunny performing with dancers, flags (including the US and Puerto Rican flags), and fireworks is also shown.",
+  "cast": [
+    {
+      "name": "Bad Bunny",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Named and shown in multiple photos and on-screen text, representing 'America's' halftime show."
+    },
+    {
+      "name": "Kid Rock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in a photo on the 'MAGA's' side of a comparative meme."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly labels one side of the comparison as 'MAGA's'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown as the author of a fabricated tweet with the handle @factpostnews."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Bad Bunny's Super Bowl halftime show was the most-watched halftime performance of all time with over 135 million viewers.",
+      "role": "overlay"
+    },
+    {
+      "text": "TOGETHER WE ARE AMERICA",
+      "role": "other"
+    },
+    {
+      "text": "Super Bowl LX Halftime Shows",
+      "role": "meme_text"
+    },
+    {
+      "text": "America's:",
+      "role": "meme_text"
+    },
+    {
+      "text": "MAGA's:",
+      "role": "meme_text"
+    },
+    {
+      "text": "135+ million viewers",
+      "role": "meme_text"
+    },
+    {
+      "text": "10 million viewers",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The video features a Spanish-language song by Bad Bunny playing throughout. The lyrics include lines like \"si mañana muero, yo espero que nunca olviden mi rostro\" (\"if I die tomorrow, I hope they never forget my face\"). No other dialogue is present.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, celebratory reggaeton track by Bad Bunny (\"LA MuDANZA\") plays throughout the entire video, creating a hype-filled and positive mood associated with the 'America's' side of the comparison.",
+  "editing_pacing": "A fast-paced slideshow of still images and screenshots.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video uses a fabricated tweet, presented as being from a news source called 'FactPost', to make a false claim about Bad Bunny's Super Bowl viewership. This fake tweet is then used as the premise for a satirical meme comparing the supposed popularity of a mainstream artist (Bad Bunny) to a MAGA-aligned artist (Kid Rock), using invented statistics to mock the latter.",
+  "emotions_signaled": [
+    "mockery",
+    "pride",
+    "superiority"
+  ],
+  "cultural_references": [
+    "Bad Bunny",
+    "Kid Rock",
+    "Super Bowl halftime show"
+  ],
+  "central_claim": "Mainstream American culture, represented by Bad Bunny, is vastly more popular than the culture associated with the MAGA movement.",
+  "intended_effect": "To mock the MAGA movement as culturally unpopular and fringe, while celebrating mainstream, diverse culture as the true 'America'.",
+  "uncertainty_flags": []
+}

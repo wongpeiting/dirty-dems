@@ -1,0 +1,61 @@
+{
+  "video_id": "7560709273550933303",
+  "visual_action": "The video shows aerial footage from the window of an airplane, looking out over the wing. Three fighter jets are flying in formation alongside the plane. The view below is of a large body of water next to a desert landscape. The video cuts between a few different angles of the jets. The video ends with a black and white title card featuring a picture of the White House building and the words \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Air Force One",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads \"Egyptian F-16s escort Air Force One Into Egypt\". The footage is also implicitly from Air Force One."
+    },
+    {
+      "name": "Egyptian Air Force",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text identifies the jets as \"Egyptian F-16s\"."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with a title card that says \"THE WHITE HOUSE\". The account that posted the video is also @whitehouse."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Egyptian F-16s escort Air Force One Into Egypt",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no audible speech in the video; it consists solely of an instrumental music track. The provided transcript reads \"We'll be right back,\" but this is not heard.",
+  "emojis_present": [
+    "✈️"
+  ],
+  "audio_music": "A driving, upbeat 1980s-style rock instrumental with prominent electric guitar plays throughout the video, creating an epic and powerful mood reminiscent of an action movie soundtrack.",
+  "editing_pacing": "The video is a montage of several aerial shots with simple cuts between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "awe",
+    "patriotism"
+  ],
+  "cultural_references": [
+    "Top Gun"
+  ],
+  "central_claim": "The Egyptian Air Force provided a powerful military escort for Air Force One, demonstrating a strong international relationship.",
+  "intended_effect": "To impress the viewer with a show of military power and international cooperation, evoking feelings of national pride.",
+  "uncertainty_flags": [
+    "The provided audio transcript does not match the audio in the video, which is purely instrumental music."
+  ]
+}

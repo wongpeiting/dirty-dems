@@ -1,0 +1,90 @@
+{
+  "video_id": "7564433271271017742",
+  "visual_action": "The video intercuts clips of the character Michael Scott from the TV show 'The Office' looking distressed with a news clip from CNN. Text identifying Michael Scott as 'Chuck Schumer' is overlaid. The CNN clip features a male anchor in front of a graphic that shows an upward green arrow and the text '↑ 1 PT' next to 'SHUTDOWN 2025'. The anchor points to the graphic while speaking. The video ends with a black and white image of the White House and a helicopter, with the text 'THE WHITE HOUSE' over it.",
+  "cast": [
+    {
+      "name": "Chuck Schumer",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text 'Chuck Schumer' is superimposed over clips of an actor, implying the actor's reactions are Schumer's."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The news anchor in the video states, 'This shutdown hasn't eaten in the Donald Trump support at all. His net approval rating is actually up a point.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post caption is addressed to the party: 'Democrats, it’s over.'"
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible in the corner of the news segment clip."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a title card reading 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Chuck Schumer",
+      "role": "overlay"
+    },
+    {
+      "text": "S NET APPROVAL",
+      "role": "chyron"
+    },
+    {
+      "text": "O SHUTDOWN\n2025\n↑ 1 PT",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT DONALD TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio combines dialogue from the TV show 'The Office' with a news report. An actor's voice (as Michael Scott) says 'All I can do right now is put on a brave face and go out there and be their leader.' A news anchor then reports, 'This shutdown hasn't eaten in the Donald Trump support at all. His net approval rating is actually up a point.' The actor's voice concludes, 'It's over. We are screwed.'",
+  "emojis_present": [],
+  "audio_music": "A dramatic, slightly tense musical score plays throughout the video, underscoring both the dialogue clips and the news segment to create a mock-serious, climactic tone.",
+  "editing_pacing": "The video uses quick cuts, intercutting reaction clips from a fictional TV show with a real news segment to create a comedic and political narrative. This is a common meme editing style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "triumph",
+    "schadenfreude",
+    "despair"
+  ],
+  "cultural_references": [
+    "The Office (US TV series)",
+    "Michael Scott",
+    "Steve Carell"
+  ],
+  "central_claim": "A government shutdown has backfired on Democrats, causing Donald Trump's approval ratings to increase and leaving Chuck Schumer feeling defeated.",
+  "intended_effect": "To mock Chuck Schumer and the Democratic Party, celebrate a perceived political victory for Donald Trump, and persuade viewers that Democratic strategies are failing.",
+  "uncertainty_flags": [
+    "The full context of the CNN news clip is not provided, so the specifics of the poll or the shutdown it references are unclear."
+  ]
+}

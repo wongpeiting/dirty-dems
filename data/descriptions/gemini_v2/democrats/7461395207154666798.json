@@ -1,0 +1,74 @@
+{
+  "video_id": "7461395207154666798",
+  "visual_action": "The video shows a sequence of two static screenshots of posts from the social media platform X (formerly Twitter). The first is a text-only post from the user 'No Lie with Brian Tyler C...'. The second post, from the user 'FactPost', shows an aerial photograph of a massive crowd filling the National Mall in Washington D.C., with the U.S. Capitol building in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The first on-screen tweet states, 'Trump just announced he is moving the inauguration indoors because it's going to be cold outside.'"
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The second tweet references 'Inauguration Day 2009,' which was Barack Obama's first inauguration. The post contrasts his well-attended, cold-weather event with Trump's alleged decision."
+    },
+    {
+      "name": "Brian Tyler C...",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name and handle, 'No Lie with Brian Tyler C... @NoLieWithBTC', are shown as the author of the first tweet."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle 'FactPost @factpostnews' are shown as the author of the second tweet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "No Lie with Brian Tyler C... @NoLieWithBTC",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump just announced he is moving the inauguration indoors because it's going to be cold outside.",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Inauguration Day 2009, 28 degrees",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a person laughing hysterically and wheezing throughout the clip.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a popular sound clip of a person laughing hysterically in a high-pitched, wheezing manner. This sound plays continuously and serves a mocking purpose.",
+  "editing_pacing": "A static slideshow, cutting from one screenshot of a tweet directly to a second one.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "derision"
+  ],
+  "cultural_references": [
+    "The use of hysterical laughter as a reaction sound is a common internet meme format."
+  ],
+  "central_claim": "Donald Trump is being mocked as weak or unpopular for allegedly moving his inauguration indoors due to cold weather, especially when contrasted with the large crowds that attended Barack Obama's freezing 2009 inauguration.",
+  "intended_effect": "To cause the viewer to laugh at and feel contempt for Donald Trump.",
+  "uncertainty_flags": [
+    "The fingerprinted music 'I Can't See — Løco' is not clearly audible; the dominant and seemingly sole audio is a meme-style hysterical laughter track."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "7657675561015299342",
+  "visual_action": "The video opens with a close-up of Donald Trump speaking at a podium with the presidential seal. He wears a suit and a white 'USA' cap. The scene then transitions to a montage set in a rural, western-style environment. Clips show men in historical-style uniforms riding horses in formation, a red BNSF train with '1776' on the front crossing a bridge, Trump waving to a large crowd from the back of a train car, Trump shaking hands with a line of the uniformed men in a town square that resembles an old western set, and Trump walking past supporters before waving and getting into an SUV.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure in every scene, either speaking, waving to crowds, or interacting with others."
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump begins his speech by saying, 'Theodore Roosevelt understood that...'"
+    },
+    {
+      "name": "BNSF Railway",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'BNSF' is clearly visible on the side of the red train shown in the montage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "BNSF",
+      "role": "other"
+    },
+    {
+      "text": "1776",
+      "role": "other"
+    },
+    {
+      "text": "J.A. FERRIS",
+      "role": "other"
+    },
+    {
+      "text": "The Bad Lands City Hall",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump invokes Theodore Roosevelt, stating that \"grand and righteous ambition is not a vice, it is an American virtue.\" He says this virtue \"won us our country\" and has been one of the \"greatest forces for good.\" He concludes the short clip by mentioning the importance of the American attitude toward \"making our country great.\"",
+  "emojis_present": [],
+  "audio_music": "The video opens with Trump's spoken audio. About eight seconds in, an iconic, upbeat country guitar track, identified as Johnny Cash's 'I Walk The Line,' begins and plays through the rest of the montage. The music creates a nostalgic, patriotic, and distinctly American atmosphere.",
+  "editing_pacing": "The video starts with a static shot of a speech, then transitions into a montage with moderately paced cuts between various scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "nostalgia",
+    "admiration"
+  ],
+  "cultural_references": [
+    "Johnny Cash (song 'I Walk The Line')",
+    "Western film/Old West tropes (cowboys, historic train, western town setting)"
+  ],
+  "central_claim": "Donald Trump embodies traditional, rugged American virtues, symbolized by Theodore Roosevelt and the Old West, and is celebrated by the people of the American heartland.",
+  "intended_effect": "To inspire patriotic pride and associate Donald Trump with a nostalgic, idealized vision of American strength and greatness.",
+  "uncertainty_flags": [
+    "The specific event, date, and location are not identified in the video.",
+    "The full context of Trump's speech is unknown as only a short clip is used."
+  ]
+}

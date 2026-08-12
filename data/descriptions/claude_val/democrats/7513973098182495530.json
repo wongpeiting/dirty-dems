@@ -1,0 +1,55 @@
+{
+  "video_id": "7513973098182495530",
+  "visual_action": "The video is a short-form vertical clip framed with a black border top and bottom. A white rounded-rectangle overlay at the top reads \"Governor Newsom's message to the Trump admin:\" Below it, two sequential shots of a man in a dark suit speaking directly to camera in what appears to be an indoor setting with multiple monitor screens visible on the wall behind him (suggesting a press/operations room). In the first shot, bold yellow subtitles read: \"Arrest me. Let's just get it over with, tough guy.\" In the second shot, a slightly different framing of the same man continues speaking with yellow subtitles: \"I care about my community. The hell are they doing?\" The overall presentation is a clip-style highlight reel of a single statement made in one location. The same 8 keyframes all show the identical two-panel structure, indicating the video is brief and likely only a few seconds long.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Caption tags @Gavin Newsom; on-screen OCR text reads 'Gavin Newsom Trump's border czar is threatening to arrest me for speaking out'; the man shown speaking matches Newsom's known appearance (gray-streaked hair, blue suit)"
+    },
+    {
+      "name": "Trump administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Header overlay reads 'Governor Newsom's message to the Trump admin:'; OCR also references 'Trump's border czar is threatening to arrest me'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Governor Newsom's message to the Trump admin:",
+      "role": "overlay"
+    },
+    {
+      "text": "Arrest me. Let's just get it over with, tough guy.",
+      "role": "caption"
+    },
+    {
+      "text": "I care about my community. The hell are they doing?",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Newsom speaks defiantly, saying: \"Arrest me. Let's just get it over with, tough guy.\" He then continues: \"I care about my community. The hell are they doing?\" The fuller OCR context (likely from a related caption or additional on-screen text not visible in these frames) attributes a longer quote to Newsom: \"Trump's border czar is threatening to arrest me for speaking out. Come and get me, tough guy. [I] don't give a damn. It won't stop me from standing up for California.\"",
+  "emojis_present": [],
+  "audio_music": "No commercial music matched by fingerprint. The sound label is \"original sound,\" indicating the audio is the account's own. The clip appears to be straight speech/interview audio — Newsom speaking directly, no background score or music detectable from the available data. No meme sound effects noted.",
+  "editing_pacing": "Very brief, two-shot static talking-head structure. Both shots are close-up to medium close-up of Newsom speaking. Minimal editing — two cuts between nearly identical framings. Bold yellow subtitles overlaid for emphasis. Static and direct in style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "defiance — signaled by the direct challenge 'Arrest me. Let's just get it over with, tough guy.'",
+    "indignation — signaled by 'The hell are they doing?'",
+    "solidarity/community pride — signaled by 'I care about my community'"
+  ],
+  "cultural_references": [],
+  "central_claim": "Governor Newsom is publicly daring the Trump administration to arrest him, framing himself as a defender of California communities against what he characterizes as an overreaching federal threat.",
+  "intended_effect": "To portray Newsom as bold and unafraid in confronting the Trump administration, rallying viewers who support resistance to federal immigration enforcement actions in California.",
+  "uncertainty_flags": [
+    "Face recognition did not confirm Newsom on screen; identification is based on caption tag, OCR text, and visual resemblance to known public photos — high confidence but not formally verified by face-ID system.",
+    "The full extended quote (referencing 'border czar' and 'Come and get me') appears in OCR but is not visible in the keyframes shown — it may appear in earlier/later frames or in the post caption rather than the video itself.",
+    "Exact context/date of the original Newsom press statement is unclear from the clip alone."
+  ]
+}

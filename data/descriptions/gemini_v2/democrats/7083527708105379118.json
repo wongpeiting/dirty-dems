@@ -1,0 +1,42 @@
+{
+  "video_id": "7083527708105379118",
+  "visual_action": "President Joe Biden speaks at a podium in a formal setting. He is shown from the chest up, wearing a suit and tie. An American flag is visible behind him to his right. The shot is static throughout the clip.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and speaks for the entire duration of the video."
+    },
+    {
+      "name": "Affordable Care Act",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire speech is about the successes of the Affordable Care Act, which is also mentioned in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden highlights success of the Affordable Care Act",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Joe Biden highlights the successes of the Affordable Care Act (ACA). He states that over 31 million people now have health insurance through the ACA, and that four out of five Americans can find coverage for under $10 a month. He adds that the average family is saving $2,400 a year on premiums, which is $200 a month that can be used for other necessities. He concludes by stating, \"The bottom line is this: The Affordable Care Act is stronger now than it has ever been.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of Joe Biden's speech and the sound of applause from an unseen audience. Applause can be heard twice during his remarks.",
+  "editing_pacing": "The video is a single, static, talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "reassurance"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Affordable Care Act is a significant success, providing affordable health insurance to millions of Americans and saving families thousands of dollars annually.",
+  "intended_effect": "To persuade the viewer that the Affordable Care Act is a successful and beneficial policy, thereby generating support for the Biden administration and the Democratic Party.",
+  "uncertainty_flags": []
+}

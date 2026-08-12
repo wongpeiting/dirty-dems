@@ -1,0 +1,71 @@
+{
+  "video_id": "7556098260645973261",
+  "visual_action": "The video consists of two still images. The first shows Donald Trump sitting at a desk holding a gavel with an open-mouthed expression, surrounded by a group of smiling and clapping men and women. The second image is a wide shot of the U.S. House of Representatives chamber, showing one side of the room filled with people and the other side largely empty.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in the first image and named in the on-screen text: 'The government has officially shut down because of Trump.'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referred to as 'The GOP' and 'Republicans' in the on-screen text, which states, 'The GOP would rather shut the government down...' and 'Republicans didn't even bother showing up for work.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referred to in the on-screen text 'Dem side completely full', positioning them in contrast to the Republicans."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "It's midnight.",
+      "role": "overlay"
+    },
+    {
+      "text": "The government has officially shut down because of Trump.",
+      "role": "overlay"
+    },
+    {
+      "text": "The GOP would rather shut the government down than protect people's health care.",
+      "role": "overlay"
+    },
+    {
+      "text": "This was the House chamber earlier today",
+      "role": "overlay"
+    },
+    {
+      "text": "Dem side completely full",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans didn't even bother showing up for work",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; it is accompanied only by music.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber choral piece plays throughout the video, creating a serious and dramatic atmosphere.",
+  "editing_pacing": "The video is a slideshow of two static images with text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Frustration",
+    "Disappointment"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump and the Republican Party have caused a government shutdown and are shirking their duties, while Democrats are present and ready to work.",
+  "intended_effect": "To generate anger and disappointment towards Donald Trump and the Republican Party, portraying them as irresponsible and negligent.",
+  "uncertainty_flags": []
+}

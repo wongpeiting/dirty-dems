@@ -1,0 +1,90 @@
+{
+  "video_id": "7629074203962051854",
+  "visual_action": "A montage of short, looping clips with a vintage filter showing various scenes of New York City life: a man on a Citi Bike, a couple (one of whom is Zohran Mamdani) walking away from the camera, a person at a halal food cart at night, a view of Central Park with the skyline, and a screen at an arena displaying \"NEW YORK FOREVER\" with the Knicks logo.",
+  "cast": [
+    {
+      "name": "the mayor of nyc",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text \"mood board but it's the mayor of nyc\" is overlaid on the entire video, making this individual the central subject."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID. He is shown from behind, walking arm-in-arm with a woman."
+    },
+    {
+      "name": "New York Knicks",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The team's logo is shown on a large screen with the text \"NEW YORK FOREVER\"."
+    },
+    {
+      "name": "Citi Bike",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The brand name 'citi bike' is clearly visible on the blue bicycles featured in the video."
+    },
+    {
+      "name": "The Halal Kitchen",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'THE HALAL KITCHEN' is displayed prominently on a street food cart."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "mood board but it's the mayor of nyc",
+      "role": "overlay"
+    },
+    {
+      "text": "citi bike",
+      "role": "other"
+    },
+    {
+      "text": "E 30 ST",
+      "role": "other"
+    },
+    {
+      "text": "THE HALAL KITCHEN",
+      "role": "other"
+    },
+    {
+      "text": "NEW YORK FOREVER",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of a male vocalist singing lyrics from a song: \"Sitting in the back seat of my car / With my arms around my guitar / In the rain.\"",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "A continuous, gentle, and somewhat nostalgic-sounding song ('Cannock Chase' by Labi Siffre) with acoustic guitar and male vocals plays throughout the video, creating an atmospheric and wistful mood.",
+  "editing_pacing": "A slideshow-style montage of short clips with quick cuts between them. The clips loop, and a grainy, vintage filter is applied to all footage to create a consistent aesthetic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Pride",
+    "Calmness"
+  ],
+  "cultural_references": [
+    "The video adopts the 'mood board' or 'aesthetic edit' format popular on TikTok.",
+    "Features the song 'Cannock Chase' by Labi Siffre."
+  ],
+  "central_claim": "The mayor of NYC embodies an authentic, aesthetically pleasing, and relatable vision of life in the city.",
+  "intended_effect": "To foster a positive, warm, and authentic connection between the viewer and the mayor of NYC by associating him with iconic and everyday city life.",
+  "uncertainty_flags": [
+    "It is unclear if any of the individuals depicted are intended to be the mayor of NYC, or if the montage simply represents a 'mood board' associated with him."
+  ]
+}

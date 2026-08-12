@@ -1,0 +1,57 @@
+{
+  "video_id": "7645069740808883469",
+  "visual_action": "The post is a static image composite (presented as a TikTok video/slideshow) showing two photographs stacked vertically. The top half features a blonde woman with bangs wearing large tortoiseshell sunglasses and a dark blazer with a blue scarf/neckerchief — identifiable as E. Jean Carroll based on context. The bottom half shows an older man with silver-white hair in a blue suit and red tie, pointing directly at the camera — identifiable as Donald Trump based on appearance and context. The two photos are separated by a text overlay box. The background is black at top and bottom (letterbox bars). All 8 keyframes show the identical static composite image.",
+  "cast": [
+    {
+      "name": "E. Jean Carroll",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text references 'the woman who accused trump of sexual abuse'; the top photo shows a blonde woman consistent with Carroll's public appearance; she is the subject of the described DOJ investigation"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text references 'trump's justice department' and 'accused trump of sexual abuse'; bottom photo shows an older man in blue suit/red tie pointing at camera, consistent with Trump's widely documented public appearance"
+    },
+    {
+      "name": "U.S. Department of Justice",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text: 'trump's justice department is opening an investigation'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump's justice department is opening an investigation into the woman who accused trump of sexual abuse.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is present. The Whisper transcript is empty, indicating the audio track is music only (Kesha's \"Praying\") with no voiceover or spoken words.",
+  "emojis_present": [],
+  "audio_music": "The audio is Kesha's \"Praying\" — a slow, emotionally charged ballad associated with themes of surviving abuse and seeking justice. The song plays throughout the static image post, lending a somber, victimhood-sympathetic emotional tone to the visual content.",
+  "editing_pacing": "Entirely static — a single composite image held for the duration of the post. No cuts, motion, or transitions. All 8 keyframes are identical. The only dynamic element is the audio track.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage — the text frames the DOJ investigation as retaliation by Trump against his accuser",
+    "alarm — the implication that a sitting president is weaponizing law enforcement against a private citizen",
+    "sympathy — the use of Kesha's 'Praying' (associated with surviving abuse/injustice) evokes solidarity with the woman depicted"
+  ],
+  "cultural_references": [
+    "Kesha's song 'Praying' — originally released as an anthem about surviving abuse and seeking justice, widely associated with the #MeToo movement; its use here draws a direct emotional parallel to the post's subject matter"
+  ],
+  "central_claim": "Trump is using his own Justice Department to investigate and retaliate against the woman who accused him of sexual abuse.",
+  "intended_effect": "To provoke outrage and alarm in viewers over what the post frames as an abuse of presidential power and retaliatory use of law enforcement against a sexual abuse accuser.",
+  "uncertainty_flags": [
+    "The woman in the top photo is identified by inference (context of the post, physical resemblance to public photos of E. Jean Carroll) — no name caption confirms her identity on screen; face-ID did not confirm her",
+    "The man in the bottom photo is identified by inference from appearance and context — face-ID did not confirm Trump",
+    "It is unclear whether this post references a specific verified news event or is characterizing a developing/contested report; the factual accuracy of the DOJ investigation claim cannot be assessed from the image alone"
+  ]
+}

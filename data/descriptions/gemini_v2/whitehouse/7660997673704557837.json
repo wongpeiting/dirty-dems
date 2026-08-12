@@ -1,0 +1,47 @@
+{
+  "video_id": "7660997673704557837",
+  "visual_action": "A montage of short clips shows Donald Trump. He is seen in a close-up, then standing and adjusting his suit jacket, and finally sitting in a chair in front of a microphone, as if for an interview. These clips are interspersed with black screens.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the only person shown in the video montage."
+    },
+    {
+      "name": "Netflix",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text refers to a 'Netflix documentary'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Preparing for the Netflix documentary on the truth about the 2020 election.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only instrumental music plays.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, slightly tense string instrumental plays throughout the video, creating a sense of seriousness and anticipation.",
+  "editing_pacing": "A montage of short clips with quick cuts, interspersed with cuts to a black screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "anticipation",
+    "intrigue"
+  ],
+  "cultural_references": [
+    "Netflix"
+  ],
+  "central_claim": "A forthcoming Netflix documentary will reveal the truth about the 2020 election, and Donald Trump is preparing to be featured in it.",
+  "intended_effect": "To generate anticipation and excitement among supporters for a documentary that will supposedly vindicate Donald Trump's claims about the 2020 election.",
+  "uncertainty_flags": [
+    "It is unclear whether the 'Netflix documentary' mentioned is a real production or a hypothetical framing for the video."
+  ]
+}

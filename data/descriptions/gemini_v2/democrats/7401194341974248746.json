@@ -1,0 +1,87 @@
+{
+  "video_id": "7401194341974248746",
+  "visual_action": "A short slideshow of two static images. The first is the front page of 'The Philadelphia Inquirer' from August 7, 2024, with a blue text box overlaid on it. The second image is the front page of 'The New York Times' from the same date. Both newspaper front pages feature Kamala Harris and Tim Walz, announcing Walz as the Democratic VP pick.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Pictured on the front page of both The Philadelphia Inquirer and The New York Times, and named in headlines about her selection of a running mate."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Pictured on the front page of both The Philadelphia Inquirer and The New York Times. The main headlines announce his selection as the VP pick, e.g., 'Minn. Gov. Tim Walz makes debut as Democrats' VP pick'."
+    },
+    {
+      "name": "Josh Shapiro",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Pictured and named in a smaller article on the front page of The Philadelphia Inquirer with the headline 'Insiders say Shapiro too ambitious to be only 'vice' president'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post is from the official @democrats account and the newspaper headlines refer to the 'Democrats' VP pick'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "We LOVE good news about Harris-Walz 🤗",
+      "role": "overlay"
+    },
+    {
+      "text": "The Philadelphia Inquirer",
+      "role": "other"
+    },
+    {
+      "text": "WEDNESDAY, AUGUST 7, 2024",
+      "role": "other"
+    },
+    {
+      "text": "CAMPAIGN 2024",
+      "role": "other"
+    },
+    {
+      "text": "Minn. Gov. Tim Walz makes debut as Democrats' VP pick",
+      "role": "other"
+    },
+    {
+      "text": "The New York Times",
+      "role": "other"
+    },
+    {
+      "text": "MINNESOTA'S WALZ IS HARRIS'S CHOICE FOR RUNNING MATE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An enthusiastic female voice repeats, \"I love good news! Love good news! I just love good news!\"",
+  "emojis_present": [
+    "🤗"
+  ],
+  "audio_music": "The video's audio consists solely of a woman's excited speaking voice. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a slow-paced slideshow, showing two static images in sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "joy",
+    "pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "The selection of Tim Walz as Kamala Harris's running mate is positive news, validated by front-page coverage in major newspapers like The Philadelphia Inquirer and The New York Times.",
+  "intended_effect": "To generate excitement and positive sentiment for the Democratic ticket of Harris and Walz.",
+  "uncertainty_flags": [
+    "The provided transcript was empty, but the spoken audio is clearly a woman saying 'I love good news'."
+  ]
+}

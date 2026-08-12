@@ -1,0 +1,87 @@
+{
+  "video_id": "7540494832012233998",
+  "visual_action": "A fast-paced montage of clips showing Donald Trump in various settings. He is seen speaking outdoors while wearing a 'MAKE AMERICA GREAT AGAIN' hat, delivering remarks from a podium in a formal room, talking while seated in an office, answering his phone, and speaking at a congressional podium. Other clips show him from behind, on stage in front of a cheering crowd of people in military-style uniforms, dancing on a stage, getting into a red Tesla, and interacting with a person in an Easter Bunny costume at the White House Easter Egg Roll. The video concludes with black and white footage of the White House building and a helicopter, overlaid with text.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the subject of every clip in the video, shown speaking, and identified by face recognition."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says, 'You remember when the bunny took Joe Biden out?'"
+    },
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says, 'You would say Pocahontas says yes,' using his well-known nickname for her."
+    },
+    {
+      "name": "Canada",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says, 'And I like Canada very much, but we don't want to have Canada making our cars.'"
+    },
+    {
+      "name": "unnamed congressman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "While on the phone, Trump says, 'Okay, it's only a congressman.'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with shots of the building and the on-screen text 'THE WHITE HOUSE'. The post is also from the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video is a compilation of Donald Trump's quotes. He begins by stating, 'I was the hunted, and now I'm the hunter.' He makes several authoritative statements, such as threatening to withhold federal funding ('You better comply, because otherwise you're not getting any federal funding'), dismissing a legal challenge ('Good, I'll see you in court'), and asserting dominance ('You don't have the cards right now'). He also includes humorous or dismissive remarks, such as interrupting a meeting for a phone call ('it's only a congressman'), talking about the Easter Bunny 'taking Joe Biden out', and referring to Elizabeth Warren as 'Pocahontas.'",
+  "emojis_present": [],
+  "audio_music": "The audio begins with Trump's spoken dialogue. Around the 3-second mark, a tense, ominous cinematic score ('This Is Not the Beginning of the War' by jerys) fades in under his threatening lines and then fades out. The middle section is primarily dialogue without a music bed. A loud, upbeat, celebratory disco track ('Y.M.C.A.' by Village People) plays during clips of Trump dancing and being cheered by a large crowd. The final portion of the video returns to dialogue-only clips.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between many different short clips and soundbites of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "power",
+    "intimidation",
+    "confidence",
+    "humor",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Y.M.C.A. by Village People",
+    "Easter Bunny",
+    "Pocahontas"
+  ],
+  "central_claim": "Donald Trump, having been 'the hunted,' is now 'the hunter,' and is portrayed as a powerful, confident, and often humorous leader who is in control.",
+  "intended_effect": "To create a 'hype' video that energizes supporters and portrays Donald Trump as a strong, charismatic, and entertaining leader who is unafraid to challenge his opponents.",
+  "uncertainty_flags": [
+    "The music track 'THIEFLAND — MC PICH' identified by audio fingerprinting is not clearly audible in the video; that segment is dominated by dialogue."
+  ]
+}

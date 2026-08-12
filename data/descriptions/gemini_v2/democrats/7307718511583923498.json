@@ -1,0 +1,80 @@
+{
+  "video_id": "7307718511583923498",
+  "visual_action": "The video displays a sequence of images. First, an official portrait of George Santos in front of an American flag. Second, a close-up video clip of George Santos speaking. Third, a screenshot of a tweet from the news organization POLITICO announcing that Santos has been expelled from the House of Representatives.",
+  "cast": [
+    {
+      "name": "George Santos",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The POLITICO tweet shown on screen reads 'George Santos is out.' He is also shown in two images."
+    },
+    {
+      "name": "POLITICO",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the @politico account is shown."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet describes George Santos as 'The scandal-plagued Republican'."
+    },
+    {
+      "name": "U.S. House of Representatives",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet states, 'It's the first time since the Civil War the House ousted someone without a criminal conviction.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the day",
+      "role": "overlay"
+    },
+    {
+      "text": "the music",
+      "role": "overlay"
+    },
+    {
+      "text": "died.",
+      "role": "overlay"
+    },
+    {
+      "text": "POLITICO @politico",
+      "role": "chyron"
+    },
+    {
+      "text": "George Santos is out.",
+      "role": "chyron"
+    },
+    {
+      "text": "The scandal-plagued Republican has finally been expelled. It's the first time since the Civil War the House ousted someone without a criminal conviction.",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. The audio consists of the song \"American Pie\" by Don McLean. The on-screen text—'the day', 'the music', 'died'—corresponds to the lyrics being sung.",
+  "emojis_present": [],
+  "audio_music": "The video features the slow, melancholic ballad \"American Pie\" by Don McLean throughout. The famous lyric 'The day the music died' is used to create a dramatic and mocking tone regarding George Santos's expulsion.",
+  "editing_pacing": "The video is a slow-paced slideshow, cutting between two images of George Santos and a static screenshot of a tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "American Pie by Don McLean"
+  ],
+  "central_claim": "Republican Congressman George Santos has been expelled from the House of Representatives.",
+  "intended_effect": "To celebrate the expulsion of a political opponent and mock him by framing his political downfall with a famous, dramatic song.",
+  "uncertainty_flags": []
+}

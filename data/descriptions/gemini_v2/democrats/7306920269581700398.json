@@ -1,0 +1,89 @@
+{
+  "video_id": "7306920269581700398",
+  "visual_action": "The video is a montage of still images. It begins with a photo of Donald Trump in front of an American flag. It then cuts to a photo of him on a golf course wearing a 'MAKE AMERICA GREAT AGAIN' hat. The video concludes with a four-panel grid showing photos of Ron DeSantis, Nikki Haley, Vivek Ramaswamy, and Chris Christie.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in two separate photos and named in the on-screen text 'behind Donald Trump'."
+    },
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His photo appears in a four-panel grid labeled 'MAGA extremists'."
+    },
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her photo appears in a four-panel grid labeled 'MAGA extremists'."
+    },
+    {
+      "name": "Vivek Ramaswamy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His photo appears in a four-panel grid labeled 'MAGA extremists'."
+    },
+    {
+      "name": "Chris Christie",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His photo appears in a four-panel grid labeled 'MAGA extremists'."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text 'MAGA extremists' is used to label a group of Republican politicians."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "behind Donald Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "is a party of...",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "MAGA extremists 😩",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only a song playing.",
+  "emojis_present": [
+    "😩"
+  ],
+  "audio_music": "An upbeat, funky rock song ('Confidence' by Ocean Alley) plays throughout the video, providing a driving rhythm for the visual montage.",
+  "editing_pacing": "The video is a simple slideshow of still images, with text overlays appearing sequentially to form a sentence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disapproval",
+    "Concern",
+    "Frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican party, including prominent figures like Ron DeSantis, Nikki Haley, Vivek Ramaswamy, and Chris Christie, is composed of 'MAGA extremists' who follow Donald Trump.",
+  "intended_effect": "To frame prominent Republican politicians as extremists ideologically aligned with Donald Trump, thereby portraying the party negatively.",
+  "uncertainty_flags": []
+}

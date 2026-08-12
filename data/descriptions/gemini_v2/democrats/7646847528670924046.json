@@ -1,0 +1,92 @@
+{
+  "video_id": "7646847528670924046",
+  "visual_action": "A split-screen video contrasts two sets of imagery. The top half shows scenes from LGBTQ+ Pride parades: people marching, holding rainbow and transgender pride flags, celebrating, and holding signs like \"LOVE WINS\" and \"Homophobia has a cure: EDUCATION\". The bottom half shows scenes of chaos and conflict: footage of the January 6th Capitol attack with people climbing the building, police in riot gear clashing with crowds, officers pinning a person to the ground in the snow, industrial smokestacks emitting pollution, and a woman wearing a shirt that reads \"TALKING TO YOU REMINDS ME TO CLEAN MY GUN\".",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video was posted by the official @democrats account and contrasts positive imagery associated with progressive causes (LGBTQ+ Pride) with negative imagery associated with their political opponents."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video heavily features imagery from the January 6th Capitol attack, an event for which he was the central figure and which is core to the video's portrayal of political opposition."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A person identified as JD Vance by external tools is briefly visible in the montage of conflict scenes on the bottom half of the screen."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A person identified as Pete Hegseth by external tools is briefly visible in the montage of conflict scenes on the bottom half of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "i'll believe in anything",
+      "role": "overlay"
+    },
+    {
+      "text": "you'll believe in any thing",
+      "role": "overlay"
+    },
+    {
+      "text": "Homophobia has a cure: EDUCATION",
+      "role": "other"
+    },
+    {
+      "text": "LOVE WINS",
+      "role": "other"
+    },
+    {
+      "text": "Y'ALL MEANS ALL",
+      "role": "other"
+    },
+    {
+      "text": "TALKING TO YOU REMINDS ME TO CLEAN MY GUN",
+      "role": "other"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists entirely of the song \"I'll Believe in Anything\" by Wolf Parade. The lyrics \"I'll believe in anything\" and \"You'll believe in anything\" are sung repeatedly, corresponding to the text shown on the top and bottom halves of the screen, respectively.",
+  "emojis_present": [
+    "🏳️‍🌈"
+  ],
+  "audio_music": "The video is set to the indie rock song \"I'll Believe in Anything\" by Wolf Parade. The driving, energetic track plays continuously, creating a tense and propulsive mood for the montage.",
+  "editing_pacing": "The video is a fast-paced montage with rapid cuts between different scenes. It consistently uses a split-screen format to juxtapose the two sets of imagery.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "joy",
+    "love",
+    "anger",
+    "fear",
+    "division"
+  ],
+  "cultural_references": [
+    "LGBTQ+ Pride parades",
+    "January 6th United States Capitol attack",
+    "\"I'll Believe in Anything\" by Wolf Parade"
+  ],
+  "central_claim": "The Democratic Party and its supporters believe in positive values like love and inclusion, while their political opponents believe in and create chaos, violence, and division.",
+  "intended_effect": "To create a stark moral contrast that encourages viewers to associate the Democratic Party with positivity and pride, and to associate their political opponents with violence and negativity.",
+  "uncertainty_flags": []
+}

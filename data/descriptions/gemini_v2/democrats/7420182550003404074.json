@@ -1,0 +1,75 @@
+{
+  "video_id": "7420182550003404074",
+  "visual_action": "The video displays a split-screen still image. On the left, Tim Walz is smiling and clapping. On the right, JD Vance has a serious expression. Text overlay reads \"COACH WALZ v. JD VANCE → soon\". It then cuts to a promotional graphic for a CBS News Vice Presidential Debate featuring images of both Vance and Walz, scheduled for October 1st. A final text overlay reads \"TUNE IN TUESDAY, OCTOBER 1ST!\".",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His image is shown and he is named in the on-screen text \"COACH WALZ\"."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His image is shown and he is named in the on-screen text \"JD VANCE\"."
+    },
+    {
+      "name": "CBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo \"CBS NEWS\" appears on the debate announcement graphic."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "COACH WALZ v. JD VANCE → soon",
+      "role": "overlay"
+    },
+    {
+      "text": "TUNE IN TUESDAY, OCTOBER 1ST!",
+      "role": "overlay"
+    },
+    {
+      "text": "CBS NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "AMERICA DECIDES",
+      "role": "chyron"
+    },
+    {
+      "text": "VICE PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "OCTOBER 1ST",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only instrumental music plays.",
+  "emojis_present": [
+    "→"
+  ],
+  "audio_music": "An intense, orchestral, fanfare-style track plays throughout, creating a sense of a major, high-stakes showdown, like a movie trailer or a major sporting event. The fingerprinted track is identified as 'Dro'dUp Izuurt' by Jared Goff.",
+  "editing_pacing": "The video is a simple slideshow consisting of two static images with text overlays and a single cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anticipation",
+    "hype"
+  ],
+  "cultural_references": [
+    "The video frames the debate as a sports matchup, using the format 'COACH WALZ v. JD VANCE'.",
+    "The music track is titled with the name of NFL quarterback Jared Goff, reinforcing the sports theme."
+  ],
+  "central_claim": "The Vice Presidential debate between Tim Walz and JD Vance will take place on Tuesday, October 1st, on CBS News.",
+  "intended_effect": "To generate hype for the upcoming Vice Presidential debate and encourage viewers to watch and support Tim Walz.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,53 @@
+{
+  "video_id": "7223513674483485998",
+  "visual_action": "The video opens with a medium shot of Donald Trump seated at what appears to be an MSNBC town hall or interview setting, wearing a dark suit and red tie. The MSNBC logo is visible in the background along with audience members. The camera then cuts to a closer shot of Trump's face as he continues speaking. A red warning-box overlay reading \"⚠️Trump believes in punishment for women who have abortions ⚠️\" is prominently displayed throughout the first portion of the clip. In later frames, the video zooms into a tight close-up of Trump's face as he speaks, with rolling subtitle-style caption boxes at the bottom showing the spoken dialogue. The editing includes slow zoom-ins on Trump's face during the key \"punishment\" statement.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Confirmed by face-ID; shown speaking on screen throughout; the overlay text names him directly: '⚠️Trump believes in punishment for women who have abortions ⚠️'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "⚠️Trump believes in punishment for women who have abortions ⚠️",
+      "role": "overlay"
+    },
+    {
+      "text": "Yes or no, as a principle.",
+      "role": "caption"
+    },
+    {
+      "text": "The answer is that,",
+      "role": "caption"
+    },
+    {
+      "text": "there has to be some form of punishment.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An off-screen interviewer presses Trump with \"Yes or no, as a principle.\" Trump responds: \"The answer is that, there has to be some form of punishment.\" A follow-up (implied or heard) asking \"For the woman?\" is referenced in the OCR as Trump confirming \"Yeah, there has to be some form [of punishment].\" This is drawn from a known MSNBC interview exchange on abortion.",
+  "emojis_present": [
+    "⚠️"
+  ],
+  "audio_music": "The clip uses the track \"Daughters will seek change\" by Kaitlin Knoblock (per ACRCloud fingerprint), which has a somber, emotional, and reflective tone — creating a grave, foreboding atmosphere that underscores the weight of Trump's statement about punishment. No music change detected across the clip; the track appears to run continuously beneath the dialogue.",
+  "editing_pacing": "Moderate pacing with slow zoom-ins on Trump's face during key moments, particularly as the word \"punishment\" is spoken. The clip transitions from a wider MSNBC town-hall shot to progressively tighter close-ups of Trump's face, emphasizing his expression and the gravity of his words. Caption boxes roll in sync with the audio.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm/warning — triggered by the red ⚠️ overlay box",
+    "gravity/seriousness — conveyed by the somber background music and slow zoom-ins on Trump's face",
+    "outrage — framed by the clip's focus on the 'punishment' statement"
+  ],
+  "cultural_references": [],
+  "central_claim": "Trump stated in an on-camera interview that women who have abortions should face \"some form of punishment,\" and this post presents that statement as a definitive expression of his position on abortion.",
+  "intended_effect": "To cause viewers to feel alarm and concern about Trump's position on abortion by presenting his own words as evidence that he supports punishing women who have abortions.",
+  "uncertainty_flags": [
+    "The exact original broadcast/interview date is not visible on screen — this appears to be the well-known March 2016 MSNBC Chris Matthews town hall clip where Trump made this statement, but the date cannot be confirmed from the frames alone.",
+    "The full interviewer question ('For the woman?') is partially reconstructed from OCR; the audio transcript did not capture it explicitly.",
+    "It is unclear whether the background music begins immediately or after a brief silence, as no timestamp data is available beyond the ACRCloud fingerprint start point."
+  ]
+}

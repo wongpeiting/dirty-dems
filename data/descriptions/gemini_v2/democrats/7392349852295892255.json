@@ -1,0 +1,96 @@
+{
+  "video_id": "7392349852295892255",
+  "visual_action": "The video opens with a still photo of Donald Trump shaking hands with J.D. Vance, with meme text overlaid. It then cuts to a screenshot of a Fox News broadcast graphic that shows a headshot of Vance next to a list of his purported past anti-Trump comments.",
+  "cast": [
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face is shown in the initial photo with Trump and in a headshot on a Fox News graphic detailing his purported 'PAST COMMENTS ON TRUMP'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in a photo shaking hands with J.D. Vance, and the on-screen text 'lol Trump just picked his running mate' makes his decision the subject of the video."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and broadcast graphics are used to display J.D. Vance's past comments."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "lol Trump just picked his running mate",
+      "role": "meme_text"
+    },
+    {
+      "text": "PAST COMMENTS ON TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "\"I'M A NEVER TRUMP GUY\"",
+      "role": "overlay"
+    },
+    {
+      "text": "\"NEVER LIKED HIM\"",
+      "role": "overlay"
+    },
+    {
+      "text": "\"TERRIBLE CANDIDATE\"",
+      "role": "overlay"
+    },
+    {
+      "text": "\"IDIOT IF YOU VOTED FOR HIM\"",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP TICKET",
+      "role": "chyron"
+    },
+    {
+      "text": "CONTENDERS FOR VICE PRESIDENT PICK",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "other"
+    },
+    {
+      "text": "NATIONAL REPORT",
+      "role": "other"
+    },
+    {
+      "text": "FOX NEWS DEMOCRACY '24",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio is a clip of a woman saying the punchline, \"That's what she said.\" Her speech is then interrupted by a sound effect, and she asks in confusion, \"What was that?\"",
+  "emojis_present": [],
+  "audio_music": "The audio is a comedic sound clip, not music. It features dialogue that begins with a well-known joke punchline (\"That's what she said\"), which is then abruptly cut off by a sound effect similar to a record scratch. This is timed to the visual reveal of the contradictory information, creating a jarring, 'wait a minute' effect for comedic and mocking purposes.",
+  "editing_pacing": "The video consists of two static images with a single hard cut between them. The pacing is dictated entirely by this one transition.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "surprise"
+  ],
+  "cultural_references": [
+    "\"That's what she said\" joke, widely popularized by the character Michael Scott in the TV show 'The Office' (US).",
+    "The 'record scratch' sound effect, a common media trope used to signal a surprising or awkward revelation."
+  ],
+  "central_claim": "Donald Trump's choice of J.D. Vance as a running mate is absurd and hypocritical, given Vance's documented history of making virulently anti-Trump statements.",
+  "intended_effect": "To mock Donald Trump and J.D. Vance, portray Vance as a hypocritical flip-flopper, and undermine the credibility of their political alliance.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript was empty, but dialogue is clearly audible in the video."
+  ]
+}

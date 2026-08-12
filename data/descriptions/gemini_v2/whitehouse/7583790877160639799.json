@@ -1,0 +1,134 @@
+{
+  "video_id": "7583790877160639799",
+  "visual_action": "Donald Trump stands at a podium with a golden eagle emblem, delivering a speech. A woman stands behind him to his right. The setting appears to be a formal event space with Christmas decorations, including a garland with lights on a staircase in the background. The video is framed with a Fox News chyron at the bottom and has overlaid text summarizing his points.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, delivering a speech from a podium."
+    },
+    {
+      "name": "Brown University",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned on screen text (\"President Trump Pays respects to the victims at Brown University\") and in the audio (\"Brown University, nine injured\")."
+    },
+    {
+      "name": "Australia",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned on screen text (\"...in Australia\") and in the audio (\"likewise in Australia, as you know, that was a terrible attack\")."
+    },
+    {
+      "name": "Syria",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions an attack in Syria multiple times in his speech."
+    },
+    {
+      "name": "ISIS",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states, \"It was ISIS,\" referring to an attack in Syria."
+    },
+    {
+      "name": "Syrian government",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states, \"And not the Syrian government, it was ISIS. The Syrian government fought by our side.\""
+    },
+    {
+      "name": "Australian Prime Minister",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions \"the prime minister\" when referring to Australia."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Pays respects to the victims at Brown University & in Australia",
+      "role": "overlay"
+    },
+    {
+      "text": "Pay my respects to the people.",
+      "role": "caption"
+    },
+    {
+      "text": "Unfortunately, two are no longer with us.",
+      "role": "caption"
+    },
+    {
+      "text": "Brown University, nine injured and two are looking down on us right now from heaven.",
+      "role": "caption"
+    },
+    {
+      "text": "11 dead, 29 badly wounded.",
+      "role": "caption"
+    },
+    {
+      "text": "And that was an antisemitic attack, obviously.",
+      "role": "caption"
+    },
+    {
+      "text": "three great patriots terminated by bad people.",
+      "role": "caption"
+    },
+    {
+      "text": "I pay my deepest regards and respects from the United States of America,",
+      "role": "caption"
+    },
+    {
+      "text": "we celebrate Hanukkah, cause that was such a horrible attack.",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP SPEAKS ON AUSTRALIA",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SPEAKS AT W",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SPEAKS ON BROWN UNI",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump gives a speech paying his respects to victims of several recent tragedies. He mentions an incident at Brown University with two dead and nine injured, and a \"terrible antisemitic attack\" in Australia with 11 dead and 29 wounded. He also discusses an attack in Syria where three \"great patriots\" were killed by ISIS, clarifying that the Syrian government was not responsible and fought alongside the US. He extends his condolences to the families of the deceased and wishes the injured a speedy recovery, stating that he is speaking on behalf of the United States. He concludes by saying that despite the tragedies, they are gathered to celebrate Christmas and Hanukkah.",
+  "emojis_present": [],
+  "audio_music": "The video's audio consists entirely of Donald Trump's speech. There is no music or other sound.",
+  "editing_pacing": "The video consists of a single continuous shot of Donald Trump speaking, with slow zooms in and out. The editing is minimal, resembling a live news broadcast.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Solemnity",
+    "Sympathy",
+    "Mourning",
+    "Respect"
+  ],
+  "cultural_references": [
+    "Fox News"
+  ],
+  "central_claim": "Donald Trump is addressing several recent tragic attacks with solemnity and empathy, offering condolences to victims in the US, Australia, and Syria on behalf of the nation.",
+  "intended_effect": "To portray Donald Trump as a compassionate and presidential leader, mourning victims and offering comfort during times of tragedy.",
+  "uncertainty_flags": []
+}

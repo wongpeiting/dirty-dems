@@ -1,0 +1,47 @@
+{
+  "video_id": "7637543542394539277",
+  "visual_action": "The post is a static or near-static vertical-format graphic. The upper portion shows a close-up photograph of Donald Trump mid-speech, mouth open, wearing a dark suit jacket over a light-colored shirt, against a blurred warm-toned background. The lower portion has a solid black bar with large white bold text displaying a quoted remark attributed to Trump. The image is repeated across all 8 keyframes with no visible change, suggesting a still image or very slow slideshow presented as a short video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "On-screen text attributes the quote 'I HOPE NOT...' to 'Trump on whether hantavirus will spread in the United States'; face visible in photograph"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "❝❞",
+      "role": "overlay"
+    },
+    {
+      "text": "I HOPE NOT...",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump on whether hantavirus will spread in the United States",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "No audible speech detected in the Whisper transcript. The OCR captures the on-screen text which includes a fuller exchange: 'Should Americans be concerned that [hantavirus] is going to spread? I hope not… I mean, I hope not.' This represents Trump's quoted response to a question about hantavirus spreading in the United States.",
+  "emojis_present": [],
+  "audio_music": "Background music is present throughout; identified by ACRCloud fingerprint as a sped-up version of a track on PAN Entertainment, title partially unresolved ('Take a slice' listed as TikTok sound label). The tone and pacing of a sped-up pop track gives the post an upbeat or satirical quality rather than a somber one.",
+  "editing_pacing": "Static single-image presentation held across all keyframes — no cuts, transitions, or motion detected. Functions as an animated still or photo card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disbelief — the quote 'I HOPE NOT...' is framed as a strikingly minimal response to a serious public health question, inviting incredulity",
+    "mockery — the large-format pull-quote style and upbeat audio together highlight the brevity of the answer for comic or critical effect"
+  ],
+  "cultural_references": [],
+  "central_claim": "Trump's response to whether hantavirus would spread in the United States was simply \"I hope not,\" implying his answer was inadequate or alarming as a public health statement.",
+  "intended_effect": "Prompt viewers to view Trump's quoted response as an insufficient or alarming answer to a serious public health concern about hantavirus spreading in the US.",
+  "uncertainty_flags": [
+    "The exact source/context of the Trump quote (interview, press gaggle, date) is not specified in the post and cannot be verified from available materials.",
+    "The full ACRCloud music title is partially unresolved; 'Take a slice' is the TikTok sound label but the artist/track identity is marked uncertain in the fingerprint.",
+    "Face recognition did not confirm Trump's identity via face-ID; identification relies on on-screen text attribution.",
+    "Whether this references a specific hantavirus outbreak event after knowledge cutoff cannot be confirmed without additional context."
+  ]
+}

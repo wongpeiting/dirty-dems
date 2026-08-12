@@ -1,0 +1,71 @@
+{
+  "video_id": "7299280243645336875",
+  "visual_action": "A split-screen view from a televised debate. On the left, Ron DeSantis looks down and then up with a grimace. On the right, Vivek Ramaswamy is speaking at a podium. The background is a blue set with star graphics. A chyron is visible at the bottom, and an emoji of eyes and a mouth is superimposed at the top center of the screen.",
+  "cast": [
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is shown on the left side of a split-screen during a debate, reacting to the speaker."
+    },
+    {
+      "name": "Vivek Ramaswamy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "His face is shown on the right side of a split-screen during a debate, and he is the one speaking."
+    },
+    {
+      "name": "NBC NEWS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NBC News logo is visible in the chyron."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the event as a 'REPUBLICAN PRESIDENTIAL DEBATE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "👁️👄👁️",
+      "role": "overlay"
+    },
+    {
+      "text": "REPUBLICAN PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "NBC NEWS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Vivek Ramaswamy says, \"...in a 20-mile radius of a military base lobbied for by one of your donors.\"",
+  "emojis_present": [
+    "👁️",
+    "👄"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the debate, with no accompanying music or sound effects.",
+  "editing_pacing": "The video is a single, static, split-screen shot from a debate broadcast, with a graphic overlay added at the top.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "An emoji combination of eyes and a mouth (👁️👄👁️) is superimposed over the top of the debate footage. This is a common meme format used to signify watching drama unfold.",
+  "emotions_signaled": [
+    "Mockery",
+    "Awkwardness"
+  ],
+  "cultural_references": [
+    "The 👁️👄👁️ emoji combination is a well-known internet meme used to express shock or to indicate that one is watching drama."
+  ],
+  "central_claim": "Ron DeSantis is shown reacting uncomfortably as Vivek Ramaswamy accuses him of being improperly influenced by political donors.",
+  "intended_effect": "To portray Ron DeSantis as weak, flustered, and potentially corrupt.",
+  "uncertainty_flags": []
+}

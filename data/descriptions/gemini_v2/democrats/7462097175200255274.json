@@ -1,0 +1,61 @@
+{
+  "video_id": "7462097175200255274",
+  "visual_action": "Elon Musk stands at a podium with a presidential-style blue backdrop with white stars. He says \"Thank you\" and makes a sweeping gesture with his right arm, raising it with an open palm. The video then cuts to a wide shot of a large, cheering crowd in what appears to be an arena or stadium.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person shown speaking at the podium and is identified by face recognition and on-screen text."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text describes the event as the 'Trump Presidential Parade'."
+    },
+    {
+      "name": "Nazis",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly references 'N@zis' to describe the gesture Musk makes."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Elon Musk does a Roman Salute, the common greeting of N@zis, at the Trump Presidential Parade",
+      "role": "overlay"
+    },
+    {
+      "text": "THANK YOU.",
+      "role": "caption"
+    },
+    {
+      "text": "60TH PRESIDENTIAL INAUGURATION",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Elon Musk says, \"Thank you,\" which is followed by the sound of a large crowd cheering loudly.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a single spoken line followed by loud, sustained crowd cheering and applause. There is no music.",
+  "editing_pacing": "A static shot of a speaker followed by a quick cut to a wide crowd reaction shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "outrage",
+    "suspicion"
+  ],
+  "cultural_references": [],
+  "central_claim": "Elon Musk performed a gesture analogous to a Nazi salute at a presidential event for Donald Trump.",
+  "intended_effect": "To associate Elon Musk and Donald Trump with Nazism, thereby generating outrage and alarm.",
+  "uncertainty_flags": [
+    "It is unclear if the footage of the cheering crowd is from the same event and is a direct reaction to Elon Musk's gesture, or if it is generic B-roll footage edited in."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "video_id": "7563677383128009997",
+  "visual_action": "The video displays a screenshot of a news article with a headline about Diddy and Donald Trump, featuring a photo of Diddy. It then cuts to a clip of Donald Trump speaking while seated in a red armchair. Finally, it shows a still photograph of Donald Trump and Diddy shaking hands.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in a video clip and in a photograph, and is named in the on-screen headline: 'TRUMP CONSIDERING COMMUTING SENTENCE THIS WEEK'."
+    },
+    {
+      "name": "Diddy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in two photographs and is the subject of the on-screen headline 'DIDDY'. Donald Trump also says 'Diddy's a good friend of mine'."
+    },
+    {
+      "name": "TMZ",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news article screenshot is attributed with the text 'By TMZ STAFF'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DIDDY",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP CONSIDERING COMMUTING SENTENCE THIS WEEK",
+      "role": "overlay"
+    },
+    {
+      "text": "EXCLUSIVE",
+      "role": "overlay"
+    },
+    {
+      "text": "By TMZ STAFF",
+      "role": "overlay"
+    },
+    {
+      "text": "Published October 20, 2025 6:03 PM PDT | Updated October 21, 2025 6:34 AM PDT",
+      "role": "overlay"
+    },
+    {
+      "text": "Getty",
+      "role": "credit"
+    },
+    {
+      "text": "You know, Diddy's a good friend of mine.",
+      "role": "caption"
+    },
+    {
+      "text": "He's a good guy. I'm gonna stick up for him.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"You know, Diddy's a good friend of mine. He's a good guy. I'm gonna stick up for him.\"",
+  "emojis_present": [],
+  "audio_music": "The song 'She Knows' by J. Cole plays throughout the video, creating a serious and somewhat ominous mood that underscores the political implication being made.",
+  "editing_pacing": "The video is a slow-paced slideshow, cutting between a static news article screenshot, a short talking-head clip, and a static photograph.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated screenshot of a TMZ news article with the headline 'DIDDY TRUMP CONSIDERING COMMUTING SENTENCE THIS WEEK' and dates in October 2025. This staged document is used to imply a future corrupt action by Donald Trump.",
+  "emotions_signaled": [
+    "Suspicion",
+    "Distrust",
+    "Concern"
+  ],
+  "cultural_references": [
+    "J. Cole",
+    "TMZ"
+  ],
+  "central_claim": "Donald Trump's close friendship with Diddy implies he would corruptly use presidential power to help him, such as commuting a prison sentence.",
+  "intended_effect": "To portray Donald Trump as corrupt and prone to cronyism, thereby generating negative sentiment towards him.",
+  "uncertainty_flags": []
+}

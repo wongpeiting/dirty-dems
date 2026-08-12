@@ -1,0 +1,84 @@
+{
+  "video_id": "7603442693703863566",
+  "visual_action": "Donald Trump speaks at a podium with a blue backdrop that reads 'NATIONAL PRAYER BREAKFAST'. The video then cuts to a montage of US military imagery, including an American flag waving against a blue sky, fighter jets flying in formation, a B-2 stealth bomber, an aircraft carrier deck, a large flag being hoisted over a naval ship, and a missile launch. The video concludes with a title card for 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium for the first third of the video. His audio is used to frame the entire piece. His presence is also confirmed by face-ID."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a title card that reads 'THE WHITE HOUSE'. The posting account is also @whitehouse."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NATIONAL PRAYER BREAKFAST",
+      "role": "other"
+    },
+    {
+      "text": "SLEEP",
+      "role": "overlay"
+    },
+    {
+      "text": "PLANE.",
+      "role": "overlay"
+    },
+    {
+      "text": "ON",
+      "role": "overlay"
+    },
+    {
+      "text": "SLEEPING",
+      "role": "overlay"
+    },
+    {
+      "text": "KNOW,",
+      "role": "overlay"
+    },
+    {
+      "text": "LIKE",
+      "role": "overlay"
+    },
+    {
+      "text": "WATCHING",
+      "role": "overlay"
+    },
+    {
+      "text": "MISSILES",
+      "role": "overlay"
+    },
+    {
+      "text": "ENEMIES.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump states that he doesn't sleep on planes because he prefers to be vigilant, saying, \"I like looking out the window watching for missiles and enemies.\"",
+  "emojis_present": [],
+  "audio_music": "The first ~8 seconds feature only Donald Trump's spoken audio. Then, a dramatic, bass-heavy hip-hop track begins abruptly with the start of the military montage, creating a powerful and intense atmosphere for the remainder of the video.",
+  "editing_pacing": "The video begins with a static talking-head shot of Donald Trump, then abruptly switches to a fast-paced montage with quick cuts showing military imagery.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Humor",
+    "Intimidation"
+  ],
+  "cultural_references": [],
+  "central_claim": "Under Donald Trump's vigilant leadership, the United States maintains overwhelming military power and is always ready to defend against its enemies.",
+  "intended_effect": "To evoke feelings of patriotic pride and confidence in both U.S. military strength and Donald Trump's constant vigilance as commander-in-chief.",
+  "uncertainty_flags": []
+}

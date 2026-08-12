@@ -1,0 +1,107 @@
+{
+  "video_id": "7614187529692007711",
+  "visual_action": "The video alternates between black-background quote cards attributing statements to James Talarico (Democrat nominee for U.S. Senate in Texas) and reaction meme clips. Quote card 1: \"GOD IS NON-BINARY\" over a desaturated photo of Talarico at a podium. Reaction: Steve Harvey leaning forward with a grimacing/shocked expression (from Family Feud). Quote card 2: \"THERE ARE 'SIX' BIOLOGICAL GENDERS\" over a desaturated photo of Talarico giving a thumbs-up at a microphone. Reaction: SpongeBob SquarePants looking panicked/confused while seated in a vehicle (animated cartoon still). Quote card 3: \"OUR SOUTHERN BORDER SHOULD BE LIKE OUR FRONT PORCH.\" over a desaturated photo of Talarico speaking. Reaction: An unidentified young man with curly hair tilting his head with a skeptical/confused expression in what appears to be an Apple Store. Quote card 4: \"OUR TRANS COMMUNITY NEEDS ABORTION CARE TOO.\" over a desaturated photo of Talarico speaking with hand raised. Reaction: A man in a suit with an American-flag lapel pin (appearing to be a movie/TV clip, possibly Jonah Hill) doing a face-palm gesture. Each Talarico quote card uses bold red italic text with red opening quotation marks on a black background, and a red chyron at the bottom reading \"DEMOCRAT NOMINEE FOR U.S. SENATE IN TEXAS JAMES TALARICO.\"",
+  "cast": [
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Red chyron on every quote card reads 'DEMOCRAT NOMINEE FOR U.S. SENATE IN TEXAS JAMES TALARICO'; desaturated photos of him shown throughout."
+    },
+    {
+      "name": "Steve Harvey",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Recognizable bald head, mustache, gray suit — well-known TV personality used as a reaction clip."
+    },
+    {
+      "name": "SpongeBob SquarePants",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Animated cartoon character from the Nickelodeon show SpongeBob SquarePants shown with panicked expression."
+    },
+    {
+      "name": "unnamed curly-haired man",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Unidentified young man with curly hair making a skeptical face in what appears to be an Apple Store; used as a reaction meme."
+    },
+    {
+      "name": "unnamed suited man (face-palm)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Man in dark suit with American-flag lapel pin doing a face-palm; appears to be a movie or TV clip, possibly Jonah Hill."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"GOD IS NON-BINARY",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRAT NOMINEE FOR U.S. SENATE IN TEXAS JAMES TALARICO",
+      "role": "chyron"
+    },
+    {
+      "text": "\"THERE ARE \"SIX\" BIOLOGICAL GENDERS",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRAT NOMINEE FOR U.S. SENATE IN TEXAS JAMES TALARICO",
+      "role": "chyron"
+    },
+    {
+      "text": "\"OUR SOUTHERN BORDER SHOULD BE LIKE OUR FRONT PORCH.",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRAT NOMINEE FOR U.S. SENATE IN TEXAS JAMES TALARICO",
+      "role": "chyron"
+    },
+    {
+      "text": "\"OUR TRANS COMMUNITY NEEDS ABORTION CARE TOO.",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRAT NOMINEE FOR U.S. SENATE IN TEXAS JAMES TALARICO",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "No spoken audio is present. The Whisper transcript is empty, consistent with the video relying entirely on on-screen text and visual reaction clips. The audio track is listed as \"original sound,\" likely meaning background music or silence only.",
+  "emojis_present": [],
+  "audio_music": "Original sound; no identifiable music or speech detected per transcript. Likely minimal or no audio, with the post's messaging carried entirely through text and visuals.",
+  "editing_pacing": "Slideshow/cut format: alternating quote cards and reaction meme stills or short clips, with abrupt cuts between each. Fast-paced sequence of four quote–reaction pairs. Static black-background title cards contrast with color/grayscale reaction images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock — Steve Harvey's grimacing reaction to 'God is non-binary' quote",
+    "confusion/disbelief — SpongeBob's panicked expression responding to 'six biological genders' quote",
+    "skepticism/mockery — curly-haired man's tilted, dubious look responding to southern border quote",
+    "exasperation/frustration — face-palm reaction to 'trans community needs abortion care' quote"
+  ],
+  "cultural_references": [
+    "Steve Harvey grimace/reaction meme (Family Feud)",
+    "SpongeBob SquarePants confused/panicked meme (Nickelodeon animated series)",
+    "Unnamed curly-haired man skeptical face meme (viral internet reaction format)",
+    "Face-palm man in suit (possible movie/TV clip, possibly Jonah Hill)"
+  ],
+  "central_claim": "James Talarico, the Democrat nominee for U.S. Senate in Texas, holds extreme or out-of-touch positions (on gender, religion, immigration, and abortion) that are self-evidently absurd and deserving of mockery.",
+  "intended_effect": "Cause viewers to find Talarico's stated positions ridiculous and disqualifying, using humor and reaction memes to amplify that response.",
+  "uncertainty_flags": [
+    "Cannot verify whether the four quoted statements are accurate, complete, or presented in full context — they may be paraphrased, truncated, or taken out of context.",
+    "The identity of the 'curly-haired man' in the Apple Store reaction clip is unconfirmed.",
+    "The face-palm clip may be from a movie (possibly Jonah Hill in a film role) rather than a real person/event — origin unconfirmed.",
+    "No audio transcript available to confirm or deny spoken content.",
+    "Talarico's Senate candidacy details (e.g., exact race year) are after knowledge cutoff and taken from on-screen text as ground truth."
+  ]
+}

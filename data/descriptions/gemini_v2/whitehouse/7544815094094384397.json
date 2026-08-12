@@ -1,0 +1,55 @@
+{
+  "video_id": "7544815094094384397",
+  "visual_action": "The video is a montage that begins with close-ups of cardboard boxes labeled \"MADE IN USA\" on what appears to be a conveyor belt in a large warehouse. It then cuts to shots of Donald Trump walking through the aisles of the warehouse, which are stacked high with boxes. This is followed by aerial shots of a semi-truck driving on a highway through a desert landscape with mountains in the background. The video concludes with black-and-white shots of the White House, including a helicopter flying by and a final shot of the building's facade with text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown from behind and in profile, walking through a warehouse."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with shots of the White House building and the words \"THE WHITE HOUSE\" on screen. The account is also @whitehouse."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MADE IN USA",
+      "role": "overlay"
+    },
+    {
+      "text": "MADE IN THE USA",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set entirely to instrumental music.",
+  "emojis_present": [],
+  "audio_music": "The video features a continuous, uplifting, and grand instrumental electronic track throughout, identified as \"Meridian\" by ODESZA. The music creates an aspirational and patriotic mood.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different scenes, including warehouse footage, aerial shots, and architectural shots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Aspiration"
+  ],
+  "cultural_references": [
+    "ODESZA"
+  ],
+  "central_claim": "The Trump administration is fostering a strong American economy by prioritizing products that are made in the USA.",
+  "intended_effect": "To evoke feelings of patriotism and pride in American manufacturing and to associate these positive feelings with the Trump administration.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('We'll be right back.') does not match the audio, which is purely instrumental music with no dialogue."
+  ]
+}

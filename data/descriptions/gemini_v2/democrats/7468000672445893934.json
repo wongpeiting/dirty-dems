@@ -1,0 +1,61 @@
+{
+  "video_id": "7468000672445893934",
+  "visual_action": "Rep. Ayanna Pressley stands in a crowd of protestors outdoors, in front of a large building with columns. She wears a pink coat and raises her fist while leading a chant. Other protestors surround her, some holding signs.",
+  "cast": [
+    {
+      "name": "Ayanna Pressley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the central figure in the video, leading a protest chant. She is identified by face-ID, on-screen text ('Rep. Pressley'), and the post's caption ('@Ayanna Pressley')."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the target of the protest, as stated in the chant 'Elon Musk has got to go' and the on-screen text 'Nobody Elected Elon protest'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on a protest sign in the background that reads 'MUSK TRUMP REGIME'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "omg Rep. Pressley at the Nobody Elected Elon protest 👑",
+      "role": "overlay"
+    },
+    {
+      "text": "Nobody Elected Elon!",
+      "role": "other"
+    },
+    {
+      "text": "MUSK TRUMP REGIME",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Rep. Ayanna Pressley and a crowd chant in unison, \"Elon Musk has got to go. Hey, hey. Ho, ho.\"",
+  "emojis_present": [
+    "👑"
+  ],
+  "audio_music": "The audio consists entirely of protest chants from a crowd, creating an energetic and defiant atmosphere. There is no musical accompaniment.",
+  "editing_pacing": "The video is a single, continuous shot focusing on Ayanna Pressley as she chants with the crowd.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Defiance",
+    "Solidarity",
+    "Admiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Rep. Ayanna Pressley is actively leading protests against Elon Musk, framing him as an illegitimate figure who needs to be removed from power.",
+  "intended_effect": "To generate admiration for Rep. Pressley's activism and encourage opposition to Elon Musk.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,80 @@
+{
+  "video_id": "7567040718083067150",
+  "visual_action": "A montage of clips showing the Japanese flag, then Donald Trump meeting with Japanese official Sanae Takaichi. They shake hands, pose for photos with US and Japanese flags, and sign documents in a grand, formal setting. The event includes a military honor guard and band. The video concludes with the US and Japanese flags flying together and a title card for \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown meeting with a Japanese official."
+    },
+    {
+      "name": "Sanae Takaichi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is shown throughout the video meeting with Trump, and a nameplate with her name in Japanese ('高市 早苗') is visible on screen."
+    },
+    {
+      "name": "Japan",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The Japanese flag is shown, and the caption refers to the 'Alliance between the U.S. & Japan'."
+    },
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The US flag is shown, Donald Trump represents the US, and the caption refers to the 'Alliance between the U.S. & Japan'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a title card reading 'THE WHITE HOUSE' and is posted from the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Strong Alliance between the U.S. & Japan 🇺🇸🇯🇵",
+      "role": "caption"
+    },
+    {
+      "text": "高市 早苗",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio contains a brief line from Donald Trump, \"Thank you very much,\" while the rest of the soundtrack is orchestral music.",
+  "emojis_present": [
+    "🇺🇸",
+    "🇯🇵"
+  ],
+  "audio_music": "A continuous, grand orchestral score ('Magical Forest' by Aleksey Chistilin) plays throughout the video, creating a formal, positive, and majestic atmosphere suitable for a diplomatic meeting.",
+  "editing_pacing": "A smoothly-edited montage with a stately, deliberate pace, featuring various shots of a diplomatic event.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "respect",
+    "patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration maintains a strong and productive diplomatic alliance with Japan, exemplified by this formal meeting and agreement.",
+  "intended_effect": "To make the viewer feel proud of the administration's foreign policy and confident in its strong relationship with Japan.",
+  "uncertainty_flags": [
+    "At 0:19, Donald Trump is speaking from behind a table with a nameplate that reads '高市 早苗' (Sanae Takaichi)."
+  ]
+}

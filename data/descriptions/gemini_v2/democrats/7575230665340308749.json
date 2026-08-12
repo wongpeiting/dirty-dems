@@ -1,0 +1,73 @@
+{
+  "video_id": "7575230665340308749",
+  "visual_action": "A clip from a White House press briefing, broadcast by Fox News. Karoline Leavitt stands at the podium speaking. For a moment, the screen splits to show an unnamed female reporter in the audience asking a question. Large, yellow-outlined text is overlaid on the video, appearing sequentially to match Leavitt's speech.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Is shown speaking at the White House press podium for the entire video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of both the reporter's question ('What did the president mean when he called a reporter piggy?') and Leavitt's defense."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown in a split screen asking the initial question about Trump's comment."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and chyron are visible at the bottom of the screen, indicating the source of the broadcast footage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🤨",
+      "role": "caption"
+    },
+    {
+      "text": "Karoline Leavitt on Trump calling a reporter “piggy”",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS\nWHITE HOUSE TAKES QUESTIONS AT PRESS BRIEFING\nFOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "WHAT DID A REPORTER \"PIGGY\"? LOOK, IS VERY HONEST EVERYONE YOU'VE ALL YOURSELF, EXPERIENCED YOURSELVES, THINK IT'S REASONS THAT THE REELECTED BECAUSE FRANKNESS. CALLS OUT FAKE NEWS WHEN HE SEES IT, HE GETS FRUSTRATED WHEN YOU LIE ABOUT WHEN YOU ABOUT HIM ADMINISTRATION, BUT HE ALSO IS PRESIDENT AND HE OF YOU IN KNOW, UNPRECEDENTED ACCESS.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unnamed reporter asks Karoline Leavitt, \"What did the president mean when he called a reporter piggy?\" Leavitt responds by defending President Trump's \"frankness and honesty,\" stating it is one of the reasons he was re-elected. She claims he calls out \"fake news\" and gets frustrated when reporters lie about him and his administration. She concludes by calling him the \"most transparent president in history\" who gives reporters \"unprecedented access.\"",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the press briefing, with ambient room noise. There is no music or added sound effects.",
+  "editing_pacing": "The video is primarily a static shot of a talking head (Karoline Leavitt), with a brief split-screen showing the reporter asking the question. The main editing feature is the use of large, dynamically appearing text overlays that are synchronized with the dialogue for emphasis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval",
+    "incredulity"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration's justification for the president calling a reporter 'piggy' is absurd and indefensible.",
+  "intended_effect": "To make the audience view the Trump administration's defense of his insults as ridiculous, thereby generating mockery and disapproval.",
+  "uncertainty_flags": []
+}

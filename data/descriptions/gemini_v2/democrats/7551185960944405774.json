@@ -1,0 +1,102 @@
+{
+  "video_id": "7551185960944405774",
+  "visual_action": "A man in a suit, identified as Ken Martin, sits at a desk in an office setting with an American flag behind him. He speaks directly to the camera in a static, medium shot for the entire duration of the video.",
+  "cast": [
+    {
+      "name": "Ken Martin",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He introduces himself at the start: \"This is Ken Martin, Chair of the Democratic National Committee.\""
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen text identifies the speaker as \"DNC Chair Martin.\" He also identifies himself as \"Chair of the Democratic National Committee.\""
+    },
+    {
+      "name": "Melissa Hortman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker refers to \"the murder of my dear friend, Melissa Hortman.\""
+    },
+    {
+      "name": "Mark Hortman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker says, \"Melissa and her husband Mark were shot and killed in their home...\""
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker states, \"Last week, Charlie Kirk was executed in broad daylight...\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker states, \"Donald Trump has done absolutely nothing in this moment to bring us together.\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker says, \"...and I know Republicans feel the same.\""
+    },
+    {
+      "name": "Department of Justice",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker accuses Trump of \"including having his Department of Justice threaten to criminalize speech and stifle opposition.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DNC Chair Martin speaks out against political violence",
+      "role": "overlay"
+    },
+    {
+      "text": "This is Ken Martin, Chair of the Democratic National Committee.",
+      "role": "caption"
+    },
+    {
+      "text": "Hold here for 2x speed >>>",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "DNC Chair Ken Martin delivers a somber address decrying what he calls an \"epidemic of political violence.\" He cites two recent, specific events: the murder of his friend Melissa Hortman and her husband, and the execution of Charlie Kirk. Martin calls for leadership and unity, stating that the country has reached a breaking point. He then pivots to criticizing Donald Trump, accusing him of failing to unite Americans and instead using political violence and the Department of Justice for political gain. He concludes with a plea for Americans to come together, reject violence, and engage in democracy through the ballot box.",
+  "emojis_present": [],
+  "audio_music": "The video consists entirely of a man speaking directly to the camera. There is no music, sound effects, or other audio.",
+  "editing_pacing": "The video is a static, single-shot talking-head style presentation with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Sorrow",
+    "Anger",
+    "Urgency",
+    "Condemnation"
+  ],
+  "cultural_references": [],
+  "central_claim": "Political violence is an epidemic that requires national unity and strong leadership, but Donald Trump is exacerbating the problem for his own political gain instead of healing the country.",
+  "intended_effect": "To instill a sense of crisis and urgency about political violence, evoke sympathy for its victims, and direct anger and blame toward Donald Trump for his perceived failure to lead and unite the nation.",
+  "uncertainty_flags": [
+    "The video makes extremely serious allegations about the recent deaths of specific political figures, including that Charlie Kirk was 'executed.' Verifying the details of these events is beyond the scope of visual analysis."
+  ]
+}

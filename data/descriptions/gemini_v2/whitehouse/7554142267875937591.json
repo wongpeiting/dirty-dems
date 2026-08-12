@@ -1,0 +1,75 @@
+{
+  "video_id": "7554142267875937591",
+  "visual_action": "A montage of clips shows Donald Trump speaking in various settings, including at a desk in an office, at a podium for Turning Point USA, and at a rally for 'Trump Vance'. In all clips, he is speaking about the social media platform TikTok.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole speaker and appears in every frame of the video. The on-screen text identifies him as 'PRESIDENT TRUMP'."
+    },
+    {
+      "name": "TikTok",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about Trump's stated position on the TikTok platform, which he mentions repeatedly. The on-screen text reads 'PRESIDENT TRUMP SAVES TIKTOK'."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on a podium sign alongside Trump's which reads 'TRUMP VANCE'."
+    },
+    {
+      "name": "Turning Point USA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's name is visible on a podium from which Trump is speaking in one of the clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PRESIDENT TRUMP SAVES TIKTOK",
+      "role": "overlay"
+    },
+    {
+      "text": "TURNING POINT USA",
+      "role": "chyron"
+    },
+    {
+      "text": "TEXT TRUMP TO 88022",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP VANCE",
+      "role": "chyron"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN!",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video is a compilation of clips where Donald Trump speaks favorably about TikTok. He says things like \"I like TikTok,\" \"we need to save TikTok,\" and tells those who \"want to save TikTok in America\" to \"vote for Trump.\" He concludes by stating, \"TikTok is back.\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat, motivational hip-hop track plays throughout the montage, creating a triumphant and energetic tone.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different speeches and settings.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Support",
+    "Vindication"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is the reason TikTok was saved in America, and he is a supporter of the platform.",
+  "intended_effect": "To persuade TikTok users that Trump is their ally who saved the app and to encourage them to vote for him.",
+  "uncertainty_flags": []
+}

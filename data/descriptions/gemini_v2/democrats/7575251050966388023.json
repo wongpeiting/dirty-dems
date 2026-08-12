@@ -1,0 +1,165 @@
+{
+  "video_id": "7575251050966388023",
+  "visual_action": "The video presents clips from what appears to be a local news report about rising grocery prices. It shows shoppers in a supermarket, close-ups of food items like a turkey, dinner rolls, and produce, and shots of price tags and sale signs. Two individuals, a man and a woman, are interviewed in the grocery store, speaking about the high cost of food.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The main on-screen text at the start reads: \"People are feeling the effects of Trump's economy on Thanksgiving\"."
+    },
+    {
+      "name": "Robert Dickman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown being interviewed in a grocery store, identified by a chyron that reads \"Robert Dickman Shopper\"."
+    },
+    {
+      "name": "Janice Clemens",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown being interviewed in a grocery store, identified by a chyron that reads \"Janice Clemens Shopper\"."
+    },
+    {
+      "name": "U.S. Bureau of Labor Statistics",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The narrator in the video cites the U.S. Bureau of Labor Statistics for data on food prices."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "People are feeling the effects of Trump's economy on Thanksgiving",
+      "role": "overlay"
+    },
+    {
+      "text": "WHILE STILL OVER",
+      "role": "caption"
+    },
+    {
+      "text": "A WEEK AWAY,",
+      "role": "caption"
+    },
+    {
+      "text": "ALREADY PREPARING",
+      "role": "caption"
+    },
+    {
+      "text": "FOR THEIR",
+      "role": "caption"
+    },
+    {
+      "text": "LIVE. LOCAL. FIRST. Shoppers face higher prices at grocery stores Green Bay",
+      "role": "chyron"
+    },
+    {
+      "text": "Robert Dickman\nShopper",
+      "role": "chyron"
+    },
+    {
+      "text": "KIND OF TRYING TO",
+      "role": "caption"
+    },
+    {
+      "text": "PRICES AREN'T",
+      "role": "caption"
+    },
+    {
+      "text": "USING THE CONSUMER",
+      "role": "caption"
+    },
+    {
+      "text": "PRICE INDEX,",
+      "role": "caption"
+    },
+    {
+      "text": "US BUREAU OF LABOR",
+      "role": "caption"
+    },
+    {
+      "text": "STATISTICS,",
+      "role": "caption"
+    },
+    {
+      "text": "PRICES HAVE GONE",
+      "role": "caption"
+    },
+    {
+      "text": "UP BY 2.7% FROM",
+      "role": "caption"
+    },
+    {
+      "text": "SEPTEMBER '24",
+      "role": "caption"
+    },
+    {
+      "text": "TO '25,",
+      "role": "caption"
+    },
+    {
+      "text": "A STATISTIC HAVING",
+      "role": "caption"
+    },
+    {
+      "text": "Janice Clemens\nShopper",
+      "role": "chyron"
+    },
+    {
+      "text": "TRYING TO MAKE",
+      "role": "caption"
+    },
+    {
+      "text": "THINGS STRETCH",
+      "role": "caption"
+    },
+    {
+      "text": "FURTHER, YOU KNOW,",
+      "role": "caption"
+    },
+    {
+      "text": "FRIDAY BECAUSE",
+      "role": "caption"
+    },
+    {
+      "text": "SALE 5.88 Grnd Beef RL 73% Lean 27%Fat 1 LB",
+      "role": "other"
+    },
+    {
+      "text": "COMPARE & SAVE",
+      "role": "other"
+    },
+    {
+      "text": "Wal-Mart $35.18 TOTAL SAVINGS $3.39",
+      "role": "other"
+    },
+    {
+      "text": "Date packaged: November 6, 2019",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video features audio from a news report about rising food costs ahead of Thanksgiving. A narrator states that according to the U.S. Bureau of Labor Statistics, food prices have increased by 2.7% from September 2024 to 2025. Two shoppers are interviewed, expressing their concerns. One man notes that \"prices aren't getting any cheaper.\" A woman says her family is \"trying to make things stretch further\" and looking for sales to be \"good stewards of what we're buying.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of spoken dialogue from a news narrator and interview subjects, in the style of a local television news segment. There is no prominent musical soundtrack.",
+  "editing_pacing": "The video is edited in the style of a typical television news package, with a moderate pace. It cuts between B-roll footage of a grocery store, close-ups of products and prices, and static talking-head interviews with shoppers.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "worry",
+    "anxiety",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's economic policies are causing rising food prices, which creates financial hardship for American families preparing for Thanksgiving.",
+  "intended_effect": "To make viewers feel concerned about the cost of living and attribute this economic pressure to Donald Trump.",
+  "uncertainty_flags": [
+    "The video appears to use older news footage to make a point about a more current economic situation. A price tag shown includes a date of 'November 6, 2019', which may conflict with the post's implied timeframe of 2024-2026."
+  ]
+}

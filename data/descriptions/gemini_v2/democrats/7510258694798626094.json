@@ -1,0 +1,102 @@
+{
+  "video_id": "7510258694798626094",
+  "visual_action": "A woman speaks directly to the camera, introducing a clip of Republican Senator Joni Ernst at a town hall. In the clip, Ernst responds to a constituent's concern by saying, \"Well, we all are going to die,\" to a booing crowd. The video then cuts to a bar chart titled \"Republican Budget Bill Transfers Wealth from Poor to Rich,\" showing proposed tax cuts for the wealthy alongside cuts to Medicaid and SNAP, while the narrator continues to speak. The video ends with the narrator speaking to the camera.",
+  "cast": [
+    {
+      "name": "Joni Ernst",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown speaking at a town hall event, identified by face-ID, and named in on-screen text and audio: \"Republican Senator Joni Ernst\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His budget is the central topic of criticism, referred to as \"Trump's budget cutting Medicaid.\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video opens by referencing \"this Republican's town hall\" and criticizes Republican policies and politicians throughout."
+    },
+    {
+      "name": "unnamed narrator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman who appears throughout the video, providing commentary and narration directly to the camera."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LOOK AT WHAT JUST HAPPENED AT THIS REPUBLICAN'S TOWN HALL.",
+      "role": "overlay"
+    },
+    {
+      "text": "PEOPLE ARE GOING TO DIE.",
+      "role": "caption"
+    },
+    {
+      "text": "WELL, WE ALL ARE GOING TO DIE.",
+      "role": "caption"
+    },
+    {
+      "text": "[CROWD BOOS]",
+      "role": "caption"
+    },
+    {
+      "text": "THIS IS HOW REPUBLICAN SENATOR JONI ERNST DECIDED TO RESPOND TO A VOTER WHO WAS CONCERNED ABOUT TRUMP'S BUDGET CUTTING MEDICAID.",
+      "role": "overlay"
+    },
+    {
+      "text": "Republican Budget Bill Transfers Wealth from Poor to Rich",
+      "role": "other"
+    },
+    {
+      "text": "$1,100B Tax Cuts for People Making Over $500k",
+      "role": "other"
+    },
+    {
+      "text": "$715B Medicaid Cuts",
+      "role": "other"
+    },
+    {
+      "text": "$300B SNAP Cuts",
+      "role": "other"
+    },
+    {
+      "text": "IT TAKES FUNDING FROM MEDICAID AND SNAP AND USES IT TO FUND TAX CUTS FOR THE ULTRA WEALTHY.",
+      "role": "overlay"
+    },
+    {
+      "text": "AND YES, PEOPLE ARE GOING TO DIE.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A narrator introduces a clip from a town hall where Senator Joni Ernst responds to a constituent's shouted concern that \"people are going to die\" by saying, \"Well, we all are going to die,\" prompting boos from the crowd. The narrator explains this was in response to concerns about Donald Trump's budget cutting Medicaid. She then displays a chart showing that Trump's budget allegedly takes funding from Medicaid and SNAP to finance tax cuts for the wealthy, and concludes that people will die and lose their healthcare as a result.",
+  "emojis_present": [],
+  "audio_music": "A continuous indie rock-style track ('We're All Going to Die' by Cherry Hill) plays throughout the video, underneath the dialogue and the town hall audio, creating a serious and critical tone.",
+  "editing_pacing": "A mix of static talking-head footage of the narrator and fast-paced cuts that include a town hall clip and an infographic. Animated text overlays highlight the narrator's key points as she speaks.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Alarm",
+    "Disdain"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republican Senator Joni Ernst callously dismissed concerns that Donald Trump's budget, which cuts Medicaid and SNAP to fund tax cuts for the rich, will cause people to die.",
+  "intended_effect": "To provoke outrage at Joni Ernst's comment and persuade viewers that Republican budget policies are dangerous and harm ordinary Americans.",
+  "uncertainty_flags": [
+    "The source of the data presented in the on-screen infographic is not cited.",
+    "The specific date and location of the Joni Ernst town hall clip are not provided."
+  ]
+}

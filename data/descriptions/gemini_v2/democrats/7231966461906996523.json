@@ -1,0 +1,45 @@
+{
+  "video_id": "7231966461906996523",
+  "visual_action": "Donald Trump is seated on a stage with a red and blue background featuring the CNN logo. He reaches into his suit jacket, pulls out a folded piece of paper, and begins to unfold and look at it.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the person shown on screen for the entire video and is the subject of the on-screen text."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo appears multiple times on the stage background and on a mug on the table next to Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump pulling out his receipts (lies)",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman's voice says, \"It's whack a doodle time. It is whack a doodle time.\"",
+  "emojis_present": [],
+  "audio_music": "A quirky, slightly playful instrumental track plays throughout. The spoken audio is layered on top. The overall effect is mocking.",
+  "editing_pacing": "The video is a single, continuous shot with a slow zoom-in on Donald Trump as he unfolds the paper.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The phrase 'pulling out his receipts' is a common internet slang term for presenting evidence.",
+    "The audio clip 'It's whack a doodle time' is used as a meme sound on social media to indicate something is absurd or crazy."
+  ],
+  "central_claim": "The evidence or \"receipts\" that Donald Trump is presenting are actually lies and his actions are absurd.",
+  "intended_effect": "To make the viewer perceive Donald Trump as ridiculous, dishonest, and nonsensical.",
+  "uncertainty_flags": []
+}

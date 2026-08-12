@@ -1,0 +1,91 @@
+{
+  "video_id": "7547773816546610446",
+  "visual_action": "The video opens with a C-SPAN clip of Donald Trump speaking at a podium at the Museum of the Bible in Washington, D.C. It then cuts to a series of three static screenshots of what appear to be news headlines and article text. The headlines allege that the Trump family has amassed billions of dollars. The video rapidly cuts between these three screenshots.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium and his voice is heard saying \"I'm a little bit of a selfish person.\" He is also named in the on-screen text headlines."
+    },
+    {
+      "name": "Trump family",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text shows headlines such as \"Trump Family Amasses $5 Billion Fortune...\" and \"Trump's family has made $3.4 billion...\"."
+    },
+    {
+      "name": "Associated Press",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An on-screen text snippet is attributed to the AP with the text \"WASHINGTON (AP) —\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: “I’m a little bit of a selfish person” 😬",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP ADDRESSES WHITE HOUSE RELIGIOUS LIBERTY COMMISSION",
+      "role": "chyron"
+    },
+    {
+      "text": "MUSEUM OF THE BIBLE\nWASHINGTON, DC",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "‘CAUSE I’M A",
+      "role": "overlay"
+    },
+    {
+      "text": "SELFISH PERSON,",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump Family Amasses $5 Billion Fortune After Crypto Launch",
+      "role": "meme_text"
+    },
+    {
+      "text": "WASHINGTON (AP) — If one theme has emerged in President Donald Trump’s second term, it’s this: He’s leveraged the power of his office for personal gain unlike anyone before in history.",
+      "role": "meme_text"
+    },
+    {
+      "text": "Trump’s family has made $3.4 billion during his time as president, new report finds",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"You know, 'cause I'm a little bit of a selfish person, I guess.\"",
+  "emojis_present": [
+    "😬"
+  ],
+  "audio_music": "The video begins with Donald Trump's speaking voice. After his quote, a loud, blaring, alarm-like sound effect is played repeatedly over each screenshot of a news headline to create a sense of shock and scandal.",
+  "editing_pacing": "The video uses fast cuts, starting with a single clip and then transitioning to a rapid slideshow of three different text-based images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Scandal",
+    "Outrage",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's admission of being selfish is proven by reports that he and his family used his presidency to amass billions of dollars in personal wealth.",
+  "intended_effect": "To convince the viewer that Donald Trump is corrupt and has abused his power for personal financial gain.",
+  "uncertainty_flags": [
+    "The authenticity of the news headlines shown as screenshots could not be verified; they might be fabricated."
+  ]
+}

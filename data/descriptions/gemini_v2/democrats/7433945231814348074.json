@@ -1,0 +1,48 @@
+{
+  "video_id": "7433945231814348074",
+  "visual_action": "A slideshow of two still images. The first shows the singer Beyoncé posing in a high-rise apartment, wearing a t-shirt that has a picture of Kamala Harris on it. The second image shows Beyoncé and Kamala Harris standing next to each other and laughing.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Kamala Harris's face is shown on Beyoncé's t-shirt in the first image, and she appears in a photo with Beyoncé in the second. She is also named in the audio."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "His voice is heard in the audio clip saying, \"Kamala is at a dance party with Beyoncé.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GO VOTE 🇺🇸💙",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A voice clip of someone who sounds like Donald Trump says, \"Kamala is at a dance party with Beyoncé. Beyoncé. Beyoncé.\"",
+  "emojis_present": [
+    "🇺🇸",
+    "💙"
+  ],
+  "audio_music": "A clip of Donald Trump's voice plays over an upbeat, rhythmic music track. The music serves to recontextualize Trump's statement in a positive, energetic way.",
+  "editing_pacing": "Slideshow of static images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "In the first image, a picture of Kamala Harris's face appears to be photoshopped onto the t-shirt Beyoncé is wearing.",
+  "emotions_signaled": [
+    "pride",
+    "support",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Beyoncé"
+  ],
+  "central_claim": "Kamala Harris has the support of popular cultural figures like Beyoncé, a fact highlighted ironically using Donald Trump's own words to encourage people to vote.",
+  "intended_effect": "To generate a positive association for Kamala Harris, mock Donald Trump by reappropriating his words, and encourage viewers to vote.",
+  "uncertainty_flags": []
+}

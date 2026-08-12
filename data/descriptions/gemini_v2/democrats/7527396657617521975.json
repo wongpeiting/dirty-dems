@@ -1,0 +1,99 @@
+{
+  "video_id": "7527396657617521975",
+  "visual_action": "Footage from the floor of the U.S. House of Representatives. A wide shot shows the chamber during a vote, with the results displayed on a large screen. It then cuts to a medium shot of Rep. W. Gregory Steube at the speaker's rostrum, speaking and banging a gavel.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The main on-screen text states, 'Almost every House Republican just voted to BLOCK the release of the Epstein files !!'. The vote tally board also shows 'REPUBLICAN' voting 211 'YEA'."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to a vote on the release of 'the Epstein files'."
+    },
+    {
+      "name": "W. Gregory Steube",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown speaking at the rostrum and is identified by a chyron that reads 'REP. W. GREGORY STEUBE Speaker Pro Tempore'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen vote tally board shows 'DEMOCRATIC' voting 210 'NAY', in opposition to the Republican 'YEA' votes."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Almost every House Republican just voted to BLOCK the release of the Epstein files !!",
+      "role": "meme_text"
+    },
+    {
+      "text": "ON ORDERING THE PREVIOUS QUESTION",
+      "role": "overlay"
+    },
+    {
+      "text": "REPUBLICAN 211",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATIC 210",
+      "role": "overlay"
+    },
+    {
+      "text": "TOTALS 211 210",
+      "role": "overlay"
+    },
+    {
+      "text": "THE YEAS ARE 211,",
+      "role": "caption"
+    },
+    {
+      "text": "THE NAYS ARE 210.",
+      "role": "caption"
+    },
+    {
+      "text": "THE PREVIOUS QUESTION IS ORDERED.",
+      "role": "caption"
+    },
+    {
+      "text": "REP. W. GREGORY STEUBE Speaker Pro Tempore",
+      "role": "chyron"
+    },
+    {
+      "text": "THE QUESTION IS ON ADOPTION OF THE RESOLUTION.",
+      "role": "caption"
+    },
+    {
+      "text": "THE AYES HAVE IT.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Speaking from the House floor, Rep. W. Gregory Steube announces the results of a procedural vote: 'the yeas are 211, the nays are 210.' He then declares, 'The previous question is ordered,' moves to the adoption of the resolution, and after a brief voice vote, concludes, 'In the opinion of the chair, the ayes have it.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists of speech from the House floor with ambient background chatter from the chamber. There is no music.",
+  "editing_pacing": "The video uses two static shots of C-SPAN footage with a single cut between them. Text is overlaid to provide commentary and captions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Suspicion",
+    "Disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Nearly all House Republicans have voted to block the release of documents related to Jeffrey Epstein, implying they are engaged in a cover-up.",
+  "intended_effect": "To generate outrage and suspicion towards the Republican Party by portraying them as obstructing transparency and potentially protecting those implicated in the Epstein case.",
+  "uncertainty_flags": []
+}

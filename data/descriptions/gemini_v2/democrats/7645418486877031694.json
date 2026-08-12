@@ -1,0 +1,91 @@
+{
+  "video_id": "7645418486877031694",
+  "visual_action": "The video opens with a shot of the Statue of Liberty against a clear blue sky, followed by shots of American flags waving in the wind. It then transitions into a montage of various scenes: a female figure skater performing on an ice rink with the Olympic rings visible, a rocket launching into the sky, an aerial shot of a large canyon with a river (Horseshoe Bend), a large crowd of people marching in a city street protest, a jumbotron at a crowded stadium displaying a message, a musical group with Puerto Rican and American flags performing, and a final shot of an American flag.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the @democrats account."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video directly references and refutes his signature slogan, \"make America great again\"."
+    },
+    {
+      "name": "Make America Great Again (MAGA) movement",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker and on-screen text quote the slogan \"make America great again\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "some people say\n\"make america great again\"",
+      "role": "overlay"
+    },
+    {
+      "text": "i say america was great\nALL ALONG",
+      "role": "overlay"
+    },
+    {
+      "text": "some of us just\nFORGOT",
+      "role": "overlay"
+    },
+    {
+      "text": "THE ONLY THING MORE\nPOWERFUL THAN HATE IS LOVE",
+      "role": "chyron"
+    },
+    {
+      "text": "Levi's STADIUM",
+      "role": "other"
+    },
+    {
+      "text": "BUD LIGHT",
+      "role": "other"
+    },
+    {
+      "text": "FIRST AVENUE",
+      "role": "other"
+    },
+    {
+      "text": "LETS GO CRAZY",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A male narrator contrasts two viewpoints. He states, \"Some people say, 'make America great again.'\" He then offers a rebuttal: \"I say America was great all along. Some of us just forgot why.\"",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "The video begins with male narration. After the narration concludes around the 9-second mark, an uplifting and inspiring instrumental track featuring acoustic guitar begins and plays through the rest of the montage, creating a patriotic and hopeful mood.",
+  "editing_pacing": "The video is a montage with a series of relatively quick cuts between different B-roll clips, paced to the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "pride",
+    "unity",
+    "inspiration"
+  ],
+  "cultural_references": [
+    "Make America Great Again (MAGA) slogan",
+    "Olympic Games",
+    "Levi's Stadium",
+    "Prince (implied by a 'LETS GO CRAZY' billboard near the 'FIRST AVENUE' music venue in Minneapolis)"
+  ],
+  "central_claim": "America has always been great, and the idea that it needs to be made 'great again' is a false premise.",
+  "intended_effect": "To instill a sense of patriotism and pride in America's existing strengths and diversity, and to counter the narrative of national decline.",
+  "uncertainty_flags": [
+    "The identity of the figure skater is unknown.",
+    "The specific protest shown is not identified.",
+    "The identity of the musical group is unknown."
+  ]
+}

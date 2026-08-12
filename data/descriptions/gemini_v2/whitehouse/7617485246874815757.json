@@ -1,0 +1,54 @@
+{
+  "video_id": "7617485246874815757",
+  "visual_action": "A montage of clips showing B-2 stealth bombers on a runway, a fighter jet in flight, a bald eagle, Marine One taking off from the White House lawn, the presidential motorcade, Donald Trump in a crowd, the interior of a military vehicle with a soldier, paratroopers jumping from a transport plane, and Trump walking confidently down a White House corridor. The video ends on black-and-white shots of the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown twice in the video: once in profile in a crowd and once walking down a hallway in the White House."
+    },
+    {
+      "name": "United States of America",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The caption reads \"America stays undefeated.\" The video is filled with national symbols like the bald eagle and the American flag."
+    },
+    {
+      "name": "U.S. Armed Forces",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Multiple clips show U.S. military assets, including stealth bombers, a fighter jet, a transport plane with paratroopers, and a soldier in a military vehicle."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in this video; the audio consists entirely of a musical track. The provided transcript is inaccurate.",
+  "emojis_present": [],
+  "audio_music": "The video features a continuous, intense, and aggressive electronic/phonk music track throughout, creating a hype-filled and powerful atmosphere that aligns with the military and patriotic imagery.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes of American power and Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "power",
+    "strength"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video visually associates Donald Trump with American military power and national symbols to portray him as a strong and dominant leader.",
+  "intended_effect": "To make the viewer feel patriotic and confident in American strength, and to transfer those feelings onto Donald Trump as a leader.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is nonsensical and does not reflect the audio, which is purely instrumental music."
+  ]
+}

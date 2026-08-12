@@ -1,0 +1,76 @@
+{
+  "video_id": "7426477431676079390",
+  "visual_action": "A slideshow of still photos. The first is a close-up of former President Jimmy Carter. The second is a wider shot of Carter smiling outdoors. The third is a side-by-side image of a smiling Jimmy Carter and a smiling Kamala Harris.",
+  "cast": [
+    {
+      "name": "Jimmy Carter",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Photos of him appear throughout, and on-screen text attributes a quote to him and describes his actions: \"Former President Jimmy Carter, to his son Chip\" and \"Jimmy Carter Fulfills Final Wish...\""
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text quotes Jimmy Carter as saying, \"I'm only trying to make it to vote for Kamala Harris.\" Her photo is also shown."
+    },
+    {
+      "name": "Chip Carter",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text identifies him as the recipient of Jimmy Carter's quote: \"...to his son Chip\"."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The MSNBC logo appears on the first image shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“I’m only trying to make it to vote for Kamala Harris.”",
+      "role": "overlay"
+    },
+    {
+      "text": "— Former President Jimmy Carter, to his son Chip",
+      "role": "overlay"
+    },
+    {
+      "text": "Jimmy Carter Fulfills Final Wish by Casting Ballot for Kamala Harris: ‘It Was a Good Morning for Him’",
+      "role": "overlay"
+    },
+    {
+      "text": "He did it 💙",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a clip from a movie, not original dialogue. An emotional, high-pitched voice says lines like \"We did it!\" and repeatedly says \"Bing Bong!\"",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "A sad, poignant piano track ('I Wish You Were Here' by Sad Office Lion) plays throughout. Layered over the music is an emotionally charged audio clip from a movie, featuring a high-pitched character voice exclaiming triumphantly and emotionally.",
+  "editing_pacing": "A slow-paced slideshow of three still images with text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Inspiration",
+    "Admiration",
+    "Sadness",
+    "Triumph"
+  ],
+  "cultural_references": [
+    "The audio is a famous, emotionally charged clip from the Disney/Pixar movie 'Inside Out', featuring the character Bing Bong's voice during his sacrificial scene."
+  ],
+  "central_claim": "Former President Jimmy Carter fulfilled his final wish by living long enough to cast his vote for Kamala Harris.",
+  "intended_effect": "To evoke admiration and emotional sympathy for Jimmy Carter and to transfer those positive feelings to Kamala Harris and her campaign.",
+  "uncertainty_flags": []
+}

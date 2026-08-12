@@ -1,0 +1,106 @@
+{
+  "video_id": "7530702364060306701",
+  "visual_action": "The video is a slideshow of three static images. The first is a close-up photo of Donald Trump looking downward with a displeased expression. The second is a screenshot of a purported CBS News / YouGov poll from July 2025 about Trump's job approval. The third is a screenshot of a news article 'TOPLINE' stating Trump's approval rating is down due to his handling of the Jeffrey Epstein files.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in a photograph and is the subject of all on-screen text, which discusses his approval rating."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text as a reason for Trump's declining approval: '...president's handling of the Jeffrey Epstein files.'"
+    },
+    {
+      "name": "CBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'CBS News Poll' appears at the top of a document screenshot."
+    },
+    {
+      "name": "YouGov",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The YouGov logo and name appear on the poll screenshot and in the topline text ('Economist/YouGov survey')."
+    },
+    {
+      "name": "The Economist",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Mentioned in the text 'Economist/YouGov survey'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald Trump's Approval Rating With Men Hits Rock Bottom",
+      "role": "overlay"
+    },
+    {
+      "text": "CBS News Poll – July 16-18, 2025",
+      "role": "other"
+    },
+    {
+      "text": "YouGov",
+      "role": "other"
+    },
+    {
+      "text": "Sample\t2,343 Adults in the U.S.",
+      "role": "other"
+    },
+    {
+      "text": "Margin of Error\t±2.5 points",
+      "role": "other"
+    },
+    {
+      "text": "1. Do you approve or disapprove of the way Donald Trump is handling his job as president?",
+      "role": "other"
+    },
+    {
+      "text": "Approve ........................................ 42%",
+      "role": "other"
+    },
+    {
+      "text": "Disapprove ........................................ 58%",
+      "role": "other"
+    },
+    {
+      "text": "TOPLINE",
+      "role": "other"
+    },
+    {
+      "text": "President Donald Trump's approval rating is down eight points from the start of his term in the latest Economist/YouGov survey that shows Americans largely reject the president's handling of the Jeffrey Epstein files.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, celebratory electronic dance track plays throughout the video. The identified song is 'Holiday', creating a sarcastic or mocking tone when paired with negative information about Donald Trump.",
+  "editing_pacing": "The video is a static slideshow, transitioning between three still images without any complex editing or effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Schadenfreude"
+  ],
+  "cultural_references": [
+    "Holiday (song by Madonna)"
+  ],
+  "central_claim": "Donald Trump's approval rating has hit 'rock bottom' as of July 2025, largely due to public rejection of his handling of the Jeffrey Epstein files.",
+  "intended_effect": "To encourage viewers to celebrate Donald Trump's purported drop in popularity and to associate him negatively with the Jeffrey Epstein scandal.",
+  "uncertainty_flags": [
+    "The authenticity of the poll and news topline documents shown on screen cannot be visually verified and may be fabricated, although there are no obvious visual signs of manipulation."
+  ]
+}

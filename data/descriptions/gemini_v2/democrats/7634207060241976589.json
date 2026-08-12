@@ -1,0 +1,75 @@
+{
+  "video_id": "7634207060241976589",
+  "visual_action": "The video displays a series of static screens with text overlays. The first screen shows an image of the U.S. Supreme Court building with text announcing a court decision. The second screen shows a quote against a black background. The final screen shows a photograph of Supreme Court Justice Elena Kagan with a short quote overlaid.",
+  "cast": [
+    {
+      "name": "U.S. Supreme Court",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text repeatedly mentions the 'SUPREME COURT' and its decision in 'Louisiana v. Callais'."
+    },
+    {
+      "name": "Elena Kagan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photograph of Elena Kagan is shown, and she is identified by name and title ('SUPREME COURT JUSTICE ELENA KAGAN') in on-screen text, which also attributes quotes to her."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FACT POST",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING",
+      "role": "overlay"
+    },
+    {
+      "text": "SUPREME COURT GUTS VOTING RIGHTS ACT, ELIMINATING MAJORITY-BLACK LOUISIANA DISTRICT",
+      "role": "overlay"
+    },
+    {
+      "text": "The Louisiana v. Callais decision opens the door to the elimination of majority-Black and Latino districts across the country.",
+      "role": "overlay"
+    },
+    {
+      "text": "\"The Callais requirements have thus laid the groundwork for the largest reduction in minority representation since the era following Reconstruction.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "SUPREME COURT JUSTICE ELENA KAGAN",
+      "role": "overlay"
+    },
+    {
+      "text": "I dissent.",
+      "role": "overlay"
+    },
+    {
+      "text": "SUPREME COURT JUSTICE ELENA KAGAN",
+      "role": "overlay"
+    },
+    {
+      "text": "ON LOUISIANA V. CALLAIS",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in this video; it is accompanied only by music.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and serious musical track plays throughout the video, creating a mournful or ominous mood.",
+  "editing_pacing": "The video is a slow-paced slideshow consisting of three static screens with text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Supreme Court's decision in Louisiana v. Callais severely weakens the Voting Rights Act, posing a major threat to minority representation in the U.S.",
+  "intended_effect": "To inform viewers about a negative Supreme Court ruling and incite concern and opposition to the decision.",
+  "uncertainty_flags": []
+}

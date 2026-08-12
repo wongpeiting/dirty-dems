@@ -1,0 +1,87 @@
+{
+  "video_id": "7558983015829884174",
+  "visual_action": "A static clip of Donald Trump speaking at a podium in what appears to be the White House State Dining Room. The footage is framed as a C-SPAN broadcast, with a chyron at the bottom and a graphic on the right side of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown speaking and the entire clip is focused on his words."
+    },
+    {
+      "name": "C-SPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN logo is visible on the broadcast chyron."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'THE WHITE HOUSE STATE DINING ROOM' appears on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: We took the freedom of speech away 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE STATE DINING ROOM",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP HOLDS MEETING ON ANTIFA & DOMESTIC TERRORISM",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "WE TOOK THE FREEDOM",
+      "role": "caption"
+    },
+    {
+      "text": "BECAUSE THAT'S BEEN",
+      "role": "caption"
+    },
+    {
+      "text": "THROUGH THE COURTS",
+      "role": "caption"
+    },
+    {
+      "text": "AND THE COURTS SAID,",
+      "role": "caption"
+    },
+    {
+      "text": "\"YOU HAVE FREEDOM OF SPEECH.\" BUT—",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"We took the freedom of speech away because that's been through the courts and the courts said, 'You have freedom of speech,' but—\" The clip cuts off before he finishes his sentence.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump speaking. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a broadcast clip. The primary editing consists of adding a text overlay at the top and sequential, large-font captions that appear in sync with the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "alarm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump admitted that his administration took away the freedom of speech.",
+  "intended_effect": "To shock the viewer and portray Donald Trump as an authoritarian figure who is against free speech.",
+  "uncertainty_flags": [
+    "The video clip is very short and cuts off mid-sentence, so the full context of Donald Trump's statement is not provided.",
+    "The identity of the person shown in a small picture on the C-SPAN graphic is not clear."
+  ]
+}

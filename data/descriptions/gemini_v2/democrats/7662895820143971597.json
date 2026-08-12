@@ -1,0 +1,77 @@
+{
+  "video_id": "7662895820143971597",
+  "visual_action": "A slideshow of still images. It begins with a photo of Donald Trump and Matt Gaetz speaking to each other outdoors. The video then transitions through a series of stock photos: an empty hospital room, a child eating a school lunch, a teacher in a classroom with students raising their hands, and a suburban house. Each image has text overlaid on it.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in the opening photograph of the video, and the post implicitly critiques a war associated with him."
+    },
+    {
+      "name": "Pentagon",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states, 'Pentagon officials are now estimating the Iran War has cost $100 billion'."
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the first photograph standing next to Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NEW",
+      "role": "overlay"
+    },
+    {
+      "text": "Pentagon officials are now estimating the Iran War has cost $100 billion",
+      "role": "overlay"
+    },
+    {
+      "text": "Here is what that could pay for",
+      "role": "overlay"
+    },
+    {
+      "text": "A year of healthcare for 10.8 million Americans",
+      "role": "overlay"
+    },
+    {
+      "text": "Two and a half years of free lunches for every public school student",
+      "role": "overlay"
+    },
+    {
+      "text": "A $31,250 raise for every public teacher",
+      "role": "overlay"
+    },
+    {
+      "text": "Affordable housing for over 12.5 million Americans",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only background music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, melancholic rock song ('Let Down' by Radiohead) plays throughout the video, creating a somber and serious mood that underscores the theme of opportunity cost.",
+  "editing_pacing": "The video is a slow-paced slideshow, transitioning between five static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "outrage",
+    "sadness"
+  ],
+  "cultural_references": [
+    "Radiohead"
+  ],
+  "central_claim": "The $100 billion cost of the Iran War is a misallocation of funds that could have instead paid for vital domestic programs like healthcare, school lunches, teacher raises, and housing for millions of Americans.",
+  "intended_effect": "To persuade the viewer that the war is a tragic waste of resources and to generate opposition to the political figures associated with it by highlighting the domestic benefits that were forgone.",
+  "uncertainty_flags": []
+}

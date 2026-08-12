@@ -1,0 +1,115 @@
+{
+  "video_id": "7422693723781238062",
+  "visual_action": "A montage video. It starts with Kamala Harris speaking at a podium. It then cuts to various scenes including Harris walking on an airstrip with Mark Kelly, and Harris near a military plane. These scenes are intercut with dark, monochromatic, semi-transparent clips of Donald Trump speaking and walking. The video ends with an upbeat montage of Harris at various campaign events, waving to crowds, smiling, and speaking at rallies.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Kamala Harris is the central figure shown throughout the video, speaking and appearing in a positive montage. Her dialogue 'I'm all in' is a key part of the video's message."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is referred to by Harris as 'my opponent' and shown in contrasting negative clips while his voice is used to portray him as strange."
+    },
+    {
+      "name": "Mark Kelly",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visually identified walking alongside Kamala Harris on an airstrip."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donald Trump says, 'JD and I are not weird.'"
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The handle '@THEDEMOCRATS' is watermarked on the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I'M ALL IN",
+      "role": "overlay"
+    },
+    {
+      "text": "@THEDEMOCRATS",
+      "role": "overlay"
+    },
+    {
+      "text": "EVEN IF MY OPPONENT",
+      "role": "overlay"
+    },
+    {
+      "text": "IS READY TO FOLD",
+      "role": "overlay"
+    },
+    {
+      "text": "HE'S FALLEN INTO HER TRAP.",
+      "role": "overlay"
+    },
+    {
+      "text": "JD AND I ARE NOT WEIRD.",
+      "role": "overlay"
+    },
+    {
+      "text": "THERE YOU GO.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP ADDRESSES THE BORDER CRISIS",
+      "role": "chyron"
+    },
+    {
+      "text": "RALLIES SUPPORTERS IN NORTH CAROLINA",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE COVERAGE",
+      "role": "chyron"
+    },
+    {
+      "text": "A NEW WAY FORWARD",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "KAMALA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A mix of audio clips. Kamala Harris says, \"I'm all in! I'm all in! ... Even if my opponent is ready to fold... There you go.\" Donald Trump is heard saying, \"He's fallen into her trap... JD and I are not weird.\" Crowd cheering is also audible.",
+  "emojis_present": [],
+  "audio_music": "The video begins with spoken audio clips from Harris and Trump. At around the 10-second mark, after Harris says \"There you go,\" an upbeat, energetic electronic track begins and plays through the final montage, creating a sense of momentum and optimism.",
+  "editing_pacing": "The video uses fast cuts and contrasts vibrant, full-color footage of Kamala Harris with dark, monochromatic, and semi-transparent overlay clips of Donald Trump. The latter half is a fast-paced montage set to music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "confidence",
+    "inspiration",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris is a strong and determined leader who is \"all in,\" while her opponent Donald Trump is weak and strange.",
+  "intended_effect": "To create a positive and energetic image of Kamala Harris while portraying Donald Trump negatively, thereby encouraging support for her campaign.",
+  "uncertainty_flags": []
+}

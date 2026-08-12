@@ -1,0 +1,86 @@
+{
+  "video_id": "7560428017873390903",
+  "visual_action": "A montage of a diplomatic meeting. It begins with US Army soldiers holding the flag of Finland. President Donald Trump greets and shakes hands with another man, identified as Finnish President Alexander Stubb, outside the White House. They then meet inside what appears to be the Oval Office, shaking hands again. The video shows close-ups of both men as they talk. This is followed by a shot of a pen with Trump's signature on it, lying on a document. Both men are then shown sitting at a large desk, with American flags in the background, signing documents. They hold up the signed documents for the camera, smiling, and shake hands one more time. The video concludes with a black and white shot of a helicopter followed by a shot of the White House, with the text 'THE WHITE HOUSE' overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown throughout the video meeting with a foreign leader, signing a document, and smiling."
+    },
+    {
+      "name": "Alexander Stubb",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown meeting with Donald Trump, shaking his hand, and co-signing a document. He is identifiable as the President of Finland."
+    },
+    {
+      "name": "Finland",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The Finnish flag (🇫🇮) is shown prominently at the beginning of the video and referenced in the caption, and its leader is present."
+    },
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The American flag (🇺🇸) is referenced in the caption and shown in the signing room, and the US President and White House are central to the video."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is set at the White House and its name appears on screen at the end."
+    },
+    {
+      "name": "US Army",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Soldiers in dress uniform are shown at the start of the video holding a flag."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🇺🇸🤝🇫🇮",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it features only an instrumental music track.",
+  "emojis_present": [
+    "🇺🇸",
+    "🤝",
+    "🇫🇮"
+  ],
+  "audio_music": "A continuous, grand orchestral score plays throughout the video, creating a cinematic and serious tone that emphasizes the importance of the diplomatic event.",
+  "editing_pacing": "The video is a montage of short clips with smooth transitions that follow the flow of the musical score.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Importance",
+    "Alliance"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is successfully conducting foreign policy and strengthening alliances, as demonstrated by a formal meeting and agreement signing with the President of Finland.",
+  "intended_effect": "To project an image of presidential strength, diplomatic success, and strong international relations under the Trump administration.",
+  "uncertainty_flags": [
+    "The provided audio transcript ('We'll be right back.') does not match the actual audio, which is purely instrumental music with no speech.",
+    "The Finnish leader is identified as Alexander Stubb based on facial recognition and external context, but he is not named in the video itself."
+  ]
+}

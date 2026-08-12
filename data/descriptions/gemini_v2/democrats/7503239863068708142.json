@@ -1,0 +1,83 @@
+{
+  "video_id": "7503239863068708142",
+  "visual_action": "The video first shows a blonde woman speaking at a White House press briefing podium. A large thinking face emoji is superimposed at the top of the frame. The video then cuts to a screenshot of a news article with the headline \"Trump administration poised to accept 'palace in the sky' as a gift for Trump from Qatar.\" The article includes a photo of Donald Trump on a lawn in front of a helicopter, being filmed by cameras.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A speaker says, \"It's ridiculous to suggest that President Trump is doing anything for his own benefit.\" A news article shown on screen is headlined \"...as a gift for Trump from Qatar.\""
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown at a White House podium speaking in defense of Donald Trump."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text \"sources told ABC News.\" appears at the bottom of the news article screenshot."
+    },
+    {
+      "name": "Qatar",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news headline on screen states the gift to Trump was \"from Qatar\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "HOUSE 2:27 PM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "other"
+    },
+    {
+      "text": "It's ridiculous to suggest that President Trump is doing anything for his own benefit.",
+      "role": "caption"
+    },
+    {
+      "text": "Trump administration poised to accept 'palace in the sky' as a gift for Trump from Qatar",
+      "role": "overlay"
+    },
+    {
+      "text": "The luxury jumbo jet is to be used as Air Force One, sources told ABC News.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman states, \"It's ridiculous to suggest that President Trump is doing anything for his own benefit.\"",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The audio begins with dialogue. When the news article appears, a slow, pensive piano melody begins playing, creating a tone of critical reflection.",
+  "editing_pacing": "The video consists of a single static shot of a speaker, followed by a hard cut to a static image of a news article.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Irony",
+    "Skepticism",
+    "Distrust"
+  ],
+  "cultural_references": [],
+  "central_claim": "Despite his spokesperson's denial that he acts for personal benefit, Donald Trump's administration was prepared to accept a luxury jet as a personal gift from Qatar during his presidency.",
+  "intended_effect": "To persuade the viewer that Donald Trump is corrupt and self-serving by presenting evidence that contradicts his administration's public statements.",
+  "uncertainty_flags": [
+    "The identity of the woman speaking at the podium is not clear from the video."
+  ]
+}

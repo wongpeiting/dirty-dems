@@ -1,0 +1,61 @@
+{
+  "video_id": "7603815629858098446",
+  "visual_action": "A fast-paced montage of American winter sports athletes. It includes shots of a sled hockey player on the ice against a starry background, a female hockey player, a skier in the snow, a bobsledder, and a clip of an ice hockey fight between a Team USA player and a Team Canada player. The video concludes with text on a black screen and then the White House logo.",
+  "cast": [
+    {
+      "name": "Team USA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Multiple athletes are shown wearing jerseys with 'USA' and the USA crest. Text at the end of the video reads 'GOOD LUCK TEAM USA'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a logo that reads 'THE WHITE HOUSE'. The posting account is @whitehouse."
+    },
+    {
+      "name": "Team Canada",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "During the ice hockey fight scene, the opposing player wears a red jersey with a white maple leaf, the symbol for Canada's national hockey teams."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ONE FOR ALL.\n\nGOOD LUCK TEAM USA",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A male voice, sounding like a coach giving a motivational speech, says, \"Play hard! Play smart! If they don't got a blue shirt on, hit 'em!\" This is followed by a hip-hop song with the lyrics \"We on go, we on go... let 'em know, let 'em know.\"",
+  "emojis_present": [
+    "🦅"
+  ],
+  "audio_music": "The video opens with a spoken-word motivational speech from a coach. After about four seconds, an aggressive, high-energy hip-hop track ('WE ON GO' by BIA) begins and plays for the remainder of the video, creating a hype and intense atmosphere for the sports montage.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different athletes and sports. It mixes dramatic slow-motion shots with high-action clips like a hockey fight.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Excitement",
+    "Aggression"
+  ],
+  "cultural_references": [
+    "The opening audio clip is a famous line spoken by Kurt Russell portraying coach Herb Brooks in the 2004 film 'Miracle,' about the 1980 U.S. Olympic hockey team.",
+    "The song 'WE ON GO' by hip-hop artist BIA is used as the backing track."
+  ],
+  "central_claim": "The White House is enthusiastically and aggressively supporting Team USA, portraying the athletes as tough, determined competitors.",
+  "intended_effect": "To generate excitement and patriotic pride in support of Team USA's athletes.",
+  "uncertainty_flags": []
+}

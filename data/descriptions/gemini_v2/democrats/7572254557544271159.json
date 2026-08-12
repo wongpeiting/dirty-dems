@@ -1,0 +1,121 @@
+{
+  "video_id": "7572254557544271159",
+  "visual_action": "The video starts with a photograph of Donald Trump and Jeffrey Epstein at a social event. It then cuts to a slideshow of five different screenshots of alleged emails, with red arrows and highlighting pointing to specific phrases mentioning Trump. The video concludes with a meme-style image of Donald Trump smiling with the caption, \"WOULD YOU TRUST THIS MAN WITH YOUR DAUGHTER?\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photo at the start, mentioned by name in the overlay text (\"new Epstein emails about Trump\"), repeatedly named in the email screenshots, and is the subject of the final meme."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photo at the start, and the video is framed around \"new Epstein emails\"."
+    },
+    {
+      "name": "Larry Summers",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears as a sender/recipient in one of the email screenshots."
+    },
+    {
+      "name": "Kathy Ruemmler",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears as a sender/recipient in one of the email screenshots."
+    },
+    {
+      "name": "Prince Andrew",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name is mentioned in an email screenshot: \"prince andrew and trump today. tooo funny.\""
+    },
+    {
+      "name": "Epstein's brother",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The final caption reads \"picture from Epstein's brother sent to Epstein\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "new Epstein emails about Trump came out ➡️➡️➡️",
+      "role": "overlay"
+    },
+    {
+      "text": "i know how dirty donald is.",
+      "role": "other"
+    },
+    {
+      "text": "have met some very bad people. none as bad as trump",
+      "role": "other"
+    },
+    {
+      "text": "i dont want to come early to find trump in your house(LOL)",
+      "role": "other"
+    },
+    {
+      "text": "Message: prince andrew and trump today. tooo funny.",
+      "role": "other"
+    },
+    {
+      "text": "Message: recall prince andrews accuser came out of mara lago",
+      "role": "other"
+    },
+    {
+      "text": "david fizel, hanson, trump",
+      "role": "other"
+    },
+    {
+      "text": "picture from Epstein's brother sent to Epstein ⬇️",
+      "role": "overlay"
+    },
+    {
+      "text": "WOULD YOU TRUST THIS MAN WITH YOUR DAUGHTER?",
+      "role": "meme_text"
+    },
+    {
+      "text": "HOUSE_OVERSIGHT_031659",
+      "role": "other"
+    },
+    {
+      "text": "HOUSE_OVERSIGHT_033177",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only a music track plays throughout.",
+  "emojis_present": [
+    "➡️",
+    "⬇️"
+  ],
+  "audio_music": "The video features a continuous music track that shifts in composition. It begins with one song, then transitions around the 8-second mark and again at the 16-second mark to different slowed-down, reverb-heavy versions of the song \"She Knows.\" The overall effect is ominous and dramatic, fitting the conspiratorial tone of the content.",
+  "editing_pacing": "The video is a slow-paced slideshow of static images, with simple cuts between a photograph, several document screenshots, and a final meme image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Distrust",
+    "Disgust",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Newly released emails from Jeffrey Epstein and his associates reveal damning information about Donald Trump, suggesting he is a morally corrupt and dangerous person.",
+  "intended_effect": "To convince the viewer that Donald Trump's character is questionable and untrustworthy due to his association with Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The authenticity of the emails shown on screen cannot be verified from the video alone."
+  ]
+}

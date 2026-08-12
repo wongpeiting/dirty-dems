@@ -1,0 +1,46 @@
+{
+  "video_id": "7582377060778216759",
+  "visual_action": "The video displays two still photographs in sequence. The first photo shows Donald Trump at night, walking on a lawn in a blue suit, looking downcast. The second photo is an older image showing a younger Donald Trump standing next to Jeffrey Epstein at what appears to be an indoor social gathering.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of both photographs shown in the video."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He appears in the second photograph standing next to Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "-sleepy\n-orange\n-tweeting all day\nand night\n-bored af",
+      "role": "overlay"
+    },
+    {
+      "text": "literally a random\nnight in 1992",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists entirely of a music track.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, energetic pop/dance track plays continuously throughout the video.",
+  "editing_pacing": "The video is a simple slideshow consisting of a single cut between two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "suspicion"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's current life is boring and pathetic compared to his past, which involved partying with Jeffrey Epstein.",
+  "intended_effect": "To mock Donald Trump's current state while simultaneously associating him with a convicted sex offender to create a negative impression.",
+  "uncertainty_flags": []
+}

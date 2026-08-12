@@ -1,0 +1,46 @@
+{
+  "video_id": "7667302410544483598",
+  "visual_action": "Donald Trump is shown from the waist up, speaking at a podium with the presidential seal in front of a large, seated audience at what appears to be a rally.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the person speaking at the podium for the entire video, and the on-screen text is about him."
+    },
+    {
+      "name": "unnamed heckler",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A voice is heard shouting repeatedly from the audience during Donald Trump's speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "someone in the audience is yelling \"ped0phile protector\" at trump 😭",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump speaks about imposing tariffs on foreign producers and automobiles, calling it a courageous act. Throughout his speech, a heckler in the audience can be heard repeatedly shouting in the background. The on-screen text identifies the heckler's words as \"pedophile protector.\"",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio consists of Donald Trump's speech at a rally, with ambient crowd noise. A heckler's voice is prominently audible, shouting over Trump. There is no music.",
+  "editing_pacing": "The video is a single, static shot with no cuts or editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [],
+  "central_claim": "A heckler at one of Donald Trump's rallies called him a \"pedophile protector\" while he was giving a speech.",
+  "intended_effect": "To embarrass Donald Trump and highlight that he faces public accusations and dissent, even from within his own rally audiences.",
+  "uncertainty_flags": [
+    "The precise words shouted by the heckler are indistinct in the audio and are identified primarily by the on-screen text."
+  ]
+}

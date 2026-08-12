@@ -1,0 +1,104 @@
+{
+  "video_id": "7660238077264153870",
+  "visual_action": "The video is a montage that intercuts clips of Donald Trump speaking at press events with news-style headlines and B-roll footage. Trump is first seen sitting in front of a backdrop reading 'ANKARA SUMMIT' and later in an ornate room. The B-roll footage includes nighttime shots of large explosions and fires in a city, dark smoke billowing, and an aerial view of what appears to be a mass burial site with numerous open graves and heavy machinery.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking throughout the video, and the on-screen text directly quotes him and discusses the consequences of his alleged actions."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text identifies Iran as the target of US strikes and the location of a bombed primary school."
+    },
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text states that the 'US is preparing for more strikes' and is 'at Fault in Strike on School in Iran'."
+    },
+    {
+      "name": "UNESCO",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An on-screen headline attributes a quote about a school bombing being a 'grave violation of humanitarian law' to UNESCO."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Off-screen voices are heard asking Trump questions like 'Is the ceasefire over?'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Is the ceasefire over?",
+      "role": "overlay"
+    },
+    {
+      "text": "To me,",
+      "role": "overlay"
+    },
+    {
+      "text": "I think it's over.",
+      "role": "overlay"
+    },
+    {
+      "text": "will trump's war ever end?",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump warns Iran that US is preparing for more strikes after saying ceasefire is over",
+      "role": "overlay"
+    },
+    {
+      "text": "Oil prices surge, stocks tumble after Trump says Iran ceasefire is 'over'",
+      "role": "overlay"
+    },
+    {
+      "text": "Deadly bombing of Iran primary school 'a grave violation of humanitarian law': UNESCO",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says",
+      "role": "overlay"
+    },
+    {
+      "text": "ANKARA SUMMIT",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump if a ceasefire is over. Trump responds, \"To me, I think it's over.\" In other clips, Trump discusses military action, saying, \"So we hit them very hard last night... We'll probably hit them hard again tonight.\" When another reporter asks if he has seen reports about a school attack, Trump replies, \"I have not seen it, no.\"",
+  "emojis_present": [],
+  "audio_music": "The song 'One Way Or Another' by Blondie plays throughout the video. The upbeat, driving rock track, with its lyrics about relentlessly pursuing someone, is used to create an ominous and threatening mood when juxtaposed with Trump's statements about military strikes and images of explosions.",
+  "editing_pacing": "The video uses fast cuts in a montage style, rapidly alternating between clips of Donald Trump speaking, text overlays presented as news headlines, and B-roll footage of explosions and graves.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Alarm",
+    "Anger",
+    "Outrage"
+  ],
+  "cultural_references": [
+    "One Way Or Another by Blondie"
+  ],
+  "central_claim": "Donald Trump irresponsibly declared a ceasefire with Iran 'over,' leading to devastating US military strikes, including the bombing of a school, causing a humanitarian crisis and economic turmoil.",
+  "intended_effect": "To portray Donald Trump as a dangerous and reckless leader whose actions directly cause war, death, and instability, thereby generating fear and opposition to his presidency.",
+  "uncertainty_flags": [
+    "The authenticity of the news headlines shown on screen cannot be verified; they may be real or may have been created for the video."
+  ]
+}

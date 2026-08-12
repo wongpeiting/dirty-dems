@@ -1,0 +1,87 @@
+{
+  "video_id": "7424981561591745834",
+  "visual_action": "A montage of clips shows former President Barack Obama at a political rally. He greets enthusiastic supporters in a crowd, walks on stage, and speaks at a podium against the backdrop of an American flag. The podium is labeled 'PITTSBURGH, PA' and 'HARRIS WALZ'.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure in every shot, shown speaking and interacting with the crowd."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her last name, 'HARRIS', is prominently displayed on the podium where Obama is speaking."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His last name, 'WALZ', is prominently displayed on the podium where Obama is speaking."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The account handle '@THEDEMOCRATS' is watermarked on the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "A MAN",
+      "role": "overlay"
+    },
+    {
+      "text": "A WA-A-A-A-AN",
+      "role": "overlay"
+    },
+    {
+      "text": "PITTSBURGH, PA",
+      "role": "chyron"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "chyron"
+    },
+    {
+      "text": "DO NOT JUST SIT BACK AND HOPE FOR THE BEST",
+      "role": "overlay"
+    },
+    {
+      "text": "@THEDEMOCRATS",
+      "role": "overlay"
+    },
+    {
+      "text": "GET OFF YOUR COUCH AND VOTE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Barack Obama urges the audience, \"Do not just sit back and hope for the best. Get off your couch and vote.\"",
+  "emojis_present": [],
+  "audio_music": "A high-energy, upbeat pop song ('Breakin' Dishes' by Rihanna) plays throughout the entire video. The editing is tightly synchronized to the music, creating a modern, hype-video feel.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various shots of Obama at the rally. It uses glowing, dynamic text overlays that appear in time with the audio.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "urgency",
+    "motivation",
+    "inspiration"
+  ],
+  "cultural_references": [
+    "The video is set to the song 'Breakin' Dishes' by pop artist Rihanna.",
+    "The fast-paced, music-synced editing style is characteristic of 'fan edits' or 'hype videos' popular on TikTok."
+  ],
+  "central_claim": "Barack Obama is urging voters to be proactive and turn out to vote for the Harris-Walz ticket.",
+  "intended_effect": "To energize and motivate potential voters by using a popular former president's endorsement within a modern, high-energy video format.",
+  "uncertainty_flags": []
+}

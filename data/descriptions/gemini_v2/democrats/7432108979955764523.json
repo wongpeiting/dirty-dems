@@ -1,0 +1,50 @@
+{
+  "video_id": "7432108979955764523",
+  "visual_action": "Kamala Harris stands at a podium bearing the seal of the Vice President of the United States, speaking to a large, out-of-focus crowd. She gestures with her hands while she talks.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker shown on screen for the entire video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Kamala Harris says, \"Donald Trump on day one would walk into that office with an enemies list.\" He is also named in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kamala Harris: Trump has an enemies list, I have a to-do list 🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD 1 WALK OFFICE ENEMIES WHEN ELECTED WALK LIST BEHALF YOU",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Kamala Harris contrasts herself with Donald Trump, stating that he would enter office with an \"enemies list.\" She declares, \"When I am elected, I will walk in with a to-do list,\" which is met with loud cheers from the crowd.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio consists solely of Kamala Harris's speech and the sound of the crowd cheering and applauding loudly in response to her statements. There is no music.",
+  "editing_pacing": "The video uses a single, static shot of the speaker (a talking-head style). The primary editing feature is the use of text overlays that appear in sync with the spoken words to provide emphasis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Inspiration",
+    "Pride",
+    "Warning",
+    "Disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris is a proactive leader focused on action for the people ('a to-do list'), unlike Donald Trump, whom she portrays as being focused on personal retribution ('an enemies list').",
+  "intended_effect": "To build support for Kamala Harris by contrasting her positively as a constructive leader against a negatively framed, vindictive Donald Trump.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,116 @@
+{
+  "video_id": "7393874300014562590",
+  "visual_action": "A slideshow of still images of Republican politicians. The video opens with a title card reading 'GOP Core' over the Republican party logo, with headshots of Mike Johnson and Mitch McConnell. It then transitions through individual headshots of Lauren Boebert, Byron Donalds, Ted Cruz, Marjorie Taylor Greene, and Matt Gaetz. Each politician's photo has a text overlay in a red box describing a political action or stance.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is titled 'GOP Core' and features the Republican elephant logo."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a still photo on the opening title card, on the left."
+    },
+    {
+      "name": "Mitch McConnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a still photo on the opening title card, on the right."
+    },
+    {
+      "name": "Lauren Boebert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her photo is shown with the text 'denying access to IVF'."
+    },
+    {
+      "name": "Byron Donalds",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His photo is shown with the text 'voting against common sense gun safety'."
+    },
+    {
+      "name": "Ted Cruz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His photo is shown with the text 'voting against lower prescription drug prices'."
+    },
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her photo is shown with the text 'blocking foreign aid packages'."
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His photo is shown with the text 'refusing to protect the right to contraception'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "✨GOP Core✨",
+      "role": "overlay"
+    },
+    {
+      "text": "denying access to IVF",
+      "role": "overlay"
+    },
+    {
+      "text": "voting against common sense gun safety",
+      "role": "overlay"
+    },
+    {
+      "text": "voting against lower prescription drug prices",
+      "role": "overlay"
+    },
+    {
+      "text": "blocking foreign aid packages",
+      "role": "overlay"
+    },
+    {
+      "text": "refusing to protect the right to contraception",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is accompanied only by instrumental music.",
+  "emojis_present": [
+    "✨"
+  ],
+  "audio_music": "A slow, mournful, country-style steel guitar melody plays throughout the video. The somber tone contrasts with the smiling photos of the politicians, creating a mocking or critical effect.",
+  "editing_pacing": "The video is a simple slideshow of static images, each displayed for a few seconds before fading into the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disapproval",
+    "condemnation",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "The core of the Republican Party is defined by unpopular and harmful policy positions, such as restricting access to IVF and contraception, opposing gun safety and lower drug prices, and blocking foreign aid.",
+  "intended_effect": "To generate disapproval of the Republican Party and its prominent members by highlighting a list of their controversial actions and stances.",
+  "uncertainty_flags": [
+    "The provided music fingerprint (Juega — Omar Santana; Hawaiian Cocktail — Richard Myhill) does not match the audio, which is a slow, sad-sounding steel guitar melody.",
+    "The identification of Mike Johnson, Mitch McConnell, Lauren Boebert, Byron Donalds, Ted Cruz, Marjorie Taylor Greene, and Matt Gaetz is based on visual recognition as no authoritative face-ID was provided."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "video_id": "7542534728507739447",
+  "visual_action": "The video opens on a digital clock on a desk that reads 5:30 PM. It cuts between shots of a man's hands typing on a keyboard in an office setting and the clock. At the moment the clock is shown, a can of Diet Coke is placed on the desk, and a person opens it with a fizz. The person resumes typing. A printer then prints out a sheet of paper that reads \"NO TAX ON OVERTIME\" with a smiley face below it. A hand grabs the paper. The video concludes with a black-and-white montage of The White House exterior and a helicopter, with the words \"THE WHITE HOUSE\" superimposed.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with text that reads 'THE WHITE HOUSE' over imagery of the building. The account that posted the video is also @whitehouse."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "5:30 PM",
+      "role": "overlay"
+    },
+    {
+      "text": "NO TAX ON OVERTIME\n🙂",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no discernible dialogue in the video. The provided transcript does not match the audio, which consists of ambient office sounds (phone ringing, typing) followed by a song.",
+  "emojis_present": [
+    "💸",
+    "🙂"
+  ],
+  "audio_music": "The video begins with ambient office sounds, including a phone ringing and keyboard clicks. At approximately the 9-second mark, when the soda can is opened, the upbeat funk/soul song 'For the Love of Money' by The O'Jays kicks in and plays for the remainder of the video. The music has a celebratory and energetic effect, thematically tying into the video's message about money.",
+  "editing_pacing": "The video uses a series of fast cuts in a montage style, similar to a commercial, to build a short narrative about the end of a workday and a new policy.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Relief",
+    "Excitement",
+    "Optimism"
+  ],
+  "cultural_references": [
+    "The song 'For the Love of Money' by The O'Jays is used prominently."
+  ],
+  "central_claim": "The White House is implementing a 'No Tax on Overtime' policy, which is a positive development for workers.",
+  "intended_effect": "To generate positive sentiment and public support for the administration's 'No Tax on Overtime' policy.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is incorrect and does not reflect the audio of the video, which contains no dialogue."
+  ]
+}

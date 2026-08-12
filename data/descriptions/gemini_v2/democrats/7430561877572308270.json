@@ -1,0 +1,59 @@
+{
+  "video_id": "7430561877572308270",
+  "visual_action": "The video alternates between a clip of Donald Trump speaking into a microphone in front of a red curtain and a clip of podcaster Joe Rogan laughing in his studio. The cuts are edited to make it appear as though Rogan is laughing directly at what Trump is saying.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking for the majority of the video and is the subject of the on-screen text."
+    },
+    {
+      "name": "Joe Rogan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown laughing in reaction shots and is named in the on-screen text 'Rogan laughs in Trump's face'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rogan laughs in Trump's face 😂👊",
+      "role": "overlay"
+    },
+    {
+      "text": "LIKE-",
+      "role": "overlay"
+    },
+    {
+      "text": "I",
+      "role": "overlay"
+    },
+    {
+      "text": "*LAUGHS*",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio features a fragmented clip of Donald Trump saying \"lost by like... I didn't lose... but they say I lost...\". This is intercut with the sound of Joe Rogan laughing heartily.",
+  "emojis_present": [
+    "😂",
+    "👊"
+  ],
+  "audio_music": "A jaunty, slightly comical instrumental track plays throughout the video, underscoring the mocking tone of the edit.",
+  "editing_pacing": "The video consists of quick cuts between Trump speaking and Rogan laughing, creating a fake reaction shot sequence.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is edited to create a false interaction. It juxtaposes a clip of Donald Trump speaking from an unknown interview with an unrelated clip of Joe Rogan laughing from his podcast to create the misleading impression that Rogan is laughing at Trump during a conversation. Donald Trump has not appeared on The Joe Rogan Experience.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The Joe Rogan Experience"
+  ],
+  "central_claim": "Donald Trump is so ridiculous that popular podcaster Joe Rogan is shown laughing in his face.",
+  "intended_effect": "To ridicule Donald Trump and portray his statements as laughable.",
+  "uncertainty_flags": []
+}

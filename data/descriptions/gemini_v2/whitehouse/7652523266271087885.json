@@ -1,0 +1,64 @@
+{
+  "video_id": "7652523266271087885",
+  "visual_action": "Donald Trump is shown seated at a long, formal table, signing a document with a pen. An unidentified man in a suit stands behind him. After signing, people off-screen and in the room begin to applaud. Another man, who appears to be French President Emmanuel Macron, is seated to Trump's right. Senator Marco Rubio stands behind Trump and looks on. Trump shows the signed document, speaks with the man next to him, and they shake hands. The setting is an ornate, well-lit room.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown signing a document, and is identified by face-ID and on-screen text."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the document being signed as 'the Iran Memorandum of Understanding'."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible standing behind Donald Trump and is identified by face-ID."
+    },
+    {
+      "name": "Emmanuel Macron",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man who strongly resembles French President Emmanuel Macron is seated next to Donald Trump and shakes his hand."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump signs the Iran Memorandum of Understanding at Versailles",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of ambient room sounds and applause after Donald Trump signs the document. Various people can be heard congratulating him, with audible phrases including 'Bravo,' 'Good job,' and 'Great job.' Trump also speaks briefly to the people around him.",
+  "emojis_present": [],
+  "audio_music": "The audio is entirely diegetic sound from the event, featuring applause, indistinct chatter, and spoken words. There is no musical soundtrack.",
+  "editing_pacing": "The video appears to be a single, continuous shot that zooms in on the document being signed and then pulls back to show the people in the room. The pacing is slow and observational.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "accomplishment",
+    "seriousness"
+  ],
+  "cultural_references": [
+    "Versailles"
+  ],
+  "central_claim": "President Trump signed the 'Iran Memorandum of Understanding' at Versailles, marking a significant diplomatic achievement.",
+  "intended_effect": "To portray Donald Trump as a strong, effective leader accomplishing important diplomatic work on the world stage, thereby evoking pride and confidence in his presidency.",
+  "uncertainty_flags": [
+    "The identification of Emmanuel Macron is based on strong visual resemblance but was not confirmed by the provided authoritative face-ID.",
+    "The provided audio transcript was empty; the spoken summary is based on direct listening to the video's audio, which contains some indistinct chatter."
+  ]
+}

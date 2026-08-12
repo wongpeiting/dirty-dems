@@ -1,0 +1,43 @@
+{
+  "video_id": "7330445020681522475",
+  "visual_action": "A montage of clips shows President Joe Biden and actor Chris Evans meeting inside the White House. They shake hands, and then both put on aviator sunglasses, smiling and posing for photos together. A portrait of George Washington is visible in the background.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Joe Biden is shown throughout the video meeting and posing with actor Chris Evans."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Chris Evans visits the White House 😋",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set to music.",
+  "emojis_present": [
+    "😋"
+  ],
+  "audio_music": "An upbeat, energetic pop track, identified as 'Breakin' Dishes' by Rihanna, plays continuously throughout the video, creating a fun and positive mood.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different shots of the interaction.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "positivity",
+    "amusement",
+    "coolness"
+  ],
+  "cultural_references": [
+    "Chris Evans (actor, shown visiting the White House)",
+    "Rihanna (musician whose song 'Breakin' Dishes' is used)",
+    "The pop culture trope of putting on sunglasses to signify coolness"
+  ],
+  "central_claim": "Actor Chris Evans had a friendly and cool visit with President Joe Biden at the White House, showing a positive association between the administration and a popular celebrity.",
+  "intended_effect": "To generate positive sentiment towards Joe Biden by showcasing his friendly interaction with a popular actor, making the President appear cool and relatable.",
+  "uncertainty_flags": [
+    "Uncertainty about whether a non-political main character of a post (Chris Evans) should be in `cast` or `cultural_references`. Placed in `cultural_references` following the specific instruction for 'famous people genuinely appearing/visiting'."
+  ]
+}

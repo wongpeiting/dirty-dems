@@ -1,0 +1,58 @@
+{
+  "video_id": "7581934434715176206",
+  "visual_action": "A montage of different men in business casual attire doing pull-ups on a pull-up bar inside an airport terminal. Other travelers can be seen in the background.",
+  "cast": [
+    {
+      "name": "the transportation secretary",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text says 'pov: you're at the airport, your flight just got canceled, and the transportation secretary is doing this'."
+    },
+    {
+      "name": "Sean Duffy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition as one of the men doing pull-ups in the airport."
+    },
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition (medium confidence) as one of the men doing pull-ups in the airport."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "pov: you're at the airport, your flight just got canceled, and the transportation secretary is doing this",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman's voice playfully narrates someone's actions, saying things like, \"Run up, run down. You're just having fun,\" and \"You don't even know there's a camera on you... Ooh, there's some guy taking my picture.\" This audio seems disconnected from the specific individuals shown but matches the general action of exercising.",
+  "emojis_present": [
+    "😀"
+  ],
+  "audio_music": "An upbeat instrumental track ('The Man' by Ashley Borer) plays throughout, overlaid with a woman's spoken-word audio.",
+  "editing_pacing": "The video is a montage with quick cuts between different clips of men exercising.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "frustration",
+    "annoyance"
+  ],
+  "cultural_references": [
+    "The 'pov' (point of view) meme format."
+  ],
+  "central_claim": "The Transportation Secretary is out of touch and unconcerned with traveler issues like flight cancellations, instead focusing on personal fitness.",
+  "intended_effect": "To portray the Transportation Secretary as ineffective and indifferent to the problems of ordinary people, thereby generating negative sentiment.",
+  "uncertainty_flags": [
+    "The video does not explicitly name the Transportation Secretary, but the reference is clearly directed at the person holding that office.",
+    "It is unclear if the specific men shown (including those identified by face recognition) are intended to be the Transportation Secretary or are simply random clips used to illustrate the point made in the on-screen text."
+  ]
+}

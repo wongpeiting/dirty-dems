@@ -1,0 +1,78 @@
+{
+  "video_id": "7650585470354722061",
+  "visual_action": "A man in a navy polo shirt with an American flag on the sleeve (Andrew Giuliani) is holding a phone on speaker. He speaks into it and then hands the phone to another man in a black tracksuit (Mauricio Pochettino), who continues the conversation. A third man with long blond hair sits next to Pochettino and listens.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The voice on the phone call, referred to as 'POTUS' in on-screen text and 'Mr. President' in dialogue, is characteristic of Donald Trump's."
+    },
+    {
+      "name": "U.S. Men's National Soccer Team",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'POTUS calls U.S. men's soccer team ahead of the World Cup'."
+    },
+    {
+      "name": "Andrew Giuliani",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He introduces himself on the phone call, saying 'Mr. President, Andrew Giuliani.'"
+    },
+    {
+      "name": "Mauricio Pochettino",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is referred to as 'a great coach, Coach Pochettino' by Andrew Giuliani."
+    },
+    {
+      "name": "unnamed soccer player",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man with long blond hair is shown on screen sitting next to Mauricio Pochettino, but is not named or involved in the conversation."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POTUS calls U.S. men's soccer team ahead of the World Cup 🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Andrew Giuliani takes a call from 'Mr. President' (POTUS) and tells him he is standing with the U.S. men's soccer team and 'Coach Pochettino'. The President's voice is heard complimenting the coach and players, saying, 'I think you've got a really good chance of going all the way.' He wishes them luck. The coach thanks the president for his support and promises to do everything to make the country proud.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists entirely of dialogue from a speakerphone call. There is no music or other sound design.",
+  "editing_pacing": "The video consists of a single, continuous scene shot from a few slightly different angles with simple cuts between them. The pacing is slow and conversational.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride",
+    "Encouragement"
+  ],
+  "cultural_references": [
+    "World Cup"
+  ],
+  "central_claim": "The President of the United States personally called the U.S. men's national soccer team to offer his encouragement and support before the World Cup.",
+  "intended_effect": "To evoke feelings of national pride and to portray the President as a supportive leader who cares about the country's athletes.",
+  "uncertainty_flags": [
+    "The identity of the President (POTUS) is not explicitly stated, but the voice is highly characteristic of Donald Trump.",
+    "The coach is referred to as 'Coach Pochettino,' which is almost certainly a reference to the famous soccer manager Mauricio Pochettino."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "video_id": "7571613765792271671",
+  "visual_action": "A montage of a formal ceremony at a large, classical-style monument decorated with American flags. The video shows Donald Trump speaking at a podium and laying a wreath. JD Vance is also shown speaking at a podium and standing with Trump. Various attendees, including military veterans in uniform and civilians, are shown saluting and watching the event. There are close-ups of patriotic details like a patch on a veteran's jacket, a military drummer, and a sheet of music for \"GOD BLESS AMERICA.\" The video concludes with a black-and-white image of the White House and its official logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually identified by face recognition, shown speaking at a podium, laying a wreath, and is heard speaking in the audio."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually identified by face recognition, shown speaking at a podium and standing alongside Donald Trump."
+    },
+    {
+      "name": "Doug Collins",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visually identified by face recognition, shown briefly smiling at the podium."
+    },
+    {
+      "name": "American Veterans",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire post, including the caption and spoken audio, is a tribute to veterans, and many are shown in the crowd saluting."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video is posted from the @whitehouse account and ends with 'THE WHITE HOUSE' text and logo on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GOD BLESS AMERICA",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a compilation of speeches from at least two different speakers, likely Donald Trump and JD Vance, paying tribute to American veterans. The speakers thank veterans for their service, acknowledging that this gratitude is \"too often left unsaid.\" They praise veterans for their courage and sacrifice, noting they left their homes and families to \"defend the land of the free.\" The speech concludes on a patriotic note about the strength of the \"American dream\" and the nation's \"magnificent destiny.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "A continuous, grand orchestral score plays throughout the video. The music has a solemn, reverent, and patriotic tone, enhancing the tribute to veterans.",
+  "editing_pacing": "The video is a montage with a stately and reverent pace. It uses slow cuts between wide shots of the ceremony, medium shots of the speakers, and close-ups of veterans and patriotic imagery. Some shots appear to be in slow motion.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride",
+    "Respect",
+    "Gratitude",
+    "Solemnity"
+  ],
+  "cultural_references": [
+    "God Bless America"
+  ],
+  "central_claim": "The administration, represented by Donald Trump and JD Vance, honors and thanks American veterans for their profound sacrifices in defending the nation.",
+  "intended_effect": "To evoke feelings of patriotism and gratitude towards veterans, while portraying the speakers and the administration as strong supporters of the military.",
+  "uncertainty_flags": [
+    "The audio appears to be edited together from speeches by multiple different speakers, though it is presented over footage of a single event."
+  ]
+}

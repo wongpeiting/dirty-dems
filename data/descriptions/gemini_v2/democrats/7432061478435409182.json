@@ -1,0 +1,59 @@
+{
+  "video_id": "7432061478435409182",
+  "visual_action": "The video displays a static screenshot of a fabricated tweet from LeBron James endorsing Kamala Harris. This is followed by a cut to a separate static image of LeBron James smiling shirtless while in a swimming pool.",
+  "cast": [
+    {
+      "name": "LeBron James",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A fabricated tweet from his account '@KingJames' is shown, and a photograph of his face is displayed."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name appears in an overlay text (\"endorsed Kamala Harris\") and in the text of a fabricated tweet (\"VOTE KAMALA HARRIS!!!\")."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The 👑 just officially endorsed Kamala Harris ⬇️⬇️",
+      "role": "overlay"
+    },
+    {
+      "text": "LeBron James @KingJames",
+      "role": "overlay"
+    },
+    {
+      "text": "What are we even talking about here?? When I think about my kids and my family and how they will grow up, the choice is clear to me. VOTE KAMALA HARRIS!!!",
+      "role": "overlay"
+    },
+    {
+      "text": "Smiling through it all! Can’t believe this my life",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video; it is accompanied by a song.",
+  "emojis_present": [
+    "👑",
+    "⬇️"
+  ],
+  "audio_music": "A soulful, slightly dramatic song ('Forever' by Joel Venom, Nick Nemesis) plays throughout the video. Its serious tone is used ironically to contrast with the mocking content.",
+  "editing_pacing": "A simple slideshow consisting of a single cut between two static images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The post features a fabricated screenshot of a tweet from LeBron James's official account, falsely showing him endorsing Kamala Harris.",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "LeBron James"
+  ],
+  "central_claim": "The post fabricates a political endorsement from LeBron James for Kamala Harris to mock him as out of touch or hypocritical.",
+  "intended_effect": "To mock LeBron James and, by extension, celebrity political endorsements.",
+  "uncertainty_flags": []
+}

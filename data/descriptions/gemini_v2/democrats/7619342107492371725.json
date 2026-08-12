@@ -1,0 +1,89 @@
+{
+  "video_id": "7619342107492371725",
+  "visual_action": "A fast-paced montage of clips shows pop singers Olivia Rodrigo and then Sabrina Carpenter. The clips show them performing on stage in sparkly outfits, applying makeup, and posing. Throughout the video, screenshots of tweets from the account 'Pop Base' are overlaid. The first tweet quotes Olivia Rodrigo condemning the U.S. government and ICE. The second tweet quotes Sabrina Carpenter slamming the White House for a pro-ICE video.",
+  "cast": [
+    {
+      "name": "Olivia Rodrigo",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is shown in multiple clips in the first half of the video, and a tweet quoting her is the central focus of that section."
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is shown in multiple clips in the second half of the video, and a tweet quoting her is the central focus of that section."
+    },
+    {
+      "name": "U.S. government",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the first overlaid tweet as the entity Olivia Rodrigo is 'calling out'."
+    },
+    {
+      "name": "ICE",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "U.S. Immigration and Customs Enforcement (ICE) is mentioned in both overlaid tweets as the organization whose actions are being condemned."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the second overlaid tweet as the entity Sabrina Carpenter 'slams'."
+    },
+    {
+      "name": "Pop Base",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Twitter handle @PopBase is visible on the tweet screenshots that are overlaid on the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pop Base @PopBase\nOlivia Rodrigo speaks to British Vogue about calling out the U.S. government for using her songs:\n\"That was awful. Dystopian. The way that ICE is ripping apart communities and terrorising people is so disturbing. It's a really sad, scary time.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Pop Base @PopBase\nSabrina Carpenter slams the White House for using her song 'Juno' for a pro-ICE video:\n\"this video is evil and disgusting. Do not ever involve me or my music to benefit your inhumane agenda.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. The audio consists of a continuous hip-hop song with lyrics that include repeated phrases like \"crazy, scandalous.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "A continuous, bass-heavy, and energetic hip-hop/electronic track plays throughout the video, giving it the feel of a 'hype' or 'fan' edit.",
+  "editing_pacing": "The video is a fast-paced montage with very quick cuts between different clips of the singers, timed to the beat of the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Anger",
+    "Solidarity"
+  ],
+  "cultural_references": [
+    "Olivia Rodrigo",
+    "Sabrina Carpenter",
+    "Pop Base",
+    "British Vogue",
+    "The video uses a 'fan edit' or 'stan edit' style, a popular internet format for celebrating celebrities."
+  ],
+  "central_claim": "Popular music artists Olivia Rodrigo and Sabrina Carpenter are publicly condemning the U.S. government, the White House, and ICE for inhumane immigration policies.",
+  "intended_effect": "To leverage the cultural influence of popular celebrities to generate opposition to the current administration's immigration policies.",
+  "uncertainty_flags": [
+    "The authenticity of the overlaid tweets from 'Pop Base' cannot be verified from the video alone."
+  ]
+}

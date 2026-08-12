@@ -1,0 +1,54 @@
+{
+  "video_id": "7610652858307923213",
+  "visual_action": "A static, full-screen image of a screenshot of a tweet. The tweet is from an account named 'FactPost' and includes a profile photo of Donald Trump speaking at a microphone. The tweet text makes a claim about Trump's 2026 State of the Union address.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name appears in the on-screen text of the tweet: \"Trump's incoherent 2026 State of the Union address...\". A photo of him is also part of the tweet."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet shown on screen is from the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's incoherent 2026 State of the Union address has droned on for over one hour and 30 minutes.",
+      "role": "overlay"
+    },
+    {
+      "text": "This is an all-time record.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice shouts, \"Shut up, Mom!\"",
+  "emojis_present": [],
+  "audio_music": "There is no music. The only audio is a short, loudly shouted comedic phrase, which creates a jarring and absurd effect over the static image.",
+  "editing_pacing": "The video consists of a single static image with no edits or movement.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated screenshot of a tweet. The tweet is from a seemingly non-existent account ('FactPost') and makes a satirical claim about a future event (a 2026 State of the Union address) to mock Donald Trump.",
+  "emotions_signaled": [
+    "mockery",
+    "absurdity"
+  ],
+  "cultural_references": [
+    "The audio \"Shut up, Mom!\" is a popular internet meme sound bite, often used for comedic or jarring effect."
+  ],
+  "central_claim": "The post satirically portrays Donald Trump as giving an excessively long and incoherent State of the Union address in the future.",
+  "intended_effect": "To mock Donald Trump and make the audience laugh at a satirical, negative depiction of him.",
+  "uncertainty_flags": [
+    "The provided music fingerprint ('オーロラのカーテン — Grounds Josephine Angela') appears to be incorrect, as there is no audible music in the video, only a spoken meme phrase."
+  ]
+}

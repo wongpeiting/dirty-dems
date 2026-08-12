@@ -1,0 +1,103 @@
+{
+  "video_id": "7635030706372037901",
+  "visual_action": "Donald Trump stands at a podium giving a speech. The backdrop is blue with repeating text including \"NO TAX\" and \"FLORIDA\". The main text on the backdrop reads \"GOLDEN YEARS\". Trump appears visibly frustrated, gesturing as he complains about the microphone.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, and the post's text and caption are about his on-stage complaint."
+    },
+    {
+      "name": "Donald Trump Jr.",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears in the scrolling chyron text at the bottom of the screen: \"...FEATURING DONALD TRUMP JR.\""
+    },
+    {
+      "name": "Amazon",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The company's name appears in the scrolling chyron text: \"AMAZON CONSIDERING REBOOT OF 'THE APPRENTICE'...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump crashes tf out about his mic volume",
+      "role": "overlay"
+    },
+    {
+      "text": "GOLDEN YEARS",
+      "role": "other"
+    },
+    {
+      "text": "NO TAX",
+      "role": "other"
+    },
+    {
+      "text": "FLORIDA",
+      "role": "other"
+    },
+    {
+      "text": "LIVE THE VILLAGES, FL",
+      "role": "chyron"
+    },
+    {
+      "text": "RSBN",
+      "role": "chyron"
+    },
+    {
+      "text": "AMAZON CONSIDERING REBOOT OF 'THE APPRENTICE' FEATURING DONALD TRUMP JR.",
+      "role": "chyron"
+    },
+    {
+      "text": "I HATE IT.",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU PAY THESE GUYS A LOT OF MONEY,",
+      "role": "overlay"
+    },
+    {
+      "text": "AND THEN YOU GET UP AND THE MIC ISN'T ON PROPERLY.",
+      "role": "overlay"
+    },
+    {
+      "text": "PAYING PEOPLE TO DO A BAD JOB.",
+      "role": "overlay"
+    },
+    {
+      "text": "SCREAMING MY ASS OFF BECAUSE THE F- MIC IS NO GOOD.",
+      "role": "overlay"
+    },
+    {
+      "text": "PLEASE.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump complains that he pays technicians a lot of money, but his microphone is not working properly. He states that he doesn't believe in paying people who do a bad job. He says, \"I'm screaming my ass off because the mic is no good,\" and then asks someone to \"Turn the mic up, please.\"",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump speaking, with some ambient room noise and faint audience reactions. There is no music.",
+  "editing_pacing": "The video is a single, static shot of Trump at the podium. There is no editing or cutting.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "The Apprentice (TV Show)",
+    "The slang phrase 'crashes tf out'"
+  ],
+  "central_claim": "Donald Trump publicly lost his temper over a malfunctioning microphone during a speech, showcasing him as unprofessional and easily angered.",
+  "intended_effect": "To mock Donald Trump and portray him as prone to angry outbursts over minor issues.",
+  "uncertainty_flags": []
+}

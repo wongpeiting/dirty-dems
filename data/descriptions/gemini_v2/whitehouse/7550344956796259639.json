@@ -1,0 +1,51 @@
+{
+  "video_id": "7550344956796259639",
+  "visual_action": "The video shows Donald Trump from a high angle, sitting in a suite at what appears to be a large public event like a stadium or arena. He is wearing a dark suit and is surrounded by other people. Trump watches the event, gestures with his fist, and appears to be singing along to the music. The clip ends with a black screen showing the White House logo and text, which fades between different black-and-white images of the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure shown on screen for the majority of the video, and the overlay text 'Make America Great Again!' is his political slogan."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a credit screen featuring the text 'THE WHITE HOUSE' and its logo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Make America Great Again!",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio consists entirely of lyrics from the song \"Y.M.C.A.\", including lines like \"It's fun to stay at the YMCA\" and \"You can hang out with all the boys.\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat, high-energy disco track plays throughout the video, creating a celebratory and rally-like atmosphere. The song is a version of 'Y.M.C.A.' by the Village People.",
+  "editing_pacing": "The video uses a single, continuous, handheld-style shot focused on Donald Trump, which then cuts to a closing credits sequence with static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Excitement",
+    "Patriotism"
+  ],
+  "cultural_references": [
+    "The video's soundtrack is the song 'Y.M.C.A.' by the Village People, a well-known disco-era pop song that became a staple at Donald Trump's political rallies."
+  ],
+  "central_claim": "Donald Trump embodies an energetic and popular movement, as symbolized by his appearance at a public event set to the celebratory music of his rallies.",
+  "intended_effect": "To energize supporters and foster a positive, celebratory image of Donald Trump and his political movement.",
+  "uncertainty_flags": [
+    "The music fingerprinting service reported 'no commercial song matched,' which contradicts the audio and transcript that clearly identify the song as 'Y.M.C.A.' by the Village People."
+  ]
+}

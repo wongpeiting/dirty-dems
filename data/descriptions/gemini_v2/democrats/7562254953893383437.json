@@ -1,0 +1,63 @@
+{
+  "video_id": "7562254953893383437",
+  "visual_action": "Adelita Grijalva, wearing a green blazer, speaks directly to the camera in a medium close-up shot. The background is a solid blue curtain.",
+  "cast": [
+    {
+      "name": "Adelita Grijalva",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the only person on screen, is identified by face-ID, and states her name: \"My name is Adelita Grijalva.\""
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text and Grijalva's speech directly address him with two questions: \"I've got just two questions for Speaker Johnson...\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Grijalva begins by stating, \"Republicans would rather protect pedophiles and stay on vacation than do their jobs.\""
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Grijalva mentions her goal is to \"get justice for the Epstein victims and release the Epstein files.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Adelita Grijalva has two questions for Mike Johnson",
+      "role": "overlay"
+    },
+    {
+      "text": "REPUBLICANS WOULD RATHER PROTECT PEDOPHILES AND STAY ON VACATION THAN DO THEIR JOBS. MY NAME IS ADELITA GRIJALVA, AND I WON MY ELECTION TO REPRESENT ARIZONA CD-7 OVER THREE WEEKS AGO. HERE'S THE THING: I STILL HAVEN'T BEEN SWORN IN. I PROMISED TO BE THE 218TH VOTE NEEDED TO GET JUSTICE FOR THE EPSTEIN VICTIMS AND RELEASE THE EPSTEIN FILES. BUT REPUBLICANS ARE STILL M.I.A. SO I'VE GOT JUST TWO QUESTIONS FOR SPEAKER JOHNSON 1, WHAT ARE YOU HIDING? AND 2, WHAT ARE YOU SCARED OF?",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Adelita Grijalva introduces herself as the winner of the Arizona CD-7 election three weeks prior who has still not been sworn in. She accuses Republicans of preferring to \"protect pedophiles and stay on vacation\" over doing their jobs. She states she promised to be the 218th vote needed to get justice for Jeffrey Epstein's victims and release the Epstein files, but claims Republicans are \"MIA.\" She concludes by asking Speaker Mike Johnson two questions: \"What are you hiding?\" and \"What are you scared of?\"",
+  "emojis_present": [],
+  "audio_music": "The video features only spoken dialogue with no background music or sound effects.",
+  "editing_pacing": "The video consists of a single, static talking-head shot with animated captions appearing in sync with the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage (at the accusation that Republicans protect pedophiles)",
+    "Frustration (over not being sworn in)",
+    "Suspicion (posed by the questions 'What are you hiding?' and 'What are you scared of?')"
+  ],
+  "cultural_references": [],
+  "central_claim": "Speaker Mike Johnson and the Republican Party are intentionally delaying Adelita Grijalva's swearing-in to Congress to prevent her from casting a decisive vote to release the Epstein files.",
+  "intended_effect": "To generate anger and suspicion towards Mike Johnson and Republicans, portraying them as corrupt and complicit in a cover-up, while garnering support for Adelita Grijalva.",
+  "uncertainty_flags": []
+}

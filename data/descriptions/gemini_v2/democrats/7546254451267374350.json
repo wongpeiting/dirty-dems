@@ -1,0 +1,93 @@
+{
+  "video_id": "7546254451267374350",
+  "visual_action": "Robert F. Kennedy Jr. is shown speaking at a hearing, gesturing with his right hand. He is seated at a table with a microphone. The setting appears to be a formal government hearing room, with other people visible in the background. The footage is framed as a CNN broadcast, with a news chyron at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, identified by face recognition and the on-screen chyron which reads 'HHS SECRETARY ROBERT F. KENNEDY JR. TESTIFIES ON CAPITOL HILL'."
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Kennedy states, 'That's why we have to fire people at the CDC.'"
+    },
+    {
+      "name": "Department of Health and Human Services",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen chyron identifies Robert F. Kennedy Jr. as 'HHS Secretary'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Huh?? 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "HHS SECRETARY ROBERT F. KENNEDY JR. TESTIFIES ON CAPITOL HILL",
+      "role": "chyron"
+    },
+    {
+      "text": "HHS Secretary",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "WE ARE THE SICKEST",
+      "role": "caption"
+    },
+    {
+      "text": "COUNTRY IN THE",
+      "role": "caption"
+    },
+    {
+      "text": "WORLD.",
+      "role": "caption"
+    },
+    {
+      "text": "THAT'S WHY WE HAVE",
+      "role": "caption"
+    },
+    {
+      "text": "TO FIRE PEOPLE",
+      "role": "caption"
+    },
+    {
+      "text": "AT THE CDC.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Robert F. Kennedy Jr. states, \"We are the sickest country in the world. That's why we have to fire people at the CDC.\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of Robert F. Kennedy Jr.'s voice as he speaks at the hearing. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head. Text captions are added sequentially to match the speech.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The CNN news chyron is manipulated to falsely identify Robert F. Kennedy Jr. as the 'HHS Secretary'. This digitally alters the context of his statement to present it as if he were a sitting cabinet member.",
+  "emotions_signaled": [
+    "alarm",
+    "disbelief",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post suggests that Robert F. Kennedy Jr.'s hostile views towards the CDC would be dangerous if he held a position of power, such as HHS Secretary.",
+  "intended_effect": "To generate alarm and opposition towards Robert F. Kennedy Jr. by showing his controversial statements in the fabricated context of him holding a high-level government health position.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,51 @@
+{
+  "video_id": "7612737661467397389",
+  "visual_action": "A video montage. The first clip shows a close-up of Donald Trump speaking at a podium with American flags in the background, with '2024' overlaid. This is followed by a series of clips with '2026' overlaid, showing Trump speaking at different podiums (once while wearing a 'USA' hat) and another man, Pete Hegseth, speaking at a podium.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears speaking in multiple clips and is the subject of the video's central claim, which contrasts his past and present statements on war."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears in one clip speaking about war casualties, identified by face-ID."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "2024",
+      "role": "overlay"
+    },
+    {
+      "text": "2026",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video juxtaposes a 2024 clip of Donald Trump promising to stop wars with a montage of 2026 clips. In the 2024 clip, Trump says, \"I'm not going to start a war. I'm going to stop wars.\" In the 2026 clips, both Trump and Pete Hegseth speak about a military effort involving American casualties. Trump states, \"we may have casualties that often happens in war,\" and, \"There will likely be more.\"",
+  "emojis_present": [],
+  "audio_music": "A somber, dramatic orchestral track plays throughout the video, creating a serious and foreboding tone that underscores the discussion of war and casualties.",
+  "editing_pacing": "A montage with quick cuts that juxtaposes clips from two different years, 2024 and 2026, to create a direct and stark contrast. Text overlays are used to label the years.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "distrust",
+    "alarm",
+    "betrayal"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a liar who broke his 2024 promise to avoid wars and is now, in 2026, overseeing a war with American casualties.",
+  "intended_effect": "To persuade the viewer that Donald Trump is untrustworthy and has failed to keep his promises regarding foreign policy, thereby generating opposition to him.",
+  "uncertainty_flags": []
+}

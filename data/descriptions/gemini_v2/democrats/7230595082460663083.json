@@ -1,0 +1,68 @@
+{
+  "video_id": "7230595082460663083",
+  "visual_action": "A slideshow of still photographs of Kamala Harris in various settings and outfits. She is shown speaking at a podium, standing outside the White House, being sworn into office, shaking hands in a legislative chamber, walking with Joe Biden, and in several photos with her husband, Douglas Emhoff, including at a Pride parade and in formal wear.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Kamala Harris is the sole subject of every photograph in the montage."
+    },
+    {
+      "name": "Douglas Emhoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in several photographs alongside Kamala Harris."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in one photograph walking with Kamala Harris."
+    },
+    {
+      "name": "Roy Blunt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID in the scene where Kamala Harris is shaking hands with someone."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Love first",
+      "role": "other"
+    },
+    {
+      "text": "LOVE IS LOVE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A female narrator lists Taylor Swift's album titles in chronological order, each followed by a short musical clip from a song on that album. The albums named are: \"Taylor Swift,\" \"Fearless,\" \"Speak Now,\" \"Red,\" \"1989,\" \"Reputation,\" \"Lover,\" \"Folklore,\" \"Evermore,\" and \"Midnights.\"",
+  "emojis_present": [],
+  "audio_music": "The audio is a montage of Taylor Swift song snippets, structured chronologically by album. A female voice announces an album title, and then a corresponding pop music clip plays. This repeats for ten different albums. The overall effect is upbeat, positive, and celebratory, using culturally popular music to frame the visuals.",
+  "editing_pacing": "The video is a fast-paced slideshow of still images, with each photo changing in time with the spoken album titles and shifts in the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Inspiration",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "Taylor Swift",
+    "TikTok \"Eras\" Trend"
+  ],
+  "central_claim": "Kamala Harris's career and public life can be viewed through the framework of Taylor Swift's musical eras, portraying her as a dynamic and culturally relevant figure.",
+  "intended_effect": "To generate positive sentiment for Kamala Harris by associating her with a widely popular cultural figure (Taylor Swift) and a popular social media trend, making her seem relatable and modern.",
+  "uncertainty_flags": [
+    "The authoritative music ID identifies only one song ('Lover' by Taylor Swift), but the audio is clearly a montage of many different Taylor Swift songs corresponding to the ten albums named by the narrator."
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "video_id": "7559323527371853070",
+  "visual_action": "A rapid montage of images related to a government shutdown, including scenes from the House or Senate floor, Democratic politicians Chuck Schumer and Hakeem Jeffries (with a photoshopped sombrero on Jeffries), protestors holding a \"DEFEND FEDERAL WORKERS\" sign, and a gavel. The video ends with black and white images of the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text repeatedly says \"Democrat Shutdown\"."
+    },
+    {
+      "name": "Charles Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips, including standing next to the manipulated image of Hakeem Jeffries and in a group photo of Democratic leaders."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown standing next to Chuck Schumer with a digitally superimposed sombrero on his head."
+    },
+    {
+      "name": "Debbie Stabenow",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a group photo of Democratic politicians."
+    },
+    {
+      "name": "Richard Durbin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a group photo of Democratic politicians."
+    },
+    {
+      "name": "Joe Manchin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a group photo of Democratic politicians."
+    },
+    {
+      "name": "Maxine Waters",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a group photo of Democratic politicians."
+    },
+    {
+      "name": "Federal Workers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A protest sign shown in the video reads \"DEFEND FEDERAL WORKERS\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rare aesthetic: Democrat Shutdown",
+      "role": "overlay"
+    },
+    {
+      "text": "DEFEND FEDERAL WORKERS",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio is a fast-paced Somali funk song, \"Gorof\" by Dur Dur Band, with female vocals. The provided transcript is inaccurate.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "An upbeat, high-energy Somali funk song plays throughout the main montage, creating a jaunty and mocking tone. The video becomes silent for the final black-and-white sequence showing the White House.",
+  "editing_pacing": "A fast-paced montage of still images and short clips, cut quickly to the rhythm of the music.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A colorful sombrero is digitally superimposed onto Rep. Hakeem Jeffries' head to mock him and link Democrats to pro-immigration policies, in line with the caption's claim about 'illegal aliens'.",
+  "emotions_signaled": [
+    "mockery",
+    "anger",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The video uses the 'Rare aesthetic' meme format popular on TikTok.",
+    "The background music is 'Gorof' by the Somali group Dur Dur Band, a song from the 1980s."
+  ],
+  "central_claim": "Democrats are responsible for a government shutdown, which they are causing to benefit undocumented immigrants at the expense of federal workers and the country.",
+  "intended_effect": "To generate ridicule of and anger toward the Democratic Party and its leaders over a government shutdown.",
+  "uncertainty_flags": [
+    "The identity of all individuals in the group photo of Democratic politicians could not be confirmed, beyond those provided by face-ID."
+  ]
+}

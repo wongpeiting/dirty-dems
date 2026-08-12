@@ -1,0 +1,84 @@
+{
+  "video_id": "7515158501535026475",
+  "visual_action": "A man, identified in the audio as Senator Alex Padilla, is forcibly removed from a crowded room by several other men, some in plain clothes and some in law enforcement uniforms. The confrontation is chaotic, with people being pushed. The man is escorted into a hallway where he is tackled to the ground by three officers, one of whom has 'FBI' on his vest. The officers then pin him to the floor and handcuff him. The camera is shaky and appears to be handheld amidst the scuffle.",
+  "cast": [
+    {
+      "name": "Alex Padilla",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A man being arrested says, \"I'm Senator Alex Padilla.\""
+    },
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states the senator was tackled \"for asking Kristi Noem questions.\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text claims the people tackling the senator are \"Trump's agents.\""
+    },
+    {
+      "name": "Federal Bureau of Investigation (FBI)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "One of the officers restraining the man has 'FBI' written in large yellow letters on the back of his tactical vest."
+    },
+    {
+      "name": "unnamed security/police officers",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several men in uniforms and plain clothes are seen physically restraining and arresting Senator Padilla."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's agents TACKLE Senator for asking Kristi Noem questions 😱",
+      "role": "overlay"
+    },
+    {
+      "text": "CUONG CHANH PHAN",
+      "role": "other"
+    },
+    {
+      "text": "FBI",
+      "role": "other"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio is chaotic, filled with shouting and sounds of a scuffle. A man identifies himself, saying, \"I'm Senator Alex Padilla. I have questions for the secretary.\" As he's being arrested, officers give commands like \"On the ground,\" and \"Hands behind your back.\" Towards the end, there is a discussion about whether recording is permitted in the area.",
+  "emojis_present": [
+    "😱"
+  ],
+  "audio_music": "The audio consists entirely of diegetic sound from the event: shouting, dialogue, and scuffling noises. There is no music or soundtrack. The overall effect is tense and chaotic.",
+  "editing_pacing": "The video is a single, continuous, shaky handheld shot with no visible edits, creating a raw, in-the-moment feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "shock",
+    "injustice"
+  ],
+  "cultural_references": [],
+  "central_claim": "Agents, identified by the post as belonging to Trump, violently arrested Senator Alex Padilla for attempting to ask questions of Kristi Noem.",
+  "intended_effect": "To generate outrage at the physical mistreatment of a senator and to portray political opponents as authoritarian and violent.",
+  "uncertainty_flags": [
+    "The claim that the arresting officers are 'Trump's agents' is made by the on-screen text but is not independently verified by the visuals or audio in the clip.",
+    "The full context of the event leading up to the confrontation is not shown."
+  ]
+}

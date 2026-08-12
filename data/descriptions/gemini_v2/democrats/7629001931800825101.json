@@ -1,0 +1,61 @@
+{
+  "video_id": "7629001931800825101",
+  "visual_action": "A video pans across a large, mostly empty arena. The upper seating sections are almost entirely vacant. The pan continues to show a stage area with purple and blue lighting, a large screen with an American flag, and a crowd of people gathered on the floor level in front of the stage. A camera operator is visible in the foreground.",
+  "cast": [
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads \"no one showed up to see jd vance talk 😭😭😭\"."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the account @democrats, as noted in the context."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "no one showed up to see jd vance talk 😭😭😭",
+      "role": "overlay"
+    },
+    {
+      "text": "AKINS FORD ARENA",
+      "role": "other"
+    },
+    {
+      "text": "SERYPRO",
+      "role": "other"
+    },
+    {
+      "text": "101",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The only sound is that of crickets chirping.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The sound of crickets chirping plays throughout the video. This is a common sound effect used to mockingly imply silence, emptiness, or a lack of audience enthusiasm.",
+  "editing_pacing": "The video consists of a single, slow pan shot across the arena.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The use of a crickets sound effect is a common meme or trope to signify silence, awkwardness, or a lack of audience response."
+  ],
+  "central_claim": "J.D. Vance's event was very poorly attended, indicating his unpopularity.",
+  "intended_effect": "To mock J.D. Vance and convince the viewer that he lacks popular support.",
+  "uncertainty_flags": [
+    "The provided music fingerprint (Los Cubanos — El Chacal) is inconsistent with the audible sound of crickets chirping.",
+    "The video does not provide context for when it was filmed (e.g., before the event started, during a break, etc.), making it impossible to verify the claim that 'no one showed up' during the main part of the speech."
+  ]
+}

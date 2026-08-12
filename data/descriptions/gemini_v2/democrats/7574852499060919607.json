@@ -1,0 +1,70 @@
+{
+  "video_id": "7574852499060919607",
+  "visual_action": "A static screenshot shows two social media posts on a white background. The top post, from an account named 'FactPost', claims that Donald Trump is calling for violence against Democratic members of Congress and quotes him. Below it is a post from an account named 'Donald J. Trump' that reads in all caps: \"SEDITIOUS BEHAVIOR, punishable by DEATH!\". The video slowly zooms in on the screenshot.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name, handle (@realDonaldTrump), and profile picture are shown on a social media post attributed to him. He is also named in the 'FactPost' text."
+    },
+    {
+      "name": "Democratic members of Congress",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The 'FactPost' tweet explicitly states that Trump's call is directed against \"Democratic members of Congress\"."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle (@factpostnews) of the account are visible in the top social media post."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump calls for violence against Democratic members of Congress:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"SEDITIOUS BEHAVIOR, punishable by DEATH!\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "SEDITIOUS BEHAVIOR, punishable by DEATH!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only background music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, low, ominous, and tense synthesizer drone plays throughout the video, creating a sense of dread and seriousness.",
+  "editing_pacing": "Static image slideshow. The video consists of a single screenshot with a very slow zoom-in effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Alarm",
+    "Fear",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump has called for Democratic members of Congress to be executed for what he deems 'seditious behavior'.",
+  "intended_effect": "To portray Donald Trump as a dangerous and violent authoritarian who threatens his political opponents with death.",
+  "uncertainty_flags": [
+    "It is unclear if the 'FactPost' account is a real news organization.",
+    "The original context of Donald Trump's post is not provided, so the 'FactPost' framing may be misleading."
+  ]
+}

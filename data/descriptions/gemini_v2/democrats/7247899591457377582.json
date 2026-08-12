@@ -1,0 +1,48 @@
+{
+  "video_id": "7247899591457377582",
+  "visual_action": "The video starts with a clip of Donald Trump dancing at a political rally. It then cuts to a still image of Trump looking concerned while at a podium, with a screenshot of a tweet from 'The Democrats' overlaid on the image.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown dancing in the first clip and in a still photo in the second. The on-screen text is about his record as president."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A tweet from the social media account 'The Democrats' @TheDemocrats is shown on screen, making a claim about Trump's jobs record."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump said he would be a jobs president but...",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats @TheDemocrats\n\nTrump is the only president since the Great Depression to leave office with fewer jobs than when he took office.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video; it is accompanied only by instrumental music.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the instrumental track 'Tomfoolery' by David Snell, a piece of music commonly used in cartoons and memes to create a silly, mocking, or foolish tone.",
+  "editing_pacing": "The video consists of a single cut, transitioning from a video clip to a static image with a text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The background music is 'Tomfoolery', a well-known track often associated with the cartoon SpongeBob SquarePants and used widely in internet memes to signify foolishness."
+  ],
+  "central_claim": "Donald Trump failed on his promise to be a 'jobs president,' leaving office with fewer jobs than when he started, the worst record since the Great Depression.",
+  "intended_effect": "To ridicule Donald Trump and portray his presidency as a failure in terms of job creation.",
+  "uncertainty_flags": []
+}

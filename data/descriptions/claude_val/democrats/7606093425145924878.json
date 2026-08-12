@@ -1,0 +1,68 @@
+{
+  "video_id": "7606093425145924878",
+  "visual_action": "A single blurred photo of a man in a dark navy suit with a burgundy/maroon tie and white shirt is held as a static background throughout the entire clip. The figure's face is intentionally blurred/out-of-focus, but the distinctive silhouette — white-blond hair, orange skin tone, dark suit — is consistent across all eight frames. Text overlays appear sequentially, word-by-word, building phrases over the blurred figure. The background is dark blue. No cuts; the same image is held the entire time while text animates on screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Blurred figure with distinctive white-blond hair, orange skin tone, and navy suit/burgundy tie strongly implies Trump; the @democrats account and mocking 'I am not cute/beautiful/intelligent/perfect' text directed at the figure confirms he is the subject."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I",
+      "role": "overlay"
+    },
+    {
+      "text": "I AM NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "I AM NOT\ncUTE",
+      "role": "overlay"
+    },
+    {
+      "text": "AM",
+      "role": "overlay"
+    },
+    {
+      "text": "I AM NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "I AM NOT\nBEAUTIFUL",
+      "role": "overlay"
+    },
+    {
+      "text": "NOT BEA UTIFUL\nINTELIIGENT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio (original sound, recorded by the account) delivers a spoken declaration in first person: \"I am not cute. I am not beautiful. I am not intelligent. I am not perfect.\" Each phrase is spoken plainly, with no music bed initially, while the on-screen text animates to match the words.",
+  "emojis_present": [
+    "😞"
+  ],
+  "audio_music": "The ACRCloud fingerprint identifies \"Carol of the Bells\" by Lindsey Stirling playing in the background — a dramatic, cinematic orchestral/violin rendition of the classic holiday piece. The piece lends a solemn, ominous, and weighty tone beneath the spoken narration. The music likely plays throughout or begins shortly after the opening frame.",
+  "editing_pacing": "Extremely slow and static — a single blurred still image holds the entire duration. Text overlays animate word-by-word in a deliberate, slow reveal cadence, synchronized with the spoken audio. No cuts, no camera movement, no B-roll.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "solemnity — driven by the slow text reveal and 'Carol of the Bells' score",
+    "mockery — first-person negations ('I am not cute/beautiful/intelligent/perfect') placed over a blurred figure implied to be Trump",
+    "contempt — the @democrats account attributing unflattering self-descriptions to the implied subject"
+  ],
+  "cultural_references": [
+    "Carol of the Bells — Lindsey Stirling version used as dramatic/ominous underscore, a recognizable holiday classical piece repurposed for political mockery tone"
+  ],
+  "central_claim": "The post implies, through first-person text overlaid on a blurred figure resembling Donald Trump, that Trump is not cute, beautiful, intelligent, or perfect — framing these as self-evident truths about him.",
+  "intended_effect": "To produce derision or amusement in the viewer by attributing unflattering self-descriptions to the implied figure (Trump), using irony and a dramatic musical backdrop.",
+  "uncertainty_flags": [
+    "The face is deliberately blurred so face-ID is impossible from the image alone; identification as Trump is based on hair color, skin tone, suit style, and the @democrats account context — not confirmed by facial recognition.",
+    "It is unclear whether the spoken audio is a voiceover, AI-generated voice, or a clip of someone else speaking; 'original sound' label only confirms it is the account's own upload.",
+    "The OCR capture ('NOT BEA UTIFUL INTELIIGENT') appears to be a garbled/split rendering of 'NOT BEAUTIFUL' and 'INTELLIGENT' — confirmed by the Whisper transcript; full text sequence across frames is 'I am not cute. I am not beautiful. I am not intelligent. I am not perfect.'",
+    "It is unclear whether additional text frames (e.g. 'I am not perfect') appear later in the video beyond the 8 keyframes provided."
+  ]
+}

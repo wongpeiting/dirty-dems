@@ -1,0 +1,65 @@
+{
+  "video_id": "7530299885552176439",
+  "visual_action": "A static, meme-style video split into two panels, both showing Donald Trump speaking at a podium with American flags in the background. Text is superimposed over both panels, as well as at the very top of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown speaking in the video clips."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Trump is now admitting his Epstein deflection tactics 😅'."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text attributes a quote to Trump: \"just say, 'Obama cheated on the election.'\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump is now admitting his Epstein deflection tactics 😅",
+      "role": "overlay"
+    },
+    {
+      "text": "Every time they give you a question that is not appropriate,",
+      "role": "caption"
+    },
+    {
+      "text": "just say, 'Obama cheated on the election.'",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A male voice provides commentary over the video, saying, \"He's lost, man. He don't know what the f*ck to do.\"",
+  "emojis_present": [
+    "😅",
+    "😭"
+  ],
+  "audio_music": "A derogatory commentary track with a male voice plays over the entire clip. The fingerprinted music is identified as 'He Lost' by TrueToneFret. The effect is mocking.",
+  "editing_pacing": "Static meme-style presentation using two still or near-still clips of Trump arranged in panels with text overlays.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video superimposes text onto clips of Donald Trump speaking, falsely attributing a quote to him. The quote, 'Every time they give you a question that is not appropriate, just say, ‘Obama cheated on the election,’' is presented as something he said, but the actual audio is a commentary track, not Trump's voice. This fabricates a confession from Trump about his 'deflection tactics'.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump has confessed to using a fabricated claim about Barack Obama cheating in an election as a tactic to deflect from questions about his relationship with Jeffrey Epstein.",
+  "intended_effect": "To portray Donald Trump as a foolish and transparently manipulative person and to mock him for his supposed strategies for avoiding difficult questions.",
+  "uncertainty_flags": []
+}

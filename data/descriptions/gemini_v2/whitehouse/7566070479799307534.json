@@ -1,0 +1,53 @@
+{
+  "video_id": "7566070479799307534",
+  "visual_action": "Donald Trump, in a dark suit and red tie, walks through an ornate golden doorway into a grand hall with a black and white checkered floor and a long magenta carpet. He walks along the carpet and is greeted by a woman in a light-colored suit, identified by on-screen text as the Prime Minister of Japan. They shake hands and pose for several seconds. In the background, American and Japanese flags are visible. The video concludes with a black and white outro card showing a helicopter and then the White House exterior, with the text 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text identifies him as 'President Trump'."
+    },
+    {
+      "name": "Prime Minister of Japan",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "On-screen text states Trump was 'Greeted By Prime Minister of Japan'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump arrives at Akasaka Palace and Greeted By Prime Minister of Japan",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio consists primarily of the background music. Faint, indistinct speech and the sound of camera shutters can be heard in the background, but no clear dialogue is discernible. The provided transcript is inaccurate.",
+  "emojis_present": [
+    "🇺🇸",
+    "🇯🇵"
+  ],
+  "audio_music": "A continuous, stately classical music track plays throughout the video, lending a formal and important tone to the diplomatic event.",
+  "editing_pacing": "The video consists of a single, slow-paced continuous shot, documenting the event as it unfolds.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Formality",
+    "Respect"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is conducting important diplomatic work and is formally respected on the world stage, as shown by his official greeting by the Prime Minister of Japan.",
+  "intended_effect": "To foster a sense of pride and confidence in Trump's international leadership.",
+  "uncertainty_flags": [
+    "The specific name of the Prime Minister of Japan is not provided in the video.",
+    "The background speech is unintelligible."
+  ]
+}

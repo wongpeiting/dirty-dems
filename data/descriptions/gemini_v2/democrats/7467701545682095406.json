@@ -1,0 +1,83 @@
+{
+  "video_id": "7467701545682095406",
+  "visual_action": "Rep. Maxwell Frost speaks at a podium at an outdoor rally, surrounded by a crowd of people. A news-style chyron is visible at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Maxwell Frost",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker in the video and is identified by the on-screen text \"Rep. Frost on Musk:\" and the post caption \"@Maxwell Frost\"."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named directly in the speech: \"we need to provide oversight to Elon Musk and his team.\" He is also referenced in the on-screen text \"Rep. Frost on Musk\"."
+    },
+    {
+      "name": "Nydia Velázquez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by facial recognition as present in the crowd behind the speaker."
+    },
+    {
+      "name": "Jasmine Crockett",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by facial recognition as present in the crowd behind the speaker."
+    },
+    {
+      "name": "U.S. Treasury",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A chyron reads \"ANTI DOGE RALLY OUTSIDE U.S. TREASURY\" and the speaker says, \"We just tried to enter the Treasury building\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep. Frost on Musk:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"The fact that an unelected billionaire has your private information is a problem\"",
+      "role": "overlay"
+    },
+    {
+      "text": "ANTI DOGE RALLY OUTSIDE U.S. TREASURY",
+      "role": "chyron"
+    },
+    {
+      "text": "WE'RE HERE TODAY BECAUSE AN UNELECTED BILLIONAIRE AND HIS TEAM HAVE BEEN GIVEN FULL AND UNFETTERED ACCESS TO OUR TAXPAYER MONEY AND OUR GOVERNMENT. WE JUST TRIED TO ENTER THE TREASURY BUILDING AS MEMBERS OF CONGRESS. AND WE WILL, BECAUSE WE NEED TO PROVIDE OVERSIGHT TO ELON MUSK AND HIS TEAM. WE DON'T KNOW WHAT THEY'RE DOING BEHIND THESE CLOSED DOORS. THE PEOPLE DESERVE TRANSPARENCY. THE FACT THAT AN UNELECTED BILLIONAIRE HAS ALL YOUR PRIVATE INFORMATION IS A PROBLEM.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Rep. Maxwell Frost speaks at a rally, stating that an \"unelected billionaire,\" Elon Musk, and his team have been given \"full and unfettered access\" to taxpayer money and the government. Frost says that he and other members of Congress will enter the Treasury building to provide oversight because they don't know what Musk's team is doing \"behind these closed doors.\" He concludes that the people deserve transparency and that it's a problem for an unelected billionaire to have access to citizens' private information.",
+  "emojis_present": [
+    "👏"
+  ],
+  "audio_music": "The audio consists entirely of a man's speech at a rally, with background crowd noise, including some booing and shouting. There is no music.",
+  "editing_pacing": "The video is a single, static shot of a person speaking at a podium with no edits or cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "concern",
+    "distrust"
+  ],
+  "cultural_references": [
+    "Dogecoin"
+  ],
+  "central_claim": "Elon Musk, an unelected billionaire, has dangerous and unchecked access to government functions and private information, which requires immediate congressional oversight.",
+  "intended_effect": "To generate concern and outrage over Elon Musk's influence and access to government and private data, and to show Rep. Frost taking action.",
+  "uncertainty_flags": []
+}

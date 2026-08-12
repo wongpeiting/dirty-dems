@@ -1,0 +1,77 @@
+{
+  "video_id": "7595267427894676749",
+  "visual_action": "The video is a screen recording of a tweet from the account 'FactPost'. The tweet displays two images side-by-side: a selfie of a smiling man in large sunglasses, and a blurry photo of Donald Trump giving the middle finger. The video then quickly cuts between full-screen views of these two images.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photograph giving the middle finger and is named in the on-screen text of the tweet: '...on Trump flipping him off after he called Trump a \"pedophile protector\"'."
+    },
+    {
+      "name": "unnamed UAW worker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a selfie and described in the on-screen text as the 'UAW worker at Ford factory'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet shown in the video is from the account 'FactPost' with the handle '@factpostnews'."
+    },
+    {
+      "name": "UAW",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the man as a 'UAW worker'."
+    },
+    {
+      "name": "Ford",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text specifies the location as a 'Ford factory'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "UAW worker at Ford factory on Trump flipping him off after he called Trump a \"pedophile protector\":",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Definitely no regrets whatsoever.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only a rap song playing as background music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, energetic rap track ('If We Being Rëal' by Yeat) plays throughout the video, creating a bold and confrontational atmosphere.",
+  "editing_pacing": "The video starts with a static shot of a tweet, then transitions into a fast-paced slideshow, cutting quickly between full-screen images of the worker and Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Defiance",
+    "Mockery",
+    "Pride"
+  ],
+  "cultural_references": [
+    "Yeat (musician)"
+  ],
+  "central_claim": "A UAW worker has no regrets about flipping off Donald Trump after accusing him of being a \"pedophile protector.\"",
+  "intended_effect": "To highlight and celebrate an act of defiance against Donald Trump by a blue-collar worker, framing Trump negatively.",
+  "uncertainty_flags": []
+}

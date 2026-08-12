@@ -1,0 +1,97 @@
+{
+  "video_id": "7143003849668758826",
+  "visual_action": "A static, black-and-white image of Marjorie Taylor Greene and Kevin McCarthy is shown. The video then cuts to a clip of Mitch McConnell speaking at a podium, followed by a montage of clips of Joe Biden smiling, putting on sunglasses, and walking confidently. Text overlays with statistics appear throughout the video.",
+  "cast": [
+    {
+      "name": "Marjorie Taylor Greene",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a black-and-white still image at the beginning of the video."
+    },
+    {
+      "name": "Kevin Mccarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a black-and-white still image at the beginning of the video."
+    },
+    {
+      "name": "Mitch Mcconnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown speaking at a podium in a brief clip."
+    },
+    {
+      "name": "Rick Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown standing behind Mitch McConnell."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Featured in multiple clips smiling and putting on sunglasses. His student loan forgiveness plan is the central topic of the video."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video opens with 'Republicans:' and contrasts their alleged position on student loans with Biden's plan."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His 2017 tax cut is cited in an on-screen text overlay for comparison with Biden's plan: 'Only 15% of the 2017 Trump tax cut helped...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans: “sTuDeNt LoAn FoRgiVeNeSs iSn’T fAiR”",
+      "role": "meme_text"
+    },
+    {
+      "text": "Only 15% of the 2017 Trump tax cut helped people making < $75k/year",
+      "role": "overlay"
+    },
+    {
+      "text": "Nearly 90% of Biden's student loan forgiveness plan will help people making < $75k/year",
+      "role": "overlay"
+    },
+    {
+      "text": "No one in the top 5% will benefit from Biden's student loan forgiveness plan",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; the audio consists only of music.",
+  "emojis_present": [],
+  "audio_music": "The video features a fast-paced, high-energy electronic music track throughout, creating a hype or triumphant mood. According to metadata, the track changes around the 7.5-second mark.",
+  "editing_pacing": "The video uses fast cuts in a montage style, moving from a static image to various short clips of politicians.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "triumph",
+    "righteousness"
+  ],
+  "cultural_references": [
+    "The use of alternating capitalization in 'sTuDeNt LoAn FoRgiVeNeSs iSn’T fAiR' is a reference to the 'Mocking SpongeBob' internet meme format, used to convey a sarcastic or mocking tone."
+  ],
+  "central_claim": "Republicans are hypocritical for calling student loan forgiveness unfair, as their 2017 tax cut disproportionately benefited the wealthy while President Biden's plan primarily helps lower and middle-income individuals.",
+  "intended_effect": "To portray Republicans as hypocrites who favor the rich and to generate support for President Biden's student loan forgiveness plan by framing it as fair and beneficial for ordinary people.",
+  "uncertainty_flags": []
+}

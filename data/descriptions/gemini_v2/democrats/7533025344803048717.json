@@ -1,0 +1,81 @@
+{
+  "video_id": "7533025344803048717",
+  "visual_action": "Republican Senator Rick Scott is shown speaking at a Senate committee hearing. He is seated at a dais, wearing a suit and tie, and speaks directly into a microphone, gesturing with his hands. The camera is focused on him in a medium shot. Text overlays appear at the top and bottom of the screen, and large, white, capitalized text appears sequentially, synchronized with his speech.",
+  "cast": [
+    {
+      "name": "Rick Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is visually identified by face recognition and is the sole speaker in the video. The on-screen text also identifies him as a 'Republican Senator'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen overlay text describes the speaker as a 'Republican Senator'."
+    },
+    {
+      "name": "Senate Homeland Security Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A chyron at the bottom of the screen reads, 'SENATE HOMELAND SECURITY COMMITTEE HOLDS A BUSINESS MEETING ON PENDING LEGISLATION'."
+    },
+    {
+      "name": "Forbes",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Forbes logo and the words 'BREAKING NEWS' appear in the chyron at the bottom right of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republican Senator crashes out over banning congressional stock trading: “Anybody want to be poor? I don’t”",
+      "role": "overlay"
+    },
+    {
+      "text": "SENATE HOMELAND SECURITY COMMITTEE HOLDS A BUSINESS MEETING ON PENDING LEGISLATION",
+      "role": "chyron"
+    },
+    {
+      "text": "JULY 30, 2025",
+      "role": "chyron"
+    },
+    {
+      "text": "Forbes BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "BUT SOMEHOW IT'S I MADE MONEY. I DON'T KNOW HOW HOW MANY OF YOU MAKE MONEY? ANYBODY WANT TO BE POOR? I DON'T. SO THIS IDEA THAT WE'RE GOING TO ATTACK PEOPLE BECAUSE THEY MAKE MONEY IS WRONG. IS ABSOLUTELY WRONG. WE SHOULD CHERISH ALL OF OUR DIFFERENT BACKGROUNDS. EVERY ONE OF US HAS A DIFFERENT BACKGROUND, I'VE GOT A BUSINESS BACKGROUND, BUT WHAT I WAS JUST ACCUSED OF IS MAKING MONEY. AND SOMEHOW I CAN'T BE FAIR AND DO THINGS THE RIGHT WAY. SO I THINK IT'S DISGUSTING WHAT THIS WHAT IS GOING ON HERE.",
+      "role": "overlay"
+    },
+    {
+      "text": "wow 😳",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Senator Rick Scott defends having made money, stating that it's 'suspect' only because he was successful. He asks rhetorically, 'Anybody want to be poor? I don't.' He argues that attacking people for making money is 'absolutely wrong' and that his business background shouldn't imply he can't be fair. He concludes by calling the situation 'disgusting'.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists entirely of Rick Scott's spoken dialogue during the hearing. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static talking-head shot of Rick Scott speaking. The pacing is determined by his speech, with text overlays added for emphasis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disbelief",
+    "indignation"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republican Senator Rick Scott is portrayed as out-of-touch and angrily defensive of his wealth during a discussion about banning congressional stock trading.",
+  "intended_effect": "To make the viewer perceive Rick Scott, and by extension Republicans, as prioritizing personal wealth over ethical governance.",
+  "uncertainty_flags": []
+}

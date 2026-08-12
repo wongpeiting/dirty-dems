@@ -1,0 +1,45 @@
+{
+  "video_id": "7639076242423074061",
+  "visual_action": "Donald Trump, wearing a dark suit, walks up a mobile staircase to board a large, light-blue aircraft. At the top of the stairs, he turns, waves to an unseen audience, and then enters the plane. The presidential seal is visible on a podium-like structure at the top of the stairs. The video is shot from a low angle on a bright, sunny day.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole person visible in the video, shown boarding an airplane. He is also identified by the on-screen text: 'President Donald Trump'."
+    },
+    {
+      "name": "China",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states that Trump 'departs to China!'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Donald Trump departs to China! 🇺🇸🇨🇳",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio contains what sounds like a music producer tag, \"MC, make another hand.\", as part of the background music track. There is no other dialogue.",
+  "emojis_present": [
+    "🇺🇸",
+    "🇨🇳"
+  ],
+  "audio_music": "An instrumental music track, identified as 'What You Saying' by YOUNGSTAN, plays throughout the video. It has a slightly grand and momentous feel.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "importance"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Donald Trump is departing for a trip to China.",
+  "intended_effect": "To inform viewers of a significant presidential trip and frame it as a historic and important event.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,82 @@
+{
+  "video_id": "7586390426559532343",
+  "visual_action": "Musician Nicki Minaj is shown on a stage, sitting in a white chair and speaking into a microphone. An unidentified female interviewer sits opposite her. The stage backdrop is lit in red, white, and blue. The video includes various shots of Minaj speaking, wide shots of the stage, and cuts to the audience, who are shown smiling and applauding.",
+  "cast": [
+    {
+      "name": "Nicki Minaj",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, is shown throughout, and is named in the on-screen text and caption."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, \"Nicki Minaj speaks on the Trump Admin,\" and she refers to him as \"our president.\""
+    },
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly says \"Trump Admin,\" and Minaj's speech is entirely in praise of \"this administration.\""
+    },
+    {
+      "name": "the Vice President",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Nicki Minaj specifically praises \"our vice president\" as part of the administration."
+    },
+    {
+      "name": "TPUSA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen text indicates the event is \"at TPUSA.\""
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is shown sitting opposite Nicki Minaj on stage, but she is not identified and does not speak."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Nicki Minaj speaks on the Trump Admin at TPUSA: “Make us feel proud to be American”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Nicki Minaj expresses her \"utmost respect and admiration\" for \"our president.\" She states that he and his administration give people hope to \"beat the bad guys\" and make people \"proud to be American.\" She praises the administration for being \"full of people with heart and soul\" and specifically mentions the Vice President. She describes both the President and Vice President as powerful, smart, and relatable men who are \"one of us\" and have not lost touch with the world.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists entirely of Nicki Minaj's live speech and the enthusiastic applause and cheers from the audience. There is no background music.",
+  "editing_pacing": "The video uses simple cuts between different camera angles of the speaker, the stage, and the audience, consistent with standard event videography.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "admiration",
+    "respect",
+    "hope"
+  ],
+  "cultural_references": [
+    "Nicki Minaj"
+  ],
+  "central_claim": "The Trump administration and its leaders are admirable, relatable, and give Americans a reason to feel proud and hopeful.",
+  "intended_effect": "To leverage Nicki Minaj's celebrity endorsement to persuade viewers, especially her fans, to support and feel pride in the Trump administration.",
+  "uncertainty_flags": [
+    "The specific identity of the Vice President mentioned is not provided in the video."
+  ]
+}

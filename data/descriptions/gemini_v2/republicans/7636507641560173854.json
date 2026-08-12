@@ -1,0 +1,108 @@
+{
+  "video_id": "7636507641560173854",
+  "visual_action": "The video is a screen recording of a social media post. The post juxtaposes a tweet from the New York Post with a montage of news footage showing severe homelessness in Los Angeles, followed by a reply tweet from the Republican party. The news footage includes shots of trash-filled areas, a person emerging from a storm drain, makeshift shelters on sidewalks, and interviews with residents. A news chyron from KTLA 5 is visible during the footage.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet from the New York Post shown on screen states: 'Kamala Harris endorses Karen Bass for LA Mayor claiming she's stamped out crime and homelessness'."
+    },
+    {
+      "name": "Karen Bass",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet from the New York Post shown on screen states: 'Kamala Harris endorses Karen Bass for LA Mayor claiming she's stamped out crime and homelessness'."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The account that created the post is identified by its handle '@Republicans' in a tweet shown on screen."
+    },
+    {
+      "name": "New York Post",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The New York Post's X.com account (@nypost) is shown as the author of the initial tweet."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A female reporter's voice narrates the news segment about homelessness in Los Angeles."
+    },
+    {
+      "name": "unnamed LA resident",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male resident is interviewed and speaks about the need to barricade the area or house the homeless individuals."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "New York Post @nypost",
+      "role": "overlay"
+    },
+    {
+      "text": "X.com",
+      "role": "overlay"
+    },
+    {
+      "text": "Kamala Harris endorses Karen Bass for LA Mayor claiming she's stamped out crime and homelessness trib.al/pBrjgWh",
+      "role": "overlay"
+    },
+    {
+      "text": "HOMELESS LIVING IN SOUTH L.A. STORM DRAINS",
+      "role": "chyron"
+    },
+    {
+      "text": "AT THIS HOUR",
+      "role": "chyron"
+    },
+    {
+      "text": "Republicans @Republicans",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Stamped out crime and homelessness\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Has she been to LA recently?",
+      "role": "overlay"
+    },
+    {
+      "text": "NO DUMPING",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio is from a local news report about the homelessness crisis in Los Angeles. A reporter discusses \"growing concern\" as people are found living in storm drains. The report features a distressed woman who wants safer housing and says the city has never offered her options. It also quotes neighbors who complain that encampments are a hazard, leading to trash, vandalism, drug use, and theft of wiring. An interviewed resident demands the city either house the homeless individuals or move them elsewhere, stating, \"it's very bad.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of spoken narration and interviews from a television news report. There is a faint, serious-sounding instrumental underscore typical of a news package playing beneath the dialogue.",
+  "editing_pacing": "The video is a static screen recording of social media posts. The embedded news clip uses standard broadcast news editing, with cuts between B-roll footage of homeless encampments and interviews.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "skepticism",
+    "alarm",
+    "frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris and LA Mayor Karen Bass are lying about successfully stamping out crime and homelessness in Los Angeles, as proven by news footage of the city's severe and ongoing crisis.",
+  "intended_effect": "To convince the viewer that Democratic leaders like Harris and Bass are incompetent, dishonest, and out of touch with the reality of the problems their policies have failed to solve.",
+  "uncertainty_flags": []
+}

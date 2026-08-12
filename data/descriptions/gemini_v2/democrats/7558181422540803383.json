@@ -1,0 +1,89 @@
+{
+  "video_id": "7558181422540803383",
+  "visual_action": "The video displays a side-by-side comparison of two screenshots of Anthem health insurance plans. The left, labeled \"2025\", shows a monthly premium of $307.20. The right, labeled \"2026\", shows a monthly premium of $964.30. A red arrow points from the 2025 price to the 2026 price. Below this is a text overlay expressing shock at the prices. The video then cuts to a clip of Donald Trump wearing a red \"MAKE AMERICA GREAT AGAIN\" hat and talking with two other people.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A video clip shows Donald Trump wearing a MAGA hat. The juxtaposition with the preceding graphic about rising healthcare costs implies he is the subject of the post's claim."
+    },
+    {
+      "name": "Anthem",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The health insurance plan screenshots prominently feature the name and logo of the company Anthem."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account on TikTok."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "2025",
+      "role": "overlay"
+    },
+    {
+      "text": "2026",
+      "role": "overlay"
+    },
+    {
+      "text": "Anthem\nAnthem Bronze Blue Value X 5000\n($0 Virtual Visits + $0 Select Drugs)\nBRONZE HMO",
+      "role": "overlay"
+    },
+    {
+      "text": "Anthem\nAnthem Bronze Blue Value HMO\n5000 $30 $0 Virtual PCP $0 Select Drugs\nBRONZE HSA HMO",
+      "role": "overlay"
+    },
+    {
+      "text": "$307.20 /month",
+      "role": "overlay"
+    },
+    {
+      "text": "$964.30 /month",
+      "role": "overlay"
+    },
+    {
+      "text": "these health care prices high asf 😭",
+      "role": "caption"
+    },
+    {
+      "text": "hello",
+      "role": "caption"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video's audio consists solely of a rap song with lyrics. There is no spoken dialogue.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "A confrontational rap track, identified as 'Dirty Diana' by Kild, plays consistently throughout the video, setting a tense and aggressive tone.",
+  "editing_pacing": "The video consists of a single static image showing a side-by-side comparison, which then makes a hard cut to a video clip of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anxiety",
+    "Fear",
+    "Outrage"
+  ],
+  "cultural_references": [
+    "The song 'Dirty Diana' by Kild is used."
+  ],
+  "central_claim": "A Donald Trump presidency would lead to a dramatic increase in health insurance costs, as illustrated by a projected tripling of premiums from 2025 to 2026.",
+  "intended_effect": "To instill fear and anger about the potential financial impact of a Trump presidency on healthcare costs, thereby discouraging support for him.",
+  "uncertainty_flags": [
+    "The authenticity of the Anthem health insurance plan screenshots is not verifiable; it is unclear if they represent actual, projected, or purely hypothetical costs."
+  ]
+}

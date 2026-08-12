@@ -1,0 +1,111 @@
+{
+  "video_id": "7657643861669465358",
+  "visual_action": "A static photo of a man and a young girl smiling with a large, furry costumed character is shown. Multiple blocks of text are overlaid on the image, appearing and disappearing sequentially to tell a story.",
+  "cast": [
+    {
+      "name": "David Streever",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the man shown in the background photograph and is named in the on-screen text: \"@NPR David Streever was on vacation...\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text mentions \"Trump's agents\" and \"criticizing Trump’s immigration crackdown\"."
+    },
+    {
+      "name": "ICE (U.S. Immigration and Customs Enforcement)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, \"This man sent an email to ICE...\" and mentions \"the ICEs former acting director\"."
+    },
+    {
+      "name": "DHS (Department of Homeland Security)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text mentions \"two DHS officers\" and \"another DHS agent\"."
+    },
+    {
+      "name": "Alex Pretti",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in on-screen text as one of the people whose death prompted an email: \"...after the deaths of Alex Pretti and Renee Good.\""
+    },
+    {
+      "name": "Renee Good",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in on-screen text as one of the people whose death prompted an email: \"...after the deaths of Alex Pretti and Renee Good.\""
+    },
+    {
+      "name": "Todd Lyons",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the on-screen text as \"Todd Lyons; the ICEs former acting director\"."
+    },
+    {
+      "name": "NPR",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Credited as the source of the story in the on-screen text: \"@NPR\" and \"Streever told NPR\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This man sent an email to ICE after the deaths of Alex Pretti and Renee Good.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's agents tracked him down.",
+      "role": "overlay"
+    },
+    {
+      "text": "@NPR David Streever was on vacation with his daughter when his doorbell camera back home recorded two DHS officers standing on his front porch:",
+      "role": "overlay"
+    },
+    {
+      "text": "Why? Because a few months prior, after the murder of U.S. citizens Renee Good and Alex Pretti in Minnesota, Streever had sent an email to Todd Lyons, the ICEs former acting director, criticizing Trumps immigration crackdown:",
+      "role": "overlay"
+    },
+    {
+      "text": "Later, after Streever landed in New York and checked into an airport hotel for the night, another DHS agent tracked him down. The agent even left a business card with the hotels front desk.",
+      "role": "overlay"
+    },
+    {
+      "text": "\"One powerless citizen yelled into the void with a stern email to the former director of this agency six months ago,\" Streever told NPR: \"And now there's agents at his door.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only background music.",
+  "emojis_present": [],
+  "audio_music": "A driving, slightly tense indie rock track plays throughout the video, creating a serious and dramatic tone.",
+  "editing_pacing": "The video uses a static background photograph with text overlays that fade in and out, creating a slideshow-like presentation of a story.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration used federal agents from DHS and ICE to intimidate a private citizen who sent a critical email, constituting an abuse of power.",
+  "intended_effect": "To alarm viewers about what is portrayed as authoritarian behavior and an abuse of government power under Donald Trump.",
+  "uncertainty_flags": []
+}

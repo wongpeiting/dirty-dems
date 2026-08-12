@@ -1,0 +1,118 @@
+{
+  "video_id": "7550483201848921357",
+  "visual_action": "A montage of clips depicting crime in Memphis. It includes dark, stylized shots of a city skyline, a house with circled bullet holes, police cars with crime scene tape, a computer screen showing a crime map with incident reports dated September 2025, a McDonald's restaurant with police presence, military vehicles (Humvees) and National Guard soldiers on the streets. The montage is intercut with clips of Donald Trump speaking on what appears to be a news program. The video ends with a black and white title card sequence showing the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on screen speaking, identified by face-ID. He says 'Memphis is... deeply troubled' and 'We're going to straighten out the crime in these cities.'"
+    },
+    {
+      "name": "National Guard",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Mentioned multiple times in audio ('the National Guard is coming to Memphis') and shown visually as soldiers in uniform and in military vehicles."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is from the @whitehouse account and ends with a title card reading 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "Memphis Police Department",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in a news clip as 'MPD confirmed'."
+    },
+    {
+      "name": "Fox & Friends",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'FOX & FRIENDS' is visible during a clip of Donald Trump speaking."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "INJURED IN WEEKEND SHOOTING",
+      "role": "chyron"
+    },
+    {
+      "text": "Simple Assault ID Number 2509021039ME Offense Date September 2, 2025 13:00:00 Crime Type SIMPLE ASSAULT Block Address 4100 ROSEWIND CIRCLE MEMPHIS TN 38141",
+      "role": "overlay"
+    },
+    {
+      "text": "Dest/Dam/Vand of Property ID Number 2509020834ME Offense Date September 2, 2025 18:00:00 Crime Type DEST/DAM/VAND OF PROPERTY Block Address 4100 ROSEWIND CIR MEMPHIS TN 38141",
+      "role": "overlay"
+    },
+    {
+      "text": "Motor Vehicle Theft ID Number 2509020840ME Offense Date September 2, 2025 21:30:00 Crime Type MOTOR VEHICLE THEFT Block Address 4100 SUNNYSLOPE DR MEMPHIS TN 38141",
+      "role": "overlay"
+    },
+    {
+      "text": "Aggravated Assault ID Number 2509022729ME Offense Date September 7, 2025 21:50:00 Crime Type AGGRAVATED ASSAULT Block Address 4100 ROSEWIND CIR MEMPHIS TN 38115",
+      "role": "overlay"
+    },
+    {
+      "text": "2 CHILDREN, 2 TEENS INJURED",
+      "role": "chyron"
+    },
+    {
+      "text": "HICKORY HILL",
+      "role": "chyron"
+    },
+    {
+      "text": "MCDONALD'S SHOOTING",
+      "role": "chyron"
+    },
+    {
+      "text": "EMERGENCY 911",
+      "role": "other"
+    },
+    {
+      "text": "CRIME CRACKDOWN: \"WE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX & FRIENDS",
+      "role": "overlay"
+    },
+    {
+      "text": "TROOPS COMING TO M",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video is a montage of news reports and resident interviews about escalating crime in Memphis. Reports detail incidents like \"Four children were shot inside a home\" and a shooting at a McDonald's. A news anchor states, \"the president confirming the National Guard is coming to Memphis.\" Residents express fear, saying it's \"so dangerous that you can't get out of your car,\" and support for the intervention: \"if the National Guard is going to stop the crime, bring 'em out.\" Donald Trump is shown commenting, \"Memphis is... deeply troubled,\" and vowing, \"We're going to straighten out the crime in these cities.\"",
+  "emojis_present": [],
+  "audio_music": "A serious, tense, and continuous orchestral score plays throughout the video, creating a dramatic and ominous atmosphere that underscores the severity of the depicted crime wave.",
+  "editing_pacing": "A fast-paced montage using quick cuts between news clips, B-roll of crime scenes and military hardware, and interview clips with residents and Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "fear",
+    "anxiety",
+    "urgency",
+    "reassurance"
+  ],
+  "cultural_references": [
+    "Fox & Friends"
+  ],
+  "central_claim": "Due to a dangerous crime wave that has made residents fearful in Memphis, President Trump is deploying the National Guard to restore safety and order.",
+  "intended_effect": "To persuade viewers that crime in Memphis is severe and out of control, and that the administration's decision to send in the National Guard is a necessary and strong response.",
+  "uncertainty_flags": []
+}

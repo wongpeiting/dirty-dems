@@ -1,0 +1,108 @@
+{
+  "video_id": "7271439132574911787",
+  "visual_action": "The video shows a clip from a Republican presidential debate. The camera pans from left to right, showing various candidates on stage raising their hands in succession. The candidates shown raising their hands are Vivek Ramaswamy, Nikki Haley, Tim Scott, Ron DeSantis, and Mike Pence. The stage is branded with Fox News logos and a large sign in the background reads 'DEMOCRACY 24'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text 'raise your hand if you're a MAGA extremist' frames the video around the MAGA movement, which is led by Donald Trump."
+    },
+    {
+      "name": "Vivek Ramaswamy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on stage at the debate raising his hand."
+    },
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown on stage at the debate raising her hand."
+    },
+    {
+      "name": "Tim Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on stage at the debate raising his hand."
+    },
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on stage at the debate raising his hand."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on stage at the debate raising his hand."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on the debate lecterns and a chyron."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A chyron at the bottom of the screen identifies the event as a 'REPUBLICAN DEBATE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "raise your hand if you're a MAGA extremist 😒✋",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRACY 24",
+      "role": "other"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "other"
+    },
+    {
+      "text": "FOX NEWS REPUBLICAN DEBATE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only a musical track plays.",
+  "emojis_present": [
+    "😒",
+    "✋"
+  ],
+  "audio_music": "A low-quality, distorted, and goofy-sounding instrumental track, identified as a version of 'Funkytown', plays throughout the video, creating a mocking tone.",
+  "editing_pacing": "The video consists of a single, continuous shot that pans from left to right across the debate stage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "derision"
+  ],
+  "cultural_references": [
+    "Funkytown (song by Lipps Inc.)",
+    "Low-quality / distorted music meme format"
+  ],
+  "central_claim": "The leading Republican presidential candidates are self-professed 'MAGA extremists'.",
+  "intended_effect": "To frame the Republican candidates as extremists and mock them by decontextualizing their actions on the debate stage.",
+  "uncertainty_flags": []
+}

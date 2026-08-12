@@ -1,0 +1,88 @@
+{
+  "video_id": "7639074194503781646",
+  "visual_action": "Donald Trump speaks to reporters outdoors on a lawn in front of a helicopter with \"UNITED STATES\" written on its side. The footage is from a Fox News broadcast, indicated by the logo and chyron at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person shown speaking throughout the video, and the on-screen text and audio are about his statement."
+    },
+    {
+      "name": "Xi Jinping",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The Fox News chyron reads: \"TRUMP: WILL HAVE LONG TALK WITH XI ABOUT IRAN WAR\"."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video clip is framed with the Fox News logo and chyron graphics."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: I don't think about Americans' financial situation",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE LIVE | 2:00 PM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: WILL HAVE LONG TALK WITH XI ABOUT IRAN WAR",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "I DON'T THINK",
+      "role": "caption"
+    },
+    {
+      "text": "ABOUT AMERICANS'",
+      "role": "caption"
+    },
+    {
+      "text": "SITUATION,",
+      "role": "caption"
+    },
+    {
+      "text": "I THINK ABOUT",
+      "role": "caption"
+    },
+    {
+      "text": "ONE THING.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "With loud helicopter noise in the background, Donald Trump says, \"I don't think about Americans' financial situation, I don't think about anybody, I think about one thing.\" The clip ends after this sentence.",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of spoken dialogue with loud, ambient noise from a helicopter engine running in the background. There is no music.",
+  "editing_pacing": "The video is a single, unedited shot of a talking head from a news broadcast. Text has been overlaid on the video, but there are no cuts, zooms, or other editing effects applied to the underlying clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump does not care about the financial situation of American citizens.",
+  "intended_effect": "To portray Donald Trump as out of touch and unconcerned with the lives of ordinary Americans.",
+  "uncertainty_flags": [
+    "The video is a short, decontextualized clip; what Trump said immediately before or after this quote, particularly the 'one thing' he thinks about, is not included."
+  ]
+}

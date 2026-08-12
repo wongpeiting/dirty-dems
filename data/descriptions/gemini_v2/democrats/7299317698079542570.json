@@ -1,0 +1,85 @@
+{
+  "video_id": "7299317698079542570",
+  "visual_action": "A fast-cut montage shows several Republican politicians: Donald Trump at a rally, followed by Nikki Haley, Ron DeSantis, and Chris Christie, each in a setting that appears to be a debate or interview. A large red text box is overlaid for the entire duration of the clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears as the first politician in the montage."
+    },
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in the montage of GOP candidates."
+    },
+    {
+      "name": "Ron Desantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in the montage of GOP candidates."
+    },
+    {
+      "name": "Chris Christie",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in the montage of GOP candidates."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to \"EVERY GOP presidential candidate\"."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to a \"MAGA extremist\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TEXT FLORIDA TO 88022",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP",
+      "role": "other"
+    },
+    {
+      "text": "This is your reminder that EVERY GOP presidential candidate is a MAGA extremist",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of dramatic sound effects.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a series of loud, percussive, dramatic sound effects that hit in sync with each visual cut, creating a tense and ominous atmosphere.",
+  "editing_pacing": "The video is a rapid montage with very fast cuts between different individuals.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "urgency",
+    "danger"
+  ],
+  "cultural_references": [],
+  "central_claim": "Every Republican presidential candidate is a MAGA extremist.",
+  "intended_effect": "To persuade the viewer that the entire field of Republican presidential candidates is composed of dangerous extremists.",
+  "uncertainty_flags": [
+    "The authoritative face-ID identified Tim Scott and Vivek Ramaswamy, but they were not visible in the provided 5-second video clip."
+  ]
+}

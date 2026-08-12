@@ -1,0 +1,82 @@
+{
+  "video_id": "7281777364827245867",
+  "visual_action": "A single man — identified by on-screen text as Rep. Frost — speaks directly to camera throughout the entire clip. He is wearing a gray suit jacket, white dress shirt, and a blue/green polka-dot tie. He is positioned in front of a blue backdrop flanked by two American flags with gold eagle finials. He gestures with both hands as he speaks. The framing is a medium close-up, consistent across all frames. No B-roll or cutaways are present.",
+  "cast": [
+    {
+      "name": "Maxwell Frost",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Persistent on-screen overlay reads 'Rep. Frost on joining Team Biden-Harris'; he is the sole speaker visible throughout the video."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text and spoken content reference 'Team Biden-Harris' and 'Biden-Harris in 2024'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text and spoken content reference 'Team Biden-Harris' and 'Biden-Harris in 2024'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Posted by @democrats account; content is a Democratic campaign endorsement."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep. Frost on joining Team Biden-Harris",
+      "role": "overlay"
+    },
+    {
+      "text": "It's important that Gen Z elect",
+      "role": "caption"
+    },
+    {
+      "text": "Biden-Harris in 2024",
+      "role": "caption"
+    },
+    {
+      "text": "because we need to protect democracy",
+      "role": "caption"
+    },
+    {
+      "text": "and they are actually listening to young people.",
+      "role": "caption"
+    },
+    {
+      "text": "the American Climate Corps,",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Rep. Frost speaks about why he joined Team Biden-Harris. Key lines visible in captions: \"It's important that Gen Z elect Biden-Harris in 2024 because we need to protect democracy and they are actually listening to young people.\" He also references specific policy accomplishments such as \"the American Climate Corps\" and, per the OCR, \"the Office of Gun Violence Prevention\" as examples of \"great work going on right now.\"",
+  "emojis_present": [],
+  "audio_music": "No commercial music detected. The audio is entirely Rep. Frost's spoken monologue delivered directly to camera — no background music, sound effects, or meme audio discernible from the provided context.",
+  "editing_pacing": "Static talking-head format throughout. No cuts, zooms, or speed changes. The same medium close-up shot of Rep. Frost is held for the full duration. Subtitles/captions appear and change in sync with his speech. Very slow, steady pacing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "enthusiasm and conviction — Frost gestures expressively and speaks with energy about supporting Biden-Harris",
+    "urgency — framing around protecting democracy and the importance of Gen Z voting"
+  ],
+  "cultural_references": [],
+  "central_claim": "Rep. Maxwell Frost explains why he has joined Team Biden-Harris, arguing that Gen Z should elect Biden-Harris in 2024 to protect democracy and because the administration is listening to young people and delivering on issues like the American Climate Corps and gun violence prevention.",
+  "intended_effect": "Motivate Gen Z and young voters to support and vote for Biden-Harris in 2024, using Rep. Frost as a relatable Gen Z spokesperson and congressional endorser.",
+  "uncertainty_flags": [
+    "Rep. Frost was not confirmed via face recognition (listed as 'none detected'); identification relies entirely on on-screen text overlay.",
+    "Full spoken transcript not provided via Whisper; complete spoken content reconstructed from OCR captions which may have noise (e.g., 'Cliate Corps', 'vViolence', '@f', 'right nOW').",
+    "OCR mentions 'the Office of Gun Violence Prevention' and 'Great work going on right now' — these lines appear to be part of the speech but were not captured in the subtitle frames shown in the keyframes provided."
+  ]
+}

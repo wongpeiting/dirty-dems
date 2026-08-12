@@ -1,0 +1,59 @@
+{
+  "video_id": "7626742798129155342",
+  "visual_action": "A woman, Karoline Leavitt, speaks from the White House press briefing podium. The shot is a static, medium close-up. Text overlays appear on the screen during her speech. The video concludes with the White House logo on a black screen.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking from the White House podium for the entire video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Repeatedly mentioned as 'President Trump,' and his actions regarding negotiations with Iran are the central topic of the speech."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The nation of Iran and its regime are the subject of the negotiations being discussed throughout the speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "President Trump Will Only Accept Deals That Put America First",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "White House official Karoline Leavitt details negotiations with Iran. She states that an initial 10-point plan from Iran was rejected by President Trump as \"unserious\" and \"thrown in the garbage.\" She refutes media reports suggesting the plan was acceptable. According to Leavitt, Iran has since offered a more reasonable proposal that the US is considering as a basis for negotiation, while maintaining \"red lines\" like the end of Iranian enrichment. She asserts that President Trump will never accept an \"Iranian wishlist\" and will only agree to a deal that puts America first, advising the media against spreading false narratives.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a person speaking. There is no music or other sound design.",
+  "editing_pacing": "The video is a single, static talking-head shot with text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Confidence",
+    "Indignation"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is a strong negotiator who rejected Iran's initial unacceptable proposal and will only accept a deal that puts America's interests first, contrary to false media reports.",
+  "intended_effect": "To reassure viewers of President Trump's strength in foreign policy, build confidence in his negotiating skills, and foster distrust in media coverage of the administration.",
+  "uncertainty_flags": []
+}

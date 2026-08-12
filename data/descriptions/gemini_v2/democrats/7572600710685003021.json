@@ -1,0 +1,57 @@
+{
+  "video_id": "7572600710685003021",
+  "visual_action": "The video displays a screenshot of a fake tweet from an account named 'FactPost'. The tweet shows a photo of Donald Trump next to a photo of a vast, green landscape with two muskoxen. The video then cuts to a slideshow of two serene nature photographs, one of the muskoxen in the wild and another of a lake at sunset.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of him appears in the on-screen tweet, which reads 'The Trump administration...'"
+    },
+    {
+      "name": "Trump administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly states, 'The Trump administration has revoked a ban...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a fabricated tweet from an account with the name 'FactPost' and handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost\n@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Trump administration has revoked a ban on drilling and mining in Alaska's ecologically sensitive North Slope region.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice speaks and sings in a dismissive, mocking tone: 'Nah. I say let it die. Let it die, let it die, let it shrivel up and... Come on, who's with me?' The audio is from the animated film 'The Lorax'.",
+  "emojis_present": [],
+  "audio_music": "The audio is a dialogue clip from the movie 'The Lorax,' featuring a villainous character singing 'Let It Die.' The tone is gleefully destructive and is used to mock the environmental policy mentioned in the video.",
+  "editing_pacing": "The video consists of a static shot of a fake tweet, followed by a simple slideshow of two still photographs. The pacing is slow and static.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video's central element is a fabricated tweet made to look like a news report from a source called 'FactPost'. This is a form of staged content used to frame the political message.",
+  "emotions_signaled": [
+    "mockery",
+    "alarm",
+    "anger"
+  ],
+  "cultural_references": [
+    "The audio is a clip of the character Aloysius O'Hare from the 2012 animated film 'The Lorax', where he sings 'Let It Die' about letting trees die so he can sell bottled air."
+  ],
+  "central_claim": "The Trump administration's policy of allowing drilling in Alaska is callously destructive to the environment, akin to the actions of a cartoon villain.",
+  "intended_effect": "To portray the Trump administration as anti-environment and villainous, and to generate anger and opposition to its policies.",
+  "uncertainty_flags": []
+}

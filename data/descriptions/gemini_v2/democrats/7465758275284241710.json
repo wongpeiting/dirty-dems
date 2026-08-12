@@ -1,0 +1,91 @@
+{
+  "video_id": "7465758275284241710",
+  "visual_action": "The video shows an exchange during a White House press briefing. It alternates between a shot of Donald Trump speaking at the podium and a shot of an unnamed female reporter in the audience asking a question. A C-SPAN 2 broadcast overlay is visible.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking at the White House podium and is the subject of the video's critical framing."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown in the audience and her voice is heard asking Trump critical questions."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The reporter states that Trump is \"blaming Democrats\" for the plane crash. The video is also posted by the @democrats account."
+    },
+    {
+      "name": "U.S. Military",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The reporter says Trump is blaming \"the member of the U.S. military who was flying that Black Hawk helicopter.\" Trump also says he is in coordination with the military."
+    },
+    {
+      "name": "American Airlines",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions being in coordination with American Airlines to release the names of the victims."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump called out for blaming DEI and the military for plane crash",
+      "role": "overlay"
+    },
+    {
+      "text": "DO YOU EVEN YET KNOW THE NAMES OF THE 67 PEOPLE WHO WERE KILLED, AND YOU ARE BLAMING DEMOCRATS, AND DEI POLICIES, AND AIR TRAFFIC CONTROL, AND SEEMINGLY THE MEMBER OF THE US MILITARY WHO WAS FLYING THAT BLACK HAWK HELICOPTER. DON'T YOU THINK YOU'RE GETTING AHEAD OF THE INVESTIGATION RIGHT NOW?",
+      "role": "overlay"
+    },
+    {
+      "text": "NO, I DON'T THINK SO AT ALL. I DON'T THINK WITH THE NAMES OF THE PEOPLE — YOU MEAN THE NAMES OF THE PEOPLE THAT ARE ON THE PLANE? YOU THINK THAT'S GOING TO MAKE A DIFFERENCE? DOES IT COME FOR THEIR FAMILIES? THEY ARE A GROUP OF PEOPLE THAT HAVE LOST THEIR LIVES. IF YOU WANT A LIST OF THE NAMES, WE CAN GIVE YOU THAT. WE'LL BE GIVING THAT VERY SOON. WE'RE IN COORDINATION WITH AMERICAN AIRLINES. WE'RE IN COORDINATION VERY STRONGLY, OBVIOUSLY, WITH THE MILITARY. BUT I THINK THAT'S NOT A VERY SMART QUESTION. I'M SURPRISED.",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House\nJames Brady Briefing Room",
+      "role": "chyron"
+    },
+    {
+      "text": "President Trump Addresses Army Helicopter-Passenger Jet Collision",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A reporter confronts Donald Trump about a plane crash that killed 67 people, asking if he is getting ahead of the investigation by blaming Democrats, DEI policies, air traffic control, and the military pilot. Trump responds dismissively, questioning if knowing the victims' names would \"make a difference\" and stating that the names will be released soon. He concludes by calling the reporter's question \"not a very smart question.\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the press conference, with no background music or sound effects.",
+  "editing_pacing": "The editing consists of simple cuts between two static shots: one of Donald Trump at the podium and one of a reporter in the audience.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Criticism",
+    "Indignation",
+    "Dismissiveness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump responded insensitively to a fatal plane crash by prematurely blaming Democrats and DEI policies and then belittling a reporter for questioning him about it.",
+  "intended_effect": "To portray Trump as callous, irresponsible, and dismissive in the face of a national tragedy, thereby signaling his unfitness for leadership.",
+  "uncertainty_flags": [
+    "The identity of the female reporter is not provided."
+  ]
+}

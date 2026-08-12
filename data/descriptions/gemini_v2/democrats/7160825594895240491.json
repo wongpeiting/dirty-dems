@@ -1,0 +1,67 @@
+{
+  "video_id": "7160825594895240491",
+  "visual_action": "A quick slideshow of headshots of four different Republican politicians. A red banner with white text is overlaid on the bottom of each image.",
+  "cast": [
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads '157 House Republicans voted against protecting marriage equality'."
+    },
+    {
+      "name": "Lauren Boebert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her face appears in the slideshow and is identified by the provided face-ID."
+    },
+    {
+      "name": "Dan Crenshaw",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is listed in the provided face-ID as being present in the video."
+    },
+    {
+      "name": "Jim Banks",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is listed in the provided face-ID as being present in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "157 House Republicans voted against protecting marriage equality 😥😡",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a siren sound effect.",
+  "emojis_present": [
+    "😥",
+    "😡"
+  ],
+  "audio_music": "A siren sound effect ('wee-woo wee-woo') plays throughout the clip, creating an alarming or mocking tone. The audio is identified by fingerprint as the track 'Fuck 12' by Quavø The $auce God.",
+  "editing_pacing": "A fast-paced slideshow with quick cuts between four still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Disappointment",
+    "Disapproval"
+  ],
+  "cultural_references": [
+    "The 'wee-woo wee-woo' siren is a common meme sound effect used to call attention to wrongdoing."
+  ],
+  "central_claim": "157 House Republicans voted against legislation designed to protect marriage equality.",
+  "intended_effect": "To generate anger and disapproval towards the 157 House Republicans who voted against protecting marriage equality.",
+  "uncertainty_flags": [
+    "The provided face-ID list includes Dan Crenshaw and Jim Banks, but they do not appear to be among the four politicians visually depicted in the short slideshow.",
+    "The primary audible sound is a 'wee-woo' siren meme sound effect, which may be a component of or different from the fingerprinted music track 'Fuck 12' by Quavø The $auce God."
+  ]
+}

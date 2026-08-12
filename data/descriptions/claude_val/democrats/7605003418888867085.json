@@ -1,0 +1,81 @@
+{
+  "video_id": "7605003418888867085",
+  "visual_action": "The video is a static-image slideshow. The first several frames show a screenshot of a tweet from the verified account @factpostnews (FactPost), which quotes country artist Zach Bryan criticizing the Turning Point USA halftime show, alongside a photo of a tattooed man in a blue t-shirt playing an acoustic guitar at a microphone stand on a concert stage (identified by on-screen text and context as Zach Bryan). To the right of the concert photo, there is a screenshot of an Instagram story from @zachlanebryan, displaying the same quote in bold white text on a black background, followed by a DM reply from user 'amarc5' criticizing Bryan. Later frames zoom into Zach Bryan's Instagram story screenshot showing the full quote and the critical fan DM. The final frames are close-up concert performance photos of the same tattooed guitarist on stage, with a smoky blue backdrop.",
+  "cast": [
+    {
+      "name": "Zach Bryan",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "FactPost tweet reads 'Zach Bryan on the Turning Point USA halftime show:' and Instagram story handle 'zachlanebryan' is visible; concert photos of guitarist are attributed to him by context and text"
+    },
+    {
+      "name": "Turning Point USA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text: 'Zach Bryan on the Turning Point USA halftime show'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Verified Twitter/X account @factpostnews shown as the source of the quoted tweet"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Zach Bryan on the Turning Point USA halftime show:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"I don't care what side you're on, a bunch of adults throwing temper tantrums and their own halftime show is embarrassing as hell and the most cringe shit on the planet\"",
+      "role": "overlay"
+    },
+    {
+      "text": "zachlanebryan ● 8m",
+      "role": "overlay"
+    },
+    {
+      "text": "I don't care what side you're on, a bunch of adults throwing temper tantrums and their own halftime show is embarrassing as hell and the most cringe shit on the planet",
+      "role": "overlay"
+    },
+    {
+      "text": "amarc5\n624 followers · 610 posts\nFollows you\nView profile",
+      "role": "overlay"
+    },
+    {
+      "text": "wtf happens to you? Boy you turned into a Hollywood sell out bitch quick. You were my favorite artist. Now you are nothing but another dumbass out of touch elitist. Shit happens quick homie",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is present. The audio track is Zach Bryan's song \"American Nights\" playing throughout. There is no voiceover or narration.",
+  "emojis_present": [],
+  "audio_music": "The fingerprinted track \"American Nights\" by Zach Bryan plays throughout the entire clip from the start. It is an acoustic country/folk-style song with a warm, earnest tone. The choice of using Zach Bryan's own music while displaying his critical quote creates a direct thematic link between the artist and his statement.",
+  "editing_pacing": "Static slideshow format; the video holds on each screenshot/image for several seconds. No fast cuts, effects, or motion graphics — a simple, low-production screen-capture presentation style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "validation or agreement with Bryan's criticism, implied by amplifying his quote without counter-framing",
+    "mild mockery directed at Turning Point USA as the target of Bryan's 'cringe' remark",
+    "secondary tension from the fan DM showing backlash against Bryan"
+  ],
+  "cultural_references": [
+    "Zach Bryan — country/folk musician; his concert performance photos are shown and his song 'American Nights' plays as the soundtrack, making him both the subject and the sonic backdrop of the post"
+  ],
+  "central_claim": "Country artist Zach Bryan publicly called Turning Point USA's alternative halftime show embarrassing and cringe-worthy, regardless of political side.",
+  "intended_effect": "Invite viewers to agree with Zach Bryan's bipartisan-framed criticism of Turning Point USA's halftime show stunt, amplifying his rebuke to a Democratic Party audience.",
+  "uncertainty_flags": [
+    "The exact event context of the 'Turning Point USA halftime show' is not fully detailed in the post — it appears to reference a political counter-programming event around a major sporting halftime show, but specifics are not shown",
+    "It is unclear whether the fan DM ('amarc5') is included to show criticism of Bryan or as ironic contrast; its framing purpose is ambiguous",
+    "The concert performance photos shown may not be from a specific datable event — cannot confirm which concert"
+  ]
+}

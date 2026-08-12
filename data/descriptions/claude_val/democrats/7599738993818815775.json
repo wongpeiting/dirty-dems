@@ -1,0 +1,74 @@
+{
+  "video_id": "7599738993818815775",
+  "visual_action": "The video is a slideshow of static images. The first several frames show a screenshot of a tweet/post from @factpostnews (FactPost, verified) quoting Donald Trump speaking about his father: \"He had one problem. At a certain age, about 86, 87, he started getting, what do they call it?... Like an Alzheimer's thing. Well, I don't have it.\" Below the quote text is a photo of Donald Trump (face visible, mouth open, in a dark suit) placed next to a labeled medical diagram of the human brain (showing Cerebral Cortex, Entorhinal Cortex, Hippocampus). The subsequent frames shift to a dark-background slide with bold white text reading \"TRUMP HEALTH UPDATE / JANUARY 2026,\" below which are two close-up photographs of what appear to be an elderly man's hands showing prominent bruising/discoloration — one hand resting clasped in a lap (wearing a suit with presidential cufflinks), and a second showing a large dark bruise on the back of the hand. Final frames appear to show a list of \"10 WARNING SIGNS OF ALZHEIMER'S\" sourced from the CDC, displayed as on-screen text.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the FactPost tweet text ('Trump on his father'), quoted directly, and referenced in 'TRUMP HEALTH UPDATE JANUARY 2026' overlay; photo of Trump shown alongside brain diagram"
+    },
+    {
+      "name": "Fred Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced as 'his father' in the Trump quote about Alzheimer's"
+    },
+    {
+      "name": "FactPost (@factpostnews)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "FactPost logo and @factpostnews handle visible in the tweet screenshot"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost\n@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump on his father:\n\n\"He had one problem. At a certain age, about 86, 87, he started getting, what do they call it?... Like an Alzheimer's thing. Well, I don't have it.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Cerebral Cortex\nEntorhinal Cortex\nHippocampus",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP HEALTH UPDATE\nJANUARY 2026",
+      "role": "overlay"
+    },
+    {
+      "text": "10 WARNING SIGNS OF ALZHEIMER'S\nMemory loss that disrupts daily life\nChallenges in planning or solving problems\nDifficulty completing familiar tasks at home, at work, or at leisure\nConfusion with time or place\nTrouble understanding visual images and spatial relations\nNew problems with words in speaking or writing\nMisplacing things and not being able to retrace steps\nDecreased or poor judgment\nWithdrawal from work or social activities\nSOURCE: CDC",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is detected in the Whisper transcript. The audio is the \"Succession theme song slowed\" — no speech accompanies the visuals.",
+  "emojis_present": [],
+  "audio_music": "Throughout the video, a slowed-down version of what the TikTok sound label identifies as the Succession theme song plays — a brooding, minor-key piano/orchestral piece. The slowed tempo gives it a somber, ominous quality. No narration or spoken words are present.",
+  "editing_pacing": "Slow slideshow format. Static images held for several seconds each. No fast cuts, zooms, or motion graphics — deliberate, measured pacing that matches the slow, somber music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern or alarm about a political figure's cognitive/physical health",
+    "Irony or implicit mockery, produced by juxtaposing Trump's self-assured quote ('I don't have it') with the Alzheimer's warning signs list and bruised-hand imagery",
+    "Gravity and solemnity, reinforced by the slowed Succession theme"
+  ],
+  "cultural_references": [
+    "Succession (HBO series) — the slowed Succession theme song is used as background music, borrowing the show's association with elite power, decline, and dynasty drama"
+  ],
+  "central_claim": "By pairing Trump's own quote dismissing Alzheimer's with a January 2026 \"health update\" showing bruised hands and the CDC's 10 warning signs of Alzheimer's, the post implies that Trump may be exhibiting signs of cognitive or physical decline.",
+  "intended_effect": "To prompt viewers to question Trump's cognitive and physical health, using his own words as an ironic setup against visual evidence of apparent physical deterioration and CDC health criteria.",
+  "uncertainty_flags": [
+    "The bruised hands shown in the 'TRUMP HEALTH UPDATE JANUARY 2026' segment are not verified as Trump's hands — no face or identifying label confirms whose hands are depicted; they are implied to be Trump's by the framing and context",
+    "The full list of 10 CDC Alzheimer's warning signs was partially visible/cut off in the keyframes; the OCR and framing suggest it was included but completeness cannot be confirmed",
+    "Whether the FactPost tweet is an authentic original tweet or a screenshot shared/edited by the @democrats account cannot be confirmed from the visual alone",
+    "The January 2026 date is after my training knowledge cutoff; the bruising and health framing are treated as real reported events per instructions, but independent verification of the specific incident is unavailable to me"
+  ]
+}

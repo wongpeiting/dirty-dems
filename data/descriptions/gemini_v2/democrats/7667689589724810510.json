@@ -1,0 +1,67 @@
+{
+  "video_id": "7667689589724810510",
+  "visual_action": "The video displays two static images with text overlays. The first image is a close-up of a person's hands using a laptop inside a car, likely a police vehicle. The second image shows a security camera with a solar panel mounted on a pole outdoors.",
+  "cast": [
+    {
+      "name": "unnamed Texas police officer",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'A TX cop used license plate cameras...'"
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to tracking down 'a woman who got an abortion.'"
+    },
+    {
+      "name": "Flock",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the cameras as being 'made by flock' and mentions 'flock networks.'"
+    },
+    {
+      "name": "Police",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Police used over 6,000 flock networks...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "A TX cop used license plate cameras to track down a woman who got an abortion",
+      "role": "overlay"
+    },
+    {
+      "text": "The license plate cameras are made by flock. The same company that has come under scrutiny for its surveillance overreach",
+      "role": "overlay"
+    },
+    {
+      "text": "Police used over 6,000 flock networks with 83,000+ cameras",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists entirely of music.",
+  "emojis_present": [],
+  "audio_music": "An intense, fast-paced electronic rock song with sung vocals plays throughout the video, creating a sense of urgency and alarm.",
+  "editing_pacing": "The video consists of two static images presented in a slideshow format, with one cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Police in Texas are using a vast network of license plate surveillance cameras to track women who have received abortions.",
+  "intended_effect": "To generate alarm and outrage over the use of surveillance technology by police to enforce abortion laws.",
+  "uncertainty_flags": []
+}

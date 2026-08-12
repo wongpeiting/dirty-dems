@@ -1,0 +1,47 @@
+{
+  "video_id": "7223775443105615147",
+  "visual_action": "A close-up shot of Ron DeSantis looking off-camera with a neutral expression. A text overlay formatted like a news headline from 'People' magazine is superimposed over the bottom half of the screen.",
+  "cast": [
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face is shown throughout the video, and the on-screen text discusses a new abortion ban in Florida, the state where he is governor."
+    },
+    {
+      "name": "People",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for 'People' magazine is used as the header for the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "People\n\nRape, Incest Victims Must Show Proof to Get Exception to Florida's New Abortion Ban",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice exclaims, \"Oh brother, this guy stinks!\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a popular meme soundbite of a male voice saying, \"Oh brother, this guy stinks!\" to create a mocking effect. A subtle, atmospheric music track plays in the background underneath the voiceover.",
+  "editing_pacing": "The video is a single, static shot with a text overlay. There are no cuts or camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The audio clip \"Oh brother, this guy stinks!\" is a quote from the character Peter Griffin from the animated TV show 'Family Guy'."
+  ],
+  "central_claim": "Ron DeSantis is contemptible because of Florida's new abortion ban, which requires victims of rape and incest to provide proof to get an exception.",
+  "intended_effect": "To generate disapproval and mockery of Ron DeSantis and his policies.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript was empty, but dialogue is clearly audible in the video."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "video_id": "7628252764555971870",
+  "visual_action": "In a studio setting, a Black woman speaks passionately into a microphone at a table, confronting a man in a suit sitting opposite her. The man, identified as Ro Khanna, listens and responds. The video cuts between close-ups of the two speakers and wider shots of the table, which has a digital timer on it. Other people are visible in the out-of-focus background.",
+  "cast": [
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the primary speaker in the video, confronting Ro Khanna. On-screen text identifies her as a 'Voter'."
+    },
+    {
+      "name": "Ro Khanna",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is identified by face recognition and by on-screen text that reads 'Democrat Rep. Ro Khanna'. He is shown listening and speaking in response to the woman."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The woman explicitly criticizes 'Democratic policies', and the on-screen text refers to 'dangerous Democrat policies'."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The woman mentions him by name as a point of comparison: 'when we're worried about Epstein with a couple of people...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Voter SLAMS Democrat Rep. Ro Khanna on dangerous Democrat policies.",
+      "role": "overlay"
+    },
+    {
+      "text": "Jubilee",
+      "role": "credit"
+    },
+    {
+      "text": "SURROUNDED",
+      "role": "chyron"
+    },
+    {
+      "text": "America should hold the powerful accountable",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An unnamed woman confronts Rep. Ro Khanna, expressing her frustration and fear that she is more likely to be harmed by 'Democratic policies such as open borders.' She cites a statistic about thousands of migrants with criminal records being released in his state and argues that illegal migration is the 'biggest funnel for child trafficking.' She accuses Democrats of turning a 'blind eye' to children harmed by their policies while focusing on cases like Jeffrey Epstein's. Ro Khanna attempts to respond that he is for 'secure borders,' but the woman retorts that no one in California can credibly make that claim.",
+  "emojis_present": [
+    "👏"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue from the debate-style conversation. There is no music or background sound.",
+  "editing_pacing": "The video uses standard conversational editing, cutting between different camera angles focusing on the woman speaking and Ro Khanna listening or responding.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Frustration",
+    "Fear",
+    "Anger",
+    "Vindication"
+  ],
+  "cultural_references": [
+    "Jubilee"
+  ],
+  "central_claim": "Democratic immigration policies are dangerous, directly harming American citizens and enabling crimes like child trafficking, which the party ignores.",
+  "intended_effect": "To generate fear and anger towards the Democratic Party's immigration policies and validate the Republican position on border security.",
+  "uncertainty_flags": [
+    "The identity of the woman speaking is not provided beyond 'Voter'.",
+    "The video is a short clip from a longer discussion, so the full context is missing.",
+    "The source for the statistic cited by the woman is not given."
+  ]
+}

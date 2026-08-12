@@ -1,0 +1,65 @@
+{
+  "video_id": "7556666668810800398",
+  "visual_action": "The video intercuts clips of Donald Trump speaking outdoors in a suit and tie with reaction shots of a man in a plaid shirt sitting in a dimly lit setting, who looks increasingly confused and shocked. The video begins and ends with white text on a black screen, concluding with the White House logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking throughout the video, and his statements are the subject of the reaction shots."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The word 'DEMOCRATS' is repeatedly superimposed over the man reacting to Trump's statements, framing the reaction as that of the Democratic party."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and concludes with a credit screen reading 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "IT'S NOT COMPLICATED.",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATS",
+      "role": "overlay"
+    },
+    {
+      "text": "DON'T BE DUMB, FUND THE GOVERNMENT.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio alternates between Donald Trump making a series of claims and an unnamed man reacting with disbelief. Trump states that the country cannot handle illegal immigration, that Democrats want to give immigrants full healthcare benefits, want to 'open the wall,' and allow 'men playing in women's sports.' The other man repeatedly interjects with confused questions like 'What?', 'Say that again?', and 'What is going on?', culminating in the statement, 'Don't be dumb, fund the government.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from two different sources cut together. There is no music or background sound.",
+  "editing_pacing": "The video uses quick cuts, alternating between clips of Donald Trump speaking and reaction shots of the other man, creating a call-and-response comedic effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule",
+    "confusion"
+  ],
+  "cultural_references": [
+    "The reaction shots feature actor Tim Robinson in a sketch from his Netflix show 'I Think You Should Leave with Tim Robinson'. This specific scene, where his character becomes increasingly confused and angry, is a widely used internet meme format."
+  ],
+  "central_claim": "Donald Trump's policy statements on immigration and transgender athletes are absurd, and the real priority should be funding the government.",
+  "intended_effect": "To mock Donald Trump by portraying his statements as nonsensical and to frame the White House's priorities as more serious and practical.",
+  "uncertainty_flags": []
+}

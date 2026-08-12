@@ -1,0 +1,188 @@
+{
+  "video_id": "7594557736654785805",
+  "visual_action": "Senator Elizabeth Warren, in a blue jacket, speaks from a seated position at a podium with 'THE NATIONAL PRESS CLUB' visible on the wall behind her. The video is framed as a news clip with a chyron at the bottom from 'MS NOW' and 'ANA CABRERA REPORTS'.",
+  "cast": [
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking throughout the video, identified by face and on-screen text."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the overlay text (\"why Trump is going after Fed Chair Powell\") and repeatedly in Elizabeth Warren's speech."
+    },
+    {
+      "name": "Jerome Powell",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the overlay text (\"Fed Chair Powell\") and the news chyron."
+    },
+    {
+      "name": "Department of Justice",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Elizabeth Warren: \"weaponizing the Department of Justice\"."
+    },
+    {
+      "name": "The Federal Reserve",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Elizabeth Warren as \"the Fed\"."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news chyron includes the logo for 'MS NOW'."
+    },
+    {
+      "name": "Ana Cabrera",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news chyron is labeled 'ANA CABRERA REPORTS'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Sen. Warren breaks down why Trump is going after Fed Chair Powell",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. WARREN ADDRESSES PROBE INTO FED CHAIR POWELL",
+      "role": "chyron"
+    },
+    {
+      "text": "ANA CABRERA REPORTS",
+      "role": "chyron"
+    },
+    {
+      "text": "MS NOW",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. ELIZABETH WARREN\n(D) MASSACHUSETTS",
+      "role": "chyron"
+    },
+    {
+      "text": "IT'S A CHALLENGE TO",
+      "role": "caption"
+    },
+    {
+      "text": "SOMEBODY WHO THINKS",
+      "role": "caption"
+    },
+    {
+      "text": "RUN EVERYTHING,",
+      "role": "caption"
+    },
+    {
+      "text": "AND SO DONALD TRUMP",
+      "role": "caption"
+    },
+    {
+      "text": "JUST STAYS AFTER IT.",
+      "role": "caption"
+    },
+    {
+      "text": "AND NOW THIS IS A",
+      "role": "caption"
+    },
+    {
+      "text": "QUESTION ABOUT",
+      "role": "caption"
+    },
+    {
+      "text": "WEAPONIZING THE",
+      "role": "caption"
+    },
+    {
+      "text": "DEPARTMENT OF",
+      "role": "caption"
+    },
+    {
+      "text": "JUSTICE RIGHT OUT IN",
+      "role": "caption"
+    },
+    {
+      "text": "PLAIN VIEW IN ORDER",
+      "role": "caption"
+    },
+    {
+      "text": "FOR DONALD TRUMP TO",
+      "role": "caption"
+    },
+    {
+      "text": "TRY TO HAVE A CHANCE",
+      "role": "caption"
+    },
+    {
+      "text": "TO TAKE OVER THE FED",
+      "role": "caption"
+    },
+    {
+      "text": "AS QUICKLY AS",
+      "role": "caption"
+    },
+    {
+      "text": "POSSIBLE SO THAT HE",
+      "role": "caption"
+    },
+    {
+      "text": "CAN MAKE POLITICAL",
+      "role": "caption"
+    },
+    {
+      "text": "DECISIONS THAT HE",
+      "role": "caption"
+    },
+    {
+      "text": "THINKS WILL HELP HIM",
+      "role": "caption"
+    },
+    {
+      "text": "ROLLING INTO THE",
+      "role": "caption"
+    },
+    {
+      "text": "2026 ELECTION",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Elizabeth Warren explains that Donald Trump is relentlessly pursuing Federal Reserve Chair Powell because the Fed's independence is a 'challenge' to someone like Trump 'who thinks he's supposed to run everything.' She accuses Trump of 'weaponizing the Department of Justice right out in plain view' in an attempt to take over the Fed and make political decisions that will help him in the 2026 election.",
+  "emojis_present": [
+    "🗣️"
+  ],
+  "audio_music": "The audio consists solely of Elizabeth Warren's speaking voice, without any background music or sound effects. It has the clear, direct sound of a news broadcast clip.",
+  "editing_pacing": "The video is a single, static shot of a talking head (Elizabeth Warren). The only visual elements are the pre-existing news broadcast graphics and added overlay text.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Alarm",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is weaponizing the Department of Justice to gain control of the Federal Reserve for his own political benefit ahead of the 2026 election.",
+  "intended_effect": "To persuade the viewer that Donald Trump poses a threat to the independence of key governmental institutions.",
+  "uncertainty_flags": []
+}

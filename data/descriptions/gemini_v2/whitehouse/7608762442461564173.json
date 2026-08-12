@@ -1,0 +1,66 @@
+{
+  "video_id": "7608762442461564173",
+  "visual_action": "The video displays a still image of Donald Trump speaking at a podium. A screenshot of a tweet from the account '@realDonaldTrump' is overlaid on the image. The tweet announces an intention to release government files on aliens and UFOs. After several seconds, the video transitions to a series of black-and-white images: first, an upward-looking shot of the White House portico, then a military helicopter landing, and finally a straight-on view of the White House facade. The text 'THE WHITE HOUSE' is overlaid on these final shots.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photograph and is the author of a tweet displayed prominently on screen, which forms the basis of the video's subject matter."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'THE WHITE HOUSE' appears on screen over the final shots of the building. The video is also posted from the @whitehouse account."
+    },
+    {
+      "name": "Secretary of War",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "This role is mentioned in the on-screen tweet: 'I will be directing the Secretary of War...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump\n\nBased on the tremendous interest shown, I will be directing the Secretary of War, and other relevant Departments and Agencies, to begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters. GOD BLESS AMERICA!",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A high-pitched, childlike voice, quoting the character E.T., says, \"I'll be right here.\"",
+  "emojis_present": [
+    "👽",
+    "🇺🇸"
+  ],
+  "audio_music": "The video is set to the sweeping, orchestral score of 'Escape / Chase / Saying Goodbye' by John Williams, famously from the movie 'E.T. the Extra-Terrestrial'. Towards the end, a spoken line from the movie is layered over the music. The overall effect is cinematic, nostalgic, and gently satirical.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor",
+    "satire",
+    "nostalgia",
+    "awe"
+  ],
+  "cultural_references": [
+    "The entire post is a reference to the 1982 film 'E.T. the Extra-Terrestrial'.",
+    "The music is from the film's score, composed by John Williams.",
+    "The spoken audio 'I'll be right here...' is a famous quote from the character E.T.",
+    "The caption 'Phone home 👽' is another famous quote from E.T."
+  ],
+  "central_claim": "The post satirically presents a purported tweet from Donald Trump promising to release government files on aliens, framing the announcement with iconic music and quotes from the movie 'E.T. the Extra-Terrestrial'.",
+  "intended_effect": "To amuse the viewer and satirize Donald Trump by juxtaposing a serious political announcement with the sentimental and nostalgic tone of a beloved alien movie.",
+  "uncertainty_flags": [
+    "The authenticity of the Donald Trump tweet shown on screen cannot be verified from the video alone; it may be a fabrication for satirical purposes."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "video_id": "7277971166848142638",
+  "visual_action": "President Joe Biden walks towards the camera in slow motion, wearing a suit and aviator sunglasses. He is outdoors with trees in the background. A text overlay of a news headline is superimposed on the lower half of the screen.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen, walking towards the camera."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text mentions \"leases Trump sold,\" directly referencing a past action of his administration."
+    },
+    {
+      "name": "Politico",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news organization's name appears as the source of the headline."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Biden blocks oil drilling on 10M acres in Alaska, including leases Trump sold",
+      "role": "overlay"
+    },
+    {
+      "text": "POLITICO",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in this video; it consists only of music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, atmospheric indie rock track ('Scott Street' by Phoebe Bridgers) plays throughout, creating a serious and contemplative mood.",
+  "editing_pacing": "The video consists of a single, continuous slow-motion shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "pride",
+    "admiration"
+  ],
+  "cultural_references": [
+    "Scott Street by Phoebe Bridgers"
+  ],
+  "central_claim": "Joe Biden is taking decisive action to protect the environment in Alaska by reversing oil drilling leases approved by the Trump administration.",
+  "intended_effect": "To portray President Biden as a strong, decisive, and environmentally-conscious leader, generating approval for his policy actions.",
+  "uncertainty_flags": []
+}

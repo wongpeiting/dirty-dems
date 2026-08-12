@@ -1,0 +1,121 @@
+{
+  "video_id": "7592371562431483191",
+  "visual_action": "The video begins with Nancy Pelosi in a green pantsuit walking away from the camera. A reporter asks her a question off-screen. Pelosi turns, wearing sunglasses, and speaks into a microphone held by a reporter, appearing agitated. The video then cuts to a clip of a young boy in a blue shirt in a park, looking surprised. This is followed by a dark, shaky clip of Pelosi's face, apparently in a vehicle at night. The video then shows two reaction clips from the movie 'Friday': one of Chris Tucker looking shocked and another of Ice Cube looking incredulous. The video concludes with a black-and-white montage of the White House, with the text 'THE WHITE HOUSE' overlaid.",
+  "cast": [
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is shown and speaks throughout the video, and is the subject of the reporter's question."
+    },
+    {
+      "name": "Unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A voice asks Pelosi, \"Why did you refuse the National Guard on January 6th?\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Pelosi states, \"The president didn't send it,\" referring to the sitting president on January 6th, 2021."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Pelosi accuses the reporter of using \"Republican talking points.\""
+    },
+    {
+      "name": "Chris Tucker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A reaction clip of him from the movie 'Friday' is shown."
+    },
+    {
+      "name": "Ice Cube",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A reaction clip of him from the movie 'Friday' is shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Why did you refuse the",
+      "role": "overlay"
+    },
+    {
+      "text": "National Guard on January 6th?",
+      "role": "overlay"
+    },
+    {
+      "text": "Shut up!",
+      "role": "overlay"
+    },
+    {
+      "text": "I did not refuse the National Guard.",
+      "role": "overlay"
+    },
+    {
+      "text": "The President didn't send it.",
+      "role": "overlay"
+    },
+    {
+      "text": "Why are you coming",
+      "role": "overlay"
+    },
+    {
+      "text": "here with Republican talking points",
+      "role": "overlay"
+    },
+    {
+      "text": "as if you're a serious journalist?",
+      "role": "overlay"
+    },
+    {
+      "text": "Wait a minute.",
+      "role": "overlay"
+    },
+    {
+      "text": "I take responsibility for not having them",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A reporter asks Nancy Pelosi why she refused the National Guard on January 6th. Pelosi angrily responds, \"Shut up. I did not refuse the National Guard. The president didn't send it.\" The video then cuts to a clip of a young boy saying \"Wait a minute,\" followed by a different clip of Pelosi saying, \"I take responsibility for not having them.\" The video ends with a clip of Chris Tucker from the movie 'Friday' exclaiming, \"Damn!\"",
+  "emojis_present": [],
+  "audio_music": "Original speech from various video clips, including news footage and movie scenes.",
+  "editing_pacing": "Fast cuts between news footage, a separate video clip, and several reaction memes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Anger",
+    "Surprise"
+  ],
+  "cultural_references": [
+    "January 6th Capitol attack",
+    "\"Damn!\" meme from 'Friday'",
+    "\"Wait a minute\" kid meme"
+  ],
+  "central_claim": "Nancy Pelosi lied when she denied refusing the National Guard on January 6th, as shown by another clip where she admits responsibility.",
+  "intended_effect": "To convince the viewer that Nancy Pelosi is dishonest and was responsible for the security failures on January 6th.",
+  "uncertainty_flags": [
+    "The context of the second clip where Nancy Pelosi says 'I take responsibility for not having them' is not provided, making it unclear if it is a direct contradiction or taken out of context."
+  ]
+}

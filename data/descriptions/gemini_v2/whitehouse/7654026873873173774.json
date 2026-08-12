@@ -1,0 +1,83 @@
+{
+  "video_id": "7654026873873173774",
+  "visual_action": "A fast-cut montage of a large-scale event called 'Freedom 250', presented as a UFC-style fight night held on the White House grounds. The video shows a man in military dress uniform, then Donald Trump and UFC President Dana White on a White House balcony and walking through the event. Trump is seen sitting cageside, pumping his fist, interacting with various fighters, and watching from the audience with Dana White and a woman resembling Melania Trump. UFC commentator Joe Rogan interviews a fighter in the octagon. The event features a large stage and a fighting octagon set up in front of the White House at night, with large crowds in attendance. The video ends with a credit screen for 'President Donald J. Trump'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure shown throughout the video montage and is thanked by name by a fighter."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman who strongly resembles her is shown sitting next to Donald Trump in the audience at the event."
+    },
+    {
+      "name": "Unnamed UFC fighter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An MMA fighter is shown being interviewed in the octagon, saying 'Gotta thank President Trump for making this happen.'"
+    },
+    {
+      "name": "Unnamed UFC fighters",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Multiple other mixed martial arts fighters are shown in the octagon and interacting with Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FREEDOM 250",
+      "role": "other"
+    },
+    {
+      "text": "45-47",
+      "role": "other"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is dominated by a hip-hop track and crowd noise. One distinct line of dialogue is from a UFC fighter being interviewed, who says, 'Gotta thank President Trump for making this happen.' There are also crowd chants mixed into the music.",
+  "emojis_present": [],
+  "audio_music": "A high-energy, aggressive hip-hop track ('WE ON GO' by BIA, which transitions to a remix) plays continuously throughout the video. The music serves as a hype track, creating a modern, powerful, and intense atmosphere for the montage.",
+  "editing_pacing": "The video is a fast-paced montage with rapid cuts, creating a high-energy, cinematic feel consistent with a hype reel.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Donald Trump is briefly shown wearing digitally superimposed gold chains over his suit and tie, a visual trope from hip-hop culture used to project a 'tough' or 'cool' image. Additionally, wide shots of the UFC octagon and large crowd in front of the White House at night appear to be digitally composited images, creating a spectacular but likely fabricated event scene.",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Excitement",
+    "Power"
+  ],
+  "cultural_references": [
+    "UFC (Ultimate Fighting Championship)",
+    "Dana White",
+    "Joe Rogan",
+    "BIA",
+    "A$AP Ferg",
+    "Denzel Curry",
+    "Hip-hop culture"
+  ],
+  "central_claim": "Donald Trump is a strong, culturally relevant, and patriotic leader who champions American freedom and is celebrated by fighters and large crowds at a spectacular UFC event at the White House.",
+  "intended_effect": "To generate excitement and support for Donald Trump by portraying him as a powerful, modern figure aligned with the popular and masculine culture of the UFC.",
+  "uncertainty_flags": [
+    "The identity of the woman sitting next to Trump as Melania Trump is based on strong resemblance but is not definitively confirmed.",
+    "The video portrays a massive 'Freedom 250' UFC event on the White House lawn. While some clips of Trump at real UFC events may be included, the overall event as depicted, particularly the wide shots of the octagon in front of the White House, appears to be a digitally fabricated scenario."
+  ]
+}

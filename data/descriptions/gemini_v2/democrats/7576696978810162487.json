@@ -1,0 +1,44 @@
+{
+  "video_id": "7576696978810162487",
+  "visual_action": "A static image of the White House is shown. In the foreground, a cutout of a man in a dark suit is superimposed, appearing to speak. On-screen text is displayed over the image of the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, 'Trump after becoming president:'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the verified account @democrats."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump after becoming president:",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "A man says urgently, \"I gotta figure out how to make money on this thing. It's simply too good. I gotta figure out how to make money on this! I really want to!\"",
+  "emojis_present": [],
+  "audio_music": "A dramatic, slightly tense instrumental track with piano and strings ('Godspeed' by L.O.B Colombo) plays throughout the video, underscoring the comedic dialogue.",
+  "editing_pacing": "The video is a static image with a superimposed cutout figure. There is no camera movement or editing.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A cutout of actor Tim Robinson from a TV show is superimposed over a photograph of the White House to create a meme.",
+  "emotions_signaled": [
+    "mockery",
+    "criticism"
+  ],
+  "cultural_references": [
+    "The video uses a clip of actor Tim Robinson from his Netflix sketch comedy series 'I Think You Should Leave with Tim Robinson'."
+  ],
+  "central_claim": "Donald Trump viewed the presidency as an opportunity to enrich himself.",
+  "intended_effect": "To persuade the viewer that Donald Trump is corrupt and motivated by greed, using mockery to make the point.",
+  "uncertainty_flags": []
+}

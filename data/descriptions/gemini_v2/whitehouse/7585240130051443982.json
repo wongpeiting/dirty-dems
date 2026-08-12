@@ -1,0 +1,49 @@
+{
+  "video_id": "7585240130051443982",
+  "visual_action": "A person's hand with red painted nails hangs an ornate red, green, and gold ornament on a brightly lit Christmas tree. The video then cuts to a black and white graphic with the words 'THE WHITE HOUSE' over an image of the building's portico, followed by a shot of a helicopter landing, and a final shot of the White House exterior.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The official account name is @whitehouse and the video concludes with a logo card reading 'THE WHITE HOUSE' over images of the building."
+    },
+    {
+      "name": "Chuck Schumer",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His account is tagged in the caption as '@Chuck Sch...'. The full name is cut off but strongly implies Chuck Schumer."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only instrumental music.",
+  "emojis_present": [
+    "🎄"
+  ],
+  "audio_music": "A grand, orchestral, and festive instrumental track plays throughout the video, creating a warm and traditional holiday atmosphere.",
+  "editing_pacing": "The video is slow-paced, featuring a single close-up shot followed by a fade to a static logo card sequence with black and white images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Festive spirit",
+    "Tradition",
+    "Nostalgia"
+  ],
+  "cultural_references": [
+    "Christmas holiday traditions (decorating a tree, ornaments)"
+  ],
+  "central_claim": "The White House is celebrating the Christmas holiday with traditional decorations.",
+  "intended_effect": "To share a warm holiday greeting and associate the White House with the Christmas season and its traditions.",
+  "uncertainty_flags": [
+    "The reason for tagging '@Chuck Sch...' in the caption in relation to the ornament is not explained in the video."
+  ]
+}

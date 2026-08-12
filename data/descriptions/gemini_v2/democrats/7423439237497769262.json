@@ -1,0 +1,105 @@
+{
+  "video_id": "7423439237497769262",
+  "visual_action": "A slideshow of official-style portraits of various Republican politicians. The same text box is overlaid on each photo. The video concludes with a shot of lightning in a stormy sky, with a new text overlay.",
+  "cast": [
+    {
+      "name": "Lauren Boebert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a still photograph, identified by authoritative face-ID."
+    },
+    {
+      "name": "Andy Biggs",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a still photograph, identified by authoritative face-ID."
+    },
+    {
+      "name": "Jim Jordan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a still photograph, identified by authoritative face-ID."
+    },
+    {
+      "name": "Marsha Blackburn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a still photograph, identified by authoritative face-ID."
+    },
+    {
+      "name": "Paul Gosar",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a still photograph, identified by authoritative face-ID."
+    },
+    {
+      "name": "Tommy Tuberville",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a still photograph, identified by authoritative face-ID."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'These are Republicans...'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text reads 'Democratic Lawmakers...'"
+    },
+    {
+      "name": "FEMA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text reads '...voted against FEMA funding...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "These are Republicans who voted against FEMA funding right before Hurricane Helene hit",
+      "role": "overlay"
+    },
+    {
+      "text": "Democratic Lawmakers that voted against FEMA funding before Hurricane",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only a musical track plays.",
+  "emojis_present": [],
+  "audio_music": "A dark, ominous, and pulsing electronic instrumental track ('Aleph' by Gesaffelstein) plays throughout the video, creating a serious and accusatory tone.",
+  "editing_pacing": "A slideshow of still photos with simple cuts between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "disapproval",
+    "accusation"
+  ],
+  "cultural_references": [],
+  "central_claim": "A list of Republican politicians irresponsibly voted against FEMA funding just before Hurricane Helene, while no Democratic lawmakers did the same.",
+  "intended_effect": "To make the viewer feel anger towards the featured Republican politicians and view them and their party as hypocritical or uncaring, while seeing Democrats as responsible.",
+  "uncertainty_flags": [
+    "The authoritative face-ID list may not include all politicians shown in the video's slideshow."
+  ]
+}

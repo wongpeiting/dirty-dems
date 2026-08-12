@@ -1,0 +1,97 @@
+{
+  "video_id": "7512583982710590766",
+  "visual_action": "A slideshow of three screenshots of tweets from Elon Musk critical of Donald Trump. A red banner at the top of the first screenshot frames the tweets as a 'breakup'.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "His name and Twitter handle (@elonmusk) are visible as the author of the tweets shown on screen."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned by name ('Trump', 'DJT') and his Twitter handle ('@realDonaldTrump') in the on-screen tweets and the top banner."
+    },
+    {
+      "name": "Shibetoshi Nakamoto",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Their name and Twitter handle (@BillyM2k) are shown in a tweet replying to Elon Musk."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as 'Dems' in one of Elon Musk's tweets: 'Dems would control the House'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as 'the Republicans' in one of Elon Musk's tweets: 'the Republicans would be 51-49 in the Senate'."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in an on-screen tweet: '@realDonaldTrump is in the Epstein files.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Checking in from the Trump/Elon breakup 🤫",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk @elonmusk\nThe Trump tariffs will cause a recession in the second half of this year",
+      "role": "other"
+    },
+    {
+      "text": "Shibetoshi Nakamoto @BillyM2k\ncan i finally say that trump's tariffs are super stupid",
+      "role": "other"
+    },
+    {
+      "text": "Elon Musk @elonmusk\nTime to drop the really big bomb:\n@realDonaldTrump is in the Epstein files. That is the real reason they have not been made public.\nHave a nice day, DJT!",
+      "role": "other"
+    },
+    {
+      "text": "Elon Musk @elonmusk\nWithout me, Trump would have lost the election, Dems would control the House and the Republicans would be 51-49 in the Senate.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [
+    "🤫"
+  ],
+  "audio_music": "A dramatic, classical orchestral piece (Tchaikovsky's Overture 1812) plays throughout the video, creating a sense of epic conflict and importance.",
+  "editing_pacing": "A simple slideshow of three static screenshots, with one transitioning to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Drama",
+    "Intrigue",
+    "Mockery",
+    "Schadenfreude"
+  ],
+  "cultural_references": [
+    "Shibetoshi Nakamoto",
+    "Jeffrey Epstein files"
+  ],
+  "central_claim": "Elon Musk has turned against Donald Trump, publicly criticizing his policies, implicating him in the Epstein scandal, and taking credit for his past political successes.",
+  "intended_effect": "To highlight a public feud between Elon Musk and Donald Trump, aiming to diminish Trump's standing and amuse his political opponents.",
+  "uncertainty_flags": []
+}

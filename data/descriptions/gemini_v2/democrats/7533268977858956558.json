@@ -1,0 +1,67 @@
+{
+  "video_id": "7533268977858956558",
+  "visual_action": "The video shows Robert F. Kennedy Jr. speaking at a desk while Donald Trump sits next to him, with his head bowed and eyes closed. They are seated in front of a backdrop of American flags. A news-style chyron and ticker run along the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown sitting at a table with his eyes closed. The on-screen text 'is he asleep??' and the caption emoji refer to him."
+    },
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Robert F. Kennedy Jr. is shown speaking at the table. A nameplate in front of him reads 'Robert F. Kennedy Jr.'."
+    },
+    {
+      "name": "Right Side Broadcasting Network",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'RSBN' appears on the fake news chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "is he asleep??",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE WASHINGTON, D.C.",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP DEFENDS CUTS TO DEI RESEARCH",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SIGNS EXECUTIVE ORDER TARGETING HOMELESSNESS, CITING CRIME AND DRUG ADDICTION",
+      "role": "chyron"
+    },
+    {
+      "text": "Robert F. Kennedy Jr.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Robert F. Kennedy Jr. speaks about healthcare, arguing for the importance of transparency and patient control over their own health records. He says, \"the single thing that he did that was most important to that transformation was the transparency that occurs when people control their own health records.\" He gives examples of how this data, such as steps taken or glucose levels, can empower people to make better health decisions.",
+  "emojis_present": [
+    "😴"
+  ],
+  "audio_music": "The only audio is Robert F. Kennedy Jr.'s uninterrupted speech, with ambient room tone typical of a recorded public event.",
+  "editing_pacing": "The video is a single, static shot with no edits.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is a digital composite that fabricates a joint event with Donald Trump and Robert F. Kennedy Jr. Footage of Kennedy speaking is placed next to separate footage of Trump appearing to be asleep. A fake news chyron, including the logo for the pro-Trump outlet RSBN, is added to create the false impression of a live news broadcast of this fictional event.",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is so old and tired that he fell asleep during a public event.",
+  "intended_effect": "To mock Donald Trump and portray him as physically unfit for office.",
+  "uncertainty_flags": []
+}

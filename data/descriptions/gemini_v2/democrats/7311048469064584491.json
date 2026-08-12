@@ -1,0 +1,74 @@
+{
+  "video_id": "7311048469064584491",
+  "visual_action": "The video shows Nikki Haley speaking at a Republican primary debate podium, with Ron DeSantis standing nearby. It then cuts to a close-up reaction shot of a man's face, digitally distorted to look like he is crying with large, bulging eyes, while covering his mouth with his hand.",
+  "cast": [
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is shown speaking at a debate and is the subject of the on-screen text: 'Nikki Haley is a MAGA extremist...'"
+    },
+    {
+      "name": "Ron DeSantis",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "He is shown on stage and is mentioned in the on-screen caption referencing his '[Ron DeSantis'] Don't Say Gay Bill'."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text describes Nikki Haley as a 'MAGA extremist'."
+    },
+    {
+      "name": "LGBTQ+ community",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text claims Nikki Haley 'will attack the LGBTQ+ community'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Nikki Haley is a MAGA extremist that will attack the LGBTQ+ community:",
+      "role": "overlay"
+    },
+    {
+      "text": "I actually said [Ron DeSantis'] Don't Say Gay Bill didn't go far enough.",
+      "role": "caption"
+    },
+    {
+      "text": "NEWSNATION",
+      "role": "chyron"
+    },
+    {
+      "text": "REPUBLICAN PRIMARY DEBATE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Nikki Haley says, \"I actually said his Don't Say Gay Bill didn't go far enough.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of Nikki Haley's dialogue from the debate, with no accompanying music or sound effects.",
+  "editing_pacing": "The video plays a single, continuous clip from a political debate before making a hard cut to a meme-style reaction shot.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The reaction clip features a man's face that has been digitally distorted using a bulge or fisheye filter, exaggerating the size of his eyes and face to create a look of extreme shock or sadness.",
+  "emotions_signaled": [
+    "alarm",
+    "shock",
+    "mockery",
+    "condemnation"
+  ],
+  "cultural_references": [
+    "The video uses the 'Crying/Sad Face with Hand Over Mouth' internet meme, which often features a distorted image of TV personality TS Madison, to serve as a reaction shot."
+  ],
+  "central_claim": "Nikki Haley is an anti-LGBTQ+ extremist because she stated that Ron DeSantis's 'Don't Say Gay' bill did not go far enough.",
+  "intended_effect": "To portray Nikki Haley as a dangerous extremist and generate opposition to her.",
+  "uncertainty_flags": []
+}

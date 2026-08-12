@@ -1,0 +1,99 @@
+{
+  "video_id": "7626869675481156878",
+  "visual_action": "The video presents a news-style report about a violent crime. It features a mugshot of a Black man, grainy black-and-white security footage of an assault in a parking lot, a photo of the same man being arrested by police officers, and a screenshot of a headline attributed to Homeland Security. The video concludes with the text \"THIS IS OUR WHY\" followed by a black-and-white montage of the White House and a helicopter, ending on a credit slate.",
+  "cast": [
+    {
+      "name": "Dwoshen",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The audio states, \"DHS says Dwoshen is here illegally.\" His face is shown in a mugshot and an arrest photo."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is described in the audio as the victim of the murder and is referred to as an \"Innocent Mother\" in the on-screen text. Grainy security footage purports to show the attack."
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The organization's name and seal appear on a document screenshot shown in the video, and the audio says, \"DHS says Dwoshen is here illegally.\""
+    },
+    {
+      "name": "Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The audio states, \"ICE has put a detainer on the man...\""
+    },
+    {
+      "name": "unnamed federal judge",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The narrator says, \"...a federal judge issued him order for removal.\""
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the @whitehouse account and ends with a credit slate that reads \"THE WHITE HOUSE\"."
+    },
+    {
+      "name": "Republican National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A logo for \"RNC RESEARCH\" appears on the final credit slate, implying the organization's involvement in creating the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AN ILLEGAL MIGRANT ALLEGEDLY MURDERED A WOMAN WITH A HAMMER IN BROAD DAYLIGHT OUTSIDE OF FLORIDA GAS STATION",
+      "role": "overlay"
+    },
+    {
+      "text": "Homeland Security\nHaitian Illegal Alien Violently Kills Innocent Mother by Repeatedly Hitting Her with a Hammer Outside Gas Station in Fort Myers",
+      "role": "chyron"
+    },
+    {
+      "text": "THIS IS OUR WHY",
+      "role": "overlay"
+    },
+    {
+      "text": "RNC RESEARCH\nTHE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A female narrator reports that an undocumented immigrant from Haiti, identified as Dwoshen, allegedly murdered a woman with a hammer outside a Florida gas station. The narrator claims that despite a federal judge ordering his removal in 2022, he was allowed to remain in the U.S. under a temporary protected status that expired in 2024. The report concludes by stating that ICE has placed a detainer on him and that he will be deported regardless of the outcome of the criminal case.",
+  "emojis_present": [
+    "☝️"
+  ],
+  "audio_music": "A somber and dramatic piano-based instrumental track plays throughout the video, creating a serious and alarming tone consistent with a true-crime report.",
+  "editing_pacing": "The video uses fast cuts, combining still images (a mugshot, a document screenshot), photos of the suspect in custody, and grainy security camera footage. Text overlays highlight key phrases from the narration.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Anger",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "The existing U.S. immigration system, particularly Temporary Protected Status, is dangerously flawed, as it allowed a violent criminal to remain in the country and murder an innocent woman.",
+  "intended_effect": "To shock the viewer with a brutal crime and convince them that current immigration policies are a threat to public safety, thereby justifying stricter enforcement.",
+  "uncertainty_flags": [
+    "The name of the suspect is stated as 'Dwoshen' in the audio but appears as 'JOACHIN' in the on-screen captions, suggesting a possible name discrepancy or that Joachim is his last name."
+  ]
+}

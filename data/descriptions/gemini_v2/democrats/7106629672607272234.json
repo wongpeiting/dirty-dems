@@ -1,0 +1,71 @@
+{
+  "video_id": "7106629672607272234",
+  "visual_action": "Actor Matthew McConaughey stands at a podium in what appears to be the White House press briefing room, speaking emotionally. At one point, he covers his mouth with his hand. The video then cuts to his wife, Camila Alves McConaughey, in the audience holding up a pair of green high-top sneakers. McConaughey gestures towards her and the shoes as he continues to speak.",
+  "cast": [
+    {
+      "name": "Matthew McConaughey",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker for the entire video, is identified by the on-screen text, and is the central figure shown."
+    },
+    {
+      "name": "Maite Rodriguez",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speech is entirely about her story as a victim of the Uvalde shooting. McConaughey says, '...nine year old Maite Rodriguez'."
+    },
+    {
+      "name": "Camila Alves McConaughey",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown holding the green sneakers after McConaughey says her name, 'Camila's got these shoes'."
+    },
+    {
+      "name": "Ana and Danilo",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "McConaughey mentions them at the beginning of his speech as Maite's parents: 'Ana and Danilo, the mom and the stepdad'."
+    },
+    {
+      "name": "Corpus Christi University of A&M",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "McConaughey mentions that Maite was already in contact with the university about her future."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Matthew McConaughey Honors Memory of Uvalde Student",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Speaking at the White House, an emotional Matthew McConaughey tells the story of Maite Rodriguez, a 9-year-old victim of the Uvalde shooting. He details her dream of becoming a marine biologist and her love for nature. He highlights her green high-top Converse sneakers, on which she had drawn a heart, and has his wife Camila show the actual shoes. McConaughey explains that these sneakers were the 'only clear evidence that could identify her after the shooting.'",
+  "emojis_present": [],
+  "audio_music": "A somber, continuous instrumental track with piano and strings plays quietly under the entire speech, enhancing the sad and emotional tone.",
+  "editing_pacing": "The video primarily uses a static talking-head shot of the speaker, with one slow cutaway to a woman in the audience holding up a pair of shoes. The pacing is slow and deliberate to match the serious tone.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "grief",
+    "empathy"
+  ],
+  "cultural_references": [
+    "Converse"
+  ],
+  "central_claim": "The horrific human cost of the Uvalde shooting is conveyed through the personal story of one victim, Maite Rodriguez, and the green Converse sneakers that were the only way to identify her remains.",
+  "intended_effect": "To evoke sadness and empathy for victims of gun violence in order to build support for legislative action.",
+  "uncertainty_flags": [
+    "The schema's distinction between `cast` and `cultural_references` is ambiguous for a non-political celebrity acting in a primary, political-advocacy role. Matthew McConaughey and his wife were placed in `cast` because they are the main actors delivering the message in a political forum, rather than being a 'borrowed' pop-culture reference."
+  ]
+}

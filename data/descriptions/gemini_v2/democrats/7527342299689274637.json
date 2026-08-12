@@ -1,0 +1,96 @@
+{
+  "video_id": "7527342299689274637",
+  "visual_action": "The video is a split-screen presentation. The first part, labeled \"Before the election:\", shows two clips simultaneously. The top clip features Donald Trump speaking at a podcast-style event with an American flag behind him. The bottom clip shows Steven Crowder speaking in a similar podcast studio setting. Both clips have yellow captions with their dialogue. The video then cuts to a second screen labeled \"2025:\". This screen displays a screenshot of a tweet from an account named \"FactPost\". The tweet claims that House Republicans voted to block the release of the Epstein files. Below the tweet text are two side-by-side photos: one of Donald Trump with Jeffrey Epstein, and another of Rep. Virginia Foxx in what appears to be a congressional hearing.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in the first half of the video and appears in a photograph with Jeffrey Epstein in the second half."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A tweet shown on screen claims, \"House Republicans have voted to block Democratic efforts to release the Epstein files.\""
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned by name in both the audio dialogue (\"Epstein thing\", \"Epstein list\") and the on-screen text (\"Epstein files\"), and is shown in a photo with Donald Trump."
+    },
+    {
+      "name": "Steven Crowder",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears in the first half of the video speaking in a podcast studio setting, identified by his well-known appearance as a political commentator."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet mentions \"Democratic efforts to release the Epstein files.\""
+    },
+    {
+      "name": "Virginia Foxx",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photograph of her is used in the tweet screenshot, visually representing the \"House Republicans\" mentioned in the text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Before the election:",
+      "role": "overlay"
+    },
+    {
+      "text": "A lot of people went to that island. I'd be inclined to do the Epstein thing.",
+      "role": "caption"
+    },
+    {
+      "text": "We need to release the Epstein list. That is an important thing.",
+      "role": "caption"
+    },
+    {
+      "text": "2025:",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @Factpostnews",
+      "role": "other"
+    },
+    {
+      "text": "House Republicans have voted to block Democratic efforts to release the Epstein files.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of two short clips. First, Donald Trump says, \"A lot of people went to that island. I'd be inclined to do the Epstein thing.\" Then, Steven Crowder says, \"We need to release the Epstein list. That is an important thing.\"",
+  "emojis_present": [],
+  "audio_music": "A slow, ominous, and spooky piano track plays throughout the entire video, creating a serious and suspicious tone.",
+  "editing_pacing": "The video uses a static, slideshow-style of editing, cutting from one composite image (two video clips) to another (a screenshot of a tweet).",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video's central claim rests on a screenshot of a tweet from 'FactPost', a non-verifiable account designed to look like a news source. This screenshot functions as a staged fake document to provide 'evidence' for the video's narrative.",
+  "emotions_signaled": [
+    "Suspicion",
+    "Distrust",
+    "Outrage",
+    "Betrayal"
+  ],
+  "cultural_references": [],
+  "central_claim": "Before the 2024 election, Donald Trump and his supporters advocated for releasing the Epstein files, but in 2025, House Republicans acted to block their release, showing hypocrisy.",
+  "intended_effect": "To make the viewer believe that Republicans and Donald Trump are hypocritical and are covering up for those involved with Jeffrey Epstein, thereby generating distrust and anger towards them.",
+  "uncertainty_flags": []
+}

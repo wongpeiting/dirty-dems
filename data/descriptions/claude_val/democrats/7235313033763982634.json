@@ -1,0 +1,50 @@
+{
+  "video_id": "7235313033763982634",
+  "visual_action": "The entire video is a single continuous talking-head shot of Vice President Kamala Harris speaking at a podium with multiple microphones. She is dressed in a black jacket and wears small stud earrings. Behind her is a large backdrop displaying the \"EMILY's List\" logo in orange and black lettering. A small American flag pin is visible on her lapel. She speaks directly and animatedly throughout. No cuts or camera changes occur — the framing is a medium close-up that slowly tightens slightly over time.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Confirmed by face-ID; identified as Vice President Harris in on-screen overlay text; speaking at the EMILY's List podium"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Vice President Harris with the facts 💯",
+      "role": "overlay"
+    },
+    {
+      "text": "Many women don't even know",
+      "role": "caption"
+    },
+    {
+      "text": "they're pregnant at six weeks.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Harris is speaking about abortion restrictions, specifically six-week abortion bans. The OCR transcript captures her saying: \"Many women don't even know they're pregnant at six weeks.\" The extended OCR also suggests she continues by noting that \"most of these men don't even understand how\" (the biology works), implying that male legislators supporting six-week bans lack basic knowledge of pregnancy.",
+  "emojis_present": [
+    "💯"
+  ],
+  "audio_music": "Speech audio throughout — Kamala Harris speaking at what appears to be an EMILY's List event. No music or background score detected. No commercial track matched by ACRCloud. The audio is labeled as original sound.",
+  "editing_pacing": "Static, single-shot talking-head with minimal editing. The camera holds on Harris for the duration with only subtle framing shifts. No cuts, no B-roll, no speed changes. Captions appear as rolling subtitle-style overlays at the bottom of the frame.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency — Harris speaks with intensity about women not knowing they're pregnant at six weeks",
+    "validation/affirmation — the overlay 'with the facts 💯' frames her statement as factually authoritative",
+    "indignation — implied critique of male legislators who 'don't even understand how' pregnancy works"
+  ],
+  "cultural_references": [
+    "EMILY's List — the prominent Democratic women's political organization whose event serves as the backdrop/setting"
+  ],
+  "central_claim": "Vice President Harris argues that six-week abortion bans are out of touch with biological reality because many women do not yet know they are pregnant at six weeks, and that the (male) legislators behind such bans lack basic understanding of reproductive biology.",
+  "intended_effect": "To generate agreement and indignation in the viewer by presenting Harris's statement as a factual rebuttal to six-week abortion bans, particularly among pro-choice and women voters.",
+  "uncertainty_flags": [
+    "Full verbatim transcript not provided — the second portion of Harris's speech ('tells us most of these men don't even understand how') is from OCR only and may be partially garbled or incomplete",
+    "Exact date of the EMILY's List event is not specified in the provided context"
+  ]
+}

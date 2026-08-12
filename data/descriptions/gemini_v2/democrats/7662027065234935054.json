@@ -1,0 +1,161 @@
+{
+  "video_id": "7662027065234935054",
+  "visual_action": "A fast-paced montage of various American politicians. The video begins with clips of Donald Trump, JD Vance, and Mike Johnson. It then shows a clip of Barack Obama and Joe Biden jogging together. The montage continues with quick shots of Jon Ossoff, Alexandria Ocasio-Cortez, Raphael Warnock, Andy Beshear, Zohran Mamdani, and concludes with Gavin Newsom and Kamala Harris waving together.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video opens by showing several prominent Republicans (Trump, Vance, Johnson) under the overlay text \"just defund healthcare and ruin everyone's life\", framing this as the party's position."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "After portraying Republicans negatively, the video shows a montage of numerous prominent Democrats, presenting them in a positive, energetic light to upbeat music."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the first politician shown, speaking at a podium, with the accusatory text \"just defund healthcare and ruin everyone's life\" overlaid."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown jogging happily alongside Barack Obama in a clip that contrasts with the portrayal of the Republican politicians."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown jogging happily alongside Joe Biden, serving as a positive contrast to the Republican figures shown earlier."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the opening montage of Republicans with the text \"just defund healthcare and ruin everyone's life\" overlaid."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the opening montage of Republicans with the text \"just defund healthcare and ruin everyone's life\" overlaid."
+    },
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly in the montage of Democratic politicians."
+    },
+    {
+      "name": "Alexandria Ocasio Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly in the montage of Democratic politicians, smiling and waving."
+    },
+    {
+      "name": "Raphael Warnock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the montage of Democrats speaking at a podium that reads 'Warnock U.S. SENATE'."
+    },
+    {
+      "name": "Andy Beshear",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly in the montage of Democratic politicians, laughing."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly in the montage of Democratic politicians, speaking into a microphone."
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears at the end of the video waving alongside Kamala Harris."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears at the end of the video waving alongside Gavin Newsom."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "just defund healthcare and ruin everyone's life",
+      "role": "overlay"
+    },
+    {
+      "text": "LALALALALa",
+      "role": "overlay"
+    },
+    {
+      "text": "NO TAX ON SOCIAL SECURITY",
+      "role": "other"
+    },
+    {
+      "text": "THE VILLAGES FLORIDA",
+      "role": "other"
+    },
+    {
+      "text": "JD VANCE",
+      "role": "other"
+    },
+    {
+      "text": "Warnock U.S. SENATE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of a song with lyrics in French and Spanish.",
+  "emojis_present": [],
+  "audio_music": "The video features the upbeat, high-energy Latin pop song 'Mi Gente' by J. Balvin and Willy William throughout. The song creates a dynamic and modern feel for the political montage, used ironically over the clips of Republicans and more genuinely to create a positive, celebratory vibe for the clips of Democrats.",
+  "editing_pacing": "The video is a fast-paced montage with very quick cuts between clips of different politicians.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "alarm",
+    "positive energy"
+  ],
+  "cultural_references": [
+    "Mi Gente (song by J. Balvin and Willy William)"
+  ],
+  "central_claim": "Republicans want to destroy Americans' healthcare, while the Democratic party is energetic and positive.",
+  "intended_effect": "To generate alarm and contempt for Republican politicians and their policies, while fostering positive and energetic feelings towards Democratic politicians.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,16 @@
+# The analysis notebooks are written in pandas (they read cached CSV/JSONL — no API calls).
+# These packages BUILD/EXECUTE the notebooks and, optionally, re-run the LLM pass.
+
+# analysis
+pandas
+numpy
+
+# build + execute notebooks
+nbformat
+nbconvert
+jupyter
+
+# only to RE-RUN trump_usage_llm.py (needs your own GEMINI_API_KEY; otherwise the cache is used)
+google-genai
+pydantic
+python-dotenv

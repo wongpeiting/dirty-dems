@@ -1,0 +1,74 @@
+{
+  "video_id": "7601169342121774350",
+  "visual_action": "A clip from a C-SPAN broadcast shows Donald Trump speaking while seated at a large wooden table during a cabinet meeting. He is wearing a dark suit and a red tie, with American flags visible in the background. A news chyron is present at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, identified by face, voice, and on-screen text."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID; a man in a suit is partially visible next to Trump."
+    },
+    {
+      "name": "Scott",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump begins his remarks by saying, 'One of the things Scott said, though, is...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: I don't want to drive housing prices down. I want to drive housing prices up.",
+      "role": "overlay"
+    },
+    {
+      "text": "THINGS SCOTT SAID THOUGH IS... WE'RE GONNA KEEP THEM WEALTHY... THOSE PRICES UP... WE'RE NOT GONNA DESTROY THE VALUE OF THEIR HOMES... SO THAT SOMEBODY THAT DIDN'T WORK VERY HARD CAN BUY A HOME... FEEL GOOD ABOUT THEMSELVES... THEY FEEL LIKE... THEY'RE WEALTHY PEOPLE... I DON'T WANNA DRIVE HOUSING PRICES DOWN. I WANT TO DRIVE HOUSING PRICES UP FOR PEOPLE THAT OWN THEIR HOMES.",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP HOLDS CABINET MEETING",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE CABINET ROOM",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. SENATE FAILS TO ADVANCE FUNDING BILL TO AVERT PARTIAL GOV'T SHUTDOWN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump states that his administration will work to keep housing prices high to protect the wealth of existing homeowners. He explicitly says, \"I don't want to drive housing prices down. I want to drive housing prices up for people that own their homes.\" He adds that he won't \"destroy the value of their homes so that somebody that didn't work very hard can buy a home,\" and that he wants homeowners to \"feel like they're wealthy people.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Donald Trump's spoken words, with no music or sound effects. The audio quality is that of a broadcast news clip.",
+  "editing_pacing": "The video is a single, static, unedited shot of Donald Trump speaking, characteristic of a talking-head news clip. Yellow text transcribing his speech appears dynamically on screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "outrage",
+    "disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump explicitly states that his policy is to increase housing prices to protect the wealth of current homeowners.",
+  "intended_effect": "To portray Trump as favoring the wealthy over those trying to buy homes, thereby generating anger and opposition towards him.",
+  "uncertainty_flags": [
+    "The identity of 'Scott', mentioned by Trump, is not specified.",
+    "The visual identification of Pete Hegseth is based solely on the provided authoritative face-ID, as the person is not clearly visible."
+  ]
+}

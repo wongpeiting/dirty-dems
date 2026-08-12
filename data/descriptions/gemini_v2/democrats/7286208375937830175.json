@@ -1,0 +1,84 @@
+{
+  "video_id": "7286208375937830175",
+  "visual_action": "A slideshow alternates between the cover of the book 'Young Guns,' which features Paul Ryan, Eric Cantor, and Kevin McCarthy, and individual portraits of each man. Text detailing their political careers is overlaid on their respective portraits.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is pictured on the 'Young Guns' book cover and in a solo portrait. On-screen text states: 'It took McCarthy 15 votes to become speaker, only to be ousted 269 days later.'"
+    },
+    {
+      "name": "Paul Ryan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is pictured on the 'Young Guns' book cover and in a solo portrait. On-screen text states: 'Ryan tried to repeal the Affordable Care Act and failed. He announced his retirement in 2018, and Republicans lost 41 seats that year.'"
+    },
+    {
+      "name": "Eric Cantor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is pictured on the 'Young Guns' book cover and in a solo portrait. On-screen text states: 'Cantor lost his bid for reelection in a primary, and resigned as House majority leader.'"
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text mentions that 'Republicans lost 41 seats' in 2018."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Paul Ryan, Eric Cantor, and Kevin McCarthy",
+      "role": "other"
+    },
+    {
+      "text": "YOUNG GUNS",
+      "role": "other"
+    },
+    {
+      "text": "A New Generation of Conservative Leaders",
+      "role": "other"
+    },
+    {
+      "text": "It took McCarthy 15 votes to become speaker, only to be ousted 269 days later.",
+      "role": "overlay"
+    },
+    {
+      "text": "Ryan tried to repeal the Affordable Care Act and failed. He announced his retirement in 2018, and Republicans lost 41 seats that year.",
+      "role": "overlay"
+    },
+    {
+      "text": "Cantor lost his bid for reelection in a primary, and resigned as House majority leader.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio contains no speech or narration, only song lyrics. The lyrics sung are \"I got guns in my head and they won't go\" and \"Spirits in my head and they won't go.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, melancholic-sounding indie-folk track plays throughout. The lyrics, including 'I got guns in my head,' create a somber tone and serve as an ironic pun on the 'Young Guns' book title, underscoring the political failures described on screen.",
+  "editing_pacing": "A slow-paced slideshow that cuts between a book cover and individual portraits, each with a text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "Spirits by The Strumbellas",
+    "Pop Star by Future Inverse"
+  ],
+  "central_claim": "The 'Young Guns' generation of Republican leaders, comprised of Paul Ryan, Eric Cantor, and Kevin McCarthy, all ultimately ended their careers in political failure.",
+  "intended_effect": "To frame these prominent Republican figures as failures and undermine the premise of their 'Young Guns' branding.",
+  "uncertainty_flags": [
+    "The authoritative music ID identifies two separate tracks, but the audio sounds like one continuous song, 'Spirits' by The Strumbellas, which contains all the audible lyrics."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "7616016811015818510",
+  "visual_action": "The video displays a screenshot of a tweet from an account named \"FactPost\". The tweet text makes a claim about federal agents wearing a patch. Below the text are two images: a close-up of a patch featuring a grim reaper, an alligator skeleton, and the words \"ALLIGATOR ALCATRAZ\" and \"YOU CAN'T HIDE\", and a photo of Donald Trump in a suit and red hat standing outside a chain-link fence enclosure with bunk beds inside. The video then shows full-screen versions of the patch photo and the Trump photo in sequence.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photograph of Donald Trump is shown in the video."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is a screenshot of a tweet from the account \"FactPost\" with the handle \"@factpostnews\"."
+    },
+    {
+      "name": "federal agents",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text of the tweet states: \"Unearthed photo reveals federal agents inside Alligator Alcatraz are wearing a patch...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Unearthed photo reveals federal agents inside Alligator Alcatraz are wearing a patch depicting the grim reaper and the phrase \"YOU CAN'T HIDE\"",
+      "role": "overlay"
+    },
+    {
+      "text": "ALLIGATOR ALCATRAZ",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU CAN'T HIDE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "",
+  "emojis_present": [],
+  "audio_music": "A dramatic and intense electronic instrumental track plays throughout the video, creating a foreboding and serious tone.",
+  "editing_pacing": "The video is a slow-paced slideshow, showing a static screenshot of a tweet before zooming in on the two photos within it.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated tweet from a satirical account named \"FactPost\". This staged tweet falsely connects a real photo of a novelty patch with a real photo of Donald Trump at a detention facility to create a misleading narrative.",
+  "emotions_signaled": [
+    "fear",
+    "outrage",
+    "alarm",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Grim Reaper",
+    "Alcatraz"
+  ],
+  "central_claim": "The post falsely claims that federal agents at detention facilities under Donald Trump wore intimidating patches featuring the Grim Reaper, implying his administration's policies were inhumane and threatening.",
+  "intended_effect": "To generate fear and anger towards Donald Trump by associating him and his administration with threatening, death-related imagery in the context of detention facilities.",
+  "uncertainty_flags": []
+}

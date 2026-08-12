@@ -1,0 +1,75 @@
+{
+  "video_id": "7610642941823995150",
+  "visual_action": "The video shows Donald Trump delivering a speech in a formal chamber, likely the U.S. House of Representatives. As he makes a statement, the camera cuts between him at the podium, a wide shot of the audience where many are standing and applauding, and close-ups of specific Democratic politicians who remain seated. The politicians shown sitting include Mark Kelly, Ilhan Omar, and Rashida Tlaib, with Omar and Tlaib appearing to shout from their seats. The video also shows other members of the audience, including one man identified as J.D. Vance, clapping.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker in the video, shown at a podium delivering the speech that is the subject of the post."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text and caption frame the video as being about Democrats' reaction. The caption reads 'Democrats put Americans LAST.' and the overlay says 'Democrats refuse to stand...'"
+    },
+    {
+      "name": "Ilhan Omar",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown in a close-up, sitting and appearing to shout in response to Trump's speech."
+    },
+    {
+      "name": "Mark Kelly",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in a close-up, sitting and not applauding."
+    },
+    {
+      "name": "Rashida Tlaib",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown in a close-up, sitting and appearing to shout during the speech."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in the audience applauding Trump's statement."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats refuse to stand when President Trump said that the duty of the American government is to protect American citizens, not illegal aliens.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"The first duty of the American government is to protect American citizens, not illegal aliens.\" After a wave of applause, he addresses those who did not stand, saying, \"You should be ashamed of yourself not standing up.\" He continues by talking about \"criminal aliens,\" \"drug lords,\" and \"murderers,\" and accuses the seated politicians of blocking their removal from the country, repeating, \"you should be ashamed of yourself.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Donald Trump's speech and the diegetic sound of the audience, including loud, sustained applause and some audible shouting from audience members.",
+  "editing_pacing": "The video uses cuts to contrast actions and reactions. It alternates between shots of Donald Trump speaking, wide shots of the cheering audience, and pointed close-ups of specific Democratic politicians who remain seated, serving as reaction shots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Contempt",
+    "Anger",
+    "Patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democrats do not believe the American government's primary duty is to protect its citizens, as shown by their refusal to stand for this principle, indicating they prioritize undocumented immigrants over Americans.",
+  "intended_effect": "To provoke anger and disdain for the Democratic Party by portraying them as unpatriotic and opposed to the safety of American citizens.",
+  "uncertainty_flags": []
+}

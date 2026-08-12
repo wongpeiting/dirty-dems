@@ -1,0 +1,123 @@
+{
+  "video_id": "7621245778849205518",
+  "visual_action": "A woman with short brown hair, wearing a white shirt and a grey vest, is being interviewed by an off-screen reporter in a crowded airport terminal. A news chyron from 'FOX NEWS' is visible at the bottom of the screen. The woman's expression shifts from serious to smiling, and then back to serious as she speaks.",
+  "cast": [
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the subject of the interview and delivers the main line of criticism."
+    },
+    {
+      "name": "Chuck Schumer",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The woman says, 'I think Chuck Schumer should be ashamed of himself.' The on-screen text also says 'SCHUMER SHOULD BE'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks the woman questions like, 'What has it been like?'"
+    },
+    {
+      "name": "United States Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The reporter asks, 'What do you want Congress to know?'"
+    },
+    {
+      "name": "Transportation Security Administration (TSA)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The reporter mentions the need to 'have TSA agents come back to work'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The chyron at the bottom of the screen says 'FOX NEWS ALERT'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "We have an 11:00am flight",
+      "role": "overlay"
+    },
+    {
+      "text": "what has it been like",
+      "role": "overlay"
+    },
+    {
+      "text": "terrible",
+      "role": "overlay"
+    },
+    {
+      "text": "what do you want Congress to",
+      "role": "overlay"
+    },
+    {
+      "text": "who have the ability to shut",
+      "role": "overlay"
+    },
+    {
+      "text": "this down and reopen",
+      "role": "overlay"
+    },
+    {
+      "text": "and have TSA agents come back",
+      "role": "overlay"
+    },
+    {
+      "text": "to work",
+      "role": "overlay"
+    },
+    {
+      "text": "I think Chuck Schumer should be",
+      "role": "overlay"
+    },
+    {
+      "text": "ashamed of himself",
+      "role": "overlay"
+    },
+    {
+      "text": "[...]ERRIBLE, SCHUMER SHOULD BE A[...]",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "In an interview at an airport, an unseen reporter asks a woman about her experience, which she describes as 'terrible.' When asked what she wants Congress to know about shutting down whatever is causing the disruption, the woman replies, 'I think Chuck Schumer should be ashamed of himself.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists of dialogue from an interview layered over the ambient sounds of a busy airport. There is no music.",
+  "editing_pacing": "The video is a single, continuous shot of a news-style interview with no cuts or special effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "frustration",
+    "anger",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The video is presented in the format of a Fox News broadcast segment."
+  ],
+  "central_claim": "Chuck Schumer is responsible for a government-related disruption that is causing 'terrible' conditions for air travelers.",
+  "intended_effect": "To direct viewers' anger towards Chuck Schumer for travel disruptions.",
+  "uncertainty_flags": [
+    "The full text on the main news chyron is partially cut off at the beginning and end."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "video_id": "7432795463289703726",
+  "visual_action": "A black and white, static talking-head video featuring actor Harrison Ford. He sits against a dark background, speaking directly to the camera and occasionally looking to the side. There are occasional cuts between a frontal view and a three-quarter profile shot. A campaign logo appears at the end.",
+  "cast": [
+    {
+      "name": "Harrison Ford",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on screen speaking for the entire video. The on-screen text reads 'Harrison Ford's endorsement of Kamala' and he identifies himself by name: 'I'm Harrison Ford'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The subject of the endorsement. On-screen text: 'Harrison Ford's endorsement of Kamala'. Spoken: 'I'm going to vote for Kamala Harris'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referred to as the leader of the 'Trump administration' and as 'the other guy' who 'demands unquestioning loyalty' and 'wants revenge'."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on the final campaign slate: 'HARRIS WALZ'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Implied by the speaker's reference to former officials voting for the first time for someone who 'doesn't have an R next to their name'."
+    },
+    {
+      "name": "Harris for President",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified in the paid-for-by disclaimer at the end: 'PAID FOR BY HARRIS FOR PRESIDENT'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Harrison Ford's endorsement of Kamala hits hard ⬇️⬇️⬇️",
+      "role": "overlay"
+    },
+    {
+      "text": "“Kamala Harris will protect your right to disagree with her about policies or ideas”",
+      "role": "overlay"
+    },
+    {
+      "text": "A NEW WAY FORWARD",
+      "role": "credit"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "credit"
+    },
+    {
+      "text": "PAID FOR BY HARRIS FOR PRESIDENT",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Actor Harrison Ford states that he is speaking out because dozens of former members of the Trump administration—'governors, generals'—are 'sounding alarms' and warning America 'don't do this again.' He notes that for many of these lifelong Republicans, this will be the first time they vote for a Democrat. Ford contrasts the two candidates, claiming 'Kamala Harris will protect your right to disagree with her about policies or ideas,' allowing for debate and progress. He says 'the other guy' (Trump) 'demands unquestioning loyalty' and 'wants revenge.' Ford concludes by identifying himself and stating he will use his vote to 'move forward' by voting for Kamala Harris.",
+  "emojis_present": [
+    "⬇️"
+  ],
+  "audio_music": "The video consists solely of spoken dialogue with no background music or sound effects. The tone is serious and somber.",
+  "editing_pacing": "The video is a slow-paced, static talking-head shot with occasional simple cuts between a frontal view and a three-quarter profile view of the speaker.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Seriousness",
+    "Urgency",
+    "Credibility",
+    "Concern"
+  ],
+  "cultural_references": [
+    "Harrison Ford"
+  ],
+  "central_claim": "Kamala Harris will protect democratic norms like the right to dissent, while Donald Trump is a threat to them, a fact confirmed by high-ranking officials from his own administration who now oppose him.",
+  "intended_effect": "To persuade voters, especially moderate Republicans or independents, that Donald Trump is too dangerous to be president and that Kamala Harris is the responsible choice for safeguarding democracy.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "7248454508274060587",
+  "visual_action": "A slow-motion shot shows a large crowd of people marching down a street during what appears to be a protest for reproductive rights. They are carrying signs with slogans like \"MY BODY MY CHOICE\" and a large banner that reads \"OUR BODIES\". The camera moves with the crowd. A static overlay of a tweet from 'The Democrats' is present for the entire duration of the video.",
+  "cast": [
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video features an overlay of a tweet from the account '@TheDemocrats'."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet is titled 'House Republican Priorities:' and lists their voting records on reproductive rights."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats\n@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "House Republican Priorities:",
+      "role": "overlay"
+    },
+    {
+      "text": "99% voted against codifying Roe v. Wade –twice.",
+      "role": "overlay"
+    },
+    {
+      "text": "97% voted against protecting your right to cross state lines for safe abortion.",
+      "role": "overlay"
+    },
+    {
+      "text": "92% voted against protecting access to birth control.",
+      "role": "overlay"
+    },
+    {
+      "text": "OUR BODIES",
+      "role": "other"
+    },
+    {
+      "text": "MY BODY MY CHOICE",
+      "role": "other"
+    },
+    {
+      "text": "DO NOT PANIC\nORGANIZE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video; it is accompanied only by music.",
+  "emojis_present": [],
+  "audio_music": "A serious and determined-sounding instrumental track plays consistently throughout the video, creating a somber yet resolute atmosphere that complements the protest footage.",
+  "editing_pacing": "The video consists of a single, slow-motion shot of a crowd marching. A static text overlay, formatted like a tweet, remains on screen for the entire clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Alarm",
+    "Solidarity",
+    "Anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "House Republicans have overwhelmingly voted against protecting reproductive rights, including abortion and birth control access.",
+  "intended_effect": "To alarm viewers about the Republican party's stance on reproductive rights and motivate them to oppose Republican candidates.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,120 @@
+{
+  "video_id": "7580776194916814093",
+  "visual_action": "A montage of scenes from the FIFA World Cup 2026 Final Draw. The video opens with FIFA branding. It then shows Donald Trump and other dignitaries on a red carpet surrounded by press. Inside the event, there are musical performances, including a man singing opera. Comedian Kevin Hart and model Heidi Klum are shown on stage. Trump is depicted on stage speaking at a podium and interacting with FIFA President Gianni Infantino next to a large trophy. The core of the montage shows the draw itself, where various officials and celebrity athletes pull slips of paper with country names out of glass bowls. Officials for Canada and Mexico are shown, followed by Donald Trump pulling the slip for the \"USA\". Other celebrities shown participating include Tom Brady, Shaquille O'Neal, Aaron Judge, and Wayne Gretzky. The montage is intercut with shots of the audience, the World Cup trophy, and a large American flag. The video concludes with the official logo for The White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Donald Trump is the central figure shown throughout the video on the red carpet, on stage speaking, and participating in the draw by selecting the 'USA' slip."
+    },
+    {
+      "name": "Gianni Infantino",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The man, identifiable as the FIFA President, is shown alongside Donald Trump on the red carpet and on stage during the event."
+    },
+    {
+      "name": "Claudia Sheinbaum",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The President of Mexico is shown on stage, smiling as she holds up a slip of paper that reads 'MÉXICO'."
+    },
+    {
+      "name": "unnamed Canadian official",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man in a suit is shown on stage pulling a slip of paper that reads 'CANADA' from a bowl."
+    },
+    {
+      "name": "FIFA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The event is explicitly branded as the 'FIFA WORLD CUP 2026 FINAL DRAW' in multiple on-screen graphics."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with 'THE WHITE HOUSE' logo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FOOTBALL UNITES the World",
+      "role": "overlay"
+    },
+    {
+      "text": "FIFA",
+      "role": "overlay"
+    },
+    {
+      "text": "WORLD CUP 2026 FINAL DRAW",
+      "role": "overlay"
+    },
+    {
+      "text": "CANADA",
+      "role": "other"
+    },
+    {
+      "text": "MÉXICO",
+      "role": "other"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "GERMANY",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is dominated by a grand, orchestral musical score. Underneath the music, there are indistinct sounds from the event, including crowd applause and brief, unintelligible snippets of speech from people on stage. The provided transcript does not match the audible content of the video.",
+  "emojis_present": [
+    "⚽",
+    "🏆"
+  ],
+  "audio_music": "A continuous, grand, and triumphant orchestral score plays throughout the video, identified as 'March of the Heros' by Hagai Davidoff. It creates a heroic and momentous atmosphere.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes of the event, including the red carpet, stage performances, and the drawing of the teams.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Excitement",
+    "Prestige"
+  ],
+  "cultural_references": [
+    "FIFA World Cup",
+    "Andrea Bocelli",
+    "Kevin Hart",
+    "Heidi Klum",
+    "Roberto Carlos",
+    "Tom Brady",
+    "Shaquille O'Neal",
+    "Aaron Judge",
+    "Wayne Gretzky"
+  ],
+  "central_claim": "President Trump successfully brought the FIFA World Cup to the United States, positioning him and the nation at the center of a prestigious global event.",
+  "intended_effect": "To generate pride in the U.S. hosting the World Cup and to associate this significant international event with the leadership of Donald Trump.",
+  "uncertainty_flags": [
+    "The provided audio transcript does not match the video's audio content.",
+    "The specific identities of some individuals shown, beyond the most prominent politicians and celebrities, are not determined."
+  ]
+}

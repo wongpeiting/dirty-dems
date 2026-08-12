@@ -1,0 +1,51 @@
+{
+  "video_id": "7143049086508256555",
+  "visual_action": "Vice President Kamala Harris speaks at a podium with two microphones in front of a blue backdrop with a logo. She is gesturing with her hands as she speaks.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Kamala Harris is the sole speaker in the video, shown in a medium close-up for the entire duration."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Vice President Harris on Republicans attacking the freedom to choose.' Harris also refers to 'extremist so-called leaders' passing laws."
+    },
+    {
+      "name": "U.S. Supreme Court",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Harris begins her speech by saying, 'The United States Supreme Court just took a constitutional right that had been recognized...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Vice President Harris on Republicans attacking the freedom to choose",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Kamala Harris states that the U.S. Supreme Court took a constitutional right away from the women of America. She accuses \"extremist so-called leaders\" of passing laws to criminalize healthcare providers and punish women. She criticizes the belief that the government should make personal decisions for women about their own bodies, concluding with the statement, \"We trust women.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Kamala Harris's spoken remarks. There is no background music or other sound.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "indignation",
+    "seriousness",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans are extremists attacking women's freedom by passing laws to punish them and criminalize reproductive healthcare providers.",
+  "intended_effect": "To anger viewers about Republican positions on abortion and motivate them to support Democrats, who are framed as trusting women.",
+  "uncertainty_flags": []
+}

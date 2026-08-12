@@ -1,0 +1,57 @@
+{
+  "video_id": "7652469670003477774",
+  "visual_action": "A montage of clips featuring Barack Obama. It shows him in the Oval Office, at the construction site of the Obama Presidential Center with workers, clapping in a meeting, and with Michelle Obama on stage and viewing art. The video includes several aerial and close-up shots of the modern-looking Obama Presidential Center building, which is under construction in a snowy, urban park setting.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Barack Obama appears in nearly every shot of the video montage."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Michelle Obama is shown on stage with Barack Obama, and looking at her official portrait with him."
+    },
+    {
+      "name": "Obama Presidential Center",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The building is the subject of multiple shots, and the text 'OBAMA PRESIDENTIAL CENTER' appears at the end of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WE ARE AMERICANS UNCONSTRAINED BY WHAT IS UNENCUMBERED BY WHAT HAS BEEN",
+      "role": "other"
+    },
+    {
+      "text": "OBAMA PRESIDENTIAL CENTER",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of the lyrics from the background song, \"APESHIT\" by The Carters, including lines like \"Gimme my check\" and \"Put some respect on my check.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, upbeat, and confident hip-hop track ('APESHIT' by The Carters) plays throughout the video, creating a modern, cool, and celebratory 'hype' mood for the montage.",
+  "editing_pacing": "Fast-paced montage with quick cuts between various clips, synchronized to the beat of the background music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "admiration",
+    "excitement"
+  ],
+  "cultural_references": [
+    "The Carters (Beyoncé and Jay-Z)"
+  ],
+  "central_claim": "The Obama Presidential Center is a major, modern, and culturally significant institution that embodies the successful legacy of Barack and Michelle Obama.",
+  "intended_effect": "To generate excitement and pride for the Obama Presidential Center and reinforce a positive, modern, and powerful image of the Obamas.",
+  "uncertainty_flags": []
+}

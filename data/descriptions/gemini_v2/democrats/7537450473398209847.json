@@ -1,0 +1,43 @@
+{
+  "video_id": "7537450473398209847",
+  "visual_action": "A slideshow of two still images. The first image shows the White House Rose Garden, full of colorful flowers, green hedges, and a lawn. The second image shows what appears to be the same location, but it is now a large, paved stone patio with a few scattered white tables and chairs and significantly less foliage.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text labels the images 'the rose garden before Trump:' and 'the rose garden after Trump:'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the rose garden before Trump:",
+      "role": "overlay"
+    },
+    {
+      "text": "the rose garden after Trump:",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of sound effects: a crowd cheering and applauding over the first image, which then changes to a sound of a crowd groaning in disappointment over the second image.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of two contrasting crowd sound effects used for comedic/critical effect. A positive, cheering crowd sound plays over the first image, and a negative, disappointed groaning sound plays over the second image. This is a common meme audio format.",
+  "editing_pacing": "Slideshow with a single cut between two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Criticism",
+    "Nostalgia"
+  ],
+  "cultural_references": [
+    "The video uses a common meme format where a positive sound effect (cheering) is played over a preferred item, and a negative sound effect (groaning/booing) is played over a disapproved item to create a stark comparison."
+  ],
+  "central_claim": "Donald Trump's administration ruined the White House Rose Garden by replacing its vibrant flowers and lawn with a stark, paved patio.",
+  "intended_effect": "To create disapproval of Donald Trump by highlighting a negative aesthetic change that occurred during his presidency.",
+  "uncertainty_flags": [
+    "The music fingerprint provided in the context ('Diablo Hace Frío — Dj Pegamento') does not seem to match the audible content, which consists of crowd sound effects rather than music."
+  ]
+}

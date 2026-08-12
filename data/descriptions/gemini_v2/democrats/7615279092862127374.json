@@ -1,0 +1,55 @@
+{
+  "video_id": "7615279092862127374",
+  "visual_action": "The video consists of two still images. The first is a close-up photo of Donald Trump smiling and wearing a white 'MAKE AMERICA GREAT AGAIN' hat. Text is overlaid at the bottom. The second image is a portrait of George W. Bush smiling in a suit in front of an American flag, with an emoji and quotation marks overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in the first image, and a fabricated quote is attributed to him via on-screen text."
+    },
+    {
+      "name": "George W. Bush",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His photo is shown, seemingly reacting positively to the fabricated Trump quote, drawing a parallel between their presidencies."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "“I wanna start a war in the Middle East, crash the economy, skyrocket gas prices, and put the lives of countless Americans at risk”",
+      "role": "overlay"
+    },
+    {
+      "text": "“👍”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it only features a music track.",
+  "emojis_present": [
+    "👍"
+  ],
+  "audio_music": "The video features the upbeat 1980s rock song 'Take Me Home Tonight' by Eddie Money playing throughout, creating an ironic contrast with the critical political message.",
+  "editing_pacing": "The video is a simple slideshow, cutting from one still image to another.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A fabricated quote is attributed to Donald Trump via on-screen text, falsely claiming he wants to start a war, crash the economy, and raise gas prices. This is used to satirize and criticize him.",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Take Me Home Tonight by Eddie Money"
+  ],
+  "central_claim": "A Donald Trump presidency would be a repeat of the George W. Bush presidency, leading to war in the Middle East, economic disaster, and high gas prices.",
+  "intended_effect": "To create fear and alarm about a potential Donald Trump presidency by attributing disastrous intentions to him and unfavorably comparing him to George W. Bush.",
+  "uncertainty_flags": []
+}

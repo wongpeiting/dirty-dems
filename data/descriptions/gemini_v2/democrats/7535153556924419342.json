@@ -1,0 +1,125 @@
+{
+  "video_id": "7535153556924419342",
+  "visual_action": "Rep. Al Green speaks passionately at a podium during what appears to be a press conference. He is flanked by several other people standing behind him against a blue backdrop with a Democratic Party logo. Green gestures emphatically with his hands and a walking cane as he speaks.",
+  "cast": [
+    {
+      "name": "Al Green",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker at the podium, identified by on-screen text as 'Rep. Green' and by face-ID."
+    },
+    {
+      "name": "Greg Abbott",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen overlay ('Governor Abbott') and is the subject of Al Green's critical speech."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker begins by saying 'Democrats are making a difference,' and the video is posted by the '@democrats' account."
+    },
+    {
+      "name": "J.B. Pritzker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face-ID as one of the individuals standing in the background behind the speaker."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep. Green rips into Governor Abbott for gerrymandering Texas",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATS ARE MAKING A DIFFERENCE, AND YES,",
+      "role": "caption"
+    },
+    {
+      "text": "YES, YES, YES, YES,",
+      "role": "caption"
+    },
+    {
+      "text": "THEY'RE ON THE RIGHT SIDE OF HISTORY.",
+      "role": "caption"
+    },
+    {
+      "text": "BUT MORE IMPORTANT THAN ALL OF THIS,",
+      "role": "caption"
+    },
+    {
+      "text": "THEY'RE ON THE RIGHT SIDE OF RIGHTEOUSNESS.",
+      "role": "caption"
+    },
+    {
+      "text": "WHAT THE GOVERNOR IS DOING IN TEXAS IS WRONG.",
+      "role": "caption"
+    },
+    {
+      "text": "WHAT IS WRONG WITH YOU GOVERNOR?",
+      "role": "caption"
+    },
+    {
+      "text": "YOU'VE HAD BABIES TO LOSE THEIR LIVES,",
+      "role": "caption"
+    },
+    {
+      "text": "FAMILIES ARE SUFFERING,",
+      "role": "caption"
+    },
+    {
+      "text": "AND YOU'RE TRYING TO REDISTRICT TEXAS?",
+      "role": "caption"
+    },
+    {
+      "text": "NUMBER ONE ITEM ON YOUR SCORECARD?",
+      "role": "caption"
+    },
+    {
+      "text": "WHAT IS WRONG WITH YOU, GOVERNOR?",
+      "role": "caption"
+    },
+    {
+      "text": "YOU OUGHT TO BE ASHAMED.",
+      "role": "caption"
+    },
+    {
+      "text": "SOMEBODY'S GOT TO CALL YOU OUT.",
+      "role": "caption"
+    },
+    {
+      "text": "WE'RE GONNA CALL YOU OUT NOW,",
+      "role": "caption"
+    },
+    {
+      "text": "AND I BELIEVE WE'LL CALL YOU OUT NOVEMBER OF NEXT YEAR.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Rep. Al Green passionately praises Democrats for being on the \"right side of history\" and \"righteousness.\" He then launches into a tirade against Texas Governor Greg Abbott, repeatedly shouting, \"What is wrong with you, governor?\" Green accuses Abbott of prioritizing redistricting while ignoring the suffering of Texas families and the deaths of babies. He concludes by saying Abbott should be ashamed and that voters will \"call you out\" in the next election.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Al Green's impassioned speech. There is no background music or other sound design.",
+  "editing_pacing": "The video is a single, static shot of the speaker at a podium, with no cuts or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "outrage",
+    "moral righteousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Texas Governor Greg Abbott is shamefully prioritizing political gerrymandering over addressing the suffering and deaths of his constituents.",
+  "intended_effect": "To provoke anger towards Governor Greg Abbott and portray Democrats as morally superior and focused on people's well-being.",
+  "uncertainty_flags": [
+    "The specific event or policy referenced by the line 'You've had babies to lose their lives' is not explicitly identified in the clip."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "video_id": "7572243272668679437",
+  "visual_action": "Karoline Leavitt stands at a podium in what appears to be the White House press briefing room, speaking directly to the camera. The podium is labeled \"THE WHITE HOUSE WASHINGTON\". The video is a static, medium shot. The clip concludes with a black screen featuring a white line drawing of the White House and text that reads \"THE WHITE HOUSE\" and \"PRESIDENT DONALD J. TRUMP\".",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, shown in a talking-head format, and is identified by facial recognition."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker repeatedly blames the \"Democrats\" and the \"Democrat Party\" for a government shutdown, stating it is \"entirely the fault of the Democrat Party.\""
+    },
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on the final credit screen of the video: \"PRESIDENT DONALD J. TRUMP\"."
+    },
+    {
+      "name": "Airlines for America",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker cites the organization as a source, saying \"According to Airlines for America, an estimated 5.2 million travelers have had their flights disrupted...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE WASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON\nLeavitt says \"The damage caused by the Democrat shutdown cannot be forgotten.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt delivers a statement blaming the Democratic Party for a \"reckless government shutdown.\" She asserts that the damage \"cannot be forgotten\" and that the shutdown is \"entirely the fault of the Democrat Party.\" She lists numerous negative consequences, including hundreds of thousands of federal employees missing paychecks, millions of low-income Americans missing SNAP benefits, nearly 20,000 delayed flights, and billions of dollars in lost economic activity that hurt the travel and hospitality industries.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a woman's voice speaking from a podium. There is no music, score, or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot. There are no cuts, zooms, or camera movements. It ends with a static credit screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party is solely responsible for a recent government shutdown and all the resulting negative consequences for American citizens and the economy.",
+  "intended_effect": "To make the viewer blame the Democratic Party for causing widespread hardship and economic damage, portraying them as reckless and harmful to the country.",
+  "uncertainty_flags": []
+}

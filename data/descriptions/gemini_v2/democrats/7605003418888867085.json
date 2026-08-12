@@ -1,0 +1,85 @@
+{
+  "video_id": "7605003418888867085",
+  "visual_action": "A slideshow of static images. The first is a screenshot of a tweet from 'FactPost' featuring a photo of musician Zach Bryan and a quote from him criticizing the 'Turning Point USA halftime show'. The video then zooms into a screenshot of Zach Bryan's Instagram story showing the same quote, along with a critical reply from another user. The final image is a different photo of Zach Bryan performing on stage with an acoustic guitar.",
+  "cast": [
+    {
+      "name": "Zach Bryan",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire post is centered on a quote attributed to him in on-screen text: 'Zach Bryan on the Turning Point USA halftime show...' His photo and Instagram account are also shown."
+    },
+    {
+      "name": "Turning Point USA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen text as the organization whose 'halftime show' Zach Bryan was criticizing."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are visible on the Twitter screenshot at the beginning of the video."
+    },
+    {
+      "name": "amarc5",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The username 'amarc5' is shown on a screenshot of an Instagram reply to Zach Bryan's story."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost\n@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Zach Bryan on the Turning Point USA halftime show:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"I don't care what side you're on, a bunch of adults throwing temper tantrums and their own halftime show is embarrassing as hell and the most cringe shit on the planet\"",
+      "role": "overlay"
+    },
+    {
+      "text": "zachlanebryan",
+      "role": "overlay"
+    },
+    {
+      "text": "I don't care what side you're on, a bunch of adults throwing temper tantrums and their own halftime show is embarrassing as hell and the most cringe shit on the planet",
+      "role": "overlay"
+    },
+    {
+      "text": "amarc5",
+      "role": "overlay"
+    },
+    {
+      "text": "wtf happens to you? Boy you turned into a Hollywood sell out bitch quick. You were my favorite artist. Now you are nothing but another dumbass out of touch elitist. Shit happens quick homie",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The video is set to the song 'American Nights' by Zach Bryan.",
+  "emojis_present": [],
+  "audio_music": "An anthemic country/folk rock song by Zach Bryan ('American Nights') plays throughout the video, creating an earnest and authentic mood that contrasts with the political event being criticized.",
+  "editing_pacing": "A slow-paced slideshow of still images, with slow zoom-in effects on the screenshots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Disdain",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "Zach Bryan"
+  ],
+  "central_claim": "Popular country music artist Zach Bryan thinks Turning Point USA's event was embarrassing and cringe-worthy, regardless of political affiliation.",
+  "intended_effect": "To align the audience with a popular, seemingly non-partisan cultural figure's criticism of a conservative organization, framing that organization as extreme and embarrassing.",
+  "uncertainty_flags": []
+}

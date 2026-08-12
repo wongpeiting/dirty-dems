@@ -1,0 +1,159 @@
+{
+  "video_id": "7582663936961432887",
+  "visual_action": "A montage of video clips featuring JD Vance in various settings: speaking at rallies with 'JD VANCE' and 'TRUMP VANCE' signs, interacting with crowds, giving a thumbs-up in a tuxedo, walking past an American flag, and taking a selfie. The clips have a hazy, pinkish filter. The final shot of Vance taking a selfie has a screenshot of a group chat superimposed over it, and a glowing animated wand appears over the screenshot.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of every visual clip in the montage and is identified by face recognition. His name also appears on a podium sign."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on rally signs that read 'TRUMP VANCE'."
+    },
+    {
+      "name": "Tulsi Gabbard",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her name appears as a sender in a superimposed group chat screenshot."
+    },
+    {
+      "name": "Scott Bessent",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears in a system message within a superimposed group chat screenshot: 'Scott Bessent (Treasury)'."
+    },
+    {
+      "name": "John Ratcliffe",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears in a system message within a superimposed group chat screenshot."
+    },
+    {
+      "name": "Jeff Goldberg",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears in a system message within a superimposed group chat screenshot: 'Jeff Goldberg left the group.'"
+    },
+    {
+      "name": "MAR",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The initials 'MAR' appear in system messages within a superimposed group chat screenshot."
+    },
+    {
+      "name": "S M",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The initials 'S M' appear in a system message within a superimposed group chat screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "i wanted to be an inventor",
+      "role": "caption"
+    },
+    {
+      "text": "collected scraps to make a portal",
+      "role": "caption"
+    },
+    {
+      "text": "i wanted so much",
+      "role": "caption"
+    },
+    {
+      "text": "for magic to be real",
+      "role": "caption"
+    },
+    {
+      "text": "JD VANCE",
+      "role": "other"
+    },
+    {
+      "text": "U.S. SENATE",
+      "role": "other"
+    },
+    {
+      "text": "CONSERVATIVE OUTSIDER",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP VANCE",
+      "role": "other"
+    },
+    {
+      "text": "TEXT NEVADA TO 88",
+      "role": "other"
+    },
+    {
+      "text": "Houthi PC small group",
+      "role": "overlay"
+    },
+    {
+      "text": "Tulsi Gabbard",
+      "role": "overlay"
+    },
+    {
+      "text": "Great work and effects!",
+      "role": "overlay"
+    },
+    {
+      "text": "Jeff Goldberg left the group.",
+      "role": "overlay"
+    },
+    {
+      "text": "JD Vance",
+      "role": "overlay"
+    },
+    {
+      "text": "This chat's kind of dead. Anything going on?",
+      "role": "overlay"
+    },
+    {
+      "text": "Scott Bessent (Treasury) set disappearing message time to 8 hours",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a song sung by a female vocalist. The lyrics are: \"I wanted to be an inventor, collected scraps to make a portal, I wanted so much for magic to be real.\"",
+  "emojis_present": [
+    "💔"
+  ],
+  "audio_music": "A slow, melancholic, acoustic folk song (identified as 'Real House' by Adrianne Lenker) plays consistently throughout the video, creating a wistful and sad tone.",
+  "editing_pacing": "The video is a slow-paced montage of clips with a hazy, colored filter applied to them. The cuts align with the gentle rhythm of the background music.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A fabricated screenshot of a group chat titled 'Houthi PC small group' is superimposed on the video. It purports to show messages from political figures like JD Vance and Tulsi Gabbard, creating a false association between them and the Houthis.",
+  "emotions_signaled": [
+    "Melancholy",
+    "Mockery",
+    "Suspicion"
+  ],
+  "cultural_references": [
+    "The song 'Real House' by Adrianne Lenker.",
+    "An animated magical girl wand, resembling one from the anime 'Sailor Moon', appears over the group chat screenshot."
+  ],
+  "central_claim": "The video contrasts JD Vance's political career with a song about innocent childhood dreams to suggest he has lost his way, and it uses a fabricated screenshot to imply he is involved in unsavory political groups.",
+  "intended_effect": "To generate negative sentiment towards JD Vance by portraying him as someone whose current political associations are suspect and a betrayal of some earlier, more innocent self.",
+  "uncertainty_flags": [
+    "The identities of 'MAR' and 'S M' in the group chat screenshot are ambiguous.",
+    "The context of several blurry B-roll clips, particularly one showing two men in a bushy area, is unclear."
+  ]
+}

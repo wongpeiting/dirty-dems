@@ -1,0 +1,54 @@
+{
+  "video_id": "7667282954019720462",
+  "visual_action": "Donald Trump, surrounded by several other men in suits, bends over and signs the side of a white convertible Corvette sports car. The setting appears to be a large industrial space, likely a car factory or showroom, with another classic black car visible in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown signing the car, and is named in the on-screen text as 'President Trump'."
+    },
+    {
+      "name": "General Motors",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the location as 'General Motors'."
+    },
+    {
+      "name": "Sean Duffy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition in the context as being on screen, standing near Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump signs a Corvette at General Motors 🇺🇸",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; only a song plays.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "An upbeat, energetic pop-rock song with a male vocalist plays throughout the video, creating a positive and patriotic atmosphere.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism"
+  ],
+  "cultural_references": [
+    "Corvette (car)"
+  ],
+  "central_claim": "Donald Trump supports American manufacturing and iconic American brands like General Motors' Corvette.",
+  "intended_effect": "To generate positive sentiment towards Donald Trump by showing him engaging with an iconic American-made product.",
+  "uncertainty_flags": []
+}

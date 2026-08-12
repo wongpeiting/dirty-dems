@@ -1,0 +1,58 @@
+{
+  "video_id": "7659453255948258573",
+  "visual_action": "The video intercuts clips of Donald Trump speaking at a podium with multiple different clips of large crowds celebrating ecstatically. The crowd scenes include a mosh-pit style concert, a large hall of men cheering and throwing drinks, and a television studio audience jumping, screaming, crying, and hugging with joy.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Is shown speaking at a podium in multiple clips throughout the video."
+    },
+    {
+      "name": "Social Security",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donald Trump says, \"no tax on Social Security\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TAX",
+      "role": "overlay"
+    },
+    {
+      "text": "OVERTIME.",
+      "role": "overlay"
+    },
+    {
+      "text": "ON",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump makes a series of promises to eliminate taxes, stating, \"No tax on tips,\" \"No tax on overtime,\" and \"No tax on Social Security.\" Each statement is followed by a clip of a crowd cheering.",
+  "emojis_present": [],
+  "audio_music": "The audio alternates between Donald Trump's speaking voice and the loud, ecstatic cheering of crowds. During the final, longer segment of the cheering studio audience, an upbeat, celebratory pop music track plays.",
+  "editing_pacing": "The video uses very fast cuts, alternating rapidly between Trump speaking and various reaction shots of crowds celebrating. It is edited in a high-energy montage or meme style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Joy",
+    "Excitement",
+    "Jubilation",
+    "Hope"
+  ],
+  "cultural_references": [
+    "The format of using ecstatic crowd reaction shots is a common meme trope.",
+    "The clip of the overjoyed studio audience is visually and tonally similar to the famous 'You get a car!' meme from The Oprah Winfrey Show."
+  ],
+  "central_claim": "Donald Trump's promises to eliminate taxes on tips, overtime, and Social Security are extremely popular and will be met with widespread public jubilation.",
+  "intended_effect": "To generate excitement and support for Donald Trump's proposed tax cuts by portraying them as events that will cause overwhelming joy for the public.",
+  "uncertainty_flags": [
+    "The specific origin of all the crowd reaction clips is not confirmed, though they are clearly from unrelated events (concerts, sports celebrations, a TV show taping) edited to appear as if they are reacting to Trump's speech.",
+    "The video uses misleading editing by juxtaposing unrelated clips to create a false context. This is a form of manipulation, but it does not meet the schema's specific definition of visible/visual fabrication (e.g., photoshop, deepfake)."
+  ]
+}

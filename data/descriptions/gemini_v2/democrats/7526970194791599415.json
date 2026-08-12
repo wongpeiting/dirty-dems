@@ -1,0 +1,141 @@
+{
+  "video_id": "7526970194791599415",
+  "visual_action": "A montage of clips featuring various public figures, including Donald Trump, Glenn Beck, Pam Bondi, Robert F. Kennedy Jr., and J.D. Vance, speaking about Jeffrey Epstein. The clips are from different settings, such as interviews, podcasts, news broadcasts, and a cabinet meeting. Each clip is overlaid with the text \"what core is this\" and is punctuated by brief black screens. Some clips feature news chyrons at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is repeatedly named in the audio by multiple speakers, e.g., \"who has Jeffrey Epstein's black book?\" and \"we need to release the Epstein list.\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown speaking into a microphone at the beginning of the video and later at a cabinet meeting."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He appears in a studio setting, speaking into a microphone, saying, \"we need to release the Epstein list.\""
+    },
+    {
+      "name": "Kash Patel",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown speaking and says \"FBI\" in response to a question."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown sitting next to Donald Trump during a cabinet meeting but does not speak."
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown speaking in a news clip, saying, \"It's sitting on my desk right now to review.\""
+    },
+    {
+      "name": "Robert F Kennedy Jr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown speaking, saying, \"we should get real answers on what happened to Jeffrey Epstein.\""
+    },
+    {
+      "name": "FBI",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as having Epstein's 'black book' in the dialogue: \"Black book. FBI.\""
+    },
+    {
+      "name": "DOJ",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A chyron on a news clip reads: \"BONDI: DOJ HAS LOST ITS MISSION TO FIGHT CRIME\"."
+    },
+    {
+      "name": "Glenn Beck",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown speaking and asks, \"So who has Jeffrey Epstein's... black book?\""
+    },
+    {
+      "name": "Tim Pool",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown sitting in a studio-like setting, listening to another speaker."
+    },
+    {
+      "name": "Alina Habba",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown in front of an American flag, stating, \"We have information, names that will come out.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "what core is this",
+      "role": "overlay"
+    },
+    {
+      "text": "BONDI: DOJ HAS LOST ITS MISSION TO FIGHT CRIME",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "PATEL'S 10-YEAR-TERM AS FBI DIRECTOR WILL RUN THRO",
+      "role": "chyron"
+    },
+    {
+      "text": "TAKES QUESTIONS DURING CABINET MEETING",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video is a compilation of clips where various public figures discuss Jeffrey Epstein. Donald Trump is heard saying he would have \"no problem\" doing something regarding Epstein. Other speakers, including Glenn Beck and J.D. Vance, call for the release of Epstein's \"black book\" or \"list,\" question who has it (suggesting the FBI), and ask for \"real answers\" about what happened to him. Another speaker states that flight logs and names will come out. Trump is also shown dismissively asking, \"Are you still talking about Jeffrey Epstein?\"",
+  "emojis_present": [],
+  "audio_music": "A dramatic, suspenseful electronic track ('Trumpstein' by MonsterD, EMERG) begins after the first line of dialogue and plays throughout the rest of the montage. The music builds a sense of conspiracy and urgency.",
+  "editing_pacing": "The video uses a fast-paced montage style, with quick cuts between different speakers and interviews, interspersed with brief black screens to create a rhythmic, punchy effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "urgency",
+    "conspiracy"
+  ],
+  "cultural_references": [
+    "The repeated on-screen text \"what core is this\" is a reference to the \"-core\" aesthetic meme format popular on TikTok, used to categorize videos into niche styles or themes."
+  ],
+  "central_claim": "Various influential figures are demanding the release of information related to Jeffrey Epstein, suggesting a cover-up that needs to be exposed.",
+  "intended_effect": "To generate suspicion and curiosity about the Jeffrey Epstein case and to rally viewers behind the figures shown demanding transparency.",
+  "uncertainty_flags": []
+}

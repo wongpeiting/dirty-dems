@@ -1,0 +1,63 @@
+{
+  "video_id": "7124472556542790955",
+  "visual_action": "A woman with a concerned look sits at a laptop in an office setting. The on-screen text says she is \"Working at the Democratic National Committee.\" The video then cuts to a shot of a metal four-drawer filing cabinet with a bar locked across it. A framed newspaper is on the wall above it. Text reads, \"The Watergate filing cabinet vibing 🥴✨\".",
+  "cast": [
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text \"*Working at the Democratic National Committee*\" appears on screen. The posting account is @democrats."
+    },
+    {
+      "name": "unnamed DNC worker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is shown reacting in an office setting identified as the DNC."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video references the \"Watergate filing cabinet,\" which directly implies the Republican-led break-in at the DNC headquarters during the Watergate scandal."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "*Working at the Democratic National Committee*",
+      "role": "overlay"
+    },
+    {
+      "text": "The Watergate filing cabinet vibing 🥴✨",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of a loud metallic clank followed by an ominous, horror-movie-style musical sting.",
+  "emojis_present": [
+    "🥴",
+    "✨"
+  ],
+  "audio_music": "The video begins with a sudden, loud metallic clank sound effect. This is immediately followed by a dramatic and ominous horror-style musical score that serves as a jump-scare effect for comedic purposes.",
+  "editing_pacing": "A simple two-shot sequence. It begins with a static shot of a person at a desk, then a single, jarring cut to a static shot of a filing cabinet to create a comedic jump-scare effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor",
+    "mockery",
+    "parody (horror)"
+  ],
+  "cultural_references": [
+    "Watergate scandal",
+    "The internet slang term 'vibing'"
+  ],
+  "central_claim": "The video humorously frames the filing cabinet from the Watergate break-in as a lingering, haunting presence in the DNC offices, mocking the Republican Party's historical scandal.",
+  "intended_effect": "To humorously remind audiences of the Republican Party's Watergate scandal and portray the DNC as its historical victim, using a modern meme format.",
+  "uncertainty_flags": [
+    "Uncertain if the filing cabinet shown is the authentic historical artifact from the Watergate break-in or a replica/prop used for the skit."
+  ]
+}

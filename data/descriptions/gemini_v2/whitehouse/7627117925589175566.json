@@ -1,0 +1,65 @@
+{
+  "video_id": "7627117925589175566",
+  "visual_action": "A slow, panning camera shot moves through the Oval Office. The shot starts wide, then moves closer to a coffee table with a model of Air Force One. It then pans across the Resolute Desk, showing a bust of Benjamin Franklin and a large, golden statue of an eagle holding an olive branch and arrows. The office is decorated with flags, portraits of past presidents (including a prominent one of Ronald Reagan), and other official symbols.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the official @whitehouse account and features a tour of the Oval Office."
+    },
+    {
+      "name": "Ronald Reagan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A portrait of Ronald Reagan is prominently displayed on the wall of the Oval Office."
+    },
+    {
+      "name": "Benjamin Franklin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A bust of Benjamin Franklin is shown on the Resolute Desk."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Good morning from the Oval 👀🦅",
+      "role": "caption"
+    },
+    {
+      "text": "UNITED STATES OF AMERICA",
+      "role": "overlay"
+    },
+    {
+      "text": "We the People",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only instrumental music. The provided transcript 'You' does not correspond to any audible speech.",
+  "emojis_present": [
+    "👀",
+    "🦅"
+  ],
+  "audio_music": "A continuous, grand, and somewhat ethereal instrumental track plays throughout the video. It has a patriotic and reverent tone, likely intended to evoke a sense of awe.",
+  "editing_pacing": "The video consists of a single, slow, and smooth panning shot that moves around the room to highlight different objects. There are no cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Awe",
+    "Reverence"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video offers a brief, reverent inside look at the Oval Office, showcasing its historic and symbolic decor.",
+  "intended_effect": "To inspire awe and pride in the institution of the American presidency and provide a sense of privileged access to the seat of power.",
+  "uncertainty_flags": [
+    "The provided audio transcript ('You') does not match the video's audio, which is purely instrumental.",
+    "Not all portraits on the wall could be definitively identified."
+  ]
+}

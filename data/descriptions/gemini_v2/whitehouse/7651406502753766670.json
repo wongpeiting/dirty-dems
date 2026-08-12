@@ -1,0 +1,138 @@
+{
+  "video_id": "7651406502753766670",
+  "visual_action": "A montage of short interviews with attendees at an outdoor event on the White House South Lawn. Interviewees include two men wearing gold medals, other civilians, and three members of the US Navy in uniform. In the background, a large stage is set up with branding for \"UFC FREEDOM 250\". The Washington Monument is visible in some shots.",
+  "cast": [
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and speakers mention being at the White House on the South Lawn."
+    },
+    {
+      "name": "UFC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads \"PRE-UFC!\" and a large stage in the background is branded \"UFC FREEDOM 250\". Speakers talk about the UFC fights."
+    },
+    {
+      "name": "Justin Gaethje",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A speaker says, \"We are team Gaethje, go USA.\" Another says, \"We're for Justin Gaethje.\""
+    },
+    {
+      "name": "Ilia Topuria",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A speaker says, \"Topuria's going to be a tough match.\""
+    },
+    {
+      "name": "Sean O'Malley",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A speaker in a Navy uniform says, \"Going for Sean O'Malley tonight.\""
+    },
+    {
+      "name": "Alex Pereira",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The final speaker says, \"Pereira by murder. Pereira, definitely.\""
+    },
+    {
+      "name": "Bo Nickal",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The final speaker says, \"Bo Nickal, that's a tough fight.\""
+    },
+    {
+      "name": "Diego Lopes",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The final speaker says, \"I think Lopez is gonna take it.\""
+    },
+    {
+      "name": "The President",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A speaker mentions being excited for \"the intense energy of the President's birthday.\""
+    },
+    {
+      "name": "Unnamed Olympians",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Two men wearing large gold medals are the first to be interviewed and mention winning an \"Olympic gold\"."
+    },
+    {
+      "name": "Unnamed US Navy personnel",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Three people in US Navy uniforms are interviewed in front of the stage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PRE-UFC!",
+      "role": "overlay"
+    },
+    {
+      "text": "What's the most memorable sporting event that you've been a part of?",
+      "role": "overlay"
+    },
+    {
+      "text": "Who do you think will win tonight?",
+      "role": "overlay"
+    },
+    {
+      "text": "What are you most excited for?",
+      "role": "overlay"
+    },
+    {
+      "text": "UFC FREEDOM 250",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Various attendees are interviewed at a UFC event on the White House South Lawn. Two men wearing gold medals compare the event to a Game 7 Stanley Cup final and winning Olympic gold, saying this is \"more insane.\" They and others express support for American UFC fighters like Justin Gaethje. A group of US Navy personnel say they are rooting for Sean O'Malley. Another attendee lists his predictions for fighters like Pereira and Lopes. One man expresses excitement for the combination of the event with \"the President's birthday\" and \"Flag Day.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of dialogue from interviews with background ambient noise of a crowd at an outdoor event. There is no musical score.",
+  "editing_pacing": "A series of quick cuts between different 'man on the street' style interviews.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Patriotism",
+    "Pride"
+  ],
+  "cultural_references": [
+    "Olympics",
+    "Stanley Cup Final"
+  ],
+  "central_claim": "The White House is hosting a major UFC event, \"Freedom 250,\" on its South Lawn, generating significant excitement and patriotic sentiment among attendees including Olympians and military personnel.",
+  "intended_effect": "To generate excitement and national pride by associating the White House with a popular, high-energy sporting event and framing it in a patriotic context.",
+  "uncertainty_flags": [
+    "The identities of the interviewees are not provided.",
+    "The two men wearing medals are assumed to be Olympians based on their medals and mention of winning an 'Olympic gold', but their names and sport are not specified.",
+    "The names of some fighters mentioned by the last speaker are based on phonetic interpretation of the audio, as it is not perfectly clear."
+  ]
+}

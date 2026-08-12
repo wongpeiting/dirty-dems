@@ -1,0 +1,60 @@
+{
+  "video_id": "7613835812546923790",
+  "visual_action": "Static image displayed throughout: a screenshot of what appears to be a post from the verified @WhiteHouse Twitter/X account. The post's caption reads \"MAGA 🇺🇸⚡\" and features an image from what appears to be a Pokémon video game (top-down isometric view of a town with trees, a Pokémon Center building with a red roof and Poké Ball emblem, and small Pokémon characters visible). Overlaid on the game screenshot in colorful, playful Animal Crossing-style bubble lettering are the words \"make america great again.\" The creator's overlay text at the top of the screen reads \"dawg look what the White House posted 😭😭\". The frames are identical throughout — no motion or cuts.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Screenshot of @WhiteHouse verified account displayed prominently as the subject of the post"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "dawg look what the White House posted 😭😭",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House ✅\n@WhiteHouse",
+      "role": "caption"
+    },
+    {
+      "text": "MAGA 🇺🇸⚡",
+      "role": "caption"
+    },
+    {
+      "text": "make america great again",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is present. The audio track is the Team Rocket Motto music from Pokémon throughout the clip. No Whisper transcript was produced, confirming no speech.",
+  "emojis_present": [
+    "😭",
+    "🇺🇸",
+    "⚡"
+  ],
+  "audio_music": "The entire clip is scored with \"Team Rocket's Motto\" by Masuda Junichi — the recognizable villain theme from the Pokémon anime/games — starting from 0.0s and continuing through at least 6.0s. The track has a dramatic, conspiratorial, and comedic villain-reveal tone, creating a mocking effect when paired with the White House content shown.",
+  "editing_pacing": "Completely static — a single frozen screenshot with a text overlay. No cuts, no motion, no transitions. Presented as a slideshow/screenshot share format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "amusement/mockery — the 😭😭 crying-laughing emoji and 'dawg look what' phrasing signal disbelief and ridicule at the White House post",
+    "disbelief — framing implies the White House post is embarrassing or absurd",
+    "comedic derision — Team Rocket villain theme reinforces a 'these are the bad guys' comedic framing"
+  ],
+  "cultural_references": [
+    "Pokémon — the image in the White House post appears to be from a Pokémon game (isometric town view with a Pokémon Center building and Poké Ball emblem), a globally recognized Nintendo/Game Freak franchise",
+    "Team Rocket's Motto (Pokémon anime) — the audio track used is the iconic villain theme associated with Team Rocket, the antagonist organization from the Pokémon franchise, played for comedic villain-framing effect",
+    "Animal Crossing-style bubble lettering — the 'make america great again' text uses a font/style visually reminiscent of the Animal Crossing video game series"
+  ],
+  "central_claim": "The White House's official social media account posted a \"MAGA\" graphic using imagery from a Pokémon video game, which the poster (the Democrats account) presents as worthy of ridicule and disbelief.",
+  "intended_effect": "Prompt the viewer to laugh at or mock the White House/MAGA brand for using a Pokémon video game image in an official government social media post, framing it as embarrassing or juvenile.",
+  "uncertainty_flags": [
+    "The OCR output contains a garbled/noisy line ('fixed it for them pedkephilles') that does not appear legible in the keyframes — this may be from a later slide or a separate caption field not visible in the provided frames; unable to confirm its presence or exact wording from the images shown",
+    "Cannot independently verify whether the @WhiteHouse post shown is authentic or itself a fabrication/parody account screenshot — the post is presented as real but verification of the original source is not possible from this clip alone",
+    "The specific Pokémon game title depicted (could be Pokémon Scarlet/Violet, Legends, or another entry) is not fully determinable from the isometric screenshot",
+    "No spoken audio to transcribe, consistent with blank Whisper transcript"
+  ]
+}

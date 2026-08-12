@@ -1,0 +1,75 @@
+{
+  "video_id": "7465824505294884142",
+  "visual_action": "A slideshow of two screenshots of news articles. The first is a Daily Beast headline: \"FAA Administrator Quit on Jan. 20 After Elon Musk Told Him to Resign\". The second is a New York Times article with the headline \"Live Updates: Control Tower Staffing Was ‘Not Normal’ During Deadly Crash, F.A.A. Says\". In the body of the second article, the phrase \"doing a job usually handled by two people\" is highlighted in yellow.",
+  "cast": [
+    {
+      "name": "FAA (Federal Aviation Administration)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in on-screen headlines from the Daily Beast and The New York Times."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The first headline shown reads: \"FAA Administrator Quit on Jan. 20 After Elon Musk Told Him to Resign\"."
+    },
+    {
+      "name": "US Government",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The narrator says, \"the next time that somebody tells you, 'the government wouldn't do that', oh yes they would.\""
+    },
+    {
+      "name": "unnamed FAA Administrator",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The first on-screen headline mentions the \"FAA Administrator\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DAILY BEAST",
+      "role": "overlay"
+    },
+    {
+      "text": "FAA Administrator Quit on Jan. 20 After Elon Musk Told Him to Resign",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times",
+      "role": "overlay"
+    },
+    {
+      "text": "Live Updates: Control Tower Staffing Was ‘Not Normal’ During Deadly Crash, F.A.A. Says",
+      "role": "overlay"
+    },
+    {
+      "text": "An internal report suggested that the controller on duty during the late-night accident was doing a job usually handled by two people. The collision between a jet and an Army helicopter killed 67 people, whose bodies were being recovered from the icy Potomac.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male narrator issues a warning: \"And remember kids, the next time that somebody tells you, 'the government wouldn't do that'... Oh yes they would.\"",
+  "emojis_present": [],
+  "audio_music": "The video starts with spoken narration. As the second headline appears, a dramatic and ominous electronic music track fades in and continues until the end of the clip.",
+  "editing_pacing": "A static slideshow displaying two news article screenshots in sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Distrust",
+    "Suspicion",
+    "Fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "The US government is dangerously incompetent, as evidenced by a deadly FAA failure due to understaffing, and should not be trusted.",
+  "intended_effect": "To convince the viewer that the government is inept and dangerous, fostering distrust in its ability to function.",
+  "uncertainty_flags": []
+}

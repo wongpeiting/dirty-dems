@@ -1,0 +1,75 @@
+{
+  "video_id": "7540344186034343223",
+  "visual_action": "A slideshow of still images. The first is a photo looking down into an empty legislative chamber, with a red circle highlighting a person lying on the floor between desks. This is followed by a screenshot of a TIME magazine article headlined 'Texas Democrat Locked in State Capitol for Refusing Mandatory Escort,' which names Rep. Nicole Collier. The final image is a screenshot of text quoting Collier, with certain phrases highlighted in yellow.",
+  "cast": [
+    {
+      "name": "Greg Abbott",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text at the beginning of the video asks, 'Greg Abbott has this legislator locked in the Texas House??'"
+    },
+    {
+      "name": "Nicole Collier",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a TIME article identifies her by name: 'Rep. Nicole Collier is one of dozens of Democrats who fled Texas...'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A quote from Nicole Collier shown on screen says, '...just so Republicans can control my movements and monitor me...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The TIME article screenshot mentions 'a Trump-backed redistricting plan.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video, posted by the @democrats account, frames a 'Texas Democrat' as a protagonist resisting Republicans."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Greg Abbott has this legislator locked in the Texas House??",
+      "role": "overlay"
+    },
+    {
+      "text": "TIME Texas Democrat Locked in State Capitol for Refusing Mandatory Escort Rep. Nicole Collier is one of dozens of Democrats who fled Texas earlier this month to block a vote on a Trump-backed redistricting plan.",
+      "role": "overlay"
+    },
+    {
+      "text": "“I refuse to sign away my dignity as a duly elected representative just so Republicans can control my movements and monitor me with police escorts,” Collier said in a statement to media outlets. “My constituents sent me to Austin to protect their voices and rights,” she said. “When I press that button to vote, I know these maps will harm my constituents—I won’t just go along quietly with their intimidation or their discrimination.”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only background music.",
+  "emojis_present": [],
+  "audio_music": "A dramatic and somber instrumental track with a choral feel plays throughout the video, creating a serious and grave tone.",
+  "editing_pacing": "The video is a slow-paced slideshow consisting of three static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "sympathy",
+    "injustice"
+  ],
+  "cultural_references": [],
+  "central_claim": "Texas Republicans, led by Governor Greg Abbott, are using authoritarian intimidation tactics to force through a discriminatory, Trump-backed redistricting plan, to the point of locking a Democratic legislator in the State Capitol.",
+  "intended_effect": "To provoke outrage at Greg Abbott and Texas Republicans and to build sympathy and support for Democratic legislator Nicole Collier.",
+  "uncertainty_flags": []
+}

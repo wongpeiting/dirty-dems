@@ -1,0 +1,84 @@
+{
+  "video_id": "7426875882809134379",
+  "visual_action": "Vice President Kamala Harris stands at a podium with the Seal of the Vice President, speaking to a large, cheering crowd indoors. She points and gestures as she speaks, then smiles and waves as the crowd erupts in applause. People in the audience hold up campaign signs, including one that reads 'HARRIS WALZ'.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Is shown speaking at a podium for the entire duration of the video and is the central subject of the on-screen text."
+    },
+    {
+      "name": "hecklers",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in the on-screen text 'VP Harris to hecklers' and addressed in her speech."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on a 'HARRIS WALZ' sign held by someone in the crowd."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Implied by Harris's reference to the 'smaller one down the street', suggesting a rival political rally."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VP Harris to hecklers: \"Wrong rally - I think you meant to go to the smaller one down the street\" 🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "OH",
+      "role": "overlay"
+    },
+    {
+      "text": "WRONG",
+      "role": "overlay"
+    },
+    {
+      "text": "THINK",
+      "role": "overlay"
+    },
+    {
+      "text": "THE",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "After an apparent interruption from hecklers, Vice President Kamala Harris responds, \"Oh, you guys are at the wrong rally.\" After a massive cheer from the crowd, she continues, \"No, I think you meant to go to the smaller one down the street,\" which is met with even more applause.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The primary audio consists of Kamala Harris's speaking voice and the loud, sustained cheering and applause from the crowd in response to her comments. While a music track ('Tyrants' by Doctrynal, Regenerit) was fingerprinted, it is not clearly audible over the diegetic sounds of the rally.",
+  "editing_pacing": "The video consists of a single, static shot of Kamala Harris at a podium, with animated text overlays appearing in sync with her speech to emphasize certain words.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Humor",
+    "Confidence",
+    "Pride",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris is a witty and confident leader who can effectively handle detractors, and her rallies are more popular than those of her political opponents.",
+  "intended_effect": "To make the audience admire Kamala Harris's quick wit and confident handling of hecklers, and to feel a sense of pride and superiority over political opponents.",
+  "uncertainty_flags": [
+    "The fingerprinted music in the context data is not clearly audible in the video, which is dominated by speech and crowd noise."
+  ]
+}

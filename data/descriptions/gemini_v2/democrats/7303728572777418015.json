@@ -1,0 +1,74 @@
+{
+  "video_id": "7303728572777418015",
+  "visual_action": "A slideshow of still photos, alternating between Donald Trump and Joe Biden. Each photo has a text overlay attributing a quote to the person pictured. Trump is shown at podiums and desks, while Biden is shown outdoors and in an office setting.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in multiple still photos, and on-screen text attributes quotes to him regarding his role in overturning Roe v. Wade and his intention to enact a national abortion ban."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in multiple still photos, and on-screen text attributes quotes to him about protecting reproductive rights and refuting Republican claims about abortion as a political issue."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text quote attributed to Donald Trump: \"Abortion isn't a losing issue for Republicans.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“I was the president that overturned Roe v. Wade.”",
+      "role": "overlay"
+    },
+    {
+      "text": "“And I'm the president that's fighting to protect reproductive rights.”",
+      "role": "overlay"
+    },
+    {
+      "text": "I'll get a national abortion ban “taken care of.”",
+      "role": "overlay"
+    },
+    {
+      "text": "“Not under my watch.”",
+      "role": "overlay"
+    },
+    {
+      "text": "“Abortion isn't a losing issue for Republicans.”",
+      "role": "overlay"
+    },
+    {
+      "text": "“Malarkey. Check out the 2022 and 2025 election results.”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A consistent, somewhat melancholic and contemplative piano melody plays throughout the video.",
+  "editing_pacing": "A slow-paced slideshow of still images with simple cuts between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Concern",
+    "Reassurance"
+  ],
+  "cultural_references": [
+    "Roe v. Wade",
+    "Malarkey (Joe Biden's signature word)"
+  ],
+  "central_claim": "The video contrasts Donald Trump's anti-abortion stance with Joe Biden's pro-reproductive rights position to argue that Biden is the clear choice for voters who support abortion access.",
+  "intended_effect": "To persuade voters that reproductive rights are at stake in the election and to mobilize support for Joe Biden by highlighting his protective stance against Donald Trump's restrictive policies.",
+  "uncertainty_flags": []
+}

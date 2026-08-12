@@ -1,0 +1,58 @@
+{
+  "video_id": "7101760225350307118",
+  "visual_action": "Steve Kerr, the coach of the Golden State Warriors, is shown at a press conference table speaking emotionally into a microphone. He is wearing a blue team jacket and is visibly angry and frustrated as he speaks, gesturing with his hands. The background is a blue press wall.",
+  "cast": [
+    {
+      "name": "Steve Kerr",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video and is identified by the on-screen text: 'Steve Kerr Calls Out Republican Senators...'"
+    },
+    {
+      "name": "Republican Senators",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states that Steve Kerr is calling out 'Republican Senators'. Kerr also refers to '50 senators right now who refuse to vote on H.R. 8'."
+    },
+    {
+      "name": "Mitch McConnell",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Steve Kerr directly addresses him by name, saying, 'So I ask you, Mitch McConnell...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Steve Kerr Calls Out Republican Senators After School Shooting in Uvalde",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Steve Kerr emotionally expresses his frustration, stating 'Enough.' He calls out 50 senators for refusing to vote on H.R. 8, a background check bill, accusing them of doing so 'to hold on to power.' He directly addresses Mitch McConnell and other senators, asking, 'Are you going to put your own desire for power ahead of the lives of our children and our elderly and our churchgoers?' He says their inaction in the face of shootings is what 'it looks like' and what 'we do every week.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Steve Kerr's emotional speech at a press conference. There is no music, score, or sound effects.",
+  "editing_pacing": "The video is a single, static, uncut shot of a person speaking at a podium (a 'talking head' clip).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "frustration",
+    "grief",
+    "urgency"
+  ],
+  "cultural_references": [
+    "Steve Kerr",
+    "Golden State Warriors",
+    "NBA"
+  ],
+  "central_claim": "Republican senators, including Mitch McConnell, are deliberately blocking common-sense gun safety legislation to preserve their own political power, directly at the cost of American lives.",
+  "intended_effect": "To evoke anger at Republican senators for their inaction on gun violence and to rally support for gun control measures.",
+  "uncertainty_flags": [
+    "The provided context includes a music fingerprint ('Brighter Days — Nino1Hunned'), but there is no audible music in the video. The audio consists solely of dialogue."
+  ]
+}

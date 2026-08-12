@@ -1,0 +1,126 @@
+{
+  "video_id": "7326229731442036011",
+  "visual_action": "A screen-capture of a tweet from the 'Biden-Harris HQ' account. The tweet text is visible, and below it is an embedded video clip of Donald Trump speaking at a podium during a rally. A news chyron is visible at the bottom of the video clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in the video clip and is the subject of the tweet's claim about being confused."
+    },
+    {
+      "name": "Biden-Harris HQ",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post is a screenshot of a tweet from this account, which provides the critical framing for the video clip."
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen tweet as the person Trump is allegedly confusing with Nikki Haley."
+    },
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named multiple times by Trump in his speech and also named in the on-screen tweet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Biden-Harris HQ",
+      "role": "overlay"
+    },
+    {
+      "text": "@BidenHQ",
+      "role": "overlay"
+    },
+    {
+      "text": "A deeply confused Trump confuses Nancy Pelosi and Nikki Haley multiple times: Nikki Haley was in charge on January 6. They don’t want to talk about that",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP STOPS IN ‘THE GRANITE STATE’",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE COVERAGE",
+      "role": "chyron"
+    },
+    {
+      "text": "By the way they never report",
+      "role": "caption"
+    },
+    {
+      "text": "the crowd on January 6th.",
+      "role": "caption"
+    },
+    {
+      "text": "You know, Nikki Haley —",
+      "role": "caption"
+    },
+    {
+      "text": "Nikki Haley —",
+      "role": "caption"
+    },
+    {
+      "text": "Do you know they destroyed all of the information?",
+      "role": "caption"
+    },
+    {
+      "text": "All of the evidence?",
+      "role": "caption"
+    },
+    {
+      "text": "Everything deleted and destroyed all of it.",
+      "role": "caption"
+    },
+    {
+      "text": "All of it because of lots of things.",
+      "role": "caption"
+    },
+    {
+      "text": "Like Nikki Haley is in charge of security.",
+      "role": "caption"
+    },
+    {
+      "text": "We offered her 10,000 people.",
+      "role": "caption"
+    },
+    {
+      "text": "Soldiers, National Guards,",
+      "role": "caption"
+    },
+    {
+      "text": "whatever they want.",
+      "role": "caption"
+    },
+    {
+      "text": "They turned it down. They don’t want to talk about that.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump discusses January 6th, repeatedly mentioning Nikki Haley. He states, \"Nikki Haley is in charge of security. We offered her 10,000 people. Soldiers, National Guards... whatever they want. They turned it down. They don't want to talk about that.\" This appears to confuse Nikki Haley with Nancy Pelosi, who was Speaker of the House on January 6th.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's unedited speech from a rally. There is no music or other sound design.",
+  "editing_pacing": "The video is presented as a static screen-capture of a tweet, with a single, unedited video clip of Trump speaking playing within that frame. It is a continuous talking-head shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is mentally confused, as evidenced by him repeatedly mistaking Nikki Haley for Nancy Pelosi when discussing security on January 6th.",
+  "intended_effect": "To portray Donald Trump as mentally unfit for office by highlighting a significant verbal gaffe.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,125 @@
+{
+  "video_id": "7624605730292681998",
+  "visual_action": "The video starts with a still photograph of Donald Trump looking sternly at the camera. It then transitions to a slideshow of logos for various U.S. government agencies and programs, including Job Corps, the Department of Housing and Urban Development, the Department of Health & Human Services, LIHEAP, NASA, the Department of Labor, and the USDA. Text overlays on each slide claim that Trump's budget proposes to cut or eliminate funding for these entities.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video opens with a photo of him and on-screen text that reads, \"Trump's 2027 budget requests $1.5 trillion for military spending.\" The subsequent slides detail cuts attributed to this budget."
+    },
+    {
+      "name": "Job Corps",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The Job Corps logo is shown with the text overlay \"FULLY eliminates Job Corps\"."
+    },
+    {
+      "name": "U.S. Department of Housing and Urban Development",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The department's logo is shown with the text overlay \"FULLY eliminates FIVE separate affordable housing programs\"."
+    },
+    {
+      "name": "Department of Health & Human Services",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The HHS logo is shown with the text overlay claiming the budget \"FULLY eliminates HHS's Sexual Risk Avoidance Program AND Teen Pregnancy Prevention Program\"."
+    },
+    {
+      "name": "LIHEAP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The LIHEAP logo is shown with text stating the budget \"FULLY eliminates LIHEAP, which helps struggling families with energy bills\"."
+    },
+    {
+      "name": "NASA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The NASA logo is shown with the text \"$3.4 billion cut from NASA science and research programs\"."
+    },
+    {
+      "name": "Department of Labor",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The Department of Labor seal is shown with the text \"$234 million cut from worker protection agency funding\"."
+    },
+    {
+      "name": "USDA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The USDA logo is shown with text detailing an \"$82 million cut from the USDA Rural Business Service\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's 2027 budget requests $1.5 trillion for military spending.",
+      "role": "overlay"
+    },
+    {
+      "text": "This is what he's cutting ➡️",
+      "role": "overlay"
+    },
+    {
+      "text": "FULLY eliminates Job Corps",
+      "role": "overlay"
+    },
+    {
+      "text": "FULLY eliminates FIVE separate affordable housing programs",
+      "role": "overlay"
+    },
+    {
+      "text": "FULLY eliminates HHS's Sexual Risk Avoidance Program AND Teen Pregnancy Prevention Program",
+      "role": "overlay"
+    },
+    {
+      "text": "FULLY eliminates LIHEAP, which helps struggling families with energy bills",
+      "role": "overlay"
+    },
+    {
+      "text": "$3.4 billion cut from NASA science and research programs",
+      "role": "overlay"
+    },
+    {
+      "text": "$234 million cut from worker protection agency funding",
+      "role": "overlay"
+    },
+    {
+      "text": "$82 million cut from the USDA Rural Business Service, which boosts farms and create job opportunities in rural communities",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video contains no speech, only instrumental music.",
+  "emojis_present": [
+    "➡️"
+  ],
+  "audio_music": "A somber and dramatic orchestral track plays consistently throughout the video, creating a serious and ominous tone that underscores the gravity of the alleged budget cuts.",
+  "editing_pacing": "The video is a slow-paced slideshow, transitioning between a static photo of Donald Trump and a series of static logos for government programs, each with a text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Worry",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's proposed 2027 budget would increase military spending by cutting or eliminating funding for a wide range of essential social, scientific, and economic programs.",
+  "intended_effect": "To alarm viewers about Trump's budget priorities and portray them as harmful to American citizens, workers, and families.",
+  "uncertainty_flags": []
+}

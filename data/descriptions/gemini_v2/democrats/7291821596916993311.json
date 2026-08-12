@@ -1,0 +1,119 @@
+{
+  "video_id": "7291821596916993311",
+  "visual_action": "The video displays a series of screenshots. First, a tweet from user Parker Butler claiming the Biden campaign's Truth Social account gained more followers in two days than the Trump campaign's account. This is followed by a screenshot of the 'Team Trump' Truth Social profile showing 19.2k followers, with the number circled. Finally, a screenshot of the 'Biden-Harris HQ' profile is shown, with a follower count of 22.7k, also circled. The Biden-Harris profile picture shows Joe Biden with glowing red eyes, and the banner reads 'MALARKEY ENDS HERE.'",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His campaign is named in the initial tweet ('the Biden campaign') and his campaign's social media profile ('Biden-Harris HQ') is shown, featuring his picture."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His campaign is named in the initial tweet ('the Trump campaign on Truth Social') and his campaign's social media profile ('Team Trump') is shown, featuring his picture."
+    },
+    {
+      "name": "Truth Social",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by name in the initial tweet as the platform for the comparison."
+    },
+    {
+      "name": "Parker Butler",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from 'Parker Butler @parkerpbutler' is shown at the start of the video."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the banner photograph on the 'Team Trump' social media profile screenshot."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name is part of the 'Biden-Harris HQ' account name shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Parker Butler\n@parkerpbutler\n\nAfter just two days, the Biden campaign\nalready has more followers than the\nTrump campaign on Truth Social",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP\nTEXT TRUMP TO 88022",
+      "role": "overlay"
+    },
+    {
+      "text": "Team Trump\n@TeamTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "19.2k Followers",
+      "role": "overlay"
+    },
+    {
+      "text": "The official Truth Social account for the Trump Campaign. Together, we will MAKE AMERICA GREAT AGAIN!",
+      "role": "overlay"
+    },
+    {
+      "text": "Joined February 2022",
+      "role": "overlay"
+    },
+    {
+      "text": "MALARKEY\nENDS HERE.",
+      "role": "overlay"
+    },
+    {
+      "text": "Biden-Harris HQ\n@BidenHQ",
+      "role": "overlay"
+    },
+    {
+      "text": "22.7k Followers",
+      "role": "overlay"
+    },
+    {
+      "text": "Just the facts, Jack. A project of Biden-Harris 2024.",
+      "role": "overlay"
+    },
+    {
+      "text": "Joined October 2023",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists only of an upbeat electronic music track.",
+  "emojis_present": [],
+  "audio_music": "A high-energy, upbeat electronic dance track ('Let Me Think About It' by Ida Corr & Fedde Le Grand) plays throughout the video, creating a triumphant and slightly mocking tone.",
+  "editing_pacing": "A fast-paced slideshow of three static screenshots, with quick cuts between them timed to the music.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Red circles are superimposed on the screenshots to draw attention to the follower counts. The profile picture for the 'Biden-Harris HQ' account is a manipulated image of Joe Biden with glowing red 'laser eyes', a reference to the 'Dark Brandon' meme.",
+  "emotions_signaled": [
+    "Triumph",
+    "Mockery",
+    "Pride"
+  ],
+  "cultural_references": [
+    "Dark Brandon meme (via laser eyes on Joe Biden)",
+    "Truth Social (social media platform)",
+    "Let Me Think About It - Ida Corr, Fedde Le Grand (song)"
+  ],
+  "central_claim": "The Biden-Harris campaign's Truth Social account quickly surpassed the Trump campaign's account in followers, demonstrating greater popularity and reach even on a platform associated with Trump.",
+  "intended_effect": "To mock the Trump campaign's perceived lack of social media engagement and to portray the Biden campaign as more popular and successful.",
+  "uncertainty_flags": []
+}

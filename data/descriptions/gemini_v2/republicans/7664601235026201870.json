@@ -1,0 +1,75 @@
+{
+  "video_id": "7664601235026201870",
+  "visual_action": "Bill Maher is shown in a sit-down interview, speaking critically about the Democratic Party. The clip cuts between a two-shot with an interviewer and a close-up of Maher. A news chyron from ABC News' \"This Week\" is visible at the bottom. The video is framed with text overlays at the top.",
+  "cast": [
+    {
+      "name": "Bill Maher",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker in the video, and the on-screen text identifies him as 'Liberal comedian Bill Maher'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text introduces the clip as Maher being '\"out\" on the Democrat party,' and Maher begins by saying 'Democrats are cowardly...'"
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man in a dark suit is shown sitting opposite Bill Maher, conducting the interview. He is not named."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Liberal comedian Bill Maher says he's “out” on the Democrat party:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Democrats are cowardly...\"",
+      "role": "overlay"
+    },
+    {
+      "text": "abc NEWS | EXCLUSIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "ON HBO TALK SHOW, MAHER GRILLS POLITICIANS ON BOTH SIDES",
+      "role": "chyron"
+    },
+    {
+      "text": "BILL MAHER 1-ON-1",
+      "role": "chyron"
+    },
+    {
+      "text": "MAHER ON DEM PARTY: 'EVERY DAY I HEAR ABOUT A NEW RADICAL'",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Bill Maher states that \"Democrats are cowardly\" and that their party is being \"taken over\" by a \"radical\" element. He says he lost fans because he refused to go along with \"crazy stuff on the left\" and can't ignore it for the sake of team politics. He concludes by saying when people on his side are \"cheering for the intifada... I gotta go, I'm out.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the interview clip. There is no music or sound effects.",
+  "editing_pacing": "The video uses simple cuts between a two-shot and a close-up of the speaker, in a standard talking-head interview style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disillusionment",
+    "frustration",
+    "contempt"
+  ],
+  "cultural_references": [
+    "Bill Maher",
+    "HBO",
+    "This Week (ABC News)"
+  ],
+  "central_claim": "Even a well-known liberal commentator like Bill Maher is now criticizing the Democratic Party as cowardly and too radical to support.",
+  "intended_effect": "To validate conservative criticisms of the Democratic Party and persuade moderate or liberal viewers to reconsider their support for the party.",
+  "uncertainty_flags": []
+}

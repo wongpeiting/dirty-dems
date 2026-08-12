@@ -1,0 +1,70 @@
+{
+  "video_id": "7428311861851884842",
+  "visual_action": "Tim Walz speaks on the set of the talk show \"The View.\" The camera is a medium close-up on him, then cuts to a wide shot of him and the hosts at the desk as they react with laughter and applause to his comment.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking for the duration of the clip, and his statement is the focus of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Tim Walz refers to 'The Republican nominee' and claims they can't pass a background check. In the 2024-2026 political context, this is a clear allusion to Donald Trump's felony convictions."
+    },
+    {
+      "name": "The View",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The show's logo 'THE VIEW' is visible on the desk."
+    },
+    {
+      "name": "The View hosts",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The hosts of the show are shown in a wide shot reacting to Walz's statement."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Tim Walz: “The Republican nominee can’t pass a background check” 🥺",
+      "role": "overlay"
+    },
+    {
+      "text": "FOLKS THE NO ASSAULT ON SCHOOLS REASON WE OWNERS DEMOCRATIC TIMES REPUBLICAN PASS TO",
+      "role": "caption"
+    },
+    {
+      "text": "THE VIEW",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Tim Walz advocates for gun control, stating there is \"no reason we need assault weapons on our streets.\" He notes that he and his running mate are gun owners, then delivers the punchline: \"The Republican nominee can't pass a background check to get a gun.\" This is met with laughter and applause from the hosts and audience.",
+  "emojis_present": [
+    "🥺"
+  ],
+  "audio_music": "The audio consists of Tim Walz's dialogue. After his final line, there is laughter and applause from the live studio audience. There is no music.",
+  "editing_pacing": "The video consists of a static medium shot of Tim Walz speaking, with large, stylized yellow words from his speech appearing sequentially at the bottom of the screen. It cuts once to a wide reaction shot of the talk show panel laughing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "triumph"
+  ],
+  "cultural_references": [
+    "The View (talk show)"
+  ],
+  "central_claim": "The Republican nominee, Donald Trump, is a convicted felon and therefore legally barred from passing a background check to purchase a firearm.",
+  "intended_effect": "To mock Donald Trump and portray him as a criminal, while positioning the Democratic ticket as reasonable on gun rights and gun control.",
+  "uncertainty_flags": []
+}

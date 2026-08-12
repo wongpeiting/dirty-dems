@@ -1,0 +1,56 @@
+{
+  "video_id": "7574246822114299150",
+  "visual_action": "Donald Trump, in a tuxedo, speaks at a podium in a formal room. The shot is static and medium-close. The video concludes with a short, black-and-white montage showing the White House and a helicopter, with text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, shown in a static shot throughout his speech."
+    },
+    {
+      "name": "Saudi Arabia",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire announcement is about designating Saudi Arabia as a major non-NATO ally."
+    },
+    {
+      "name": "NATO",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The designation is specifically a \"non-NATO ally,\" making the organization a key part of the context."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Announces Saudi as A Major Non-NATO Ally",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that he is formally designating Saudi Arabia as a \"major non-NATO ally.\" He refers to this as a \"little secret for tonight\" and mentions that his administration also just signed a \"historic strategic defense agreement\" with the country. He seems to address an unseen person in the audience, saying, \"I just heard him say, 'oh, that's nice.'\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's speech. There is no music. Applause can be heard at the end of his speech. The final credit sequence is silent.",
+  "editing_pacing": "The video is a single, static talking-head shot, which then cuts to a short black-and-white outro montage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Significance"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration has officially designated Saudi Arabia as a major non-NATO ally, strengthening the military and strategic partnership between the two countries.",
+  "intended_effect": "To inform the public of a significant foreign policy achievement and portray the administration as effective in international diplomacy.",
+  "uncertainty_flags": [
+    "It is unclear who Donald Trump is referring to when he says 'I just heard him say, oh, that's nice,' as no one else is shown on screen."
+  ]
+}

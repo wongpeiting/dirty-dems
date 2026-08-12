@@ -1,0 +1,44 @@
+{
+  "video_id": "7585314909450145038",
+  "visual_action": "In the Oval Office, Donald Trump sits at the Resolute Desk and signs a document. He is surrounded by a group of about a dozen people, including some in white lab coats and others in military veteran-style hats. After signing, Trump holds up the signed document folder for the group to see, and they applaud. He then hands the folder to a man standing beside him.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure shown signing a document at the desk. On-screen text reads: 'President Donald J. Trump signs Executive Order...'. He also speaks a line."
+    },
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID as being present in the group standing behind Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Donald J. Trump signs Executive Order rescheduling marijuana from Schedule I to Schedule III",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "After signing a document, Donald Trump comments, \"That's a good one,\" prompting applause from the surrounding crowd.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of natural room sounds, a single spoken line from Donald Trump, and then applause from the crowd. There is no music.",
+  "editing_pacing": "The video is a single, continuous shot with a mostly static camera that pans slightly at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "accomplishment",
+    "approval"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Donald J. Trump has signed an executive order to reschedule marijuana from Schedule I to Schedule III.",
+  "intended_effect": "To inform viewers of a significant policy change and generate approval for Donald Trump's action.",
+  "uncertainty_flags": [
+    "Difficult to visually confirm the presence of Robert F. Kennedy Jr. from the video, though his presence is asserted by the authoritative face-ID."
+  ]
+}

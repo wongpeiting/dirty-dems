@@ -1,0 +1,97 @@
+{
+  "video_id": "7623845717160889631",
+  "visual_action": "The video starts with a still image of Donald Trump looking at a smartphone. Overlay text reads, \"Sometimes you just have to read a Democrats tweet and move on with your day.\" It then cuts to a screenshot of a post on X.com. The post shows a tweet from The Associated Press about Donald Trump attending a Supreme Court hearing, followed by a reply from politician Susie Lee containing profane language directed at Trump.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photo of him is shown at the start of the video, and his name appears in the on-screen tweet from The Associated Press."
+    },
+    {
+      "name": "Susie Lee",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A tweet from her account, @SusieLeeNV, is shown on screen."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The initial overlay text refers to \"a Democrats tweet\"."
+    },
+    {
+      "name": "The Associated Press",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from their account, @AP, is shown on screen."
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the tweet from The Associated Press."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Sometimes you just have to read a Democrats tweet and move on with your day.",
+      "role": "overlay"
+    },
+    {
+      "text": "The Associated Press @AP · 9h\nBREAKING: President Donald Trump to attend Wednesday's Supreme Court hearing on birthright citizenship, making him the first sitting president to attend oral arguments at the nation's highest court.",
+      "role": "other"
+    },
+    {
+      "text": "Trump plans to attend Wednesday's Supreme Court heari...",
+      "role": "other"
+    },
+    {
+      "text": "From apnews.com",
+      "role": "other"
+    },
+    {
+      "text": "Susie Lee @SusieLeeNV",
+      "role": "other"
+    },
+    {
+      "text": "X.com",
+      "role": "other"
+    },
+    {
+      "text": "So fucking fucked up. I'll pray they fuck him to his face. Sorry, I say fuck a lot these days.",
+      "role": "other"
+    },
+    {
+      "text": "1:03 AM · 4/1/26 · 5.1K Views",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A slow, pensive, instrumental lofi piano track plays throughout the video, creating a calm or melancholic mood.",
+  "editing_pacing": "The video consists of two static images presented in a slideshow format, with a single cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Contempt",
+    "Disgust"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post highlights a profane tweet from Democratic politician Susie Lee to portray Democrats as unhinged and vulgar in their opposition to Donald Trump.",
+  "intended_effect": "To generate contempt for Democrats and portray Donald Trump as a victim of extreme political attacks.",
+  "uncertainty_flags": [
+    "The authenticity of the tweet from Susie Lee shown in the screenshot cannot be independently verified from the video alone. The date shown, April 1, 2026, could be significant (April Fools' Day), but there are no direct visual artifacts to confirm it is a fabrication."
+  ]
+}

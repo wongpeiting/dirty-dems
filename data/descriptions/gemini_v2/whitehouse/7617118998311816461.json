@@ -1,0 +1,49 @@
+{
+  "video_id": "7617118998311816461",
+  "visual_action": "A montage of black-and-white, grainy aerial or satellite footage showing multiple explosions on the ground. The footage, which resembles military targeting video, shows various locations being struck, including barren landscapes and a more developed area with an airstrip. Each explosion appears as a dark, expanding cloud or blotch.",
+  "cast": [
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption begins with 'Iran has no ability to defend...'"
+    },
+    {
+      "name": "United States government",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video was posted by the official @whitehouse account and the caption uses 'we' to refer to the entity carrying out the attack ('anything we want to attack')."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "KHARG ISLAND OBLITERATED",
+      "role": "overlay"
+    },
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video is silent and contains no spoken dialogue.",
+  "emojis_present": [],
+  "audio_music": "The video is completely silent.",
+  "editing_pacing": "The video is a montage of multiple static shots from an aerial perspective, cutting between different angles and locations of explosions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Intimidation",
+    "Power",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The United States has the military capability to destroy any target in Iran, which is defenseless against such attacks.",
+  "intended_effect": "To demonstrate overwhelming US military power and intimidate adversaries.",
+  "uncertainty_flags": [
+    "The authenticity of the footage presented as military surveillance cannot be independently verified."
+  ]
+}

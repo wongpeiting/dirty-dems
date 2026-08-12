@@ -1,0 +1,70 @@
+{
+  "video_id": "7284056209664134431",
+  "visual_action": "A split-screen video. The top panel shows Donald Trump speaking at a podium at a rally in Clinton Township, Michigan. The bottom panel shows a wide-angle shot of a small group of about a dozen supporters standing on a roadside holding flags.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium in the top panel and heard saying, 'We have 9,000 people outside.'"
+    },
+    {
+      "name": "Sophia Cai",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Credited in the on-screen text as 'PHOTO: SOPHIA CAI' for the image in the bottom panel."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "what Trump says",
+      "role": "overlay"
+    },
+    {
+      "text": "CLINTON TOWNSHIP, MI",
+      "role": "chyron"
+    },
+    {
+      "text": "TEXT MICHIGAN TO 88022",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "outside",
+      "role": "overlay"
+    },
+    {
+      "text": "PHOTO: SOPHIA CAI",
+      "role": "credit"
+    },
+    {
+      "text": "We have 9,000 people outside.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump claims there is a large crowd at his event, stating, \"We have 9,000 people outside.\"",
+  "emojis_present": [],
+  "audio_music": "The only audio is Donald Trump's voice speaking, with no accompanying music or sound effects.",
+  "editing_pacing": "The video uses a static split-screen format with no cuts, zooms, or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "skepticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump falsely inflates the number of his supporters at a rally.",
+  "intended_effect": "To portray Donald Trump as dishonest and prone to exaggeration about his level of support.",
+  "uncertainty_flags": []
+}

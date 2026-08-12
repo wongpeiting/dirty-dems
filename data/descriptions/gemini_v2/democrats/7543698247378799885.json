@@ -1,0 +1,72 @@
+{
+  "video_id": "7543698247378799885",
+  "visual_action": "Minneapolis Mayor Jacob Frey speaks emotionally at an outdoor press conference surrounded by law enforcement and other officials. The footage is from an MSNBC news broadcast, with a news chyron visible at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An overlay text at the top of the video reads: \"Trump got rid of the Office of Gun Violence Prevention on his first day.\""
+    },
+    {
+      "name": "Jacob Frey",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking for the entire duration of the video. The MSNBC chyron identifies him as the \"MINNEAPOLIS MAYOR\"."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The MSNBC logo and the text \"MSNBC REPORTS\" are visible on the news chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump got rid of the Office of Gun Violence Prevention on his first day.",
+      "role": "overlay"
+    },
+    {
+      "text": "> BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: LAW ENFORCEMENT UPDATE ON MN SHOOTING",
+      "role": "chyron"
+    },
+    {
+      "text": "MINNEAPOLIS",
+      "role": "overlay"
+    },
+    {
+      "text": "MINNEAPOLIS MAYOR: \"CHILDREN ARE DEAD\"",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNBC REPORTS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Minneapolis Mayor Jacob Frey gives an emotional speech about families affected by a shooting. He dismisses \"thoughts and prayers,\" stating the children involved were \"literally praying\" in a church during the first week of school. He passionately argues that children should be safe at school, on playgrounds, and in churches, and that their parents deserve the assurance of their safety, calling it a basic right for every family in the country.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a man's emotional and impassioned speech delivered at a press conference. There is no music or other sound design.",
+  "editing_pacing": "The video consists of a single, static shot of the speaker at a press conference, characteristic of live news coverage. There are no cuts or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Sorrow",
+    "Grief",
+    "Anger",
+    "Frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's past action of dismantling the Office of Gun Violence Prevention is linked to the current tragedy of a shooting affecting children in Minneapolis.",
+  "intended_effect": "To evoke sadness and anger over a shooting and direct blame towards Donald Trump for his administration's policies on gun violence.",
+  "uncertainty_flags": []
+}

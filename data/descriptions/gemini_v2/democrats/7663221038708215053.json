@@ -1,0 +1,60 @@
+{
+  "video_id": "7663221038708215053",
+  "visual_action": "A static, two-panel meme format. Both panels show the same image of Karoline Leavitt, a blonde woman, speaking at a podium in the White House press briefing room, with an American flag behind her. The top panel has a question overlaid as text, and the bottom panel has her purported answer overlaid as text.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Her name \"Leavitt\" is part of the on-screen text in the bottom panel, attributing a quote to her. Her face is also shown."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The setting is the White House press room, and the on-screen text quotes Leavitt as saying, \"The White House has a handle on the situation.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Q: Do you have an update on the Cyclospora parasite outbreak?",
+      "role": "overlay"
+    },
+    {
+      "text": "Leavitt: The White House has a handle on the situation.",
+      "role": "overlay"
+    },
+    {
+      "text": "WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "1:53 PM ET",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The only audio is a song by Ice Spice.",
+  "emojis_present": [],
+  "audio_music": "The song 'Think U The Sh*t (Fart)' by Ice Spice plays throughout the video. The song's lyrics and tone are aggressively dismissive and mocking, which serves to satirize and belittle the statement presented on screen.",
+  "editing_pacing": "Static image presented in a two-panel meme format.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a fabricated question-and-answer exchange overlaid on a real image of Karoline Leavitt at a press briefing. This creates a satirical scenario designed to mock the administration's perceived generic and inadequate responses to crises.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt",
+    "satire"
+  ],
+  "cultural_references": [
+    "The song 'Think U The Sh*t (Fart)' by Ice Spice is used as a meme sound.",
+    "The two-panel Q&A format is a common internet meme style."
+  ],
+  "central_claim": "The White House, as represented by Karoline Leavitt, offers dismissive and inadequate responses to serious crises.",
+  "intended_effect": "To make the viewer mock the White House Press Secretary and the administration she represents, portraying them as incompetent and out of touch.",
+  "uncertainty_flags": [
+    "It is unclear if the question-and-answer text overlaid on the video is a verbatim transcript of a real exchange or if it was wholly fabricated for satirical purposes."
+  ]
+}

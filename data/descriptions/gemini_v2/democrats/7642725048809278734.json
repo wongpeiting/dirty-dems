@@ -1,0 +1,81 @@
+{
+  "video_id": "7642725048809278734",
+  "visual_action": "The video opens with JD Vance speaking at a White House press briefing podium. It then cuts to a rapid montage set to music. The montage includes a silhouette of Donald Trump speaking, which is filled with a courtroom sketch of him. This is followed by a clip of Trump waving, and then a shot of protesters, some holding flags, pushing against a metal barricade. Another silhouette of a person walking through a doorway is filled with a distorted image of an unidentified person's face, which then morphs to show images of Trump. The montage continues with still images of newspaper headlines from the \"DAILY NEWS\" and another publication, with large text reading \"GUILTY\" and \"FRAUD.ORG\" over photos of Trump. The video concludes with a silhouette of Trump's head filled with the word \"GUILTY\" scrolling repeatedly, with \"NOT GUILTY\" appearing once at the bottom.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Appears on screen speaking at the beginning of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire montage following JD Vance's clip is about Donald Trump, showing images of him, courtroom sketches, and newspaper headlines detailing his legal convictions."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video was posted by the official account for the Democratic Party, @democrats."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "other"
+    },
+    {
+      "text": "DAILY NEWS",
+      "role": "other"
+    },
+    {
+      "text": "GUILTY",
+      "role": "other"
+    },
+    {
+      "text": "FRAUD.ORG",
+      "role": "other"
+    },
+    {
+      "text": "Trump's real estate biz guilty on all 17 counts of tax and financial crimes",
+      "role": "other"
+    },
+    {
+      "text": "Testimony from CFO was key to convictions",
+      "role": "other"
+    },
+    {
+      "text": "GUILTY",
+      "role": "overlay"
+    },
+    {
+      "text": "NOT GUILTY",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "JD Vance asks, \"Very simple principle. Why don't we prosecute people who violate the law?\"",
+  "emojis_present": [],
+  "audio_music": "The video begins with only JD Vance's speaking voice. After his line, an aggressive, bass-heavy hip-hop track begins and plays for the remainder of the video, creating a confrontational and high-energy tone for the montage.",
+  "editing_pacing": "The video uses a fast-paced montage style with rapid cuts between video clips and still images. It heavily features a visual effect where a person's silhouette is used as a mask to display other imagery inside it, such as a courtroom sketch or scrolling text.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Contempt",
+    "Condemnation",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is the answer to JD Vance's question about why people who violate the law aren't prosecuted, as he is a lawbreaker who has been found guilty of numerous crimes.",
+  "intended_effect": "To frame Donald Trump as a criminal and use a Republican's own words to suggest hypocrisy and justify his prosecutions.",
+  "uncertainty_flags": [
+    "The identity of the person whose distorted face appears inside a silhouette at 0:08 is unclear."
+  ]
+}

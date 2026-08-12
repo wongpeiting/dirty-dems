@@ -1,0 +1,80 @@
+{
+  "video_id": "7649092791447866637",
+  "visual_action": "The video begins with a contentious interview between an unnamed female interviewer and Donald Trump, with quick cuts between their faces as they discuss a jobs report. The second half of the video is a montage of Donald Trump set to hip-hop music. The montage shows him walking through a crowd of supporters, walking down a grand hallway, seen from behind in a large domed building, and dancing on a stage at an outdoor rally in front of a large crowd.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears on screen throughout the video, speaks during the interview segment, and is the sole subject of the montage."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown in a close-up speaking to Trump, saying 'You got a strong jobs report... Beat expectations... 170,000 jobs created.'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @republicans account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "A REPORT",
+      "role": "overlay"
+    },
+    {
+      "text": "NOT STRONG...",
+      "role": "overlay"
+    },
+    {
+      "text": "STRONG.",
+      "role": "overlay"
+    },
+    {
+      "text": "EXPECTATIONS",
+      "role": "overlay"
+    },
+    {
+      "text": "170,000",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD J. TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "45th & 47th President of the United States",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An unnamed interviewer praises a recent 'strong jobs report' that 'beat expectations.' Donald Trump repeatedly interrupts and contradicts her, saying 'Not strong.' He asks, 'By how much? Triple?' The interviewer then states, '170,000 jobs created.'",
+  "emojis_present": [],
+  "audio_music": "The first half of the video features only dialogue from an interview. At the midpoint, a confident, high-energy hip-hop track ('Hot' by Young Thug) begins abruptly and plays over a montage of Donald Trump.",
+  "editing_pacing": "The video uses rapid cuts between speakers during the interview segment to create a sense of confrontation. This is followed by a fast-paced montage of various short clips of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "confrontation",
+    "pride",
+    "confidence"
+  ],
+  "cultural_references": [
+    "Hot (feat. Gunna) - Young Thug, Gunna"
+  ],
+  "central_claim": "Donald Trump dismisses the media's positive framing of economic data, with the video portraying him as a powerful and popular leader who delivers superior results.",
+  "intended_effect": "To energize supporters and portray Donald Trump as a strong leader who confidently challenges media narratives.",
+  "uncertainty_flags": [
+    "The identity of the female interviewer is not specified.",
+    "The specific jobs report being discussed is not identified by date or source."
+  ]
+}

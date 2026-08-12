@@ -1,0 +1,95 @@
+{
+  "video_id": "7623508935659621645",
+  "visual_action": "The video opens with a black title card featuring a line-art illustration of the White House facade and the text \"THE WHITE HOUSE.\" It then cuts to a blonde woman in a pink floral dress standing at the White House briefing room podium. The official \"WHITE HO[USE] / WASHINGTON\" seal backdrop is visible behind her. She is holding up a printed document/printout — partially visible in the frame, appearing to show a photo and what looks like a CNN logo — as she addresses the press. The clip appears to be from an official White House press briefing.",
+  "cast": [
+    {
+      "name": "Kayleigh McEnany",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Blonde woman at White House briefing room podium in pink floral dress, holding up printed media coverage data; voice matches known White House Press Secretary; role and setting consistent with White House press briefing context"
+    },
+    {
+      "name": "Sheridan Gorman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named repeatedly in the spoken transcript as the young woman shot and killed in Chicago; also referenced in the account caption"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Speaker says 'Democrats are currently defunding the department responsible for removing illegal aliens' and refers to 'the Democrat Party'"
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in audio as spending 'one minute and 19 seconds' covering the Gorman case"
+    },
+    {
+      "name": "CBS",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in audio as spending 'two minutes and one second' covering the Gorman case"
+    },
+    {
+      "name": "NBC",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in audio as spending '23 seconds' covering the Gorman case"
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "CNN logo partially visible on the printed document held up by the speaker at the podium"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The speaker describes Sheridan Gorman as a young woman in Chicago who was shot and killed while walking with friends near her university, allegedly by \"a legal alien from Venezuela who had no right to be here.\" She calls it \"despicable\" that Democrats are \"defunding the department responsible for removing illegal aliens.\" She then holds up a printed survey of media coverage, citing that ABC News devoted 1 minute 19 seconds, CBS 2 minutes 1 second, and NBC only 23 seconds to Gorman's case — framing this as inadequate coverage of \"a young, beautiful American woman whose life was taken short by an illegal alien.\" She links the coverage disparity to an ongoing Capitol Hill fight over funding for the immigration enforcement agency. Key quote: \"It's despicable that the lack of coverage of this young woman's case, of her life, and the way that it was tragically cut short.\"",
+  "emojis_present": [],
+  "audio_music": "Original sound — spoken remarks at a White House press briefing, no background music. Delivery is emphatic and measured.",
+  "editing_pacing": "Short clip, two scenes: a brief black title-card intro with the White House logo, then a static talking-head shot of the press secretary at the podium. Minimal editing; straightforward official-style presentation.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage — speaker describes the killing and low media coverage as 'despicable'",
+    "grief — references a young woman's life 'tragically cut short'",
+    "indignation — media networks named and shamed for minimal coverage (23 seconds on NBC)"
+  ],
+  "cultural_references": [
+    "White House press briefing format — official government communications context",
+    "Cable news media-coverage comparison as rhetorical device"
+  ],
+  "central_claim": "Major cable news networks gave negligible airtime to the killing of Sheridan Gorman — a young American woman allegedly killed by an undocumented Venezuelan immigrant — while Democrats simultaneously seek to defund the agency responsible for immigration enforcement.",
+  "intended_effect": "To make viewers feel outrage at both the alleged inadequacy of mainstream media coverage of Gorman's death and at Democrats' immigration enforcement positions, amplifying the case as evidence of media bias and political negligence.",
+  "uncertainty_flags": [
+    "Speaker's identity is inferred from context (White House podium, appearance, role) — face identification not confirmed by name on screen",
+    "The printed document held up at the podium partially shows a CNN logo and a woman's photo, but the full content is not legible in the frame",
+    "Transcript uses the phrase 'legal alien' which may be a Whisper transcription error for 'illegal alien' — context strongly suggests the latter throughout",
+    "Exact date of the briefing is not visible in the clip"
+  ]
+}

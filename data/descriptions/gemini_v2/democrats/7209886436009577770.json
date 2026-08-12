@@ -1,0 +1,59 @@
+{
+  "video_id": "7209886436009577770",
+  "visual_action": "A slow-motion shot of Joe Biden wearing a suit and aviator sunglasses, walking towards the camera outdoors on what appears to be a deck. A text overlay from Bloomberg is displayed over the lower part of the screen.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Joe Biden is the only person shown on screen for the entire video. The on-screen text explicitly names him."
+    },
+    {
+      "name": "Eli Lilly",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen headline states 'Eli Lilly Caps Out-of-Pocket Insulin Costs at $35'."
+    },
+    {
+      "name": "Bloomberg",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The word 'Bloomberg' is displayed at the top of the text overlay, citing it as the source of the headline."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Bloomberg",
+      "role": "chyron"
+    },
+    {
+      "text": "Heeding Biden, Eli Lilly Caps Out-of-Pocket Insulin Costs at $35",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in this video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "A slowed and reverbed version of the electronic song 'Midnight City' by M83 plays throughout, creating a triumphant, cool, and epic tone.",
+  "editing_pacing": "The video consists of a single, continuous slow-motion shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "accomplishment",
+    "coolness",
+    "triumph"
+  ],
+  "cultural_references": [
+    "The video uses a slowed and reverbed version of the song 'Midnight City' by M83.",
+    "The visual aesthetic of Joe Biden in aviator sunglasses, walking confidently in slow-motion, evokes the 'Dark Brandon' internet meme."
+  ],
+  "central_claim": "President Biden is an effective leader whose policies have successfully pressured pharmaceutical companies like Eli Lilly to lower insulin costs for Americans.",
+  "intended_effect": "To make the viewer feel proud of President Biden's accomplishments and view him as a cool and effective leader.",
+  "uncertainty_flags": []
+}

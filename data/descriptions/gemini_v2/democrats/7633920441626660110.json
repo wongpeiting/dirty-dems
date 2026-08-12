@@ -1,0 +1,85 @@
+{
+  "video_id": "7633920441626660110",
+  "visual_action": "The video first shows a static screenshot of a tweet from the account 'FactPost'. The tweet text is displayed, and below it are two images side-by-side: one of Donald Trump in a red MAGA hat talking to another man, and the other is the ABC logo. The video then cuts to a still, professional-style photograph of Jimmy Kimmel smiling in a suit and tie, with a nighttime cityscape in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen tweet ('Trump's FCC...', 'Trump demands...') and shown in a photograph within the tweet screenshot."
+    },
+    {
+      "name": "Jimmy Kimmel",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen tweet ('Trump demands ABC fire Jimmy Kimmel...') and is shown in a still photograph that appears after the tweet."
+    },
+    {
+      "name": "Federal Communications Commission",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned as 'FCC' in the on-screen tweet: \"Trump's FCC is moving to review...\""
+    },
+    {
+      "name": "Disney",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen tweet: \"...potentially revoke Disney and ABC's broadcast licenses.\""
+    },
+    {
+      "name": "ABC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Named in the on-screen tweet ('...revoke Disney and ABC's broadcast licenses', 'Trump demands ABC fire Jimmy Kimmel...') and its logo is shown in a picture within the tweet."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet screenshot is from the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's FCC is moving to review and potentially revoke Disney and ABC's broadcast licenses.",
+      "role": "overlay"
+    },
+    {
+      "text": "This comes as Trump demands ABC fire Jimmy Kimmel for a joke he made on his late-night show.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is silent apart from the musical score.",
+  "emojis_present": [],
+  "audio_music": "A somber, dramatic classical string piece plays throughout the entire video, creating a serious and alarming tone. The fingerprinted track is 'A little Night Music — Armand Christiansen'.",
+  "editing_pacing": "The video is a static slideshow consisting of two still images shown in sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "seriousness",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is leveraging the power of the FCC to threaten the broadcast licenses of Disney and ABC as retaliation against a joke made by late-night host Jimmy Kimmel.",
+  "intended_effect": "To cause alarm and concern over an alleged abuse of presidential power and a threat to free speech.",
+  "uncertainty_flags": [
+    "There is a discrepancy between the TikTok sound label, which identifies the music as 'Mozart/Requiem \"Lacrimosa\"(1394506)', and the authoritative music fingerprint, which identifies it as 'A little Night Music — Armand Christiansen'. The mood of the music (somber, dramatic) aligns more closely with the former than the typical performance of the latter."
+  ]
+}

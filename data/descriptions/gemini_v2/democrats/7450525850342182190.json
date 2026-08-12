@@ -1,0 +1,125 @@
+{
+  "video_id": "7450525850342182190",
+  "visual_action": "A slideshow of four screenshots of tweets from Democratic members of Congress. The first shows Elon Musk operating a Donald Trump marionette puppet. The second is a black and white photo of Musk as a puppeteer controlling the real Trump. The third shows Musk dressed as a king on a throne with a court jester. The fourth shows Trump bowing to Musk, who is seated on a throne.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is depicted in manipulated images in the tweets, shown as a puppet and as being subservient to Elon Musk. He is also named in the initial overlay text."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is depicted in manipulated images in the tweets, shown as a puppeteer controlling Donald Trump and as a king. He is also named in the initial overlay text and addressed in a tweet by Mark Pocan."
+    },
+    {
+      "name": "House Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The initial overlay text reads 'House Dems taking on Trump & Elon,' framing them as the protagonists of the video."
+    },
+    {
+      "name": "Jasmine Crockett",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Two of her tweets, including her name and Twitter handle '@JasmineForUS', are featured in the video."
+    },
+    {
+      "name": "Maxwell Alejandro Frost",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "His tweet, including his name and Twitter handle '@RepMaxwellFrost', is featured in the video."
+    },
+    {
+      "name": "Mark Pocan",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "His tweet, including his name and Twitter handle '@MarkPocan', is featured in the video."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Jasmine Crockett's second tweet mentions '...today the House Republicans will decide who their master is...'"
+    },
+    {
+      "name": "Amazon",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mark Pocan's tweet mentions saying things to 'piss off that Amazon guy.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "House Dems taking on Trump & Elon 🔥🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "Jasmine Crockett ✔️ @JasmineForUS",
+      "role": "other"
+    },
+    {
+      "text": "PERIOD!",
+      "role": "other"
+    },
+    {
+      "text": "Congressman Maxwell Alejandr... ✔️ @RepMaxwellFrost",
+      "role": "other"
+    },
+    {
+      "text": "I'm just gonna leave this right here...",
+      "role": "other"
+    },
+    {
+      "text": "Mark Pocan ✔️ @MarkPocan",
+      "role": "other"
+    },
+    {
+      "text": "Yes, Mr. Musk. Should I say more stupid things about privatizing the post office? You love when I say things to piss off that Amazon guy. Maybe I should propose another one of your cabinet appointments? They're so ridiculously funny! Here for you. Can I sit in your chair again?",
+      "role": "other"
+    },
+    {
+      "text": "Well... today the House Republicans will decide who their master is... you can't serve two! Is it the South African Oligarch or the people that elected us? Time is ticking! Trump has made his decision...",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is set to a music track.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "A driving hip-hop track, identified as 'tv off' by Kendrick Lamar, plays throughout the video, creating a confrontational and assertive tone.",
+  "editing_pacing": "The video is a slideshow with quick cuts between four static screenshots of tweets, timed to the beat of the music.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video showcases several manipulated images within screenshots of tweets. These images are satirical, depicting Elon Musk as a puppeteer controlling Donald Trump, Musk as a king, and Trump bowing subserviently to Musk. These are visual fabrications used to criticize their perceived relationship.",
+  "emotions_signaled": [
+    "Mockery",
+    "Contempt",
+    "Confrontation"
+  ],
+  "cultural_references": [
+    "The puppeteer/marionette is a common visual metaphor for control.",
+    "The imagery of a king and a bowing subject is a classic trope representing power and subservience.",
+    "The music used is 'tv off (feat. Lefty Gunplay)' by the prominent hip-hop artist Kendrick Lamar."
+  ],
+  "central_claim": "Donald Trump is controlled by or subservient to Elon Musk, and House Democrats are forcefully calling out this dynamic.",
+  "intended_effect": "To portray House Democrats as fighting against a corrupt power dynamic and to foster mockery and distrust towards Donald Trump and Elon Musk.",
+  "uncertainty_flags": []
+}

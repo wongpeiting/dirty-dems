@@ -1,0 +1,42 @@
+{
+  "video_id": "7625309675856104718",
+  "visual_action": "A static B-roll shot shows colorful tulips in the foreground on a sunny day. In the blurred background, the White House is visible with an American flag flying.",
+  "cast": [
+    {
+      "name": "Jesus Christ",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption reads \"He is risen! Happy Easter ✝️\", a direct reference to the resurrection of Jesus Christ, the central event of the Easter holiday."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the official @whitehouse account and visually features the White House building in the background."
+    }
+  ],
+  "on_screen_text": [],
+  "spoken_summary": "The audio consists of quiet, ambient outdoor sounds, like wind. The provided transcript 'I'm Jack Wisconsin 20-24' appears to be a mis-transcription of this ambient noise, as no clear speech is audible.",
+  "emojis_present": [
+    "✝️"
+  ],
+  "audio_music": "Quiet, ambient environmental sounds, like a gentle breeze. There is no music or discernible speech.",
+  "editing_pacing": "A single, static shot with no edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Peacefulness",
+    "Piety",
+    "Patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The White House is officially observing and wishing a Happy Easter to its followers, acknowledging the Christian holiday's religious significance.",
+  "intended_effect": "To convey a peaceful and official Easter greeting, connecting the holiday with a national landmark.",
+  "uncertainty_flags": [
+    "The Whisper transcript 'I'm Jack Wisconsin 20-24' is highly likely to be a mis-transcription of ambient noise, as no clear speech is audible in the video."
+  ]
+}

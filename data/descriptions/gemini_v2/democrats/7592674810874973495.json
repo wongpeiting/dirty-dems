@@ -1,0 +1,77 @@
+{
+  "video_id": "7592674810874973495",
+  "visual_action": "A static image designed to look like a video game loading screen. The character Sonic the Hedgehog stands on the right side of a text box giving a thumbs-up. The text inside the box changes several times to display a political message. The word 'LOADING' is visible in the bottom left corner.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text mentions \"the Trump Administration\" and \"Trump was best friends with a pedophile\"."
+    },
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text states, \"This is your reminder that the Trump Administration has only released 1% of the Epstein files\" and accuses it of protecting predators."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text refers to the \"Epstein files\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "SONIC SAYS...",
+      "role": "meme_text"
+    },
+    {
+      "text": "This is your reminder that the Trump Administration has only released 1% of the Epstein files",
+      "role": "meme_text"
+    },
+    {
+      "text": "They promised they would release everything, but instead they redacted most of the information then flooded the news with different headlines.",
+      "role": "meme_text"
+    },
+    {
+      "text": "Don't let the constant stream of news distract you from the fact Trump was best friends with a pedophile",
+      "role": "meme_text"
+    },
+    {
+      "text": "and his administration is doing everything they can to protect child predators",
+      "role": "meme_text"
+    },
+    {
+      "text": "LOADING",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A voiceover imitating the video game character Sonic reads the on-screen text, claiming that the Trump administration released only 1% of the Epstein files, redacted information, and used the news as a distraction. The voiceover concludes by stating that Trump was friends with a pedophile and that his administration works to protect child predators.",
+  "emojis_present": [
+    "🗣️"
+  ],
+  "audio_music": "Upbeat, retro 8-bit video game music plays throughout, consistent with the Sonic the Hedgehog franchise. Over this music, a voiceover mimicking the character Sonic reads the on-screen text.",
+  "editing_pacing": "The video is a static image, with the text content changing via simple cuts at timed intervals.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Distrust",
+    "Outrage",
+    "Disgust"
+  ],
+  "cultural_references": [
+    "Sonic the Hedgehog",
+    "Sonic Says (meme format)"
+  ],
+  "central_claim": "The Trump administration is covering up its connection to Jeffrey Epstein and is actively protecting child predators.",
+  "intended_effect": "To convince the audience that Donald Trump is corrupt and morally unfit for office due to his alleged relationship with Jeffrey Epstein and his administration's subsequent actions.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,101 @@
+{
+  "video_id": "7555594232665345294",
+  "visual_action": "Donald Trump stands at a podium in a formal setting, speaking into a microphone. He is wearing a dark suit, white shirt, and a purple patterned tie, with a US flag pin on his lapel. He appears to be reading from a document, as his gaze is mostly directed downwards. The shot is a static, medium close-up for the entire duration of the video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker and visually present throughout the video. On-screen text reads 'PRESIDENT TRUMP'S PLAN...'"
+    },
+    {
+      "name": "Palestinians",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump repeatedly mentions Palestinians, saying, 'I challenge the Palestinians to take responsibility for their destiny' and speaks of 'Palestinian success.'"
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions the goal of creating 'durable Israeli security.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PRESIDENT TRUMP'S PLAN FOR PEACE IN THE MIDDLE EAST",
+      "role": "overlay"
+    },
+    {
+      "text": "There are many Palestinians",
+      "role": "overlay"
+    },
+    {
+      "text": "who wish to live in peace",
+      "role": "overlay"
+    },
+    {
+      "text": "I challenge the Palestinians to",
+      "role": "overlay"
+    },
+    {
+      "text": "take responsibility for their destiny",
+      "role": "overlay"
+    },
+    {
+      "text": "cause that's what we're giving them",
+      "role": "overlay"
+    },
+    {
+      "text": "we're giving them responsibility",
+      "role": "overlay"
+    },
+    {
+      "text": "the plan that we put forward today is",
+      "role": "overlay"
+    },
+    {
+      "text": "focused on ending the war immediately",
+      "role": "overlay"
+    },
+    {
+      "text": "getting all of our hostages back",
+      "role": "overlay"
+    },
+    {
+      "text": "and creating conditions",
+      "role": "overlay"
+    },
+    {
+      "text": "for durable Israeli",
+      "role": "overlay"
+    },
+    {
+      "text": "security and Palestinian success.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump outlines his plan for peace in the Middle East. He states that many Palestinians desire peace and challenges them to 'take responsibility for their destiny.' He says the plan is focused on 'ending the war immediately, getting all of our hostages back, and creating conditions for durable Israeli security and Palestinian success.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Donald Trump's speech. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "authority",
+    "hope"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's peace plan for the Middle East aims to end the war immediately and will succeed by making Palestinians take responsibility for their future, which will ensure both Israeli security and Palestinian success.",
+  "intended_effect": "To portray Donald Trump as a strong, decisive leader with a concrete plan to resolve the conflict in the Middle East.",
+  "uncertainty_flags": [
+    "The video footage appears to be from a speech Donald Trump gave during his first presidency (c. 2020), but the post's context (from the @whitehouse account, dated between Nov 2024 - July 2026) frames it as his current plan."
+  ]
+}

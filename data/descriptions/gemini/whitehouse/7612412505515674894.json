@@ -1,0 +1,104 @@
+{
+  "video_id": "7612412505515674894",
+  "visual_action": "Donald Trump, in a suit and tie, stands at a presidential podium with the Seal of the President of the United States. He speaks directly to the camera in a static, medium close-up shot against a blue curtain backdrop. The video concludes with a black and white credit slate showing images of the White House and a helicopter, with the text 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker and visually present for the entire speech."
+    },
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump begins, 'the United States and its partners have launched Operation Epic Fury...'"
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump states, 'We have hit hundreds of targets in Iran...'"
+    },
+    {
+      "name": "Ayatollah Khamenei",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump announces, 'Iran's formerly supreme leader, Ayatollah Khamenei, is dead.'"
+    },
+    {
+      "name": "Revolutionary Guard",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump lists targets 'including Revolutionary Guard facilities...'"
+    },
+    {
+      "name": "U.S. Central Command (CENTCOM)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says, 'Earlier today, CENTCOM shared the news that three U.S. military service members have been killed...'"
+    },
+    {
+      "name": "U.S. military service members",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions that 'three U.S. military service members have been killed in action.'"
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states, 'Our resolve, and likewise that of Israel, has never been stronger.'"
+    },
+    {
+      "name": "Iranian people",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump claims, '...the voices of the Iranian people could be heard cheering and celebrating in the streets...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces the launch of 'Operation Epic Fury,' a major U.S. military offensive against Iran. He reports that hundreds of targets have been hit and that Iran's Supreme Leader, Ayatollah Khamenei, is dead, which he claims the Iranian people are celebrating. Trump confirms the death of three U.S. service members, offers condolences, and vows to 'avenge their deaths.' He justifies the operation as a necessary action against a 'bloodthirsty terrorist regime' and calls on Iranian military forces to surrender in exchange for immunity, warning them of 'certain death' if they refuse. He concludes by urging Iranian 'patriots' to 'take back your country,' assuring them of American support.",
+  "emojis_present": [],
+  "audio_music": "Original speech audio.",
+  "editing_pacing": "The video is a single, static talking-head shot, followed by a brief credit slate at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride (in American military power)",
+    "Solemnity (when discussing fallen soldiers)",
+    "Righteousness (in justifying the military action)",
+    "Intimidation (in the direct threats to the Iranian military)"
+  ],
+  "cultural_references": [
+    "The slogan 'Death to America' is mentioned as a chant used by the Iranian regime."
+  ],
+  "central_claim": "The United States has launched a successful and justified military operation against Iran, resulting in the death of its Supreme Leader, and will continue until American security is guaranteed.",
+  "intended_effect": "To rally public support for the military operation, project an image of American strength and resolve, and instill confidence in the President's leadership.",
+  "uncertainty_flags": [
+    "The voice of Donald Trump may be AI-generated, as the cadence and some pronunciations sound unnatural."
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "video_id": "7555516615169674509",
+  "visual_action": "California Governor Gavin Newsom stands outdoors and looks directly into the camera with a neutral expression. He is wearing a blue sweater over a white collared shirt. The video is a static, selfie-style shot.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is the person shown on screen for the entire duration of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to \"trump bootlickers\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text mentions rigging elections \"for republicans\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the lion does not concern himself with trump bootlickers rigging their elections for republicans",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video; only a music track plays.",
+  "emojis_present": [],
+  "audio_music": "An upbeat pop-rock track plays throughout the video, creating a confident and resolute mood.",
+  "editing_pacing": "The video is a single, static shot with no edits or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Contempt",
+    "Defiance"
+  ],
+  "cultural_references": [
+    "The on-screen text is a political adaptation of the popular quote, 'A lion doesn't concern himself with the opinions of sheep,' which is widely associated with the character Tywin Lannister from the TV series 'Game of Thrones'."
+  ],
+  "central_claim": "Democrats, represented by 'the lion' (Gavin Newsom), are unconcerned by alleged efforts from Donald Trump's supporters to rig elections for Republicans.",
+  "intended_effect": "To portray Democrats as strong and undeterred, while framing Trump supporters and Republicans as corrupt and contemptible.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,119 @@
+{
+  "video_id": "7544490898613210423",
+  "visual_action": "A montage of speakers and news clips. It includes Donald Trump speaking at a podium, Lara Trump on a Fox News set, JD Vance speaking in front of an American flag, and Karoline Leavitt speaking at the White House press briefing podium. These are intercut with other commentators, clips of Trump giving a thumbs-up, on-screen graphics with economic data, and stock tickers. The video concludes with black-and-white footage of the White House and Marine One.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking and is repeatedly mentioned by name in audio clips, on-screen text, and the post's caption ('President Trump is back...')."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown speaking at a podium in front of an American flag."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown speaking at the White House press briefing podium."
+    },
+    {
+      "name": "Lara Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown speaking on a Fox News segment, identified by the chyron 'MY VIEW | WITH LARA TRUMP'."
+    },
+    {
+      "name": "Scott Bessent",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown speaking in an interview setting."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on several chyrons throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Consumer confidence is surging.",
+      "role": "caption"
+    },
+    {
+      "text": "Wages are rising, inflation is cooling",
+      "role": "caption"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "MY VIEW | WITH LARA TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "Wages are actually rising faster than inflation for the first time in 40 years.",
+      "role": "caption"
+    },
+    {
+      "text": "Under Trump you're able to buy more.",
+      "role": "caption"
+    },
+    {
+      "text": "REAL WAGES FROM JAN '25",
+      "role": "overlay"
+    },
+    {
+      "text": "Real wages are up 1.3% over last year and have increased each month since President Trump took office.",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE WASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "Blue collar wages are rising faster than they have risen in 60 years.",
+      "role": "caption"
+    },
+    {
+      "text": "The only other time it's been this high was during President Trump's first term.",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A series of speakers, including Donald Trump, his surrogates, and news commentators, make a number of positive claims about the economy under his administration. They state that consumer confidence is surging, wages are rising faster than inflation, and that Americans have more buying power. Specific claims include that \"blue collar wages are rising faster than they have risen in 60 years\" and that the only other time economic indicators were this high was \"during President Trump's first term.\" The video concludes with a speaker stating the administration is committed to \"putting more money back into the American people's pockets.\"",
+  "emojis_present": [],
+  "audio_music": "An uplifting, continuous orchestral track plays in the background throughout the video, creating a positive and triumphant tone.",
+  "editing_pacing": "The video is a fast-paced montage, with quick cuts between various speakers, news clips, and graphics.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Optimism",
+    "Pride",
+    "Confidence"
+  ],
+  "cultural_references": [],
+  "central_claim": "The economy under President Trump is historically strong, with rising wages and consumer confidence directly benefiting American workers.",
+  "intended_effect": "To persuade viewers of the Trump administration's economic success and to build confidence and support for its policies.",
+  "uncertainty_flags": []
+}

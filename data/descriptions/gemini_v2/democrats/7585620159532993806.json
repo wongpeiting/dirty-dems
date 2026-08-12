@@ -1,0 +1,152 @@
+{
+  "video_id": "7585620159532993806",
+  "visual_action": "The video is a slideshow of still images presented as evidence of Donald Trump's egotism. It starts with a photo of a building facade with a sign reading 'THE DONALD MEMORIAL C...'. It then shows a fake tweet from an account called 'FactPost' claiming Trump's name is being added to the Kennedy Center, with a doctored photo. Next, it displays 'PROPOSED DESIGNS' for coins featuring three different portraits of Donald Trump. This is contrasted with 'SCRAPPED DESIGNS' for coins featuring Frederick Douglass, a Women's Suffrage Marcher, and Ruby Bridges. Finally, it compares 'OLD PASSES' for national parks with a 'NEW PASSES' design that features portraits of George Washington and Donald Trump.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name and likeness are featured on a fake building sign, a fake tweet, fake proposed coins, and a fake national parks pass. The entire video is about him."
+    },
+    {
+      "name": "John F. Kennedy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on the Kennedy Center in a manipulated photo ('THE JOHN F. KEN...')."
+    },
+    {
+      "name": "Frederick Douglass",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name and portrait appear on a 'scrapped' coin design."
+    },
+    {
+      "name": "Ruby Bridges",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her name and image appear on a 'scrapped' coin design, labeled 'RUBY BRIDGES GOING TO SCHOOL'."
+    },
+    {
+      "name": "George Washington",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His portrait appears on the 'new' national parks pass design alongside Donald Trump's."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a fake tweet from an account named 'FactPost' is shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump renaming everything after himself instead of helping Americans",
+      "role": "overlay"
+    },
+    {
+      "text": "THE DONALD MEMORIAL C...",
+      "role": "other"
+    },
+    {
+      "text": "FactPost @factpostnews",
+      "role": "other"
+    },
+    {
+      "text": "New photo reveals Trump's name being added to the Kennedy Center facade.",
+      "role": "other"
+    },
+    {
+      "text": "THE JOHN F. KEN...",
+      "role": "other"
+    },
+    {
+      "text": "THE DONALD J. TRUMP MEMORIAL CEN...",
+      "role": "other"
+    },
+    {
+      "text": "PROPOSED DESIGNS:",
+      "role": "overlay"
+    },
+    {
+      "text": "LIBERTY",
+      "role": "meme_text"
+    },
+    {
+      "text": "1776 ~ 2026",
+      "role": "meme_text"
+    },
+    {
+      "text": "IN GOD WE TRUST",
+      "role": "meme_text"
+    },
+    {
+      "text": "SCRAPPED DESIGNS:",
+      "role": "overlay"
+    },
+    {
+      "text": "FREDERICK DOUGLASS",
+      "role": "overlay"
+    },
+    {
+      "text": "WOMEN'S SUFFRAGE MARCHER",
+      "role": "overlay"
+    },
+    {
+      "text": "RUBY BRIDGES GOING TO SCHOOL",
+      "role": "overlay"
+    },
+    {
+      "text": "VOTES for WOMEN",
+      "role": "meme_text"
+    },
+    {
+      "text": "OLD PASSES:",
+      "role": "overlay"
+    },
+    {
+      "text": "NEW PASSES:",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICA THE BEAUTIFUL",
+      "role": "meme_text"
+    },
+    {
+      "text": "RESIDENT",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The only audio is a song with choral-style vocals.",
+  "emojis_present": [],
+  "audio_music": "A somber, atmospheric pop song (identified as 'David' by Lorde) with choral vocals plays consistently throughout the video, creating a critical and melancholic tone.",
+  "editing_pacing": "The video is a slideshow of still images, with each image displayed for a few seconds before cutting to the next.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video consists entirely of fabricated images designed to satirize Donald Trump's perceived narcissism. These manipulations include: a photoshopped image suggesting the Kennedy Center is being renamed for Trump, presented via a fake tweet from a fictional source ('FactPost'); mock-ups of U.S. coins with Trump's portrait labeled as 'proposed designs'; and a fake 'new' national parks pass featuring Trump's portrait next to George Washington's.",
+  "emotions_signaled": [
+    "mockery",
+    "criticism",
+    "dismay"
+  ],
+  "cultural_references": [
+    "Lorde (song by)",
+    "Frederick Douglass",
+    "Ruby Bridges",
+    "Women's Suffrage Movement"
+  ],
+  "central_claim": "Donald Trump is a narcissist who would rename national institutions, currency, and parks after himself, prioritizing his ego over American history and citizens.",
+  "intended_effect": "To portray Donald Trump as a vain, self-aggrandizing leader who disrespects American history and institutions, thereby generating disapproval and opposition.",
+  "uncertainty_flags": []
+}

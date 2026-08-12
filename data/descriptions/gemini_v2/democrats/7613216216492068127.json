@@ -1,0 +1,77 @@
+{
+  "video_id": "7613216216492068127",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named 'FactPost'. The tweet text announces a political victory. Below the text are two images side-by-side: a photo of Roy Cooper smiling at a podium, and a photo of the North Carolina state flag waving against a blue sky. There is a slight, slow zoom-in on the photo of Roy Cooper.",
+  "cast": [
+    {
+      "name": "Roy Cooper",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen tweet: 'Former Governor Roy Cooper wins the North Carolina Democratic primary for U.S. Senate'. A photo of him is also shown."
+    },
+    {
+      "name": "Michael Whatley",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen tweet as Cooper's opponent: '...and will face Michael Whatley, former chairman of the RNC...'"
+    },
+    {
+      "name": "Republican National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies Michael Whatley as the 'former chairman of the RNC'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text refers to the 'North Carolina Democratic primary'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' appear as the author of the tweet shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Former Governor Roy Cooper wins the North Carolina Democratic primary for U.S. Senate and will face Michael Whatley, former chairman of the RNC, in the general election.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; only instrumental music plays.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the upbeat and celebratory song 'Sweet Caroline' by Neil Diamond, which plays throughout.",
+  "editing_pacing": "The video consists of a static image of a tweet with a very slow zoom-in on one of the photos within the tweet.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents its message through a fabricated tweet from a non-verified account named 'FactPost'. This is a staged document designed to look like a real-time news alert on social media.",
+  "emotions_signaled": [
+    "Celebration",
+    "Pride",
+    "Optimism"
+  ],
+  "cultural_references": [
+    "Sweet Caroline (song by Neil Diamond)"
+  ],
+  "central_claim": "Roy Cooper has won the North Carolina Democratic primary for the U.S. Senate and will now face Republican Michael Whatley in the general election.",
+  "intended_effect": "To create a sense of victory and positive momentum around Roy Cooper's campaign by announcing his primary win in a celebratory format.",
+  "uncertainty_flags": []
+}

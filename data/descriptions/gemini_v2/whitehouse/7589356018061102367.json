@@ -1,0 +1,91 @@
+{
+  "video_id": "7589356018061102367",
+  "visual_action": "Donald Trump and Israeli Prime Minister Benjamin Netanyahu stand together on the steps outside an ornate entrance to a building, identified by a doormat as The Mar-a-Lago Club. An Israeli flag is visible between them. Trump speaks and gestures with his hands while Netanyahu stands beside him, listening.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is visually present and speaks throughout the video, claiming credit for releasing hostages."
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown standing next to Trump and is identified in the on-screen text as 'Prime Minister Netanyahu'."
+    },
+    {
+      "name": "Biden Administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump explicitly contrasts his actions with the Biden administration, stating, 'None were released in the Biden administration. None.'"
+    },
+    {
+      "name": "Steve Witkoff",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump names him as part of the team that helped release hostages: '...released because of me, Steve Whitcoff...'"
+    },
+    {
+      "name": "Jared Kushner",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump names him as part of the team that helped release hostages: 'Jared Kushner, my whole team...'"
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump names him as part of the team that helped release hostages: '...my whole team, Marco Rubio...'"
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump names him as part of the team that helped release hostages: '...Pete Hexet.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Meets with Prime Minister Netanyahu at Mar-a-Lago",
+      "role": "overlay"
+    },
+    {
+      "text": "The Mar-a-Lago Club",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump claims that every hostage released was due to the efforts of himself and his team, which included Steve Witkoff, Jared Kushner, Marco Rubio, and Pete Hegseth. He asserts that, in contrast, \"None were released in the Biden administration.\" Trump then mentions they are working to retrieve the body of a deceased hostage, described as a \"wonderful young man\" whose family is currently inside Mar-a-Lago, and that he is the \"only one left.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump speaking. There is no background music or other sound.",
+  "editing_pacing": "The video is a single, static shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "accomplishment",
+    "sympathy",
+    "criticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration successfully secured the release of hostages, whereas the Biden administration has failed to do so.",
+  "intended_effect": "To convince the audience of Trump's effectiveness as a leader in foreign policy and hostage negotiations, while portraying the Biden administration as incompetent and unsuccessful in the same area.",
+  "uncertainty_flags": [
+    "The provided caption in the context is incomplete.",
+    "The names 'Steve Whitcoff' and 'Pete Hexet' in the transcript are likely phonetic misspellings of Steve Witkoff and Pete Hegseth."
+  ]
+}

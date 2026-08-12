@@ -1,0 +1,54 @@
+{
+  "video_id": "7613864676010511629",
+  "visual_action": "The video is a montage that alternates between two types of clips. The first type is monochrome military-style thermal or night vision footage showing targets (a pipeline, small boats, a tank-like vehicle) being destroyed by large explosions. This footage has a digital overlay with a target reticle and the word \"UNCLASSIFIED\". The second type of clip is from the cartoon SpongeBob SquarePants, showing the character dressed as a superhero. This pattern of 'military strike followed by SpongeBob clip' repeats multiple times.",
+  "cast": [
+    {
+      "name": "White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video was posted by the official @whitehouse account and depicts military strikes, implying the US government is the actor."
+    },
+    {
+      "name": "terrorists",
+      "kind": "unknown",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post's caption is \"A message to terrorists:\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    },
+    {
+      "text": "10M",
+      "role": "overlay"
+    },
+    {
+      "text": "2M",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a single line from the cartoon SpongeBob SquarePants, repeated after each clip of a military strike: \"You wanna see me do it again?\"",
+  "emojis_present": [],
+  "audio_music": "The audio alternates between loud, sharp explosion sound effects during the military footage and the cartoon dialogue from SpongeBob, which is accompanied by a light, whimsical musical sting. The contrast between the violent explosions and the childish cartoon audio creates a mocking effect.",
+  "editing_pacing": "The video uses very fast cuts, rapidly alternating between military strikes and the SpongeBob reaction clip in a repetitive montage format, characteristic of a meme.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Mockery",
+    "Intimidation"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants",
+    "\"Wanna see me do it again?\" meme"
+  ],
+  "central_claim": "The US government will relentlessly and effortlessly destroy its terrorist enemies, and it taunts them about its capability to do so.",
+  "intended_effect": "To project an image of overwhelming and casual military power, to mock and intimidate adversaries, and to create a viral, shareable piece of content using a popular meme.",
+  "uncertainty_flags": []
+}

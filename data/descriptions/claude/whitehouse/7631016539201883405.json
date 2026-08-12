@@ -1,0 +1,65 @@
+{
+  "video_id": "7631016539201883405",
+  "visual_action": "The video opens with a black-and-white shot of the U.S. Capitol dome partially obscured by fog, with trees in the foreground and text overlaid identifying the date and location. The second scene shows Melania Trump in a white blazer suit walking confidently through a Capitol corridor alongside a bearded man in a dark suit, with security and staff following behind. The third scene is a close-up of a carved bald eagle sculpture with the Latin motto \"E Pluribus Unum\" inscribed above it inside a Capitol building. The fourth scene shows Melania Trump seated at a hearing table before a microphone, reading from documents, wearing the same white blazer. A nameplate is partially visible on the table. The video closes on a plain white frame displaying an official-style circular seal reading \"FIRST LADY MELANIA TRUMP\" with the U.S. presidential eagle emblem at its center.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in Whisper transcript as 'First Lady Melania Trump'; visually identifiable by face and appearance walking through Capitol and seated at hearing table; named in on-screen seal 'FIRST LADY MELANIA TRUMP'"
+    },
+    {
+      "name": "unnamed bearded aide",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible walking alongside Melania Trump through the Capitol corridor; identity not named in audio or text"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ADVANCING NEW LEGISLATION\nCAPITOL HILL, WASHINGTON D.C.",
+      "role": "overlay"
+    },
+    {
+      "text": "APRIL 15, 2026",
+      "role": "overlay"
+    },
+    {
+      "text": "E PLURIBUS UNUM",
+      "role": "other"
+    },
+    {
+      "text": "FIRST LADY\nMELANIA TRUMP",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A voiceover (likely a news anchor or narrator) announces: \"First Lady Melania Trump is meeting with lawmakers on Capitol Hill today to work to improve the U.S. foster care system. It is part of her Fostering the Future initiative, which is focused on education.\" Melania Trump then speaks directly, saying: \"The foster care community requires action over awareness. My goal is to prepare these individuals to secure entry-level jobs, become financially independent, and eventually innovate, create new businesses. Beginning here in this room, we can once again change people's lives. With the new legislation, we can ensure that the opportunity is more than helpful for individuals in the foster care community. It can be their birthright.\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "Original sound featuring a narrator introduction followed by Melania Trump speaking directly; no background music detected. Tone is formal and official.",
+  "editing_pacing": "Slow, deliberate pacing with static or gently moving shots; cinematic black-and-white color grade throughout; cuts between establishing shots of the Capitol, a corridor walk, architectural detail, a hearing room, and a closing title card. Styled as a prestige documentary or official recap reel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride — evoked by the formal black-and-white cinematography, the presidential seal, and the Capitol imagery",
+    "gravitas/seriousness — conveyed by Melania's measured speech and hearing-room setting",
+    "inspiration/hope — from her language about 'birthright,' financial independence, and changing lives"
+  ],
+  "cultural_references": [
+    "E Pluribus Unum — the U.S. national motto, displayed on the Capitol eagle carving, invoking national unity",
+    "Presidential/First Lady seal — the closing title card uses a design modeled after the official U.S. Presidential Seal, adapted for the Office of the First Lady"
+  ],
+  "central_claim": "First Lady Melania Trump visited Capitol Hill on April 15, 2026 to advocate for new legislation supporting foster care youth through her \"Fostering the Future\" initiative, focused on education and economic independence.",
+  "intended_effect": "Viewers should feel admiration for Melania Trump as an active, purposeful First Lady championing a bipartisan cause (foster care reform), reinforcing her public image as a serious policy advocate.",
+  "uncertainty_flags": [
+    "The bearded man walking with Melania Trump is unidentified — could be a congressional staffer, aide, or lawmaker",
+    "The partially visible nameplate at the hearing table is not fully legible",
+    "The date April 15, 2026 is after the AI knowledge cutoff; the event is treated as real per instructions, but its details cannot be independently verified",
+    "It is unclear whether the opening narration is from a news broadcast, a White House narrator, or another source"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "video_id": "7480658365589343534",
+  "visual_action": "The video displays a series of still images. First, a screenshot of a tweet from the account 'FactPost' which claims Donald Trump is trying to boost Tesla's stock. This tweet includes a split-panel image showing Trump with a red Tesla on the left, and a silver Tesla Cybertruck in front of the White House on the right. Next, it shows a screenshot of a reply to that tweet from 'The Democrats' account, which reads \"Ugly ass truck\". The video concludes with a photoshopped image of a Tesla Cybertruck and a red inflatable tube man on the lawn of the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text of a tweet: \"Trump desperately tries to boost Tesla's plummeting stock...\""
+    },
+    {
+      "name": "Tesla",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The company is named in the on-screen tweet text (\"Tesla's plummeting stock\") and its Cybertruck is shown and mocked."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video features a screenshot of a tweet from the official account '@TheDemocrats' which says 'Ugly ass truck'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a screenshot of a tweet from the account 'FactPost' (@factpostnews)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump desperately tries to boost Tesla’s plummeting stock after accusing Americans of “illegally” boycotting the company",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Ugly ass truck",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of the song \"Vroom Vroom\" by Charli XCX, which features a distorted vocal sample repeatedly saying \"Let's ride.\"",
+  "emojis_present": [],
+  "audio_music": "The video features the high-energy, electronic hyperpop track \"Vroom Vroom\" by Charli XCX throughout. The song creates a chaotic and modern feel, punctuated by the repeated, distorted lyric \"Let's ride.\"",
+  "editing_pacing": "The video is a static slideshow, presenting three consecutive still images with simple cuts between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The final image is a digital composite. A Tesla Cybertruck and a red, wavy inflatable tube man (of the kind seen at car dealerships) have been digitally superimposed onto the lawn of the White House for satirical effect.",
+  "emotions_signaled": [
+    "mockery",
+    "derision"
+  ],
+  "cultural_references": [
+    "Tesla Cybertruck",
+    "Inflatable tube man (air dancer)",
+    "Vroom Vroom by Charli XCX"
+  ],
+  "central_claim": "The Tesla Cybertruck, which Donald Trump allegedly supports, has an ugly design comparable to a cheap marketing gimmick.",
+  "intended_effect": "To mock Donald Trump and the Tesla Cybertruck, and to encourage viewers to find them ridiculous.",
+  "uncertainty_flags": []
+}

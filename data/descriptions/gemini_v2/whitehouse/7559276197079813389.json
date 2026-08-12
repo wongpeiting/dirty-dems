@@ -1,0 +1,56 @@
+{
+  "video_id": "7559276197079813389",
+  "visual_action": "Donald Trump sits at a large wooden desk in a formal room, wearing a dark suit and red tie. He speaks directly towards the camera, occasionally looking down at a binder in front of him. The shot is a static, medium close-up.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown, identified by face recognition, and is the sole speaker throughout the video."
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"President Trump on Israel & Gaza Peace Deal\"."
+    },
+    {
+      "name": "Gaza",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"President Trump on Israel & Gaza Peace Deal\", and Trump states, \"We ended the war in Gaza\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump on Israel & Gaza Peace Deal",
+      "role": "overlay"
+    },
+    {
+      "text": "AS YOU KNOW LAST NIGHT WE REACHED A MOMENTOUS BREAKTHROUGH IN THE MIDDLE EAST SOMETHING THAT PEOPLE SAID WAS NEVER GOING TO BE DONE WE ENDED THE WAR IN GAZA AND REALLY ON A MUCH BIGGER BASIS CREATED PEACE AND I THINK IT'S GOING TO BE A LASTING PEACE HOPEFULLY AN EVERLASTING PEACE PEACE IN THE MIDDLE EAST WE SECURED THE RELEASE OF ALL OF THE REMAINING HOSTAGES AND THEY SHOULD BE RELEASED ON MONDAY OR TUESDAY GETTING THEM IS A COMPLICATED PROCESS I'D RATHER NOT TELL YOU WHAT THEY HAVE TO DO TO GET THEM THEY ARE PLACES YOU DON'T WANNA BE BUT WE ARE GETTING THE HOSTAGES BACK ON TUESDAY MONDAY OR TUESDAY AND THAT'LL BE A DAY OF JOY I'M GONNA TRY AND MAKE A TRIP OVER WE'RE GONNA TRY AND GET OVER THERE",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that his administration brokered a \"momentous breakthrough\" peace deal in the Middle East, ending the war in Gaza. He states that the deal has created what he hopes will be an \"everlasting peace\" and that as part of it, they have secured the release of all remaining hostages, who he says should be freed on Monday or Tuesday. He calls the process of their release \"complicated\" and says he plans to travel to the region to celebrate what will be \"a day of joy.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's unadorned speech, with no music or sound effects. The tone is formal and declarative.",
+  "editing_pacing": "The video is a single, static talking-head shot. The main editing feature is the use of dynamic on-screen captions that appear in sync with Trump's speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Hope",
+    "Seriousness",
+    "Joy"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump has achieved a historic peace deal, ending the war in Gaza and securing the release of all remaining hostages.",
+  "intended_effect": "To convince the viewer that Donald Trump is a successful and effective leader who can achieve peace where others have failed.",
+  "uncertainty_flags": []
+}

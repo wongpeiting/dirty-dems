@@ -1,0 +1,120 @@
+{
+  "video_id": "7650271141071768846",
+  "visual_action": "The video is a montage of highlights from the U.S. Men's National Soccer Team. It begins with a clip of Landon Donovan scoring a goal, followed by shots of him and his teammates celebrating, and fans cheering in the crowd. The montage continues with clips of various other goals scored by the U.S. team in different matches against different opponents, interspersed with shots of players and fans celebrating. The video abruptly ends with a clip of Donald Trump in a suit, dancing on an outdoor stage in front of a large crowd and an American flag backdrop.",
+  "cast": [
+    {
+      "name": "U.S. Men's National Soccer Team",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is a montage of the team's goals and celebrations."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video culminates with a clip of him dancing on stage, linking him to the preceding patriotic sports montage."
+    },
+    {
+      "name": "Landon Donovan",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "The commentator says 'Landon Donovan' as he is shown on the field, and then 'Donovan has scored' as he scores the first goal shown."
+    },
+    {
+      "name": "Tim Howard",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "The commentator says 'Howard gratefully claims it' at the start of the video as the goalkeeper is shown catching the ball."
+    },
+    {
+      "name": "Clint Dempsey",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The commentator says 'and Dempsey's denied again' during the first goal sequence."
+    },
+    {
+      "name": "FIFA",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The caption mentions 'FIFA WORLD CUP 2026'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GO",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "overlay"
+    },
+    {
+      "text": "USMNTHD",
+      "role": "overlay"
+    },
+    {
+      "text": "SEMIFINAL",
+      "role": "overlay"
+    },
+    {
+      "text": "MEX 0 0 USA",
+      "role": "overlay"
+    },
+    {
+      "text": "NATIONS LEAGUE SEMIFINAL",
+      "role": "overlay"
+    },
+    {
+      "text": "#allin or nothing",
+      "role": "other"
+    },
+    {
+      "text": "FINAL",
+      "role": "overlay"
+    },
+    {
+      "text": "🇮🇷 0 - 0 🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "MELBOURNE 191",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video begins with a sports commentator excitedly calling a play in a U.S. soccer match, naming players Tim Howard, Landon Donovan, and Clint Dempsey. The commentator's voice culminates with the call, \"Donovan has scored! Go, go, USA!\" The audio then transitions to the song \"Love Me Again\" by John Newman, which plays for the remainder of the video, featuring the lyrics \"I need to know now... can you love me again?\"",
+  "emojis_present": [
+    "🔥",
+    "🇮🇷",
+    "🇺🇸"
+  ],
+  "audio_music": "The video starts with the sound of an excited sports commentator and crowd noise. An upbeat, driving pop song with soulful vocals begins almost immediately and continues throughout the entire video, creating a triumphant and energetic mood for the sports montage.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different soccer goals, player celebrations, and fan reactions. Some goal replays are shown in slow motion for dramatic effect. The final cut to Donald Trump dancing is abrupt and tonally distinct from the preceding sports clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride",
+    "Excitement",
+    "Triumph",
+    "Surprise"
+  ],
+  "cultural_references": [
+    "FIFA World Cup",
+    "Love Me Again by John Newman"
+  ],
+  "central_claim": "The video connects the patriotic excitement and triumph of U.S. Men's National Soccer Team victories to Donald Trump.",
+  "intended_effect": "To evoke feelings of national pride and associate them with Donald Trump, portraying him as synonymous with American success and celebration.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,143 @@
+{
+  "video_id": "7551480954825526542",
+  "visual_action": "The video starts with a clip of Donald Trump speaking at a podium. It then cuts to a fabricated headline attributed to The New York Times on a white background. Finally, it cuts to a second fabricated news alert attributed to the Associated Press (AP) on a black background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium at the beginning of the video, where he says he will \"bring back free speech to America.\""
+    },
+    {
+      "name": "Jimmy Kimmel",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in a fabricated New York Times headline that reads, \"ABC Pulls Jimmy Kimmel Off Air for Charlie Kirk Comments After F.C.C. Pressure.\""
+    },
+    {
+      "name": "Stephen Colbert",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in a fabricated Associated Press alert that reads, \"Stephen Colbert's 'Late Show' is canceled by CBS and will end in May 2026.\""
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the fabricated New York Times headline regarding Jimmy Kimmel."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The masthead \"The New York Times\" appears above a fabricated news headline."
+    },
+    {
+      "name": "Associated Press",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The \"AP\" logo appears on a fabricated news alert."
+    },
+    {
+      "name": "ABC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the fabricated headline about Jimmy Kimmel."
+    },
+    {
+      "name": "F.C.C.",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The Federal Communications Commission is named in the fabricated headline about Jimmy Kimmel."
+    },
+    {
+      "name": "CBS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the fabricated news alert about Stephen Colbert."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I WILL ALSO",
+      "role": "caption"
+    },
+    {
+      "text": "SIGN AN EXECUTIVE ORDER",
+      "role": "caption"
+    },
+    {
+      "text": "TO IMMEDIATELY STOP",
+      "role": "caption"
+    },
+    {
+      "text": "ALL GOVERNMENT CENSORSHIP",
+      "role": "caption"
+    },
+    {
+      "text": "AND BRING BACK",
+      "role": "caption"
+    },
+    {
+      "text": "FREE SPEECH TO AMERICA",
+      "role": "caption"
+    },
+    {
+      "text": "THE INAUGURATION OF DONALD TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "The New York Times",
+      "role": "overlay"
+    },
+    {
+      "text": "ABC Pulls Jimmy Kimmel Off Air for Charlie Kirk Comments After F.C.C. Pressure",
+      "role": "overlay"
+    },
+    {
+      "text": "AP",
+      "role": "overlay"
+    },
+    {
+      "text": "Stephen Colbert's 'Late Show' is canceled by CBS and will end in May 2026",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"I will also sign an executive order to immediately stop all government censorship and bring back free speech to America.\"",
+  "emojis_present": [],
+  "audio_music": "The video begins with only Donald Trump's voice. When the first fabricated headline appears, a loud, single, ominous horn-like sound effect plays. When the second fabricated headline appears, the sound of crickets chirping is heard.",
+  "editing_pacing": "The video consists of a static shot of Trump speaking, followed by two quick cuts to static images of fabricated news headlines.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents two fabricated news headlines designed to look like they are from The New York Times and the Associated Press. The first claims Jimmy Kimmel was pulled off the air due to pressure, and the second claims Stephen Colbert's show was canceled. These are staged to satirically suggest these would be the consequences of Trump's stated policy on \"free speech.\"",
+  "emotions_signaled": [
+    "mockery",
+    "irony",
+    "alarm"
+  ],
+  "cultural_references": [
+    "Jimmy Kimmel",
+    "Stephen Colbert",
+    "The Late Show"
+  ],
+  "central_claim": "Donald Trump's promise to \"bring back free speech\" is disingenuous and would actually lead to government-driven censorship of his media critics.",
+  "intended_effect": "To cause viewers to question Trump's commitment to free speech and view him as a threat to press freedom.",
+  "uncertainty_flags": []
+}

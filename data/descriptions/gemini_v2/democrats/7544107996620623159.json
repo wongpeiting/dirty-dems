@@ -1,0 +1,61 @@
+{
+  "video_id": "7544107996620623159",
+  "visual_action": "A slideshow of two static images. The first is a screenshot of a tweet from the account 'FactPost'. The tweet text criticizes the cost of deploying the National Guard to D.C. and is paired with a split image of soldiers near the U.S. Capitol and the Washington, D.C. flag. The second image shows three National Guard soldiers in uniform carrying black trash bags on a brick path.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text of a tweet reads, \"New analysis finds Trump's deployment of the National Guard to DC...\""
+    },
+    {
+      "name": "National Guard",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet text mentions \"deployment of the National Guard,\" and the images show soldiers in uniform."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays a screenshot of a tweet from the account \"FactPost\" with the handle \"@factpostnews\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New analysis finds Trump's deployment of the National Guard to DC costs an estimated $1 million per day.",
+      "role": "overlay"
+    },
+    {
+      "text": "dropping $1M a day to have soldiers pick up trash",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic slide guitar melody plays throughout, creating a sad and mocking tone. The sound is widely recognized as the 'sad SpongeBob music' meme.",
+  "editing_pacing": "A simple slideshow with a single cut between two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval",
+    "frustration"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants (via 'sad SpongeBob music' meme)"
+  ],
+  "central_claim": "Donald Trump wastefully spent $1 million per day to have National Guard soldiers perform menial tasks like picking up trash in Washington D.C.",
+  "intended_effect": "To generate disapproval of Donald Trump by portraying his decisions as fiscally irresponsible and a misuse of the military.",
+  "uncertainty_flags": []
+}

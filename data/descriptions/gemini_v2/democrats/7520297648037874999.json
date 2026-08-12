@@ -1,0 +1,75 @@
+{
+  "video_id": "7520297648037874999",
+  "visual_action": "A static image of a screenshot of a tweet from the account 'FactPost'. The tweet text announces a Supreme Court decision regarding Planned Parenthood. Below the text, there is a group photo of several Supreme Court justices next to the Planned Parenthood logo.",
+  "cast": [
+    {
+      "name": "The Supreme Court",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet text reads, 'The Supreme Court has allowed states to cut off Medicaid funding...' and a photo of justices is shown."
+    },
+    {
+      "name": "Planned Parenthood",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet text reads, '...Medicaid funding for Planned Parenthood.' and the organization's logo is shown on screen."
+    },
+    {
+      "name": "Medicaid",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions 'Medicaid funding'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screenshot shows a tweet from the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost ☑️",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Supreme Court has allowed states to cut off Medicaid funding for Planned Parenthood.",
+      "role": "overlay"
+    },
+    {
+      "text": "Planned Parenthood®",
+      "role": "overlay"
+    },
+    {
+      "text": "Care. No matter what.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video.",
+  "emojis_present": [],
+  "audio_music": "A short, ominous, and dramatic orchestral musical sting plays throughout the video, creating a serious and alarming tone.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Supreme Court has allowed states to stop providing Medicaid funding to Planned Parenthood.",
+  "intended_effect": "To generate alarm and concern over a Supreme Court decision negatively impacting Planned Parenthood's funding.",
+  "uncertainty_flags": []
+}

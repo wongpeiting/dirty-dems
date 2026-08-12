@@ -1,0 +1,94 @@
+{
+  "video_id": "7558524681318452535",
+  "visual_action": "The video shows a C-SPAN broadcast clip of House Speaker Mike Johnson at a podium with American flags behind him. He says, \"Thank you all so much,\" and walks away. As he leaves, a reporter shouts a question at him. The screen has a composite layout, with the main clip of Johnson at the bottom and two smaller inset video feeds at the top showing the Senate chamber and related chyrons.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking and walking away from a podium, and is identified by name in a large text overlay and a C-SPAN chyron."
+    },
+    {
+      "name": "Adelita Grijalva",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is named in the main on-screen text ('...swearing in Adelita Grijalva') and in the shouted question from a reporter ('When will you swear in Ms. Grijalva?')."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is referenced in the on-screen text via the phrase 'the Epstein files'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male voice is heard shouting a question at Mike Johnson as he walks away."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Mike Johnson just WALKED AWAY after getting asked about swearing in Adelita Grijalva, the last vote needed to release the Epstein files",
+      "role": "overlay"
+    },
+    {
+      "text": "THANK YOU ALL",
+      "role": "caption"
+    },
+    {
+      "text": "WHEN WILL YOU SWEAR",
+      "role": "caption"
+    },
+    {
+      "text": "IN MS. GRIJALVA?",
+      "role": "caption"
+    },
+    {
+      "text": "U.S. SENATE",
+      "role": "chyron"
+    },
+    {
+      "text": "Waiting for a Senator to Speak",
+      "role": "chyron"
+    },
+    {
+      "text": "Today: Votes Possible on Gov't Funding Packages",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. CAPITOL",
+      "role": "chyron"
+    },
+    {
+      "text": "House Speaker Mike Johnson Remarks on Day 7 of Gov't Shutdown",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Mike Johnson ends his remarks by saying, \"Thank you all so much.\" As he walks away, an unseen reporter shouts, \"Mr. Speaker, when will you swear in Ms. Grijalva?\" Johnson does not respond.",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of speech from the C-SPAN clip. There is no music or added sound effects.",
+  "editing_pacing": "The video is a single, unedited clip from a broadcast, shown with a static camera angle. Text is overlaid on top, but there are no cuts, zooms, or other editing techniques applied to the underlying video footage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Mike Johnson is deliberately avoiding swearing in Adelita Grijalva to prevent the release of files related to Jeffrey Epstein, implying Johnson is part of a cover-up.",
+  "intended_effect": "To portray Mike Johnson as evasive and potentially complicit in a conspiracy, thereby generating suspicion and distrust among viewers.",
+  "uncertainty_flags": []
+}

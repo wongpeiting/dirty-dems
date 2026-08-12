@@ -1,0 +1,101 @@
+{
+  "video_id": "7597872229052845326",
+  "visual_action": "The video is a fast-paced slideshow set against a white background with text overlays. It begins with a photo of Jeffrey Epstein and the text 'WHERE IS MY BFF?'. A black silhouette of a person appears. This is followed by a photo of Pam Bondi next to a group photo of Donald Trump, Melania Trump, Jeffrey Epstein, and Ghislaine Maxwell, with the text 'WHERE ARE THE FILES?'. The silhouette appears again. More text appears sequentially: 'WHAT IS THAT CREATURE?', 'SCIENTIFIC NAME DONALD JOHN TRUMP', and 'COMMONLY REFERRED AS UGLY :('. The video ends with a brief, shaky clip of Donald Trump in a white polo shirt standing in what appears to be a hotel lobby.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photograph with Jeffrey Epstein, in a video clip at the end of the post, and his name 'DONALD JOHN TRUMP' appears as on-screen text. He is also identified by the face-ID system."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A photo of him appears at the start of the video, and he is in a group photo with Donald Trump. The text 'WHERE IS MY BFF?' appears next to his initial photo, making him central to the video's claim."
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo of her is shown on screen. She is also identified by the face-ID system."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She appears in a group photo with Donald Trump and Jeffrey Epstein. She is also identified by the face-ID system."
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She appears in a group photo with Donald Trump, Melania Trump, and Jeffrey Epstein."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WHERE IS MY BFF?",
+      "role": "overlay"
+    },
+    {
+      "text": "WHERE ARE THE FILES?",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT IS THAT CREATURE?",
+      "role": "overlay"
+    },
+    {
+      "text": "SCIENTIFIC NAME",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD JOHN TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "COMMONLY REFERRED AS",
+      "role": "overlay"
+    },
+    {
+      "text": "UGLY :(",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no discernible dialogue in the video. The audio consists of an instrumental music track with an occasional vocal sample. The provided transcript 'INTRO Oh D Julius MATT' does not match the audio.",
+  "emojis_present": [
+    "😈"
+  ],
+  "audio_music": "The video features a continuous, heavy, and distorted electronic track identified as 'SARAVIA FUNK'. The music has an ominous and intense tone, which is consistent with the mocking and accusatory nature of the visuals.",
+  "editing_pacing": "The video uses a rapid, fast-cut slideshow style, characteristic of many TikTok memes. Images and text appear and disappear quickly.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Suspicion",
+    "Contempt"
+  ],
+  "cultural_references": [
+    "The video uses the song 'SARAVIA FUNK', a popular electronic track frequently used in TikTok memes, to create a specific mood."
+  ],
+  "central_claim": "The video implies Donald Trump has a suspicious relationship with Jeffrey Epstein and is also a physically repulsive person who should be dehumanized.",
+  "intended_effect": "To evoke disgust and suspicion toward Donald Trump by linking him to Jeffrey Epstein's scandal and simultaneously mocking his appearance.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript does not accurately reflect the audio, which is music without clear dialogue."
+  ]
+}

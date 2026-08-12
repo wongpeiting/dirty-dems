@@ -1,0 +1,114 @@
+{
+  "video_id": "7586010777153309966",
+  "visual_action": "A man in a suit, Robert F. Kennedy Jr., speaks directly to the camera in front of an American flag. The video cuts to a montage featuring Donald Trump smiling and speaking at a podium, Trump shaking hands with people in an office, and Robert F. Kennedy Jr. speaking at a podium. The montage also includes several other unnamed individuals speaking at podiums and a display board showing the logos of numerous pharmaceutical companies under the heading \"LOWER DRUG PRICES FOR AMERICANS.\" The video concludes by returning to Robert F. Kennedy Jr. speaking to the camera, followed by a black-and-white image of the White House with the text \"THE WHITE HOUSE.\"",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker throughout the video, explaining the drug pricing policy. His presence is confirmed by face-ID."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium and is referred to as 'the president' who initiated the policy. His presence is confirmed by face-ID."
+    },
+    {
+      "name": "Pharmaceutical companies",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Logos for companies including GSK, Boehringer Ingelheim, Merck, Sanofi, Bristol Myers Squibb, Novartis, Genentech, Amgen, and Gilead are shown on a board. The speaker discusses getting these companies to lower their prices."
+    },
+    {
+      "name": "unnamed speakers",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several other unidentified individuals are shown speaking at podiums during the montage sequence."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LOWER DRUG PRICES FOR AMERICANS",
+      "role": "overlay"
+    },
+    {
+      "text": "GSK",
+      "role": "overlay"
+    },
+    {
+      "text": "Boehringer Ingelheim",
+      "role": "overlay"
+    },
+    {
+      "text": "MERCK",
+      "role": "overlay"
+    },
+    {
+      "text": "sanofi",
+      "role": "overlay"
+    },
+    {
+      "text": "Bristol Myers Squibb",
+      "role": "overlay"
+    },
+    {
+      "text": "NOVARTIS",
+      "role": "overlay"
+    },
+    {
+      "text": "Genentech",
+      "role": "overlay"
+    },
+    {
+      "text": "AMGEN",
+      "role": "overlay"
+    },
+    {
+      "text": "GILEAD",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "WASHINGTON",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump | Rx",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Robert F. Kennedy Jr. advocates for a \"Most-Favored-Nation\" drug pricing policy, stating that Americans pay, on average, three times more for the same drugs as Europeans. He credits President Trump for taking \"bold action\" to demand fair pricing from pharmaceutical companies. He announces that nine more companies have joined the program, bringing the total to 14 of the 17 largest firms, and praises the president's \"bold leadership\" and \"bold vision.\"",
+  "emojis_present": [],
+  "audio_music": "An uplifting and serious orchestral score plays in the background throughout the entire video, lending a sense of importance and positivity to the speech.",
+  "editing_pacing": "The video uses a mix of static talking-head shots and a faster-paced montage with quick cuts between different speakers, events, and informational graphics.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Confidence",
+    "Hope",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump's administration is successfully lowering prescription drug costs for Americans by forcing pharmaceutical companies to adopt fairer, globally-aligned pricing.",
+  "intended_effect": "To persuade viewers that President Trump is effectively fighting for lower healthcare costs for ordinary Americans and achieving significant results through strong leadership.",
+  "uncertainty_flags": [
+    "The identities of several individuals shown speaking at podiums during the montage could not be determined."
+  ]
+}

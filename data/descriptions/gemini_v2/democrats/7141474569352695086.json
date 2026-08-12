@@ -1,0 +1,45 @@
+{
+  "video_id": "7141474569352695086",
+  "visual_action": "Michelle Obama stands at a podium with microphones in front of her, delivering a speech. American flags are visible in the background. The shot is a static, medium close-up for the entire duration of the video.",
+  "cast": [
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, shown in a close-up shot throughout, and the on-screen text identifies the clip as her message."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Michelle Obama refers to him by name and story, mentioning \"a portrait of a biracial kid with an unusual name\" and quoting him: \"Because as Barack said...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Michelle Obama's message to young people ♡",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Michelle Obama reflects on the significance of her and Barack Obama's portraits being in the White House. She describes him as \"a biracial kid with an unusual name\" and herself as \"the daughter of a water pump operator and a stay-at-home mom.\" She says this serves as a reminder that there's a place for everyone in America and is meant to inspire any young person who doubts themselves to believe that they too can achieve great things, concluding, \"That is what this country is about.\"",
+  "emojis_present": [
+    "♡"
+  ],
+  "audio_music": "The audio consists solely of Michelle Obama's unadorned speech. There is no music or any other sound.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts, zooms, or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "inspiration",
+    "hope",
+    "pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "The success of Michelle and Barack Obama, who came from humble backgrounds, proves that there is a place for everyone in America and should inspire young people to believe they can succeed too.",
+  "intended_effect": "To inspire viewers, particularly young people, with a message of hope and possibility based on the Obamas' life stories.",
+  "uncertainty_flags": []
+}

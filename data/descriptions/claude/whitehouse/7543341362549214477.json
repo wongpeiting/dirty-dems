@@ -1,0 +1,70 @@
+{
+  "video_id": "7543341362549214477",
+  "visual_action": "The video consists of two near-identical static keyframes showing a formatted official White House proclamation document. The top portion has a dark navy blue background featuring a white illustrated graphic of the White House with a small red flag on top, beneath which the word \"PROCLAMATION\" appears in a bordered label. Below that, in large white serif-style uppercase text, the title \"HONORING THE VICTIMS OF THE TRAGEDY IN MINNEAPOLIS, MINNESOTA\" is displayed, with the date \"August 27, 2025\" underneath. The lower portion of the document switches to a white background with black text, presenting the full proclamation body text and closing, signed \"DONALD J. TRUMP.\"",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The document is signed 'DONALD J. TRUMP' at the bottom and the proclamation is issued 'BY THE PRESIDENT OF THE UNITED STATES OF AMERICA.'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "White House logo/illustration appears at the top of the proclamation; account is @whitehouse."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PROCLAMATION",
+      "role": "overlay"
+    },
+    {
+      "text": "HONORING THE VICTIMS OF THE TRAGEDY IN MINNEAPOLIS, MINNESOTA",
+      "role": "overlay"
+    },
+    {
+      "text": "August 27, 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "role": "overlay"
+    },
+    {
+      "text": "As a mark of respect for the victims of the senseless acts of violence perpetrated on August 27, 2025, in Minneapolis, Minnesota, by the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, I hereby order that the flag of the United States shall be flown at half-staff at the White House and upon all public buildings and grounds, at all military posts and naval stations, and on all naval vessels of the Federal Government in the District of Columbia and throughout the United States and its Territories and possessions until sunset, August 31, 2025. I also direct that the flag shall be flown at half-staff for the same length of time at all United States embassies, legations, consular offices, and other facilities abroad, including all military facilities and naval vessels and stations.",
+      "role": "overlay"
+    },
+    {
+      "text": "IN WITNESS WHEREOF, I have hereunto set my hand this twenty-seventh day of August, in the year of our Lord two thousand twenty-five, and of the Independence of the United States of America the two hundred and fiftieth.",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD J. TRUMP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken audio or dialogue is present. The audio track is listed as \"original sound - The White House,\" with no Whisper transcript, indicating silence or ambient sound only.",
+  "emojis_present": [],
+  "audio_music": "No music or speech detected; audio track is credited as \"original sound - The White House,\" suggesting silence or minimal ambient sound.",
+  "editing_pacing": "Static document slideshow; two near-identical keyframes with no cuts, motion, or effects — essentially a still image presented as a short video.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "solemnity — evoked by the formal proclamation format, dark navy header, and half-staff flag order",
+    "mourning — evoked by the subject matter of honoring victims of violence"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Donald J. Trump issued an official proclamation on August 27, 2025, ordering U.S. flags to be flown at half-staff through August 31, 2025, in honor of victims of a violent tragedy in Minneapolis, Minnesota.",
+  "intended_effect": "To inform viewers of the official presidential proclamation and signal a formal, respectful government response to a tragic event in Minneapolis.",
+  "uncertainty_flags": [
+    "The specific nature of the 'senseless acts of violence' in Minneapolis on August 27, 2025 is not described in the proclamation or the caption; the event itself is unspecified.",
+    "The date August 27, 2025 is after the model's knowledge cutoff; the event cannot be independently verified, but the document is treated as authentic per instructions.",
+    "No actual signature image is visible on the proclamation — only the printed name 'DONALD J. TRUMP'; it is unclear if a signature was present in the original document."
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "video_id": "7165628977325919530",
+  "visual_action": "The video is a fast-paced montage of news clips. It begins with several different female news anchors speaking. It then cuts to a CNN broadcast segment showing election results from \"AMERICA'S CHOICE 2022,\" with a chyron stating \"MANY KEY STATES SEE HIGH TURNOUT OF YOUNG VOTERS.\" The final segment shows an overlay of a headline from \"THE HILL\" which reads, \"The 2022 midterms were swept by a youth wave that isn't pulling back,\" set over B-roll footage of young people at a protest or rally.",
+  "cast": [
+    {
+      "name": "Young Voters",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video's central theme, repeatedly stated in audio (\"Young voters,\" \"Generation Z\") and on-screen text (\"YOUNG VOTERS TURNED OUT,\" \"HIGH TURNOUT OF YOUNG VOTERS\")."
+    },
+    {
+      "name": "unnamed news anchors",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Multiple news anchors are shown speaking in a montage at the beginning of the video."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and broadcast graphics are featured in a segment of the video."
+    },
+    {
+      "name": "The Hill",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A headline from \"THE HILL\" is shown on screen."
+    },
+    {
+      "name": "Mark Kelly",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name \"KELLY\" appears on a CNN election result chyron for the Arizona Senate race."
+    },
+    {
+      "name": "Blake Masters",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name \"MASTERS\" appears on a CNN election result chyron for the Arizona Senate race."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "YOUNG VOTERS TURNED OUT",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICA'S CHOICE 2022",
+      "role": "chyron"
+    },
+    {
+      "text": "MANY KEY STATES SEE HIGH TURNOUT OF YOUNG VOTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. SENATE 48 49",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. HOUSE 191 209",
+      "role": "chyron"
+    },
+    {
+      "text": "ARIZONA SENATE | KEY RACE ALERT | KELLY 51.4% | MASTERS 46.4%",
+      "role": "chyron"
+    },
+    {
+      "text": "THE HILL",
+      "role": "overlay"
+    },
+    {
+      "text": "The 2022 midterms were swept by a youth wave that isn't pulling back",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A rapid succession of audio clips from various news reports states that young voters, specifically Generation Z, turned out in large numbers for the election. Phrases like \"Young voters, specifically Generation Z,\" \"Gen Z voters,\" and \"Gen Z literally made history\" are repeated by different voices, creating a chorus effect.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, high-energy dance track, identified as Beyoncé's \"BREAK MY SOUL\", plays throughout the entire video, creating a celebratory and empowering mood.",
+  "editing_pacing": "The video uses very fast cuts in a montage style, quickly cycling through multiple news clips and text overlays to create a high-energy and urgent feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Empowerment",
+    "Celebration"
+  ],
+  "cultural_references": [
+    "Beyoncé"
+  ],
+  "central_claim": "Young voters, particularly Gen Z, had a historically high turnout in the 2022 midterm elections, creating a powerful \"youth wave.\"",
+  "intended_effect": "To celebrate the political impact of young voters and energize them, making them feel proud of their collective power.",
+  "uncertainty_flags": []
+}

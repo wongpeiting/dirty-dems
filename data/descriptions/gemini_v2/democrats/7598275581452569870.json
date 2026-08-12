@@ -1,0 +1,53 @@
+{
+  "video_id": "7598275581452569870",
+  "visual_action": "A montage of Alexandria Ocasio-Cortez (AOC). The main footage shows her speaking passionately into a microphone at an outdoor event, with an older man standing behind her. This is intercut with various other clips of her: smiling, waving to a large crowd in an arena, walking down stairs in sunglasses, hugging another woman, and interacting warmly with people, including a child. The video has a warm color grade and a vignette effect.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker and is featured in every shot of the video montage."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID. An older man with glasses is visible standing behind Alexandria Ocasio-Cortez during her speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "👑",
+      "role": "caption"
+    },
+    {
+      "text": "BULLY FREE ZONE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Alexandria Ocasio-Cortez delivers a speech describing the America she is proud of. She defines this America as one that believes in \"true freedom,\" which she says includes not only freedom of speech but also \"the economic freedoms to live in dignity,\" specifically citing the importance of being \"paid a living wage.\"",
+  "emojis_present": [
+    "👑"
+  ],
+  "audio_music": "An uplifting, ambient instrumental track plays continuously under AOC's speech, giving the video an inspirational and cinematic feel.",
+  "editing_pacing": "The video is a montage with quick cuts between different clips of AOC, creating a dynamic and engaging pace.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Inspiration",
+    "Hope",
+    "Pride"
+  ],
+  "cultural_references": [
+    "In one clip, AOC wears a circular pin with red, white, and blue colors that strongly resembles the Pepsi logo."
+  ],
+  "central_claim": "True American freedom, championed by Alexandria Ocasio-Cortez, includes not just freedom of speech but also economic freedoms like the right to a living wage.",
+  "intended_effect": "To inspire viewers with Alexandria Ocasio-Cortez's vision of America and associate her with the fight for economic justice.",
+  "uncertainty_flags": [
+    "The authoritative face-ID identifies Zohran Mamdani on screen, but the person shown standing behind AOC appears to be a significantly older man than Mamdani. This may be an error in the face-ID data."
+  ]
+}

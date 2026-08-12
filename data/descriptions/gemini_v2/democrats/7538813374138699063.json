@@ -1,0 +1,62 @@
+{
+  "video_id": "7538813374138699063",
+  "visual_action": "A static image shows a blurry, out-of-focus yellow circle against a plain, light-colored background. Black text is overlaid on the circle.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump just appointed a project 2025 author..."
+    },
+    {
+      "name": "unnamed Project 2025 author",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "...a project 2025 author that was at the insurrection on January 6th..."
+    },
+    {
+      "name": "unnamed previous appointee",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "...after the previous one was fired for refusing to lie about bad jobs numbers"
+    },
+    {
+      "name": "Project 2025",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "...a project 2025 author..."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump just appointed a project 2025 author that was at the insurrection on January 6th after the previous one was fired for refusing to lie about bad jobs numbers",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male vocalist sings a song in Russian. The provided transcript, \"I didn't see anyone done this thing,\" does not match the Russian lyrics.",
+  "emojis_present": [],
+  "audio_music": "A continuous somber or pensive-sounding Russian rock song plays throughout the video. The identified track is 'Pachka sigaret' by Gruppa Viktor.",
+  "editing_pacing": "The video is a single, static shot with no edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern"
+  ],
+  "cultural_references": [
+    "The song 'Pachka sigaret' by Gruppa Viktor, a cover of a famous song by the Soviet/Russian rock band Kino."
+  ],
+  "central_claim": "Donald Trump appointed an author from Project 2025 who participated in the January 6th insurrection, after firing the previous appointee for being unwilling to lie about job numbers.",
+  "intended_effect": "To cause alarm and concern about Donald Trump's judgment and his choice of appointees.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is inaccurate as the audio is a song with Russian lyrics."
+  ]
+}

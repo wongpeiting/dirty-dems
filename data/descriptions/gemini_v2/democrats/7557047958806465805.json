@@ -1,0 +1,103 @@
+{
+  "video_id": "7557047958806465805",
+  "visual_action": "The video displays a screenshot of a tweet from Senator Reverend Raphael Warnock. The tweet shows two images side-by-side, comparing Anthem health insurance premiums for 2025 and 2026. The video then zooms in on the 2025 price ($307.20/month) with an overlay reading \"2025 prices,\" and then cuts to a zoom-in on the 2026 price ($964.30/month) with an overlay reading \"2026 prices.\"",
+  "cast": [
+    {
+      "name": "Raphael Warnock",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet from \"Senator Reverend Raphael Warnock @SenatorWarnock\" is the central element of the video."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text of the on-screen tweet states, \"Republicans in Washington did this.\""
+    },
+    {
+      "name": "Anthem",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The health insurance plan screenshots feature the \"Anthem\" logo and name."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Reverend Raphael Warnock @SenatorWarnock",
+      "role": "overlay"
+    },
+    {
+      "text": "I was sent this by a Georgian this morning. 2025 premiums vs 2026 premiums for someone making $65k a year. Republicans in Washington did this. This is what I'm fighting to stop. This is what's at stake in this shutdown fight.",
+      "role": "overlay"
+    },
+    {
+      "text": "2025 prices",
+      "role": "overlay"
+    },
+    {
+      "text": "LOWER EXPENSE $",
+      "role": "overlay"
+    },
+    {
+      "text": "Anthem",
+      "role": "overlay"
+    },
+    {
+      "text": "Anthem Bronze Blue Value X 5000 ($0 Virtual Visits + $0 Select Drugs)",
+      "role": "overlay"
+    },
+    {
+      "text": "$307.20 /month",
+      "role": "overlay"
+    },
+    {
+      "text": "after $464.00 savings",
+      "role": "overlay"
+    },
+    {
+      "text": "OFFICE VISITS $30",
+      "role": "overlay"
+    },
+    {
+      "text": "2026 prices",
+      "role": "overlay"
+    },
+    {
+      "text": "Anthem Bronze Blue Value HMO 5000 $30 $0 Virtual PCP $0 Select Drugs",
+      "role": "overlay"
+    },
+    {
+      "text": "$964.30 /month",
+      "role": "overlay"
+    },
+    {
+      "text": "OFFICE VISITS $30",
+      "role": "overlay"
+    },
+    {
+      "text": "GENERIC DRUGS $20",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken dialogue, only a sad musical track.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and mournful instrumental track plays continuously throughout the video, creating a sense of sadness and alarm.",
+  "editing_pacing": "The video consists of static shots and slow zooms into different parts of a screenshot, focusing first on a lower price and then on a significantly higher price.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "worry",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans are responsible for a massive increase in health insurance premiums for Georgians from 2025 to 2026.",
+  "intended_effect": "To create alarm and anger towards Republicans over rising healthcare costs, and to rally support for Democrats who claim to be fighting against these increases.",
+  "uncertainty_flags": []
+}

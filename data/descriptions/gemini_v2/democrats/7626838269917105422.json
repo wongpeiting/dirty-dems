@@ -1,0 +1,68 @@
+{
+  "video_id": "7626838269917105422",
+  "visual_action": "A static shot of Melania Trump speaking at a podium in what appears to be the White House. She is flanked by American flags. A C-SPAN chyron is visible at the bottom of the frame.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visibly shown speaking at a podium for the entire video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the speech ('Donald and I') and in the on-screen text ('Trump partied with Epstein')."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the speech ('as Epstein') and in the on-screen text ('partied with Epstein')."
+    },
+    {
+      "name": "C-SPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN logo is visible in the chyron on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Melania confirms she and Trump partied with Epstein",
+      "role": "overlay"
+    },
+    {
+      "text": "FIRST LADY MELANIA TRUMP SPEAKS AT WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "DONALD AND I WERE INVITED TO THE SAME PARTIES AS EPSTEIN FROM TIME TO TIME, SINCE OVERLAPPING IN SOCIAL CIRCLES IS COMMON IN NEW YORK CITY.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio, which appears to be deceptively edited, features Melania Trump's voice saying, \"Donald and I were invited to the same parties as Epstein from time to time, since overlapping in social circles is common in New York City.\"",
+  "emojis_present": [],
+  "audio_music": "The only audio is Melania Trump's voice speaking. There is no music or other sound effects.",
+  "editing_pacing": "The video is a single, static shot. The editing consists of a text overlay at the top and yellow subtitles that appear word-by-word at the bottom, synchronized with the speech.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The audio of Melania Trump's speech is deceptively edited. Words and phrases appear to be spliced together from different sources to create a fabricated sentence, making it sound as if she is admitting that she and Donald Trump socialized with Jeffrey Epstein. Unnatural pauses and shifts in vocal tone, particularly around the name 'Epstein', are evidence of audio manipulation.",
+  "emotions_signaled": [
+    "scandal",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Melania Trump has publicly admitted that she and Donald Trump attended parties with Jeffrey Epstein.",
+  "intended_effect": "To damage the reputations of Melania and Donald Trump by presenting fabricated evidence of them admitting to a social relationship with Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The audio appears to be a 'cheap fake' created by splicing words together. While auditory cues strongly suggest manipulation, it cannot be proven with 100% certainty without access to the original, unedited source recordings."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "video_id": "7535103549005401358",
+  "visual_action": "The video is a slideshow of three static images. The first image shows Donald Trump speaking to a female interviewer in what appears to be a warehouse, with a quote overlaid. The second image is a headline on a white background. The third image is a screenshot of an article from The Washington Post, with a portion of the text highlighted in yellow.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in the first image, quoted in the overlaid text, and named in the Washington Post article screenshot as 'President Donald Trump'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the headline on the second slide and in the text of the Washington Post article on the third slide."
+    },
+    {
+      "name": "The Washington Post",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The masthead for 'The Washington Post' is visible on the third slide."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is shown holding a microphone and listening to Donald Trump in the first image."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "2024",
+      "role": "overlay"
+    },
+    {
+      "text": "We are going to be paying for IVF treatment—we'll mandate your insurance company to pay for it.",
+      "role": "overlay"
+    },
+    {
+      "text": "2025",
+      "role": "overlay"
+    },
+    {
+      "text": "White House has no plan to mandate IVF care, despite campaign pledge",
+      "role": "overlay"
+    },
+    {
+      "text": "The Washington Post",
+      "role": "other"
+    },
+    {
+      "text": "The White House does not plan to require health insurers to provide coverage for in vitro fertilization services, two people with knowledge of internal discussions said, even though the idea was one of President Donald Trump’s key campaign pledges.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video has no spoken dialogue. The audio consists only of a slow, somber musical track. A quote attributed to Donald Trump is presented as on-screen text.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, and somber piano track plays throughout the video, creating a feeling of disappointment and sadness. The music is identified as 'loss — Mevrin'.",
+  "editing_pacing": "Slideshow of static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Betrayal",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's administration did not follow through on his 2024 campaign pledge to mandate that insurance companies pay for IVF treatments.",
+  "intended_effect": "To portray Donald Trump as untrustworthy and someone who breaks key campaign promises, particularly on sensitive healthcare issues.",
+  "uncertainty_flags": [
+    "The source of the second headline ('White House has no plan...') is not explicitly stated, although it is immediately followed by a screenshot from The Washington Post on the same subject."
+  ]
+}

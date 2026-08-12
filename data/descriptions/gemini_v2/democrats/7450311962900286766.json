@@ -1,0 +1,43 @@
+{
+  "video_id": "7450311962900286766",
+  "visual_action": "A static, unflattering close-up photo of Donald Trump is displayed. A list of policy points and phrases is overlaid in black text on the bottom half of the image.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "An unflattering photo of Donald Trump serves as the entire visual background for the video."
+    },
+    {
+      "name": "Project 2025",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The text 'Project 2025' appears in a list of policies overlaid on the image."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "abortion bans\nProject 2025\ncutting Medicare\ntariffs that raise costs\ncutting Social Security\nout of touch billionaires\ndenying climate change\ncancelling student loan forgiveness",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video contains no speech, only background music.",
+  "emojis_present": [],
+  "audio_music": "A short, looping clip of an emotionally charged pop song with female vocals plays throughout the video.",
+  "editing_pacing": "The video consists of a single static image with text overlay; there is no editing or movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Anxiety",
+    "Disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "A Donald Trump presidency would implement a series of negative policies, including abortion bans and cuts to Medicare and Social Security, as outlined in Project 2025.",
+  "intended_effect": "To create fear and opposition towards Donald Trump by associating him with unpopular or harmful policies.",
+  "uncertainty_flags": []
+}

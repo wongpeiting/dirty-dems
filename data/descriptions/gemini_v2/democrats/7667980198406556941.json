@@ -1,0 +1,60 @@
+{
+  "video_id": "7667980198406556941",
+  "visual_action": "A slideshow-style video with two images. The first is a photo of musician Noah Kahan smiling. The second is a photo of him performing on stage at night with an acoustic guitar. Both images have text overlaid on them.",
+  "cast": [
+    {
+      "name": "Noah Kahan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is pictured in the video, and the on-screen text names him and quotes a statement he allegedly made."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Noah Kahan SLAMS Trump for using his music in new post.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Noah Kahan SLAMS Trump for using his music in new post",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Would never approve of my music being used in support of you or this administration.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "-Noah Kahan via instagram",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of background music.",
+  "emojis_present": [],
+  "audio_music": "An anthemic indie folk-pop song with male vocals plays throughout the video. The tone is emotional and serious.",
+  "editing_pacing": "The video is a simple slideshow, transitioning from one static image to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disapproval",
+    "Conflict"
+  ],
+  "cultural_references": [
+    "Noah Kahan's music"
+  ],
+  "central_claim": "Musician Noah Kahan has publicly condemned Donald Trump for using his music.",
+  "intended_effect": "To align a popular musician with an anti-Trump stance, potentially influencing his fans and reinforcing negative perceptions of Trump.",
+  "uncertainty_flags": []
+}

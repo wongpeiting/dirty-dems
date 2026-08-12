@@ -1,0 +1,71 @@
+{
+  "video_id": "7538546449953393975",
+  "visual_action": "The video is a slideshow of two static images. The first is a screenshot of a tweet from an account called 'FactPost'. The tweet shows a split-screen image of the U.S. Supreme Court building and a rainbow Pride flag. The second image is a screenshot of what appears to be a news article from the Associated Press (AP), showing a photo of a woman at a counter gesturing towards a man, with a text overlay.",
+  "cast": [
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text in both screenshots mentions the Supreme Court: 'The Supreme Court has been formally asked to consider a case...' and '...still fighting Supreme Court's ruling'."
+    },
+    {
+      "name": "Clerk who denied same-sex marriage licenses",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The second screenshot features a photo and headline about the 'Clerk who denied same-sex marriage licenses in 2015'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The first screenshot is of a tweet from the account 'FactPost @factpostnews'."
+    },
+    {
+      "name": "Associated Press",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'AP' logo is visible on the second screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Supreme Court has been formally asked to consider a case that would overturn marriage equality.",
+      "role": "overlay"
+    },
+    {
+      "text": "AP",
+      "role": "overlay"
+    },
+    {
+      "text": "Clerk who denied same-sex marriage licenses in 2015 is still fighting Supreme Court's ruling",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and melancholic instrumental track (identified as 'loss' by Mevrin) plays throughout the video, creating a serious and concerning tone.",
+  "editing_pacing": "The video is a slow-paced slideshow, showing two static images in sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Concern",
+    "Alarm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Marriage equality is under a new and direct threat, as the Supreme Court is being asked to consider a case that could overturn it.",
+  "intended_effect": "To alarm viewers about a potential reversal of LGBTQ+ rights and to frame the issue as an ongoing battle.",
+  "uncertainty_flags": []
+}

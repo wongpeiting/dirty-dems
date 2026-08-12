@@ -1,0 +1,61 @@
+{
+  "video_id": "7538191153099836727",
+  "visual_action": "The video starts with a still photograph of a large group of people, presumably Republican members of Congress, posing for a group photo on the steps of the U.S. Capitol building. The video then cuts to a black screen with white text reading \"Directed by ROBERT B. WEIDE\". Finally, it shows another still photograph of a group of smiling and clapping people, including Melania Trump, gathered around a podium with the Seal of the President of the United States.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"Maybe Republicans will stand up to Trump today\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"Maybe Republicans will stand up to Trump today\"."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her face is visible in the second photograph, standing among a group of people."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Maybe Republicans will stand up to Trump today",
+      "role": "overlay"
+    },
+    {
+      "text": "Directed by\nROBERT B. WEIDE",
+      "role": "credit"
+    },
+    {
+      "text": "They took healthcare away from 17 million Americans, and hospitals are at risk of closing",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A short, slightly hopeful-sounding orchestral piece plays for the first two seconds, then abruptly cuts to a jaunty, tuba-led theme music characteristic of the TV show 'Curb Your Enthusiasm'. The music is used comedically to signal a failed or embarrassing outcome.",
+  "editing_pacing": "The video is a slideshow of two still images, separated by a credit screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disappointment",
+    "concern"
+  ],
+  "cultural_references": [
+    "The video uses the \"Directed by Robert B. Weide\" / \"Curb Your Enthusiasm\" ending credits meme format. This format sets up a scenario and then uses the show's distinctive credits and theme music to imply an ironic, awkward, or disastrous failure."
+  ],
+  "central_claim": "Republicans failed to stand up to Donald Trump and instead pursued policies that harmed Americans by threatening their healthcare.",
+  "intended_effect": "To frame the Republican party as failing to do the right thing and instead causing negative consequences for the country, thereby portraying them as incompetent and harmful.",
+  "uncertainty_flags": []
+}

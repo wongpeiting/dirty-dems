@@ -1,0 +1,97 @@
+{
+  "video_id": "7540311850823535927",
+  "visual_action": "The video is a slideshow of 7 keyframes. Frame 1: A screenshot of a tweet from @factpostnews (FactPost, verified) reading \"JD Vance has taken vacations in the following months of the Trump-Vance administration: February, March, April, May, June, July, August,\" accompanied by a split image — left side shows a man in a light blue shirt standing in a swimming pool (watermarked TMZ), right side shows a yellow sticky note on a keyboard reading \"OUT OF OFFICE.\" Frame 2: A man in a dark zip-up pullover, white cap, and khaki pants walking and smiling on a golf course, with a golf cart and caddie visible behind him. Frame 3: A man in a white dress shirt and dark pants walking on a marina/dock boardwalk next to a woman in a light blue sleeveless top, boats visible in the background. Frame 4: A man in a dark sweatshirt and jeans walking side-by-side with a dark-haired woman in a blue chambray shirt and black jeans/heels on a street. Frame 5: A man in a blue button-down shirt speaking to camera in front of Mount Rushmore. Frame 6: A man in a white t-shirt and cap standing outdoors at what appears to be an amusement park or outdoor venue, holding a young child; a woman in a white top and white cap stands beside him; people and a blue umbrella are visible. Frame 7: A close-up of a man in a light blue shirt standing waist-deep in a swimming pool (TMZ watermark visible).",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "FactPost tweet on-screen reads 'JD Vance has taken vacations in the following months of the Trump-Vance administration'; the man in the pool photo carries a TMZ watermark consistent with paparazzi vacation coverage attributed to Vance"
+    },
+    {
+      "name": "FactPost (@factpostnews)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Tweet screenshot shows 'FactPost' with verified checkmark and handle '@factpostnews'"
+    },
+    {
+      "name": "Trump-Vance administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen tweet text: 'months of the Trump-Vance administration'"
+    },
+    {
+      "name": "unnamed woman (marina)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears walking alongside the man on the marina boardwalk in frame 3; identity not established"
+    },
+    {
+      "name": "unnamed woman (street)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears walking alongside the man on the street in frame 4; identity not established"
+    },
+    {
+      "name": "unnamed reporter / presenter",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Man in blue shirt speaks to camera in front of Mount Rushmore in frame 5; no name given"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost ✓\n@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "JD Vance has taken vacations in the following months of the Trump-Vance administration:\n\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust",
+      "role": "overlay"
+    },
+    {
+      "text": "OUT OF\nOFFICE",
+      "role": "overlay"
+    },
+    {
+      "text": "TMZ",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio track is a children's/mnemonic song cycling through the months of the year: \"January, February, March, April, May, June, July, August, September, October, November, December.\" The Whisper transcript captures this: \"In January February March April Me June July August December October November December.\" No other spoken dialogue is present.",
+  "emojis_present": [],
+  "audio_music": "A sing-song mnemonic \"months of the year\" audio track plays throughout, cycling through all twelve months in a child-like or jingle style. The audio ironically pairs the listing of every month with the on-screen claim that Vance took vacations in most of them.",
+  "editing_pacing": "Slideshow format with slow or static cuts between 7 still-image keyframes. The pacing is leisurely, allowing each image — paparazzi-style candid photos and the tweet screenshot — to be read. No fast cuts, zooms, or motion graphics.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — the pairing of a vacation-months list with a 'months of the year' children's song implies Vance spent the entire administration on vacation",
+    "incredulity — the 'OUT OF OFFICE' sticky note image reinforces the idea of dereliction",
+    "amusement — the children's song audio applied to a political accountability claim creates a comedic tone"
+  ],
+  "cultural_references": [
+    "'Months of the Year' children's mnemonic song — used ironically to catalogue Vance's vacations",
+    "TMZ paparazzi celebrity photo style applied to a sitting VP",
+    "'Out of Office' workplace auto-reply concept applied to a government official"
+  ],
+  "central_claim": "JD Vance has been on vacation during nearly every month of the Trump-Vance administration (February through August), effectively being perpetually out of office.",
+  "intended_effect": "To make viewers view JD Vance as neglecting his vice-presidential duties by going on vacation repeatedly, presented humorously through the months-of-the-year song.",
+  "uncertainty_flags": [
+    "The identities of the man in the pool, the man on the golf course, the man on the marina, the man on the street, and the man at Mount Rushmore are not confirmed by on-screen text — they are implied by the post's framing to be JD Vance, but facial identification cannot be verified with certainty from these frames",
+    "The woman walking alongside the man in frames 3 and 4 is unidentified; could be Usha Vance but cannot confirm",
+    "The man speaking at Mount Rushmore (frame 5) may be a reporter/narrator rather than Vance himself — unclear role",
+    "The specific months' vacation events these photos correspond to are not labeled in the video",
+    "The Whisper transcript appears garbled in places ('Me' instead of 'May'), so exact lyric wording is approximate"
+  ]
+}

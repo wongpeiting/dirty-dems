@@ -1,0 +1,147 @@
+{
+  "video_id": "7642405713662233870",
+  "visual_action": "The video shows a clip of Donald Trump speaking at a desk, seemingly in the White House, during a Fox News broadcast. An off-screen reporter asks him a question. Partway through, the screen splits to show a photo of a young man and woman on the right side. The entire video is framed with a top caption and has yellow, timed text subtitles that transcribe the dialogue.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person shown speaking throughout the video and is the subject of the post's caption."
+    },
+    {
+      "name": "Donald Trump's son",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The reporter asks about 'your son's wedding' and the on-screen caption states 'trump isn't going to his own son's wedding'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks Trump the question that initiates the conversation."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The broadcast is framed with a Fox News chyron and logo at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump isn't going to his own son's wedding 😭",
+      "role": "caption"
+    },
+    {
+      "text": "ARE YOU",
+      "role": "overlay"
+    },
+    {
+      "text": "SON'S WEDDING",
+      "role": "overlay"
+    },
+    {
+      "text": "BY THE WAY?",
+      "role": "overlay"
+    },
+    {
+      "text": "UH...",
+      "role": "overlay"
+    },
+    {
+      "text": "TO GO,",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT IT'S GONNA",
+      "role": "overlay"
+    },
+    {
+      "text": "SMALL LITTLE",
+      "role": "overlay"
+    },
+    {
+      "text": "AFFAIR,",
+      "role": "overlay"
+    },
+    {
+      "text": "TRY AND MAKE",
+      "role": "overlay"
+    },
+    {
+      "text": "IT. I'M,",
+      "role": "overlay"
+    },
+    {
+      "text": "MIDST. I SAID,",
+      "role": "overlay"
+    },
+    {
+      "text": "\"YOU KNOW,",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS IS NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "FOR ME.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "CALLED IRAN",
+      "role": "overlay"
+    },
+    {
+      "text": "AND OTHER",
+      "role": "overlay"
+    },
+    {
+      "text": "THINGS...",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE LIVE 1:22:22 PM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: TRIUMPHAL ARCH WILL BE BEAUTIFUL",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump if he will be attending his son's wedding. Trump replies hesitantly that his son wants him to go, but it will be a \"small little private affair.\" He says he will \"try and make it\" but that it's \"not good timing for me,\" mentioning he has \"a thing called Iran and other things\" to deal with.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio consists solely of dialogue from a press conference, with ambient room noise. There is no music.",
+  "editing_pacing": "The video uses a single, static news clip. There is one simple split-screen edit. Timed text overlays appear sequentially to match the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a poor father who makes excuses, including citing foreign policy crises with Iran, for not committing to attend his own son's wedding.",
+  "intended_effect": "To cause the viewer to disapprove of Trump's character and see him as a neglectful parent.",
+  "uncertainty_flags": [
+    "The identity of the specific son whose wedding is being discussed is not stated.",
+    "The original date of the Fox News broadcast is not shown."
+  ]
+}

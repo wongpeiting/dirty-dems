@@ -1,0 +1,104 @@
+{
+  "video_id": "7471007064886725931",
+  "visual_action": "A clip of Donald Trump sitting at a desk in an office setting, speaking. The footage is from a C-SPAN broadcast, as indicated by a chyron at the bottom of the screen which reads 'TRUMP ANNOUNCES NEW TARIFFS'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person visible and speaking throughout the video clip."
+    },
+    {
+      "name": "TikTok",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire clip and its commentary revolve around Donald Trump mispronouncing the name of the social media platform 'TikTok'."
+    },
+    {
+      "name": "Joe Rogan",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donald Trump says, 'I think Joe Rogan was a part of it.'"
+    },
+    {
+      "name": "C-SPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN logo is visible on the chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "bro literally called TikTok “tic tac” two times ☠️",
+      "role": "overlay"
+    },
+    {
+      "text": "FIRST 100 DAYS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP ANNOUNCES NEW TARIFFS",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "AND I THINK TIC TAC —",
+      "role": "caption"
+    },
+    {
+      "text": "I THINK JOE ROGAN WAS A PART OF IT.",
+      "role": "caption"
+    },
+    {
+      "text": "SOME OF THE GREAT PEOPLE THAT I DID INTERVIEWS WITH",
+      "role": "caption"
+    },
+    {
+      "text": "WERE A PART OF IT.",
+      "role": "caption"
+    },
+    {
+      "text": "BUT I THINK THAT TIC TAC —",
+      "role": "caption"
+    },
+    {
+      "text": "TIKTOK WAS A I THINK IT WAS A BIG PART.",
+      "role": "caption"
+    },
+    {
+      "text": "LOOK, AS YOU KNOW, WE WERE.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump misspeaks twice, referring to the social media platform TikTok as \"Tic Tac.\" He says, \"And I think Tic Tac... but I think that Tic Tac, TikTok was a... big part.\" In the same statement, he mentions, \"I think Joe Rogan was a part of it.\"",
+  "emojis_present": [
+    "☠️"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's speaking voice from the broadcast clip. There is no background music or other sound design.",
+  "editing_pacing": "The video is a single, unedited clip of a talking head with no cuts or dynamic camera work.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "Tic Tac (candy brand)",
+    "The phrase 'bro literally' is a common internet slang/meme format."
+  ],
+  "central_claim": "Donald Trump is out of touch with modern technology and prone to gaffes, as evidenced by him repeatedly calling the social media platform TikTok 'Tic Tac'.",
+  "intended_effect": "To make the viewer laugh at and mock Donald Trump for his verbal mistake.",
+  "uncertainty_flags": [
+    "The full context of Donald Trump's original remarks is not provided in this short clip."
+  ]
+}

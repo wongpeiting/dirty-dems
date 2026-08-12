@@ -1,0 +1,146 @@
+{
+  "video_id": "7663211364357541134",
+  "visual_action": "A fast-paced montage of images related to surveillance. The video includes blue-tinted CCTV footage of cities and public spaces, a black-and-white photo of Mark Zuckerberg and Donald Trump at a dinner table, a map of the eastern United States covered in dots, images of surveillance cameras, a group of law enforcement officers in tactical gear, a shot of Palantir CEO Alex Karp speaking, and footage of people in a public space with digital tracking boxes around them.",
+  "cast": [
+    {
+      "name": "Mark Zuckerberg",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in a still photo sitting next to Donald Trump. His company, Meta, is named in multiple on-screen text headlines about surveillance."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a still photo sitting next to Mark Zuckerberg at a dinner table."
+    },
+    {
+      "name": "Alex Karp",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown speaking while on-screen text identifies him as the 'Palantir CEO'."
+    },
+    {
+      "name": "Meta",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text displays headlines: 'Meta Silently Added Face-Recognition Code...' and 'Meta will track employee mouse movements...'"
+    },
+    {
+      "name": "ICE (U.S. Immigration and Customs Enforcement)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text displays headlines: 'ICE has spun a massive surveillance web.' and 'ICE acknowledges it is using powerful spyware'."
+    },
+    {
+      "name": "Palantir Technologies",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text displays the headline: 'Palantir CEO defends surveillance tech...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "but why do i always feel",
+      "role": "overlay"
+    },
+    {
+      "text": "like i'm in the",
+      "role": "overlay"
+    },
+    {
+      "text": "TWILIGHT ZONE",
+      "role": "overlay"
+    },
+    {
+      "text": "i always feel like",
+      "role": "overlay"
+    },
+    {
+      "text": "somebody's",
+      "role": "overlay"
+    },
+    {
+      "text": "WATCHING ME",
+      "role": "overlay"
+    },
+    {
+      "text": "Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones",
+      "role": "chyron"
+    },
+    {
+      "text": "Meta will track employee mouse movements and keystrokes for AI training, report says",
+      "role": "chyron"
+    },
+    {
+      "text": "and i have no privacy",
+      "role": "overlay"
+    },
+    {
+      "text": "ALPR Camera",
+      "role": "other"
+    },
+    {
+      "text": "i always feel like",
+      "role": "overlay"
+    },
+    {
+      "text": "ICE has spun a massive surveillance web.",
+      "role": "chyron"
+    },
+    {
+      "text": "ICE acknowledges it is using powerful spyware",
+      "role": "chyron"
+    },
+    {
+      "text": "somebody's",
+      "role": "overlay"
+    },
+    {
+      "text": "WATCHING ME",
+      "role": "overlay"
+    },
+    {
+      "text": "Palantir CEO defends surveillance tech as US government contracts boost sales",
+      "role": "chyron"
+    },
+    {
+      "text": "is it just a",
+      "role": "overlay"
+    },
+    {
+      "text": "DREAM",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of the song \"Somebody's Watching Me\" by Rockwell. Key lyrics that are sung and also appear as on-screen text include: \"I always feel like somebody's watching me,\" \"and I have no privacy,\" \"why do I always feel like I'm in the Twilight Zone?\" and \"tell me is it just a dream?\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat 80s synth-pop track plays continuously throughout the video. The song's lyrics, which are about paranoia and the feeling of being constantly watched, create an unsettling and anxious mood that directly reinforces the video's visual theme of surveillance.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various images, including surveillance footage, still photos, news headlines, and maps. There are also glitch effects applied to the on-screen text.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Paranoia",
+    "Fear",
+    "Distrust"
+  ],
+  "cultural_references": [
+    "The song 'Somebody's Watching Me' by Rockwell is used as the soundtrack and its lyrics are featured as on-screen text.",
+    "The television series 'The Twilight Zone' is referenced in the song lyrics and on-screen text."
+  ],
+  "central_claim": "Major tech corporations like Meta and Palantir, along with government agencies like ICE, are creating a pervasive surveillance state that eliminates personal privacy.",
+  "intended_effect": "To evoke fear and alarm in the viewer about the scope of corporate and government surveillance, and to foster distrust in these institutions.",
+  "uncertainty_flags": []
+}

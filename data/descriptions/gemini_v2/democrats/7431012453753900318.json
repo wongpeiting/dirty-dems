@@ -1,0 +1,58 @@
+{
+  "video_id": "7431012453753900318",
+  "visual_action": "Barack Obama stands at a podium with two microphones, speaking to a large, out-of-focus crowd. He wears a light-colored button-down shirt and gestures with his hands as he talks. The video is a static shot with text overlays at the top and bottom.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, shown delivering a speech from a podium."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states that the comments Obama is addressing were made at \"Trump's rally\"."
+    },
+    {
+      "name": "People of Puerto Rico",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Obama's entire speech is a defense of the people of Puerto Rico after someone called the island an \"island of garbage\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Obama SOUNDS OFF over racist Puerto Rico comments at Trump's rally 🇵🇷💨",
+      "role": "overlay"
+    },
+    {
+      "text": "Obama: One guy called Puerto Rico an “island of garbage.” These are fellow citizens he’s talking about. They are your neighbors. They are your friends.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Barack Obama quotes someone at a Trump rally who called Puerto Rico an \"island of garbage.\" After the crowd reacts with disapproval, Obama defends the people of Puerto Rico, reminding the audience that they are \"fellow citizens,\" \"neighbors,\" \"friends,\" and \"coworkers,\" and that their children attend the same schools.",
+  "emojis_present": [
+    "🇵🇷",
+    "💨"
+  ],
+  "audio_music": "The audio consists entirely of Barack Obama's live speech and the vocal reactions of the crowd, which include boos at the quoted comment and then loud cheers and applause in support of Obama's statements. There is no musical accompaniment.",
+  "editing_pacing": "The video is a single, static shot focused on Obama at the podium. There are no cuts, zooms, or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Solidarity",
+    "Righteous anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "A comment made at a Trump rally calling Puerto Rico an 'island of garbage' is racist, and Democrats, represented by Barack Obama, defend Puerto Ricans as fellow American citizens.",
+  "intended_effect": "To evoke outrage at the anti-Puerto Rican sentiment associated with a Trump rally and to build support for the Democratic party by positioning it as an ally to the Puerto Rican community.",
+  "uncertainty_flags": []
+}

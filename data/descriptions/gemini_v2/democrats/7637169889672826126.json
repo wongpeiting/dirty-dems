@@ -1,0 +1,59 @@
+{
+  "video_id": "7637169889672826126",
+  "visual_action": "The video starts with a static screenshot of a tweet from an account named 'FactPost'. The tweet contains two photos: one showing a woman, who appears to be Rihanna, helping a small child who is wearing a gas mask, and a second photo showing a person in tactical gear pointing a canister at civilians in a snowy environment. The video then transitions to a clip of a young girl crying on a street while an adult pours a liquid, presumably water or saline, onto her face and eyes from a bag.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text states, '...since Trump entered office.'"
+    },
+    {
+      "name": "Federal immigration agents",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet text begins, 'Federal immigration agents have tear gassed...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screenshot is of a tweet from the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Federal immigration agents have tear gassed and pepper sprayed at least 79 children since Trump entered office.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, somber, and atmospheric instrumental track plays throughout, creating a mood of sadness and distress.",
+  "editing_pacing": "A static shot of a tweet is shown for a few seconds, followed by a single, continuous video clip. The pacing is slow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "distress",
+    "outrage"
+  ],
+  "cultural_references": [
+    "Rihanna"
+  ],
+  "central_claim": "During Donald Trump's presidency, federal immigration agents harmed numerous children by using tear gas and pepper spray.",
+  "intended_effect": "To evoke horror, sympathy for child victims, and anger towards Donald Trump and his administration's immigration policies.",
+  "uncertainty_flags": [
+    "The video juxtaposes a tweet about immigration enforcement under Trump with a clip of a crying child, implying a connection, but the specific context of the crying child footage is not provided within the video itself."
+  ]
+}

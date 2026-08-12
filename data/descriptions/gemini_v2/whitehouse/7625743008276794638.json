@@ -1,0 +1,112 @@
+{
+  "video_id": "7625743008276794638",
+  "visual_action": "The video is a montage combining modern footage from a NASA control room and a spacecraft in orbit with archival footage of a historical rocket launch. A woman at a CAPCOM (Capsule Communicator) desk speaks, followed by scenes of a Saturn V-style rocket launching. A black and white photo of the three Apollo 13 astronauts is shown. The video then cuts to a modern spacecraft orbiting Earth, with the sun creating a lens flare. Inside the modern craft, astronauts float in zero gravity; a woman with curly hair writes on a clipboard while a man speaks into a communicator. The video concludes with footage of a modern, large rocket (resembling the Artemis SLS) launching at night.",
+  "cast": [
+    {
+      "name": "NASA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The NASA logo is visible on astronaut suits in archival photos and on the side of a modern rocket. The entire subject is NASA space missions."
+    },
+    {
+      "name": "James A. Lovell Jr.",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The narrator names 'Lovell' as one of the three Apollo 13 astronauts who set the previous distance record."
+    },
+    {
+      "name": "John L. Swigert Jr.",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The narrator names 'Swigert' as one of the three Apollo 13 astronauts who set the previous distance record."
+    },
+    {
+      "name": "Fred W. Haise Jr.",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The narrator names 'Hayes' as one of the three Apollo 13 astronauts who set the previous distance record."
+    },
+    {
+      "name": "unnamed female astronaut",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A woman with curly brown hair is prominently featured inside the modern spacecraft, floating in zero gravity. She represents the current crew breaking the record."
+    },
+    {
+      "name": "unnamed male astronaut",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A male voice speaks from the 'cabin of Integrity', confirming they are breaking the record. A man is briefly shown speaking into a communications device."
+    },
+    {
+      "name": "unnamed CAPCOM",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown sitting at the CAPCOM desk in a control room, narrating the first part of the video."
+    },
+    {
+      "name": "European Space Agency",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'esa' logo is visible on the side of the modern rocket."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "HISTORY 🚀🌕",
+      "role": "caption"
+    },
+    {
+      "text": "CAPCOM",
+      "role": "overlay"
+    },
+    {
+      "text": "NASA",
+      "role": "other"
+    },
+    {
+      "text": "esa",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A female voice from Mission Control recounts how the Apollo 13 crew (Lovell, Swigert, and Hayes) set the record for the farthest humans have traveled from Earth in 1970. She then addresses the crew of a modern spacecraft named 'Integrity,' stating, 'Today, for all humanity, you're pushing beyond that frontier.' A male astronaut from Integrity responds, confirming they are surpassing the record in honor of their predecessors and issuing a challenge 'to this generation and in the next to make sure this record is not long-lived.'",
+  "emojis_present": [
+    "🚀",
+    "🌕"
+  ],
+  "audio_music": "An inspirational, cinematic orchestral score plays throughout the video, building in intensity. The music, which includes Hans Zimmer's 'Cornfield Chase' from the movie Interstellar, creates a sense of awe, historical significance, and hopeful ambition for the future of space exploration.",
+  "editing_pacing": "The video uses a montage style, blending archival footage, modern cinematic shots of spacecraft, and scenes from inside both mission control and the spacecraft cabin. It uses dissolves to connect the past and present, with a deliberate, reverent pacing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "awe",
+    "inspiration"
+  ],
+  "cultural_references": [
+    "Apollo 13",
+    "Cornfield Chase by Hans Zimmer (from the film Interstellar)"
+  ],
+  "central_claim": "A new NASA mission, named 'Integrity', is breaking the 55-year-old human deep-space travel record set by Apollo 13, continuing a legacy of exploration and challenging future generations to go even farther.",
+  "intended_effect": "To evoke a sense of national pride and awe in human space exploration, celebrating both a historic milestone and the ongoing push to break new frontiers.",
+  "uncertainty_flags": [
+    "The specific names of the crew members of the 'Integrity' mission are not provided.",
+    "The specific name of the current mission (e.g., Artemis) is not explicitly stated, although the rocket shown is consistent with the Artemis program."
+  ]
+}

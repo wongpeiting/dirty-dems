@@ -1,0 +1,51 @@
+{
+  "video_id": "7594484955242056973",
+  "visual_action": "A slideshow of still photographs showing a man, identified as Mayor Mamdani, and a woman, identified as Ms. Rachel, visiting a pre-K classroom. They are seen smiling at each other, interacting with a group of young children, and clapping along with them. Other photos show children laughing during a musical performance with a guitar and a puppet.",
+  "cast": [
+    {
+      "name": "Mayor Mamdani",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads 'mayor mamdani visiting a pre-k with ms. rachel 🥹'. He is the man in the suit seen in multiple photos."
+    },
+    {
+      "name": "Ms. Rachel",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads 'mayor mamdani visiting a pre-k with ms. rachel 🥹'. She is the woman in the pink shirt and overalls seen interacting with the children."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "mayor mamdani visiting a pre-k with ms. rachel 🥹",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The provided transcript is inaccurate.",
+  "emojis_present": [
+    "🥹"
+  ],
+  "audio_music": "A single, continuous piece of gentle, whimsical instrumental music plays throughout the video, similar to a lullaby or a music box tune. The effect is warm, calm, and child-friendly.",
+  "editing_pacing": "Slideshow of still images with slow transitions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Wholesomeness",
+    "Positivity",
+    "Care"
+  ],
+  "cultural_references": [
+    "Ms. Rachel (Rachel Accurso), a popular children's entertainer and YouTuber."
+  ],
+  "central_claim": "Mayor Mamdani is a caring politician who supports early childhood education, as shown by his positive visit to a pre-K class with the popular children's entertainer Ms. Rachel.",
+  "intended_effect": "To generate positive feelings towards Mayor Mamdani and associate him with education and child welfare.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is incorrect; the video contains only instrumental music, no speech.",
+    "The provided music fingerprint lists multiple, changing tracks, which contradicts the audio, which sounds like a single, consistent instrumental piece.",
+    "The on-screen text identifies the politician as 'mayor mamdani', but public records indicate Zohran Mamdani is a New York State Assemblyman, not a mayor."
+  ]
+}

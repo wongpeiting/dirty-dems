@@ -1,0 +1,54 @@
+{
+  "video_id": "7621220373815774478",
+  "visual_action": "In a setting resembling the White House, flanked by American flags, Melania Trump walks on a red carpet next to a humanoid robot. The scene is presented as a news broadcast, with a chyron at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Melania Trump is visibly walking on a red carpet, and her presence is confirmed by authoritative face ID."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news chyron at the bottom of the screen mentions 'PRESIDENT TRUMP ANNOUNCES...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "dawg wtf is this 😭",
+      "role": "overlay"
+    },
+    {
+      "text": "WASHINGTON, D.C. ... INSTALLED ON WHITE HOUSE GROUNDS ... PRESIDENT TRUMP ANNOUNCES 'PRODUCTIVE CONVERSATIONS' WITH IRAN, WILL WITHHOLD ENERGY STRIKES ... FIRST LADY MELANIA TRUMP LAUNCHES ...",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A synthesized female voiceover announces, \"The robots are here. Our future is no longer science fiction... for AI will serve...\"",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "A futuristic, slightly ominous electronic track ('Everythings Computer' by Master Chaf3) plays throughout, accompanying the synthesized voiceover.",
+  "editing_pacing": "The video consists of a single, continuous shot with a slow pan to follow the subjects walking.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A humanoid robot is digitally superimposed into a news clip to make it appear as if it is walking alongside Melania Trump. The news chyron and AI-generated voiceover are also fabricated elements designed to create a fake news broadcast scenario.",
+  "emotions_signaled": [
+    "confusion",
+    "alarm",
+    "unease",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The scenario directly invokes science fiction tropes about the arrival of humanoid robots."
+  ],
+  "central_claim": "The video falsely depicts a humanoid robot accompanying Melania Trump at the White House, presented as a real news event to suggest that a dystopian, robotic future is already here.",
+  "intended_effect": "To cause confusion, alarm, and disbelief by presenting a digitally manipulated and absurd scenario as a real news broadcast.",
+  "uncertainty_flags": [
+    "The full text of the news chyron is partially obscured and difficult to read completely."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "7499226711125544238",
+  "visual_action": "The video is a slideshow of still images. It begins with a screenshot of a tweet from Elon Musk's account featuring a photo of him in sunglasses holding up a novelty police-style badge. The next shot is a close-up of the badge, which reads \"THE DOGEFATHER\" and \"DOGE 69420\". This is followed by a photo of Musk jumping on a stage in front of a crowd, with his shirt riding up to expose his stomach. The final image is a side-profile shot of Musk standing outdoors, highlighting his paunch.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Elon Musk is shown in every photo in the slideshow and is identified by name and handle in the on-screen tweet screenshot."
+    },
+    {
+      "name": "Dogecoin",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The cryptocurrency is referenced in the tweet text ('@DOGE') and on the badge ('DOGE', 'THE DOGEFATHER')."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Elon Musk",
+      "role": "overlay"
+    },
+    {
+      "text": "@elonmusk",
+      "role": "overlay"
+    },
+    {
+      "text": "Knock, knock ... it's @DOGE",
+      "role": "overlay"
+    },
+    {
+      "text": "THE DOGEFATHER",
+      "role": "overlay"
+    },
+    {
+      "text": "DOGE",
+      "role": "overlay"
+    },
+    {
+      "text": "69420",
+      "role": "overlay"
+    },
+    {
+      "text": "cb_doge",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice sings dramatically in Italian, \"No, no, no... not the police, no...\" expressing alarm and dismay. The line is from a popular meme audio.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, operatic-style Italian meme song plays throughout, featuring a male voice wailing and speaking. The sound creates a mocking and comically tragic tone.",
+  "editing_pacing": "slideshow",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video features an image of Elon Musk holding a fake police-style badge that reads \"THE DOGEFATHER\" and includes the meme numbers \"69420.\" This badge is either a physical prop for a staged photo or a digital addition. The post also uses a potentially exaggerated or digitally altered photo to make Musk's stomach appear large and unflattering.",
+  "emotions_signaled": [
+    "mockery",
+    "derision"
+  ],
+  "cultural_references": [
+    "Dogecoin",
+    "The Godfather (via the parody 'The Dogefather')",
+    "Internet meme numbers (69 and 420)",
+    "The viral Italian meme audio 'No, la polizia no'"
+  ],
+  "central_claim": "Elon Musk is a ridiculous and physically unflattering figure.",
+  "intended_effect": "To ridicule Elon Musk and encourage viewers to see him as unserious and foolish.",
+  "uncertainty_flags": [
+    "Uncertain whether the photo showing Elon Musk's stomach is digitally altered or just an unflattering, authentic picture."
+  ]
+}

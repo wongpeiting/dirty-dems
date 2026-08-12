@@ -1,0 +1,53 @@
+{
+  "video_id": "7450573389351095598",
+  "visual_action": "The video shows a series of three images of Mike Johnson. The first is a professional portrait of him smiling. The second is a clip of him being sworn into office with his hand raised in front of an American flag. The third is a close-up clip of him walking through a hallway with a serious expression.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in all visuals and identified by the on-screen text 'Hi, this is Mike Johnson!'. The text also refers to his 'job as speaker of the House'."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text claims Elon Musk 'tried to take my job as speaker' and then 'took my job as speaker'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Hi, this is Mike Johnson!",
+      "role": "overlay"
+    },
+    {
+      "text": "before Elon Musk tried to take my job as speaker of the House",
+      "role": "overlay"
+    },
+    {
+      "text": "after Elon Musk took my job as speaker and now the government is on the verge of shutting down",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only a dramatic instrumental music track plays.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, slightly somber instrumental track plays throughout the video, creating a serious and concerned tone.",
+  "editing_pacing": "The video is a slow-paced slideshow with three simple cuts between static images and short clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "seriousness",
+    "worry"
+  ],
+  "cultural_references": [],
+  "central_claim": "Elon Musk has taken the job of Speaker of the House from Mike Johnson, leading the U.S. government to the verge of a shutdown.",
+  "intended_effect": "To create concern over an impending government shutdown and blame Elon Musk for it.",
+  "uncertainty_flags": [
+    "The central claim that Elon Musk took the job of Speaker of the House is a highly unusual and likely counter-factual political premise presented as reality in the video's narrative."
+  ]
+}

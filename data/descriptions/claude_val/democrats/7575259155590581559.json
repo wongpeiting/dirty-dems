@@ -1,0 +1,40 @@
+{
+  "video_id": "7575259155590581559",
+  "visual_action": "All 8 keyframes show an identical static image: a woman posing in what appears to be a professional photo studio. She is wearing blue jeans, a grey short-sleeved henley top, a brown leather belt, and brown heeled ankle boots. Her long dark hair is swept dramatically to one side as if windblown. Both arms are raised with hands behind/near her head, eyes closed, chin tilted slightly upward in a confident pose. She stands in front of a grey textured photography backdrop with studio equipment (black tripod/stand) visible at the right edge. Small colored confetti-like dots are visible on the studio floor. The video appears to be a static image displayed as a looping video, with no scene changes across all keyframes.",
+  "cast": [
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen overlay text reads 'new Michelle Obama photoshoot 😍😍😍'; the woman in the image is identified by name in the caption/overlay as Michelle Obama"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "new Michelle Obama photoshoot 😍😍😍",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken audio detected. The Whisper transcript is empty. The TikTok sound label references \"My House X Bow Down\" but no commercial fingerprint match was confirmed.",
+  "emojis_present": [
+    "😍"
+  ],
+  "audio_music": "The TikTok sound label references \"My House X Bow Down\" — a mashup-style track — but ACRCloud returned no commercial match, suggesting it may be a custom/edited blend. No dialogue or voiceover is present. The music, if audible, would likely carry an upbeat, confident, or empowering energy consistent with the celebratory visual framing.",
+  "editing_pacing": "Effectively a static slideshow — a single photograph held across the full duration of the clip with no cuts, transitions, or motion effects. The image itself has a dynamic quality (windblown hair, confident pose) but the video is editorially still.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "admiration — signaled by the three 😍 heart-eyes emojis in the overlay text",
+    "celebration/excitement — signaled by the upbeat framing of the word 'new' and the enthusiastic emoji repetition"
+  ],
+  "cultural_references": [],
+  "central_claim": "Michelle Obama has a new photoshoot, presented here approvingly and with admiration.",
+  "intended_effect": "Generate excitement and admiration among viewers for Michelle Obama's new photoshoot imagery.",
+  "uncertainty_flags": [
+    "The woman in the photo is identified solely by the on-screen text as Michelle Obama — no authoritative face-ID was returned; visual confirmation of identity is unverified by the face-recognition system",
+    "It is unclear whether this photoshoot is from a magazine, book promotion, or another context — no publication or photographer credit is visible",
+    "Audio content cannot be fully confirmed; the 'My House X Bow Down' label is noted but ACRCloud found no match, and no transcript was produced"
+  ]
+}

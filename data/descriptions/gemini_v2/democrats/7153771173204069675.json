@@ -1,0 +1,81 @@
+{
+  "video_id": "7153771173204069675",
+  "visual_action": "A slideshow of still, official-looking portraits of various smiling politicians. An American flag is visible in the background of some photos. A red text box is overlaid on each image.",
+  "cast": [
+    {
+      "name": "Andy Barr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His portrait is shown in the slideshow."
+    },
+    {
+      "name": "Austin Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His portrait is shown in the slideshow."
+    },
+    {
+      "name": "Elise Stefanik",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her portrait is shown in the slideshow, as identified by the provided authoritative face-ID."
+    },
+    {
+      "name": "Louie Gohmert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His portrait is shown in the slideshow."
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His portrait is shown in the slideshow."
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, '205 House Republicans voted against a bill...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "205 House Republicans voted against a bill to increase access to mental health services in schools...🤯🤮",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is accompanied only by instrumental music.",
+  "emojis_present": [
+    "🤯",
+    "🤮"
+  ],
+  "audio_music": "A slow, melancholic steel guitar track plays throughout the video, creating a sad and disappointed mood which contrasts with the smiling faces of the politicians shown.",
+  "editing_pacing": "A slow-paced slideshow of still photographs, cutting from one portrait to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Disgust",
+    "Shock",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "205 House Republicans voted against a bill designed to increase students' access to mental health services in schools.",
+  "intended_effect": "To generate disapproval and outrage toward House Republicans for their vote on a mental health bill for schools.",
+  "uncertainty_flags": [
+    "The authoritative face-ID identifies one of the individuals shown as Elise Stefanik, but the person in the video visually appears to be Virginia Foxx."
+  ]
+}

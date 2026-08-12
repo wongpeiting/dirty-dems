@@ -1,0 +1,121 @@
+{
+  "video_id": "7614284932348644622",
+  "visual_action": "The video opens with a black frame, then cuts into a stylized montage of Democratic women politicians, all tinted with a purple/violet color grade. The sequence includes: a man in a yellow-collared shirt and dark tie (appears to be from a music video or film clip); a second shot of a similar young man looking brooding outdoors, also from what appears to be a music video; then a cut to Alexandria Ocasio-Cortez smiling at the camera wearing a congressional pin and sunglasses on her head; two women at what appears to be a campaign or victory party event with signage reading \"Day is 2025\" and \"55105\" visible in background; a woman in a white suit walking through an ornate government building (appears to be Gretchen Whitmer at what looks like an inauguration or ceremonial setting) next to an American flag; a woman in a white blazer and red top waving at a rally with \"YASSAMIN / DEMOCRAT FOR CONGRESS\" banners and rainbow imagery in the background; and finally a close-up of a woman with a shaved head wearing large round tinted glasses and hoop earrings (appears to be Ayanna Pressley) sitting in a car. Throughout, the footage is bathed in warm purple/violet hues.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face confirmed by InsightFace roster; visible congressional pin on navy sweater, sunglasses on head"
+    },
+    {
+      "name": "Gretchen Whitmer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face confirmed (medium confidence) by InsightFace roster; shown in white suit walking through ornate government building with American flag"
+    },
+    {
+      "name": "Ayanna Pressley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face confirmed by InsightFace roster; woman with shaved head, round tinted glasses, hoop earrings, sitting in car"
+    },
+    {
+      "name": "Ilhan Omar",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face confirmed by InsightFace roster"
+    },
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face confirmed by InsightFace roster"
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face confirmed by InsightFace roster"
+    },
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face confirmed (medium confidence) by InsightFace roster"
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face confirmed (medium confidence) by InsightFace roster"
+    },
+    {
+      "name": "Adelita Grijalva",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face confirmed by InsightFace roster"
+    },
+    {
+      "name": "Democratic women politicians (collective)",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Caption 'american girls 🇺🇸' and on-screen text 'american girls all over the world' paired with montage of Democratic women politicians"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "american girls",
+      "role": "overlay"
+    },
+    {
+      "text": "american girls\nall over the world",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio track is Harry Styles' song \"American Girls.\" The Whisper transcript captures partial lyrics: \"I've known you for ages, it's all that I've heard / My friends are in love with American Ghost\" (likely a transcription error for \"American Girls\"). The song's lyrics frame the montage of Democratic women.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "Harry Styles' \"American Girls\" plays throughout the entire clip, starting from the very beginning (confirmed by ACRCloud at 0.0s and 7.4s). The track is an upbeat, anthemic pop/rock song. Its effect is celebratory and energizing, lending a hype and pride-evoking tone to the montage of Democratic women politicians.",
+  "editing_pacing": "Fast-cut montage with a purple/violet color grade applied uniformly across all shots. Cuts are rhythmic, timed loosely to the beat of the music. Includes close-up portrait shots and wider event/rally footage. Brief black opening frame before the montage begins.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride — the celebratory song and montage of Democratic women politicians evokes pride",
+    "excitement — upbeat music and fast cuts generate energy",
+    "admiration — framing of multiple prominent women as 'American girls'"
+  ],
+  "cultural_references": [
+    "Harry Styles — his song 'American Girls' is the soundtrack, and the video opens with what appears to be clips from his music video or a film featuring a Harry Styles-lookalike performer, directly borrowing his pop-culture cachet"
+  ],
+  "central_claim": "Democratic women politicians are celebrated as quintessential \"American girls,\" presenting them as a source of national pride and energy.",
+  "intended_effect": "Inspire admiration and pride in Democratic women politicians among Democratic-leaning viewers, using the popular Harry Styles song as an energizing, celebratory frame.",
+  "uncertainty_flags": [
+    "The opening two shots of a young man in a yellow-collared shirt/tie and a dark suit outdoors may be from Harry Styles' own 'American Girls' music video — cannot confirm with certainty from keyframes alone",
+    "The 'Yassamin Democrat for Congress' banner rally shot — the woman waving is not confirmed by face-ID; could be the candidate Yassamin Ansari or another figure",
+    "Some face-ID matches are marked medium confidence (Abigail Spanberger, Gretchen Whitmer, Kamala Harris) — identities should be treated with slight caution",
+    "Whisper transcript appears to have a transcription error ('American Ghost' instead of 'American Girls'); actual lyrics not verifiable word-for-word from frames",
+    "It is unclear which specific events/appearances each clip was sourced from, given the post may reference events after knowledge cutoff (up to August 2026)"
+  ]
+}

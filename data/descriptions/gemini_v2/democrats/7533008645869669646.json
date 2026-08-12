@@ -1,0 +1,231 @@
+{
+  "video_id": "7533008645869669646",
+  "visual_action": "A woman speaks directly to the camera, presenting an argument. As she speaks, various graphics and text overlays appear on the lower portion of the screen. These include a photo of Donald Trump in a MAGA hat, a bar chart showing poll numbers for banning congressional stock trading, a headshot of a man identified as Rob Bresnahan, a screenshot of a tweet about Bresnahan selling stock, a stock chart for the company Centene, and screenshots of articles from Axios and Reuters.",
+  "cast": [
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The woman is the narrator and presenter, speaking to the camera throughout the entire video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photo of him is shown at the beginning, and the speaker's central claim is that the White House's opposition to a stock trading ban was to 'protect Trump'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video opens by stating 'Trump's White House was super freaked out' and later asks 'Why is the White House so upset?'"
+    },
+    {
+      "name": "Rob Bresnahan",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is named in on-screen text and audio as an example of a congressman trading stocks based on insider knowledge. His photo and a tweet about his actions are shown."
+    },
+    {
+      "name": "Members of Congress",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video is about a 'congressional stock trading ban'."
+    },
+    {
+      "name": "Centene",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The company is named in a tweet screenshot and a stock chart as the stock sold by Rob Bresnahan."
+    },
+    {
+      "name": "Medicaid",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker states that Trump's budget bill 'cuts Medicaid by $1 trillion'."
+    },
+    {
+      "name": "Axios",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An article screenshot with the Axios logo is displayed on screen."
+    },
+    {
+      "name": "Reuters",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An article screenshot with the Reuters logo is displayed on screen."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost @factpostnews' is shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP'S WHITE HOUSE WAS",
+      "role": "overlay"
+    },
+    {
+      "text": "SUPER FREAKED OUT",
+      "role": "overlay"
+    },
+    {
+      "text": "CONGRESSIONAL STOCK TRADING",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT IT'S NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU MIGHT THINK.",
+      "role": "overlay"
+    },
+    {
+      "text": "Prohibiting Members of Congress from Trading Stocks",
+      "role": "other"
+    },
+    {
+      "text": "BANNING CONGRESSIONAL STOCK",
+      "role": "overlay"
+    },
+    {
+      "text": "HUGELY POPULAR POLICY.",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS REPUBLICAN, ROB",
+      "role": "overlay"
+    },
+    {
+      "text": "BRESNAHAN.",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews\nRepublican Congressman Bresnahan recently sold his stock in Centene, a Medicaid health care provider. The stock has now fallen 43% since his sale.",
+      "role": "other"
+    },
+    {
+      "text": "HE RECENTLY SOLD",
+      "role": "overlay"
+    },
+    {
+      "text": "HIS STOCK IN CENTENE,",
+      "role": "overlay"
+    },
+    {
+      "text": "MEDICAID HEALTH CARE PROVIDER.",
+      "role": "overlay"
+    },
+    {
+      "text": "Robert Bresnahan sold $CNC on May. 15, 2025",
+      "role": "other"
+    },
+    {
+      "text": "AND WHAT DID",
+      "role": "overlay"
+    },
+    {
+      "text": "CENTENE STOCK DO",
+      "role": "overlay"
+    },
+    {
+      "text": "HIS SHARES?",
+      "role": "overlay"
+    },
+    {
+      "text": "AXIOS",
+      "role": "other"
+    },
+    {
+      "text": "Why it matters: In order to move forward, the bill may now include the president and vice president, in addition to Congressional members, in its ban on certain investments.",
+      "role": "other"
+    },
+    {
+      "text": "IT'S ACTUALLY BECAUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS LEGISLATION",
+      "role": "overlay"
+    },
+    {
+      "text": "INCLUDES THE PRESIDENT",
+      "role": "overlay"
+    },
+    {
+      "text": "STOCK TRADING BAN.",
+      "role": "overlay"
+    },
+    {
+      "text": "Reuters",
+      "role": "other"
+    },
+    {
+      "text": "Trump reports more than $600 million in income from crypto, golf, licensing fees",
+      "role": "other"
+    },
+    {
+      "text": "June 14, 2025 1:06 PM EDT · Updated June 14, 2025",
+      "role": "other"
+    },
+    {
+      "text": "WHO HOLDS $211 MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "IN INVESTMENTS",
+      "role": "overlay"
+    },
+    {
+      "text": "$600 MILLION IN INCOME",
+      "role": "overlay"
+    },
+    {
+      "text": "BECAUSE OF",
+      "role": "overlay"
+    },
+    {
+      "text": "COURSE IT WAS.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The speaker explains that Donald Trump's White House was 'freaked out' by a proposed ban on congressional stock trading. She argues this wasn't due to the principle of the ban itself but because the legislation was expanded to include the president and vice president. She provides an example of a Republican congressman, Rob Bresnahan, who allegedly sold stock in a Medicaid provider before voting on Trump's budget bill that cut Medicaid funding, after which the stock's value fell. The speaker concludes that the White House's true motive was to protect Trump's personal investments and income streams, which she quantifies as being in the hundreds of millions.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of the woman's voice speaking directly and clearly. There is no background music or sound effects.",
+  "editing_pacing": "The video is a static talking-head shot. The editing consists of a series of graphics (photos, charts, and article screenshots) overlaid on the lower half of the screen to illustrate the speaker's points. The pacing is dictated by the speaker's narration.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Outrage",
+    "Cynicism"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump White House opposed a popular congressional stock trading ban because the legislation was expanded to also include the president, which would have restricted Trump's own ability to profit from his extensive personal investments.",
+  "intended_effect": "To convince the viewer that Trump and his administration were motivated by personal financial gain rather than the public interest.",
+  "uncertainty_flags": []
+}

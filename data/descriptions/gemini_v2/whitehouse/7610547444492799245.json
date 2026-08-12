@@ -1,0 +1,104 @@
+{
+  "video_id": "7610547444492799245",
+  "visual_action": "A montage shows a group of male athletes wearing 'USA' sweaters and gold medals from the 'Milano Cortina 2026' Olympics visiting the White House. The video includes close-ups of the gold medals, the team walking on the White House grounds, posing for group photos in front of the building, and with a statue of George Washington. They also walk through a colonnade looking at portraits of past presidents. The montage culminates with the team meeting and posing for photos with Donald Trump in the Oval Office, where they present him with a signed 'USA HOCKEY' jersey.",
+  "cast": [
+    {
+      "name": "US Olympic Team",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video features a team of athletes wearing sweaters with 'USA', an American flag, and the Olympic rings, along with gold medals."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown seated at the desk in the Oval Office, smiling and posing for photographs with the visiting athletes."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is set at the White House, with exterior shots, interior shots of the Oval Office, and an end card reading 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "George Washington",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The team is shown posing with a bronze statue of George Washington."
+    },
+    {
+      "name": "John F. Kennedy",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A framed portrait of John F. Kennedy is visible on a wall as the team walks by."
+    },
+    {
+      "name": "Dwight D. Eisenhower",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A framed portrait of Dwight D. Eisenhower is visible on a wall as the team walks by."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via face-ID, likely from a portrait on the wall of past presidents."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MILANO CORTINA 2026",
+      "role": "other"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "USA HOCKEY",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio contains a repeated, processed vocal sample saying \"Let's get started,\" which is integrated into the background music rather than being diegetic dialogue.",
+  "emojis_present": [
+    "🥇",
+    "🇺🇸",
+    "🦅"
+  ],
+  "audio_music": "An upbeat, high-energy, and triumphant rock music track plays throughout the video, creating a patriotic and celebratory mood for the montage.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes of the team's visit, interspersed with some stylized slow-motion shots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Celebration"
+  ],
+  "cultural_references": [
+    "Milano Cortina 2026 Winter Olympics",
+    "Team USA"
+  ],
+  "central_claim": "The champion US Olympic team from the 2026 Winter Games was honored at the White House by President Trump, showcasing American athletic dominance.",
+  "intended_effect": "To evoke feelings of national pride and associate American success on the world stage with the Trump administration.",
+  "uncertainty_flags": [
+    "The specific sport of the Olympic team is not explicitly named, but the signing of a 'USA HOCKEY' jersey strongly implies they are the men's ice hockey team."
+  ]
+}

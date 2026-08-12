@@ -1,0 +1,69 @@
+{
+  "video_id": "7503992442119556398",
+  "visual_action": "A static shot shows Donald Trump sitting at a table with an American flag behind him. His eyes are closed and his head is slightly tilted, appearing as if he has fallen asleep. A Fox News broadcast chyron is at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole person shown in the video and is the subject of the on-screen text which claims he is 'falling asleep'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and branding appear on the news chyron at the bottom of the screen."
+    },
+    {
+      "name": "Saudi Arabia",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The country is mentioned in the overlay text ('his Saudi Arabia meeting') and the news chyron ('RIYADH, SAUDI ARABIA' and 'AGREEMENT W/ SAUDI ARABIA')."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump falling asleep during his Saudi Arabia meeting lol",
+      "role": "overlay"
+    },
+    {
+      "text": "RIYADH, SAUDI ARABIA",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SIGNS NEW AGREEMENT W/ SAUDI ARABIA",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An unidentified woman's voice is overlaid, saying with a weary tone, \"Oh, Lord, have mercy. Mm-mm-mm. They drained me.\" This is used to humorously narrate Trump's apparent exhaustion.",
+  "emojis_present": [
+    "😴"
+  ],
+  "audio_music": "A short, simple musical track plays for the first few seconds underneath a woman's comedic, exasperated voiceover. The audio is then silent for the rest of the clip. The effect is mocking.",
+  "editing_pacing": "The video consists of a single, static shot with no edits or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "The audio is a viral meme sound clip of gospel singer Shirley Caesar saying 'Oh, Lord, have mercy... They drained me,' often used to express exhaustion."
+  ],
+  "central_claim": "Donald Trump fell asleep during an important meeting with Saudi Arabia, suggesting he is old and lacks the stamina for his duties.",
+  "intended_effect": "To make the viewer laugh at Donald Trump and see him as feeble and unfit for office.",
+  "uncertainty_flags": []
+}

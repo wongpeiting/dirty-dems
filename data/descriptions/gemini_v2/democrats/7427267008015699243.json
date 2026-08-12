@@ -1,0 +1,59 @@
+{
+  "video_id": "7427267008015699243",
+  "visual_action": "Barack Obama walks onto a stage in a large, crowded auditorium or gymnasium. An enthusiastic crowd cheers and records him on their phones. Obama waves and approaches a podium to speak.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visually present on stage, identified by face-ID, and speaks."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text states 'Obama SHOWED UP for Kamala in Arizona 😎'."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man in a suit is seen on stage clapping for Obama."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Obama SHOWED UP for Kamala in Arizona 😎",
+      "role": "overlay"
+    },
+    {
+      "text": "HELLO ARIZONA",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Barack Obama greets the audience by saying, \"Hello Arizona,\" over the sound of a cheering crowd.",
+  "emojis_present": [
+    "😎"
+  ],
+  "audio_music": "An upbeat, synthesized musical track plays over loud, enthusiastic crowd cheering and applause throughout the clip, creating a hype atmosphere for a political rally.",
+  "editing_pacing": "The video is a single, continuous shot that follows Barack Obama as he walks across the stage. The editing is simple and observational.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "pride",
+    "support"
+  ],
+  "cultural_references": [],
+  "central_claim": "Barack Obama is actively supporting and campaigning for Kamala Harris in Arizona.",
+  "intended_effect": "To generate excitement for Kamala Harris's campaign and demonstrate strong support from a popular party leader.",
+  "uncertainty_flags": [
+    "The identity of the man on stage with Barack Obama is unclear."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "video_id": "7415271353265261855",
+  "visual_action": "A vertical-format TikTok slideshow/video comprised of archival footage clips of Barack Obama speaking at various official podiums and press settings. The persistent title \"FIVE ICONIC OBAMA POLICY MOMENTS\" appears in white bold text at the top of every frame on a black bar. Each segment is labeled with a numbered blue overlay box identifying the policy moment. Frames 1–2 show Obama at a military ceremony with Joe Biden visible in the background (military regimental flags behind them) for the \"Repealing Don't Ask Don't Tell\" segment. Frame 3 shows Obama speaking outdoors at what appears to be a Rose Garden-style setting with a presidential seal on the podium for \"Passing Wall Street Reforms.\" Frames 4–8 show Obama at an indoor podium with blue curtains and American flags flanking him, with another figure partially visible at left edge, covering \"Passing a Stimulus Plan to End the Great Recession.\" The video implies additional segments (numbers 2 and 1) covering marriage equality and the ACA based on on-screen text, though those frames are not visible in the provided keyframes. Subtitles appear at the bottom in white text transcribing Obama's spoken words.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Confirmed by face-ID; appears speaking at podiums in all keyframes; post is centrally about his policy moments"
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Confirmed by face-ID (medium confidence); visible in background of first keyframe at the Don't Ask Don't Tell repeal ceremony"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FIVE ICONIC OBAMA POLICY MOMENTS",
+      "role": "overlay"
+    },
+    {
+      "text": "5. REPEALING DON'T ASK DON'T TELL",
+      "role": "overlay"
+    },
+    {
+      "text": "And so, as the first generation to serve",
+      "role": "caption"
+    },
+    {
+      "text": "4. PASSING WALL STREET REFORMS",
+      "role": "overlay"
+    },
+    {
+      "text": "Will hold Wall Street accountable",
+      "role": "caption"
+    },
+    {
+      "text": "3. PASSING A STIMULUS PLAN TO END THE GREAT RECESSION",
+      "role": "overlay"
+    },
+    {
+      "text": "American Recovery and Reinvestment Act",
+      "role": "caption"
+    },
+    {
+      "text": "that I will sign today.",
+      "role": "caption"
+    },
+    {
+      "text": "A plan that meets the principles",
+      "role": "caption"
+    },
+    {
+      "text": "I laid out in January",
+      "role": "caption"
+    },
+    {
+      "text": "2. LEGALIZING MARRIAGE EQUALITY",
+      "role": "overlay"
+    },
+    {
+      "text": "This morning Constitution guarantees",
+      "role": "caption"
+    },
+    {
+      "text": "1. SIGNING AFFORDABLE CARE ACT INTO LAW",
+      "role": "overlay"
+    },
+    {
+      "text": "We have now just enshrined, as soon as I sign this bill,",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Obama is heard speaking across multiple archival clips. For segment 5 (Don't Ask Don't Tell): \"And so, as the first generation to serve…\" For segment 4 (Wall Street Reforms): \"Will hold Wall Street accountable.\" For segment 3 (Stimulus/ARRA): \"American Recovery and Reinvestment Act that I will sign today… A plan that meets the principles I laid out in January.\" For segment 2 (Marriage Equality): \"This morning [the] Constitution guarantees…\" For segment 1 (ACA): \"We have now just enshrined, as soon as I sign this bill…\"",
+  "emojis_present": [],
+  "audio_music": "Largely silent or near-silent through the first ~19 seconds, with Obama's archival speech audio present as primary sound. A brief musical passage identified as \"Arche Noah der Einhörner\" by Oxmo appears around the 29-second mark, then the audio returns to silence/speech. The music functions as a brief transitional or atmospheric element between segments. No dramatic score or meme audio detected.",
+  "editing_pacing": "Slideshow-style with cuts between archival footage clips for each numbered policy moment. Moderate pacing — each segment holds for several seconds to allow Obama's speech audio to be heard. Consistent title bar and numbered blue overlay box persist across all cuts, giving a listicle/countdown structure. No fast cuts, speed ramps, or slow-mo detected.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride — framing Obama's achievements as 'iconic' with a numbered countdown format",
+    "admiration — archival footage of Obama speaking at official podiums presented reverently",
+    "nostalgia — use of archival clips from the Obama era"
+  ],
+  "cultural_references": [],
+  "central_claim": "Barack Obama's presidency produced five landmark policy achievements — repealing Don't Ask Don't Tell, passing Wall Street reforms, passing the stimulus to end the Great Recession, legalizing marriage equality, and signing the Affordable Care Act — presented as iconic and historically significant.",
+  "intended_effect": "Evoke pride and nostalgia in viewers for the Obama presidency and its policy legacy.",
+  "uncertainty_flags": [
+    "Keyframes only show segments 5, 4, and 3 visually; segments 2 (Marriage Equality) and 1 (ACA) are inferred from OCR/transcript but not visible in the provided stills",
+    "The partially visible figure at the left edge of the stimulus segment frames is unidentified",
+    "Music fingerprint 'Arche Noah der Einhörner — Oxmo' is trusted per ACRCloud but its specific role/duration in the video is brief and may be transitional background music only"
+  ]
+}

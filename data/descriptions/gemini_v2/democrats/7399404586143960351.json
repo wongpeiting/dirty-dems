@@ -1,0 +1,80 @@
+{
+  "video_id": "7399404586143960351",
+  "visual_action": "A slideshow of still photos of Joe Biden. The first photo shows him writing at his desk in the Oval Office. The second shows him smiling next to Ketanji Brown Jackson. The third shows him speaking at a United Nations climate event. The final photo shows him taking a selfie with a group of construction workers. Each photo has text overlaid describing a presidential accomplishment.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of every photograph in the slideshow."
+    },
+    {
+      "name": "Ketanji Brown Jackson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is shown standing next to Joe Biden in a photo accompanying the text 'Appointed a historic number of women and racial and ethnic minority judges'."
+    },
+    {
+      "name": "United Nations",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'United Nations Climate Change' is visible on the screen behind Joe Biden in one photo."
+    },
+    {
+      "name": "LIUNA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The acronym 'LIUNA' is visible on the orange shirts worn by workers posing with Joe Biden."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Moments we should add to textbooks",
+      "role": "overlay"
+    },
+    {
+      "text": "Appointed a historic number of women and racial and ethnic minority judges",
+      "role": "overlay"
+    },
+    {
+      "text": "Made the largest investment in climate action",
+      "role": "overlay"
+    },
+    {
+      "text": "Facilitated the strongest years of job growth in U.S. history",
+      "role": "overlay"
+    },
+    {
+      "text": "United Nations\nClimate Change",
+      "role": "other"
+    },
+    {
+      "text": "LIUNA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A male voice speaks a popular TikTok audio sound, saying, \"Oh, you can't find this in the store. Uh-uh. Not this baby. This right here, this is customized... You better get like me.\" The dialogue is used to frame the accomplishments shown as unique and impressive.",
+  "emojis_present": [],
+  "audio_music": "The video features a prominent spoken audio track from a popular TikTok sound, which is laid over a faint, gentle instrumental background track. The confident, boastful tone of the speaker serves to hype up the achievements listed in the video.",
+  "editing_pacing": "The video is a slow-paced slideshow, with simple cuts between four different still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "admiration"
+  ],
+  "cultural_references": [
+    "The audio is a popular TikTok sound where a person says 'Oh, you can't find this in the store... This right here, this is customized,' which is commonly used to showcase something unique or impressive."
+  ],
+  "central_claim": "Joe Biden's presidency has been marked by historic and significant achievements that deserve to be recognized.",
+  "intended_effect": "To make the viewer feel proud of the Biden administration's accomplishments and see his presidency as historically successful.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,110 @@
+{
+  "video_id": "7611292590322797837",
+  "visual_action": "A slideshow of two screenshots. The first is a fabricated tweet from 'Mayor Zohran Kwame Mamdani' claiming to have spoken with 'President Trump' to secure the release of a Columbia student, Elmina Aghayeva, from ICE detention. This tweet is presented as a reply to a New York Times tweet about the student's arrest. The second screenshot is an Instagram story from a user 'ellharve', presumably the student, announcing her release and expressing shock.",
+  "cast": [
+    {
+      "name": "Zohran Kwame Mamdani",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears in a fabricated tweet: 'Mayor Zohran Kwame Mamdani'. The post is framed around his supposed action."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned in the fabricated tweet: 'Just got off the phone with President Trump.'"
+    },
+    {
+      "name": "Elmina Aghayeva",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is named in the tweet ('Elmina Aghayeva') and is the subject of the entire narrative. The overlay text refers to her as 'Ellie', and she is implied to be the author of the Instagram story from 'ellharve'."
+    },
+    {
+      "name": "ICE",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the tweet as the agency that detained the student: '...who was detained by ICE this morning.'"
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from 'The New York Times @nytimes' is shown."
+    },
+    {
+      "name": "Columbia University",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in both tweets as the student's university."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "thank you Mayor Mamdani, Ellie has been released 💙",
+      "role": "overlay"
+    },
+    {
+      "text": "Mayor Zohran Kwame Mamdani @NYCMayor",
+      "role": "overlay"
+    },
+    {
+      "text": "Just got off the phone with President Trump.",
+      "role": "overlay"
+    },
+    {
+      "text": "In our meeting earlier, I shared my concerns about Columbia student Elmina Aghayeva, who was detained by ICE this morning.",
+      "role": "overlay"
+    },
+    {
+      "text": "He has just informed me that she will be released imminently.",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times @nytimes",
+      "role": "overlay"
+    },
+    {
+      "text": "Breaking News: Immigration agents arrested a Columbia University student after misrepresenting themselves to access a building, the school said. nyti.ms/4aTM5oH",
+      "role": "overlay"
+    },
+    {
+      "text": "ellharve ✓  2m",
+      "role": "overlay"
+    },
+    {
+      "text": "Hi guys\nI am so grateful for everyone of you. \nI just got out a little while ago. I am safe and okay. In an uber otw back home.\nI am so sorry but I am in complete shock over what happened and my phone is blowing up with calls from reporters.\nI need a little bit of time to process everything\nI will come back soon.\nBut please don't worry\nI love you all",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is accompanied only by instrumental music.",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "An upbeat, plucky acoustic guitar instrumental track plays consistently throughout the video, creating a hopeful and positive mood.",
+  "editing_pacing": "Slideshow of two static images with a single cut between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated tweet. Zohran Kwame Mamdani, a real New York State Assemblymember, is falsely presented as 'Mayor' and using the Twitter handle '@NYCMayor'. This fake tweet constructs a scenario where he has collaborated with 'President Trump' to secure a student's release, creating a satirical or misleading political narrative.",
+  "emotions_signaled": [
+    "Relief",
+    "Gratitude",
+    "Satire",
+    "Confusion"
+  ],
+  "cultural_references": [],
+  "central_claim": "A fabricated tweet is used to create a satirical scenario where progressive politician Zohran Mamdani, as 'Mayor,' works with 'President Trump' to free a student from ICE detention.",
+  "intended_effect": "To generate confusion or humor through a politically absurd scenario, likely to satirize the political figures involved and their perceived ideologies.",
+  "uncertainty_flags": []
+}

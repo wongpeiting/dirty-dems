@@ -1,0 +1,63 @@
+{
+  "video_id": "7431657876353060127",
+  "visual_action": "The video shows a clip of Donald Trump speaking at a rally in Las Vegas. He is at a podium in front of a crowd. This is followed by a static screen with a headline in black text on a white background, with a small red banner at the top.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at a rally. On-screen text attributes the quote 'Do you know Nicky? She's HOT!' to him."
+    },
+    {
+      "name": "Nicky Jam",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump says his name, 'Latin music superstar Nicky Jam.' The subsequent headline is also about him: 'NICKY JAM WALKS BACK TRUMP ENDORSEMENT...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LIVE LAS VEGAS",
+      "role": "chyron"
+    },
+    {
+      "text": "Latin music superstar Nicky Jam...",
+      "role": "overlay"
+    },
+    {
+      "text": "Do you know Nicky? She's HOT!",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP RALLIES SUPPORTERS IN NEVADA",
+      "role": "chyron"
+    },
+    {
+      "text": "MAGA NO MORE",
+      "role": "overlay"
+    },
+    {
+      "text": "NICKY JAM WALKS BACK TRUMP ENDORSEMENT: ‘PUERTO RICO DESERVES RESPECT’",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "At a rally, Donald Trump mentions 'Latin music superstar Nicky Jam' and then asks the crowd, 'Do you know Nicky? She's HOT!', incorrectly referring to the male artist as female.",
+  "emojis_present": [],
+  "audio_music": "An upbeat reggaeton track, identified as 'Te Boté' featuring Nicky Jam, plays throughout the video. The music serves to introduce Nicky Jam as the subject and provides a cultural context for the clip.",
+  "editing_pacing": "The video consists of a single cut from a live-action clip of a speech to a static headline image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "Te Boté (song)"
+  ],
+  "central_claim": "Donald Trump made an embarrassing gaffe by misgendering Latin music star Nicky Jam, leading Nicky Jam to publicly retract any perceived endorsement and state that Puerto Rico deserves respect.",
+  "intended_effect": "To portray Donald Trump as ignorant and disrespectful, particularly towards the Latino community, and to show that his comments have negative consequences.",
+  "uncertainty_flags": []
+}

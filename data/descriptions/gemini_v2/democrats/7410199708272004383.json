@@ -1,0 +1,67 @@
+{
+  "video_id": "7410199708272004383",
+  "visual_action": "Tim Walz speaks at a podium at an event called 'LABORFEST' in Milwaukee, WI. A crowd of supporters stands behind him, some holding signs.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Tim Walz is shown speaking at a podium. The provided context confirms his face is detected, and on-screen text refers to him as 'Coach Walz'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Tim Walz repeatedly mentions Donald Trump by name, for example: 'Now we know that Donald Trump...' and 'Donald Trump does. He knows how to take advantage of them...'"
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Tim Walz mentions him once in the opening line: '...Donald Trump and JD Vance, they have a little bit different vision of America.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "No lies detected Coach Walz ☝️",
+      "role": "overlay"
+    },
+    {
+      "text": "Now we know that Donald Trump and JD Vance, they have a little bit different vision of America. I do say this, he does know something about working people, Donald Trump does. He knows how to take advantage of them, that's what he knows how to do. Every single chance these guys have gotten, they've waged wars on workers in the middle class.",
+      "role": "caption"
+    },
+    {
+      "text": "MILWAUKEE, WI",
+      "role": "chyron"
+    },
+    {
+      "text": "LABORFEST",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "At Laborfest in Milwaukee, Tim Walz states that Donald Trump and JD Vance have a different vision for America. He adds, \"I do say this, he does know something about working people, Donald Trump does. He knows how to take advantage of them, that's what he knows how to do.\" Walz concludes that they have \"waged wars on workers in the middle class\" at every opportunity.",
+  "emojis_present": [
+    "☝️"
+  ],
+  "audio_music": "A hip-hop track ('WE NOT LIKE YALL' by BoyRap) with a prominent beat begins playing a few seconds into the video and continues under the speech, giving the clip a modern, high-energy, and confrontational tone.",
+  "editing_pacing": "The video is a single, static shot of a person speaking at a podium with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Righteous anger",
+    "Indignation",
+    "Solidarity"
+  ],
+  "cultural_references": [
+    "The soundtrack features the rap song 'WE NOT LIKE YALL' by BoyRap."
+  ],
+  "central_claim": "Donald Trump and his allies exploit working people and consistently act against the interests of the middle class.",
+  "intended_effect": "To persuade the audience that Donald Trump is an enemy of the working class and to rally support for Democrats as the true advocates for workers.",
+  "uncertainty_flags": []
+}

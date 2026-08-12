@@ -1,0 +1,99 @@
+{
+  "video_id": "7633226360365862157",
+  "visual_action": "The video shows a clip of an interview between Donald Trump and a female interviewer, identified as being from 60 Minutes. They are seated opposite each other in a formal setting with an American flag visible in the background. The camera cuts between shots of the interviewer, Trump, and a two-shot of them together.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visually identified on screen, speaking and being interviewed for the entire duration of the clip."
+    },
+    {
+      "name": "60 Minutes Interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Visually identified on screen asking questions to Donald Trump."
+    },
+    {
+      "name": "60 Minutes",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'POTUS SLAMS 60 minutes' and Trump says 'You shouldn't be reading that on 60 minutes.'"
+    },
+    {
+      "name": "unnamed manifesto author",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The interviewer quotes extensively from his 'so-called manifesto', and his words are the subject of the entire confrontation. Trump calls him a 'sick person'."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions him by name, saying '...the ones that were involved with, let's say, Epstein or other things.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POTUS SLAMS 60 minutes",
+      "role": "overlay"
+    },
+    {
+      "text": "THE SO CALLED MANIFESTO IS A STUNNING THING TO READ",
+      "role": "caption"
+    },
+    {
+      "text": "ADMINISTRATION OFFICIALS, THEY ARE TARGETS.",
+      "role": "caption"
+    },
+    {
+      "text": "I'M NO LONGER WILLING TO PERMIT A PEDOPHILE, RAPIST AND TRAITOR TO COAT MY HANDS WITH HIS CRIMES.",
+      "role": "caption"
+    },
+    {
+      "text": "WHAT'S YOUR REACTION?",
+      "role": "caption"
+    },
+    {
+      "text": "BECAUSE YOU'RE. YOU'RE. YOU're HORRIBLE PEOPLE.",
+      "role": "caption"
+    },
+    {
+      "text": "I'M NOT A RAPIST. I DIDN'T RAPE ANYBODY.",
+      "role": "caption"
+    },
+    {
+      "text": "I'M NOT A PEDOPHILE.",
+      "role": "caption"
+    },
+    {
+      "text": "YOU SHOULDN'T BE READING THAT ON 60 MINUTES.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "In an interview, a 60 Minutes journalist reads quotes from a 'so-called manifesto' to Donald Trump, which refers to an unnamed person as a 'pedophile, rapist and traitor' and states 'administration officials... are targets.' When asked for his reaction, Trump calls the journalist and her colleagues 'horrible people' for reading it. He forcefully denies the accusations, stating 'I'm not a rapist' and 'I'm not a pedophile.' He dismisses the author as a 'sick person' and suggests the journalist's 'friends on the other side' were involved with Jeffrey Epstein. He concludes by telling the journalist she should be ashamed to read such things on 60 Minutes.",
+  "emojis_present": [],
+  "audio_music": "Dialogue-only audio from the source interview clip. No music or sound effects are present.",
+  "editing_pacing": "The video uses standard talking-head interview editing, cutting between medium shots of the interviewer and the interviewee (Donald Trump). The pacing is conversational.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Indignation",
+    "Confrontation"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump forcefully denies accusations of being a rapist and pedophile, and attacks the 60 Minutes interviewer for giving them a platform.",
+  "intended_effect": "To portray Trump as a strong leader who is being unfairly attacked by a hostile media, thereby generating sympathy for him and anger towards the press.",
+  "uncertainty_flags": []
+}

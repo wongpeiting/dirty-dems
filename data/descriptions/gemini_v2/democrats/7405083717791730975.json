@@ -1,0 +1,75 @@
+{
+  "video_id": "7405083717791730975",
+  "visual_action": "Joe Biden speaks at a podium against a dark blue backdrop. He is seen from the chest up and makes hand gestures while speaking.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and is speaking for the entire duration of the video."
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text at the top of the video says, \"Dark Brandon pops out at the DNC 😎\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Biden concludes his speech by contrasting putting a prosecutor in office with putting in \"a convicted felon,\" which is a clear reference to Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Dark Brandon pops out at the DNC 😎",
+      "role": "overlay"
+    },
+    {
+      "text": "Violent crime has dropped",
+      "role": "caption"
+    },
+    {
+      "text": "to the lowest level in more than 50 years.",
+      "role": "caption"
+    },
+    {
+      "text": "And crime will keep coming down",
+      "role": "caption"
+    },
+    {
+      "text": "when we put a prosecutor in the Oval Office",
+      "role": "caption"
+    },
+    {
+      "text": "instead of a convicted felon.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Joe Biden states that violent crime has dropped to the lowest level in over 50 years. He then promises that crime will continue to fall \"when we put a prosecutor in the Oval Office instead of a convicted felon,\" which is met with cheers from the audience.",
+  "emojis_present": [
+    "😎"
+  ],
+  "audio_music": "The audio consists solely of Joe Biden speaking, with audible applause and cheers from a crowd in response to his lines.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or camera movement. On-screen captions appear sequentially to match the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "confidence",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Dark Brandon"
+  ],
+  "central_claim": "The Biden administration has successfully reduced violent crime, offering competent leadership in contrast to his political opponent, who is a convicted felon.",
+  "intended_effect": "To make viewers feel proud of Biden's record on crime, see him as a strong leader, and view his opponent with contempt.",
+  "uncertainty_flags": []
+}

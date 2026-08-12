@@ -1,0 +1,50 @@
+{
+  "video_id": "7102082489467899178",
+  "visual_action": "Vice President Kamala Harris stands at a podium with American flags in the background, speaking directly to an audience. She wears a dark blazer and gestures with her hands as she delivers her remarks. The shot is a static, medium close-up.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole person shown on screen, speaking for the entire duration of the video."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Kamala Harris refers to him by saying, \"As the President said last night...\""
+    },
+    {
+      "name": "the gun lobby",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Kamala Harris says, \"we must have the courage to stand up to the gun lobby.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Vice President Harris on the Importance of Creating a Safer America",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Kamala Harris states, \"Enough is enough,\" and calls for the courage to stand up to the gun lobby and pass \"reasonable gun safety laws.\" She says it is necessary to work together to create an America where everyone, including children in schools, feels safe in their community.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Kamala Harris's spoken remarks. There is no background music or other sound.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "The government must pass reasonable gun safety laws by standing up to the gun lobby to ensure the safety of communities and schools.",
+  "intended_effect": "To persuade the audience that the administration is committed to gun safety and to garner support for legislative action on gun control.",
+  "uncertainty_flags": []
+}

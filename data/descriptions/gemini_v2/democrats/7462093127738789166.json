@@ -1,0 +1,65 @@
+{
+  "video_id": "7462093127738789166",
+  "visual_action": "A video montage shows clips of politicians and a female singer at what appears to be a formal event. The first shot shows Joe Biden looking at a paper, standing next to a blonde woman identified by on-screen text as Carrie Underwood, with Douglas Emhoff behind them. The video then cuts to a close-up of Donald Trump looking forward with a serious expression, then to a close-up of the woman, and finally back to another angle of Trump looking serious.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is shown in close-up shots and the on-screen text refers to \"Trump's inaug\"."
+    },
+    {
+      "name": "Douglas Emhoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face is visible in the background of the first shot."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the opening shot of the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "lol Carrie Underwood awkwardly waiting to sing at Trump's inaug bc of technical difficulties 😥",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is the chorus from Jason Derulo's song \"Whatcha Say,\" with lyrics including \"Mmm, what you say, mmm, that you only meant well... mmm, what you say... that it's all for the best.\"",
+  "emojis_present": [
+    "😥",
+    "😬"
+  ],
+  "audio_music": "The entire clip is set to the song 'Whatcha Say' by Jason Derulo. This song, particularly its chorus, is frequently used in memes to underscore moments of awkwardness, failure, or drama, creating a mocking and comedic tone.",
+  "editing_pacing": "The video uses quick cuts between a wider shot and close-ups of Donald Trump and Carrie Underwood, creating a reaction-shot dynamic.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is a composite of unrelated clips edited together to create a false narrative. The footage of different individuals is taken from different events and spliced together to falsely depict a scene at Donald Trump's inauguration that did not occur as portrayed.",
+  "emotions_signaled": [
+    "mockery",
+    "amusement",
+    "awkwardness"
+  ],
+  "cultural_references": [
+    "Carrie Underwood",
+    "The song 'Whatcha Say' by Jason Derulo, which is a widely used meme sound."
+  ],
+  "central_claim": "The post falsely claims that singer Carrie Underwood experienced an awkward moment while waiting to perform at Donald Trump's inauguration due to technical difficulties.",
+  "intended_effect": "To generate mockery and amusement at Donald Trump's expense by portraying an event associated with him as awkward and unprofessional.",
+  "uncertainty_flags": []
+}

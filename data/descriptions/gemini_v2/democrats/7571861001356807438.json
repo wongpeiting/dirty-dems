@@ -1,0 +1,51 @@
+{
+  "video_id": "7571861001356807438",
+  "visual_action": "A static image shows a cartoon pot of gold at the end of a rainbow in a green, hilly landscape. A cutout photo of Adelita Grijalva slowly rises up from inside the pot of gold, smiling. Animated sparkles appear around her as she emerges.",
+  "cast": [
+    {
+      "name": "Adelita Grijalva",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her face is shown emerging from the pot of gold, and her name is featured in the on-screen text: \"adelita grijalva will finally be sworn in today\"."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The caption mentions him by name: \"after 7 weeks of mike johnson refusing to swear her in\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "adelita grijalva will finally be sworn in today ❤️",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a pop song with the lyrics, \"Treasure, that is what you are.\"",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "An upbeat, celebratory pop/funk track plays throughout the video. It sounds like the song 'Treasure' by Bruno Mars, which thematically matches the visual of a pot of gold.",
+  "editing_pacing": "The video is a single, static shot with a slow animation of a person's photo rising into the frame. There are no cuts.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A cutout photograph of Adelita Grijalva is superimposed onto a cartoon background of a pot of gold and a rainbow, making it appear as if she is the treasure emerging from the pot.",
+  "emotions_signaled": [
+    "Celebration",
+    "Triumph",
+    "Joy"
+  ],
+  "cultural_references": [
+    "Leprechaun's pot of gold at the end of the rainbow (folklore)",
+    "Bruno Mars"
+  ],
+  "central_claim": "Adelita Grijalva is finally being sworn in, an event portrayed as a celebratory and triumphant discovery after a 7-week delay attributed to Mike Johnson.",
+  "intended_effect": "To generate positive feelings and a sense of victory around Adelita Grijalva's swearing-in, while casting Mike Johnson as an obstructionist.",
+  "uncertainty_flags": [
+    "The provided audio transcript seems slightly inaccurate; the lyrics are more clearly audible in the video.",
+    "The song sounds like 'Treasure' by Bruno Mars but was not matched by the music fingerprinting service, possibly because it is a cover or altered version."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "video_id": "7512506650377456939",
+  "visual_action": "The video displays two still images of Donald Trump speaking, with captions attributed to him. It then cuts to a screenshot of an ABC News headline about Elon Musk criticizing a bill from Trump. Three broken heart emojis are displayed above the headline.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in still images and his name appears in the on-screen text of the news headline: \"Trump's bill\"."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the captions over Trump's image (\"Look, Elon and I had a great relationship.\") and in the ABC News headline (\"Elon Musk continues to blast Trump's bill...\")."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The ABC News logo is visible on the screenshot of the news article."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Look, Elon and I had a great relationship.",
+      "role": "caption"
+    },
+    {
+      "text": "I don't know if we will anymore...",
+      "role": "caption"
+    },
+    {
+      "text": "💔💔💔",
+      "role": "overlay"
+    },
+    {
+      "text": "abc NEWS",
+      "role": "other"
+    },
+    {
+      "text": "Log In",
+      "role": "other"
+    },
+    {
+      "text": "'KILL the BILL': Elon Musk continues to blast Trump's bill in barrage of social media posts",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The entire audio consists of a pop song. Text captions are presented on screen as if spoken by Donald Trump, stating, \"Look, Elon and I had a great relationship. I don't know if we will anymore...\"",
+  "emojis_present": [
+    "💔"
+  ],
+  "audio_music": "A sad, romantic pop ballad (Ariana Grande's 'One Last Time') plays throughout the video, creating a melodramatic and mock-heartbreak tone for the political disagreement being depicted.",
+  "editing_pacing": "The video consists of static images and a screenshot, functioning as a simple slideshow with one cut.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "heartbreak",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Ariana Grande"
+  ],
+  "central_claim": "Donald Trump's previously 'great relationship' with Elon Musk has ended because Musk is now publicly opposing Trump's legislative efforts.",
+  "intended_effect": "To mock Donald Trump and the political falling-out with Elon Musk by framing it as a dramatic, personal breakup, using pop culture cues like a breakup song and heart emojis.",
+  "uncertainty_flags": []
+}

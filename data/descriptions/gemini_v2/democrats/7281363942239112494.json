@@ -1,0 +1,82 @@
+{
+  "video_id": "7281363942239112494",
+  "visual_action": "The video displays a screenshot of a tweet from journalist Jake Sherman about House Republicans being in a state of crisis over a Pentagon spending bill. It then transitions to a screen capture of a tweet from 'The Democrats' account, which quotes Sherman's tweet and includes an embedded video meme. The meme shows a chaotic high school hallway fight scene from the movie 'Mean Girls,' with the text 'HOUSE REPUBLICANS' superimposed over multiple fighting students.",
+  "cast": [
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text 'HOUSE REPUBLICANS' is superimposed on characters in the video clip. A tweet shown on screen states, 'Kevin mccarthys House Republicans are in a state of crisis.'"
+    },
+    {
+      "name": "Jake Sherman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His tweet is screenshotted, showing his name 'Jake Sherman' and Twitter handle '@JakeSherman'."
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned in the on-screen tweet by Jake Sherman: 'Kevin mccarthys House Republicans are in a state of crisis.'"
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a screenshot of a tweet from the account 'The Democrats' with the handle '@TheDemocrats'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Jake Sherman @JakeSherman",
+      "role": "caption"
+    },
+    {
+      "text": "Just to put this in context, republicans cannot even agree to debate the pentagon spending bill. This bill usually passes by big margins.",
+      "role": "caption"
+    },
+    {
+      "text": "It failed twice this week.",
+      "role": "caption"
+    },
+    {
+      "text": "Kevin mccarthys House Republicans are in a state of crisis.",
+      "role": "caption"
+    },
+    {
+      "text": "The Democrats @TheDemocrats",
+      "role": "caption"
+    },
+    {
+      "text": "HOUSE REPUBLICANS",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "The video opens with a brief, high-pitched scream sound effect. This is immediately followed by the ethereal indie-pop song 'mirrorball' by Taylor Swift, which plays for the remainder of the clip, creating a dramatic and chaotic mood that matches the visuals.",
+  "editing_pacing": "The video consists of static screenshots, with a short movie clip playing within one of the screenshots. The editing is minimal.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "Mean Girls (2004 movie)",
+    "Taylor Swift (musician)",
+    "mirrorball (song)"
+  ],
+  "central_claim": "House Republicans are in a state of chaotic disarray, unable to govern effectively, akin to teenagers fighting in a high school hallway.",
+  "intended_effect": "To mock House Republicans for their perceived infighting and dysfunction, and to persuade viewers that they are unfit to govern.",
+  "uncertainty_flags": []
+}

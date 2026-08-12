@@ -1,0 +1,48 @@
+{
+  "video_id": "7666633505190825230",
+  "visual_action": "A static image of a man in a blue baseball cap and a dark work jacket, standing outdoors in a wooded area with what appears to be yellow heavy machinery (like a logging vehicle) behind him. Text is overlaid on the image.",
+  "cast": [
+    {
+      "name": "Troy Jackson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is shown in the image and he is named in the on-screen text: 'TROY JACKSON SECURES DEMOCRATIC NOMINATION FOR U.S SENATE IN MAINE'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text reads 'DEMOCRATIC NOMINATION'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MIDTERM NEWS",
+      "role": "overlay"
+    },
+    {
+      "text": "TROY JACKSON SECURES DEMOCRATIC NOMINATION FOR U.S SENATE IN MAINE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video.",
+  "emojis_present": [],
+  "audio_music": "A continuous, somewhat anthemic and folksy track plays throughout. The identified song is 'Maine' by Noah Kahan.",
+  "editing_pacing": "The video consists of a single static image with text overlays; there is no editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "hope"
+  ],
+  "cultural_references": [
+    "The background music is the song 'Maine' by popular artist Noah Kahan."
+  ],
+  "central_claim": "Troy Jackson has secured the Democratic nomination for the U.S. Senate in Maine.",
+  "intended_effect": "To announce and celebrate Troy Jackson's primary victory and build support for his Senate campaign.",
+  "uncertainty_flags": []
+}

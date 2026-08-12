@@ -1,0 +1,116 @@
+{
+  "video_id": "7666205238948285710",
+  "visual_action": "A split-screen view from a Fox News broadcast shows Donald Trump on the left, seated at a desk, and reporter Peter Doocy on the right, asking a question in what appears to be the White House press briefing room. Trump listens and then responds.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown on screen speaking in a news clip and is the subject of the post's critique."
+    },
+    {
+      "name": "LeBron James",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of the reporter's question and of Trump's comment, \"maybe he's a racist.\" The on-screen text also names him."
+    },
+    {
+      "name": "Peter Doocy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Identified by the on-screen chyron as 'PETER DOOCY | SENIOR WHITE HOUSE CORRESPONDENT' and is shown asking the question."
+    },
+    {
+      "name": "Michael Jordan",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the reporter's question as a comparison to LeBron James, and Trump refers to him as a friend."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The broadcast is identified by the Fox News logo and chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "why is he calling LeBron a racist 😅",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS\nNOW: TRUMP TAKES REPORTER QUESTIONS\nTHE WHITE HOUSE\nFOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "PETER DOOCY | SENIOR WHITE HOUSE CORRESPONDENT",
+      "role": "chyron"
+    },
+    {
+      "text": "Where do you stand on LeBron",
+      "role": "caption"
+    },
+    {
+      "text": "versus Michael Jordan",
+      "role": "caption"
+    },
+    {
+      "text": "as the best ever?",
+      "role": "caption"
+    },
+    {
+      "text": "Michael Jordan's a guy that's",
+      "role": "caption"
+    },
+    {
+      "text": "a friend of mine.",
+      "role": "caption"
+    },
+    {
+      "text": "Play golf with him.",
+      "role": "caption"
+    },
+    {
+      "text": "He's a really good guy,",
+      "role": "caption"
+    },
+    {
+      "text": "and I think LeBron is,",
+      "role": "caption"
+    },
+    {
+      "text": "maybe he's a racist",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A reporter asks Donald Trump for his opinion on whether LeBron James or Michael Jordan is the best basketball player ever. Trump praises Michael Jordan as a \"really good guy\" and a friend, then says of LeBron James, \"maybe he's a racist.\"",
+  "emojis_present": [
+    "😅"
+  ],
+  "audio_music": "The audio consists entirely of clear dialogue from the press conference clip with no music or sound effects.",
+  "editing_pacing": "The video is a single, unedited clip from a news broadcast presented in a split-screen format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Shock",
+    "Incredulity",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "LeBron James",
+    "Michael Jordan"
+  ],
+  "central_claim": "Donald Trump responded to a question comparing LeBron James and Michael Jordan by suggesting that LeBron James might be a racist.",
+  "intended_effect": "To portray Donald Trump as irrational and prone to making baseless, inflammatory accusations, thereby generating disapproval of him.",
+  "uncertainty_flags": []
+}

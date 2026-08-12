@@ -1,0 +1,76 @@
+{
+  "video_id": "7370452724388728107",
+  "visual_action": "A montage shows President Joe Biden visiting a facility in Wisconsin. The clips, presented with a vintage film-style filter, show him deplaning Air Force One, speaking at a podium in a factory-like setting, and interacting warmly with diverse groups of attendees. He is seen smiling, shaking hands, taking selfies, and speaking one-on-one with people in the crowd. B-roll includes a banner for Microsoft, industrial machinery, and signs for the event.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Joe Biden is the central figure in every scene of the video."
+    },
+    {
+      "name": "Tony Evers",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID in the provided context, seen in the background of event footage."
+    },
+    {
+      "name": "Microsoft",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A large banner with the 'Microsoft' logo is shown at the event."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Microsoft",
+      "role": "other"
+    },
+    {
+      "text": "THERMAL PROCESS CONTROL SYSTEM",
+      "role": "other"
+    },
+    {
+      "text": "President Biden visits",
+      "role": "overlay"
+    },
+    {
+      "text": "Wisconsin",
+      "role": "overlay"
+    },
+    {
+      "text": "STURTEVANT, WI",
+      "role": "other"
+    },
+    {
+      "text": "PRESIDENT JOE BIDEN",
+      "role": "other"
+    },
+    {
+      "text": "INVESTING IN AMERICA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only background music plays.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, classic soul/R&B track plays consistently throughout the montage, creating a positive, warm, and energetic mood.",
+  "editing_pacing": "A fast-paced montage of many short clips with quick cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Happiness",
+    "Optimism",
+    "Pride",
+    "Community"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden is actively investing in American industry and communities, as demonstrated by his warmly received visit to a facility in Wisconsin.",
+  "intended_effect": "To make the viewer feel positive about President Biden's economic initiatives and his personal connection with American citizens.",
+  "uncertainty_flags": []
+}

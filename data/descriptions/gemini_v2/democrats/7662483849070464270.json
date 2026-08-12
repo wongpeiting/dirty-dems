@@ -1,0 +1,89 @@
+{
+  "video_id": "7662483849070464270",
+  "visual_action": "The video opens with a static image of a fake poll. The poll shows 'Everyone gets a Puppy' at 49.9% versus 'Diarrhea Forever' at 50.1%. Below this is a portrait of Robert F. Kennedy Jr. with text overlays about a cyclosporiasis outbreak, claiming RFK Jr. ordered the CDC to stop tracking it. The video then cuts to a screenshot of a tweet from an account called 'FactPost' which repeats the same claim, accompanied by the same portrait of RFK Jr. and a microscopic image of a parasite.",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His portrait is shown prominently, and on-screen text names him ('RFK Jr') as the person who allegedly 'ordered the CDC to stop tracking cyclosporiasis'."
+    },
+    {
+      "name": "CDC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states, 'Last year, RFK Jr ordered the CDC to stop tracking cyclosporiasis'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost' (@factpostnews) is shown as the source of the claim."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Everyone gets a Puppy",
+      "role": "meme_text"
+    },
+    {
+      "text": "Diarrhea Forever",
+      "role": "meme_text"
+    },
+    {
+      "text": "49.9%",
+      "role": "meme_text"
+    },
+    {
+      "text": "50.1%",
+      "role": "meme_text"
+    },
+    {
+      "text": "UPDATE",
+      "role": "overlay"
+    },
+    {
+      "text": "The explosive diarrhea-causing cyclosporiasis outbreak has now spread to 31 states with nearly 7,000 potential cases",
+      "role": "overlay"
+    },
+    {
+      "text": "Last year, RFK Jr ordered the CDC to stop tracking cyclosporiasis",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews",
+      "role": "other"
+    },
+    {
+      "text": "The explosive diarrhea-causing cyclosporiasis outbreak has now spread to 31 states, with nearly 7,000 potential cases. Last year, RFK ordered the CDC's Foodborne Diseases Active Surveillance Network to stop tracking cyclosporiasis.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a single sound effect at the beginning.",
+  "emojis_present": [],
+  "audio_music": "The video begins with a brief, wet, flatulence-like sound effect lasting about one second, designed for gross-out comedic effect. The rest of the video is silent.",
+  "editing_pacing": "The video is a static slideshow consisting of two still images with a single hard cut between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The poll shown at the beginning of the video is a fabricated graphic. It satirically pits 'Everyone gets a Puppy' against 'Diarrhea Forever' and is designed to look like a news poll, including a logo that resembles that of The New York Times.",
+  "emotions_signaled": [
+    "Disgust",
+    "Mockery",
+    "Alarm",
+    "Blame"
+  ],
+  "cultural_references": [
+    "The New York Times logo is used as part of a satirical poll meme format.",
+    "The format of a fake, absurd news poll is a common internet meme."
+  ],
+  "central_claim": "Robert F. Kennedy Jr. is directly responsible for a major public health crisis involving an 'explosive diarrhea-causing' outbreak because he allegedly instructed the CDC to stop monitoring the disease.",
+  "intended_effect": "To associate RFK Jr. with a disgusting illness and portray him as a dangerously incompetent leader, thereby generating fear, disgust, and blame towards him.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' account and the veracity of its claims about the cyclosporiasis outbreak and RFK Jr.'s alleged actions cannot be determined from the video itself."
+  ]
+}

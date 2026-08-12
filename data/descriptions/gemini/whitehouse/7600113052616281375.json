@@ -1,0 +1,128 @@
+{
+  "video_id": "7600113052616281375",
+  "visual_action": "The video opens on a black screen with text appearing as a person asks Siri for the weather. Siri replies that it's \"icy.\" A weather map is shown with the word \"ICE\" prominently displayed over a region of the United States. The video then cuts to a montage of armored law enforcement vehicles in the snow, federal agents arresting a man in a snowy alley, and a rapid succession of graphics showing mugshots of individuals. These graphics are labeled with text like \"MINNESOTA WORST OF WORST,\" \"CRIMINAL ILLEGAL ALIEN ARRESTED,\" and list serious crimes such as \"RAPE\" and \"LEWD ACTS WITH A MINOR.\" The video concludes with the official logo for The White House.",
+  "cast": [
+    {
+      "name": "Siri",
+      "kind": "org",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A synthesized female voice, identified as Siri in the opening dialogue, provides a weather report."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video features a pun on the word \"icy\" while showing law enforcement arresting people described as \"criminal illegals.\" The word \"ICE\" is visually highlighted on a weather map, directly referencing the agency's acronym."
+    },
+    {
+      "name": "unnamed law enforcement officers",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Men in tactical gear are shown arresting a person. One officer wears a vest that reads \"POLICE FEDERAL AGENT.\""
+    },
+    {
+      "name": "unnamed arrested individuals",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A person is shown being arrested in an alley, and multiple other individuals are shown in mugshots in a rapid montage."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with the logo and name \"THE WHITE HOUSE.\" Graphics in the montage also include the text \"SUBMITTED BY THE WHITE HOUSE.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "HEY SIRI,",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT'S THE WEATHER",
+      "role": "overlay"
+    },
+    {
+      "text": "LOOK LIKE?",
+      "role": "overlay"
+    },
+    {
+      "text": "SNOW",
+      "role": "overlay"
+    },
+    {
+      "text": "ICE",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE FEDERAL AGENT",
+      "role": "other"
+    },
+    {
+      "text": "MINNESOTA WORST OF WORST",
+      "role": "overlay"
+    },
+    {
+      "text": "CRIMINAL ILLEGAL ALIEN ARRESTED",
+      "role": "overlay"
+    },
+    {
+      "text": "24 CONVICTIONS INCLUDING ASSAULT, DOMESTIC ABUSE, PUBLIC NUDITY, AND THEFT",
+      "role": "overlay"
+    },
+    {
+      "text": "SUBMITTED BY THE WHITE HOUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "LEWD ACTS WITH A MINOR",
+      "role": "overlay"
+    },
+    {
+      "text": "RAPE",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "FEELIN ICY ❄️ ps. The deportations of criminal illegals will continue.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A man's voice asks, \"Hey Siri, what's the weather look like?\" A synthesized female voice replies, \"It looks like you're gonna need an umbrella. It's a little bit icy.\" The word \"icy\" serves as a pun, transitioning the video's theme from weather to the law enforcement agency ICE.",
+  "emojis_present": [
+    "❄️"
+  ],
+  "audio_music": "The audio begins with original speech. After the pun on \"icy,\" a driving, bass-heavy hip-hop beat begins and continues through the montage of arrests and mugshots, creating an intense and action-oriented tone.",
+  "editing_pacing": "The video starts slowly with static text on a black screen. After the verbal pun, the pacing accelerates dramatically with quick cuts showing armored vehicles, an arrest in progress, and a rapid-fire montage of graphic overlays with mugshots and text.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Intimidation",
+    "Fear",
+    "Pride"
+  ],
+  "cultural_references": [
+    "Siri",
+    "Weather report memes",
+    "ICE (U.S. Immigration and Customs Enforcement)"
+  ],
+  "central_claim": "The White House is aggressively using ICE to arrest and deport dangerous undocumented immigrants who have committed serious crimes.",
+  "intended_effect": "To reassure supporters and intimidate opponents by showcasing a tough stance on immigration enforcement, linking undocumented immigrants to violent crime to justify deportations.",
+  "uncertainty_flags": [
+    "The specific agency of the arresting officers is not definitively confirmed, though the context strongly implies ICE.",
+    "The authenticity and context of the arrest footage and mugshots are not independently verifiable from the video alone."
+  ]
+}

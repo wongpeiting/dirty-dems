@@ -1,0 +1,63 @@
+{
+  "video_id": "7637174948133391630",
+  "visual_action": "A montage of clips showing Senator Marco Rubio at the White House press briefing podium, acting as press secretary. He speaks, gestures, and interacts with the assembled press corps, who are shown seated and sometimes laughing.",
+  "cast": [
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure in every clip, shown speaking at the podium."
+    },
+    {
+      "name": "White House Press Corps",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Shown seated in the briefing room, laughing, and heard asking questions."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The setting is the White House briefing room, with the official seal and text on the podium."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Press Sec Core",
+      "role": "overlay"
+    },
+    {
+      "text": "The WHITE HOUSE Press Briefing\nTuesday, May 1, 2026",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Marco Rubio humorously manages a chaotic White House press briefing. He jokes with reporters, saying things like \"This is chaos, guys\" and \"I wish I had like a dice\" to choose who to call on. He banters with the press, teasing one about wearing blue and black, speaking Spanish to another, and telling a reporter who asks two questions, \"I'll give you one answer... and I'll pick the one I like better.\" The final clip features a reporter asking, \"What is your DJ name?\" to which Rubio replies, \"You're not ready for my DJ name.\"",
+  "emojis_present": [
+    "🤣"
+  ],
+  "audio_music": "The audio consists of dialogue from Marco Rubio and the press corps, along with ambient sounds like laughter and reporters speaking over one another. Each new clip in the montage is introduced with a short, punchy sound effect for emphasis.",
+  "editing_pacing": "The video is a fast-paced montage with very quick cuts between various humorous or chaotic moments from the press briefing, creating a highlight reel effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Humor",
+    "Amusement"
+  ],
+  "cultural_references": [
+    "The video format and on-screen text 'Press Sec Core' is a reference to the internet aesthetic trend of '-core' videos, which are fast-paced montages summarizing the essence of a topic or person.",
+    "The question about a 'DJ name' is a lighthearted pop-culture trope."
+  ],
+  "central_claim": "Marco Rubio is a witty and charismatic figure who can handle the challenges of a White House press briefing with humor and charm.",
+  "intended_effect": "To entertain the audience and portray Marco Rubio as relatable, personable, and competent in a high-pressure environment.",
+  "uncertainty_flags": []
+}

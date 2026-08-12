@@ -1,0 +1,54 @@
+{
+  "video_id": "7309974704616394030",
+  "visual_action": "A short slideshow video comparing two images of Kevin McCarthy. The first image shows him smiling and pointing up under a plaque that reads 'SPEAKER OF THE HOUSE KEVIN MCCARTHY', with overlay text describing the beginning of 2023. The second image is a close-up of his face with a somber expression, with overlay text describing the end of 2023.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in two photographs and is named on a plaque and in on-screen text ('SPEAKER OF THE HOUSE KEVIN MCCARTHY'). The entire post is about his tenure as Speaker."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states McCarthy was 'ousted as speaker of the House by his own party.' As McCarthy is a Republican, this refers to the Republican Party."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "SPEAKER OF THE HOUSE KEVIN MCCARTHY",
+      "role": "other"
+    },
+    {
+      "text": "beginning of 2023: ✅ Became speaker after 14 failed votes",
+      "role": "overlay"
+    },
+    {
+      "text": "end of 2023: ✅ ousted as speaker of the House by his own party ✅ prematurely retiring before his term is up",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video, only background music.",
+  "emojis_present": [
+    "✅"
+  ],
+  "audio_music": "An upbeat, jaunty electronic pop track ('Let's Go' by Amoy Gemoy) plays throughout the video. The cheerful tone creates an ironic and mocking contrast with the on-screen text detailing Kevin McCarthy's political downfall.",
+  "editing_pacing": "A slow-paced slideshow with a single cut between two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The video uses the 'how it started vs. how it's going' meme format to contrast the beginning and end of a period."
+  ],
+  "central_claim": "Kevin McCarthy's tenure as Speaker of the House in 2023 was a complete failure, marked by a difficult start and ending with him being ousted by his own party and retiring early.",
+  "intended_effect": "To portray Kevin McCarthy's speakership and the Republican House majority as chaotic, dysfunctional, and ultimately a failure, thereby eliciting mockery.",
+  "uncertainty_flags": []
+}

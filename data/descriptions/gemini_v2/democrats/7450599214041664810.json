@@ -1,0 +1,67 @@
+{
+  "video_id": "7450599214041664810",
+  "visual_action": "A static screenshot of two tweets from the X (formerly Twitter) account \"The Democrats\". The top tweet contains a photoshopped image of Elon Musk in a suit walking Donald Trump on a leash in a grassy field. Trump is on all fours and wearing a brown, furry outfit, resembling an animal. The second tweet, posted four minutes later, contains only the word \"Oops!\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A digitally manipulated image shows Donald Trump on all fours being walked on a leash."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A digitally manipulated image shows Elon Musk holding a leash attached to Donald Trump."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screenshot shows two tweets from the verified account \"The Democrats\" with the handle @TheDemocrats."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🤭🤭🤭",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats @TheDemocrats · 31m",
+      "role": "other"
+    },
+    {
+      "text": "The Democrats @TheDemocrats · 27m",
+      "role": "other"
+    },
+    {
+      "text": "Oops!",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A rap song plays with lyrics that include a line like, \"...walk 'em like a dog,\" which directly corresponds to the visual depiction of Trump being walked on a leash.",
+  "emojis_present": [
+    "🤭"
+  ],
+  "audio_music": "A rap track plays throughout the video. The lyrics align with the visual content to create a mocking and triumphant tone.",
+  "editing_pacing": "The video is a static image with no cuts or motion.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "An image has been digitally altered to show Elon Musk walking Donald Trump on a leash. Trump is depicted on his hands and knees in a brown, furry suit, portraying him as a pet being controlled by Musk.",
+  "emotions_signaled": [
+    "mockery",
+    "triumph",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The post uses the common internet format of a screenshot of tweets to tell a story."
+  ],
+  "central_claim": "The post mocks Donald Trump by depicting him as subservient to and controlled by Elon Musk, framing the demeaning post as an intentional \"mistake\".",
+  "intended_effect": "To amuse the audience and encourage them to view Donald Trump with derision and contempt.",
+  "uncertainty_flags": []
+}

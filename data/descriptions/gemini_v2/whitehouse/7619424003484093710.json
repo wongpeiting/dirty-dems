@@ -1,0 +1,62 @@
+{
+  "video_id": "7619424003484093710",
+  "visual_action": "The video follows a CGI basketball as it bounces onto the White House lawn, through an entrance past a saluting Marine, and down various hallways and rooms of the White House. The basketball passes by framed logos of college basketball teams (Duke, Florida, Michigan) and bounces through a stately room with historical portraits. The ball then stops and spins in mid-air, with a close-up on the 'March Madness' logo, before emitting a bright burst of energy. The video concludes with a black-and-white montage of the White House and Marine One, with \"THE WHITE HOUSE\" displayed on screen.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is set entirely in and around the White House, and the account is the official White House account. The final shot is a logo for 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "NCAA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The basketball features the official NCAA 'March Madness' logo, which is the central theme of the video."
+    },
+    {
+      "name": "unnamed U.S. Marine",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A Marine in dress uniform is shown saluting as the basketball enters the building."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Wilson EVO NXT NCAA MARCH MADNESS",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "An excited sports commentator exclaims, \"March equals Madness!\" and expresses disbelief and amazement at an unseen event, saying, \"Did we just see what we just saw? Wow!\"",
+  "emojis_present": [],
+  "audio_music": "The video features a dramatic, swelling orchestral score that builds excitement, similar to a sports broadcast opening or movie trailer. This is layered with the sound of a basketball bouncing and the voice of a sports commentator.",
+  "editing_pacing": "The video uses cinematic camera work that follows the moving basketball, with cuts between different locations. It employs slow-motion effects, particularly as the ball passes team logos and before it emits an energy burst. The overall pacing is dynamic and builds to a climax.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The basketball is animated using CGI/special effects to appear as if it is bouncing on its own through the White House. It also levitates, spins, and emits a bright, sparkling energy burst, which are clear visual fabrications used for cinematic effect.",
+  "emotions_signaled": [
+    "excitement",
+    "hype",
+    "fun"
+  ],
+  "cultural_references": [
+    "March Madness (NCAA basketball tournament)",
+    "Duke Blue Devils (logo shown)",
+    "Florida Gators (logo shown)",
+    "Michigan Wolverines (logo shown)"
+  ],
+  "central_claim": "The White House is celebrating and participating in the national excitement of the NCAA March Madness basketball tournament.",
+  "intended_effect": "To create a fun, engaging, and relatable post by connecting the White House with a major popular American sporting event.",
+  "uncertainty_flags": [
+    "The identities of the individuals in the framed photographs on the wall are not clear."
+  ]
+}

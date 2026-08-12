@@ -1,0 +1,61 @@
+{
+  "video_id": "7617961295161085198",
+  "visual_action": "In the Oval Office, Donald Trump is seated at the Resolute Desk and speaks to two men standing behind him, one of whom is JD Vance. Trump then signs a document with a pen. After signing, people off-camera applaud and Trump holds up the signed document in its folder for the camera.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visibly on screen, speaking and signing a document at the Resolute Desk."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Identified by face recognition standing behind Trump. The on-screen text states the 'VP' is being put in charge of a new task force, and Vance is presented as that person."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A second man in a suit is shown standing next to JD Vance behind Trump, but he is not identified."
+    },
+    {
+      "name": "Anti-Fraud Task Force",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the on-screen text as the new entity being created."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump signs an Executive Order putting VP in charge of the new Anti-Fraud Task Force.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump addresses two men standing behind him, telling them, \"You two guys are the right guys.\" He says he will sign a document and then take questions from the \"wonderful media.\" After signing the document to applause, he holds it up and says, \"It's very important. It's a big deal. We've been working on this very long.\"",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue and ambient room sounds, including applause. There is no musical soundtrack.",
+  "editing_pacing": "The video is presented as a single, static, unedited shot of the event.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "confidence",
+    "sarcasm"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump has signed an Executive Order to create a new Anti-Fraud Task Force led by Vice President JD Vance.",
+  "intended_effect": "To project an image of a decisive administration taking action against government fraud and waste, and to reassure supporters of their commitment to this issue.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "7610661963303095566",
+  "visual_action": "A montage shows various scenes of conflict between heavily armed police in tactical gear and civilians in a snowy, urban setting. Police are seen dragging a person and confronting protesters. The montage concludes with images of a memorial, including a large painting of a blonde woman and a handmade sign reading \"ALEX RIP\" placed among tree branches.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video's audio is a clip of a man with a voice strongly resembling Donald Trump saying, 'The first duty of the American government is to protect American citizens,' which the video's text refutes."
+    },
+    {
+      "name": "American government",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker states, 'The first duty of the American government is to protect American citizens.'"
+    },
+    {
+      "name": "Alex",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A handwritten sign in a memorial setting reads 'ALEX RIP'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "he lied.",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    },
+    {
+      "text": "ALEX RIP",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A man with a voice strongly resembling Donald Trump's states, \"The first duty of the American government is to protect American citizens.\"",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and atmospheric instrumental track (identified as 'My Light Stayed On') plays continuously, creating a mournful and serious mood that underscores the visuals of conflict and memorials.",
+  "editing_pacing": "A montage of short clips, with deliberate pacing that allows each scene of conflict or mourning to register.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "sorrow",
+    "distrust",
+    "fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump lied when he claimed the government's duty is to protect citizens, as his tenure was marked by violence against Americans.",
+  "intended_effect": "To persuade viewers that Donald Trump is a liar whose actions contradict his stated duties, thereby fostering distrust and opposition towards him.",
+  "uncertainty_flags": [
+    "The identity of the speaker is inferred to be Donald Trump based on his distinctive voice but is not explicitly named.",
+    "The specific events, locations, and dates of the footage shown are not identified."
+  ]
+}

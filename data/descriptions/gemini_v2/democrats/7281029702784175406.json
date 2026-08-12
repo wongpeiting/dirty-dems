@@ -1,0 +1,53 @@
+{
+  "video_id": "7281029702784175406",
+  "visual_action": "A man in a white button-down shirt stands outside in front of a building and trees, speaking and gesturing directly to the camera in a selfie-style shot. He appears to be lip-syncing to the audio track.",
+  "cast": [
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "This man is the only person on screen for the entire video, lip-syncing to the song."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text begins with 'Democrats back in session...'. The post is from the official '@democrats' account."
+    },
+    {
+      "name": "MAGA extremists",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states that Democrats are 'ready to stand up to MAGA extremists'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats back in session and ready to stand up to MAGA extremists",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. A man lip-syncs to the song 'RGF Island' by Fetty Wap, mouthing lyrics that sound like 'I do this for my squad, I do this for my gang.'",
+  "emojis_present": [],
+  "audio_music": "A confident, upbeat hip-hop track ('RGF Island' by Fetty Wap) plays throughout the video. Its lyrics about squad loyalty are used to create a feeling of political solidarity and swagger.",
+  "editing_pacing": "The video consists of a single, static, continuous shot of the man speaking to the camera.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Defiance",
+    "Group solidarity"
+  ],
+  "cultural_references": [
+    "The video is set to the song 'RGF Island' by hip-hop artist Fetty Wap."
+  ],
+  "central_claim": "The Democratic Party is unified and confidently prepared to confront 'MAGA extremists' as they return to session.",
+  "intended_effect": "To energize Democratic supporters and project an image of party strength and unity against political opposition.",
+  "uncertainty_flags": []
+}

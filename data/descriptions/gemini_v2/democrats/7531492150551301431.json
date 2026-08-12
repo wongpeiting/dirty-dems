@@ -1,0 +1,91 @@
+{
+  "video_id": "7531492150551301431",
+  "visual_action": "Grainy, older footage shows a younger Donald Trump in a suit and pink tie at a party, talking and gesturing towards Jeffrey Epstein, who is standing next to him. The video is presented within a black frame, with text overlays appearing throughout.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown prominently in the video footage talking with Jeffrey Epstein."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in the video with Donald Trump, and the on-screen text calls for the release of 'the Epstein files'."
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text identifies the ad as being run by and paid for by the DNC."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text claims 'REPUBLICANS SHUT DOWN CONGRESS TO BURY THE TRUTH.'"
+    },
+    {
+      "name": "U.S. Congress",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text mentions that Republicans shut down Congress."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The DNC is running this ad in 12 Republican House districts ⬇️",
+      "role": "overlay"
+    },
+    {
+      "text": "REPUBLICANS SHUT DOWN CONGRESS TO BURY THE TRUTH.",
+      "role": "overlay"
+    },
+    {
+      "text": "CALL YOUR REPRESENTATIVE.",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMAND THEY RELEASE THE EPSTEIN FILES.",
+      "role": "overlay"
+    },
+    {
+      "text": "KEEP THE PRESSURE ON.",
+      "role": "overlay"
+    },
+    {
+      "text": "PAID FOR BY THE DEMOCRATIC NATIONAL COMMITTEE. THIS COMMUNICATION IS NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE'S COMMITTEE.",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no discernible dialogue. The audio consists of loud, upbeat dance music and the indistinct chatter of a crowd, suggesting a party atmosphere.",
+  "emojis_present": [
+    "⬇️"
+  ],
+  "audio_music": "A loud, upbeat dance or pop music track plays throughout the entire clip, accompanied by the background noise of a crowd, creating a party-like ambiance.",
+  "editing_pacing": "The video uses a single, continuous archival clip with sequential text overlays appearing on screen. There are no cuts or other dynamic editing techniques.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Suspicion",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans in Congress are deliberately covering up incriminating information contained in the 'Epstein files' and should be pressured by citizens to release them.",
+  "intended_effect": "To generate anger and suspicion towards Republican representatives and mobilize viewers to contact them and demand action regarding the 'Epstein files'.",
+  "uncertainty_flags": [
+    "The provided audio transcript ('Hi, welcome to R') is incorrect; the actual audio is music and crowd noise with no clear speech."
+  ]
+}

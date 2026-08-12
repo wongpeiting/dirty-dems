@@ -1,0 +1,108 @@
+{
+  "video_id": "7523383517103901966",
+  "visual_action": "The video is a split-screen comparison. The top panel shows Barack Obama, surrounded by a group of smiling and clapping people including Joe Biden, signing a document at a desk. This scene is initially in color. The bottom panel shows Donald Trump at a desk signing a document, surrounded by another group of people. This scene is primarily in black and white. As the video progresses, the color drains from the Obama scene, turning it black and white, while the Trump scene briefly becomes fully colored before fading back.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown in the bottom half of the video signing a document. He also speaks at the end of the clip and is the subject of the post caption: 'Americans will die because of what Trump just did'."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown in the top half of the video signing a document, an act framed by on-screen text as positive. He also speaks briefly."
+    },
+    {
+      "name": "Harry Reid",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Barack Obama."
+    },
+    {
+      "name": "Henry Waxman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Barack Obama."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Donald Trump."
+    },
+    {
+      "name": "Steny Hoyer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Barack Obama."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Donald Trump."
+    },
+    {
+      "name": "Tom Harkin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Barack Obama."
+    },
+    {
+      "name": "Kathleen Sebelius",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Barack Obama."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The day millions of Americans received health care",
+      "role": "overlay"
+    },
+    {
+      "text": "The day 17 million lost it",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Barack Obama says, \"We are done,\" followed by loud, celebratory applause. The audio then transitions to a clip of Donald Trump saying, \"That was a good one. That was a good one. Wow,\" to more subdued background noise.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of diegetic sound from two separate events. The first part features celebratory applause and cheers for Barack Obama. This sound fades and is replaced by the audio from the second event, which includes Donald Trump's voice and more muted background chatter. The contrast in audio tone creates a stark difference in mood between the two scenes.",
+  "editing_pacing": "The video uses a static split-screen format to present two contrasting scenes simultaneously. The pacing is slow, focused on the central actions. The most prominent editing choice is the manipulation of color: the positive scene with Obama starts in color and fades to black and white, while the negative scene with Trump does the opposite, which serves to create a strong rhetorical contrast.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "celebration",
+    "anger",
+    "sadness",
+    "loss"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's policies reversed Barack Obama's healthcare achievements, causing 17 million Americans to lose their health coverage.",
+  "intended_effect": "To create anger and opposition towards Donald Trump by contrasting his actions on healthcare unfavorably with those of Barack Obama, thereby reinforcing a positive view of the Democratic Party's policies.",
+  "uncertainty_flags": [
+    "The video uses significant color manipulation for rhetorical effect (draining color from one scene while adding it to another). It's categorized here as a stylistic editing choice rather than 'manipulation' in the sense of fabricating an event, but it is a deliberate alteration of the source footage.",
+    "Joe Biden is clearly visible standing behind Barack Obama, but he was not included in the provided authoritative face-ID list and has therefore been omitted from the cast."
+  ]
+}

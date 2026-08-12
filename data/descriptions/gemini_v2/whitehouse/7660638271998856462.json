@@ -1,0 +1,116 @@
+{
+  "video_id": "7660638271998856462",
+  "visual_action": "The video opens with a medium shot of Donald Trump speaking at a podium with a NATO logo in the background. A yarmulke has been digitally added to his head. The video then cuts to a montage of black-and-white clips showing Trump walking in various settings, including on a stage in front of a crowd and through an industrial-looking space. The montage ends with a close-up of him looking at the camera and raising his fist to his temple.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the only person shown clearly and is the speaker in the audio throughout the video."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump's edited speech mentions being on the \"kill list for Iran\"."
+    },
+    {
+      "name": "TikTok",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump's edited speech includes the line \"I like being number one on TikTok better.\""
+    },
+    {
+      "name": "NATO",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NATO logo is visible on the backdrop behind Trump in the opening shot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NATO OTAN",
+      "role": "chyron"
+    },
+    {
+      "text": "ONE",
+      "role": "caption"
+    },
+    {
+      "text": "LIST",
+      "role": "caption"
+    },
+    {
+      "text": "FOR",
+      "role": "caption"
+    },
+    {
+      "text": "REALLY",
+      "role": "caption"
+    },
+    {
+      "text": "DOING",
+      "role": "caption"
+    },
+    {
+      "text": "BETTER",
+      "role": "caption"
+    },
+    {
+      "text": "DONE",
+      "role": "caption"
+    },
+    {
+      "text": "NO.",
+      "role": "caption"
+    },
+    {
+      "text": "TIKTOK",
+      "role": "caption"
+    },
+    {
+      "text": "BETTER",
+      "role": "caption"
+    },
+    {
+      "text": "FOR,",
+      "role": "caption"
+    },
+    {
+      "text": "UH.",
+      "role": "caption"
+    },
+    {
+      "text": "KILLING",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio is a heavily edited compilation of Donald Trump's voice clips, arranged to make him say: \"Number one on the kill list for Iran. I don't really care because I'm doing my job... I like being number one on TikTok better, but I'm number one on the list for... killing.\"",
+  "emojis_present": [],
+  "audio_music": "The first 13 seconds of the video feature only spoken dialogue. At the 13-second mark, a dramatic, slowed-down hip-hop track begins, continuing until the end of the video. The music gives the montage sequence a serious and intense tone.",
+  "editing_pacing": "The video begins with a static shot of a talking head, then transitions into a fast-paced montage with quick cuts between various black-and-white clips of Donald Trump.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A yarmulke (a Jewish skullcap) is digitally superimposed onto the back of Donald Trump's head in the opening clip.",
+  "emotions_signaled": [
+    "Seriousness",
+    "Intensity",
+    "Defiance",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The background music is 'Carnival x Fein (Slowed Remix)', a popular sound on TikTok that remixes songs by artists Kanye West, Ty Dolla Sign, and Travis Scott."
+  ],
+  "central_claim": "The video portrays Donald Trump as a defiant and powerful leader who is a target for his enemies, while also using a digital alteration for satirical effect.",
+  "intended_effect": "To create a powerful and controversial image of Trump, likely to evoke strong reactions of both admiration from supporters and ridicule or concern from opponents.",
+  "uncertainty_flags": [
+    "The specific intent behind superimposing a yarmulke on Donald Trump is ambiguous and could be interpreted in multiple ways (e.g., satire, commentary on foreign policy, or as an antisemitic trope)."
+  ]
+}

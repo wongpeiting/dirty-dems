@@ -1,0 +1,66 @@
+{
+  "video_id": "7257523330792574254",
+  "visual_action": "John Kirby stands at a podium in what appears to be the White House press briefing room, with an American flag and a blue background with \"THE WHITE HOUSE WASHINGTON\" text visible behind him. He is speaking directly to the camera, responding to a question from an off-camera reporter.",
+  "cast": [
+    {
+      "name": "John Kirby",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person on screen for the entire video, speaking about Department of Defense policy. He is also named in the on-screen text."
+    },
+    {
+      "name": "Department of Defense",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text and spoken dialogue are about the D.O.D.'s policy on abortion."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-camera voice asks the initial question that Kirby responds to."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "John Kirby calls access to abortion a “foundational, sacred obligation” of the Department of Defense",
+      "role": "overlay"
+    },
+    {
+      "text": "Why is the new D.O.D. policy on abortion",
+      "role": "caption"
+    },
+    {
+      "text": "critical to military readiness?",
+      "role": "caption"
+    },
+    {
+      "text": "One in five members of the U.S. military are women. 20%.",
+      "role": "caption"
+    },
+    {
+      "text": "That is a foundational, sacred obligation of military leaders across the river.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks John Kirby why the new Department of Defense policy on abortion is critical to military readiness. Kirby responds by stating that 20% of the U.S. military are women and that the all-volunteer force has a right to expect the military to take care of them and their families. He argues that this care includes access to healthcare and reproductive care, calling it a \"foundational, sacred obligation\" of military leadership. He connects this obligation to other policies supporting diversity, inclusion, and transgender service members.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of spoken dialogue from a press conference setting, with no music or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "moral conviction"
+  ],
+  "cultural_references": [],
+  "central_claim": "Access to abortion and reproductive healthcare is a foundational and sacred obligation of the Department of Defense, essential for military readiness and for taking care of the all-volunteer force.",
+  "intended_effect": "To convince the viewer that the Department of Defense's abortion access policy is a moral and practical necessity for supporting military service members and ensuring national security.",
+  "uncertainty_flags": []
+}

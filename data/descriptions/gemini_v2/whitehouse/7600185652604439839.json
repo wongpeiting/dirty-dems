@@ -1,0 +1,58 @@
+{
+  "video_id": "7600185652604439839",
+  "visual_action": "Donald Trump, surrounded by security, walks through a crowded restaurant identified by on-screen text as 'Machine Shed Restaurant in Iowa.' Patrons seated in booths and at tables clap, cheer, and record him on their phones. Trump stops to shake hands and speak with several people, including an older woman, and poses for a group photo with restaurant waitstaff. The restaurant has a rustic, Americana theme, with a 'John Deere' sign visible.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Identified by face-ID. He is the central figure in the video, walking through a restaurant, speaking, and interacting with people."
+    },
+    {
+      "name": "Restaurant waitstaff",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Trump says 'You know who gave me that idea? Waitress,' and then poses for a photo with a group of them. They are shown in their work uniforms (denim overalls)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The people's president at Machine Shed Restaurant in Iowa 🇺🇸",
+      "role": "caption"
+    },
+    {
+      "text": "JOHN DEERE",
+      "role": "other"
+    },
+    {
+      "text": "Country Gentleman",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of cheering and applause from a crowd. Donald Trump speaks to patrons, saying that Iowa has supported him 'right from the beginning.' He then announces, to more cheers, a policy of 'no tax on tips' for service workers. He says the idea came from a waitress: 'Waitress said, sir, we shouldn't have to pay tax on tips. I said, guess what, we got it.' He then agrees to take a picture with the waitstaff.",
+  "emojis_present": [
+    "🇺🇸",
+    "🙏"
+  ],
+  "audio_music": "The audio is entirely diegetic, consisting of loud cheering, clapping, and applause for Donald Trump as he moves through the restaurant. There is no musical score.",
+  "editing_pacing": "The video is a montage of several handheld shots following Donald Trump through the restaurant, edited together to give a sense of a continuous visit. The pacing is dictated by his movement and interactions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Excitement",
+    "Support"
+  ],
+  "cultural_references": [
+    "John Deere"
+  ],
+  "central_claim": "Donald Trump is 'the people's president,' enthusiastically supported by everyday Americans in Iowa, and he implements policies like eliminating taxes on tips based on their direct feedback.",
+  "intended_effect": "To portray Trump as a popular and responsive leader who is in touch with and fights for the working class, thereby generating support and admiration.",
+  "uncertainty_flags": [
+    "The provided audio transcript contains some unintelligible portions (e.g., 'Bruce Brad') that do not correspond to clear dialogue in the video."
+  ]
+}

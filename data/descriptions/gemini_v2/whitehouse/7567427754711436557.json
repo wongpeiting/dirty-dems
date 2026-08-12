@@ -1,0 +1,85 @@
+{
+  "video_id": "7567427754711436557",
+  "visual_action": "A montage shows Air Force One and an Air China plane on a tarmac. This is followed by various scenes of a diplomatic meeting between Donald Trump and Xi Jinping. They shake hands in front of American and Chinese flags, sit at a conference table (where Marco Rubio is also visible), walk together out of a building, and shake hands again. The video concludes with a black screen featuring a white line-art graphic of the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the central figure shown throughout the video, meeting and shaking hands with Xi Jinping."
+    },
+    {
+      "name": "Xi Jinping",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown meeting and shaking hands with Donald Trump throughout the video. A name card on a table also reads 'His Excellency Xi Jinping'."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible sitting next to Donald Trump at a meeting table."
+    },
+    {
+      "name": "Air China",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'AIR CHINA' is visible on the side of a large passenger jet at the beginning of the video."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The final graphic of the video features the text 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AIR CHINA",
+      "role": "other"
+    },
+    {
+      "text": "UNITED STATES OF AMERICA",
+      "role": "other"
+    },
+    {
+      "text": "His Excellency Xi Jinping\nPresident of the\nPeople's Republic of China",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The provided transcript is incorrect.",
+  "emojis_present": [],
+  "audio_music": "A continuous, grand, and cinematic orchestral track ('Astral Genesis' by Heron Vale) plays throughout, creating a serious and historically significant tone.",
+  "editing_pacing": "A fast-paced montage with quick cuts between various scenes of the diplomatic event.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "seriousness",
+    "patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Donald Trump conducted a successful and historic diplomatic meeting with Chinese President Xi Jinping.",
+  "intended_effect": "To inspire pride in the viewer regarding Trump's diplomatic actions and portray him as a strong, respected world leader.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('We'll be right back.') is incorrect; there is no spoken dialogue in the video."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "video_id": "7555881393432186167",
+  "visual_action": "Donald Trump stands at a podium with the presidential seal, in front of a large American flag, delivering a speech. The shot is static and medium-close. The video ends with a black and white image of the White House and text that reads 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, featured centrally at a podium for the entire duration."
+    },
+    {
+      "name": "police officers",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions them in his speech: '...that includes our great police officers and firemen...'"
+    },
+    {
+      "name": "firemen",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions them in his speech: '...that includes our great police officers and firemen...'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is from the @whitehouse account and ends with a title card showing the building and the words 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POTUS'S MESSAGE TO GENERALS",
+      "role": "overlay"
+    },
+    {
+      "text": "In this effort we're a team",
+      "role": "caption"
+    },
+    {
+      "text": "I am with you I support you",
+      "role": "caption"
+    },
+    {
+      "text": "and as President I have your backs 100%",
+      "role": "caption"
+    },
+    {
+      "text": "we're going to make our military stronger",
+      "role": "caption"
+    },
+    {
+      "text": "45470 FOR UPDATES FROM THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump delivers a message, which on-screen text identifies as being for 'generals'. He states his unwavering support, saying, 'I am with you, I support you, and as President, I have your backs 100%.' He extends this support to 'our great police officers and firemen' and pledges to make the U.S. military 'stronger, tougher, faster, fiercer, and more powerful than it has ever been before.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice delivering a speech. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head. The only editing consists of added on-screen text (captions, an overlay, and a chyron) and a final title card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Support",
+    "Reassurance",
+    "Strength",
+    "Patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is pledging his unwavering support to the U.S. military and first responders and promising to significantly strengthen the armed forces.",
+  "intended_effect": "To reassure supporters, especially those in or supportive of the military and law enforcement, of Trump's strong leadership and commitment to national defense.",
+  "uncertainty_flags": []
+}

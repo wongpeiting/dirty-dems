@@ -1,0 +1,63 @@
+{
+  "video_id": "7226108695183232298",
+  "visual_action": "Joe Biden speaks at a podium with two microphones, in front of a red backdrop with the logo for 'NABTU'. After he speaks, he smiles and looks down as the crowd chants. Text in blue boxes appears over him during the chant. He then looks up and speaks again.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Joe Biden is the sole person visible in the video, speaking directly to an audience."
+    },
+    {
+      "name": "North America's Building Trades Unions (NABTU)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'NABTU' logo appears on the backdrop behind Joe Biden."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "It's time to finish the job. Finish the job.",
+      "role": "caption"
+    },
+    {
+      "text": "NABTU",
+      "role": "other"
+    },
+    {
+      "text": "FOUR",
+      "role": "overlay"
+    },
+    {
+      "text": "MORE",
+      "role": "overlay"
+    },
+    {
+      "text": "YEARS!",
+      "role": "overlay"
+    },
+    {
+      "text": "Thank you. Thank you.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Joe Biden states, \"It's time to finish the job. Finish the job.\" An audience then begins chanting \"Four more years!\" enthusiastically and repeatedly. Biden smiles and responds, \"Thank you. Thank you.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of live event sound: Joe Biden's speech and a loud, enthusiastic crowd chanting in support. There is no music. The effect is one of a vibrant political rally.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Enthusiasm",
+    "Support",
+    "Determination"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden should be re-elected for another four years to \"finish the job,\" a message strongly endorsed by his supporters.",
+  "intended_effect": "To convey strong, popular support for Joe Biden's re-election and to energize his supporters.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,57 @@
+{
+  "video_id": "7660564841421229325",
+  "visual_action": "A static, slightly zoomed-in photograph of a smiling middle-aged man in a pink polo shirt is shown. He is in what appears to be a home living room. Text overlays appear on top of the image.",
+  "cast": [
+    {
+      "name": "Lorenzo Salgado Araujo",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name and photo are featured in the post, which describes his death. The on-screen text reads: 'ICE shot and killed Lorenzo Salgado Araujo...'"
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The organization is named in the on-screen text as being responsible for the killing: 'ICE shot and killed Lorenzo Salgado Araujo...'"
+    },
+    {
+      "name": "Ronaldo Salgado",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned as the son of the victim in the on-screen text: 'His son found out his father was shot through Facebook.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ICE shot and killed Lorenzo Salgado Araujo, a father of 3, in his car while he was on his way to work.",
+      "role": "overlay"
+    },
+    {
+      "text": "His son found out his father was shot through Facebook.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of somber choir music.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a slow, somber, and melancholic choral track ('Let Down + Choir' by Eibell) throughout the clip, creating a sad and tragic atmosphere.",
+  "editing_pacing": "The video is a static image with text overlays; there is no editing or movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "sympathy",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "The U.S. government agency ICE shot and killed an innocent father, Lorenzo Salgado Araujo, creating a profound and cruelly-discovered family tragedy.",
+  "intended_effect": "To evoke sympathy for the victim and his family, and to generate anger and outrage toward ICE for its actions.",
+  "uncertainty_flags": [
+    "The provided OCR text contains a long quote that is not visible in the provided 3-second video clip, suggesting the clip may be a shortened version or the OCR is from a different but related source."
+  ]
+}

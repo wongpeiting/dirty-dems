@@ -1,0 +1,78 @@
+{
+  "video_id": "7598976255186259214",
+  "visual_action": "The video begins with a static screenshot of a tweet from an account called 'FactPost'. The tweet claims ICE agents in Minneapolis shot a man, and an accompanying photo shows several armed officers in tactical gear apprehending a person on the ground. The video then cuts to a short clip showing a similar scene from a different angle, with officers standing near a car. A red circle is drawn on the screen to highlight several handguns lying on the sidewalk. The clip slowly zooms in on the guns.",
+  "cast": [
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text explicitly names 'ICE agents'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays a screenshot of a tweet from the account 'FactPost' (@factpostnews)."
+    },
+    {
+      "name": "Unnamed man",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text describes ICE agents 'wrestling a man to the ground, then shooting him'."
+    },
+    {
+      "name": "Unnamed ICE agents",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Individuals in tactical gear are shown in the still image and video clip, and are identified as 'ICE agents' by the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New video shows ICE agents in Minneapolis wrestling a man to the ground, then shooting him multiple times.",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICAN REVITALIZATION CENTER",
+      "role": "other"
+    },
+    {
+      "text": "Nicollet",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber piano track plays throughout the video, creating a grave and mournful tone that aligns with the serious and violent incident described.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot, followed by a cut to a short video clip with a slow zoom-in. A red circle is used as a graphic overlay to draw attention to an element in the frame.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "outrage",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "ICE agents in Minneapolis shot a man multiple times after wrestling him to the ground.",
+  "intended_effect": "To provoke shock and outrage at the alleged lethal violence used by ICE agents.",
+  "uncertainty_flags": [
+    "The video does not show the shooting described in the on-screen text; it shows a still of an arrest and a separate clip of guns on the ground. The connection between the text's claim and the visual evidence is asserted but not shown.",
+    "The nature and credibility of the 'FactPost' account are not established within the video."
+  ]
+}

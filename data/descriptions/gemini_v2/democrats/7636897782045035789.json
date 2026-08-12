@@ -1,0 +1,82 @@
+{
+  "video_id": "7636897782045035789",
+  "visual_action": "A static shot of a TV screen shows a CNN news segment. A male anchor stands beside a large graphic titled \"AMERICANS WHO SUPPORT OR BELIEVE IN...\". The graphic lists 'GHOSTS' at 39%, 'TELEPATHY' at 29%, and 'NEW WHITE HOUSE BALLROOM' at 28%. An overlay caption is present at the top of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text at the top reads, 'so bad Americans believe in ghosts more than Trump 😂'."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo appears on the screen as part of the news broadcast graphic."
+    },
+    {
+      "name": "unnamed CNN anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is visually present on screen, standing next to a graphic in a news studio setting."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "so bad Americans believe in ghosts more than Trump 😂",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICANS WHO SUPPORT OR BELIEVE IN...",
+      "role": "chyron"
+    },
+    {
+      "text": "GHOSTS 39%",
+      "role": "chyron"
+    },
+    {
+      "text": "TELEPATHY 29%",
+      "role": "chyron"
+    },
+    {
+      "text": "NEW WHITE HOUSE BALLROOM 28%",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "Kalshi | ODDS: 41% CHANCE SOUTH CAROLINA REDISTRICTS BEFOI NEWS CENTRAL",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only music plays.",
+  "emojis_present": [
+    "😂"
+  ],
+  "audio_music": "The song 'Haunted' by Beyoncé plays throughout the clip. Its ethereal and dramatic tone provides a fitting soundtrack for the on-screen text about ghosts.",
+  "editing_pacing": "The video consists of a single, static shot with no edits, cuts, or camera movement.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The CNN graphic on screen has been digitally altered. The third line, 'NEW WHITE HOUSE BALLROOM 28%', appears to be photoshopped onto an original graphic. Its font and red color are inconsistent with the other items. This alteration creates a satirical comparison by using the poll number as a proxy for Donald Trump's support.",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "Beyoncé"
+  ],
+  "central_claim": "Donald Trump's support is comically low, to the point that more Americans believe in ghosts than support him.",
+  "intended_effect": "To mock Donald Trump and portray him as unpopular by creating a humorous and belittling comparison.",
+  "uncertainty_flags": []
+}

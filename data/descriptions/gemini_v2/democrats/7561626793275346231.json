@@ -1,0 +1,377 @@
+{
+  "video_id": "7561626793275346231",
+  "visual_action": "Alexandria Ocasio-Cortez speaks at a CNN Town Hall event. The video cuts between a medium close-up of her speaking and a wider shot showing her seated on a stage with Bernie Sanders and an unnamed female moderator, in front of a live audience. The stage has a blue and red backdrop with CNN logos. At the end of the video, there is a brief shot of Bernie Sanders smiling.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, featured in close-up shots, and the post's text centers on her comments."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'AOC drags Republicans for the shutdown' and the account caption mentions 'the GOP.' Her entire speech is a critique of their actions regarding a government shutdown."
+    },
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible sitting on the panel next to Alexandria Ocasio-Cortez and is shown smiling at the end, but he does not speak."
+    },
+    {
+      "name": "Trump administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Alexandria Ocasio-Cortez says, '...the Speaker of the House and the Trump administration refuses to even have a negotiation.'"
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Alexandria Ocasio-Cortez says, '...start to agree with what Mike Johnson is saying...'"
+    },
+    {
+      "name": "unnamed moderator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is visible sitting on the panel between Ocasio-Cortez and Sanders."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AOC drags Republicans for the shutdown: When one party wants votes, you negotiate and pass a bill. That is Schoolhouse Rock",
+      "role": "overlay"
+    },
+    {
+      "text": "QUESTION What can be done to prevent unpaid federal workers from losing their homes during this shutdown?",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN TOWN HALL SHUTDOWN AMERICA",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE PROBLEM",
+      "role": "overlay"
+    },
+    {
+      "text": "HERE IS NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT THERE",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "DISAGREEMENT,",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S THAT",
+      "role": "overlay"
+    },
+    {
+      "text": "THE SPEAKER",
+      "role": "overlay"
+    },
+    {
+      "text": "OF THE HOUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "AND THE TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "ADMINISTRATION",
+      "role": "overlay"
+    },
+    {
+      "text": "REFUSES TO",
+      "role": "overlay"
+    },
+    {
+      "text": "EVEN HAVE A",
+      "role": "overlay"
+    },
+    {
+      "text": "NEGOTIATION.",
+      "role": "overlay"
+    },
+    {
+      "text": "THEY REFUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "TO EVEN PICK",
+      "role": "overlay"
+    },
+    {
+      "text": "UP THE PHONE",
+      "role": "overlay"
+    },
+    {
+      "text": "AND TALK",
+      "role": "overlay"
+    },
+    {
+      "text": "ABOUT THIS",
+      "role": "overlay"
+    },
+    {
+      "text": "AND SO,",
+      "role": "overlay"
+    },
+    {
+      "text": "I DO NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "WANT US TO",
+      "role": "overlay"
+    },
+    {
+      "text": "START TO",
+      "role": "overlay"
+    },
+    {
+      "text": "AGREE WITH",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT MIKE",
+      "role": "overlay"
+    },
+    {
+      "text": "JOHNSON IS",
+      "role": "overlay"
+    },
+    {
+      "text": "SAYING AND",
+      "role": "overlay"
+    },
+    {
+      "text": "TO HAVE THEM",
+      "role": "overlay"
+    },
+    {
+      "text": "PREVIEW FOR",
+      "role": "overlay"
+    },
+    {
+      "text": "US AND",
+      "role": "overlay"
+    },
+    {
+      "text": "NORMALIZE",
+      "role": "overlay"
+    },
+    {
+      "text": "THE IDEA",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT EVERYONE'S",
+      "role": "overlay"
+    },
+    {
+      "text": "JUST GONNA",
+      "role": "overlay"
+    },
+    {
+      "text": "MISS A",
+      "role": "overlay"
+    },
+    {
+      "text": "PAYCHECK,",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT A MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "FEDERAL",
+      "role": "overlay"
+    },
+    {
+      "text": "WORKERS ARE",
+      "role": "overlay"
+    },
+    {
+      "text": "JUST GONNA",
+      "role": "overlay"
+    },
+    {
+      "text": "GO WITHOUT",
+      "role": "overlay"
+    },
+    {
+      "text": "AND TO JUST",
+      "role": "overlay"
+    },
+    {
+      "text": "WARN THAT IN",
+      "role": "overlay"
+    },
+    {
+      "text": "ADVANCE AND",
+      "role": "overlay"
+    },
+    {
+      "text": "TO HAVE US",
+      "role": "overlay"
+    },
+    {
+      "text": "ACCEPT THAT.",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS IS NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "ACCEPTABLE.",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS IS NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "NORMAL.",
+      "role": "overlay"
+    },
+    {
+      "text": "AND WHAT IS",
+      "role": "overlay"
+    },
+    {
+      "text": "NORMAL IS",
+      "role": "overlay"
+    },
+    {
+      "text": "FOR US TO",
+      "role": "overlay"
+    },
+    {
+      "text": "NEGOTIATE.",
+      "role": "overlay"
+    },
+    {
+      "text": "WHEN ONE",
+      "role": "overlay"
+    },
+    {
+      "text": "PARTY WANTS",
+      "role": "overlay"
+    },
+    {
+      "text": "THE VOTES OF",
+      "role": "overlay"
+    },
+    {
+      "text": "ANOTHER",
+      "role": "overlay"
+    },
+    {
+      "text": "PARTY,",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU",
+      "role": "overlay"
+    },
+    {
+      "text": "NEGOTIATE,",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU COME",
+      "role": "overlay"
+    },
+    {
+      "text": "TO A",
+      "role": "overlay"
+    },
+    {
+      "text": "COMPROMISE,",
+      "role": "overlay"
+    },
+    {
+      "text": "AND YOU PASS",
+      "role": "overlay"
+    },
+    {
+      "text": "A BILL.",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT IS",
+      "role": "overlay"
+    },
+    {
+      "text": "SCHOOLHOUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "ROCK",
+      "role": "overlay"
+    },
+    {
+      "text": "AND THAT IS",
+      "role": "overlay"
+    },
+    {
+      "text": "HOW THINGS",
+      "role": "overlay"
+    },
+    {
+      "text": "SHOULD",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Alexandria Ocasio-Cortez argues that the problem with a government shutdown is not a simple disagreement, but the refusal of the Speaker of the House and the Trump administration to negotiate. She criticizes Mike Johnson's side for normalizing the idea of federal workers missing paychecks, calling it unacceptable and not normal. She defines the proper function of government as negotiation and compromise, a basic process she likens to 'Schoolhouse Rock.'",
+  "emojis_present": [
+    "👏"
+  ],
+  "audio_music": "The audio consists solely of Alexandria Ocasio-Cortez's speech and faint audience sounds, including a brief moment of applause and laughter. There is no background music or sound effects.",
+  "editing_pacing": "The video uses simple cuts between a medium close-up shot of Alexandria Ocasio-Cortez speaking and a wider shot of the panel on stage. The pacing is that of a live broadcast interview, not heavily edited.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "frustration",
+    "indignation",
+    "urgency"
+  ],
+  "cultural_references": [
+    "Schoolhouse Rock!"
+  ],
+  "central_claim": "Republicans are causing the government shutdown by irresponsibly refusing to engage in the basic, normal process of negotiation and compromise required for governance.",
+  "intended_effect": "To persuade viewers that Republicans are acting in bad faith and are solely responsible for the government shutdown, thereby generating support for the Democratic position.",
+  "uncertainty_flags": [
+    "The audio appears to be spliced from at least two different speeches, creating a chronological inconsistency. Alexandria Ocasio-Cortez refers to both the 'Trump administration' (implying a time before January 2021) and 'Mike Johnson' as speaker (implying a time after October 2023) in the same monologue. This suggests audio manipulation, though there is no visible visual manipulation."
+  ]
+}

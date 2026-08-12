@@ -1,0 +1,97 @@
+{
+  "video_id": "7533706777750162701",
+  "visual_action": "The video is a slideshow of still images. It begins with a screenshot of what appears to be a New York Times article with the headline \"Corporation for Public Broadcasting Will Shut Down.\" It then cuts to a series of images from various public television shows: Fred Rogers and Mr. McFeely from \"Mister Rogers' Neighborhood,\" actor Andrew Garfield speaking with Elmo from \"Sesame Street,\" the title card for the cartoon \"Arthur,\" an image from \"Clifford the Big Red Dog,\" and finally Kermit the Frog playing a banjo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The audio at the beginning of the video states, \"President Trump signed an executive order ending federal funding for PBS and NPR.\""
+    },
+    {
+      "name": "Corporation for Public Broadcasting",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The headline of the on-screen article reads, \"Corporation for Public Broadcasting Will Shut Down.\""
+    },
+    {
+      "name": "PBS",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text and opening audio clip both mention that funding is being stripped from PBS."
+    },
+    {
+      "name": "NPR",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text and opening audio clip both mention that funding is being stripped from NPR."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The masthead \"The New York Times\" appears at the top of the article screenshot shown at the beginning of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The New York Times",
+      "role": "other"
+    },
+    {
+      "text": "Corporation for Public Broadcasting Will Shut Down",
+      "role": "overlay"
+    },
+    {
+      "text": "The company is among the first casualties of a vote to strip roughly $500 million in federal funding from NPR, PBS and local stations across the country.",
+      "role": "overlay"
+    },
+    {
+      "text": "I'm just thinking about my mom today. She passed away not too long ago and you know, I just miss her a lot.",
+      "role": "caption"
+    },
+    {
+      "text": "Arthur",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video opens with an audio clip of a news report stating that \"President Trump signed an executive order ending federal funding for PBS and NPR.\" The rest of the video is set to the song \"American Pie\" by Don McLean, featuring the prominent lyrics \"The day the music died.\"",
+  "emojis_present": [],
+  "audio_music": "The video begins with what sounds like a news report audio clip for the first few seconds. This is abruptly replaced by the somber and nostalgic song \"American Pie\" by Don McLean, which plays for the remainder of the video, creating a mournful and elegiac tone.",
+  "editing_pacing": "The video is a slow-paced slideshow with simple cuts between still images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video opens with a fabricated screenshot of a New York Times article claiming the 'Corporation for Public Broadcasting Will Shut Down' due to an action by President Trump. This image is a known piece of disinformation used to create a false premise for the rest of the video.",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Sadness",
+    "Loss",
+    "Alarm"
+  ],
+  "cultural_references": [
+    "American Pie (song by Don McLean)",
+    "Mister Rogers' Neighborhood",
+    "Fred Rogers",
+    "Sesame Street",
+    "Elmo",
+    "Andrew Garfield",
+    "Arthur (cartoon)",
+    "Clifford the Big Red Dog",
+    "The Muppets",
+    "Kermit the Frog"
+  ],
+  "central_claim": "Donald Trump is responsible for destroying cherished public broadcasting institutions and the beloved children's programming they provide.",
+  "intended_effect": "To evoke nostalgia and sadness for public television and direct those feelings into anger and opposition towards Donald Trump.",
+  "uncertainty_flags": [
+    "The authenticity of the opening news report audio clip is uncertain; it could be a real clip used out of context, selectively edited, or AI-generated."
+  ]
+}

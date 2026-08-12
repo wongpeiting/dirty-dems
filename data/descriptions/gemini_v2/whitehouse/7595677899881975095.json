@@ -1,0 +1,93 @@
+{
+  "video_id": "7595677899881975095",
+  "visual_action": "The video shows Karoline Leavitt at the White House press briefing podium, intercut with shots of the reporters in the audience. She is in a heated exchange with one of them. After the exchange, an upbeat music track begins, and a montage plays showing Leavitt in a different outfit at the podium, boarding an airplane, walking with Donald Trump on the White House grounds, and speaking to a camera outdoors. The video concludes with black and white footage of a helicopter on the White House lawn and the White House exterior, with text overlaid.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the main speaker throughout the video, and the on-screen text identifies her by name."
+    },
+    {
+      "name": "The Media",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Leavitt's entire speech is a direct attack on the reporter and the media, whom she calls biased and 'left-wing activists'. The on-screen text refers to 'the fake news'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male voice asks the initial question that prompts Leavitt's response."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown walking alongside Karoline Leavitt in the montage sequence."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Leavitt refers to 'the brave men and women of ICE' and their work removing 'illegal aliens'."
+    },
+    {
+      "name": "Laken Riley",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Leavitt names her as an American allegedly killed by an 'illegal alien'."
+    },
+    {
+      "name": "Jocelyn Nungaray",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Leavitt names her as an American allegedly killed by an 'illegal alien'. The transcript says 'Nungere'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Karoline Leavitt demolishes the fake news",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "In response to a reporter's question about an ICE agent, Karoline Leavitt accuses the reporter of being a 'biased' 'left-wing hack' and an 'activist' who shouldn't be in the briefing room. She claims the media ignores stories of American citizens killed by undocumented immigrants, citing 'Laken Riley' and 'Jocelyn Nungaray' as examples. Leavitt praises ICE agents and concludes by saying 'shame on people like you in the media' for having a 'biased view'.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The video begins with dialogue from a press briefing. At approximately 1:07, an upbeat, motivational hype track ('Show the World' by SONIC RHYME) begins and plays over a montage for the remainder of the video.",
+  "editing_pacing": "The first part of the video consists of standard cuts between a talking head (Leavitt at the podium) and reaction shots of the audience. The second part is a fast-paced montage with quick cuts between different scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Contempt",
+    "Anger",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "Karoline Leavitt is a strong press secretary who successfully confronts the biased mainstream media for ignoring the dangers posed by undocumented immigrants.",
+  "intended_effect": "To generate admiration for Karoline Leavitt's confrontational style, foster distrust of the media, and promote support for strict immigration enforcement.",
+  "uncertainty_flags": [
+    "The identity of the male reporter who asks the question is not specified.",
+    "The provided transcript renders a name as 'Jocelyn Nungere' which may be a misspelling of 'Nungaray'."
+  ]
+}

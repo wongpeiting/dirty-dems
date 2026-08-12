@@ -1,0 +1,64 @@
+{
+  "video_id": "7573830342520425783",
+  "visual_action": "The video starts with a still image of Donald Trump speaking at a rally podium, with a large text overlay. It then cuts to a split-screen format. The top panel shows an unnamed reporter speaking, and the bottom panel shows Donald Trump sitting in an office chair, responding. This split-screen layout continues for the remainder of the video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in two different settings (a rally and an interview), is named in the on-screen text, and is the sole focus of the post."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown in the top half of the split screen asking Donald Trump questions."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I BLEW MY STACK.",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP RESPONDS TO A QUESTION ABOUT HIS HOARSE VOICE",
+      "role": "overlay"
+    },
+    {
+      "text": "Your voice sounds a little rough. Are you feeling all right?",
+      "role": "caption"
+    },
+    {
+      "text": "I was shouting at people. I straightened it out, but I blew my stack.",
+      "role": "caption"
+    },
+    {
+      "text": "It sounds like there's a follow-up there.",
+      "role": "caption"
+    },
+    {
+      "text": "I thought you said there was a polyp.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An unnamed reporter asks Donald Trump about his hoarse voice. Trump replies, \"I was shouting at people. I straightened it out, but I blew my stack.\" When the reporter begins a follow-up question, Trump interrupts him, saying, \"I thought you said there was a polyp.\"",
+  "emojis_present": [],
+  "audio_music": "The video opens with a crowd chanting \"Go, go, go\" followed by a loud, bass-heavy, and somewhat distorted hip-hop track that plays continuously under the dialogue. The music creates a chaotic and jarring tone.",
+  "editing_pacing": "The video consists of a static opening shot followed by a sustained split-screen showing a conversational exchange. The pacing is slow and dictated by the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump displayed volatility and confusion when asked about his hoarse voice, admitting he \"blew his stack\" and mishearing a question.",
+  "intended_effect": "To portray Donald Trump as temperamentally unstable and potentially cognitively impaired, suggesting he is unfit for office.",
+  "uncertainty_flags": [
+    "The identity of the interviewer and the original context of the interview footage are not provided."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "video_id": "7574116950251425037",
+  "visual_action": "A man in a suit, identified by a nameplate as Mr. Moskowitz, speaks at a desk in what appears to be a congressional committee hearing. He is sitting at a long wooden desk with a microphone. Other men in suits are seated beside him.",
+  "cast": [
+    {
+      "name": "Jared Moskowitz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A nameplate in front of him reads 'MR. MOSKOWITZ' and he is the sole speaker in the video."
+    },
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker proposes renaming a bill the 'Kristi Noem K-9 Relief Act'. The on-screen text also names her."
+    },
+    {
+      "name": "Dan Goldman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A nameplate in front of a man sitting next to the speaker reads 'MR. GOLDMAN'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen overlay text begins with 'Democrat calls to rename bill...'"
+    },
+    {
+      "name": "Lou Correa",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A nameplate in front of a man sitting to the far left of the speaker reads 'MR. CORREA'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrat calls to rename bill to deport immigrants who attack dogs the “Kristi Noem Canine Relief Act”",
+      "role": "overlay"
+    },
+    {
+      "text": "MR. MOSKOWITZ",
+      "role": "chyron"
+    },
+    {
+      "text": "MR. GOLDMAN",
+      "role": "chyron"
+    },
+    {
+      "text": "MR. CORREA",
+      "role": "chyron"
+    },
+    {
+      "text": "KRISTI NOEM K-9 RELIEF ACT OF 2025.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A Democratic congressman, Jared Moskowitz, sarcastically proposes an amendment to rename a bill concerning attacks on dogs. He suggests calling it the \"Kristi Noem K-9 Relief Act of 2025,\" stating that the bill's essence is that \"we really don't want anybody to kill dogs.\" This is a pointed reference to a controversy involving South Dakota Governor Kristi Noem admitting to killing her dog.",
+  "emojis_present": [],
+  "audio_music": "Clear audio of a man speaking in a formal setting, likely a committee room, with natural room echo. No music or sound effects are present.",
+  "editing_pacing": "The video consists of a single, static shot focused on the speaker. There are no cuts or camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [],
+  "central_claim": "A Democratic congressman is using a legislative amendment to publicly mock Republican Governor Kristi Noem for killing her dog.",
+  "intended_effect": "To make the audience laugh at Kristi Noem, view her as hypocritical or cruel, and see the Democratic congressman as witty.",
+  "uncertainty_flags": []
+}

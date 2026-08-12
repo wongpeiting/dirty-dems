@@ -1,0 +1,63 @@
+{
+  "video_id": "7612763400371850509",
+  "visual_action": "A montage of video clips shows JD Vance speaking in various settings: a close-up against a blurred background, a seated interview, in front of an American flag, at a CPAC conference, and at a podium in front of people in military uniforms. Text is overlaid on the video, including years like '2024' and '2025' that appear over the different clips.",
+  "cast": [
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown speaking throughout the video montage."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "JD Vance repeatedly refers to him by name and as the president, calling him 'the candidate of peace and prosperity' and 'the President of Peace'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text references the country in the parenthetical: '(they just bombed Iran btw)'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "JD Vance calling Trump the President of Peace",
+      "role": "overlay"
+    },
+    {
+      "text": "(they just bombed Iran btw)",
+      "role": "overlay"
+    },
+    {
+      "text": "2024",
+      "role": "overlay"
+    },
+    {
+      "text": "2025",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "In a montage of clips, JD Vance repeatedly describes Donald Trump as a proponent of peace. He states, 'Donald Trump is the candidate of peace and prosperity,' and says it is 'an amazing thing to have a president who's working to stop the killing.' He reiterates that Trump 'is going to be the president of peace' and 'is a president of peace,' while also empathizing with Americans who are 'exhausted after 25 years of foreign entanglements in the Middle East.'",
+  "emojis_present": [],
+  "audio_music": "A dark, ominous ambient electronic track ('Dick-Tator' by Thy Virtual Machine) plays continuously underneath all the speaking clips, creating a foreboding and serious tone.",
+  "editing_pacing": "The video is a montage of different clips of the same person speaking, with simple cuts between each segment.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "distrust"
+  ],
+  "cultural_references": [],
+  "central_claim": "JD Vance's characterization of Donald Trump as a 'President of Peace' is hypocritical and factually incorrect, as demonstrated by the recent bombing of Iran.",
+  "intended_effect": "To persuade the viewer that JD Vance and Donald Trump are liars and not genuinely interested in peace.",
+  "uncertainty_flags": []
+}

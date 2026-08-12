@@ -1,0 +1,63 @@
+{
+  "video_id": "7626200910082870541",
+  "visual_action": "The video displays a graphic styled like a news alert for a \"KEY RACE CALL\". The graphic announces that Chris Taylor has won the Wisconsin Supreme Court election, showing a photo of her in judge's robes. Below the photo, text identifies her as the \"PROJECTED WINNER\". The video then cuts to a second, more casual photo of Chris Taylor smiling outdoors.",
+  "cast": [
+    {
+      "name": "Chris Taylor",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name and photo appear in a graphic with the text \"CHRIS TAYLOR WINS WISCONSIN SUPREME COURT ELECTION\" and \"PROJECTED WINNER\"."
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A logo with the letters \"DPW\" appears in the corner of the election announcement graphic."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "KEY RACE CALL",
+      "role": "overlay"
+    },
+    {
+      "text": "DPW",
+      "role": "other"
+    },
+    {
+      "text": "CHRIS TAYLOR WINS WISCONSIN SUPREME COURT ELECTION",
+      "role": "overlay"
+    },
+    {
+      "text": "✅ CHRIS TAYLOR",
+      "role": "overlay"
+    },
+    {
+      "text": "PROJECTED WINNER",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only a music track with indistinct vocals.",
+  "emojis_present": [
+    "✅"
+  ],
+  "audio_music": "A loud, bass-heavy, celebratory hip-hop track plays throughout the short video, creating a hype and victorious mood.",
+  "editing_pacing": "A very short slideshow with a single quick cut from an election graphic to a second still photo.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Victory",
+    "Celebration",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "Chris Taylor has won the Wisconsin Supreme Court election.",
+  "intended_effect": "To announce and celebrate a political victory with supporters.",
+  "uncertainty_flags": [
+    "The 'DPW' logo is presumed to stand for the Democratic Party of Wisconsin."
+  ]
+}

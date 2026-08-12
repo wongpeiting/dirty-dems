@@ -1,0 +1,50 @@
+{
+  "video_id": "7143266460033649966",
+  "visual_action": "The entire clip is a tight single-shot of Senator Lindsey Graham speaking at what appears to be a press conference or Senate event. He wears a dark gray suit with a white shirt and dark red/maroon tie and is positioned in front of a small lapel or desk microphone. A woman (or multiple women in the background, partially visible) stands behind him throughout. The camera stays close on Graham's face and upper torso. His expressions shift — from looking to the side to looking down to speaking directly — across the clip. No B-roll or cutaways; the editing is static with no fast cuts.",
+  "cast": [
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Confirmed by authoritative face-ID; he is the sole on-screen speaker throughout the clip"
+    },
+    {
+      "name": "Senate Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'Senate Republicans propose a nationwide'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senate",
+      "role": "overlay"
+    },
+    {
+      "text": "Senate Republicans propose a nationwide",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio captures Lindsey Graham speaking at a podium, though the Whisper transcript was not provided. Based on the on-screen text context, he appears to be discussing or announcing a Senate Republican proposal for a nationwide [policy — content cut off in OCR]. The exact spoken content beyond that is not fully captured in the provided transcript.",
+  "emojis_present": [],
+  "audio_music": "No commercial music matched. The audio appears to be straightforward speech — Lindsey Graham speaking at a press conference or Senate event. No background music, meme audio, or sound effects are evident. The sound is original/natural press-conference audio.",
+  "editing_pacing": "Static, slow-paced single talking-head shot. No fast cuts, speed ramps, or zooms. The camera remains fixed on Graham's face and torso throughout. The pacing is deliberate and news-clip style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "informational urgency — the on-screen text frames a policy announcement as newsworthy"
+  ],
+  "cultural_references": [],
+  "central_claim": "Senate Republicans, with Lindsey Graham as a key proponent, are proposing a nationwide policy (the full nature of which is cut off in the visible on-screen text).",
+  "intended_effect": "Draw viewer attention to a Senate Republican legislative proposal, likely to inform or alert the Democratic-leaning audience about the policy being advanced.",
+  "uncertainty_flags": [
+    "The on-screen text is cut off at 'Senate Republicans propose a nationwide' — the specific policy being proposed is not visible in the provided frames or OCR",
+    "The Whisper transcript was not provided, so the exact spoken content of Graham's remarks cannot be confirmed",
+    "The identity of the woman/women visible behind Graham in the background is unknown",
+    "The specific date/event of this press conference is not determinable from the available frames"
+  ]
+}

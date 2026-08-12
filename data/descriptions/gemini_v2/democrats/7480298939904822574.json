@@ -1,0 +1,81 @@
+{
+  "video_id": "7480298939904822574",
+  "visual_action": "A split-screen video shows an interview. On top, a female journalist asks questions. On the bottom, Donald Trump answers. The journalist asks about a recession and the stock market. After Trump dismissively says \"you can't really watch the stock market,\" the bottom panel is replaced with a graphic showing several stock market tickers (Dow Jones, NASDAQ, S&P 500, etc.) with red line graphs indicating a sharp downward trend.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in the bottom panel of the video, answering questions about the economy."
+    },
+    {
+      "name": "Maria Bartiromo",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown in the top panel of the video, interviewing Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Are you expecting a recession this year?",
+      "role": "caption"
+    },
+    {
+      "text": "There is a period of transition...",
+      "role": "caption"
+    },
+    {
+      "text": "The stock market has been going down.",
+      "role": "caption"
+    },
+    {
+      "text": "Look... you can't really watch the stock market.",
+      "role": "caption"
+    },
+    {
+      "text": "Dow Jones\nDow Jones Industrial Average",
+      "role": "overlay"
+    },
+    {
+      "text": "NASDAQ\nNASDAQ Composite",
+      "role": "overlay"
+    },
+    {
+      "text": "S&P 500\nStandard & Poor's 500",
+      "role": "overlay"
+    },
+    {
+      "text": "AAPL\nApple Inc.",
+      "role": "overlay"
+    },
+    {
+      "text": "GOOG\nAlphabet Inc.",
+      "role": "overlay"
+    },
+    {
+      "text": "^FTSE\nFTSE 100",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An interviewer asks Donald Trump, \"Are you expecting a recession this year?\" and states, \"The stock market has been going down.\" Trump responds evasively, saying, \"There is a period of transition...\" and later, \"Look... you can't really watch the stock market.\"",
+  "emojis_present": [],
+  "audio_music": "A lighthearted, slightly goofy instrumental track ('Monkeys music' by Kevin MacLeod) plays consistently throughout the video, creating a comedic and mocking tone.",
+  "editing_pacing": "The video uses a static, split-screen interview format. The main edit is a punchline cut from Donald Trump's face to a graphic displaying falling stock market data, used for comedic effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "The background music is by Kevin MacLeod, whose royalty-free work is widely used in internet memes and comedic YouTube videos, often to underscore awkward or foolish moments."
+  ],
+  "central_claim": "Donald Trump is out of touch with economic reality and dismisses negative indicators like a falling stock market.",
+  "intended_effect": "To portray Donald Trump as economically incompetent and untrustworthy.",
+  "uncertainty_flags": [
+    "The specific date of the interview and the stock market data shown are not provided."
+  ]
+}

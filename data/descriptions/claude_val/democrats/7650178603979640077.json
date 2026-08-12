@@ -1,0 +1,102 @@
+{
+  "video_id": "7650178603979640077",
+  "visual_action": "The video is a montage of US Men's National Soccer Team (USMNT) footage. It opens with a player in a black VW-sponsored training kit looking up at the sky on a sunny practice field, with a semi-transparent ghost image of the Statue of Liberty composited over the scene. Subsequent shots show players on the training pitch passing, dribbling, and kicking balls — still with the translucent Statue of Liberty overlaid and the word \"FREEDOM\" in large blue block letters. The scene then shifts to match footage: a packed stadium crowd waving red/white American flags, signage reading \"Send-Off Match,\" Coca-Cola branding, and \"United States\" vs. \"Germany\" scoreboard graphics. A player does a celebratory flip/somersault on the pitch with crowds celebrating behind \"Deutschland\" advertising boards. A fan section shot shows young fans leaning over barriers reaching toward players. The final shots show a bald eagle composited into a match scene, with players in white USMNT kits on the field, a goalkeeper in yellow, and \"Nike Soccer\" signage visible behind the goal. American flag-like color washes (red, blue, orange) are layered over several shots. Throughout, single white serif words (\"give,\" \"give me,\" \"take,\" \"see\") appear as lyric overlays in the center of the frame, building into the song's full phrase.",
+  "cast": [
+    {
+      "name": "US Men's National Soccer Team",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen scoreboard reads 'UNITED STATES'; players wear USMNT kits; caption says 'TEAM USA ⚽️🇺🇸'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "give",
+      "role": "overlay"
+    },
+    {
+      "text": "give me",
+      "role": "overlay"
+    },
+    {
+      "text": "FREEDOM",
+      "role": "overlay"
+    },
+    {
+      "text": "give me",
+      "role": "overlay"
+    },
+    {
+      "text": "give",
+      "role": "overlay"
+    },
+    {
+      "text": "give",
+      "role": "overlay"
+    },
+    {
+      "text": "take",
+      "role": "overlay"
+    },
+    {
+      "text": "see",
+      "role": "overlay"
+    },
+    {
+      "text": "UNITED STATES",
+      "role": "overlay"
+    },
+    {
+      "text": "GERMANY",
+      "role": "overlay"
+    },
+    {
+      "text": "Send-Off Match",
+      "role": "overlay"
+    },
+    {
+      "text": "NIKE SOCCER",
+      "role": "overlay"
+    },
+    {
+      "text": "Coca-Cola",
+      "role": "overlay"
+    },
+    {
+      "text": "DEUTSCHLAND",
+      "role": "overlay"
+    },
+    {
+      "text": "TNT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is the song \"Wavin' Flag\" by K'naan, with lyrics synchronized to on-screen text overlays: \"Give me freedom, give me fire. Give me reason, take me higher. See the champions, take the field now. Unifiedness, make us feel proud.\"",
+  "emojis_present": [
+    "⚽️",
+    "🇺🇸"
+  ],
+  "audio_music": "From the very start, \"Wavin' Flag\" by K'naan plays continuously (confirmed by ACRCloud fingerprint at both 0.0s and 6.5s). The track is upbeat, anthemic, and rousing — evoking national pride and sporting triumph. The lyrics are synchronized with on-screen word overlays, amplifying the inspirational, rallying effect. No silence or track changes occur.",
+  "editing_pacing": "Fast-cut montage with dynamic color grading and layered double-exposure compositing (Statue of Liberty ghost, bald eagle, American flag color washes). Shots are 2–4 seconds each. The pacing builds in energy as it moves from training ground to match-day crowd scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "National pride — evoked by Statue of Liberty and bald eagle composites, American flag visuals, and K'naan's anthem",
+    "Excitement and hype — fast cuts of match action, goal celebrations, and roaring crowds",
+    "Unity and inspiration — lyrics 'give me reason, take me higher' and 'make us feel proud' paired with crowd and player imagery"
+  ],
+  "cultural_references": [
+    "Wavin' Flag by K'naan — the iconic FIFA World Cup anthem used as the soundtrack, directly evoking international soccer tournament energy",
+    "Statue of Liberty — ghosted/composited as a symbol of American freedom throughout the training and match footage",
+    "Bald eagle — composited into a match scene as a quintessential American patriotic symbol"
+  ],
+  "central_claim": "Team USA soccer embodies American freedom, pride, and unity, and the nation should rally behind the USMNT.",
+  "intended_effect": "Generate patriotic excitement and pride in viewers, rallying support for Team USA soccer.",
+  "uncertainty_flags": [
+    "Specific USMNT players visible in training and match footage cannot be individually identified from the keyframes without face recognition confirmation",
+    "The 'Send-Off Match' signage suggests this may be a specific pre-tournament send-off event; the exact tournament (possibly 2026 World Cup) is inferred but not explicitly stated in the video",
+    "The VW-sponsored kit in training scenes is consistent with USMNT training wear but the exact player wearing it is unidentified"
+  ]
+}

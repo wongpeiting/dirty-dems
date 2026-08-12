@@ -1,0 +1,49 @@
+{
+  "video_id": "7428706815946411310",
+  "visual_action": "Former President Barack Obama speaks at a podium with a chyron that reads \"MADISON, WI\". He gestures with his hands while addressing a large, cheering crowd that is visible behind him.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, shown on screen for the entire duration."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Obama mentions him by name, saying, \"...the economy was pretty good when Trump first came in office.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Obama: “It was my economy!” 🤩",
+      "role": "overlay"
+    },
+    {
+      "text": "MADISON, WI",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Barack Obama describes a hypothetical conversation where someone admits the economy was good when Donald Trump first took office. Obama says his response is, \"Yeah. Because it was my economy!\" The crowd cheers loudly in response.",
+  "emojis_present": [
+    "🤩"
+  ],
+  "audio_music": "The audio consists entirely of Barack Obama's live speech and the enthusiastic cheering of the crowd. There is no background music.",
+  "editing_pacing": "The video is a single, static shot of a talking head. Large, yellow text appears on screen word-by-word, synchronized with Obama's speech for emphasis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Amusement"
+  ],
+  "cultural_references": [],
+  "central_claim": "Barack Obama's administration is responsible for the strong economy that existed at the beginning of Donald Trump's presidency.",
+  "intended_effect": "To make the viewer credit Obama for the economic conditions under Trump and feel pride in the Democratic party's economic management.",
+  "uncertainty_flags": []
+}

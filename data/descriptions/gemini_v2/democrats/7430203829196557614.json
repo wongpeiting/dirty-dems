@@ -1,0 +1,50 @@
+{
+  "video_id": "7430203829196557614",
+  "visual_action": "Michelle Obama stands at a podium giving a speech. The background consists of red and white vertical stripes. The video is presented in a letterbox format, with on-screen text appearing at the top and bottom of the frame.",
+  "cast": [
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on screen throughout the video, speaking directly to an audience."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Michelle Obama says, 'do not hand our fates over to the likes of Trump.' He is also named in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Michelle Obama: A vote for Trump is a vote against women",
+      "role": "overlay"
+    },
+    {
+      "text": "ONLY STANDING THESE WOMEN ADVICE DOCTORS ARE ONES KNOWLEDGE EXPERIENCE TO NEED PLEASE PLEASE NOT OVER OF TRUMP NOTHING US DEEP CONTEMPT US BECAUSE HIM HIM AGAINST US",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Michelle Obama argues that only women, with advice from their doctors, have the standing to make crucial decisions about their bodies. She emphasizes that women possess the necessary knowledge and experience. She pleads with the audience not to entrust their fates to Donald Trump, whom she describes as knowing nothing about women and showing them \"deep contempt.\" She concludes that a vote for Trump is a vote against women.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Michelle Obama's speech, with the sounds of audience applause and cheering interspersed.",
+  "editing_pacing": "The video is a single, static shot of Michelle Obama speaking. The primary editing element is the use of text overlays that appear sequentially at the bottom of the screen to emphasize key words from her speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Warning",
+    "Empowerment",
+    "Solidarity"
+  ],
+  "cultural_references": [],
+  "central_claim": "A vote for Donald Trump is a vote against the rights and autonomy of women.",
+  "intended_effect": "To persuade voters, particularly women, that Donald Trump is a threat to their interests and to motivate them to vote against him.",
+  "uncertainty_flags": [
+    "The on-screen text 'Michelle Obama: A vote for Trump is a vote against women' is followed by a small, non-emoji symbol of a red box with a white cross, which appears to be a graphic design element."
+  ]
+}

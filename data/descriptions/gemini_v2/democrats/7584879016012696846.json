@@ -1,0 +1,72 @@
+{
+  "video_id": "7584879016012696846",
+  "visual_action": "A split-screen shows an unnamed female interviewer asking a question via on-screen text, and Donald Trump below her. The scene then cuts to a still photo of Trump wearing a red 'MAKE AMERICA GREAT AGAIN' hat, with an overlay of a news headline from ABC News about household debt.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in an interview clip and a still photo; the post is about his economic record."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown asking a question to Trump in the first clip."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'abc NEWS' appears on the overlaid news headline."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I don't need luck to perform",
+      "role": "meme_text"
+    },
+    {
+      "text": "What grade would you give your economy?",
+      "role": "overlay"
+    },
+    {
+      "text": "A+++++",
+      "role": "overlay"
+    },
+    {
+      "text": "I decide when to perform good",
+      "role": "meme_text"
+    },
+    {
+      "text": "abc NEWS\nAmericans' household debt hits new record high, according to report",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An unidentified male voice with a foreign accent speaks over the video, saying things like 'I don't need luck to perform,' 'I decide when to perform good,' and 'I'm playing to win.' This audio is not from the individuals shown in the clips.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, confident-sounding instrumental track ('THE LION'S DECISION' by Alaina Batz) plays throughout, accompanying a male voiceover.",
+  "editing_pacing": "Fast-paced with a quick cut between a two-panel interview scene and a static image with a text overlay, creating a sharp juxtaposition.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "The audio is a popular meme sound featuring lines from the character Anatoly Dyatlov in the HBO series 'Chernobyl'."
+  ],
+  "central_claim": "Donald Trump's self-assessed 'A+++++' economic performance is directly contradicted by reports of record-high American household debt.",
+  "intended_effect": "To portray Donald Trump as arrogant and dishonest about his economic record, thereby undermining his credibility.",
+  "uncertainty_flags": []
+}

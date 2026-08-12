@@ -1,0 +1,54 @@
+{
+  "video_id": "7655365569884998925",
+  "visual_action": "The video is a montage that intercuts clips of Donald Trump speaking at a podium with the presidential seal with scenes of law enforcement actions. These scenes show officers in tactical gear, some with 'ICE' and 'ERO' patches, pulling a man from a car, clashing with a crowd, and interacting with distressed children, including a toddler crying and another young child in a winter hat. The video ends with two still photographs, one of a man with glasses and a beard, and another of a woman outdoors. The text 'heroes?' is superimposed on every frame.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is shown speaking at a podium, and his voice is heard praising ICE and Border Patrol."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Trump calls them 'heroes of ICE' and officers are shown wearing vests with 'ICE' and 'ERO' (an ICE division) patches."
+    },
+    {
+      "name": "U.S. Border Patrol",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump's voiceover says, 'the heroes of ICE and Border Patrol'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "heroes?",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump's voice is heard in edited clips, saying phrases like 'the heroes of ICE and Border Patrol' and 'You are heroes.' This audio is played over the montage, which also includes sounds of shouting and crying from the depicted scenes.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber piano melody plays throughout the entire video, creating a sad and critical tone. This is layered with the diegetic sound from the clips, including Trump's speech and chaotic sounds from the law enforcement encounters. Camera shutter sound effects are used during the final still photos.",
+  "editing_pacing": "The video uses a fast-paced montage style, with quick cuts between Trump speaking and the contrasting footage of law enforcement actions and distressed individuals. The editing serves to juxtapose Trump's words with the visuals.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "outrage",
+    "irony",
+    "sympathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's description of ICE and Border Patrol agents as 'heroes' is false and offensive, given the suffering their actions cause to children and families.",
+  "intended_effect": "To evoke anger towards Donald Trump and sympathy for the victims of his administration's immigration policies, thereby generating opposition to him.",
+  "uncertainty_flags": [
+    "The identities of the civilians shown in the montage (including the two people in the final still photos) are not provided or discernible from the video."
+  ]
+}

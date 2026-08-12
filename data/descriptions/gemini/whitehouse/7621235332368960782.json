@@ -1,0 +1,57 @@
+{
+  "video_id": "7621235332368960782",
+  "visual_action": "A montage of clips showing Markwayne Mullin in various settings at the White House. The video opens with a close-up of a man's hands holding a brown egg. It then cuts to Mullin being sworn into an office by a woman with her back to the camera, speaking with other people, and standing with his family. Former President Donald Trump is shown at a podium with the presidential seal, speaking. Mullin is also shown speaking at the same podium. The video concludes with Mullin and Trump shaking hands, followed by black and white footage of a helicopter and then the White House building, with text overlay.",
+  "cast": [
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named by Donald Trump in the audio: \"Mark Wayne Mullin.\" He also speaks extensively."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually identifiable and is referred to as \"Mr. President\" in the audio. He speaks at the podium."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The account is @whitehouse and the video ends with an image of the building and the text \"THE WHITE HOUSE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that he is thrilled to swear in Markwayne Mullin as the new Secretary of Homeland Security, calling him a \"great American patriot\" and expressing confidence that he will be \"fantastic.\" Mullin then gives a speech, stating that his job is to protect everyone equally, regardless of whether their state is \"red or you're blue.\" He pledges that \"no one's going to outwork me\" and that \"failure is not an option.\" He thanks the President for the opportunity and promises not to let him down.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of the original speeches from the event, layered with an uplifting and slightly cinematic instrumental score that swells at key moments.",
+  "editing_pacing": "The video is a montage with relatively quick cuts between different scenes, including speeches, the swearing-in ceremony, and shots of Mullin with his family and with Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Confidence",
+    "Reassurance"
+  ],
+  "cultural_references": [
+    "The use of \"red\" and \"blue\" states as political shorthand for Republican- and Democratic-leaning states."
+  ],
+  "central_claim": "Markwayne Mullin, endorsed by President Trump, is a dedicated patriot who will serve as a strong Secretary of Homeland Security for all Americans.",
+  "intended_effect": "To generate support for and confidence in Markwayne Mullin's appointment to a key cabinet position.",
+  "uncertainty_flags": [
+    "The context of the opening shot showing a man holding an egg is unclear, though it may be a reference to the White House Easter Egg Roll.",
+    "The identity of the woman administering the oath of office to Mullin is not specified as she is only seen from behind."
+  ]
+}

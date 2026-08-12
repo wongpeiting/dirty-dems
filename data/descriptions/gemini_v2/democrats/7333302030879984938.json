@@ -1,0 +1,44 @@
+{
+  "video_id": "7333302030879984938",
+  "visual_action": "A 3D animated wolf-like creature is superimposed over a static image of the U.S. Capitol building. The creature stands on its hind legs and dances in a loop.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'Republicans killing a bipartisan bill...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads '...because Trump told them to.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans killing a bipartisan bill because Trump told them to",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue; the audio consists only of music.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the song 'A Thousand Years' by Christina Perri, a slow and emotional ballad. The music plays consistently throughout the clip, creating a jarring and ironic contrast with the visuals.",
+  "editing_pacing": "Static shot with a CGI overlay.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A 3D-animated, wolf-like creature is superimposed and animated over a photo of the U.S. Capitol building, making it appear as if it is dancing on the steps.",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "The dancing wolf is a reference to the 'PoPePo' wolf dance internet meme.",
+    "The song 'A Thousand Years' by Christina Perri, famously associated with the 'Twilight' film series, is used ironically."
+  ],
+  "central_claim": "Republicans killed a bipartisan bill because Donald Trump told them to.",
+  "intended_effect": "To portray Republicans as foolish puppets of Donald Trump who act against bipartisan interests.",
+  "uncertainty_flags": []
+}

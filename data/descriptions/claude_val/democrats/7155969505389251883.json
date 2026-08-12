@@ -1,0 +1,104 @@
+{
+  "video_id": "7155969505389251883",
+  "visual_action": "A slideshow-style video cycling through close-up portrait photos of multiple House Republican members, one per slide. Each frame fills the vertical screen with a single politician's face/headshot. Some appear to be official congressional portrait photos (U.S. flag in background, congressional seal pin visible); others appear to be press/event photos. Every frame has the same lower-third red alert overlay with flashing red siren emojis and the identical warning text. The slideshow moves through approximately 8 politicians in sequence.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "First frame shows a grey-haired man in blue suit and red tie at what appears to be a Capitol press setting — identified by face recognition as Kevin McCarthy"
+    },
+    {
+      "name": "Louie Gohmert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; appears in congressional portrait with U.S. flag background and congressional seal pin, wearing glasses"
+    },
+    {
+      "name": "Austin Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; appears in congressional portrait with U.S. flag background and aviation wings pin"
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; appears in press photo outside Capitol in blue suit and red tie, smiling broadly"
+    },
+    {
+      "name": "Andy Barr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; appears in congressional portrait with U.S. flag, rimless glasses"
+    },
+    {
+      "name": "Adam Kinzinger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; appears in congressional portrait with U.S. flag background"
+    },
+    {
+      "name": "Elise Stefanik",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; appears in a photo, bow tie/bowtie visible"
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: 'REMINDER: every House Republican voted against historic action on climate'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🚨 🚨\nREMINDER: every House Republican voted against historic action on climate🫢🌍",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue or narration. The video is silent except for background music. The Whisper transcript returned no speech.",
+  "emojis_present": [
+    "🚨",
+    "🫢",
+    "🌍"
+  ],
+  "audio_music": "Throughout the entire video, the track \"Titanic Meme Bgm\" by Zayan Jihad plays — a slow, mournful, melodramatic piano piece widely recognized as a meme-format background track associated with irony, doom, or dramatic effect. It runs continuously under the slideshow, lending a tone of ominous gravity or satirical dread to the parade of Republican faces.",
+  "editing_pacing": "Slideshow format with moderate-paced cuts between still portrait/press photos of individual Republican members. Each photo holds on screen for a few seconds before transitioning to the next. The persistent red overlay text and siren emojis remain constant across all frames, anchoring the message regardless of which face appears.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm/urgency (signaled by red background, flashing siren emojis 🚨, and the word 'REMINDER')",
+    "dismay/shock (signaled by the 🫢 emoji and the framing of the vote as against 'historic' action)",
+    "ominous dread (signaled by the Titanic meme music, which is associated with impending doom)",
+    "condemnation (signaled by the parade of individual Republican faces paired with the accusatory text)"
+  ],
+  "cultural_references": [
+    "Titanic Meme Bgm — the slow, mournful piano piece popularized as an internet meme soundtrack for ironic/dramatic effect, here used to underscore the climate vote montage with a sense of impending doom"
+  ],
+  "central_claim": "Every House Republican voted against a piece of legislation described as historic action on climate change, and viewers should be alarmed by this.",
+  "intended_effect": "Cause viewers to feel alarm and disapproval toward House Republicans as a group by pairing their individual faces with a reminder that all of them opposed major climate legislation.",
+  "uncertainty_flags": [
+    "The face-ID roster lists 6 politicians but the video appears to contain ~8 frames — identities of the remaining 1–2 individuals (including the man with a bow tie in the final frame and the broad-smiling man in the 7th frame) could not be confirmed with certainty beyond what face-ID provided.",
+    "The specific legislation being referenced as 'historic action on climate' is not named in the video; it is most likely the Inflation Reduction Act (IRA) of 2022, but this cannot be confirmed from the video alone.",
+    "Adam Kinzinger left the House Republicans and did not seek re-election in 2022; his inclusion in a video about House Republican voting records may reflect a past vote — context of timing unclear.",
+    "Elise Stefanik's face-ID is listed but the frame matching her description (bow tie visible) may be misattributed — bow ties are more typically associated with male politicians; flag uncertain.",
+    "Kevin McCarthy is not listed in the authoritative face-ID but the first frame strongly resembles him — flagged as uncertain identification."
+  ]
+}

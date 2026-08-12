@@ -1,0 +1,55 @@
+{
+  "video_id": "7605709243043351822",
+  "visual_action": "A person wearing a red hard hat, grey shirt, and blue jeans repeatedly smashes a large glass wall and door in an office setting with a hammer and a crowbar. The tempered glass shatters into many small pieces but mostly remains in its frame.",
+  "cast": [
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text attributes a quote to \"kristi noem\"."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official account @democrats, and the meme format positions the poster as the \"me:\" who is reacting."
+    },
+    {
+      "name": "unidentified person",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A person is shown on screen smashing the glass walls."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "kristi noem: \"this is my favorite glass room because it has beautiful transparent glass\"\n\nme:",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists solely of loud impact and glass shattering sounds.",
+  "emojis_present": [],
+  "audio_music": "The only audio is the loud, sharp, diegetic sound of a hammer and crowbar hitting glass, followed by the sounds of the glass shattering and breaking. There is no music or speech. The effect is harsh and violent.",
+  "editing_pacing": "The video is presented as a single, continuous shot that pans slightly to follow the person's destructive actions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "aggression",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The video uses the common internet meme format of '[Person A]: [quote]' followed by 'me: [reaction video]' to frame the action."
+  ],
+  "central_claim": "Kristi Noem is being mocked with a fabricated, simplistic quote to portray her as foolish, warranting a destructively aggressive reaction from the poster.",
+  "intended_effect": "To encourage ridicule of Kristi Noem and portray the Democratic party's stance towards her as one of aggressive opposition.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('There we go.') does not match the audio heard in the video, which consists only of glass-smashing sounds with no discernible speech."
+  ]
+}

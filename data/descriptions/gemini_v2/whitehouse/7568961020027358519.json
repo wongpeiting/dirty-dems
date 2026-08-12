@@ -1,0 +1,69 @@
+{
+  "video_id": "7568961020027358519",
+  "visual_action": "The video opens on a close-up of a red soccer jersey with a handwritten signature and message. It then cuts to an interview setting, showing a man asking a question, and then Cristiano Ronaldo answering. The video concludes with a series of black-and-white shots of the White House and a helicopter, likely Marine One.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned by name in both the audio (\"to President Donald J. Trump\") and the on-screen text (\"President Trump\")."
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking on camera and identified by the on-screen text: \"Cristiano Ronaldo says...\""
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man is shown on screen asking Cristiano Ronaldo the question that prompts the main quote."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with text that reads \"THE WHITE HOUSE\" over B-roll of the building."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Cristiano Ronaldo says President Trump is “One of the guys who Can help change the world.”",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "An interviewer asks Cristiano Ronaldo about a message he wrote on a jersey for \"President Donald J. Trump,\" which read \"playing for peace.\" Ronaldo replies, \"He's one of the guys that can change or help to change the world.\"",
+  "emojis_present": [
+    "🙏"
+  ],
+  "audio_music": "The audio consists solely of spoken dialogue from an interview, with no background music or sound effects.",
+  "editing_pacing": "The video uses simple cuts between speakers in an interview format, followed by a short, slow-paced montage of black-and-white B-roll footage at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Respect",
+    "Hope",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "Cristiano Ronaldo"
+  ],
+  "central_claim": "Donald Trump is a world-changing leader capable of bringing peace, an assessment validated by international soccer star Cristiano Ronaldo.",
+  "intended_effect": "To bolster Donald Trump's image as a powerful and respected global figure by showcasing a strong endorsement from a popular, non-political celebrity.",
+  "uncertainty_flags": [
+    "The original source, date, and full context of the interview clip featuring Cristiano Ronaldo are not provided in the video."
+  ]
+}

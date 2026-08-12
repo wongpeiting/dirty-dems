@@ -1,0 +1,96 @@
+{
+  "video_id": "7465445425282141486",
+  "visual_action": "A news clip shows Karoline Leavitt speaking outdoors in front of a white, columned building, presumably the White House. A Fox News broadcast chyron is visible at the bottom of the screen, while overlay text is present at the top and as yellow captions over the bottom half of the video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the top reads, \"Trump's Press Secretary says Trump will be issuing an order...\" and the chyron states \"TRUMP TO SIGN BIPARTISAN LAKEN RILEY ACT\". Karoline Leavitt also refers to him as \"He\"."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown speaking on screen and identified by a Fox News chyron as \"KAROLINE LEAVITT WHITE HOUSE PRESS SECRETARY\"."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and broadcast graphics are visible throughout the clip."
+    },
+    {
+      "name": "Laken Riley",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears in the Fox News chyron: \"TODAY: TRUMP TO SIGN BIPARTISAN LAKEN RILEY ACT\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's Press Secretary says Trump will be issuing an order \"ending funding for public schools\" 😬",
+      "role": "caption"
+    },
+    {
+      "text": "FOX NEWS LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "KAROLINE LEAVITT WHITE HOUSE PRESS SECRETARY",
+      "role": "chyron"
+    },
+    {
+      "text": "TODAY: TRUMP TO SIGN BIPARTISAN LAKEN RILEY ACT",
+      "role": "chyron"
+    },
+    {
+      "text": "HE ALSO WILL SIGN",
+      "role": "overlay"
+    },
+    {
+      "text": "EXECUTIVE ORDERS ADDRESSING",
+      "role": "overlay"
+    },
+    {
+      "text": "SCHOOL CHOICE. ENDING FUNDING",
+      "role": "overlay"
+    },
+    {
+      "text": "FOR PUBLIC SCHOOLS THAT SUPPORT",
+      "role": "overlay"
+    },
+    {
+      "text": "CRITICAL RACE THEORY AND OTHER DIVISIVE",
+      "role": "overlay"
+    },
+    {
+      "text": "MEASURES IN THEIR CURRICULUMS.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt states that Donald Trump will sign executive orders to address school choice. She specifies this includes \"ending funding for public schools that support critical race theory and other divisive measures in their curriculums.\"",
+  "emojis_present": [
+    "😬"
+  ],
+  "audio_music": "The audio consists solely of a person speaking, with the typical ambient sound of a news broadcast. There is no music or other added sound.",
+  "editing_pacing": "The video is a single, static shot of a person speaking (a talking head), with no cuts or changes in camera angle. Text has been overlaid on the original clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump plans to sign an executive order to defund public schools whose curricula include topics like critical race theory.",
+  "intended_effect": "To cause alarm and concern among viewers about Donald Trump's education policies, framing them as a direct attack on public schools.",
+  "uncertainty_flags": []
+}

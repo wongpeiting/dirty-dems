@@ -1,0 +1,89 @@
+{
+  "video_id": "7613880610238631182",
+  "visual_action": "The video shows a static image of a tweet from the account 'FactPost' which claims Donald Trump has fired Kristi Noem. The tweet includes a photo of Noem and a screenshot of a post from Donald Trump detailing the change. The video then cuts to a second static image showing a portrait of Kristi Noem in a circular frame with a green banner at the bottom that reads '#OPENTOWORK', styled like a LinkedIn profile picture.",
+  "cast": [
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name and photo appear throughout the video. The central action is her being 'fired.' A photo of her is altered with an '#OPENTOWORK' banner."
+    },
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the initial tweet ('Trump has fired...') and a social media post attributed to him ('Donald J. Trump') is shown, announcing the staffing change."
+    },
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is named in the on-screen text of the Donald Trump post as Kristi Noem's replacement."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are displayed as the source of the initial tweet."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump has fired Kristi Noem as Secretary of Homeland Security. 🙌🙌",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump @realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "I am pleased to announce that the Highly Respected United States Senator from the Great State of Oklahoma, Markwayne Mullin, will become the United States Secretary of Homeland Security (DHS), effective March 31, 2026. The current Secretary, Kristi Noem, who has served us well, and has had numerous and spectacular results (especially on the Border!), will be moving to be Special Envoy for The Shield of the Americas, our new Security Initiative in the Western Hemisphere we are announcing on Saturday in Doral, Florida. I thank Kristi for her service at “Homeland.”",
+      "role": "overlay"
+    },
+    {
+      "text": "#OPENTOWORK",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is accompanied only by music.",
+  "emojis_present": [
+    "🙌"
+  ],
+  "audio_music": "A slowed, dramatic, choral piece of music plays throughout the video. The track, identified as 'No One Mourns the Wicked' from the musical 'Wicked', creates a mocking and ironically grandiose tone for the announcement of someone being fired.",
+  "editing_pacing": "The video is a simple slideshow, consisting of two static images with a single cut between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A green banner reading '#OPENTOWORK', designed to look like the LinkedIn feature for job-seekers, is superimposed on a portrait of Kristi Noem to satirically suggest she is now unemployed.",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "The '#OPENTOWORK' banner is a direct visual reference to the job-seeking feature on the professional networking site LinkedIn.",
+    "The background music is from the song 'No One Mourns the Wicked' from the Broadway musical 'Wicked'."
+  ],
+  "central_claim": "The video satirically claims Kristi Noem was fired by Donald Trump and is now looking for a job.",
+  "intended_effect": "To mock Kristi Noem and the Trump administration by portraying a personnel change as a humiliating firing.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet and the Donald J. Trump social media post shown in the video is uncertain; they may be fabricated for satirical purposes."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "7611627757008882958",
+  "visual_action": "A fast-paced montage of clips shows various fictional characters, celebrities, and Donald Trump dancing, celebrating, and looking joyful. The clips are taken from numerous well-known movies and TV shows. A consistent text overlay is present on every clip. The video concludes with a black and white image of a helicopter in front of the White House, followed by an image of the White House exterior with text identifying it.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown dancing in multiple clips and is named in the on-screen text: 'THANKS TO PRESIDENT TRUMP'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a title card that reads 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POV:\nYOU CAN FINALLY\nAFFORD YOUR MEDS\nTHANKS TO PRESIDENT TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists entirely of music. The provided transcript 'We'll be right back.' is incorrect.",
+  "emojis_present": [
+    "📲"
+  ],
+  "audio_music": "The video opens with a rock guitar riff for the first approximately five seconds, taken from the first film clip shown. It then transitions to the upbeat, celebratory 1980s pop song 'You Make My Dreams' by Daryl Hall & John Oates, which plays for the remainder of the montage, creating a joyful and energetic mood.",
+  "editing_pacing": "The video is a rapid-fire montage with very fast cuts between a large number of short clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "joy",
+    "celebration",
+    "relief",
+    "gratitude"
+  ],
+  "cultural_references": [
+    "Brad Pitt in 'Burn After Reading'",
+    "Jack Black in 'School of Rock'",
+    "Rowan Atkinson as Mr. Bean",
+    "Jon Heder as Napoleon Dynamite in 'Napoleon Dynamite'",
+    "Will Smith in 'The Fresh Prince of Bel-Air'",
+    "Will Ferrell and Chris Kattan in 'A Night at the Roxbury'",
+    "Hugh Grant in 'Love Actually'",
+    "Jim Carrey in 'Bruce Almighty'",
+    "Ben Stiller as Derek Zoolander in 'Zoolander'",
+    "Owen Wilson as Hansel in 'Zoolander'",
+    "Mike Myers as Austin Powers",
+    "Tom Cruise in 'Risky Business'",
+    "Steve Carell as Michael Scott in 'The Office'",
+    "Ty Burrell as Phil Dunphy in 'Modern Family'",
+    "SpongeBob SquarePants",
+    "Leonardo DiCaprio as Jay Gatsby in 'The Great Gatsby'",
+    "The cast of 'Mamma Mia!'",
+    "The 'POV' meme format"
+  ],
+  "central_claim": "President Trump's policies have successfully made medications affordable for people, causing widespread joy and celebration.",
+  "intended_effect": "To generate feelings of happiness, gratitude, and support for Donald Trump by associating him with financial relief and well-being.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is incorrect; there is no spoken dialogue in the video.",
+    "While many pop culture clips were identified, it is possible not every single source was correctly named."
+  ]
+}

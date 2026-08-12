@@ -1,0 +1,87 @@
+{
+  "video_id": "7545620347408813326",
+  "visual_action": "The video opens with a screenshot of a Truth Social post by @realDonaldTrump displayed against a white background, followed by what appears to be military thermal/night-vision aerial strike footage (labeled \"UNCLASSIFIED\" in green at the top) showing a vessel or object being targeted and then destroyed in a flash/explosion — a targeting reticle and numerical readout (24, then 16) are visible on screen. The video concludes with a dark, nearly black outro card showing a White House logo (building icon) and the text \"THE WHITE HOUSE\" over a dim background shot of a helicopter (Marine One) lifting off.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Truth Social post screenshot showing 'Donald J. Trump @realDonaldTrump' as the author, stating the strike was carried out 'on my Orders'"
+    },
+    {
+      "name": "Tren de Aragua (TDA)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Post text: 'kinetic strike against positively identified Tren de Aragua Narcoterrorists... TDA is a designated Foreign Terrorist Organization'"
+    },
+    {
+      "name": "Nicolas Maduro",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Post text: 'operating under the control of Nicolas Maduro'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Outro card reads 'THE WHITE HOUSE' with official White House building logo — this is the posting account"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump ✅ ➕\n@realDonaldTrump\n\nEarlier this morning, on my Orders, U.S. Military Forces conducted a kinetic strike against positively identified Tren de Aragua Narcoterrorists in the SOUTHCOM area of responsibility. TDA is a designated Foreign Terrorist Organization, operating under the control of Nicolas Maduro, responsible for mass murder, drug trafficking, sex trafficking, and acts of violence and terror across the United States and Western Hemisphere. The strike occurred while the terrorists were at sea in International waters transporting illegal narcotics, heading to the United States. The strike resulted in 11 terrorists killed in action. No U.S. Forces were harmed in this strike. Please let this serve as notice to anybody even thinking about bringing drugs into the United States of America. BEWARE! Thank you for your attention to this matter!!!!!!!!!!!",
+      "role": "overlay"
+    },
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    },
+    {
+      "text": "24",
+      "role": "overlay"
+    },
+    {
+      "text": "16",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The Whisper transcript captures only brief applause-acknowledgment sounds (\"Thank you. Thank you.\") — likely ambient audio from a separate clip or outro. The primary content is conveyed visually through the on-screen Trump Truth Social post and the strike footage rather than spoken narration.",
+  "emojis_present": [
+    "✅",
+    "➕"
+  ],
+  "audio_music": "Original sound; minimal discernible music. The transcript captures only \"Thank you. Thank you.\" — possibly faint ambient or crowd audio. No prominent music track identified.",
+  "editing_pacing": "Static hold on the Truth Social post screenshot, then cut to thermal/night-vision strike footage (two frames showing approach and explosion), then cut to a dark White House outro card. Slow, deliberate pacing with minimal cuts — documentary/announcement style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "deterrence/warning — conveyed by the word 'BEWARE' and the direct address to drug traffickers in the post text",
+    "strength/resolve — conveyed by the display of actual military strike footage labeled 'UNCLASSIFIED'",
+    "authority — conveyed by the White House branding on the outro card"
+  ],
+  "cultural_references": [
+    "Truth Social post format",
+    "UNCLASSIFIED military strike footage aesthetic (thermal/night-vision targeting HUD)",
+    "Marine One helicopter imagery associated with presidential authority"
+  ],
+  "central_claim": "The U.S. military, acting on President Trump's orders, conducted a lethal strike killing 11 Tren de Aragua narcoterrorists at sea, and this post serves as a warning to anyone considering bringing drugs into the United States.",
+  "intended_effect": "To project strength and decisiveness by showcasing a military strike against a designated terrorist organization, and to deter drug trafficking into the United States.",
+  "uncertainty_flags": [
+    "Cannot independently verify the date or authenticity of the described military strike, as this event may fall after the knowledge cutoff; treated as real per instructions.",
+    "The thermal strike footage is labeled 'UNCLASSIFIED' but the original source/chain of custody of this footage cannot be confirmed from the video alone.",
+    "The 'Thank you. Thank you.' audio is ambiguous — unclear what moment or speaker it references; may be from a separate clip or event.",
+    "It is unclear whether the numerical readouts (24, 16) on the targeting HUD represent altitude, distance, or another metric."
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "video_id": "7468375150619069738",
+  "visual_action": "The video begins with a clip of JD Vance standing in a grocery store, holding a carton of eggs and speaking to a small group of people. The video then cuts to a time-lapse card from the TV show SpongeBob SquarePants that reads 'SEVERAL MONTHS LATER...'. The remainder of the video is a slideshow of still images showing various cartons of eggs in grocery stores with high price tags, each overlaid with a screenshot of a news headline about rising egg prices. The news sources shown are CNN Business, Yahoo News, FOX 5 Atlanta, USA Today, and Newsweek.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He appears on screen speaking, and is identified by the on-screen text 'JD Vance on September 21, 2024'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "JD Vance mentions her by name, saying 'eggs when Kamala Harris took office...'"
+    },
+    {
+      "name": "CNN Business",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN Business logo and name appear on a news headline screenshot."
+    },
+    {
+      "name": "Yahoo News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The yahoo!news logo appears on a news headline screenshot."
+    },
+    {
+      "name": "FOX 5 Atlanta",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The FOX 5 Atlanta logo appears on a news headline screenshot."
+    },
+    {
+      "name": "USA Today",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The USA Today logo appears on a news headline screenshot."
+    },
+    {
+      "name": "Newsweek",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Newsweek logo appears on a news headline screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "JD Vance on September 21, 2024",
+      "role": "overlay"
+    },
+    {
+      "text": "EGGS WHEN KAMALA HARRIS TOOK OFFICE",
+      "role": "overlay"
+    },
+    {
+      "text": "WERE SHORT OF $1.50 A DOZEN.",
+      "role": "overlay"
+    },
+    {
+      "text": "COST YOU AROUND $4",
+      "role": "overlay"
+    },
+    {
+      "text": "SEVERAL MONTHS LATER...",
+      "role": "meme_text"
+    },
+    {
+      "text": "CNN Business\nSat January 25, 2025\nExpect record-high egg prices for most of the year",
+      "role": "overlay"
+    },
+    {
+      "text": "yahoo!news\nMon, February 3, 2025\n‘More to go’: Egg prices reach record high with no end in sight",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX 5 ATLANTA\nFebruary 4, 2025\nWaffle House adds egg surcharge amid rising egg prices",
+      "role": "overlay"
+    },
+    {
+      "text": "USA TODAY\nJan 27, 2025\nEgg costs predicted to rise in 2025, despite Vance saying ‘prices are going to come down’",
+      "role": "overlay"
+    },
+    {
+      "text": "Newsweek\nJan 26, 2025\nJD Vance Cautions Admin Needs a 'Bit of Time' to Bring Down Grocery Prices",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "JD Vance states that when Kamala Harris took office, a dozen eggs cost just under $1.50, and that they now cost around $4. This is followed by a narrator saying, \"Several months later.\"",
+  "emojis_present": [],
+  "audio_music": "The first section consists of JD Vance's voice with ambient room tone. After the narrator's line, a slow, sad, twangy slide guitar track (identified as 'Hawaiian Cocktail' by Richard Myhill) plays for the remainder of the video, creating a melancholic and mocking tone.",
+  "editing_pacing": "The video begins with a single, static shot of a person speaking. It then uses a meme transition to cut to a slow-paced slideshow of still images, allowing the viewer time to read the text on screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "concern"
+  ],
+  "cultural_references": [
+    "The 'Several months later...' time card and accompanying voiceover is a well-known meme from the TV show SpongeBob SquarePants."
+  ],
+  "central_claim": "JD Vance's predictions about food price inflation were incorrect, as egg prices rose dramatically in the months after his comments.",
+  "intended_effect": "To discredit JD Vance's economic commentary and portray him as out of touch with the financial realities faced by consumers.",
+  "uncertainty_flags": []
+}

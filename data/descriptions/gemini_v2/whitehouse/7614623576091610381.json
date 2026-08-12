@@ -1,0 +1,66 @@
+{
+  "video_id": "7614623576091610381",
+  "visual_action": "A military honor guard carries a flag-draped casket down the ramp of a large military transport aircraft on an airport tarmac. They walk in formation across the tarmac towards a group of people, including Donald and Melania Trump, who are standing to receive them. In the background, another plane with \"UNITED STATES OF AMERICA\" livery is visible. The honor guard approaches two black vans with open rear doors.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "On-screen text reads 'President Trump & First Lady Melania Honor the Fallen'. He is also visible standing in the receiving line on the tarmac."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "On-screen text reads 'President Trump & First Lady Melania Honor the Fallen'. She is also visible standing next to Donald Trump on the tarmac."
+    },
+    {
+      "name": "Fallen US service members",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video shows a solemn ceremony with a flag-draped casket, and the on-screen text says 'Honor the Fallen', implying deceased military personnel."
+    },
+    {
+      "name": "US Military",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Soldiers in uniform are shown performing a dignified transfer of a flag-draped casket."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump & First Lady Melania Honor the Fallen 🙏🇺🇸",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The provided transcript is incorrect; the audio consists entirely of a solo bugle playing.",
+  "emojis_present": [
+    "🙏",
+    "🇺🇸"
+  ],
+  "audio_music": "A solo bugle plays 'Taps' throughout the entire video, creating a solemn, mournful, and respectful atmosphere appropriate for a military funeral or memorial ceremony.",
+  "editing_pacing": "The video consists of a single, continuous shot that slowly pans to follow the military honor guard as they carry the casket across the tarmac.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "solemnity",
+    "respect",
+    "patriotism",
+    "mourning"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump and First Lady Melania showed appropriate respect by attending the dignified transfer ceremony for fallen U.S. service members.",
+  "intended_effect": "To evoke feelings of respect and admiration for the Trumps' solemn observance and to honor the sacrifice of military members.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('PIANO PLAYS Thank you. Thank you.') is completely inaccurate. The audio is a solo bugle playing 'Taps' with no spoken words or piano.",
+    "While Donald and Melania Trump are identified in the on-screen text and visible in the background, their faces are not clearly discernible."
+  ]
+}

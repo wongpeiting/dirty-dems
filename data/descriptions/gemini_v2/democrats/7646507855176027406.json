@@ -1,0 +1,50 @@
+{
+  "video_id": "7646507855176027406",
+  "visual_action": "The video displays a static screenshot of a tweet from the account 'FactPost'. The tweet includes a photo of Gavin Newsom next to a scenic landscape photo of a field of blue flowers with mountains in the background. The video then cuts to a separate, stylized portrait photo of Gavin Newsom against a dark background.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name and photo appear in a screenshot of a tweet which reads, \"Gavin Newsom's Cutting Green Tape initiative...\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from the account \"FactPost\" (@factpostnews) is shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Gavin Newsom's Cutting Green Tape initiative has helped restore 300,000 acres of habitat, 5.5 million acres of land, and 700 miles of streams in California.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it only features music.",
+  "emojis_present": [
+    "👏"
+  ],
+  "audio_music": "The video is set to an upbeat, anthemic indie pop song ('We Are the People' by Empire Of The Sun) which plays throughout, creating a positive and uplifting mood.",
+  "editing_pacing": "The video is a simple slideshow, cutting once from a static screenshot of a tweet to a static portrait photo.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "'We Are the People' by Empire Of The Sun"
+  ],
+  "central_claim": "Gavin Newsom's 'Cutting Green Tape' initiative has successfully restored a vast amount of California's natural environment.",
+  "intended_effect": "To make the viewer feel proud of and admire Gavin Newsom's leadership on environmental issues.",
+  "uncertainty_flags": []
+}

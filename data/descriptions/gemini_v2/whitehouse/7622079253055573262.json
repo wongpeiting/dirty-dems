@@ -1,0 +1,94 @@
+{
+  "video_id": "7622079253055573262",
+  "visual_action": "Donald Trump stands at a podium on a stage with a large American flag and a blue backdrop behind him. He turns to watch a large screen to his left, which begins playing a CNN news clip. The clip shows a news anchor discussing a poll titled \"MAGA GOP VIEW OF TRUMP\" which displays \"APPROVE 100%\" and \"DISAPPROVE 0%\". After the clip plays, the screen reverts to showing the American flag, and Trump turns back to the podium to address the audience.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the speaker on stage and the subject of the poll shown in the video clip."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A news clip from CNN, with its logo visible, is shown on a large screen."
+    },
+    {
+      "name": "unnamed CNN anchor",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male news anchor is shown and heard speaking in the CNN clip played on screen."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The poll shown on screen is about the 'MAGA GOP VIEW OF TRUMP'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referred to as 'GOP' in the on-screen text for the poll: 'MAGA GOP VIEW OF TRUMP'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The funniest President 😂",
+      "role": "caption"
+    },
+    {
+      "text": "MAGA GOP VIEW OF TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "APPROVE 100%",
+      "role": "chyron"
+    },
+    {
+      "text": "DISAPPROVE 0%",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "overlay"
+    },
+    {
+      "text": "FII Priority\nMIAMI\nMarch 25-27, 2026",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video plays a clip of a CNN segment where an anchor discusses a poll showing Donald Trump has 100% approval and 0% disapproval among the \"MAGA GOP.\" The anchor notes, \"you can't go higher than 100%.\" Trump then takes the stage and thanks the audience, saying, \"Big, great numbers.\" He proceeds to take questions, stating that unlike other politicians, he doesn't have them screened and that people can ask him anything they want, including about \"sex.\"",
+  "emojis_present": [
+    "😂"
+  ],
+  "audio_music": "The audio begins with the sound of a news broadcast clip, followed by applause from a live audience. The remainder of the audio is Donald Trump speaking into a microphone. There is no musical accompaniment.",
+  "editing_pacing": "The video consists of a single, static shot of Donald Trump on stage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Amusement",
+    "Triumph",
+    "Pride"
+  ],
+  "cultural_references": [
+    "CNN",
+    "1972 Miami Dolphins"
+  ],
+  "central_claim": "Donald Trump has the complete and total support of his base, and he is a uniquely entertaining and transparent leader who is not afraid to answer any question.",
+  "intended_effect": "To entertain the viewer with Trump's humor, reinforce his image as a popular and strong leader, and portray him as more honest and accessible than other politicians.",
+  "uncertainty_flags": [
+    "The authenticity of the CNN clip showing a 100% approval rating is uncertain, as such a poll result is statistically improbable. It could be a fabricated or satirical clip, but this cannot be confirmed from the video itself."
+  ]
+}

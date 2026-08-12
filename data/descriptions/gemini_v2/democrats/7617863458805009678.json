@@ -1,0 +1,64 @@
+{
+  "video_id": "7617863458805009678",
+  "visual_action": "A montage of various short clips of Donald Trump looking serious, walking, and sitting in meetings. The video then transitions to a series of still photos and short clips showing a younger Donald Trump with Jeffrey Epstein at social events.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in every clip and photo and is the subject of the on-screen text, which claims he is singing."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in multiple photos and clips with Donald Trump in the second half of the video."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by an external face recognition service; appears briefly and out of focus in the background of a meeting scene around the 0:07 mark."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump singing in the discord call thinking he's muted 😥",
+      "role": "overlay"
+    },
+    {
+      "text": "his best friend joining in ❤️",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a male voice, manipulated to sound like Donald Trump, singing romantic lyrics from the song \"Shape of You\" by Ed Sheeran. The lyrics include \"Girl, you know I want your love / Your love was handmade for somebody like me / Come on now, follow my lead.\"",
+  "emojis_present": [
+    "😥",
+    "❤️"
+  ],
+  "audio_music": "A continuous audio track of a male voice, seemingly AI-generated to mimic Donald Trump, singing a cover of a romantic pop song. The music serves a mocking purpose, creating a jarring contrast between the romantic lyrics and the visuals, especially the photos with Jeffrey Epstein.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various clips and photos, with some subtle zoom and motion effects applied.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The audio is a deepfake; it has been manipulated or AI-generated to create a fake recording of Donald Trump singing Ed Sheeran's \"Shape of You\" to fit the video's satirical premise.",
+  "emotions_signaled": [
+    "mockery",
+    "humor",
+    "disgust"
+  ],
+  "cultural_references": [
+    "Ed Sheeran's song \"Shape of You\"",
+    "The social media platform Discord",
+    "The internet meme format of a person accidentally being unmuted on a voice call"
+  ],
+  "central_claim": "The video uses a fabricated, humorous premise about Donald Trump singing to pivot into an attack associating him with convicted sex offender Jeffrey Epstein.",
+  "intended_effect": "To use a bait-and-switch tactic to first amuse the viewer and then create a strong negative association between Donald Trump and Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The visual identification of Marco Rubio is based on external context and is not clearly verifiable from the video itself, as the person is out of focus in the background."
+  ]
+}

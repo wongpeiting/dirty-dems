@@ -1,0 +1,77 @@
+{
+  "video_id": "7522529786233736461",
+  "visual_action": "Alexandria Ocasio-Cortez speaks passionately at a podium in a legislative chamber, gesticulating for emphasis. The footage is a vertical clip from a C-SPAN broadcast, with a chyron at the bottom identifying her and the context of the debate.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, identified by face and an on-screen chyron."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text at the top of the video reads, \"AOC breaks down Trump's 'No tax on tips' scam:\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The C-SPAN chyron refers to the \"DEBATE RULES FOR GOP TAX & SPENDING CUTS LEGISLATION,\" which is the subject of Ocasio-Cortez's speech."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Ocasio-Cortez mentions him by name, saying the bill's purpose is \"to give Elon Musk a tax break.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AOC breaks down Trump's “No tax on tips” scam:",
+      "role": "overlay"
+    },
+    {
+      "text": "DEBATE RULES FOR GOP TAX & SPENDING CUTS LEGISLATION",
+      "role": "chyron"
+    },
+    {
+      "text": "REP. ALEXANDRIA OCASIO-CORTEZ\nD-New York, 14th District Bronx, Queens",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE C-SPAN U.S. HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "ON THIS POINT OF TAX ON TIPS, AS ONE OF THE ONLY PEOPLE IN THIS BODY WHO HAS LIVED OFF OF TIPS, I WANT TO TELL YOU A LITTLE BIT ABOUT THE SCAM OF THAT TEXT, A LITTLE BIT OF THE FINE PRINT THERE. THE CAP ON THAT IS $25,000. WHILE YOU'RE JACKING UP TAXES ON PEOPLE WHO MAKE LESS THAN $50,000 ACROSS THE UNITED STATES WHILE TAKING AWAY THEIR SNAP, WHILE TAKING AWAY THEIR MEDICAID, WHILE KICKING THEM OFF OF THE ACA AND THEIR HEALTHCARE EXTENSIONS. SO IF YOU'RE AT HOME AND YOU'RE LIVING OFF TIPS, YOU DO THE MATH. IS THAT WORTH IT TO YOU? LOSING ALL YOUR HEALTHCARE, NOT ABLE TO FEED YOUR BABIES, NOT BEING ABLE TO PUT A DIAPER ON THEIR BOTTOM IN EXCHANGE FOR WHAT? THIS BILL IS A DEAL WITH THE DEVIL. IT EXPLODES OUR NATIONAL DEBT. IT MILITARIZES OUR ENTIRE ECONOMY, AND IT STRIPS AWAY HEALTHCARE AND BASIC DIGNITY OF THE AMERICAN PEOPLE FOR WHAT? TO GIVE ELON MUSK A TAX BREAK AND BILLIONAIRES THE GREEDY TAKING OF OUR NATION. WE CANNOT STAND FOR IT AND WE WILL NOT SUPPORT IT.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Drawing on her personal experience working for tips, Alexandria Ocasio-Cortez argues that a Republican proposal to eliminate taxes on tips is a \"scam.\" She states it has a low cap and is paired with broader legislation that would raise taxes on low-income individuals and cut essential services like SNAP and Medicaid. She frames the choice for workers as a \"deal with the devil,\" trading a small benefit for the loss of healthcare and other necessities, all to provide tax breaks for billionaires like Elon Musk.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of Alexandria Ocasio-Cortez's speech for the first ~47 seconds. At that point, a subtle, tense, and ominous instrumental track fades in underneath her voice, building drama as her speech reaches its crescendo.",
+  "editing_pacing": "The video is a single, static shot of Alexandria Ocasio-Cortez speaking, characteristic of a C-SPAN broadcast. Editing is limited to the addition of a framing overlay and dynamic captions that transcribe her speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Outrage",
+    "Empathy"
+  ],
+  "cultural_references": [
+    "deal with the devil"
+  ],
+  "central_claim": "The Republican 'no tax on tips' proposal is a deceptive scam that offers minimal benefits to workers while enabling massive cuts to social programs and providing tax breaks for billionaires.",
+  "intended_effect": "To convince viewers, especially service industry workers, that the Republican tax plan is a harmful trade-off and to foster anger towards the policy and its proponents.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,51 @@
+{
+  "video_id": "7662152524123639054",
+  "visual_action": "A static image displays white text against a plain black background. The text is presented in three separate paragraphs.",
+  "cast": [
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text repeatedly mentions ICE: 'ICE just killed...', 'ICE has killed...', and the final line 'These monsters are sick' refers to them."
+    },
+    {
+      "name": "unnamed 26-year-old father",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'ICE just killed a 26-year-old father in Maine...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ICE just killed a 26-year-old father in Maine while looking for a different person.",
+      "role": "overlay"
+    },
+    {
+      "text": "This is the second time in a week that ICE has killed someone they weren't even looking for.",
+      "role": "overlay"
+    },
+    {
+      "text": "These monsters are sick.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video is silent.",
+  "emojis_present": [],
+  "audio_music": "The video is completely silent.",
+  "editing_pacing": "The video consists of a single, static shot of text on a background.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "outrage",
+    "sympathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "U.S. Immigration and Customs Enforcement (ICE) is a monstrous organization that has wrongly killed two people in one week, including a 26-year-old father, while searching for other individuals.",
+  "intended_effect": "To provoke anger and outrage towards ICE and portray the organization as incompetent and malevolent.",
+  "uncertainty_flags": []
+}

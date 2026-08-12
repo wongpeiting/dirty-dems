@@ -1,0 +1,64 @@
+{
+  "video_id": "7235828503248293166",
+  "visual_action": "The video first shows quick, alternating clips of Kevin McCarthy and Mitch McConnell speaking outdoors to reporters, with text overlaid. It then transitions to a slow-motion shot of President Joe Biden in a suit and sunglasses, walking toward the camera outdoors, also with text overlaid.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown speaking in the opening seconds of the video, identified by face recognition, and is representative of the 'Republicans' plan' mentioned in the on-screen text."
+    },
+    {
+      "name": "Mitch McConnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown speaking, intercut with Kevin McCarthy, identified by face recognition, and is representative of the 'Republicans' plan' mentioned in the on-screen text."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He appears in the second half of the video, identified by face recognition. The on-screen text contrasts his budget with the Republican plan, making him a central figure."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly refers to the \"Republicans' plan\" at the beginning of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans' plan could help make it easier for billionaires and corporations to avoid paying their taxes",
+      "role": "overlay"
+    },
+    {
+      "text": "President Biden's budget ensures no one making under $400k/year will see their federal taxes go up",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of music and sound effects.",
+  "emojis_present": [],
+  "audio_music": "The video begins with a quirky, repetitive, high-pitched musical loop playing over the clips of Republican politicians, creating a mocking or comical effect. At the 5-second mark, it abruptly transitions to the powerful, upbeat R&B track \"Yeah!\" by Usher as Joe Biden appears on screen, creating a stark contrast in tone to one of confidence and swagger.",
+  "editing_pacing": "The first half features very fast cuts between two speakers, timed to the music. The second half consists of a single, continuous slow-motion shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "confidence"
+  ],
+  "cultural_references": [
+    "Yeah! by Usher"
+  ],
+  "central_claim": "The Republican tax plan benefits wealthy billionaires and corporations, while President Biden's budget protects working and middle-class Americans from tax increases.",
+  "intended_effect": "To portray Republican leaders and their policies as foolish and harmful to ordinary people, while positioning President Biden and his policies as strong and beneficial.",
+  "uncertainty_flags": []
+}

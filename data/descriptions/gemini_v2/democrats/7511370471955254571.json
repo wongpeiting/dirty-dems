@@ -1,0 +1,67 @@
+{
+  "video_id": "7511370471955254571",
+  "visual_action": "A static screenshot of a tweet from the account 'No Lie with Brian Tyler Cohen'. The tweet claims that Donald Trump is questioning a project called 'DOGE' that is reportedly costing taxpayers money. Below the text are two side-by-side photos: one of Elon Musk looking concerned and one of Donald Trump with a confused or surprised expression.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears in the tweet text ('Trump is now reportedly asking...') and his photograph is shown."
+    },
+    {
+      "name": "Department of Government Efficiency (DOGE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The acronym 'DOGE' is mentioned in the tweet as a government program that is failing."
+    },
+    {
+      "name": "Brian Tyler Cohen",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is identified as the author of the tweet shown on screen ('No Lie with Brian Tyler Cohen', '@NoLieWithBTC')."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "No Lie with Brian Tyler Cohen ☑️",
+      "role": "overlay"
+    },
+    {
+      "text": "@NoLieWithBTC",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump is now reportedly asking if DOGE is all just “bullshit” after it was revealed that it is on track to cost taxpayers more money than it supposedly saved.",
+      "role": "overlay"
+    },
+    {
+      "text": "“Was it all bullshit?” Trump asked aides.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio; the video is accompanied only by music.",
+  "emojis_present": [],
+  "audio_music": "A short, dramatic electronic track ('Electric Heartbeat' by Nabula) plays throughout the clip, adding a sense of seriousness or tension to the static image.",
+  "editing_pacing": "The video consists of a single, static image with no edits or cuts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "Elon Musk",
+    "Dogecoin"
+  ],
+  "central_claim": "Donald Trump's major government initiative, 'DOGE', is a failure that is wasting taxpayer money, revealing his incompetence.",
+  "intended_effect": "To portray Donald Trump as a foolish and incompetent leader whose projects fail and cost taxpayers.",
+  "uncertainty_flags": [
+    "The exact nature of 'DOGE' as a government program is not clarified; it may be a real future initiative or a satirical invention playing on the 'Dogecoin' cryptocurrency."
+  ]
+}

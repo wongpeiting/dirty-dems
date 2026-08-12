@@ -1,0 +1,95 @@
+{
+  "video_id": "7527313235347901710",
+  "visual_action": "The video displays a static screenshot of a tweet from the account 'FactPost'. The tweet text criticizes House Republicans for blocking the release of the Epstein files. Below the text are two photos: one of Jeffrey Epstein and Donald Trump together, and another of Rep. Virginia Foxx in a hearing room. After a few seconds, the video cuts to a second static screenshot of a tweet from the 'Democrats' account, which accuses Republicans of voting against releasing the Epstein files in order to protect Donald Trump.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photograph of him with Jeffrey Epstein is shown, and the on-screen text in the second tweet explicitly names him: 'They'll pick protecting Trump over serving the American people.'"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photograph with Donald Trump, and the on-screen text in both tweets refers to the 'Epstein files'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweets state 'House Republicans have voted to block...' and 'Republicans lined up to vote against...'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The first tweet mentions 'Democratic efforts' and the second tweet is from the verified account 'Democrats' (@TheDemocrats)."
+    },
+    {
+      "name": "Virginia Foxx",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photo of her is shown on the right side of the first tweet screenshot, illustrating a House Republican."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The first image is a screenshot of a tweet from the account 'FactPost' with the handle '@Factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @Factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "House Republicans have voted to block Democratic efforts to release the Epstein files.",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Last night, Republicans lined up to vote against releasing the Epstein files.",
+      "role": "overlay"
+    },
+    {
+      "text": "They'll pick protecting Trump over serving the American people.",
+      "role": "overlay"
+    },
+    {
+      "text": "Every. Single. Time.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only instrumental background music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, looping instrumental track with a funky bassline and a steady drum beat plays throughout the video. The tone is slightly tense and serious, serving as dramatic background for the political claims being made.",
+  "editing_pacing": "The video is a static slideshow, showing a screenshot of one tweet for the first half and then cutting to a screenshot of a second tweet for the remainder.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "outrage",
+    "distrust"
+  ],
+  "cultural_references": [],
+  "central_claim": "House Republicans are blocking the release of the Jeffrey Epstein files specifically to protect Donald Trump, prioritizing him over the American people.",
+  "intended_effect": "To generate outrage at the Republican Party and Donald Trump, and to foster suspicion about their motives regarding the Epstein case.",
+  "uncertainty_flags": []
+}

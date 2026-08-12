@@ -1,0 +1,65 @@
+{
+  "video_id": "7613107391483088159",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named 'FactPost'. The tweet includes a split image of Donald Trump and a hand pumping gasoline. After a few seconds, the video cuts to a close-up, color-saturated photo of Donald Trump, which remains on screen for the rest of the clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is pictured in the tweet screenshot and in a follow-up close-up photo. The on-screen text of the tweet also names him directly: 'This comes after Trump launched strikes on Iran...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are displayed as the author of the tweet shown in the video."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The tweet text mentions 'Trump launched strikes on Iran'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Average U.S. gas prices have jumped $0.11 overnight, rising to $3.11 a gallon.",
+      "role": "overlay"
+    },
+    {
+      "text": "This comes after Trump launched strikes on Iran, causing sharp rises in crude futures.",
+      "role": "overlay"
+    },
+    {
+      "text": "FACT POST",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of music with a chanted vocal hook.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the high-energy reggaeton track 'Gasolina' by Daddy Yankee, which plays throughout. The song's title, which means 'Gasoline', thematically connects to the video's subject of gas prices, creating a mocking and energetic tone.",
+  "editing_pacing": "The editing is a simple slideshow, consisting of one static screenshot followed by a quick cut to a second static photo.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a fabricated tweet from a non-existent or non-credible news source called 'FactPost' to create a false claim about Donald Trump's impact on gas prices. Additionally, the final photo of Trump appears to be color-saturated to exaggerate his skin tone as a form of visual mockery.",
+  "emotions_signaled": [
+    "Anger",
+    "Alarm",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Gasolina by Daddy Yankee"
+  ],
+  "central_claim": "Donald Trump is responsible for a recent spike in U.S. gas prices due to his actions against Iran.",
+  "intended_effect": "To generate anger towards Donald Trump by blaming him for rising gas prices, and to mock him.",
+  "uncertainty_flags": []
+}

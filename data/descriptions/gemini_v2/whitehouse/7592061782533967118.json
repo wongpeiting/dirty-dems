@@ -1,0 +1,84 @@
+{
+  "video_id": "7592061782533967118",
+  "visual_action": "A montage of various individuals speaking directly to the camera in what appear to be their homes, cars, and outdoors. Many appear emotional. The first woman holds up a small memorial card with a photo of a young woman. The video concludes with a black screen featuring a white line drawing of the White House and text identifying the source.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Multiple speakers thank \"President Trump\" by name throughout the video. The on-screen text reads \"Angel families thank President Trump\"."
+    },
+    {
+      "name": "Nicolás Maduro",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned by name in the on-screen text and audio as having been arrested. Example: \"Thank you, President Trump, for arresting Maduro.\""
+    },
+    {
+      "name": "Jennifer Boss",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The first speaker identifies herself, saying, \"My name is Jennifer Boss\"."
+    },
+    {
+      "name": "Megan Boss",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The first speaker, Jennifer Boss, holds up a memorial card and says, \"this is my daughter, Megan, that we lost earlier this year to fentanyl poisoning.\""
+    },
+    {
+      "name": "Unnamed 'Angel families' members",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Multiple individuals are shown speaking to the camera, sharing stories of losing loved ones to fentanyl. The on-screen text identifies them as \"Angel families\"."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The final screen of the video displays the text \"THE WHITE HOUSE\" above \"PRESIDENT DONALD J. TRUMP\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Angel families thank President Trump for arresting Maduro & saving lives",
+      "role": "overlay"
+    },
+    {
+      "text": "DRUG INDUCED HOMICIDE INC\nWWW.POISONINGOFAMERICA.COM",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE\nPRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A montage of speakers, identifying as parents who have lost children to fentanyl poisoning ('Angel families'), directly address and thank President Donald Trump. They express profound gratitude for his 'decisive actions' against the drug trade, specifically citing the 'arresting [of] Maduro' and efforts to 'secure our border.' They share their personal stories of loss to emphasize the importance of his 'war on drugs,' stating that his actions will save lives. One speaker says, 'I can't thank you enough for putting might where your mouth is.'",
+  "emojis_present": [],
+  "audio_music": "A somber and emotional orchestral score plays continuously under the voices of the speakers, enhancing the poignant and serious tone of the testimonials.",
+  "editing_pacing": "The video is a montage of static, talking-head shots, cutting from one speaker to another. The pacing is slow and deliberate, focusing on the emotional testimonials.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Sorrow",
+    "Pride",
+    "Hope"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump's decisive action in arresting Nicolás Maduro is a significant victory in the war on drugs that protects Americans and earns him the gratitude of families devastated by fentanyl.",
+  "intended_effect": "To evoke sympathy for victims of the fentanyl crisis, generate gratitude towards President Trump, and portray him as a strong leader who takes action to protect the country.",
+  "uncertainty_flags": []
+}

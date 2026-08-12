@@ -1,0 +1,61 @@
+{
+  "video_id": "7624629091114749198",
+  "visual_action": "The video shows a large banner hanging on the Frances Perkins Department of Labor building in Washington D.C. Initially, the banner displays a portrait of Theodore Roosevelt. After a few seconds, a hard cut occurs, and the image on the banner changes to a portrait of Donald Trump. The text on both banners remains the same: 'AMERICA 250 AMERICAN WORKERS FIRST'. The camera slowly zooms out throughout the clip, showing the building's facade, flags, and traffic on the street below.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His portrait is digitally superimposed onto a large banner on a building, and his voice is heard speaking about a Sharpie pen."
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "His portrait is shown on a banner at the beginning of the video, and a historic-sounding speech about leadership, implied to be his, is played."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AMERICA 250",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICAN WORKERS",
+      "role": "overlay"
+    },
+    {
+      "text": "FIRST",
+      "role": "overlay"
+    },
+    {
+      "text": "FRANCES PERKINS DEPARTMENT OF LABOR BUILDING",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio begins with a scratchy, historical-sounding recording of a man speaking about needing 'leaders of inspired idealism' with 'great visions.' This is abruptly cut off and replaced by a clear, modern recording of Donald Trump talking about a pen. He says, 'So this pen is very inexpensive, but it writes well. I like it,' and concludes by mentioning the brand 'Sharpie.'",
+  "emojis_present": [
+    "🫩"
+  ],
+  "audio_music": "The video starts with an archival audio clip of a speech, which has a serious and inspirational tone. This is abruptly cut and replaced by a clear, casually delivered monologue by Donald Trump. The stark contrast between the two audio clips, in both quality and content, is used for a mocking effect.",
+  "editing_pacing": "The editing consists of a single, jarring cut that swaps the image on the banner. The camera employs a slow zoom-out. The pacing is deliberate, designed to highlight the contrast presented by the cut.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is digitally manipulated. The image on a large banner hanging on the Department of Labor building is altered, first showing Theodore Roosevelt and then instantaneously changing to show Donald Trump. This is a visual effect used to create a satirical comparison between the two figures.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "Sharpie"
+  ],
+  "central_claim": "Donald Trump's leadership is mundane and unserious, especially when contrasted with the perceived idealistic vision of past leaders like Theodore Roosevelt.",
+  "intended_effect": "To ridicule Donald Trump and portray him as an unfit and unimpressive leader.",
+  "uncertainty_flags": [
+    "It is implied but not explicitly confirmed that the first speaker is Theodore Roosevelt.",
+    "It is unclear if either of the banners were ever physically displayed on the building, or if both are digital fabrications superimposed on footage of the building."
+  ]
+}

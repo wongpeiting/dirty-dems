@@ -1,0 +1,52 @@
+{
+  "video_id": "7633819195452427550",
+  "visual_action": "The video shows two clips of congresswoman Ilhan Omar. In the first, she is in what appears to be an interview setting. In the second, she is speaking at a podium with flags behind her. The second clip is repeated, zoomed in on, and slowed down.",
+  "cast": [
+    {
+      "name": "Ilhan Omar",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Ilhan Omar is the only person shown in the video, speaking in multiple clips that are edited to mock her."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A chyron on screen reads 'DEMOCRATS HOLD A PRESS...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DEMOCRATS HOLD A PRESS [...]T ENEMIES ACT",
+      "role": "chyron"
+    },
+    {
+      "text": "WORLD WAR 11",
+      "role": "overlay"
+    },
+    {
+      "text": "11?!?!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video combines two clips. In the first, Ilhan Omar says, '...these people are just idiots. The level of stupidity they are displaying every single day is frankly embarrassing,' with one word bleeped out. In the second, her speech is edited to make it sound as if she is saying 'World War 11.' This phrase is repeated multiple times, including in slow motion.",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of speech from two clips. The first clip includes a censor bleep. The audio in the second clip is heavily edited, repeating the phrase 'World War 11' three times, with the final repetition slowed down to create a mocking effect. There is no music.",
+  "editing_pacing": "The video uses cuts between two different scenes, with the second clip being subjected to repetition, quick zooms on Ilhan Omar's face, and a slow-motion effect on the final repetition to emphasize a perceived verbal mistake.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video portrays Ilhan Omar as hypocritical and unintelligent by juxtaposing a clip of her calling others 'idiots' with a deceptively edited clip that makes her appear to say 'World War 11'.",
+  "intended_effect": "To cause the viewer to mock Ilhan Omar and view her as incompetent.",
+  "uncertainty_flags": [
+    "The original, unedited context of Ilhan Omar's statements is not provided, though the audio of her saying 'World War 11' is clearly edited."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "video_id": "7667998858139421966",
+  "visual_action": "A montage of clips from a congressional hearing. Senator Bernie Moreno and another senator are shown asking aggressive questions. Dr. Anthony Fauci is shown at the witness table, repeatedly invoking his Fifth Amendment right to not answer. Other senators like James Lankford and Joni Ernst are visible in the background or in brief cutaways.",
+  "cast": [
+    {
+      "name": "Anthony Fauci",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears throughout the video at a witness table with a nameplate 'ANTHONY FAUCI, M.D.' and is shown speaking."
+    },
+    {
+      "name": "Bernie Moreno",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears asking a question with a nameplate 'SEN. MORENO' visible."
+    },
+    {
+      "name": "Unnamed Senator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The first senator shown speaking, asking 'Do you have the dignity to just say you're sorry?'."
+    },
+    {
+      "name": "James Lankford",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Briefly shown with a nameplate 'SEN. LANKFORD'."
+    },
+    {
+      "name": "Joni Ernst",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A nameplate 'SEN. ERNST' is briefly visible."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ANTHONY FAUCI, M.D.",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. LANKFORD",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. ERNST",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. MORENO",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A senator asks, \"Do you have the dignity to just say you're sorry?\" The video then cuts to a montage of Dr. Anthony Fauci repeatedly invoking his Fifth Amendment right, with his phrases like \"on the advice of counsel\" and \"I respectfully decline\" edited to stutter and repeat. Senator Bernie Moreno then asks, \"Who the fuck do you think you were for doing that?\" The video ends with Fauci again invoking the Fifth Amendment. The audio is heavily manipulated to make Fauci sound evasive and robotic.",
+  "emojis_present": [],
+  "audio_music": "There is no music. The audio consists of dialogue from a congressional hearing. The audio of Anthony Fauci's testimony is heavily edited with fast cuts and repetitions to create a stuttering, glitching effect, mocking his refusal to answer questions.",
+  "editing_pacing": "The video uses extremely fast cuts and repetitive editing (jump cuts) to create a montage of Anthony Fauci repeatedly invoking the Fifth Amendment. This creates a disorienting, stuttering effect to emphasize his non-answers.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video creates a fabricated exchange by splicing together questions from senators with unrelated footage of Anthony Fauci invoking the Fifth Amendment. This creates the false impression that Fauci is directly refusing to answer these specific, aggressive questions under oath, which is a deceptive and misleading representation of the actual hearing.",
+  "emotions_signaled": [
+    "mockery",
+    "anger",
+    "contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "Anthony Fauci is a guilty and evasive figure who is using his Fifth Amendment right to avoid accountability for his alleged wrongdoings.",
+  "intended_effect": "To generate anger, distrust, and contempt for Anthony Fauci and portray him as a criminal refusing to confess.",
+  "uncertainty_flags": [
+    "The video is a composite of different moments from one or more hearings. It is highly likely that the questions shown were not directed at Anthony Fauci, but at a different witness, and have been deceptively edited to appear as a direct confrontation with Fauci."
+  ]
+}

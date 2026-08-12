@@ -1,0 +1,108 @@
+{
+  "video_id": "7536221434952060174",
+  "visual_action": "A young man speaks directly to the camera, standing in front of a white bookshelf. As he talks, a series of graphics appear as overlays to support his points: a line graph showing a spike in water levels, a screenshot of a search for \"JD Vance birthday\" from Wikipedia, and a screenshot of a news article about cuts to national parks.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The entire video is an accusation against JD Vance, who is named repeatedly in the audio (\"JD Vance made government engineers...\") and is shown in a screenshot of a Wikipedia search for his birthday."
+    },
+    {
+      "name": "unnamed narrator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is the person speaking to the camera throughout the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A news headline shown on screen reads \"US national parks staff in 'survival mode' to keep parks open amid Trump cuts\"."
+    },
+    {
+      "name": "Trump administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news article screenshot shown is headlined \"Trump administration\"."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account, and a mug with the party's 'D' logo is visible on the shelf behind the speaker."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MADE GOVERNMENT ENGINEERS RAISE WATER LEVELS IN A RIVER SO THAT HE CAN IMPROVE KAYAKING CONDITIONS FOR HIS BIRTHDAY.",
+      "role": "overlay"
+    },
+    {
+      "text": "IN EMERGENCIES OR FOR MAJOR EVENTS,",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT HE USED TAXPAYER DOLLARS SO HAVE A BETTER BIRTHDAY.",
+      "role": "overlay"
+    },
+    {
+      "text": "REPORTS FROM THE AREA WHERE WATER LEVELS SPIKE,",
+      "role": "overlay"
+    },
+    {
+      "text": "Continuous data\nCaesar Creek near Wellman OH - July 30, 2025 - August 6, 2025\nGage Height (feet)",
+      "role": "overlay"
+    },
+    {
+      "text": "JD Vance birthday",
+      "role": "overlay"
+    },
+    {
+      "text": "JD Vance\nAugust 2, 1984\nDate of birth\nWikipedia",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S LITERALLY ON HIS BIRTHDAY.",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS IS HOW JD VANCE VACATIONS,",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump administration\nUS national parks staff in 'survival mode' to keep parks open amid Trump cuts\nPark bosses say they're running visitor centers and even cleaning bathrooms as remaining staff try to keep sites open",
+      "role": "overlay"
+    },
+    {
+      "text": "MEANWHILE HIS ADMINISTRATION IS DEFUNDING OUR NATIONAL PARKS THAT EVERYDAY FAMILIES VACATION AT.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The narrator accuses JD Vance of misusing taxpayer money by having government engineers raise river water levels for his own birthday kayaking trip. To support this, he shows a graph of a water level spike which he claims occurred on Vance's birthday, verified with a Wikipedia search screenshot. He then contrasts Vance's actions with the Trump administration's defunding of national parks, which he says harms everyday families.",
+  "emojis_present": [],
+  "audio_music": "A man's voice speaks throughout the video. There is no music or other audio.",
+  "editing_pacing": "The video is a static talking-head shot. The editing primarily consists of text and image overlays that appear and disappear to correspond with the narrator's talking points.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "indignation"
+  ],
+  "cultural_references": [
+    "Wikipedia"
+  ],
+  "central_claim": "JD Vance misused his power and taxpayer funds to have government engineers raise a river's water level for his birthday kayaking trip, while the administration he is part of cuts funding for national parks used by ordinary families.",
+  "intended_effect": "To provoke anger towards JD Vance, portraying him as a corrupt and self-serving politician who abuses public resources.",
+  "uncertainty_flags": []
+}

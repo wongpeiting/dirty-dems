@@ -1,0 +1,51 @@
+{
+  "video_id": "7553325856026905911",
+  "visual_action": "A compilation of clips showing Donald Trump speaking at a podium at the United Nations General Assembly (UNGA). Other clips show him and Melania Trump on an escalator that appears to have stopped, and another clip shows him sitting in a chair in front of an American flag, speaking.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium, on an escalator, and sitting in a chair throughout the video."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Shown on an escalator with Donald Trump. He refers to her as 'the first lady' and says she would have fallen if she wasn't in great shape."
+    },
+    {
+      "name": "United Nations",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump repeatedly mentions the 'United Nations' and complains about their facilities (teleprompter, escalator) and lack of assistance."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump mentality at the UNGA.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump complains humorously about the United Nations General Assembly. He starts by noting his teleprompter is broken. He then lists his accomplishments, like ending wars, and states the UN never offered to help. Instead, he says, \"All I got from the United Nations was an escalator that on the way up stopped right in the middle,\" and a broken teleprompter. He jokes that if Melania Trump, \"the first lady,\" wasn't in \"great shape,\" she would have fallen. He concludes by mock-threatening the teleprompter operator, saying they are in \"big trouble,\" which gets a laugh from the audience.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's speech. There are dramatic, low \"boom\" sound effects added at several cuts, particularly when the screen goes black. Laughter from an audience is audible after one of Trump's jokes.",
+  "editing_pacing": "The video uses quick cuts to create a montage of Trump's speech and related B-roll. It repeatedly cuts to a black screen with text, punctuated by a sound effect, before cutting back to Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor",
+    "admiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video portrays Donald Trump as a leader who comically and directly criticizes the incompetence of the United Nations, even while speaking at their own assembly.",
+  "intended_effect": "To amuse the viewer and frame Trump as an authentic, no-nonsense figure who is unafraid to point out flaws in established institutions.",
+  "uncertainty_flags": []
+}

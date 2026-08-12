@@ -1,0 +1,127 @@
+{
+  "video_id": "7649476667873791246",
+  "visual_action": "The video begins with a black screen and an animated icon of a smartphone with the text \"PLEASE ROTATE YOUR PHONE\". It then cuts to a cinematic montage promoting the Artemis III space mission. The visuals include astronauts in orange and blue spacesuits putting on their gear, close-ups of an American flag patch, shots of a massive rocket being assembled and moved to the launchpad, the sun rising over the curve of the Earth from space, and a dramatic rocket launch sequence with enormous plumes of fire and smoke. The video concludes with a reveal of an astronaut in a suit, shots of a spacecraft orbiting Earth, and finally, the Artemis program logo followed by the NASA logo.",
+  "cast": [
+    {
+      "name": "Artemis III Program",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the mission as \"ARTEMIS III\", and the entire video is a promotional trailer for this specific mission."
+    },
+    {
+      "name": "NASA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The official NASA logo is displayed at the end of the video. The Artemis program is a NASA initiative."
+    },
+    {
+      "name": "Unnamed male astronaut",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A bald astronaut in an orange spacesuit is shown speaking at the end of the video, saying, \"This is what it takes if we're going to get the job done.\""
+    },
+    {
+      "name": "Unnamed female speaker",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A female voice is heard narrating, \"We will explore the frontiers of space and push the boundaries of what's possible.\""
+    },
+    {
+      "name": "Unnamed male speaker",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An unidentified male voice narrates at the beginning, stating, \"Everybody understands what's at stake right now.\""
+    },
+    {
+      "name": "Unnamed launch control personnel",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Multiple voices are heard in the style of mission control, giving confirmations such as \"STC is go\" and \"go for launch.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PLEASE ROTATE YOUR PHONE",
+      "role": "overlay"
+    },
+    {
+      "text": "ARTEMIS III",
+      "role": "overlay"
+    },
+    {
+      "text": "ONE OF THE MOST COMPLEX MISSIONS IN HISTORY",
+      "role": "overlay"
+    },
+    {
+      "text": "IN THE GOLDEN AGE OF EXPLORATION",
+      "role": "overlay"
+    },
+    {
+      "text": "OUR NEXT STEP FORWARD ...",
+      "role": "overlay"
+    },
+    {
+      "text": "BEGINS IN EARTH ORBIT",
+      "role": "overlay"
+    },
+    {
+      "text": "JUNE 9",
+      "role": "overlay"
+    },
+    {
+      "text": "MEET",
+      "role": "overlay"
+    },
+    {
+      "text": "THE",
+      "role": "overlay"
+    },
+    {
+      "text": "ARTEMIS III",
+      "role": "overlay"
+    },
+    {
+      "text": "ARTEMIS",
+      "role": "credit"
+    },
+    {
+      "text": "NASA",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a collage of voices over dramatic music, creating the feel of a movie trailer. A male voice emphasizes the high stakes, saying the difference between success and failure is \"measured in months, not years.\" This is intercut with technical, countdown-style audio from launch control personnel confirming systems are \"go for launch.\" An inspirational female voice speaks of exploring \"the frontiers of space.\" Finally, an astronaut states, \"This is what it takes if we're going to get the job done.\"",
+  "emojis_present": [
+    "🚀"
+  ],
+  "audio_music": "The video begins with clicking sound effects. At around 5 seconds, an intense, dramatic, and percussive cinematic score enters and continues throughout the piece. The music swells during key moments, such as the rocket launch, to create a sense of awe, tension, and epic scale.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes of astronauts, rocket assembly, space, and the launch sequence. It uses dramatic lighting, silhouettes, and close-ups to create a cinematic, trailer-like feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "awe",
+    "pride",
+    "excitement",
+    "anticipation"
+  ],
+  "cultural_references": [
+    "The video is stylized to look and sound like a Hollywood science-fiction blockbuster movie trailer."
+  ],
+  "central_claim": "The upcoming Artemis III mission, scheduled for 2027, is a monumental and complex undertaking that represents America's next great step in space exploration.",
+  "intended_effect": "To generate excitement and national pride for the Artemis III mission and to showcase American leadership in space exploration.",
+  "uncertainty_flags": [
+    "The identities of most of the speakers providing narration are not specified.",
+    "The on-screen text \"JUNE 9\" appears without a year, and its specific significance in relation to the mission is unclear."
+  ]
+}

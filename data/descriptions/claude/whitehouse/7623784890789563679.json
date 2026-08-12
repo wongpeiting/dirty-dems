@@ -1,0 +1,73 @@
+{
+  "video_id": "7623784890789563679",
+  "visual_action": "The clip opens with an extreme close-up of a white astronaut helmet with bokeh lights in the background. Cut to a low-angle shot of multiple figures walking in orange NASA launch-entry suits (Advanced Crew Escape Suits), showing only their torsos and legs from below. Next is a tight macro shot of a name patch on an orange suit reading \"VICTOR GLOVER\" with a Navy aviator wings emblem on a blue badge. A subsequent shot shows two helmeted astronauts in orange suits standing against a black background, American flag patches visible on their shoulders. This dissolves to a nearly black frame with faint star-like specks — suggesting open space. Then a brief overexposed/washed-out frame showing what appear to be two rocket nozzle or thruster components symmetrically framed against a pale background. A shot of the upper stage of a large white rocket on a launch pad is shown, prominently bearing \"NASA\" in red worm lettering, the NASA meatball logo, and an \"esa\" (European Space Agency) logo, with mist/vapor around the base. The final frames show a CGI/animated render of a rocket ascending against a black sky with blazing engine exhaust flames visible beneath its engines, consistent with the Space Launch System (SLS) or similar heavy-lift vehicle.",
+  "cast": [
+    {
+      "name": "Victor Glover",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Name patch 'VICTOR GLOVER' with Navy aviator wings visible on orange flight suit"
+    },
+    {
+      "name": "NASA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "NASA worm logo and meatball insignia visible on rocket hardware; NASA flight suits worn by astronauts"
+    },
+    {
+      "name": "European Space Agency (ESA)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "'esa' logo visible on the white rocket upper stage"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VICTOR GLOVER",
+      "role": "other"
+    },
+    {
+      "text": "NASA",
+      "role": "other"
+    },
+    {
+      "text": "esa",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A voiceover — likely President Trump based on the @whitehouse account context — delivers the following: \"It is America's destiny to be at the forefront of humanity's eternal quest for knowledge and to be the leader amongst nations on our adventure into the great unknown. The human soul yearns for discovery by unlocking the mysteries of the universe. We unlock truths within ourselves. We're a nation of pioneers in the next great American frontier of space. And we never completed, but now we start again.\"",
+  "emojis_present": [
+    "🚀",
+    "🇺🇸"
+  ],
+  "audio_music": "Original sound consisting of a dramatic, sweeping orchestral/cinematic score underneath a spoken voiceover. The music builds in intensity alongside the imagery of rocket launch, producing an inspirational, patriotic swell.",
+  "editing_pacing": "Slow, deliberate pacing with cinematic close-up shots and macro detail cuts. The edit uses smooth transitions — dissolves and slow zooms — building toward the rocket launch imagery. The overall feel is a prestige/hype reel rather than fast-cut action.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "awe and wonder — evoked by extreme close-ups of space hardware and the starfield frame",
+    "national pride — American flag patches on suits, NASA branding, and the 'America's destiny' rhetoric",
+    "anticipation and excitement — rocket launch imagery and ascending flames at the close",
+    "inspiration — voiceover language about the 'human soul' and 'pioneers'"
+  ],
+  "cultural_references": [
+    "NASA Artemis program (SLS rocket with NASA/ESA logos, orange ACES suits)",
+    "Classic American 'manifest destiny' and frontier mythology invoked verbally",
+    "Apollo-era nostalgia aesthetic (orange launch suits, dramatic orchestral score)"
+  ],
+  "central_claim": "The United States is reclaiming its destiny as the leader in space exploration, with a crewed NASA mission (featuring astronaut Victor Glover) symbolizing a new era of American pioneering in space.",
+  "intended_effect": "To inspire viewers with a sense of national pride and excitement about American space exploration, framing the mission as a historic and destiny-driven achievement under the current administration.",
+  "uncertainty_flags": [
+    "The speaker delivering the voiceover is not explicitly identified on screen — assumed to be a senior official (likely President Trump) given the @whitehouse account, but cannot be confirmed from visuals alone.",
+    "The specific mission this pertains to is not named on screen — the Victor Glover name patch and NASA/ESA rocket imagery suggest an Artemis-related crewed mission, but the exact mission designation is unclear.",
+    "The final rocket launch frames appear to be CGI/animation rather than live footage — unclear if this is official NASA animation or custom production.",
+    "The overexposed symmetrical frame (sixth keyframe) is ambiguous — could be rocket nozzles or suit hardware; exact identification uncertain.",
+    "Whether this marks an actual launch day ('TODAY' in caption) or a pre-launch promotional video cannot be confirmed from visuals alone."
+  ]
+}

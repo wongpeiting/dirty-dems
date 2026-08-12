@@ -1,0 +1,81 @@
+{
+  "video_id": "7541048892880702733",
+  "visual_action": "A montage of clips shows Donald Trump in various settings (outdoors, in an office, in a hallway) speaking confrontationally to off-screen individuals, presumably reporters. He wears a suit in all clips, and in two outdoor clips, he wears a white 'MAKE AMERICA GREAT AGAIN' hat. The video ends with black and white shots of the White House and a helicopter, with 'THE WHITE HOUSE' text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and is the speaker in every clip."
+    },
+    {
+      "name": "Unnamed reporters",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump repeatedly addresses and insults off-screen individuals, asking 'Who do you work for?' and calling one a 'terrible reporter'."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A reporter identifies themselves as being from CNN, and Trump replies, 'Fake news.'"
+    },
+    {
+      "name": "NBC",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump accuses a reporter of being from NBC, saying, 'It's NBC trying to get off the subject...'"
+    },
+    {
+      "name": "Nerds",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "When asked who they work for, an off-screen voice replies, 'Nerds.' Trump responds, 'I don't even know what the hell that is.'"
+    },
+    {
+      "name": "Up close",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "When asked who they are with, an off-screen voice replies, 'Up close, sir.' Trump replies, 'I thought they died.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video is a compilation of clips where Donald Trump verbally attacks various reporters. He calls them 'not real people,' a 'terrible reporter,' and 'not smart enough.' He dismisses their employers, calling CNN 'fake news' and expressing ignorance or disdain for other outlets mentioned, such as 'Nerds' and 'Up close.' He consistently frames the media as illegitimate and hostile.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from the archival clips. There is no music or added sound effects. The transitions between clips are hard cuts.",
+  "editing_pacing": "The video is a fast-paced montage with quick, hard cuts between different clips of Trump's confrontations with the press.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Contempt",
+    "Aggression",
+    "Derision"
+  ],
+  "cultural_references": [],
+  "central_claim": "The news media is illegitimate and hostile, and Donald Trump is unafraid to confront and belittle them.",
+  "intended_effect": "To reinforce supporters' distrust of the mainstream media and to portray Trump as a strong leader fighting against a biased press.",
+  "uncertainty_flags": [
+    "It is unclear if 'Nerds' and 'Up close' are the actual names of news organizations or if the audio is misheard."
+  ]
+}

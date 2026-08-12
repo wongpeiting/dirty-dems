@@ -1,0 +1,107 @@
+{
+  "video_id": "7428679590488362282",
+  "visual_action": "The video displays a screenshot of a Variety magazine article with a headline announcing that Eminem will introduce Barack Obama at a rally. It then transitions to a split-screen image with Eminem performing on the left and Barack Obama on the right.",
+  "cast": [
+    {
+      "name": "Eminem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is pictured and named in the headline of the on-screen Variety article and in an overlay text reading 'President Obama and Eminem TONIGHT in Detroit'."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is pictured and named in the headline of the on-screen Variety article and in an overlay text reading 'President Obama and Eminem TONIGHT in Detroit'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen Variety article headline: '...at Kamala Harris-Tim Walz Rally...'"
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen Variety article headline: '...at Kamala Harris-Tim Walz Rally...'"
+    },
+    {
+      "name": "Variety",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and masthead of the publication are visible on the article screenshot."
+    },
+    {
+      "name": "Jem Aswad",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Credited as the author of the on-screen article with the byline 'By Jem Aswad'."
+    },
+    {
+      "name": "Travis Shinn",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Credited as the photographer for the photo of Eminem in the article: 'Photo: Travis Shinn'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VARIETY",
+      "role": "other"
+    },
+    {
+      "text": "Subscribe",
+      "role": "other"
+    },
+    {
+      "text": "Eminem to Introduce Barack Obama at Kamala Harris-Tim Walz Rally in Detroit Tonight",
+      "role": "overlay"
+    },
+    {
+      "text": "By Jem Aswad",
+      "role": "credit"
+    },
+    {
+      "text": "Photo: Travis Shinn",
+      "role": "credit"
+    },
+    {
+      "text": "President Obama and Eminem TONIGHT in Detroit 🔥",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a clip from a rap song with the lyrics, '...capture this moment and hope it don't pass you... you lose yourself in the music, the moment you own it, you better never let it go.' There is no dialogue.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "A high-energy, anthemic rap song, which sounds like Eminem's 'Lose Yourself', plays throughout the clip to create a sense of hype and excitement.",
+  "editing_pacing": "The video is a simple slideshow, cutting once from a static image of an article to a static split-screen photo.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "pride"
+  ],
+  "cultural_references": [
+    "Eminem",
+    "The song 'Lose Yourself' by Eminem"
+  ],
+  "central_claim": "Eminem is introducing Barack Obama at a Kamala Harris-Tim Walz rally in Detroit, signaling a major celebrity endorsement to build excitement for the event.",
+  "intended_effect": "To generate hype for a political rally and support for the Harris-Walz campaign by highlighting the participation of a major music star, Eminem, alongside a popular former president, Barack Obama.",
+  "uncertainty_flags": []
+}

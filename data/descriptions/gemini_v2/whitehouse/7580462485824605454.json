@@ -1,0 +1,63 @@
+{
+  "video_id": "7580462485824605454",
+  "visual_action": "The video intercuts shots of the band Village People performing on a large, brightly lit stage with shots of Donald Trump dancing in a seated viewing box area. The band members are in their iconic costumes (cowboy, construction worker, police officer, Native American chief). Trump, wearing a suit and red tie, does his characteristic dance, swaying and punching his fists. Other people are visible around Trump, some smiling. The video ends with a black and white title card showing the text 'THE WHITE HOUSE' over an image of the building's exterior.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown repeatedly, dancing in a viewing box. The on-screen text also reads 'Trump Dance'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account and concludes with a branded title card that reads 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "FIFA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen text reads 'Trump Dance x FIFA World Cup Draw'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump Dance x FIFA World Cup Draw",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio consists of the Village People performing their song \"Y.M.C.A.\" live. The lyrics heard include lines like \"Put your pride on the shelf, then just go there.\"",
+  "emojis_present": [
+    "🕺"
+  ],
+  "audio_music": "An upbeat, high-energy live performance of the song 'Y.M.C.A.' plays throughout the video, creating a celebratory and party-like atmosphere. The audio cuts to silence for the final 'THE WHITE HOUSE' title card.",
+  "editing_pacing": "The video uses quick cuts, alternating between the band's performance on stage and Donald Trump dancing in the audience, creating a parallel between the two actions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "joy",
+    "celebration",
+    "energy"
+  ],
+  "cultural_references": [
+    "Village People",
+    "Y.M.C.A. (song)",
+    "FIFA World Cup"
+  ],
+  "central_claim": "The video associates Donald Trump with the fun, popular, and high-energy atmosphere of a Village People performance at a major international event.",
+  "intended_effect": "To generate positive feelings towards Donald Trump by portraying him as fun-loving, relatable, and popular.",
+  "uncertainty_flags": [
+    "It is unclear if the footage of Donald Trump dancing and the Village People performing are from the same event ('FIFA World Cup Draw') as implied by the on-screen text, or if they are separate clips edited together."
+  ]
+}

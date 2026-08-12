@@ -1,0 +1,73 @@
+{
+  "video_id": "7594555677708750135",
+  "visual_action": "A woman, identified as the press secretary, speaks at a podium to a large crowd of reporters and camera operators outdoors, with the White House visible in the background. The shot is static and filmed from the perspective of someone in the crowd on a sunny day.",
+  "cast": [
+    {
+      "name": "White House Press Secretary",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The speaker is identified as 'Press sec' in the post's caption."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker credits the positive economic news to 'President Trump's economic policies'."
+    },
+    {
+      "name": "NBC",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker says, 'Thank you NBC for this very fair and honest headline.'"
+    },
+    {
+      "name": "Washington Examiner",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker says, 'we have the Washington Examiner out this morning with gas prices.'"
+    },
+    {
+      "name": "The previous administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker contrasts the current economic situation with that 'under the previous administration'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Amazing new economic numbers!",
+      "role": "overlay"
+    },
+    {
+      "text": "Mortgage rates drop below 6% & gas price national average falls to $2.79 per gallon for the first time in nearly 5 years!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The White House Press Secretary announces positive economic news, stating that mortgage rates have fallen below 6% and the national average gas price is down to $2.79 per gallon for the first time in nearly five years. She credits these improvements to \"President Trump's economic policies\" and cites reports from NBC and the Washington Examiner. She contrasts these figures with the economic \"pain points\" under the previous administration.",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "Diegetic audio of the press secretary speaking, with ambient outdoor sounds of the press corps. No music or sound effects are present.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "optimism",
+    "relief"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump's economic policies are successfully lowering key costs for Americans, such as mortgage rates and gas prices.",
+  "intended_effect": "To persuade viewers that the Trump administration is improving the economy and providing financial relief to citizens, thereby generating support.",
+  "uncertainty_flags": []
+}

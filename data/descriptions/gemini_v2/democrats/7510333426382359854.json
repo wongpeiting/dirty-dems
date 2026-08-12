@@ -1,0 +1,62 @@
+{
+  "video_id": "7510333426382359854",
+  "visual_action": "The video is a montage presented in a vertical, split-screen format. It begins with a clip of an unnamed man in a suit asking a question, while the bottom panel shows Donald Trump at a desk. The video then transitions to two panels both showing Donald Trump speaking while seated in a red armchair. The montage concludes with a still photograph of Donald Trump shaking hands with Sean \"Diddy\" Combs.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in multiple video clips and a photograph, and his alleged quotes are displayed on screen."
+    },
+    {
+      "name": "Sean \"Diddy\" Combs",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is referred to as \"Diddy\" in the on-screen text, is the subject of the question posed to Trump, and is shown in a photograph with Trump."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is shown asking a question in the first clip, with the question's text overlaid."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Diddy was a good friend of yours. Would you ever consider pardoning him?",
+      "role": "overlay"
+    },
+    {
+      "text": "People are thinking about it. He used to really like me a lot.",
+      "role": "overlay"
+    },
+    {
+      "text": "You know, Diddy's a good friend of mine.",
+      "role": "overlay"
+    },
+    {
+      "text": "He's a good guy. I'm gonna stick up for him.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video contains no audible dialogue, only music. On-screen text attributes a question to an unnamed man: \"Diddy was a good friend of yours. Would you ever consider pardoning him?\" and several statements to Donald Trump: \"People are thinking about it. He used to really like me a lot,\" \"You know, Diddy's a good friend of mine,\" and \"He's a good guy. I'm gonna stick up for him.\"",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and reverberating instrumental track with choral-like elements plays consistently throughout the video, creating a serious and slightly ominous tone.",
+  "editing_pacing": "The video is edited as a slow-paced montage or slideshow, transitioning between a few static clips and a final still photograph.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disapproval",
+    "suspicion"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump has a close and supportive friendship with Sean \"Diddy\" Combs, a controversial figure whom he has defended and might consider pardoning.",
+  "intended_effect": "To generate disapproval of Donald Trump by highlighting his close association with and supportive comments about Sean \"Diddy\" Combs.",
+  "uncertainty_flags": []
+}

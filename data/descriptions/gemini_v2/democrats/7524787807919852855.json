@@ -1,0 +1,81 @@
+{
+  "video_id": "7524787807919852855",
+  "visual_action": "The video is a montage of clips and a still photo. It begins with a split-screen showing Donald Trump in a meeting, with text attributed to him for the year 2025. Another angle shows Marco Rubio sitting next to Trump. It then cuts to another split-screen from \"last year,\" showing podcaster Lex Fridman in one panel and Donald Trump in another, both speaking into microphones with American flags in the background. The video concludes with a still photograph of Donald Trump and Jeffrey Epstein together.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in multiple clips, and his alleged statements about Jeffrey Epstein are the central subject of the video."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text (\"Are you still talking about Jeffrey Epstein?\") and shown in a photograph with Donald Trump at the end."
+    },
+    {
+      "name": "Lex Fridman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown in a clip from what appears to be a podcast, with the on-screen text attributing a statement about Epstein's client list to him."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown sitting silently next to Donald Trump in one of the opening clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "2025:",
+      "role": "overlay"
+    },
+    {
+      "text": "Are you still talking about Jeffrey Epstein?",
+      "role": "overlay"
+    },
+    {
+      "text": "People still talking about this guy? Do you want to waste the time?",
+      "role": "overlay"
+    },
+    {
+      "text": "last year:",
+      "role": "overlay"
+    },
+    {
+      "text": "It's very strange that the list of clients has not been made public.",
+      "role": "overlay"
+    },
+    {
+      "text": "I'd be inclined to do the Epstein thing. I'd have no problem with it.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. A creepy musical track plays over the visuals, and the narrative is conveyed entirely through on-screen text.",
+  "emojis_present": [],
+  "audio_music": "A slow, ominous, high-pitched horror-style musical score plays consistently throughout the video, creating a suspenseful and sinister tone.",
+  "editing_pacing": "The video uses a slow-paced slideshow style with split-screen juxtapositions and hard cuts between segments. It ends on a still photograph.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Dread",
+    "Concern"
+  ],
+  "cultural_references": [
+    "Lex Fridman Podcast"
+  ],
+  "central_claim": "Donald Trump has suspiciously changed his tune on Jeffrey Epstein, suggesting that if elected in 2025 he would dismiss inquiries into the case after previously claiming he would have 'no problem' with transparency.",
+  "intended_effect": "To generate suspicion and distrust towards Donald Trump regarding his connection to Jeffrey Epstein and his potential handling of the scandal.",
+  "uncertainty_flags": []
+}

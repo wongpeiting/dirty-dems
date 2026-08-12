@@ -1,0 +1,84 @@
+{
+  "video_id": "7566404979070602551",
+  "visual_action": "A meme video using a clip from the cartoon 'SpongeBob SquarePants'. The character Patrick Star, labeled 'MIKE JOHNSON', is sitting lazily in a chair while the character SpongeBob SquarePants, labeled 'AMERICANS', confronts him. SpongeBob presents a briefcase full of sweets, with text labels on them like 'TAX CUTS FOR BILLIONAIRES' and 'HIGHER HEALTH CARE COSTS'. SpongeBob then throws the contents of the briefcase, labeled 'TRUMP'S BILLIONAIRE FIRST AGENDA', at Patrick. The video ends with Patrick covered in the sweets and SpongeBob yelling angrily.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The character Patrick Star is labeled 'MIKE JOHNSON' with on-screen text."
+    },
+    {
+      "name": "Americans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The character SpongeBob SquarePants is labeled 'AMERICANS' with on-screen text."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'DOING WHATEVER TRUMP SAYS' and 'TRUMP'S BILLIONAIRE FIRST AGENDA'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "government shutdown but it's spongebob",
+      "role": "overlay"
+    },
+    {
+      "text": "MIKE JOHNSON",
+      "role": "meme_text"
+    },
+    {
+      "text": "AMERICANS",
+      "role": "meme_text"
+    },
+    {
+      "text": "DOING WHATEVER TRUMP SAYS",
+      "role": "meme_text"
+    },
+    {
+      "text": "TAX CUTS FOR BILLIONAIRES",
+      "role": "meme_text"
+    },
+    {
+      "text": "HIGHER HEALTH CARE COSTS",
+      "role": "meme_text"
+    },
+    {
+      "text": "CUTTING SNAP",
+      "role": "meme_text"
+    },
+    {
+      "text": "TRUMP'S BILLIONAIRE FIRST AGENDA",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The dialogue is from a scene in SpongeBob SquarePants. SpongeBob asks Patrick if lounging around is 'work.' Patrick complains about trivial tasks, calling it hard work. SpongeBob sarcastically sympathizes and then angrily presents Patrick's 'briefcase.' After being hit with its contents, Patrick says, 'So this is the thanks I get for working overtime,' to which SpongeBob furiously screams, 'OVERTIME!'",
+  "emojis_present": [],
+  "audio_music": "The audio consists of dialogue from the cartoon overlaid with upbeat, slightly goofy cartoon-style instrumental music throughout, which enhances the comedic and mocking tone of the scene.",
+  "editing_pacing": "The video uses a continuous clip from a cartoon, with static text labels superimposed over the characters and objects to create a political meme. The editing follows the original pacing of the cartoon scene, with simple cuts between characters speaking.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "anger",
+    "frustration"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants (TV Show)",
+    "SpongeBob SquarePants (character)",
+    "Patrick Star (character)"
+  ],
+  "central_claim": "Mike Johnson, acting on Donald Trump's agenda, is lazy and complains about his job while enacting policies harmful to Americans, such as tax cuts for billionaires and cutting SNAP.",
+  "intended_effect": "To generate mockery and anger towards Mike Johnson and Donald Trump by portraying them as out of touch and actively working against the interests of the American people.",
+  "uncertainty_flags": []
+}

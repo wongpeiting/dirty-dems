@@ -1,0 +1,52 @@
+{
+  "video_id": "7543059822267108663",
+  "visual_action": "A woman stands in a convenience store speaking to the camera. The video intercuts her testimony with black-and-white, stylized security camera footage showing people running through a store, knocking over displays, and creating a mess. B-roll shots show aisles of the store and another customer browsing. The video concludes with a logo card for \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Tamika",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The speaker introduces herself at the beginning of the video: \"My name is Tamika.\""
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a title card that reads \"THE WHITE HOUSE\"."
+    },
+    {
+      "name": "US Government",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker concludes by saying, \"the government needs to step in.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A woman named Tamika shares her traumatic experience of having her store repeatedly vandalized and looted by teenagers. She shows security footage of the incidents and expresses fear and frustration. She criticizes the parents of the teens and says she tries to help hungry kids so they don't have to steal. She concludes by saying that if parents can't hold their children accountable, \"the government needs to step in.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, somber piano score plays under the woman's emotional testimony, creating a serious and sympathetic mood.",
+  "editing_pacing": "The video uses a slow pace, cutting between a static talking-head interview and B-roll, including stylized security camera footage and shots of the store's interior.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sympathy",
+    "fear",
+    "anxiety",
+    "frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Crime committed by unaccountable teenagers is devastating local business owners, and government intervention is required to restore order.",
+  "intended_effect": "To generate concern about crime, sympathy for its victims, and support for government action to address the issue.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,66 @@
+{
+  "video_id": "7550463001766137101",
+  "visual_action": "The video shows a clip from an interview or podcast. Senator Sheldon Whitehouse, an older man with white hair in a tan suit, speaks into a microphone. The video cuts to a younger, blonde woman in a red jacket who listens and reacts. The setting appears to be a studio with a blue backdrop. Dynamic on-screen captions transcribe Whitehouse's speech as he talks.",
+  "cast": [
+    {
+      "name": "Sheldon Whitehouse",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is identified by face recognition and on-screen text as 'Sen. Sheldon Whitehouse' and is the primary speaker throughout the video."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Sheldon Whitehouse refers to 'This rotten bill that the Republicans just passed.'"
+    },
+    {
+      "name": "billionaires",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states 'Billionaires want to be kings,' and Sheldon Whitehouse's argument is centered on them not paying taxes."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "A woman is shown reacting to Sheldon Whitehouse and speaks briefly, asking sarcastically about the 'party of fiscal responsibility.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Sen. Sheldon Whitehouse: Billionaires want to be kings",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Sheldon Whitehouse quotes a Bruce Springsteen song, 'poor man want to be rich, rich man want to be king,' to argue that billionaires want unaccountable power. He criticizes a 'rotten bill' passed by Republicans, claiming it was designed to increase the national debt by $4.1 trillion so that 'their billionaires' don't have to pay taxes for public services like parks and schools. A woman interjects, sarcastically calling the Republicans the 'party of fiscal responsibility.' Whitehouse concludes that when billionaires don't pay their share, the cost in lost services, higher taxes, or increased debt falls on everyone else.",
+  "emojis_present": [
+    "🙂‍↕️"
+  ],
+  "audio_music": "The audio consists entirely of clear dialogue from an interview, with no background music or sound effects.",
+  "editing_pacing": "The video uses a simple talking-head format, cutting between the speaker and an interviewer. Dynamic, word-by-word captions are used to emphasize the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "concern",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Bruce Springsteen"
+  ],
+  "central_claim": "The Republican Party passed a bill that adds trillions to the national debt primarily to ensure that billionaires do not have to pay their fair share of taxes, forcing the financial burden onto ordinary Americans.",
+  "intended_effect": "To provoke anger at Republicans and billionaires for perceived fiscal irresponsibility and unfairness, while positioning Democrats as the party that protects the interests of average citizens.",
+  "uncertainty_flags": [
+    "The identity of the female interviewer is not specified.",
+    "The specific bill being referenced by Sheldon Whitehouse is not named."
+  ]
+}

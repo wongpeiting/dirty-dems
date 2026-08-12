@@ -1,0 +1,94 @@
+{
+  "video_id": "7408963187824954654",
+  "visual_action": "Minnesota Governor Tim Walz and North Carolina Governor Roy Cooper, both wearing suits, stand outside in front of the menu of a Cook Out fast-food restaurant. They are holding milkshakes in white paper cups. Governor Walz tries his shake with a spoon. Governor Cooper drops something and bends down to pick it up.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Identified by face recognition and on-screen text 'Governor Walz'. He is shown speaking and eating a milkshake."
+    },
+    {
+      "name": "Roy Cooper",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Identified by face recognition and on-screen text 'Governor Cooper'. He is shown standing with Governor Walz."
+    },
+    {
+      "name": "Cook Out",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The fast-food restaurant is mentioned by name in the audio (\"So this is my first visit to Cook Out\") and its menu is visible on screen."
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "unknown",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-camera voice asks Governor Walz questions about his milkshake."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Sweet treat with Governor Walz and Governor Cooper 🥤",
+      "role": "overlay"
+    },
+    {
+      "text": "So this is my first visit to Cook Out.",
+      "role": "caption"
+    },
+    {
+      "text": "Governor Cooper said it's the place to go for shakes.",
+      "role": "caption"
+    },
+    {
+      "text": "The place to go for shakes.",
+      "role": "caption"
+    },
+    {
+      "text": "So what do you got there, Governor?",
+      "role": "caption"
+    },
+    {
+      "text": "I got a mint chocolate chip.",
+      "role": "caption"
+    },
+    {
+      "text": "Excellent.",
+      "role": "caption"
+    },
+    {
+      "text": "What do you think?",
+      "role": "caption"
+    },
+    {
+      "text": "Really good.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Governor Tim Walz explains that it's his first time at the fast-food chain Cook Out and that Governor Cooper recommended it for shakes. An off-screen person asks him what flavor he got, and Walz replies, \"I got a mint chocolate chip.\" When asked what he thinks, he says, \"Really good.\"",
+  "emojis_present": [
+    "🥤"
+  ],
+  "audio_music": "The audio consists entirely of dialogue and ambient outdoor sounds. There is no music.",
+  "editing_pacing": "The video is a single, static shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "relatability",
+    "friendliness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democratic governors Tim Walz and Roy Cooper are relatable, down-to-earth figures who enjoy common experiences like getting a milkshake at a regional fast-food chain.",
+  "intended_effect": "To humanize the governors and portray them in a positive, friendly, and accessible light.",
+  "uncertainty_flags": [
+    "The identity of the off-screen speaker asking questions is not specified."
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "video_id": "7531456005708762382",
+  "visual_action": "The video alternates between a clip of Barack Obama signing a document at a desk indoors, surrounded by people including Joe Biden, and a clip of Donald Trump signing a document at a desk outdoors, also surrounded by a group of people. The Obama clip has an 'AP' watermark, and the Trump clip has a chyron at the bottom.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown on screen signing a bill, confirmed by face-ID. The implied context is the signing of the Affordable Care Act."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown on screen signing a bill, confirmed by face-ID. The post's caption implies his action is taking away healthcare."
+    },
+    {
+      "name": "Charles B Rangel",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Barack Obama, confirmed by face-ID."
+    },
+    {
+      "name": "Harry Reid",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Barack Obama, confirmed by face-ID."
+    },
+    {
+      "name": "Henry Waxman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Barack Obama, confirmed by face-ID."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Donald Trump, confirmed by face-ID."
+    },
+    {
+      "name": "Steny Hoyer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Barack Obama, confirmed by face-ID."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Donald Trump, confirmed by face-ID."
+    },
+    {
+      "name": "Doug Burgum",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Donald Trump, confirmed by face-ID."
+    },
+    {
+      "name": "Jim Clyburn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Barack Obama, confirmed by face-ID."
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the crowd behind Donald Trump, confirmed by face-ID."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AP",
+      "role": "other"
+    },
+    {
+      "text": "TEXT \"POTUS\" to 45470 for Updates from the Trump White House",
+      "role": "chyron"
+    },
+    {
+      "text": "healthcare ripped away from 17 million Americans",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. A female vocalist sings lyrics from a song, including 'but I don't belong to anyone' and 'am I ever gonna love again?'.",
+  "emojis_present": [],
+  "audio_music": "A sad, melancholic pop song with female vocals ('David' by Lorde) plays throughout the clip, creating a somber and mournful atmosphere.",
+  "editing_pacing": "The video consists of slow cuts, alternating between footage of Barack Obama and Donald Trump in parallel situations.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "loss",
+    "concern"
+  ],
+  "cultural_references": [
+    "Song 'David' by musician Lorde"
+  ],
+  "central_claim": "Donald Trump's policies are undoing Barack Obama's healthcare achievements, resulting in 17 million Americans losing their healthcare.",
+  "intended_effect": "To evoke sadness and fear about the consequences of Donald Trump's policies and to foster a sense of loss for the accomplishments of the Obama administration.",
+  "uncertainty_flags": []
+}

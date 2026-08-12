@@ -1,0 +1,69 @@
+{
+  "video_id": "7421024412381629739",
+  "visual_action": "The video shows two female debate moderators, with a text overlay attributing a fact-check to them about Haitian migrants in Springfield. It then cuts to a close-up of politician J.D. Vance looking displeased, with angry emojis superimposed above his head and a text overlay claiming the rules were that there would be no fact-checking.",
+  "cast": [
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His name is mentioned in the overlay text 'Vance got mad he was fact-checked' and his face is shown in a close-up."
+    },
+    {
+      "name": "Margaret Brennan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown as a debate moderator for what appears to be a CBS News Vice Presidential Debate. A fact-checking statement is attributed to her via on-screen text."
+    },
+    {
+      "name": "Norah O'Donnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown as a debate moderator for what appears to be a CBS News Vice Presidential Debate."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Vance got mad he was fact-checked 😅",
+      "role": "overlay"
+    },
+    {
+      "text": "Just to clarify for our viewers, Springfield's Haitian migrants have legal status.",
+      "role": "chyron"
+    },
+    {
+      "text": "😡😡",
+      "role": "overlay"
+    },
+    {
+      "text": "The rules were you guys weren't going to fact check!",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An audio clip of a young child's distressed voice is played over the video. She says phrases like \"I don't think this is like right for me,\" \"I don't want to do it,\" and \"I want to go home. I can't take the pressure.\" This audio is not from the political debate shown.",
+  "emojis_present": [
+    "😅",
+    "😡"
+  ],
+  "audio_music": "A tense, electronic music track plays throughout. Over this music, a non-diegetic audio clip of a distressed young child's voice is used for comedic and mocking effect.",
+  "editing_pacing": "A single, simple cut from a medium shot of two moderators to a close-up shot of J.D. Vance.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Two angry-face emojis (😡😡) are digitally superimposed above J.D. Vance's head to mock him and portray him as childishly angry.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The audio of a distressed child saying 'I don't want to do it... I want to go home' is a popular meme sound clip from the reality TV show 'Toddlers & Tiaras'."
+  ],
+  "central_claim": "J.D. Vance became childishly angry after being fact-checked during a debate because he believed it was against the rules.",
+  "intended_effect": "To mock J.D. Vance and portray him as immature and unable to handle factual correction.",
+  "uncertainty_flags": [
+    "The authoritative face-ID context reported 'none detected', but the video clearly shows the faces of J.D. Vance, Margaret Brennan, and Norah O'Donnell."
+  ]
+}

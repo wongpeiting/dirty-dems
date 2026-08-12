@@ -1,0 +1,109 @@
+{
+  "video_id": "7595265190132763959",
+  "visual_action": "A montage shows Donald Trump in various presidential settings: walking on a red carpet, emerging from doors, disembarking Air Force One, and at rallies. This is intercut with text overlays stating \"PROMISES MADE PROMISES KEPT\". A central segment features a rapid scroll of what appear to be user-submitted screenshots displaying low gas prices from many different US states, overlaid on footage of Trump speaking. The video concludes with more shots of Trump, including him dancing, and ends on a black and white image of the White House with the text \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole subject of the video, appearing in nearly every shot."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a logo featuring an image of the White House and the text \"THE WHITE HOUSE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PROMISES MADE",
+      "role": "overlay"
+    },
+    {
+      "text": "PROMISES KEPT",
+      "role": "overlay"
+    },
+    {
+      "text": "Easley, South Carolina $2.25",
+      "role": "overlay"
+    },
+    {
+      "text": "South Mississippi, $2.19",
+      "role": "overlay"
+    },
+    {
+      "text": "Fort Worth TX $1.92",
+      "role": "overlay"
+    },
+    {
+      "text": "Portland, OR $2.92 Costco!",
+      "role": "overlay"
+    },
+    {
+      "text": "Just south of Denver, CO $1.89! Thank you Mr. President!",
+      "role": "overlay"
+    },
+    {
+      "text": "Hawaii-3.79 (The lowest it has ever been in my lifetime!!!)",
+      "role": "overlay"
+    },
+    {
+      "text": "$2.22 in Huntsville, Alabama! Just paid $24 to fill my tank. We love President Trump here!",
+      "role": "overlay"
+    },
+    {
+      "text": "Peoria, IL $2.79 (FINALLY) Trump! 🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "$1.89!",
+      "role": "overlay"
+    },
+    {
+      "text": "43 U.S. STATES",
+      "role": "overlay"
+    },
+    {
+      "text": "WITH GAS PRICES UNDER $3/GALLON",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a high-energy reggaeton song with prominent samples from Daddy Yankee's \"Gasolina.\" There is no spoken dialogue. The provided transcript is incorrect.",
+  "emojis_present": [
+    "🇺🇸",
+    "⚡️"
+  ],
+  "audio_music": "A continuous, high-energy Latin DJ mix plays throughout the video, featuring prominent vocal samples from the reggaeton song \"Gasolina\" by Daddy Yankee. The effect is celebratory and energetic, creating a hype-video feel.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between clips of Donald Trump, animated text overlays, and a rapid scroll of images showing gas prices. The editing is synchronized to the beat of the high-energy music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Celebration",
+    "Patriotism"
+  ],
+  "cultural_references": [
+    "The audio heavily samples the song 'Gasolina' by Daddy Yankee.",
+    "The format of displaying a rapid scroll of user-submitted screenshots or messages is a common social media trend to demonstrate grassroots support or social proof."
+  ],
+  "central_claim": "Donald Trump fulfilled his promises as president, resulting in low gas prices across the majority of the United States.",
+  "intended_effect": "To generate excitement and pride among supporters by showcasing low gas prices as a key achievement of the Trump administration.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is incorrect and does not match the audio of the video.",
+    "The authenticity of the user-submitted screenshots of gas prices cannot be verified from the video alone."
+  ]
+}

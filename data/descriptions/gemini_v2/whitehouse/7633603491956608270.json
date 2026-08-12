@@ -1,0 +1,87 @@
+{
+  "video_id": "7633603491956608270",
+  "visual_action": "A montage shows various scenes of U.S. Border Patrol agents. An agent rides an ATV along a border wall, another speaks at a podium, and others are seen in a classroom setting. There are also scenes of agents interacting positively with the public: posing for photos with a woman in a store, shaking a man's hand at a gas station, and giving supplies to a family with a child. A separate clip shows a crowd of supporters holding signs that say \"WE ❤️ ICE\". A graphic styled as a tweet from X.com is overlaid on every scene.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A graphic of a tweet from the account 'Donald J. Trump @realDonaldTrump' is prominently displayed throughout the video, showing him endorsing an idea."
+    },
+    {
+      "name": "Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlaid tweet discusses changing the name of ICE (National Immigration and Customs Enforcement) to NICE."
+    },
+    {
+      "name": "U.S. Border Patrol",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The agents shown in the montage are wearing uniforms with 'BORDER PATROL' patches clearly visible."
+    },
+    {
+      "name": "alyssa",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The user 'alyssa @alyssamariiee11' is shown as the author of the original tweet that Donald Trump is depicted as replying to."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump\nGREAT IDEA!!! DO IT. President DJT",
+      "role": "overlay"
+    },
+    {
+      "text": "alyssa @alyssamariiee11\nI want Trump to change ICE to NICE (National Immigration and Customs Enforcement) so the media has to say NICE agents all day everyday",
+      "role": "overlay"
+    },
+    {
+      "text": "12:03 AM · 3/25/26 · 850K Views",
+      "role": "overlay"
+    },
+    {
+      "text": "WE ❤️ ICE",
+      "role": "other"
+    },
+    {
+      "text": "WE ❤️ I.C.E.\nMAKE AMERICA SAFE AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "BORDER PATROL",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio is a pop song, not speech. The lyrics include the lines, \"I like it when you're nice, like it when you're nice to me,\" which directly corresponds to the video's theme of rebranding the agency ICE as NICE.",
+  "emojis_present": [
+    "❤️",
+    "🇺🇸"
+  ],
+  "audio_music": "The video features an upbeat, positive-sounding pop song throughout. According to the provided music fingerprint, the track is initially 'Boston' by STELLA LEFTY, changing mid-clip to another track, though the transition is seamless and maintains a consistent gentle, positive tone. The key lyrics sung are 'I like it when you're nice,' which directly aligns with the video's theme.",
+  "editing_pacing": "The video is a montage of different clips, cut together in a slideshow-like fashion with a consistent overlay.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The central element of the video is a graphic designed to look like a screenshot of a post from X.com, showing Donald Trump endorsing a user's suggestion to rename ICE to NICE. This is a staged fake document, whether based on a real tweet or entirely fabricated, used as a narrative device.",
+  "emotions_signaled": [
+    "Pride",
+    "Affection",
+    "Amusement"
+  ],
+  "cultural_references": [
+    "X.com (formerly Twitter)"
+  ],
+  "central_claim": "Federal immigration enforcement agents are friendly, helpful, and liked by the public, and renaming ICE to NICE would force the media to portray them positively.",
+  "intended_effect": "To generate positive sentiment and support for federal immigration and border enforcement agencies and for Donald Trump.",
+  "uncertainty_flags": [
+    "It is uncertain whether the tweet from Donald Trump is a screenshot of a real post or a fabricated graphic created for the video.",
+    "The video visually depicts U.S. Border Patrol agents, but the overlaid text and central theme are about renaming Immigration and Customs Enforcement (ICE), conflating the two distinct agencies."
+  ]
+}

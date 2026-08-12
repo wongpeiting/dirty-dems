@@ -1,0 +1,83 @@
+{
+  "video_id": "7621608560379579679",
+  "visual_action": "The video opens with a close-up of Alexandria Ocasio-Cortez speaking hesitantly at what appears to be a town hall or conference, with 'MSC Townhall' visible on the wall behind her. The sound of crickets is added over her pauses. The video then cuts to a montage of crowded airport scenes, including long lines at security checkpoints, and a sign that reads 'Security Checkpoint TEMPORARILY CLOSED AS OF 3/12/2026,'. This montage has a grainy, scan-line filter applied. The video concludes with a black screen featuring a line drawing of the White House and text.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking at the beginning of the video, with her hesitation emphasized by sound effects."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The narrator repeatedly blames 'Democrats' for airport issues, stating 'Democrats are making flying an awful experience' and 'Thank a Democrat today'."
+    },
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His name appears on the final credit slide: 'PRESIDENT DONALD J. TRUMP'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with a credit screen for 'THE WHITE HOUSE' and is posted by the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MSC Townhall",
+      "role": "other"
+    },
+    {
+      "text": "Wanna Get Away?",
+      "role": "overlay"
+    },
+    {
+      "text": "Security Checkpoint TEMPORARILY CLOSED",
+      "role": "other"
+    },
+    {
+      "text": "AS OF 3/12/2026,",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video begins with edited audio of Alexandria Ocasio-Cortez speaking with many pauses: 'This is such a... policy.' Her speech is overlaid with cricket sound effects. A male narrator then cuts in, using the line 'Wanna get away? Too bad.' He blames Democrats for creating an 'awful experience' for travelers with 'growing TSA lines and unpaid staff' due to a government shutdown and concludes by sarcastically saying, 'Thank a Democrat today.'",
+  "emojis_present": [
+    "✈️"
+  ],
+  "audio_music": "The video starts with Alexandria Ocasio-Cortez's voice, with added sound effects of crickets chirping during her pauses to create a mocking effect. This is followed by a male narrator's voice over a low, ambient drone. An airport-style chime sound effect is heard before the final spoken line.",
+  "editing_pacing": "The video begins with a static shot, then cuts to a fast-paced montage of B-roll footage from a crowded airport. The montage footage has a visual filter with scan lines. The editing is abrupt, cutting from a politician speaking to chaotic scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "frustration",
+    "anger"
+  ],
+  "cultural_references": [
+    "The phrase 'Wanna get away?' is a direct reference to the long-running advertising slogan for Southwest Airlines."
+  ],
+  "central_claim": "The Democratic Party is causing a government shutdown which has resulted in airport chaos and misery for American travelers.",
+  "intended_effect": "To make viewers angry at the Democratic Party for travel disruptions and view them as incompetent.",
+  "uncertainty_flags": []
+}

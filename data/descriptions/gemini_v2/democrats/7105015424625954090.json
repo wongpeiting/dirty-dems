@@ -1,0 +1,51 @@
+{
+  "video_id": "7105015424625954090",
+  "visual_action": "President Joe Biden speaks from behind a podium with two microphones. He is in a medium close-up shot, wearing a suit and tie. An American flag is visible behind him to his left.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen, speaking directly to the camera about gun control legislation."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Biden says, \"the fact that the majority of the Senate Republicans don't want any of these proposals even to be debated... I find unconscionable.\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Biden mentions supporting \"bipartisan efforts that includes a small group of Democrats and Republicans\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden on Republicans Blocking Gun Control Proposals",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "President Biden expresses support for bipartisan efforts on gun control but voices exasperation with Senate Republicans. He states, \"My God, the fact that the majority of the Senate Republicans don't want any of these proposals even to be debated or come up for a vote, I find unconscionable.\" He concludes by saying, \"We can't fail the American people again.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Joe Biden's spoken words from his address. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "frustration",
+    "exasperation",
+    "urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Senate Republicans are unconscionably obstructing any progress on gun control proposals by refusing to even debate them.",
+  "intended_effect": "To generate frustration with Republican lawmakers and build support for President Biden's push for gun control legislation.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,107 @@
+{
+  "video_id": "7534853586958765367",
+  "visual_action": "Texas Representative Jolanda Jones speaks at a panel event. The shot is a medium close-up of her at a table. A C-SPAN chyron is visible at the bottom of the screen, indicating the event is about redistricting and taking place in Albany, NY.",
+  "cast": [
+    {
+      "name": "Jolanda Jones",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The overlay text identifies her as 'Texas Rep. Jolanda Jones'. She is the sole speaker in the video."
+    },
+    {
+      "name": "Greg Abbott",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text states Jones 'calls Gov. Greg Abbott's bluff:'. Jones's entire speech is a rebuttal to unspecified claims made by him."
+    },
+    {
+      "name": "Kathy Hochul",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her name appears in the C-SPAN chyron: 'GOV. HOCHUL (D-NY)'."
+    },
+    {
+      "name": "Texas Dems",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization is mentioned in the C-SPAN chyron: '...AND TEXAS DEMS ON REDISTRICTING'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Texas Rep. Jolanda Jones calls Gov. Greg Abbott's bluff:",
+      "role": "overlay"
+    },
+    {
+      "text": "GOV. HOCHUL (D-NY) AND TEXAS DEMS ON REDISTRICTING",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE • 7:31 pm",
+      "role": "chyron"
+    },
+    {
+      "text": "ALBANY, NY",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "I'M A LAWYER.",
+      "role": "overlay"
+    },
+    {
+      "text": "THERE IS NO FELONY IN THE TEXAS PENAL CODE FOR WHAT HE SAYS.",
+      "role": "overlay"
+    },
+    {
+      "text": "HE'S MAKING UP SOME SHIT.",
+      "role": "overlay"
+    },
+    {
+      "text": "HE'S TRYING TO GET SOUND BITES AND HE HAS NO LEGAL MECHANISM.",
+      "role": "overlay"
+    },
+    {
+      "text": "SUBPOENAS FROM TEXAS DON'T WORK IN NEW YORK,",
+      "role": "overlay"
+    },
+    {
+      "text": "SUBPOENAS IN TEXAS DON'T WORK IN CHICAGO.",
+      "role": "overlay"
+    },
+    {
+      "text": "GET US HOW?",
+      "role": "overlay"
+    },
+    {
+      "text": "SMOKE AND MIRRORS,",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Texas Representative Jolanda Jones, identifying herself as a criminal defense lawyer, refutes claims made by Governor Greg Abbott. She asserts there is no felony in the Texas penal code for the unspecified actions he is referring to, accusing him of \"making up some shit\" for \"sound bites.\" She argues he has \"no legal mechanism\" to act, as Texas subpoenas are not enforceable in other states like New York or Chicago, and calls his threats \"smoke and mirrors.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a person's speech with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static, unedited shot of the speaker (a talking-head clip).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "confidence",
+    "dismissiveness",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Texas Governor Greg Abbott is making legally baseless threats against political opponents purely for media attention, and he has no actual power to follow through on them.",
+  "intended_effect": "To persuade the audience that Greg Abbott's threats are empty bluffs and to portray Jolanda Jones as a knowledgeable and authoritative figure exposing him.",
+  "uncertainty_flags": []
+}

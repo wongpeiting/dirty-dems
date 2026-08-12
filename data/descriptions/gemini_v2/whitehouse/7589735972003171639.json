@@ -1,0 +1,88 @@
+{
+  "video_id": "7589735972003171639",
+  "visual_action": "The video uses the interface of the video game Minecraft. First, in the 'Inventory' screen, an eagle emoji, an American flag emoji, a fire emoji, and a goat emoji appear sequentially in the slots. Then, in the 'Crafting' screen, these four emojis are combined to 'craft' an image of Donald Trump. A hand cursor then drags the Trump image out of the crafting box. This is followed by a montage of clips of Donald Trump at various events: holding up a placard reading 'USA', pointing at the camera on a stage, smiling, signing a document surrounded by clapping people, and walking in front of a fighter jet. A Minecraft-style health and inventory bar is superimposed at the bottom of these clips. The video concludes with a black-and-white title card for 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of the video, symbolically 'crafted' in the opening sequence and featured exclusively in the subsequent montage."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a title card that reads 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "Marsha Blackburn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the background, clapping, while Donald Trump signs a document."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Inventory",
+      "role": "overlay"
+    },
+    {
+      "text": "🦅",
+      "role": "overlay"
+    },
+    {
+      "text": "🇺🇸",
+      "role": "overlay"
+    },
+    {
+      "text": "🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "🐐",
+      "role": "overlay"
+    },
+    {
+      "text": "Crafting",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video is set to a fast-paced, confident female rap song. The lyrics, as provided in the transcript, are boastful and aggressive in tone.",
+  "emojis_present": [
+    "🔥",
+    "🦅",
+    "🇺🇸",
+    "🐐"
+  ],
+  "audio_music": "A continuous, high-energy, and aggressive female rap track plays throughout the video, creating a 'hype' atmosphere.",
+  "editing_pacing": "The video begins with static shots of a game interface and then transitions into a fast-cut montage of various clips of Donald Trump.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video uses the visual interface of the game 'Minecraft' to fabricate a sequence where Donald Trump is symbolically 'crafted' from a combination of an eagle, an American flag, fire, and a goat emoji. Additionally, a 'Minecraft' health and inventory bar is superimposed over real-life footage of Trump.",
+  "emotions_signaled": [
+    "pride",
+    "admiration",
+    "patriotism",
+    "hype"
+  ],
+  "cultural_references": [
+    "Minecraft",
+    "G.O.A.T. meme"
+  ],
+  "central_claim": "Donald Trump is the embodiment of American patriotism and strength, and is the 'Greatest Of All Time' (G.O.A.T.).",
+  "intended_effect": "To generate excitement and admiration for Donald Trump by portraying him as a powerful, patriotic figure using a popular video game meme format to appeal to a younger audience.",
+  "uncertainty_flags": []
+}

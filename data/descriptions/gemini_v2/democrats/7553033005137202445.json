@@ -1,0 +1,83 @@
+{
+  "video_id": "7553033005137202445",
+  "visual_action": "Donald Trump stands at a podium in a formal room, speaking into a microphone. The shot is a medium close-up and remains static throughout the clip. The video is a clip from a C-SPAN broadcast, as indicated by a chyron at the bottom of the screen. The entire video frame is set against a black background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown speaking on screen and his words are the entire subject of the post."
+    },
+    {
+      "name": "Pregnant women",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text overlay reads, \"Trump: Pregnant women should only take Tylenol 'if they can't tough it out'.\" Trump's speech is about this group."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: Pregnant women should only take Tylenol “if they can’t tough it out”",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP MAKES ANNOUNCEMENT ON CHILDHOOD AUTISM",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "THAT'S FOR INSTANCE,",
+      "role": "overlay"
+    },
+    {
+      "text": "EXTREMELY HIGH FEVER",
+      "role": "overlay"
+    },
+    {
+      "text": "CAN'T TOUGH IT OUT,",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU CAN'T DO IT,",
+      "role": "overlay"
+    },
+    {
+      "text": "A TYLENOL,",
+      "role": "overlay"
+    },
+    {
+      "text": "SPARINGLY.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump discusses pregnant women with an \"extremely high fever.\" He suggests that if they feel they \"can't tough it out,\" they will have to take \"a Tylenol,\" but that it should be done \"very sparingly.\" The chyron indicates he is making an announcement on childhood autism.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Donald Trump's unedited speech. There is no music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement. The pacing is dictated by Trump's speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Disbelief",
+    "Alarm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump gave strange medical advice, suggesting pregnant women should try to \"tough it out\" through a high fever before taking Tylenol.",
+  "intended_effect": "To portray Donald Trump as medically ignorant and lacking empathy, undermining his credibility.",
+  "uncertainty_flags": []
+}

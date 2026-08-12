@@ -1,0 +1,75 @@
+{
+  "video_id": "7535502758401658125",
+  "visual_action": "The video starts with a clip of Robert F. Kennedy Jr. speaking, with on-screen text dating the clip to January 2025. It then transitions to a static screen showing a news-style headline dated August 2025, claiming RFK Jr. canceled funding for mRNA vaccine research. The video concludes with a screenshot of a quote attributed to Rick Bright, under an NBC logo, warning about the dangers of cutting mRNA development.",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in the first frame and is the subject of the main on-screen text headline: 'RFK Jr. Cancels $500 Million In Federal Funding For mRNA Vaccine Research'."
+    },
+    {
+      "name": "Rick Bright",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is quoted in the final frame of the video: '\"This isn't just about vaccines,\" Rick Bright, who directed BARDA from 2016 to 2020, said...'"
+    },
+    {
+      "name": "NBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NBC logo appears above the quote from Rick Bright, suggesting it is the source."
+    },
+    {
+      "name": "BARDA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies Rick Bright as having 'directed BARDA from 2016 to 2020'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "JAN 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "I'm not going to take away anybody's vaccines.",
+      "role": "caption"
+    },
+    {
+      "text": "AUG 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "RFK Jr. Cancels $500 Million In Federal Funding For mRNA Vaccine Research",
+      "role": "overlay"
+    },
+    {
+      "text": "\"This isn't just about vaccines,\" Rick Bright, who directed BARDA from 2016 to 2020, said in a text message. \"It's about whether we'll be ready when the next crisis hits. Cutting mRNA development now puts every American at greater risk.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Robert F. Kennedy Jr. says, \"I'm not going to take away anybody's vaccines.\" The rest of the video is silent except for background music.",
+  "emojis_present": [],
+  "audio_music": "After the opening spoken line, a slow, somber piano melody begins and plays for the remainder of the video, creating a serious and worrying tone.",
+  "editing_pacing": "The video uses a slow, slideshow-like pacing, transitioning between a video clip and two static text-based images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video features a staged news headline graphic ('RFK Jr. Cancels $500 Million...') that is not attributed to any real publication. It is created to look like a factual news report to make a political point about a hypothetical or past event.",
+  "emotions_signaled": [
+    "Fear",
+    "Worry",
+    "Distrust"
+  ],
+  "cultural_references": [],
+  "central_claim": "Despite his claims to the contrary, Robert F. Kennedy Jr.'s actions in office would defund vital vaccine research, leaving the nation vulnerable to future health crises.",
+  "intended_effect": "To create distrust in Robert F. Kennedy Jr.'s promises and persuade viewers that his policies on vaccines would be dangerous for the country.",
+  "uncertainty_flags": []
+}

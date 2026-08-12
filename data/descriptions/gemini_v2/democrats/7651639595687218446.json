@@ -1,0 +1,49 @@
+{
+  "video_id": "7651639595687218446",
+  "visual_action": "A slideshow of two still photographs. The first shows Donald Trump and Jeffrey Epstein standing side-by-side, posing for a photo. The second shows the two men in conversation at an event, with Trump gesturing towards Epstein.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in two photographs with Jeffrey Epstein."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in two photographs with Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "baby boy",
+      "role": "overlay"
+    },
+    {
+      "text": "honeybee",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. A female vocalist sings lyrics from the song 'honeybee', including the words \"baby boy\" and \"honeybee\", which also appear on screen.",
+  "emojis_present": [],
+  "audio_music": "A soft, slow, romantic-sounding pop song ('honeybee' by Olivia Rodrigo) plays throughout. The gentle and affectionate tone of the music is juxtaposed with the images to create a sarcastic or insinuating effect.",
+  "editing_pacing": "Slideshow of two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "suspicion",
+    "irony"
+  ],
+  "cultural_references": [
+    "The song 'honeybee' by Olivia Rodrigo is used as the audio."
+  ],
+  "central_claim": "The video implies a close, questionable relationship between Donald Trump and Jeffrey Epstein by ironically pairing their photos with a romantic song and affectionate text.",
+  "intended_effect": "To generate negative sentiment toward Donald Trump by highlighting and satirizing his past association with Jeffrey Epstein.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,51 @@
+{
+  "video_id": "7610635375165443341",
+  "visual_action": "A slideshow of two still images set in what appears to be the chamber of the U.S. House of Representatives. The first image shows Donald Trump in the foreground, with a digitally altered background where a man holds a sign reading \"BLACK PEOPLE ARENT APES!\". The second image shows Representative Al Green from a different angle, standing and pointing a long object at another person.",
+  "cast": [
+    {
+      "name": "Al Green",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text, \"Rep. Al Green interrupting Trump at SOTU, 2026\" and \"Rep. Al Green interrupting Trump at SOTU, 2025\", and is depicted in both images (one of which is manipulated)."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is clearly visible in the foreground of the first image and is named in the on-screen text, \"Rep. Al Green interrupting Trump at SOTU...\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep. Al Green interrupting Trump at SOTU, 2026",
+      "role": "overlay"
+    },
+    {
+      "text": "BLACK PEOPLE ARENT APES!",
+      "role": "other"
+    },
+    {
+      "text": "Rep. Al Green interrupting Trump at SOTU, 2025",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only a musical track.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and melancholic instrumental track plays throughout the video.",
+  "editing_pacing": "The video is a simple slideshow consisting of two still images with a direct cut between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The first image is a digitally manipulated composite. A figure, identified by text as Rep. Al Green, is shown holding a sign reading 'BLACK PEOPLE ARENT APES!'. This figure and sign are crudely superimposed into a photograph of the House chamber, with distorted hands indicating it is a fabrication.",
+  "emotions_signaled": [
+    "outrage",
+    "alarm",
+    "seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "A potential second Trump presidency would be characterized by racial strife and protest, as evidenced by this fabricated depiction of Rep. Al Green confronting Trump at a future State of the Union address.",
+  "intended_effect": "To generate opposition to Donald Trump by associating him with racism and portraying a future presidency under him as chaotic and divisive.",
+  "uncertainty_flags": []
+}

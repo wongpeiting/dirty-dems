@@ -1,0 +1,58 @@
+{
+  "video_id": "7421297405057862942",
+  "visual_action": "Vice President Kamala Harris is seated at the head of a conference table in a meeting room, speaking with several other people. The camera cuts between a wider shot of the table and a medium close-up of Harris as she speaks. The setting appears to be a formal government or community meeting.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the main speaker in the video and is identified by the on-screen text 'VP Harris visiting Georgia'."
+    },
+    {
+      "name": "unnamed Mayor",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man speaks at the beginning of the clip, and Harris responds by saying, 'Thank you, Mayor.'"
+    },
+    {
+      "name": "Helene",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A chyron at the end of the video reads 'HARRIS DISCUSSES RECOVERY AFTER HELENE', indicating the reason for her visit is recovery from an event or person named Helene, likely a major storm."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VP Harris visiting Georgia: I am here to thank you and to listen",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS DISCUSSES RECOVERY AFTER HELENE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An unnamed mayor thanks Vice President Harris for bringing resources. Harris responds by thanking the local people in Augusta, Georgia for their \"extraordinary work.\" She discusses the importance of coordinating local, state, and federal resources to meet the needs of people in a crisis, stating that such moments bring out the best in people. She concludes, \"So I'm here to thank you and to listen.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from a meeting, with no background music or sound effects.",
+  "editing_pacing": "The video uses simple cuts between two static camera angles of a meeting, maintaining a slow, conversational pace.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Reassurance",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Vice President Kamala Harris visited Georgia to thank local workers and listen to their needs regarding recovery efforts after a major event called Helene.",
+  "intended_effect": "To portray the Vice President and the administration as competent, caring, and actively engaged in disaster recovery on a local level.",
+  "uncertainty_flags": [
+    "The identity of 'Helene' is implied to be a storm or disaster, but is not explicitly stated.",
+    "The full name and city of the 'Mayor' who speaks are not provided."
+  ]
+}

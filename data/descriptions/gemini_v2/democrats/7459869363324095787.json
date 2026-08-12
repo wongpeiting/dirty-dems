@@ -1,0 +1,247 @@
+{
+  "video_id": "7459869363324095787",
+  "visual_action": "The video shows a split-screen news clip, apparently from CNN, of a hearing. On the left, Senator Elizabeth Warren is speaking, and on the right, Pete Hegseth is listening and then speaking briefly. The format includes large text overlays that transcribe the dialogue as it's spoken.",
+  "cast": [
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown speaking for the majority of the video, questioning Pete Hegseth."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the subject of Elizabeth Warren's questioning, is named in the on-screen caption, and speaks briefly in response."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Elizabeth Warren states, \"You got a nomination from President Trump.\" The video caption also refers to him as \"Trump's Defense Secretary appointee.\""
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible on the news broadcast footage throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Warren slams Pete Hegseth for saying women should not be in combat",
+      "role": "caption"
+    },
+    {
+      "text": "WHAT I SEE IS",
+      "role": "overlay"
+    },
+    {
+      "text": "THERE IS A 32 DAY PERIOD",
+      "role": "overlay"
+    },
+    {
+      "text": "IN WHICH YOU SUDDENLY",
+      "role": "overlay"
+    },
+    {
+      "text": "HAVE ANOTHER DESCRIPTION ABOUT",
+      "role": "overlay"
+    },
+    {
+      "text": "YOUR VIEWS OF WOMEN",
+      "role": "overlay"
+    },
+    {
+      "text": "IN THE MILITARY.",
+      "role": "overlay"
+    },
+    {
+      "text": "AND I JUST WANT TO KNOW",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT CHANGED IN THE 32 DAYS",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT THE SONG YOU SANG",
+      "role": "overlay"
+    },
+    {
+      "text": "IS NOT THE SONG YOU",
+      "role": "overlay"
+    },
+    {
+      "text": "COME IN HERE TODAY TO SING.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE CONCERNS I HAVE AND THE",
+      "role": "overlay"
+    },
+    {
+      "text": "CONCERNS OF MANY HAVE HAD,",
+      "role": "overlay"
+    },
+    {
+      "text": "ESPECIALLY IN GROUND",
+      "role": "overlay"
+    },
+    {
+      "text": "COMBAT UNITS,",
+      "role": "overlay"
+    },
+    {
+      "text": "IS THAT IN PURSUIT OF CERTAIN",
+      "role": "overlay"
+    },
+    {
+      "text": "PERCENTAGES OR QUOTAS,",
+      "role": "overlay"
+    },
+    {
+      "text": "STANDARDS HAVE BEEN CHANGED AND",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT MAKES THE COMBAT",
+      "role": "overlay"
+    },
+    {
+      "text": "MORE DIFFICULT.",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT LET ME MAKE A SUGGESTION",
+      "role": "overlay"
+    },
+    {
+      "text": "ABOUT WHAT HAPPENED",
+      "role": "overlay"
+    },
+    {
+      "text": "IN THAT 32 DAYS.",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU GOT A NOMINATION",
+      "role": "overlay"
+    },
+    {
+      "text": "FROM PRESIDENT TRUMP.",
+      "role": "overlay"
+    },
+    {
+      "text": "NOW, I'VE HEARD OF DEATHBED",
+      "role": "overlay"
+    },
+    {
+      "text": "CONVERSIONS,",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT THIS IS THE FIRST TIME",
+      "role": "overlay"
+    },
+    {
+      "text": "I'VE HEARD OF A NOMINATION",
+      "role": "overlay"
+    },
+    {
+      "text": "CONVERSION.",
+      "role": "overlay"
+    },
+    {
+      "text": "AND I HOPE YOU UNDERSTAND THAT",
+      "role": "overlay"
+    },
+    {
+      "text": "MANY WOMEN SERVING IN THE",
+      "role": "overlay"
+    },
+    {
+      "text": "MILITARY RIGHT NOW MIGHT THINK",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT IF YOU CAN CONVERT SO",
+      "role": "overlay"
+    },
+    {
+      "text": "RAPIDLY YOUR LONG HELD AND",
+      "role": "overlay"
+    },
+    {
+      "text": "AGGRESSIVELY PURSUED VIEWS",
+      "role": "overlay"
+    },
+    {
+      "text": "IN JUST 32 DAYS,",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT 32 DAYS AFTER YOU",
+      "role": "overlay"
+    },
+    {
+      "text": "GET CONFIRMED,",
+      "role": "overlay"
+    },
+    {
+      "text": "MAYBE YOU'LL JUST REVERSE THOSE",
+      "role": "overlay"
+    },
+    {
+      "text": "VIEWS AND GO BACK TO THE OLD",
+      "role": "overlay"
+    },
+    {
+      "text": "GUY WHO SAID STRAIGHT UP,",
+      "role": "overlay"
+    },
+    {
+      "text": "\"WOMEN DO NOT BELONG IN COMBAT.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "HEGSETH ASKED ABOUT HIS VIEWS ON WOMEN SERVING IN COMBAT ROLES",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Senator Elizabeth Warren confronts Pete Hegseth about an apparent sudden reversal of his views on women serving in combat roles over a 32-day period. Hegseth begins to explain his concerns that standards have been changed to meet quotas, but Warren interrupts. She suggests the reason for his changed view is that he received a nomination from President Trump, calling it a \"nomination conversion.\" Warren expresses doubt that he will maintain this new position after confirmation and might revert to his previous stance that \"women do not belong in combat.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of dialogue from the hearing, with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static split-screen clip from a news broadcast. The primary editing consists of large text overlays that appear in sync with the spoken dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Skepticism",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Pete Hegseth, Donald Trump's nominee for Defense Secretary, is untrustworthy because he opportunistically changed his long-held view that women should not be in combat simply to get confirmed.",
+  "intended_effect": "To persuade the viewer that Pete Hegseth is an untrustworthy and cynical political actor whose nomination by Trump should be opposed.",
+  "uncertainty_flags": []
+}

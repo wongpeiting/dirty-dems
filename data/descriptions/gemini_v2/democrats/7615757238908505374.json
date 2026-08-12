@@ -1,0 +1,125 @@
+{
+  "video_id": "7615757238908505374",
+  "visual_action": "A fast-paced montage of Donald Trump at rallies and speaking, intercut with scenes of fire, destruction, and civil unrest. The video has a heavy red and black color filter and a grainy texture. Towards the end, a black and white photo of a younger Trump with another man, identified by text as Jeffrey Epstein, is shown. Text overlays appear throughout, synchronized with the song lyrics.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears visually throughout the video in multiple clips at rallies and speaking."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "An on-screen text box reads 'TRUMP and EPSTEIN' over a photo of him with Donald Trump."
+    },
+    {
+      "name": "Ben Shapiro",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID. Appears briefly in a heavily filtered, overlaid shot during the montage."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID. Appears briefly in a heavily filtered, overlaid shot during the montage, corresponding with the lyric 'new media'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DON'T WANNA BE AN",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICAN",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICAN IDIOT.",
+      "role": "overlay"
+    },
+    {
+      "text": "DON'T WANT A NATION",
+      "role": "overlay"
+    },
+    {
+      "text": "UNDER THE NEW",
+      "role": "overlay"
+    },
+    {
+      "text": "NEW MEDIA.",
+      "role": "overlay"
+    },
+    {
+      "text": "AND CAN YOU HEAR",
+      "role": "overlay"
+    },
+    {
+      "text": "THE SOUND OF",
+      "role": "overlay"
+    },
+    {
+      "text": "HYSTERIA?",
+      "role": "overlay"
+    },
+    {
+      "text": "THE SUBLIMINAL",
+      "role": "overlay"
+    },
+    {
+      "text": "MINDFUCK",
+      "role": "overlay"
+    },
+    {
+      "text": "MINDFUCK AMERICA.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP and EPSTEIN",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Let me teach you how little girls are supposed to be.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "she was between 13 to 15 years old.",
+      "role": "overlay"
+    },
+    {
+      "text": "\"get this little bitch the hell out of here.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The lyrics from the Green Day song \"American Idiot\" are sung: \"Don't wanna be an American idiot / Don't want a nation under the new media / And can you hear the sound of hysteria? / The subliminal mindfuck America.\"",
+  "emojis_present": [],
+  "audio_music": "The video is set entirely to the fast-paced, aggressive punk rock song \"American Idiot\" by Green Day. The music drives the frantic pace of the editing and creates a critical, rebellious, and alarming tone.",
+  "editing_pacing": "A rapid montage with very fast cuts, zooms, and jarring transitions. The video heavily uses stylistic filters, including high contrast, grain, and a predominantly red-and-black color palette, to create a chaotic and aggressive feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "disgust",
+    "alarm",
+    "contempt"
+  ],
+  "cultural_references": [
+    "Green Day (band)",
+    "American Idiot (song)"
+  ],
+  "central_claim": "The video portrays Donald Trump as the \"American Idiot\" from the Green Day song, associating him with media-fueled hysteria, national chaos, and his connection to Jeffrey Epstein.",
+  "intended_effect": "To generate strong negative feelings (contempt, disgust, alarm) towards Donald Trump by framing him as a dangerous and corrupt figure.",
+  "uncertainty_flags": [
+    "The visual confirmation of Ben Shapiro and Elon Musk, who were identified by the authoritative face-ID service, is difficult due to the rapid editing and heavy visual filters."
+  ]
+}

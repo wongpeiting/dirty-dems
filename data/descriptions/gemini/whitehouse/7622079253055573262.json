@@ -1,0 +1,112 @@
+{
+  "video_id": "7622079253055573262",
+  "visual_action": "Donald Trump stands at a podium on a stage, watching a large screen. The screen plays a clip from what appears to be a CNN broadcast, showing a graphic that reads \"MAGA GOP VIEW OF TRUMP\" with \"APPROVE 100%\" and \"DISAPPROVE 0%\". After the clip, Trump turns back to the podium, claps, and begins to speak to the audience. The background screen changes from an American flag to a blue screen with a repeating logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person on stage speaking for the majority of the video."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible on the news clip played on the large screen."
+    },
+    {
+      "name": "Unnamed male CNN anchor",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "His voice is heard narrating the polling data in the clip being played on the screen."
+    },
+    {
+      "name": "Unnamed female CNN anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visible standing next to the male anchor in the CNN clip."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in the audio and on-screen text of the CNN clip ('MAGA GOP VIEW OF TRUMP')."
+    },
+    {
+      "name": "Republican Party (GOP)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in the audio and on-screen text of the CNN clip ('MAGA GOP VIEW OF TRUMP')."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The funniest President 😂",
+      "role": "overlay"
+    },
+    {
+      "text": "** pulls cnn clip up **",
+      "role": "caption"
+    },
+    {
+      "text": "MAGA GOP VIEW OF TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "APPROVE 100%",
+      "role": "chyron"
+    },
+    {
+      "text": "DISAPPROVE 0%",
+      "role": "chyron"
+    },
+    {
+      "text": "FII Priority",
+      "role": "other"
+    },
+    {
+      "text": "March 25-27, 2025",
+      "role": "other"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video first plays audio from a news clip where a male anchor discusses polling data showing Donald Trump has \"100%\" approval from \"MAGA GOP\" voters, with \"zero percent\" disapproval. The anchor states, \"You can't go higher than 100%.\" Then, Donald Trump speaks, thanking someone for showing the clip. He announces he will take questions and, unlike other politicians, does not want them screened. He tells the audience, \"You can ask me anything you want. You can talk sex... whatever the hell you want.\"",
+  "emojis_present": [
+    "😂"
+  ],
+  "audio_music": "The audio is original sound from a live event, featuring speech from a news clip, followed by Donald Trump's own speech and applause from an audience. There is no music.",
+  "editing_pacing": "The video consists of mostly a single, continuous shot of Trump on stage, typical of a recording of a live event. The pacing is slow and follows the speaker.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Amusement",
+    "Triumph",
+    "Admiration",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "CNN",
+    "MAGA",
+    "1972 Miami Dolphins"
+  ],
+  "central_claim": "Donald Trump enjoys unanimous support from his base and is a uniquely authentic and fearless leader who is entertaining and open to any question.",
+  "intended_effect": "To make the viewer feel amused by Trump's personality, impressed by his supposed overwhelming popularity among supporters, and to see him as confident and transparent.",
+  "uncertainty_flags": [
+    "The authenticity of the CNN clip is uncertain; a 100% approval rating in a poll is extraordinary and may be from a satirical source, a highly specific unrepresentative sample, or a fabricated graphic, although there are no direct visual signs of manipulation in the clip itself."
+  ]
+}

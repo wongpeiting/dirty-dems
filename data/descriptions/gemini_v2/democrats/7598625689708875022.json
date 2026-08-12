@@ -1,0 +1,69 @@
+{
+  "video_id": "7598625689708875022",
+  "visual_action": "A montage of clips showing the interior of an airplane and Senator Ted Cruz walking through an airport pulling a suitcase. Text overlays with song lyrics appear, followed by two news headlines. The first, from The Guardian, reports on Cruz flying to Cancún during a freeze in 2021. The second, from The Texas Tribune, is dated 2026 and predicts a future arctic storm. The video ends with a color-negative effect on the footage of Cruz.",
+  "cast": [
+    {
+      "name": "Ted Cruz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown walking through an airport and is the subject of the caption and on-screen news headlines about his travel during winter storms."
+    },
+    {
+      "name": "The Guardian",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name of the news organization appears on a news headline overlay."
+    },
+    {
+      "name": "The Texas Tribune",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name of the news organization appears on a news headline overlay."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "a different girl now",
+      "role": "overlay"
+    },
+    {
+      "text": "but there's nothing new",
+      "role": "overlay"
+    },
+    {
+      "text": "I KNOW YOU GET DÉJÀ VU",
+      "role": "overlay"
+    },
+    {
+      "text": "The Guardian\n\nTed Cruz flies to Cancún as millions of Texans freeze in the dark\n\n2021",
+      "role": "overlay"
+    },
+    {
+      "text": "THE TEXAS TRIBUNE\n\nAn arctic storm is expected to blanket the state. Here's what Texans can expect.\n\n2026",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is the song 'deja vu' by Olivia Rodrigo. The lyrics heard include 'a different girl now, but there's nothing new' and 'I know you get déjà vu.'",
+  "emojis_present": [],
+  "audio_music": "The pop song 'deja vu' by Olivia Rodrigo plays throughout the video. Its reflective and thematic title is used to underscore the post's message about a repeating pattern of behavior.",
+  "editing_pacing": "A montage with quick cuts between different clips, multiple text and graphic overlays, and a color-inversion effect at the end.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A fabricated news headline graphic from 'The Texas Tribune' dated '2026' is superimposed on the video to satirically predict that Ted Cruz will abandon his state during a future storm, just as he did in 2021.",
+  "emotions_signaled": [
+    "mockery",
+    "criticism",
+    "foreboding"
+  ],
+  "cultural_references": [
+    "The video is set to and themed around the song 'deja vu' by Olivia Rodrigo."
+  ],
+  "central_claim": "Ted Cruz has a pattern of abandoning Texans during winter storms and will do so again in the future.",
+  "intended_effect": "To generate disapproval of Ted Cruz by portraying him as a neglectful politician who will repeat his past controversial actions.",
+  "uncertainty_flags": []
+}

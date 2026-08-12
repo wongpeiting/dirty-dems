@@ -1,0 +1,95 @@
+{
+  "video_id": "7624246160529640717",
+  "visual_action": "A clip from a Fox News program, 'The Ingraham Angle', is shown. A female anchor interviews a male guest, identified as Todd Blanche, in a studio setting. Chyrons and other on-screen graphics are present, typical of a news broadcast. The entire clip is framed within a TikTok interface with a caption at the top.",
+  "cast": [
+    {
+      "name": "Todd Blanche",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A chyron identifies him as 'TODD BLANCHE | U.S. DEPUTY ATTORNEY GENERAL' and his statement is the central focus of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text at the top of the video refers to the speaker as 'Trump's new AG', linking his actions and words to Trump."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The news broadcast and conversation are centered on the release of 'Epstein files' and the legality of having 'partied with Epstein'."
+    },
+    {
+      "name": "Laura Ingraham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is the host of 'The Ingraham Angle' (identified by on-screen text) and is seen interviewing Todd Blanche."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official account @democrats."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's new AG says partying with Epstein is okay 🤨",
+      "role": "meme_text"
+    },
+    {
+      "text": "WASHINGTON, DC",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "DOJ RELEASES MORE EPSTEIN FILES",
+      "role": "chyron"
+    },
+    {
+      "text": "THE INGRAHAM ANGLE",
+      "role": "overlay"
+    },
+    {
+      "text": "TODD BLANCHE | U.S. DEPUTY ATTORNEY GENERAL",
+      "role": "chyron"
+    },
+    {
+      "text": "AS SOME OF THE RALLIES. IS THERE ANY ANY OF THESE INDIVIDUALS WHO PARTIED WITH EPSTEIN AND ENGAGED RELATIONS WITH MINORS PROSECUTED? ANY CHANCE? WELL, LOOK, I'LL NEVER SAY NO AND ALWAYS ANY EVIDENCE MISCONDUCT, KNOW, CRIME TO PARTY WITH MR. EPSTEIN.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An anchor asks Todd Blanche if individuals who 'partied with Epstein and engaged in... relations with minors will be prosecuted.' Blanche responds that while they will always investigate misconduct, 'it is not a crime to party with Mr. Epstein.'",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the news clip with no background music or sound effects.",
+  "editing_pacing": "The video is a single, continuous clip from a news interview, using standard broadcast editing that cuts between the host and her guest. The overall pace is that of a talking-head segment.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "outrage",
+    "disgust"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's appointed Deputy Attorney General, Todd Blanche, states that it is not a crime to associate with Jeffrey Epstein.",
+  "intended_effect": "To generate outrage and portray a potential Trump administration as morally compromised and dismissive of serious criminal associations.",
+  "uncertainty_flags": [
+    "The video presents as fact that Todd Blanche is the 'U.S. DEPUTY ATTORNEY GENERAL' in a Trump administration, a scenario which may or may not be true within the post's 2024-2026 timeframe. While no visual manipulation is apparent, the authenticity of the broadcast's premise is a central and unverified component of the post's claim."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "7593844541233417485",
+  "visual_action": "A slideshow of still photos. The first set of photos shows Donald Trump, Melania Trump, Jeffrey Epstein, and Ghislaine Maxwell together at an event, and Donald Trump with Jeffrey Epstein in two other photos. The same sequence of photos is then shown again, but with a heavy purple color filter applied.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He appears in all the photos shown in the video and is named in the on-screen text and audio."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He appears in photos with Donald Trump and is referred to in the on-screen text and audio as 'a predator'."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She appears in the first photograph alongside Donald Trump, Jeffrey Epstein, and Ghislaine Maxwell."
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She appears in the first photograph alongside Donald Trump, Jeffrey Epstein, and Melania Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "oh 😀",
+      "role": "caption"
+    },
+    {
+      "text": "back when Trump used to hang out with a predator because they were good pals",
+      "role": "overlay"
+    },
+    {
+      "text": "them but in purple",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male narrator reads the on-screen text verbatim: \"Back when Trump used to hang out with a predator because they were good pals. Them but in purple.\"",
+  "emojis_present": [
+    "😀"
+  ],
+  "audio_music": "A low, continuous, and eerie ambient musical track plays in the background throughout the video, creating an ominous tone. The main audio is a male narrator's voice.",
+  "editing_pacing": "A slow-paced slideshow of still photographs.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The same set of photos is shown a second time with a heavy purple color filter applied, a stylistic choice explicitly mentioned in the on-screen text and audio ('them but in purple').",
+  "emotions_signaled": [
+    "disgust",
+    "condemnation",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The structure of repeating the images with a simple change, accompanied by the text 'them but in purple,' follows the 'X but in Y' meme format."
+  ],
+  "central_claim": "Donald Trump had a close friendship with Jeffrey Epstein, who is described as a 'predator,' implying Trump's poor character by association.",
+  "intended_effect": "To make the viewer feel disgust and disapproval towards Donald Trump for his past association with Jeffrey Epstein.",
+  "uncertainty_flags": []
+}

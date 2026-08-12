@@ -1,0 +1,57 @@
+{
+  "video_id": "7662095008203312398",
+  "visual_action": "An IndyCar race car, decorated in red, white, and blue with stars, pulls into a simulated pit stop on a street directly in front of the White House. A pit crew, wearing blue shirts with \"Freedom 250\" logos, quickly changes the tires. Several men, including one who resembles Donald Trump, watch from a podium area under a white awning. After the pit stop, the car speeds away, leaving a cloud of tire smoke. Camera crews are present filming the event.",
+  "cast": [
+    {
+      "name": "Freedom 250 Grand Prix",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The name 'Freedom 250 Grand Prix' is featured prominently on the race car, the pit crew's uniforms, the pit wall, and a large banner in front of the White House."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man strongly resembling Donald Trump is visible from a distance standing at a podium in front of the White House, watching the event."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Freedom 250 Grand Prix",
+      "role": "overlay"
+    },
+    {
+      "text": "Freedom 250",
+      "role": "overlay"
+    },
+    {
+      "text": "INDYCAR",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue, only a background music track with sung lyrics.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, driving country/southern rock song plays throughout the video, creating an energetic, powerful, and patriotic atmosphere that complements the visuals of American auto racing at the White House.",
+  "editing_pacing": "The video consists of a few long takes, primarily a single continuous shot that pans to follow the race car as it arrives, gets serviced, and departs. This gives the feel of live event coverage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Excitement",
+    "Awe"
+  ],
+  "cultural_references": [
+    "IndyCar racing",
+    "Firestone (brand)"
+  ],
+  "central_claim": "The Republican party is associated with a powerful and patriotic display of American motorsports excellence at the White House.",
+  "intended_effect": "To evoke feelings of national pride and excitement, and to associate the Republican party with impressive, uniquely American events.",
+  "uncertainty_flags": [
+    "The identification of Donald Trump is based on visual appearance from a distance, as he was not detected by automated face recognition."
+  ]
+}

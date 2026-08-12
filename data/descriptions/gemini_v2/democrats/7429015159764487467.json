@@ -1,0 +1,104 @@
+{
+  "video_id": "7429015159764487467",
+  "visual_action": "The video opens with a title card showing a spooky haunted house illustration with the text \"REPUBLICAN HAUNTED HOUSE\". It then cuts to a series of still images presented as exhibits in this \"haunted house\": a photo of Donald Trump, the cover of the \"Mandate for Leadership\" book for Project 2025, a map of the U.S. showing states with abortion bans with a banner that reads \"TRUMP DID THIS.\", and finally a photo of JD Vance looking into a bakery display case. Each image has a text overlay identifying the subject.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photo, identified by on-screen text \"Donald Trump\", and is explicitly blamed for abortion bans with the text \"TRUMP DID THIS.\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is framed by the title card \"REPUBLICAN HAUNTED HOUSE\"."
+    },
+    {
+      "name": "Project 2025",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A slide is dedicated to \"Project 2025\", showing the cover of its \"Mandate for Leadership\" book, presenting it as a key scary policy plan."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in a single photo at the end of the video with the overlay \"JD Vance trying to order a donut 😳\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "REPUBLICAN HAUNTED HOUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald Trump 😱",
+      "role": "overlay"
+    },
+    {
+      "text": "Project 2025 😨",
+      "role": "overlay"
+    },
+    {
+      "text": "Mandate for Leadership",
+      "role": "other"
+    },
+    {
+      "text": "The Conservative Promise",
+      "role": "other"
+    },
+    {
+      "text": "Abortion bans 💔",
+      "role": "overlay"
+    },
+    {
+      "text": "ABORTION BANS ACROSS THE UNITED STATES",
+      "role": "overlay"
+    },
+    {
+      "text": "• Abortion ban in effect as of May 1, 2024",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP DID THIS.",
+      "role": "overlay"
+    },
+    {
+      "text": "JD Vance trying to order a donut 😳",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video begins with a male voice saying, \"Oh come on, it's just a bunch of hocus pocus.\" This is immediately followed by a cacophony of sounds including a woman screaming, another voice yelling \"There's nobody admits anything they've done!\", and other indistinct shouting, all layered over loud music.",
+  "emojis_present": [
+    "😱",
+    "😨",
+    "💔",
+    "😳"
+  ],
+  "audio_music": "The video starts with a dialogue clip. After about two seconds, a loud, intense, and distorted electronic rock track begins and plays for the remainder of the clip. Layered on top of the music are sound effects of screaming and additional frantic dialogue, creating a chaotic and alarming haunted house atmosphere.",
+  "editing_pacing": "The video consists of very fast cuts between a series of still images, creating a rapid slideshow effect. There is a glitchy, distorted visual filter applied to the on-screen text.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "fear",
+    "alarm",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Hocus Pocus"
+  ],
+  "central_claim": "The Republican party's platform, led by Donald Trump and including Project 2025 and abortion bans, is a collection of scary policies analogous to a haunted house.",
+  "intended_effect": "To evoke fear and alarm about the Republican platform and motivate opposition to it.",
+  "uncertainty_flags": [
+    "The source of the screaming audio and the line 'There's nobody admits anything they've done!' could not be identified."
+  ]
+}

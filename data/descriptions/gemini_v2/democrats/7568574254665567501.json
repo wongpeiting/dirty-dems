@@ -1,0 +1,50 @@
+{
+  "video_id": "7568574254665567501",
+  "visual_action": "The video is a slideshow of still images and one short clip. It opens on a photo of Donald Trump smiling while seated at a table during an indoor event. This is followed by a still image from the movie \"The Hunger Games\" showing the character President Snow on a balcony. The video then shows a wider shot of Trump at the same event, then a still of characters from \"The Hunger Games\" in lavish outfits. A brief video clip then shows the party, featuring attendees in 1920s-style attire and a woman with a large feather fan, with Trump visible at a table. The video concludes with another still from \"The Hunger Games\" depicting a large, opulent party at a mansion.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown in multiple photos at a party."
+    },
+    {
+      "name": "Americans",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text mentions that the party is happening \"while americans lose SNAP and healthcare\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "great gatsby party at mar-a-lago while americans lose SNAP and healthcare btw",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists solely of a song.",
+  "emojis_present": [],
+  "audio_music": "A somber, atmospheric song with a female vocalist plays throughout the video. The music creates a stark, critical contrast with the images of the lavish party.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images, intercut with one brief video clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "resentment",
+    "sense of injustice"
+  ],
+  "cultural_references": [
+    "The Great Gatsby",
+    "The Hunger Games",
+    "President Coriolanus Snow",
+    "Katniss Everdeen",
+    "Peeta Mellark",
+    "Effie Trinket"
+  ],
+  "central_claim": "Donald Trump is hosting a decadent, out-of-touch party similar to those in \"The Great Gatsby\" and \"The Hunger Games\" while ordinary Americans are losing essential benefits like SNAP and healthcare.",
+  "intended_effect": "To generate anger towards Donald Trump by portraying him as a cruel elite who is indifferent to the struggles of common people.",
+  "uncertainty_flags": []
+}

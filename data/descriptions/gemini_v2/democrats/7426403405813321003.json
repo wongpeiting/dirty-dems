@@ -1,0 +1,59 @@
+{
+  "video_id": "7426403405813321003",
+  "visual_action": "A close-up, static shot shows Donald Trump speaking at a microphone. He is wearing a dark suit, a white shirt, and a red tie. The background is dark and out of focus.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown on screen for the entire video, speaking at a podium."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Donald Trump refers to 'the Black president', which is a clear reference to Barack Obama, the only Black U.S. president."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "And then I go and spoil it all,",
+      "role": "caption"
+    },
+    {
+      "text": "by saying something stupid like...",
+      "role": "caption"
+    },
+    {
+      "text": "Would you rather have the Black president or the white president who got $1.7 billion off the price?",
+      "role": "caption"
+    },
+    {
+      "text": "I think they want the white guy",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The video opens with a song's lyrics: \"And then I go and spoil it all, by saying something stupid like...\". It then cuts to Donald Trump speaking, asking an audience, \"Would you rather have the Black president or the white president who got $1.7 billion off the price?\" He concludes, \"I think they want the white guy.\"",
+  "emojis_present": [],
+  "audio_music": "The video starts with a slow, gentle song with female vocals ('Something Stupid' by Jennifer Lawrence, Edgar Ramirez) playing over a shot of Trump. The lyrics are used to frame his upcoming comments as 'stupid'. The music stops abruptly when Trump begins to speak, and there is no music for the remainder of the clip.",
+  "editing_pacing": "The video consists of a single, static talking-head shot of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval",
+    "criticism"
+  ],
+  "cultural_references": [
+    "Something Stupid (song)",
+    "Jennifer Lawrence",
+    "Edgar Ramirez"
+  ],
+  "central_claim": "Donald Trump made a racially charged statement by asking an audience if they would prefer 'the Black president' or 'the white president,' implying they would choose the latter.",
+  "intended_effect": "To portray Donald Trump as foolish and racist by using a song about 'saying something stupid' to frame his racially divisive comments.",
+  "uncertainty_flags": []
+}

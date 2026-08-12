@@ -1,0 +1,65 @@
+{
+  "video_id": "7551457706465365262",
+  "visual_action": "Marco Rubio is shown sitting at a table with a nameplate that reads 'MARCO RUBIO SECRETARY OF STATE'. He tells a joke about having four jobs, which elicits loud laughter from an unseen audience. Rubio smiles and laughs along. A screenshot of a tweet from JD Vance is overlaid on the video. The video concludes with a black-and-white montage of the White House and a helicopter.",
+  "cast": [
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking throughout the clip, and his name is visible on a nameplate in front of him: 'MARCO RUBIO'."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name and Twitter handle (@JDVance) are visible on a tweet screenshotted and overlaid on the video."
+    },
+    {
+      "name": "ABC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The organization is mentioned in the overlaid tweet from JD Vance, which refers to \"ABC's late night show\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "JD Vance ✓ @JDVance\nEveryone please congratulate @marcorubio, the new host of ABC's late night show!",
+      "role": "overlay"
+    },
+    {
+      "text": "MARCO RUBIO\nSECRETARY OF STATE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Marco Rubio tells a self-deprecating joke, saying, \"For me personally, this is the most meaningful Labor Day of my life as someone with four jobs.\" The joke is met with widespread laughter from the audience, and Rubio smiles and adds, \"It's true.\"",
+  "emojis_present": [
+    "🤣"
+  ],
+  "audio_music": "The audio consists solely of Marco Rubio's speaking voice followed by loud, sustained laughter from an audience. There is no music.",
+  "editing_pacing": "The video primarily uses a static, medium shot of the speaker. It cuts at the end to a brief, black-and-white montage that serves as an outro.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Humor",
+    "Amusement",
+    "Positive framing of a political figure"
+  ],
+  "cultural_references": [
+    "The format of a late-night talk show on ABC is referenced in the overlaid tweet to praise Rubio's comedic timing."
+  ],
+  "central_claim": "Marco Rubio, as Secretary of State, is a charismatic and humorous public speaker whose comedic delivery is comparable to that of a late-night show host.",
+  "intended_effect": "To portray Marco Rubio as a relatable, witty, and charismatic figure, generating positive sentiment and amusement.",
+  "uncertainty_flags": [
+    "The provided transcript says Rubio said 'liberty,' but the audio clearly sounds like 'Labor Day,' which fits the context of the joke about jobs."
+  ]
+}

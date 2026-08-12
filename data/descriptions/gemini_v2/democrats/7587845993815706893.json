@@ -1,0 +1,73 @@
+{
+  "video_id": "7587845993815706893",
+  "visual_action": "A slideshow of three still photographs. The first shows Barack Obama standing next to Santa Claus. The second shows Joe and Jill Biden sitting together smiling in front of a large, decorated Christmas tree. The third shows Barack and Michelle Obama, dressed formally, walking hand-in-hand down a hallway decorated with Christmas trees.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in two photographs, one with Santa Claus and one with Michelle Obama, in a Christmas-themed video from the Democratic party."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a photograph with Jill Biden, sitting in front of a Christmas tree."
+    },
+    {
+      "name": "Jill Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a photograph sitting next to Joe Biden."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a photograph walking with Barack Obama."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video was posted by the official @democrats account, featuring prominent Democratic figures."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Merry Christmas! 🎄",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it only contains music.",
+  "emojis_present": [
+    "🎄"
+  ],
+  "audio_music": "An upbeat, classic holiday pop song, identified as 'Last Christmas' by Wham!, plays throughout the entire video, creating a festive and cheerful atmosphere.",
+  "editing_pacing": "The video is a slow-paced slideshow of three still photographs.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Holiday cheer",
+    "Nostalgia",
+    "Warmth"
+  ],
+  "cultural_references": [
+    "Santa Claus",
+    "Christmas",
+    "Last Christmas by Wham!"
+  ],
+  "central_claim": "Democratic presidents and their families celebrate Christmas, embodying festive and positive holiday values.",
+  "intended_effect": "To evoke feelings of warmth and holiday cheer, and to associate those positive emotions with the Democratic party and its leaders.",
+  "uncertainty_flags": []
+}

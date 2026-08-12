@@ -1,0 +1,59 @@
+{
+  "video_id": "7114056770590346542",
+  "visual_action": "President Joe Biden is shown in a medium close-up, speaking directly to the camera from behind a lectern. He is in a formal room with wood-paneled walls. The shot is static throughout the clip.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and speaks for the entire duration of the video. The on-screen text identifies him as 'President Biden'."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly frames the video as 'President Biden on the GOP's decades-long assault on abortion rights'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Biden states, 'It was three justices named by one president, Donald Trump, who were the core of today's decision...'"
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Biden refers to the decision as a 'tragic error by the Supreme Court' and discusses what 'the court has done'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden on the GOP's decades-long assault on abortion rights",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "President Joe Biden addresses a Supreme Court decision on abortion, attributing it to three justices appointed by Donald Trump. He describes the ruling as the culmination of a 'deliberate effort over decades' and an 'extreme ideology.' Biden characterizes the decision as a 'tragic error by the Supreme Court,' stating that the court has done something unprecedented by 'expressly tak[ing] away a constitutional right' and warns it will have 'real and immediate consequences.'",
+  "emojis_present": [],
+  "audio_music": "The video consists entirely of unaltered speech from Joe Biden. There is no music or other audio.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "concern",
+    "indignation"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Supreme Court's overturning of abortion rights is the direct result of a long-term, deliberate political strategy by the GOP, specifically actualized by Donald Trump's judicial appointments.",
+  "intended_effect": "To persuade viewers to blame the Republican Party and Donald Trump for the loss of abortion rights and to feel a sense of urgency and concern about the decision's consequences.",
+  "uncertainty_flags": []
+}

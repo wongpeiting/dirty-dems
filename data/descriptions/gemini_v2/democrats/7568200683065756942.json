@@ -1,0 +1,57 @@
+{
+  "video_id": "7568200683065756942",
+  "visual_action": "The video first shows a still image of Melania Trump taking a selfie in a mirror with a text overlay. It then cuts to a screenshot of a text message conversation on a blue background. The sender is identified as 'MT'. An outgoing message asks if they want to tweet about peaceful protests but condemn violence. The reply is a one-word message: 'No'.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of her is shown at the start, and the video's focus is a text message exchange from 'MT' in which she allegedly refuses to condemn Jan. 6 violence."
+    },
+    {
+      "name": "unnamed aide",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The sender of the text message asking 'MT' to tweet a condemnation of violence, whose message is shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "sometimes you gotta read a text you get on january 6, 2021 and move on with your day",
+      "role": "overlay"
+    },
+    {
+      "text": "MT",
+      "role": "other"
+    },
+    {
+      "text": "Do you want to tweet that peaceful protests are the right of every American, but there is no place for lawlessness & violence?",
+      "role": "other"
+    },
+    {
+      "text": "No",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber lofi piano track plays consistently throughout the video, creating a serious and contemplative mood.",
+  "editing_pacing": "Slideshow style, showing a static image followed by a static screenshot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Contempt",
+    "Mockery",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Melania Trump refused a request to tweet a condemnation of lawlessness and violence on January 6, 2021, showing callous indifference to the event.",
+  "intended_effect": "To generate negative sentiment and contempt towards Melania Trump by portraying her as callous and unconcerned about the violence on January 6th.",
+  "uncertainty_flags": [
+    "The authenticity of the text message screenshot is presented as fact but not sourced within the video itself."
+  ]
+}

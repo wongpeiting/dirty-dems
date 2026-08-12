@@ -1,0 +1,49 @@
+{
+  "video_id": "7636512852118916366",
+  "visual_action": "The video starts with a clip of Donald Trump sitting at a desk, flanked by several people, speaking. It then cuts to a slideshow of three still photographs of Trump: one on a golf course in a black jacket and white 'USA' hat, another waving in a suit, and a third mid-swing on a golf course in a light grey jacket and red 'MAKE AMERICA GREAT AGAIN' hat.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the speaker in the initial clip and the subject of all photos shown."
+    },
+    {
+      "name": "Robert F Kennedy Jr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by external face recognition as one of the several people standing in the background behind Donald Trump in the opening scene."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“I work out one minute a day max.”\nYeah we can tell 💀",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"I work out so much, like about one minute a day max.\"",
+  "emojis_present": [
+    "💀"
+  ],
+  "audio_music": "The audio begins with Donald Trump's voice. His statement is followed by a cut to a photo accompanied by a loud, jarring, buzzing sound effect. After a brief pause, the next photo is accompanied by a squishy, cartoon-like sound effect. The sounds are used for mocking, comedic effect.",
+  "editing_pacing": "The video consists of a single static shot of a person speaking, followed by a slow-paced slideshow of three still photos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disdain"
+  ],
+  "cultural_references": [
+    "The skull emoji '💀' is used as internet slang to express that something is extremely funny or embarrassing."
+  ],
+  "central_claim": "Donald Trump's claim that he works out is unbelievable given his physical appearance.",
+  "intended_effect": "To mock Donald Trump, portraying him as physically unfit and dishonest about his habits.",
+  "uncertainty_flags": [
+    "The presence of Robert F Kennedy Jr. is based on the provided face-ID context; he is not individually identifiable as a background figure in the video itself.",
+    "The provided music fingerprint data (Air — Dj Mimmo; Monday — Og Gansta) appears to be incorrect, as the audible audio consists of speech and distinct comedic sound effects, not background music tracks."
+  ]
+}

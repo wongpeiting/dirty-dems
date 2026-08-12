@@ -1,0 +1,118 @@
+{
+  "video_id": "7430981527795682603",
+  "visual_action": "Musician John Legend is on stage at a political rally in front of a crowd. He speaks into a microphone, leading the audience in a chant. The crowd behind him holds up blue campaign signs, some of which read \"HARRIS WALZ\" and \"FREEDOM\". After speaking, he sits down at a grand piano and begins to play and sing.",
+  "cast": [
+    {
+      "name": "John Legend",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown speaking and performing. On-screen text at the beginning identifies him by name: \"John Legend: 'When we fight we win!'\""
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "John Legend refers to \"our future president\" at a rally where signs for \"HARRIS WALZ\" are visible. The post is from the @democrats account."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Campaign signs held by the crowd read \"HARRIS WALZ\"."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video was posted by the official @democrats account and features a rally for its candidates."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "John Legend: “When we fight we win!” 🥶⬇️⬇️",
+      "role": "overlay"
+    },
+    {
+      "text": "LIKE",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT",
+      "role": "overlay"
+    },
+    {
+      "text": "WHEN",
+      "role": "overlay"
+    },
+    {
+      "text": "FIGHT",
+      "role": "overlay"
+    },
+    {
+      "text": "WIN",
+      "role": "overlay"
+    },
+    {
+      "text": "FIGHT",
+      "role": "overlay"
+    },
+    {
+      "text": "WIN",
+      "role": "overlay"
+    },
+    {
+      "text": "WE",
+      "role": "overlay"
+    },
+    {
+      "text": "FIGHT",
+      "role": "overlay"
+    },
+    {
+      "text": "WIN",
+      "role": "overlay"
+    },
+    {
+      "text": "PHILADELPHIA",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "FREEDOM",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "John Legend addresses the crowd, saying, \"Like our future president says, when we fight we win!\" He then leads the crowd in a call-and-response chant of \"When we fight, we win!\" three times. He concludes with, \"Let's win, Philadelphia,\" before sitting at a piano and beginning to sing the opening lines of the song \"Glory.\"",
+  "emojis_present": [
+    "🥶",
+    "⬇️"
+  ],
+  "audio_music": "The video begins with the sounds of a live political rally: John Legend's amplified voice, and a responsive, cheering crowd. This creates an energetic and hyped atmosphere. At around the 11-second mark, the tone shifts dramatically as Legend begins to play a soulful melody on the piano and sing in a powerful, inspirational tone.",
+  "editing_pacing": "The video consists of a single, static shot of the performance. The primary editing effect is the use of dynamic text overlays in a bold yellow font that appear and disappear in sync with the key words Legend is speaking.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "inspiration",
+    "unity",
+    "excitement",
+    "hope"
+  ],
+  "cultural_references": [
+    "John Legend",
+    "The song 'Glory', originally from the film 'Selma'"
+  ],
+  "central_claim": "By uniting and fighting together, supporters of the Democratic party and the Harris/Walz ticket will achieve victory.",
+  "intended_effect": "To inspire viewers with a message of hope and unity, and to motivate them to vote for the Democratic candidates.",
+  "uncertainty_flags": []
+}

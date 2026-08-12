@@ -1,0 +1,69 @@
+{
+  "video_id": "7656882968446668046",
+  "visual_action": "A static screenshot of a tweet from the account 'Pop Base'. The tweet discusses Donald Trump's statements about a sexual assault case involving E. Jean Carroll and notes that he was found liable. Below the tweet text is a portrait of Donald Trump next to a smaller screenshot of a social media post by Trump on the same topic.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text ('Donald Trump says...'), a photo of him is shown, and a screenshot of his social media post is included."
+    },
+    {
+      "name": "E. Jean Carroll",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "She is named in the Pop Base tweet: '...he \"never met\" E. Jean Carroll...'"
+    },
+    {
+      "name": "Pop Base",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet shown is from the account 'Pop Base' with the handle '@PopBase'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pop Base @PopBase",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald Trump says his sexual assault case is “really against the USA and all it stands for.”",
+      "role": "overlay"
+    },
+    {
+      "text": "He claims it’s a “fake case”, that he “never met” E. Jean Carroll and that her claim of defamation is “ridiculous.”",
+      "role": "overlay"
+    },
+    {
+      "text": "He was found liable for both sexually assaulting and defaming her.",
+      "role": "overlay"
+    },
+    {
+      "text": "Surprisingly, the Supreme Court declined to review a Fake Case brought against me by a woman I never met (Decades old celebrity photo standing with her husband, does not count!). I will continue the fight against this Weaponization and Lawfare Case against me, including the ridiculous claim of Defamation, with all of my power and strength! This Case is really against the United States of America, and all it stands for; and should never be allowed to happen to another President, or Candidate to be! New York State created a Law, for an instant speck of time, going back many years, tailor-made, and this Injustice cannot be allowed to stand! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it features only music.",
+  "emojis_present": [],
+  "audio_music": "The song 'Praying' by Kesha plays throughout the clip. It is a powerful and emotional ballad, creating a serious and somber tone that contrasts with Trump's denials and underscores the gravity of the legal finding against him.",
+  "editing_pacing": "The video consists of a single, static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Vindication",
+    "Seriousness",
+    "Condemnation"
+  ],
+  "cultural_references": [
+    "Kesha"
+  ],
+  "central_claim": "Donald Trump was found legally liable for sexually assaulting and defaming E. Jean Carroll, despite his public claims that the case is fake and politically motivated.",
+  "intended_effect": "To discredit Donald Trump's denials regarding the E. Jean Carroll case by juxtaposing them with the legal verdict and to evoke a sense of justice being served.",
+  "uncertainty_flags": []
+}

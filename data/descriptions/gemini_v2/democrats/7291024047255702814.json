@@ -1,0 +1,134 @@
+{
+  "video_id": "7291024047255702814",
+  "visual_action": "A slideshow of three screenshots. The first is a MeidasTouch tweet announcing that the Biden campaign has joined Truth Social, featuring a graphic of Joe Biden with glowing red eyes and the text \"MALARKEY ENDS HERE.\". The second is a screenshot of the new Biden-Harris HQ account's first post on Truth Social, which says \"We just joined Truth Social, mostly because we thought it would be very funny.\". The third is a screenshot of a Fox News article with the headline \"Biden campaign to launch account on Trump's Truth Social.\"",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears in the on-screen text as 'Biden campaign' and 'JOE BIDEN', and a stylized graphic of his face is shown."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text mentions 'trolls Trump' and 'Trump's Truth Social'."
+    },
+    {
+      "name": "Biden-Harris HQ",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a social media post from the 'Biden-Harris HQ' account is the central focus of the video."
+    },
+    {
+      "name": "MeidasTouch",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the 'MeidasTouch' account is shown."
+    },
+    {
+      "name": "Truth Social",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The social media platform 'Truth Social' is repeatedly named in on-screen text as the setting for the political action."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a Fox News article is shown, with the 'FOX NEWS' logo visible."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MeidasTouch",
+      "role": "overlay"
+    },
+    {
+      "text": "@MeidasTouch",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING: Biden campaign trolls Trump with new @BidenHQ rapid-response account on Truth Social",
+      "role": "overlay"
+    },
+    {
+      "text": "MALARKEY ENDS HERE.",
+      "role": "meme_text"
+    },
+    {
+      "text": "meidastouch.com",
+      "role": "overlay"
+    },
+    {
+      "text": "Biden-Harris HQ",
+      "role": "overlay"
+    },
+    {
+      "text": "@BidenHQ",
+      "role": "overlay"
+    },
+    {
+      "text": "We just joined Truth Social, mostly because we thought it would be very funny.",
+      "role": "overlay"
+    },
+    {
+      "text": "Follow us there for truths and retruths or whatever they call them: truthsocial.com/@BidenHQ",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "overlay"
+    },
+    {
+      "text": "Login",
+      "role": "overlay"
+    },
+    {
+      "text": "Watch TV",
+      "role": "overlay"
+    },
+    {
+      "text": "JOE BIDEN",
+      "role": "overlay"
+    },
+    {
+      "text": "Biden campaign to launch account on Trump's Truth Social",
+      "role": "overlay"
+    },
+    {
+      "text": "'There's very little 'truth' happening on Truth Social, but at least now it'll be a little fun,' Biden campaign tells Fox News Digital",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only a background music track.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, confident-sounding pop/R&B track with female vocals plays throughout the video, giving the content a modern and swaggering feel.",
+  "editing_pacing": "The video is a slow-paced slideshow, displaying three static screenshots in succession.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A graphic of Joe Biden is digitally altered to have glowing red eyes, a common internet meme format ('laser eyes') often associated with the 'Dark Brandon' persona to signal power and intensity.",
+  "emotions_signaled": [
+    "Amusement",
+    "Triumph",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Dark Brandon",
+    "Laser eyes meme"
+  ],
+  "central_claim": "The Biden campaign is cleverly trolling Donald Trump by creating an account on his own social media platform, Truth Social, to directly counter his messaging.",
+  "intended_effect": "To portray the Biden campaign as witty, confident, and effective in its political strategy, thereby amusing and energizing supporters.",
+  "uncertainty_flags": []
+}

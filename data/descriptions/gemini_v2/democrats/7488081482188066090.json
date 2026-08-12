@@ -1,0 +1,63 @@
+{
+  "video_id": "7488081482188066090",
+  "visual_action": "The video opens with a split-screen view of Elon Musk in what appears to be a talk show or interview setting. The top panel shows him sitting and speaking, pointing his finger. The bottom panel is a close-up of his face as he speaks. The video then cuts to a static screenshot of a tweet from Tim Walz's account.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in the first half of the video, and the captions attribute quotes to him."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Elon Musk says his name, 'You have Tim Walz running around on stage,' and a tweet from his official account, @Tim_Walz, is shown."
+    },
+    {
+      "name": "Tesla",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Elon Musk says, '...the Tesla stock price had gone in half.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "You have Tim Walz running around on stage where the Tesla stock price had gone in half.",
+      "role": "caption"
+    },
+    {
+      "text": "And he was overjoyed. What an evil thing to do.",
+      "role": "caption"
+    },
+    {
+      "text": "Tim Walz @Tim_Walz\nElon, I'll make you a deal. I'll stop making fun of your stock when you take your hands off social security.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Elon Musk claims that Tim Walz was 'running around on stage' and was 'overjoyed' when the Tesla stock price dropped by half, calling Walz's supposed reaction an 'evil thing to do.'",
+  "emojis_present": [
+    "💯"
+  ],
+  "audio_music": "A slow, slightly tense instrumental track with a serious tone plays throughout the video, underneath Elon Musk's dialogue and continuing over the screenshot of the tweet.",
+  "editing_pacing": "The editing consists of simple, direct cuts between a medium shot of Elon Musk, a close-up of him, and a static image of a tweet. The pacing is slow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Mockery",
+    "Triumph"
+  ],
+  "cultural_references": [],
+  "central_claim": "Tim Walz is effectively standing up to Elon Musk by framing his criticism not as jealousy over stock prices, but as a defense of social security.",
+  "intended_effect": "To portray Tim Walz as a strong advocate for social security who can successfully challenge a powerful figure like Elon Musk, thereby encouraging support for Walz and the Democratic party.",
+  "uncertainty_flags": [
+    "The original source and context of the Elon Musk interview clip are not provided."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "video_id": "7567047332919856397",
+  "visual_action": "A very close-up, shaky, and slightly distorted video of Donald Trump's face in what appears to be a crowd. His eyes are partially closed and he is baring his teeth.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face is the sole focus of the video, and a fabricated quote is attributed to him via on-screen text."
+    },
+    {
+      "name": "American people",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: \"I don't want to serve the American people\"."
+    },
+    {
+      "name": "Saudi oil barons",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: \"make deals with Saudi oil barons\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I don't want to serve the American people i want to play golf and make deals with Saudi oil barons😏",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only a pop song plays.",
+  "emojis_present": [
+    "😏"
+  ],
+  "audio_music": "The video features the upbeat pop song 'Shower' by Becky G throughout. The cheerful tone of the music creates an ironic and mocking contrast with the unflattering visual of Donald Trump and the critical on-screen text.",
+  "editing_pacing": "The video consists of a single, short, unstabilized close-up shot with no cuts or edits.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A fabricated quote is superimposed over the video of Donald Trump, making it appear as if he said he doesn't want to serve Americans but would rather play golf and deal with 'Saudi oil barons'.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt",
+    "disdain"
+  ],
+  "cultural_references": [
+    "The song 'Shower' by Becky G is used as the background audio."
+  ],
+  "central_claim": "Donald Trump is a corrupt and self-serving politician who prioritizes his own leisure and financial deals with foreign powers over the needs of the American people.",
+  "intended_effect": "To generate negative sentiment, mockery, and anger towards Donald Trump, portraying him as unfit for office.",
+  "uncertainty_flags": [
+    "It is ambiguous whether superimposing a fabricated quote as on-screen text meets the precise definition of 'visual manipulation' in the schema, although it is a visual element that is a fabrication designed to mislead."
+  ]
+}

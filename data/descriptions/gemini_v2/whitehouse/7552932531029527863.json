@@ -1,0 +1,75 @@
+{
+  "video_id": "7552932531029527863",
+  "visual_action": "A clip shows Donald Trump and Elon Musk sitting next to each other and conversing, shot through what appears to be a window. The video then cuts to a wide shot of a large event hall with a stage decorated in red and black. Screens at the event read 'REMEMBERING CHARLIE KIRK 1993 - 2025'. The video concludes with two black-and-white shots: one of a helicopter on the White House lawn, and another of the White House building itself, both with a 'THE WHITE HOUSE' title card.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown sitting and talking with Elon Musk in the opening shot. The on-screen text 'POTUS' refers to him."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown sitting and talking with Donald Trump in the opening shot. Identified by face recognition and the on-screen text 'ELON'."
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A large screen at an event shown in the video reads 'REMEMBERING CHARLIE KIRK 1993 - 2025'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The account is @whitehouse and the final title card in the video reads 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POTUS 🤝 ELON",
+      "role": "overlay"
+    },
+    {
+      "text": "REMEMBERING CHARLIE KIRK 1993 - 2025",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voiceover enthusiastically and profanely declares a comeback, saying, \"I think it's safe to say that our luck is officially turned around, guys. We are back, baby. We are fucking back. We are back.\"",
+  "emojis_present": [
+    "🤝"
+  ],
+  "audio_music": "The video uses an energetic, triumphant voiceover set to atmospheric music ('08 Wayne' by JxShamar). Around the 6.5-second mark, coinciding with the shift to black-and-white imagery of the White House helicopter, the music changes to a different, more serious instrumental track ('Intro' by High Elevation). The overall audio effect transitions from hype and celebration to a tone of established power.",
+  "editing_pacing": "A short montage with distinct cuts between three scenes: a close-up conversation, a wide event shot, and a concluding black-and-white sequence of institutional symbols (a helicopter and the White House).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Celebration",
+    "Alliance",
+    "Power",
+    "Remembrance"
+  ],
+  "cultural_references": [
+    "The audio clip 'We are f**king back' is a well-known meme from the TV show 'Eastbound & Down,' spoken by the character Kenny Powers."
+  ],
+  "central_claim": "An alliance between Donald Trump and Elon Musk signals a triumphant political comeback, presented in the context of a memorial for conservative activist Charlie Kirk.",
+  "intended_effect": "To create excitement and a sense of victory among supporters by highlighting a powerful alliance and a return to prominence, while also honoring a movement figure.",
+  "uncertainty_flags": [
+    "The specific event where Trump and Musk were filmed is not identified."
+  ]
+}

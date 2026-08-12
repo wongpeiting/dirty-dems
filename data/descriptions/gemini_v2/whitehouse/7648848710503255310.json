@@ -1,0 +1,81 @@
+{
+  "video_id": "7648848710503255310",
+  "visual_action": "A montage of clips shows Donald Trump at UFC events, interacting with large crowds. This is intercut with scenes of a large octagon-style stage being constructed on the White House lawn. Trump is shown speaking with UFC CEO Dana White on the construction site and in the Oval Office. There are close-ups of a custom UFC championship belt engraved with 'The WHITE HOUSE' and 'SOUTH LAWN'. The video concludes with a white line drawing of the White House and text identifying Trump as president.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown in nearly every scene, and is quoted in the audio saying 'I think it's going to be the biggest event we've ever had.'"
+    },
+    {
+      "name": "UFC (Ultimate Fighting Championship)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The event is a UFC fight; the organization is mentioned multiple times ('UFC crowds', 'biggest fight in UFC history'), and its championship belt and octagon are prominently featured."
+    },
+    {
+      "name": "Howard Lutnick",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition in the provided context. He is briefly visible in the foreground of the crowd at 0:03."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LIEBHERR",
+      "role": "other"
+    },
+    {
+      "text": "BUD LIGHT",
+      "role": "other"
+    },
+    {
+      "text": "UFC",
+      "role": "other"
+    },
+    {
+      "text": "The WHITE HOUSE",
+      "role": "other"
+    },
+    {
+      "text": "SOUTH LAWN",
+      "role": "other"
+    },
+    {
+      "text": "JUNE 14, 2026",
+      "role": "other"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A montage of audio clips from news-style narrators, Donald Trump, and another man (Dana White) announce an 'unprecedented' UFC event on the White House lawn. They describe it as 'the biggest event we've ever had' and 'the biggest fight in UFC history,' with an audience of 4,300 people, mostly from the military.",
+  "emojis_present": [],
+  "audio_music": "An epic, building instrumental track, similar to a movie trailer score, plays throughout the video to create a sense of hype and importance.",
+  "editing_pacing": "Fast-paced montage with quick cuts between various locations, including an arena, the Oval Office, and an outdoor construction site.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Anticipation",
+    "Pride",
+    "Patriotism"
+  ],
+  "cultural_references": [
+    "UFC (Ultimate Fighting Championship)",
+    "Dana White"
+  ],
+  "central_claim": "Donald Trump is hosting a massive, unprecedented UFC event on the White House South Lawn, highlighting his connection to the popular sport and its fanbase.",
+  "intended_effect": "To generate excitement for the event and portray Donald Trump as a popular and powerful figure who aligns himself with high-energy cultural phenomena like the UFC.",
+  "uncertainty_flags": [
+    "The identity of the news-style narrators is unknown."
+  ]
+}

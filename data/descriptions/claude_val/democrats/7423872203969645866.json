@@ -1,0 +1,90 @@
+{
+  "video_id": "7423872203969645866",
+  "visual_action": "The video opens with a black background bearing the persistent white overlay text \"Trump: 'I have the best words' 🤔\" at the top. Below this header, a series of real video clips of Donald Trump are shown in sequence: (1) Trump at a campaign podium with \"TRUMP / DonaldJTrump.com / Hilton Head, South Carolina\" branding — a 2015 campaign rally clip; (2) Trump at a presidential rally podium bearing the Presidential Seal, with a crowd in MAGA hats behind him — appears to be a Montana rally; (3) Same Montana rally footage, with the word \"ANOUNINOUS\" (misspelled, styled in red/bold) appearing in the lower third; (4) More Montana rally footage; (5) Trump seated in the Oval Office in a yellow chair, gesticulating with both hands, with a WH.GOV watermark visible — the word \"AND\" appears in yellow below; (6) Same Oval Office clip, word \"LOOK\" in yellow below; (7) Same Oval Office clip, word \"ORANGES\" in red bold below; (8) Continued Oval Office clip, \"ORANGES\" still displayed. Later frames (not shown but implied by OCR) include news chyrons/overlays referencing \"TRUMP MISPRONOUNCES YOSEMITE,\" Bernie Sanders, MSNBC \"PROJECTED WINNER,\" and \"TRUMP'S BEST WORDS\" — suggesting the video compiles multiple Trump verbal gaffes shown as on-screen subtitles or news clips.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Face-ID confirmed; appears in multiple clips at podium and in Oval Office; the entire post is about his verbal gaffes, with his quote 'I have the best words' as the framing headline"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: \"I have the best words\" 🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP\nDonaldJTrump.com ✦ @realDonaldTrump\nHilton Head, South Carolina",
+      "role": "chyron"
+    },
+    {
+      "text": "ANOUNINOUS",
+      "role": "caption"
+    },
+    {
+      "text": "AND",
+      "role": "caption"
+    },
+    {
+      "text": "LOOK",
+      "role": "caption"
+    },
+    {
+      "text": "ORANGES",
+      "role": "caption"
+    },
+    {
+      "text": "WH.GOV",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP MISPRONOUNCES YOSEMITE WHILE TOUTING LEGISLATION ON NATIONAL PARKS",
+      "role": "chyron"
+    },
+    {
+      "text": "PROJECTED WINNER\nMSNBC\nBERNIE SANDERS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP'S BEST WORDS",
+      "role": "overlay"
+    },
+    {
+      "text": "SEPT. 25, 2019\nNEW YORK, NY UNITED STATES\nMission to the UNITED NATIONS",
+      "role": "chyron"
+    },
+    {
+      "text": "NORTH DAKOTA",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio appears to feature Trump speaking, with the on-screen captions subtitling his words — notably \"ANOUNINOUS\" (a misspelling/mangling of \"anonymous\"), \"AND,\" \"LOOK,\" and \"ORANGES\" — highlighting verbal stumbles. The OCR also references \"YOSEMITE\" being mispronounced and \"SACRIFICE\" being misread. The Whisper transcript returned no clean text, suggesting the audio may be a compilation of Trump speech clips without a single coherent statement transcribed. Distinctive moments include Trump saying words that are then displayed as misspelled or garbled on screen to emphasize gaffes.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "Opens with what ACRCloud identifies as \"The Armchair Captains\" by Anon (from ~0.0s) — a light, somewhat whimsical or comedic instrumental tone. At ~9.8s the track changes to \"Moon\" by annchi — a softer, more ambient or melancholic piece. The music serves as a backdrop to Trump's speech clips; the shift in tone may punctuate the comedic-to-absurdist effect of the gaffe compilation.",
+  "editing_pacing": "Fast-cut compilation style: multiple short clips of Trump speaking are spliced together across different settings (campaign rally, presidential rally, Oval Office). Lower-third caption words appear one at a time in large, styled text to emphasize each verbal gaffe. Pacing is brisk, with each clip lasting only a few seconds before cutting to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — the framing headline juxtaposes Trump's boast about having 'the best words' against clips of him visibly stumbling over words",
+    "amusement/derision — misspelled/garbled captions like 'ANOUNINOUS' and 'ORANGES' are presented humorously",
+    "skepticism — the 🤔 emoji in the persistent header prompts the viewer to question Trump's rhetorical self-assessment"
+  ],
+  "cultural_references": [
+    "Trump's 'I have the best words' boast — a well-known internet meme originating from a 2015 campaign speech, widely circulated as a punchline about political self-aggrandizement",
+    "Trump mispronouncing 'Yosemite' (as 'Yo-Semite') — a viral moment from 2020",
+    "Trump saying 'oranges' instead of 'origins' — a viral gaffe from an Oval Office interview, widely circulated as a meme"
+  ],
+  "central_claim": "Trump's famous boast that he has \"the best words\" is contradicted by a compilation of his actual verbal gaffes and mispronunciations.",
+  "intended_effect": "Prompt viewers to laugh at and question Trump's linguistic competence by juxtaposing his self-praise with evidence of verbal stumbles.",
+  "uncertainty_flags": [
+    "Full audio/transcript not cleanly captured by Whisper — exact spoken words in each clip not fully confirmed beyond what OCR captions show",
+    "Some OCR text is noisy (e.g. 'afacton afaActon') and may reference additional clips or chyrons not clearly visible in the provided keyframes",
+    "The MSNBC 'PROJECTED WINNER: BERNIE SANDERS' chyron visible in OCR may come from a primary election results clip used as B-roll — context/purpose unclear",
+    "Number and order of all clips in the full video cannot be fully confirmed from 8 keyframes alone"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "7618997895030770958",
+  "visual_action": "The video first shows a clip of former President George W. Bush speaking from a formal setting, likely the Oval Office, with American flags behind him. It then cuts to a clip of former President Donald Trump, wearing a white 'USA' baseball cap, speaking from behind a podium with the presidential seal on it and an American flag in the background.",
+  "cast": [
+    {
+      "name": "George W. Bush",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in the first half of the video, and is identified by the on-screen text 'Bush 23 years ago today' and by face recognition."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in the second half of the video, and is identified by the on-screen text 'Trump less than a month ago' and by face recognition."
+    },
+    {
+      "name": "Iraq",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "George W. Bush states that military operations are intended 'to disarm Iraq'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Donald Trump states that military operations began 'in Iran'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Bush 23 years ago today",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump less than a month ago",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video juxtaposes two presidential announcements about military action. George W. Bush announces, 'At this hour, American and coalition forces are in the early stages of military operations to disarm Iraq.' This is followed by Donald Trump stating, 'The United States military began major combat operations in Iran.'",
+  "emojis_present": [],
+  "audio_music": "A serious, tense, and ominous electronic score plays throughout the video. The music track changes around the 6-second mark but maintains a consistent, foreboding tone to create a sense of gravity and alarm.",
+  "editing_pacing": "The video consists of a single, direct cut from one static, talking-head clip to another. The pacing is slow and deliberate.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Alarm",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is repeating George W. Bush's history by initiating a new war in the Middle East (Iran), just as Bush did in Iraq 23 years prior.",
+  "intended_effect": "To evoke fear and opposition to Donald Trump by linking his actions to the historically controversial Iraq War, framing him as a warmonger.",
+  "uncertainty_flags": []
+}

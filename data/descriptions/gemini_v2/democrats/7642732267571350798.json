@@ -1,0 +1,59 @@
+{
+  "video_id": "7642732267571350798",
+  "visual_action": "The video displays a screenshot of a tweet from an account named 'FactPost'. The tweet claims the Trump administration is closing the nation's primary bee research laboratory and shows a photo of Donald Trump next to a photo of bees on a honeycomb. The video then cuts to an image of Barry B. Benson, the main character from the animated film 'Bee Movie', with text overlaid that reads, 'this is who he's coming for btw'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen tweet text: 'The Trump administration is closing...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are visible at the top of the tweet screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Trump administration is closing the nation's primary bee research laboratory.",
+      "role": "overlay"
+    },
+    {
+      "text": "this is who he's coming for btw",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is the song 'Black and Yellow' by Wiz Khalifa. The lyrics heard include 'Yeah. Uh huh. You know what it is. Black and yellow, black and yellow, black and yellow, black and yellow.'",
+  "emojis_present": [],
+  "audio_music": "The entire video features the hip-hop track 'Black and Yellow' by Wiz Khalifa. The song's 'black and yellow' chorus is used as a humorous reference to the color of bees.",
+  "editing_pacing": "The video is a simple slideshow, consisting of a static image of a tweet cutting once to another static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "Barry B. Benson from the movie 'Bee Movie'",
+    "The song 'Black and Yellow' by Wiz Khalifa"
+  ],
+  "central_claim": "The Trump administration is closing a vital bee research lab, an action framed as a ridiculous attack on bees themselves by referencing the main character of 'Bee Movie'.",
+  "intended_effect": "To make the viewer criticize the Trump administration for an anti-environment policy, using humor and pop culture references to frame the action as absurd.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet is unclear; it could be a real news source, a parody account, or a fabrication for the meme."
+  ]
+}

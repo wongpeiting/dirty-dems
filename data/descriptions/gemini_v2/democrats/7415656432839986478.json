@@ -1,0 +1,107 @@
+{
+  "video_id": "7415656432839986478",
+  "visual_action": "A woman (Billie Eilish) and a man (Finneas O'Connell) speak directly to the camera in a close-up shot. The video then cuts to a montage of Kamala Harris waving, laughing, and appearing on stage at a large political rally. Some clips of Harris are framed within a Polaroid film strip visual effect. The final shot is a wide view of a packed arena with a large screen that reads \"FREEDOM\".",
+  "cast": [
+    {
+      "name": "Billie Eilish",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears at the start of the video speaking directly to the camera to endorse the Democratic ticket."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in the audio by Billie Eilish (\"We are voting for Kamala Harris\") and shown in a montage of clips."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the audio by Billie Eilish as the person she is voting for alongside Kamala Harris."
+    },
+    {
+      "name": "Finneas O'Connell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears silently on screen next to Billie Eilish at the beginning of the video."
+    },
+    {
+      "name": "Doug Emhoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown on stage briefly next to Kamala Harris as she waves."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ARE",
+      "role": "overlay"
+    },
+    {
+      "text": "KAMALA",
+      "role": "overlay"
+    },
+    {
+      "text": "TIM",
+      "role": "overlay"
+    },
+    {
+      "text": "THEY",
+      "role": "overlay"
+    },
+    {
+      "text": "FIGHTING",
+      "role": "overlay"
+    },
+    {
+      "text": "OUR",
+      "role": "overlay"
+    },
+    {
+      "text": "AND",
+      "role": "overlay"
+    },
+    {
+      "text": "P802_120 POLAROID FILM CAMERA DOF11.0 X",
+      "role": "other"
+    },
+    {
+      "text": "FREEDOM",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Billie Eilish says, \"We are voting for Kamala Harris and Tim Walz because they are fighting to protect our reproductive freedom, our planet, and our democracy.\" This is followed by an excerpt from the rap song \"BILLIE EILISH.\" by Armani White, which includes the lyric \"...big T-shirt, Billie Eilish.\"",
+  "emojis_present": [],
+  "audio_music": "The video begins with a soft, atmospheric track during Billie Eilish's spoken endorsement, setting a sincere tone. At around the 7-second mark, it abruptly switches to the high-energy, confident rap track \"BILLIE EILISH.\" by Armani White, which creates a hype effect for the montage of Kamala Harris.",
+  "editing_pacing": "The video begins with a static talking-head shot and then transitions into a fast-paced montage with quick cuts and a Polaroid film strip visual effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sincerity",
+    "excitement",
+    "confidence",
+    "inspiration"
+  ],
+  "cultural_references": [
+    "Billie Eilish",
+    "Finneas O'Connell",
+    "The song 'BILLIE EILISH.' by Armani White",
+    "Polaroid film strip aesthetic"
+  ],
+  "central_claim": "Musicians Billie Eilish and Finneas O'Connell endorse Kamala Harris and Tim Walz because they will protect reproductive freedom, the environment, and democracy.",
+  "intended_effect": "To leverage Billie Eilish's celebrity influence to persuade her young fanbase to vote for the Democratic ticket of Harris and Walz.",
+  "uncertainty_flags": [
+    "The distinction between `cast` and `cultural_references` is ambiguous for a non-political celebrity who is the primary speaker delivering a political message. I have placed Billie Eilish and Finneas O'Connell in `cast` due to their active role as messengers, while also noting them as cultural figures in `cultural_references`."
+  ]
+}

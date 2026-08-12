@@ -1,0 +1,42 @@
+{
+  "video_id": "7338625937463954730",
+  "visual_action": "A cutout of Donald Trump speaking and gesturing is superimposed over a static image of the U.S. Capitol building under a partly cloudy sky. An American flag is visible to the right of the Capitol dome.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown as a cutout speaking for the entire duration of the video, and his voice is the only audio besides the background music."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly names 'Republicans' as the subject of the video's claim."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans taking credit for the Bipartisan Infrastructure Law after voting against it...",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"Somebody had to do it. I am the chosen one. Somebody had to do it.\"",
+  "emojis_present": [],
+  "audio_music": "A dramatic, slightly tense instrumental track, identified as 'X' by SdotK, plays under the dialogue.",
+  "editing_pacing": "The video is a single, static shot featuring a superimposed figure over a background image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Donald Trump is digitally cut out from a different context and superimposed over a background image of the U.S. Capitol building. This creates a fabricated scene to pair his audio with the text's message about Republicans.",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans are hypocritically taking credit for the Bipartisan Infrastructure Law after they voted against it.",
+  "intended_effect": "To portray Republicans as hypocritical and self-serving.",
+  "uncertainty_flags": []
+}

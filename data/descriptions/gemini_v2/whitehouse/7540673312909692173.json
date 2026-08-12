@@ -1,0 +1,102 @@
+{
+  "video_id": "7540673312909692173",
+  "visual_action": "Karoline Leavitt speaks from the White House press briefing podium in a static, medium close-up shot. The podium is labeled \"THE WHITE HOUSE WASHINGTON\". The video ends with a black and white image of the White House with the text \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, identified by on-screen text as \"Press Secretary Karoline Leavitt\"."
+    },
+    {
+      "name": "The President (unspecified)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Leavitt, the Press Secretary, repeatedly refers to and defends the actions of \"the president\" regarding foreign policy meetings."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Leavitt says, \"With all due respect, only a reporter from the New York Times would ask a question like that.\""
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Leavitt as having met with the president: \"...after sitting down with President Putin on American soil.\""
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Leavitt quotes him: \"you had President Zelenskyy himself saying it was a very good conversation.\""
+    },
+    {
+      "name": "Mark Rutte",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Leavitt mentions him, though the transcript captures the name as \"Mark Ruda\": \"The Secretary General, Mark Ruda...\""
+    },
+    {
+      "name": "Sean (unnamed New York Times reporter)",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Leavitt addresses him by his first name after criticizing the New York Times: \"...would ask a question like that, Sean.\""
+    },
+    {
+      "name": "Russia",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Leavitt mentions providing allies with \"a readout of Russia's thinking on this.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "Press Secretary Karoline Leavitt\nRips New York Times Reporter",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "White House Press Secretary Karoline Leavitt dismisses a question from a New York Times reporter named Sean, stating \"only a reporter from the New York Times would ask a question like that.\" She defends the president's diplomacy, highlighting that he met with European leaders 48 hours after meeting with Russian President Vladimir Putin. Leavitt claims the meeting with Putin was so productive that it prompted the European leaders to fly to the U.S. immediately. She quotes Ukrainian President Zelenskyy and Dutch Prime Minister Mark Rutte praising the president for breaking a \"deadlock\" and starting a dialogue. Leavitt concludes that European leaders were grateful for the readout on Russia's thinking, which she contrasts with the actions of the previous administration.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Karoline Leavitt's spoken remarks during a press briefing. There is no music or other sound design.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or camera movement during the speech. It concludes with a cut to a final title card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Dismissiveness (towards the New York Times reporter)",
+    "Confidence",
+    "Pride (in the president's diplomatic actions)"
+  ],
+  "cultural_references": [],
+  "central_claim": "The president's recent meeting with Vladimir Putin was a diplomatic success, praised by European allies, and any criticism of it, particularly from the New York Times, is unwarranted.",
+  "intended_effect": "To portray the president as a strong and effective world leader while simultaneously discrediting critical media coverage from the New York Times.",
+  "uncertainty_flags": [
+    "The audio mentions a \"Mark Ruda\" which is likely a transcription error for Mark Rutte, the Dutch Prime Minister.",
+    "The specific question from the New York Times reporter that prompted this response is not included in the video."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "7606389839285603597",
+  "visual_action": "The video displays a static screenshot of a tweet from an account called 'FactPost'. The tweet includes a photo of Kristi Noem and Corey Lewandowski next to a photo of a blue blanket on an airplane seat. The video then performs a slow zoom on the photo of the politicians, followed by a cut to a slow zoom on the photo of the blanket.",
+  "cast": [
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name and photo appear in a tweet shown on screen, which states: \"...after Kristi Noem's blanket was left behind on a plane.\""
+    },
+    {
+      "name": "Corey Lewandowski",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name and photo appear in a tweet shown on screen, which states: \"New reporting reveals Corey Lewandowski fired a Coast Guard pilot...\""
+    },
+    {
+      "name": "U.S. Coast Guard",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet mentions that a \"Coast Guard pilot\" was fired."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a screenshot of a tweet from the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New reporting reveals Corey Lewandowski fired a Coast Guard pilot after Kristi Noem's blanket was left behind on a plane.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only music.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, pulsing electronic music track plays throughout the video, creating a serious or tense atmosphere.",
+  "editing_pacing": "The video is a slideshow consisting of a static image of a tweet, followed by slow zooms into the two photos featured within the tweet.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a screenshot of what appears to be a fabricated tweet from a satirical or non-existent news source called 'FactPost'. The tweet is a staged document designed to look like a real news report to mock the subjects.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [],
+  "central_claim": "Corey Lewandowski fired a Coast Guard pilot because Kristi Noem's blanket was left behind on a plane.",
+  "intended_effect": "To cause the viewer to mock Kristi Noem and Corey Lewandowski, portraying them as petty and abusive of power.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' Twitter/X account and the tweet shown is not verifiable from the video alone; it is likely satirical or fabricated."
+  ]
+}

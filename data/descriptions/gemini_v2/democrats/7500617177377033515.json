@@ -1,0 +1,63 @@
+{
+  "video_id": "7500617177377033515",
+  "visual_action": "A split-screen video shows clips from an interview with Donald Trump conducted by a female journalist. The top panel shows a wider shot of the two seated for the interview, while the bottom panel shows a close-up of Trump speaking. On-screen text captions display the interviewer's questions and Trump's alleged answers.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the subject of the interview shown on screen, and his face and transcribed answers are the focus of the video."
+    },
+    {
+      "name": "Kristen Welker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is shown on screen interviewing Donald Trump; her transcribed questions are displayed."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Don't you need to uphold the Constitution as president?",
+      "role": "caption"
+    },
+    {
+      "text": "I don't know.",
+      "role": "caption"
+    },
+    {
+      "text": "So many people want me to run in 2028.",
+      "role": "caption"
+    },
+    {
+      "text": "I don't know if that's constitutional that they're not allowing me to do it.",
+      "role": "caption"
+    },
+    {
+      "text": "Do you agree that everyone deserves due process?",
+      "role": "caption"
+    },
+    {
+      "text": "I'm not a lawyer.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio does not contain the dialogue from the interview shown in the on-screen captions. Instead, a song with the repeated lyric 'What the hell' plays over the visuals.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, repetitive, electronic song with chanted vocals repeating 'What the hell' plays throughout the video. The music has a mocking and incredulous tone, meant to ridicule the statements attributed to Donald Trump on screen.",
+  "editing_pacing": "The video consists of quick cuts between several short interview clips, presented in a consistent split-screen layout.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disbelief",
+    "alarm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is ignorant of and disregards fundamental U.S. constitutional principles, such as the presidential oath, term limits, and due process.",
+  "intended_effect": "To generate ridicule for Donald Trump and alarm about his fitness for office by highlighting his apparent confusion or dismissal of basic civic and legal concepts.",
+  "uncertainty_flags": []
+}

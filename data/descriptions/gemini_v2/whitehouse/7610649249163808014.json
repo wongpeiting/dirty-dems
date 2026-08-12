@@ -1,0 +1,90 @@
+{
+  "video_id": "7610649249163808014",
+  "visual_action": "Donald Trump speaks at a podium in a formal setting, likely a congressional chamber. The video cuts between Trump and reaction shots of a man, Andrew Wolfe, and a woman, Melody Wolfe, in the audience. The audience gives a standing ovation as Andrew Wolfe stands. A military general approaches Andrew Wolfe and pins a Purple Heart medal on his suit jacket. The video concludes with shots of the applauding audience and military officials.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible speaking at a podium, narrating the entire story."
+    },
+    {
+      "name": "Staff Sgt. Andrew Wolfe",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The central subject of Trump's speech and the recipient of the Purple Heart. He is named in the speech and on-screen text, and is shown in the audience receiving the award."
+    },
+    {
+      "name": "Melody Wolfe",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Identified by Trump as Andrew Wolfe's mother. Her faith in her son's recovery is a significant part of Trump's narrative. She is shown in the audience reacting emotionally."
+    },
+    {
+      "name": "Sarah Beckstrom",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Trump as serving alongside Andrew Wolfe during the attack: 'Serving alongside Sarah that day...'"
+    },
+    {
+      "name": "General James Seward",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Named by Trump and shown on screen pinning the Purple Heart medal on Andrew Wolfe."
+    },
+    {
+      "name": "George Washington",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Trump as the creator of the Purple Heart award."
+    },
+    {
+      "name": "West Virginia National Guard",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies Andrew Wolfe as a 'West Virginia National Guard hero'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Donald J. Trump awards the Purple Heart to Staff Sgt. Andrew Wolfe, the West Virginia National Guard hero who was ambushed while on patrol in D.C. last November",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump recounts the story of Staff Sergeant Andrew Wolfe, who was shot in the head by a terrorist and was not expected to survive. Trump highlights the unwavering faith of Wolfe's mother, Melody, who, despite dire medical prognoses, insisted her son would recover. Trump describes Wolfe's survival as a \"miraculous recovery.\" He then directs General James Seward to present Staff Sergeant Wolfe with the Purple Heart, noting the award was created by George Washington.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists entirely of Donald Trump's speech, with no background music. There is prominent, sustained applause from the audience during the standing ovation and award presentation.",
+  "editing_pacing": "The editing follows a conventional style for a formal address, with standard cuts between the speaker at the podium and reaction shots of the individuals being discussed in the audience. The pacing is slow and deliberate.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Honor",
+    "Inspiration",
+    "Hope",
+    "Sympathy",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "Purple Heart"
+  ],
+  "central_claim": "President Trump is honoring Staff Sgt. Andrew Wolfe, an American military hero who made a miraculous recovery from a near-fatal attack, with the prestigious Purple Heart medal.",
+  "intended_effect": "To inspire patriotism and admiration for both the resilient soldier and the President who is honoring him, while also telling a moving story of faith and survival.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,103 @@
+{
+  "video_id": "7621258504434683149",
+  "visual_action": "The video starts with a clip from a NewsNation interview. Interviewer Katie Pavlich, in a red suit, asks Donald Trump a question. The video cuts between them. A still photo of a man with glasses and a cap, Dennis Coyle, is briefly shown. The video then transitions to CNN news footage showing Coyle disembarking a private jet on an airport tarmac. He is greeted by several men, including one in a military uniform. The final shots show Coyle in an emotional embrace with a blonde woman.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown being interviewed where he promises to 'take care of' the hostage situation. Identified by face recognition."
+    },
+    {
+      "name": "Dennis Coyle",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named multiple times in the audio as the American hostage freed from the Taliban. He is also shown in a photo and in news footage of his return."
+    },
+    {
+      "name": "Katie Pavlich",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown interviewing Donald Trump. Her name appears in an on-screen chyron: 'KATIE PAVLICH TONIGHT'."
+    },
+    {
+      "name": "Taliban",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the audio as the group that held Dennis Coyle hostage."
+    },
+    {
+      "name": "Molly Long",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the audio as a family member who went on NewsNation to raise awareness."
+    },
+    {
+      "name": "NewsNation",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Logo and name appear on the chyron during the interview segment with Donald Trump."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Logo appears on the chyron during the news footage of Dennis Coyle's return."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NEWSNATION EXCLUSIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "KATIE PAVLICH TONIGHT",
+      "role": "chyron"
+    },
+    {
+      "text": "THIS IS CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "...TALIBAN IN AFGHANISTAN ARRIVES...",
+      "role": "chyron"
+    },
+    {
+      "text": "...AFGHANISTAN ARRIVES BACK...",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Interviewer Katie Pavlich asks Donald Trump about American hostage Dennis Coyle, who is being held by the Taliban. Trump asks for the name and says, \"you give me some information, I'll take care of that.\" The video then cuts to a news report announcing Coyle's return to the U.S. just moments ago, showing footage of him arriving on U.S. soil after being held captive for about a year.",
+  "emojis_present": [
+    "❤️",
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue from an interview and a subsequent news report. During the news report segment, sounds of a crowd cheering can be heard as the freed hostage disembarks from the plane. There is no musical score.",
+  "editing_pacing": "The video uses a simple A-to-B narrative structure with standard cuts. It juxtaposes an interview clip where a problem is raised with news footage showing the problem's resolution, creating an impression of cause and effect. The pacing is moderate.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "success",
+    "relief",
+    "joy"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump, when made aware of an American hostage held by the Taliban, took swift action to secure his release, fulfilling his promise to bring Americans home.",
+  "intended_effect": "To persuade the viewer that Donald Trump is an effective leader who keeps his promises and successfully handles hostage crises.",
+  "uncertainty_flags": []
+}

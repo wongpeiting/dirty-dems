@@ -1,0 +1,63 @@
+{
+  "video_id": "7625737478850333965",
+  "visual_action": "The video displays a static screenshot of a tweet from the account 'FactPost'. The tweet includes a photo of Donald Trump at a desk and another photo of a person with a horse in a field. After a few seconds, the video transitions to a different static photo of two black cows in a field of dry grass.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named and shown in a photo within a tweet that reads, 'The Trump Administration cancelled $9 million in grants...'"
+    },
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text of the tweet explicitly names 'The Trump Administration' as the subject of the post's claim."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screenshot is of a tweet from the account named 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Trump Administration cancelled $9 million in grants for tribes in Montana, claiming the funding was DEI.",
+      "role": "overlay"
+    },
+    {
+      "text": "The grants would have improved operations for local farmers and ranchers, while providing agricultural education for younger generations.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in this video; it is accompanied only by instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber instrumental track, featuring what sounds like a harmonica, plays throughout the entire video. The mood is melancholic and evocative of a rural, Western setting.",
+  "editing_pacing": "The video is a slow-paced slideshow, showing a static screenshot for the first few seconds, followed by another static photo for the remainder of the clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "sympathy",
+    "disappointment"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump Administration canceled $9 million in beneficial grants for tribes, farmers, and ranchers in Montana by mischaracterizing the funding as DEI.",
+  "intended_effect": "To evoke sympathy for the affected communities in Montana and foster a negative perception of the Trump Administration's policies.",
+  "uncertainty_flags": []
+}

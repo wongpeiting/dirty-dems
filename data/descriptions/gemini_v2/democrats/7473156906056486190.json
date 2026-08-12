@@ -1,0 +1,98 @@
+{
+  "video_id": "7473156906056486190",
+  "visual_action": "A clip presented as a Fox News interview with Elon Musk. Musk is speaking directly to the camera, looking emotional and on the verge of tears. A news chyron is at the bottom of the screen, and text is overlaid on the video.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on screen speaking throughout the video, identified by face-ID."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the chyron as 'PRESIDENT TRUMP' and referred to repeatedly in the audio as 'the president'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and branding are visible in the chyron on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "next level delulu from Elon 😩",
+      "role": "overlay"
+    },
+    {
+      "text": "EXCLUSIVE INTERVIEW WITH PRESIDENT TRUMP AND ELON MUSK",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "HANNITY EXCLUSIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE PRESIDENT HAS BEEN SO UNFAIRLY ATTACKED IN THE MEDIA.",
+      "role": "caption"
+    },
+    {
+      "text": "ITS REALLY OUTRAGEOUS.",
+      "role": "caption"
+    },
+    {
+      "text": "AND I'VE, AT THIS POINT,",
+      "role": "caption"
+    },
+    {
+      "text": "SPENT A LOT OF TIME WITH",
+      "role": "caption"
+    },
+    {
+      "text": "THE PRESIDENT.",
+      "role": "caption"
+    },
+    {
+      "text": "AND NOT ONCE HAVE I SEEN HIM DO",
+      "role": "caption"
+    },
+    {
+      "text": "SOMETHING THAT WAS MEAN,",
+      "role": "caption"
+    },
+    {
+      "text": "OR CRUEL, OR WRONG. NOT ONCE.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Elon Musk is depicted saying that \"the president\" (Donald Trump) has been \"so unfairly attacked in the media\" and that it's \"outrageous.\" He claims to have spent a lot of time with the president and has \"not once\" seen him do anything \"mean or cruel or wrong.\"",
+  "emojis_present": [
+    "😩"
+  ],
+  "audio_music": "The only audio is a man's voice, presented as Elon Musk, speaking. There is no music or other sound.",
+  "editing_pacing": "The video consists of a single, static talking-head interview shot with sequential text overlays.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video is a deepfake. Elon Musk's face has been digitally manipulated to appear as if he is speaking these words and to give him an unnaturally emotional, teary-eyed expression. The Fox News broadcast context, including the chyron, is also part of the fabrication.",
+  "emotions_signaled": [
+    "mockery",
+    "satire"
+  ],
+  "cultural_references": [
+    "The term 'delulu', a popular internet slang word for 'delusional'."
+  ],
+  "central_claim": "The video uses a deepfake to satirically portray Elon Musk as delusionally and sycophantically defending Donald Trump's character on Fox News.",
+  "intended_effect": "To ridicule Elon Musk and Donald Trump, portraying them as absurd.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,44 @@
+{
+  "video_id": "7657368897405947150",
+  "visual_action": "A static, smiling portrait of John Hickenlooper with a text overlay announcing his primary election victory.",
+  "cast": [
+    {
+      "name": "John Hickenlooper",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His portrait is the sole visual, and the on-screen text announces, 'JOHN HICKENLOOPER WINS COLORADO DEMOCRATIC PRIMARY FOR U.S. SENATE'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text refers to the 'DEMOCRATIC PRIMARY'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MIDTERM NEWS JOHN HICKENLOOPER WINS COLORADO DEMOCRATIC PRIMARY FOR U.S. SENATE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only instrumental music and singing.",
+  "emojis_present": [],
+  "audio_music": "The song 'Rocky Mountain High' by John Denver plays throughout the clip, creating a celebratory and regionally patriotic tone appropriate for a Colorado political victory.",
+  "editing_pacing": "Static image with a text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Celebration",
+    "Pride"
+  ],
+  "cultural_references": [
+    "The use of the song 'Rocky Mountain High' by John Denver, which is an iconic anthem for the state of Colorado."
+  ],
+  "central_claim": "John Hickenlooper has won the Colorado Democratic primary for the U.S. Senate.",
+  "intended_effect": "To celebrate Hickenlooper's victory with supporters and build momentum for the general election.",
+  "uncertainty_flags": []
+}

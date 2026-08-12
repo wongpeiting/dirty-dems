@@ -1,0 +1,45 @@
+{
+  "video_id": "7585594631757253901",
+  "visual_action": "The video opens with a golden, stylized bird logo above the words \"CAPITOL TV\" on a black background. It then cuts to a medium shot of Donald Trump sitting at a desk in an office, speaking directly to the camera. An American flag is visible behind him. The \"CAPITOL TV\" logo and text are superimposed in the bottom left corner for the duration of his speech.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is shown speaking for the majority of the video, announcing the 'Patriot Games'."
+    },
+    {
+      "name": "Capitol TV",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and logo for \"Capitol TV\" are displayed at the start and as a chyron throughout the video, framing the content as a broadcast from this entity."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "CAPITOL TV",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An announcer with a deep voice says, \"This is Capitol TV.\" Then, Donald Trump announces, \"In the fall, we will host the first ever Patriot Games, an unprecedented four-day athletic event featuring the greatest high school athletes, one young man and one young woman from each state and territory.\"",
+  "emojis_present": [],
+  "audio_music": "The video starts with a dramatic, cinematic sound sting and a male announcer's voice. This is followed by Donald Trump speaking with no background music.",
+  "editing_pacing": "The video consists of a single, static talking-head shot of Donald Trump, preceded by a logo reveal.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video superimposes a logo and uses an announcer to frame Donald Trump's speech as a broadcast from \"Capitol TV,\" an entity from the fictional dystopian series \"The Hunger Games.\" This is a satirical manipulation of context to portray his announcement as authoritarian.",
+  "emotions_signaled": [
+    "mockery",
+    "alarm",
+    "unease"
+  ],
+  "cultural_references": [
+    "The Hunger Games"
+  ],
+  "central_claim": "Donald Trump's proposal for a \"Patriot Games\" is satirically framed as a dystopian event reminiscent of \"The Hunger Games.\"",
+  "intended_effect": "To mock Donald Trump and characterize his policy idea as authoritarian and dystopian by associating it with a well-known fictional dystopia.",
+  "uncertainty_flags": []
+}

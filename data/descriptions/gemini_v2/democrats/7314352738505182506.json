@@ -1,0 +1,67 @@
+{
+  "video_id": "7314352738505182506",
+  "visual_action": "The video begins with a blue screen displaying the text '\"it's just a photo\"'. It then cuts to a static screenshot of a tweet from the account 'The Democrats'. The tweet shows a photo of six women posing together on a porch with a beach in the background. Text is overlaid on the bottom of the screenshot.",
+  "cast": [
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video displays a screenshot of a tweet from the account 'The Democrats' (@TheDemocrats)."
+    },
+    {
+      "name": "Democratic women governors",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The tweet shown on screen is about \"Democratic women governors\" and features a photo of them."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"it's just a photo\"",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats",
+      "role": "overlay"
+    },
+    {
+      "text": "@TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Democratic women governors get the job done. 🌽",
+      "role": "overlay"
+    },
+    {
+      "text": "ALT",
+      "role": "overlay"
+    },
+    {
+      "text": "no it's not.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a dialogue clip from the TV show Gilmore Girls. A female voice says, \"He's just a man, Lorelai,\" which is recontextualized by the on-screen text \"it's just a photo\". A second female voice replies, \"No, he's not,\" which aligns with the on-screen text \"no it's not.\" The rest of the original dialogue continues under the music.",
+  "emojis_present": [
+    "🌽"
+  ],
+  "audio_music": "The video begins with dialogue from a TV show. As the second line of dialogue plays, an intense and dramatic electronic/phonk track fades in, creating a serious and impactful tone that continues to the end of the clip.",
+  "editing_pacing": "A single cut from a static text screen to a static screenshot, resembling a slideshow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Admiration",
+    "Seriousness"
+  ],
+  "cultural_references": [
+    "The audio is from the TV show 'Gilmore Girls', featuring a dialogue between the characters Emily Gilmore and Lorelai Gilmore. The clip is used in a popular meme format to frame something as more significant than it appears."
+  ],
+  "central_claim": "The photo of Democratic women governors represents something more significant and impactful than a mere picture; it symbolizes their effective leadership.",
+  "intended_effect": "To inspire pride and admiration for Democratic women governors and to frame them as powerful and consequential leaders.",
+  "uncertainty_flags": []
+}

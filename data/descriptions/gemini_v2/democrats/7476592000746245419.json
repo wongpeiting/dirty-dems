@@ -1,0 +1,81 @@
+{
+  "video_id": "7476592000746245419",
+  "visual_action": "The video first shows a screenshot of a tweet from 'The White House' account with the text 'AMERICA FIRST 🇺🇸' above a large American flag. It then cuts to a screenshot of a tweet from 'The Democrats' account with the text 'Fixed that for you'. This second tweet contains a manipulated version of the White House tweet, where the text 'AMERICA' has been replaced with 'PUTIN' in large red letters, and the American flag has been replaced by the Russian flag.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet from the account 'The White House @WhiteHouse' is shown and is the subject of the video's commentary."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet from the account 'The Democrats @TheDemocrats' is shown, presenting the manipulation of the original tweet."
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The name 'PUTIN' is digitally added in large red text to a screenshot of a tweet, replacing the word 'AMERICA'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "you sure about that? 🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House @WhiteHouse",
+      "role": "other"
+    },
+    {
+      "text": "AMERICA FIRST 🇺🇸",
+      "role": "other"
+    },
+    {
+      "text": "The Democrats @TheDemocrats",
+      "role": "other"
+    },
+    {
+      "text": "Fixed that for you",
+      "role": "other"
+    },
+    {
+      "text": "PUTIN",
+      "role": "meme_text"
+    },
+    {
+      "text": "FIRST 🇷🇺",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A male voice repeatedly asks, \"You sure about that?\". This audio is a well-known meme.",
+  "emojis_present": [
+    "🤔",
+    "🇺🇸",
+    "🇷🇺"
+  ],
+  "audio_music": "The audio features a repetitive, questioning soundbite, 'You sure about that?', layered over a subtle instrumental track. The soundbite is used to create a skeptical and mocking tone.",
+  "editing_pacing": "The video consists of two static shots of screenshots with a single, quick cut between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A screenshot of a tweet from 'The White House' is digitally altered. The word 'AMERICA' is replaced with 'PUTIN' in large red letters, and the image of the American flag is replaced with the Russian flag. This is done to satirically reframe the 'AMERICA FIRST' slogan as 'PUTIN FIRST'.",
+  "emotions_signaled": [
+    "Mockery",
+    "Skepticism",
+    "Accusation"
+  ],
+  "cultural_references": [
+    "The audio clip 'You sure about that?' is a meme from the Netflix sketch comedy series 'I Think You Should Leave with Tim Robinson'."
+  ],
+  "central_claim": "The Democrats are accusing the White House of prioritizing Vladimir Putin's interests over American interests, despite using the 'America First' slogan.",
+  "intended_effect": "To make the viewer doubt the patriotism of the White House and associate their 'America First' policy with allegiance to Russia.",
+  "uncertainty_flags": []
+}

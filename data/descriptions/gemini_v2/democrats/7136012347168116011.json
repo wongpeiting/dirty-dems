@@ -1,0 +1,57 @@
+{
+  "video_id": "7136012347168116011",
+  "visual_action": "An animated infographic displays a map of the United States under the title \"SENATE RACES MIDTERM ELECTIONS: TUESDAY, NOVEMBER 8, 2022\". States are colored in sequentially, first blue for Democratic-held seats and then red for Republican-held seats. A running tally on screen updates, finishing with 14 Democratic-held seats and 21 Republican-held seats up for election.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text and key identify \"Democratic-held Seats Up For Election\" and color states blue."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text and key identify \"Republican-held Seats Up For Election\" and color states red."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "SENATE RACES",
+      "role": "overlay"
+    },
+    {
+      "text": "MIDTERM ELECTIONS: TUESDAY, NOVEMBER 8, 2022",
+      "role": "overlay"
+    },
+    {
+      "text": "14 Democratic-held Seats Up For Election",
+      "role": "overlay"
+    },
+    {
+      "text": "21 Republican-held Seats Up For Election",
+      "role": "overlay"
+    },
+    {
+      "text": "Not Up For Election",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, continuous retrowave synth track plays throughout the video, creating a modern and informational tone.",
+  "editing_pacing": "The video is a single, animated infographic where states on a map are colored in sequentially.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "informational clarity"
+  ],
+  "cultural_references": [],
+  "central_claim": "In the 2022 midterm elections, Republicans had to defend more Senate seats (21) than Democrats did (14).",
+  "intended_effect": "To inform viewers about the electoral map for the 2022 Senate races and suggest that Republicans were in a more defensive position.",
+  "uncertainty_flags": []
+}

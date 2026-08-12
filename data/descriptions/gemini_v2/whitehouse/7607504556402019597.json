@@ -1,0 +1,56 @@
+{
+  "video_id": "7607504556402019597",
+  "visual_action": "A montage of black-and-white, cinematic clips. A white-haired man, seen from behind, faces a media scrum, then walks away with a woman. He boards a presidential helicopter (Marine One) as a Marine salutes. The helicopter is then shown taking off and flying. The video ends on a shot of the White House building.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video centers on a white-haired man in a presidential context (leaving the White House, boarding Marine One) whose build and appearance from behind strongly resemble Donald Trump."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account, features the presidential helicopter and the building itself, and ends with the text 'THE WHITE HOUSE' on screen."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is briefly shown walking away with the main presidential figure, consistent with public appearances of Melania Trump alongside Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The only audible vocalization is a brief \"Oh\" that is part of the instrumental music track.",
+  "emojis_present": [],
+  "audio_music": "The instrumental of the hip-hop track \"Mask Off\" by Future plays throughout the video, creating a confident, cool, and swaggering tone.",
+  "editing_pacing": "A slow-paced, cinematic montage using high-quality, black-and-white footage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "confidence",
+    "power",
+    "pride"
+  ],
+  "cultural_references": [
+    "The song 'Mask Off' by the rapper Future."
+  ],
+  "central_claim": "The White House is projecting an image of power and confidence, using cinematic visuals of a presidential departure set to a modern hip-hop track.",
+  "intended_effect": "To create a sense of awe and project an image of swagger and control associated with the White House or its occupant.",
+  "uncertainty_flags": [
+    "The identity of the man shown is strongly implied to be Donald Trump, but his face is never clearly visible for confirmation.",
+    "The identity of the woman walking with the main figure is implied to be Melania Trump but is not confirmed."
+  ]
+}

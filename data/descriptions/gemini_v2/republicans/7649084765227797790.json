@@ -1,0 +1,73 @@
+{
+  "video_id": "7649084765227797790",
+  "visual_action": "A split-screen video. The top panel shows an older man wearing a 'VIETNAM VETERAN' hat speaking into a microphone on a city street. The bottom panel shows a static shot of a shirtless man with a beard and tattoos sitting in a chair in front of a bookshelf.",
+  "cast": [
+    {
+      "name": "Bill",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A man identified by on-screen text as 'BILL | PEAKS ISLAND, MAINE RESIDENT' speaks throughout the video."
+    },
+    {
+      "name": "Graham Platner",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Named in the on-screen text ('PLATNER IS A DISGRACE...') and the caption. A shirtless man presumed to be him is shown in the bottom panel."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'FOX NEWS ALERT' appears on the chyron."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @republicans account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ME",
+      "role": "other"
+    },
+    {
+      "text": "MAINE VOTER: PLATNER IS A DISGRACE TO EVERY VETERAN THAT HAS PTSD",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "BILL | PEAKS ISLAND, MAINE RESIDENT",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A man, identified as a Maine resident named Bill and a Vietnam veteran, states that Graham Platner is 'a disgrace to every veteran that has PTSD.' He accuses Platner of 'using it as an excuse to cover up his own personal failings.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a man's voice speaking, with ambient street sounds in the background. There is no music.",
+  "editing_pacing": "The video uses a static split-screen format, showing a talking-head interview in the top half and a still image or static shot in the bottom half. There are no cuts or camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Disgust",
+    "Contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "Graham Platner is a disgrace to veterans because he allegedly uses his PTSD as an excuse for his personal failings.",
+  "intended_effect": "To generate disapproval and contempt for Graham Platner by portraying him as someone who dishonorably exploits his veteran status.",
+  "uncertainty_flags": [
+    "The identity of the shirtless man shown in the bottom panel is strongly implied to be Graham Platner, but it is not explicitly confirmed."
+  ]
+}

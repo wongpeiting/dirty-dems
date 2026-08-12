@@ -1,0 +1,141 @@
+{
+  "video_id": "7582326064190393655",
+  "visual_action": "A slideshow celebrating Democratic election victories. It begins with a five-panel photo collage of the winning candidates. It then cycles through individual portrait photos of each of the five winners, with an overlay box on each photo displaying their name, the office they won, and the election results, including their opponent's name and vote percentage.",
+  "cast": [
+    {
+      "name": "Eileen Higgins",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her photo is shown and her name is in on-screen text: \"Eileen Higgins: 59.5%\"."
+    },
+    {
+      "name": "Eric Gisler",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His photo is shown and his name is in on-screen text: \"Eric Gisler: 51%\"."
+    },
+    {
+      "name": "Rob Long",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His photo is shown and his name is in on-screen text: \"Rob Long: 63%\"."
+    },
+    {
+      "name": "Rachna Sizemore Heizer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her photo is shown and her name is in on-screen text: \"Rachna Sizemore Heizer: 67%\"."
+    },
+    {
+      "name": "Tim Keller",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His photo is shown and his name is in on-screen text: \"Tim Keller: 58%\"."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"these democrats all won\" and the post is from the official '@democrats' account."
+    },
+    {
+      "name": "Emilio Gonzalez",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in on-screen text as the losing candidate for Miami Mayor: \"Emilio Gonzalez: 40.5%\"."
+    },
+    {
+      "name": "Dutch Guest IV",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in on-screen text as the losing candidate for Georgia House District 121: \"Dutch Guest IV: 49%\"."
+    },
+    {
+      "name": "Maria Zack",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in on-screen text as the losing candidate for Florida House District 90: \"Maria Zack: 36%\"."
+    },
+    {
+      "name": "Ken Balbuena",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in on-screen text as the losing candidate for Fairfax County Braddock District Supervisor: \"Ken Balbuena: 30%\"."
+    },
+    {
+      "name": "Darren White",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in on-screen text as the losing candidate for Albuquerque Mayor: \"Darren White: 42%\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "these democrats all won their elections last night 💙",
+      "role": "overlay"
+    },
+    {
+      "text": "Miami Mayor - DEM FLIP\n🔵 Eileen Higgins: 59.5%\n🔴 Emilio Gonzalez: 40.5%",
+      "role": "overlay"
+    },
+    {
+      "text": "Georgia House District 121 - DEM FLIP\n🔵 Eric Gisler: 51%\n🔴 Dutch Guest IV: 49%",
+      "role": "overlay"
+    },
+    {
+      "text": "Florida House District 90\n🔵 Rob Long: 63%\n🔴 Maria Zack: 36%",
+      "role": "overlay"
+    },
+    {
+      "text": "Fairfax County Braddock District Supervisor\n🔵 Rachna Sizemore Heizer: 67%\n🔴 Ken Balbuena: 30%",
+      "role": "overlay"
+    },
+    {
+      "text": "Albuquerque Mayor\n🔵 Tim Keller: 58%\n🔴 Darren White: 42%",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists entirely of a song with lyrics.",
+  "emojis_present": [
+    "💙",
+    "🔵",
+    "🔴"
+  ],
+  "audio_music": "An upbeat, celebratory disco/funk track ('Got to Be Real' by Cheryl Lynn) plays consistently throughout the video, creating a feeling of victory and excitement.",
+  "editing_pacing": "The video is a simple slideshow with slow transitions between static images. It begins with a collage and then moves through individual portraits, each held for several seconds.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Celebration",
+    "Pride",
+    "Victory"
+  ],
+  "cultural_references": [
+    "Got to Be Real - Cheryl Lynn"
+  ],
+  "central_claim": "Multiple Democratic candidates achieved victory in recent local and state elections, including flipping some previously non-Democratic seats.",
+  "intended_effect": "To generate excitement and pride among Democratic supporters by highlighting a series of electoral wins.",
+  "uncertainty_flags": []
+}

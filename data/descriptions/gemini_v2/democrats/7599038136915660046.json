@@ -1,0 +1,76 @@
+{
+  "video_id": "7599038136915660046",
+  "visual_action": "The video is a slideshow. It begins with a photo of a man in a blue hooded jacket and a helmet, smiling. It then shows two screenshots of social media posts from an account named Dimitri Drekonja. The final shot is a still photo of two men in tactical gear standing outside a building labeled 'American Recovery Center'. On the hood of a maroon car in the foreground, several handguns are laid out, highlighted by a red circle.",
+  "cast": [
+    {
+      "name": "Alex Pretti",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video opens with text reading 'this is Alex Pretti.' and the entire video is a tribute to him and an accusation about the circumstances of his death."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text explicitly states 'and Trump's federal agents killed him'."
+    },
+    {
+      "name": "Dimitri Drekonja, MD, MS",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Screenshots of social media posts attributed to 'Dimitri Drekonja, MD, MS' are shown, in which he eulogizes Alex Pretti."
+    },
+    {
+      "name": "VA (Department of Veterans Affairs)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A screenshotted post mentions that 'Alex Pretti was a colleague at the VA.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "this is Alex Pretti. he was a nurse and a US citizen. and Trump's federal agents killed him",
+      "role": "overlay"
+    },
+    {
+      "text": "Dimitri Drekonja, MD, MS @dimitridrekonja.bsky.social - 30m\nAlex Pretti was a colleague at the VA. We hired him to recruit for our trial. He became an ICU nurse- I lover working with him. He was a good kind person who lived to help and these fuckers executed him.\nWhite. Hot. Rage.",
+      "role": "overlay"
+    },
+    {
+      "text": "Dimitri Drekonja, MD, MS @dimitridrekonja.bsky.social\nAlex from our time working together, while he was in nursing school. Later, he moved to ICU, working as a nurse to support critically ill Veterans. He had such a great attitude. We'd chat between patients about trying to get in a mountain bike ride together. Will never happen now",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICAN RECOVERY CENTER",
+      "role": "other"
+    },
+    {
+      "text": "Nicollet",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The narrative is conveyed entirely through on-screen text and music.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, and somber instrumental track ('How To Never Stop Being Sad' by dandelion hands) plays consistently throughout the video, creating a mournful and tragic atmosphere.",
+  "editing_pacing": "The video is a slow-paced slideshow of static images and screenshots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "grief",
+    "sadness",
+    "anger",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Federal agents operating under the Trump administration killed Alex Pretti, a U.S. citizen and nurse.",
+  "intended_effect": "To evoke sympathy and sadness for Alex Pretti, and to generate anger towards Donald Trump for his death.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,93 @@
+{
+  "video_id": "7517028739151170830",
+  "visual_action": "The video starts with a clip of Donald Trump at a podium in front of American flags, with the text \"2024:\" overlaid. The clip then transitions to a screenshot of a CNN headline that reads \"Trump increasingly warm to using US military to strike in Iran, sources say,\" with the text \"now:\" overlaid. The final scene is a screenshot of a social media post from Donald J. Trump, dated June 17, 2025, in which he discusses the \"Supreme Leader\" of Iran and states, \"Our patience is wearing thin.\" Three wide-eyed emojis are shown above this post.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in the first clip, is the subject of the CNN headline, and is the author of the social media post shown in the final frame."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo appears on a screenshot of a news headline used in the video."
+    },
+    {
+      "name": "Supreme Leader of Iran",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in the social media post by Donald Trump as the \"so-called 'Supreme Leader'\". This is a title for the head of state of Iran."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "2024:",
+      "role": "overlay"
+    },
+    {
+      "text": "I'm not going to start a war.",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP WILL FIX IT",
+      "role": "chyron"
+    },
+    {
+      "text": "now:",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump increasingly warm to using US military to strike in Iran, sources say",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN",
+      "role": "overlay"
+    },
+    {
+      "text": "😳😳😳",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump\n@realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "We know exactly where the so-called \"Supreme Leader\" is hiding. He is an easy target, but is safe there - We are not going to take him out (kill!), at least not for now. But we don't want missiles shot at civilians, or American soldiers. Our patience is wearing thin. Thank you for your attention to this matter!",
+      "role": "overlay"
+    },
+    {
+      "text": "797 ReTruths 3.34k Likes",
+      "role": "overlay"
+    },
+    {
+      "text": "6/17/25, 12:19 PM",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "In a brief clip at the beginning, Donald Trump says, \"I'm not going to start a war.\" The rest of the video has no speech, only music.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "A slow, somber, and ominous choral music track plays throughout the video, creating a sense of dread and highlighting the perceived contradiction between Trump's past and present statements.",
+  "editing_pacing": "The video is structured as a slideshow, cutting from a video clip of a speech to two different static screenshots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Alarm",
+    "Fear",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is hypocritical and dangerous, as he has gone from promising not to start wars to openly threatening military action against Iran.",
+  "intended_effect": "To make the viewer feel alarmed by Trump's rhetoric and see him as an untrustworthy and reckless leader.",
+  "uncertainty_flags": []
+}

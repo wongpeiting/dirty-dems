@@ -1,0 +1,48 @@
+{
+  "video_id": "7651422028456611086",
+  "visual_action": "A wide shot shows a massive crowd gathered before the White House at dusk. In the foreground is a UFC octagon cage surrounded by the audience, all framed by a large arched stage structure. The camera tilts up to follow a formation of military jets flying over the White House, leaving smoke trails against the cloudy sky.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The White House building is visually central and is named in the on-screen text 'UFC WHITE HOUSE'."
+    },
+    {
+      "name": "UFC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A UFC-style octagon is shown, and the text 'UFC WHITE HOUSE' appears on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "INSANE FLYOVER\nUFC WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A crowd is heard singing the final lines of the U.S. national anthem, \"The Star-Spangled Banner,\" along with a lead singer. The loud roar of jet engines is also prominent.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a crowd singing the U.S. national anthem, creating a patriotic and grand atmosphere. This is combined with the powerful roar of military jets flying overhead.",
+  "editing_pacing": "The video consists of a single, slow shot that tilts upward to follow the action of the jets.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "awe",
+    "patriotism",
+    "excitement"
+  ],
+  "cultural_references": [
+    "UFC (Ultimate Fighting Championship)",
+    "The Star-Spangled Banner"
+  ],
+  "central_claim": "The White House is hosting a spectacular and patriotic UFC event, complete with a military flyover.",
+  "intended_effect": "To generate awe and patriotism by showcasing a unique and grand event combining popular sports entertainment with national symbols.",
+  "uncertainty_flags": [
+    "The event depicted, a UFC fight on the White House lawn, is highly unusual and its authenticity cannot be definitively confirmed from the video alone, although no direct evidence of visual manipulation is present."
+  ]
+}

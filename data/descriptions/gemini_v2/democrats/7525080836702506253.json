@@ -1,0 +1,81 @@
+{
+  "video_id": "7525080836702506253",
+  "visual_action": "A two-part video in a meme format. The first part, labeled \"Trump before the election:\", shows a split screen. In the top panel, a man in a suit (Lex Fridman) speaks. In the bottom panel, Donald Trump speaks into a microphone in what appears to be a podcast or interview setting, with an American flag in the background. The second part, labeled \"Trump after the election:\", shows another split screen. In the top panel, Donald Trump looks on during a meeting. In the bottom panel, he is seated at a table next to another man (Marco Rubio) and is speaking with his hands.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in multiple clips and is the subject of the 'before and after' comparison."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in on-screen text captions: \"I'd be inclined to do the Epstein thing\" and \"Are you still talking about Jeffrey Epstein?\""
+    },
+    {
+      "name": "Lex Fridman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in the first clip asking the question that is captioned on screen."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown sitting next to Donald Trump in the final clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump before the election:",
+      "role": "overlay"
+    },
+    {
+      "text": "It's very strange that the list of clients has not been made public.",
+      "role": "caption"
+    },
+    {
+      "text": "I'd be inclined to do the Epstein thing. I'd have no problem with it.",
+      "role": "caption"
+    },
+    {
+      "text": "Trump after the election:",
+      "role": "overlay"
+    },
+    {
+      "text": "Are you still talking about Jeffrey Epstein?",
+      "role": "caption"
+    },
+    {
+      "text": "People still talking about this guy? Do you want to waste the time?",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio is a popular meme sound. A female voice says \"That's suspicious\" over the first half of the video, and then says \"That's weird\" over the second half. The dialogue from the clips of Trump and others is not audible.",
+  "emojis_present": [],
+  "audio_music": "A popular meme audio track plays over the video. A female voice says \"That's suspicious,\" followed by a brief pause, and then the same voice says, \"That's weird.\" The audio is used for comedic and mocking effect to highlight the perceived contradiction shown on screen.",
+  "editing_pacing": "The video uses a static, split-screen meme format, cutting from a 'before' section to an 'after' section. It functions like a slideshow of captioned video clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The audio track is a well-known meme sound ('That's suspicious... That's weird') used on social media to point out hypocrisy or strange behavior.",
+    "The 'Before/After' meme format."
+  ],
+  "central_claim": "Donald Trump hypocritically promised to release Jeffrey Epstein's client list before the election but became dismissive of the topic afterward.",
+  "intended_effect": "To portray Donald Trump as untrustworthy and hypocritical regarding the Jeffrey Epstein case.",
+  "uncertainty_flags": []
+}

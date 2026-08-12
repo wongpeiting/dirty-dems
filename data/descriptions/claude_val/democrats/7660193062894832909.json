@@ -1,0 +1,135 @@
+{
+  "video_id": "7660193062894832909",
+  "visual_action": "A slideshow of five photo segments, each framed with black bars at top and bottom (vertical/portrait format). Frame 1: Close-up photo of Donald Trump mid-speech outdoors, gesturing with both hands raised, an American flag behind him, with red overlay text \"the trump curse.\" Frame 2: Trump standing in a stadium suite at what appears to be an NBA arena, surrounded by others including a young woman and a teenage boy; foreground shows New York Knicks players in jerseys; white overlay text reads \"attended NBA finals game 3,\" red overlay text reads \"Knicks 13-game winning streak snapped.\" Frame 3: Trump shaking hands with a bald man in a dark suit on a stage, a gold trophy labeled \"DONALD J. TRUMP / President of the United States\" visible in foreground; white overlay text reads \"Asked FIFA to lift a player's suspension,\" red overlay text reads \"USMNT loses to Belgium.\" Frame 4: Trump viewed from the side, leaning forward watching a crowded stadium through glass; white overlay text reads \"Predicted a Chiefs Super Bowl win,\" red overlay text reads \"Eagles dominate.\" Frame 5: Trump standing alone in a stadium suite, looking stoic, adjusting his jacket; white overlay text reads \"Attended Commanders home game,\" red overlay text reads \"Commanders lose by 22.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears in all five frames; identified by distinctive appearance, hair, and suit; name appears on on-screen trophy plaque 'DONALD J. TRUMP President of the United States'"
+    },
+    {
+      "name": "Gianni Infantino",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Bald man in dark suit shaking hands with Trump on what appears to be a FIFA-related stage with a trophy; context of 'Asked FIFA to lift a player's suspension' and FIFA-associated staging suggests FIFA President"
+    },
+    {
+      "name": "New York Knicks",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Players in New York Knicks jerseys visible in foreground; on-screen text 'Knicks 13-game winning streak snapped'"
+    },
+    {
+      "name": "Washington Commanders",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text 'Attended Commanders home game' and 'Commanders lose by 22'"
+    },
+    {
+      "name": "Kansas City Chiefs",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text 'Predicted a Chiefs Super Bowl win'"
+    },
+    {
+      "name": "Philadelphia Eagles",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text 'Eagles dominate'"
+    },
+    {
+      "name": "US Men's National Soccer Team (USMNT)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text 'USMNT loses to Belgium'"
+    },
+    {
+      "name": "FIFA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text 'Asked FIFA to lift a player's suspension'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the trump curse",
+      "role": "overlay"
+    },
+    {
+      "text": "attended NBA finals game 3",
+      "role": "overlay"
+    },
+    {
+      "text": "Knicks 13-game winning streak snapped",
+      "role": "overlay"
+    },
+    {
+      "text": "Asked FIFA to lift a player's suspension",
+      "role": "overlay"
+    },
+    {
+      "text": "USMNT loses to Belgium",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD J. TRUMP\nPresident of the United States",
+      "role": "overlay"
+    },
+    {
+      "text": "Predicted a Chiefs Super Bowl win",
+      "role": "overlay"
+    },
+    {
+      "text": "Eagles dominate",
+      "role": "overlay"
+    },
+    {
+      "text": "Attended Commanders home game",
+      "role": "overlay"
+    },
+    {
+      "text": "Commanders lose by 22",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue or narration is present. The video appears to be a silent slideshow (no Whisper transcript). The audio is entirely musical.",
+  "emojis_present": [],
+  "audio_music": "Throughout the clip, an ambient/electronic instrumental track plays — identified by ACRCloud as \"Gyroscope\" by Boards of Canada, beginning at 0.0s with a second cue at 7.5s (likely a continuous or looping segment of the same track). The sound is slow, dreamy, and slightly eerie/ominous in character, creating a foreboding or ironic atmosphere that underscores the \"curse\" framing of the visuals.",
+  "editing_pacing": "Slow slideshow format — five static photos displayed in sequence with text overlays fading or cutting in. No fast cuts or dynamic motion; the pacing is deliberate and measured, letting each photo and its paired text land before transitioning.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — the 'trump curse' framing pairs Trump's sports-related actions with bad outcomes for the teams involved",
+    "amusement — the pattern of action-then-failure is presented as a running joke",
+    "irony — ominous Boards of Canada music contrasts with the comedic 'curse' premise"
+  ],
+  "cultural_references": [
+    "'The Trump Curse' — internet/sports meme format in which Trump's association with a team or outcome is blamed for negative results, a well-known online phenomenon being directly invoked here"
+  ],
+  "central_claim": "Donald Trump is a \"curse\" on sports teams — every time he attends, endorses, or involves himself with a team or event, that team loses or suffers a bad outcome.",
+  "intended_effect": "Cause viewers to laugh at Trump as an unlucky or jinxed figure in sports contexts, undermining his image as a winner.",
+  "uncertainty_flags": [
+    "The bald man in frame 3 shaking hands with Trump is assumed to be FIFA President Gianni Infantino based on context clues (FIFA-related staging, trophy labeled with Trump's name), but face-ID did not confirm this — should be verified",
+    "The young woman and teenage boy visible in frame 2 in the NBA suite are unidentified",
+    "Specific game/event dates for the NBA Finals game 3 (Knicks), the USMNT vs Belgium match, the Super Bowl, and the Commanders game are not visible on screen — events fall after knowledge cutoff and are taken as real per instructions",
+    "No caption text was provided by the account, so no additional context from caption",
+    "The video may have additional frames or motion not fully captured in the five keyframes"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "7620814918991875341",
+  "visual_action": "The video is a montage showing Air Force One landing and Donald Trump disembarking. It cuts to scenes from an event in a large hangar or warehouse, featuring an audience of military personnel and civilians. Speakers, including Donald Trump, an unnamed man, and Pam Bondi, are shown at a roundtable or podium. B-roll footage includes close-ups of seized firearms and drugs displayed on a table, law enforcement insignia (Memphis Police, Homeland Security), military personnel, and American and Tennessee state flags. The video concludes with a shot of Trump walking in the hangar, followed by a black and white end card with the White House logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the main speaker in the first half of the video, shown arriving on Air Force One and speaking at an event. His speech outlines the achievements of a law enforcement operation."
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Identified by face recognition, she speaks in the latter half of the video about inter-agency cooperation."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, he is shown in the audience clapping at the event."
+    },
+    {
+      "name": "unnamed male speaker",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man in a suit and glasses speaks at 0:40, praising the \"Memphis Safe Task Force\"."
+    },
+    {
+      "name": "Trey Gowdy",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Pam Bondi mentions him in her speech, saying \"as Gowdy said\"."
+    },
+    {
+      "name": "U.S. National Guard",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Donald Trump and Pam Bondi as a key partner in the operation."
+    },
+    {
+      "name": "Memphis Police Department",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A sign for the \"MEMPHIS POLICE DEPARTMENT ORGANIZED CRIME UNIT\" is shown."
+    },
+    {
+      "name": "Homeland Security Investigations",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Text on seized evidence boxes reads \"SEIZED BY HSI\" and text on an armored vehicle reads \"HOMELAND SECURITY INVESTIGATIONS\"."
+    },
+    {
+      "name": "Drug Enforcement Administration (DEA)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The letters \"DEA\" are visible on cardboard boxes containing seized evidence."
+    },
+    {
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An evidence box has a case number labeled \"ATF 26-01232\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MEMPHIS POLICE DEPARTMENT ORGANIZED CRIME UNIT",
+      "role": "other"
+    },
+    {
+      "text": "SEIZED FIREARMS",
+      "role": "overlay"
+    },
+    {
+      "text": "138 FIREARMS - SEIZED BY HSI & ATF",
+      "role": "overlay"
+    },
+    {
+      "text": "Evidence - Handle With Care",
+      "role": "overlay"
+    },
+    {
+      "text": "Case No.: ATF 26-01232",
+      "role": "overlay"
+    },
+    {
+      "text": "DEA",
+      "role": "overlay"
+    },
+    {
+      "text": "SEIZED METHAMPHETAMINE STREET VALUE $195,000",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKING AMERICA SAFE AGAIN",
+      "role": "overlay"
+    },
+    {
+      "text": "HOMELAND SECURITY INVESTIGATIONS",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. DEPARTMENT OF HOMELAND SECURITY",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump speaks about a successful multi-agency law enforcement operation in an American city, highlighting the arrest of 7,000 criminals, seizure of over 1,100 guns and 1,000 pounds of narcotics, and the rescue of 150 missing children. Other speakers, including Pam Bondi, elaborate on the effective partnership between federal, state, and local agencies like the FBI, DEA, and National Guard, and affirm their support for the Trump administration, stating, \"we have your backs.\"",
+  "emojis_present": [],
+  "audio_music": "A serious and dramatic orchestral score plays throughout the video, creating a tone of official importance and triumphant accomplishment.",
+  "editing_pacing": "The video is a montage with medium-paced cuts, combining footage of speakers at an event with B-roll of Air Force One, military personnel, and displays of seized contraband. The editing style is professional and reminiscent of a political advertisement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Security",
+    "Reassurance"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration effectively combated violent crime by orchestrating a large-scale, coordinated effort between numerous federal, state, and local law enforcement agencies.",
+  "intended_effect": "To assure viewers of the administration's competence and success in enforcing law and order, thereby making them feel safer and more confident in its leadership.",
+  "uncertainty_flags": [
+    "The identity of the male speaker at 0:40 is not confirmed."
+  ]
+}

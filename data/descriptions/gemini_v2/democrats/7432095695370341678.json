@@ -1,0 +1,56 @@
+{
+  "video_id": "7432095695370341678",
+  "visual_action": "A split-screen video shows Joe Rogan speaking in his podcast studio on the top half and JD Vance speaking in a different setting with a red curtain background on the bottom half. On-screen text overlays attribute dialogue to each person.",
+  "cast": [
+    {
+      "name": "Joe Rogan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking and is identified by face and the on-screen text attributing a quote to 'Rogan'."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking and is identified by face and the on-screen text attributing a quote to 'Vance'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rogan: Some states have extreme laws that put women in vulnerable positions and if they go to another state, they could be prosecuted.",
+      "role": "overlay"
+    },
+    {
+      "text": "Vance: I haven't heard of this as something that actually exists 🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "THE JOE ROGAN EXPERIENCE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Joe Rogan expresses concern that women in states with strict abortion laws, like Texas's six-week ban, could be prosecuted in their home state for traveling to another state to get an abortion. JD Vance responds that while he's heard of this as a \"possibility,\" he hasn't heard of it as \"something that actually exists in the law\" or of anyone being arrested for it.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The audio consists solely of conversational dialogue from a podcast interview, with no background music or sound effects.",
+  "editing_pacing": "The video uses a static split-screen format, showing Joe Rogan in one frame and JD Vance in another. It cuts between the two speakers' audio, but the visual layout remains largely unchanged.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "skepticism",
+    "alarm"
+  ],
+  "cultural_references": [
+    "Joe Rogan",
+    "The Joe Rogan Experience"
+  ],
+  "central_claim": "JD Vance is uninformed about or dismissive of the legal threats women face for traveling out-of-state to seek abortions.",
+  "intended_effect": "To portray JD Vance as ignorant on a key issue concerning women's reproductive rights and to raise doubts about his fitness for office.",
+  "uncertainty_flags": []
+}

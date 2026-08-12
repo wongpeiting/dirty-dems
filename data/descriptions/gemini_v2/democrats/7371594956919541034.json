@@ -1,0 +1,88 @@
+{
+  "video_id": "7371594956919541034",
+  "visual_action": "The video uses a split-screen format. On the top, Joe Biden stands in a room with paintings, looking at his smartphone. On the bottom, a black-and-white montage styled like an old newspaper or newsreel shows the text \"WHAT'S NEXT FOR AMERICA\", a brief clip of Donald Trump, and crowds. The text \"'CREATION OF A UNIFIED REICH'\" appears. Biden then looks up from his phone, seemingly reacting, and speaks directly to the camera. The split-screen ends, showing a full shot of Biden speaking, before ending on a blue \"BIDEN HARRIS\" logo screen.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears throughout the video, speaking directly to the camera about a video he is purportedly watching."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video Biden is reacting to is attributed to him when Biden asks, \"Is this on his official account?\" and condemns the content. A brief, blurry image of his face also appears in the black-and-white montage."
+    },
+    {
+      "name": "Adolf Hitler",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Biden says, \"That's H!tler's language,\" although the name is bleeped out in the audio."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her name appears on the final \"BIDEN HARRIS\" campaign logo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WHAT'S NEXT FOR AMERICA",
+      "role": "overlay"
+    },
+    {
+      "text": "What's next for America?",
+      "role": "caption"
+    },
+    {
+      "text": "\"CREATION OF A UNIFIED REICH\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Is this on his official account?",
+      "role": "caption"
+    },
+    {
+      "text": "Wow. A \"unified Reich?\"",
+      "role": "caption"
+    },
+    {
+      "text": "He cares about holding on to power.",
+      "role": "caption"
+    },
+    {
+      "text": "BIDEN HARRIS",
+      "role": "credit"
+    },
+    {
+      "text": "I care about you.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An ominous voiceover asks, \"What's next for America?\" Joe Biden is shown looking at a phone and asks, \"Is this on his official account?\" He reacts with disbelief, saying, \"Wow. A 'unified Reich?'\" He then condemns the phrase, stating, \"That's [bleeped, implies Hitler]'s language. That's not America's.\" Biden concludes by contrasting his opponent with himself: \"He cares about holding on to power. I care about you.\"",
+  "emojis_present": [],
+  "audio_music": "The video opens with a deep, ominous, and dramatic musical score that plays under a narrator's voice. The music stops abruptly when Joe Biden begins to speak. The remainder of the video features only his spoken words, with no musical background.",
+  "editing_pacing": "The video begins with a split-screen effect, juxtaposing a talking head with a stylized black-and-white montage. It then cuts to a single, static talking-head shot of Joe Biden speaking directly to the viewer. The pacing is deliberate and focused on his reaction and statement, ending with a static logo card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "outrage",
+    "reassurance"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump uses un-American, Nazi-associated language like \"unified Reich\" because he only cares about power, while Joe Biden cares about the American people.",
+  "intended_effect": "To alarm viewers by associating Donald Trump with fascist rhetoric and to position Joe Biden as the safe, patriotic alternative.",
+  "uncertainty_flags": []
+}

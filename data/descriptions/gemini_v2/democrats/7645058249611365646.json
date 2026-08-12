@@ -1,0 +1,141 @@
+{
+  "video_id": "7645058249611365646",
+  "visual_action": "A montage contrasting images associated with Donald Trump with those of Democratic politicians and supporters. The first half shows clips of Trump looking serious or stressed, interspersed with images of the January 6th Capitol attack, law enforcement in riot gear, and a scene of building rubble. This section features superimposed news headlines critical of Trump. The second half of the video shows Democratic figures like Alexandria Ocasio-Cortez and James Talarico at rallies, along with footage of diverse groups of protestors marching, to suggest a positive alternative.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips throughout the video and is the subject of the on-screen text headlines."
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown smiling and waving to a large crowd at an event."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown standing next to a man identified by face-ID as Elon Musk."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID; shown standing next to Marco Rubio."
+    },
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown speaking at a podium with a sign that reads 'TALARICO'."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via face-ID, shown sitting next to Donald Trump in an office setting."
+    },
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID, appears briefly in a crowd scene."
+    },
+    {
+      "name": "Raphael Warnock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID, appears briefly in a crowd scene."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID, shown marching with protestors holding a large banner."
+    },
+    {
+      "name": "Usha Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID, appears in the background of a scene."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald Trump's Approval Rating Hits New Low Across Five Polls",
+      "role": "overlay"
+    },
+    {
+      "text": "if you see my reflection in",
+      "role": "overlay"
+    },
+    {
+      "text": "snow",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's Legacy Will Be the Countless People Killed by His Policies",
+      "role": "overlay"
+    },
+    {
+      "text": "covered hills",
+      "role": "overlay"
+    },
+    {
+      "text": "well, the landslide will bring it down",
+      "role": "overlay"
+    },
+    {
+      "text": "OUR TIME IS NOW",
+      "role": "other"
+    },
+    {
+      "text": "TALARICO",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists solely of a female vocalist singing lyrics from the song \"Landslide.\" The sung lines are: \"If you see my reflection in the snow-covered hills... well, the landslide will bring it down.\"",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, and reflective pop song, identified as Stevie Nicks' \"Landslide,\" plays throughout the entire video. The song's tone underscores the somber imagery in the first half and shifts to a more hopeful, cathartic feeling when paired with images of Democratic politicians and supporters in the second half.",
+  "editing_pacing": "The video is a slow-paced montage consisting of still images and short video clips that fade into one another.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disapproval",
+    "Sadness",
+    "Hope",
+    "Empowerment"
+  ],
+  "cultural_references": [
+    "The entire video is set to the very well-known song \"Landslide\" by Stevie Nicks, using its lyrics and mood to frame the political narrative."
+  ],
+  "central_claim": "Donald Trump's presidency was a disaster defined by chaos, death, and unpopularity, but a 'landslide' of popular support for Democrats will bring his era to an end.",
+  "intended_effect": "To evoke negative feelings about Donald Trump's legacy and create a sense of hope and momentum around the Democratic party.",
+  "uncertainty_flags": [
+    "The authoritative face-ID identifies a person standing with Marco Rubio as Elon Musk, but the individual's appearance strongly resembles Mark Zuckerberg during his congressional testimonies.",
+    "The authoritative face-ID list includes Jon Ossoff, Raphael Warnock, and Usha Vance, but it is difficult to visually confirm their presence in the brief and crowded scenes in which they purportedly appear."
+  ]
+}

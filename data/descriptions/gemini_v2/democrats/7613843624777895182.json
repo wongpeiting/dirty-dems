@@ -1,0 +1,79 @@
+{
+  "video_id": "7613843624777895182",
+  "visual_action": "A man on a yellow ladder changes the prices on a large blue sign at an Exxon gas station. The ground has a light covering of snow. The prices shown are high, with regular listed at $3.39 and extra at $4.49.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"gas prices under trump\" and the audio is a clip of his voice."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is visually present on a ladder, changing the numbers on the gas station sign."
+    },
+    {
+      "name": "Exxon",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The \"EXXON\" brand name is clearly visible on the gas station sign."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "gas prices under trump keep going up😩",
+      "role": "overlay"
+    },
+    {
+      "text": "EXXON",
+      "role": "other"
+    },
+    {
+      "text": "Car Wash",
+      "role": "other"
+    },
+    {
+      "text": "Regular",
+      "role": "other"
+    },
+    {
+      "text": "3 39 9/10",
+      "role": "other"
+    },
+    {
+      "text": "Extra",
+      "role": "other"
+    },
+    {
+      "text": "4 49 9/10",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio is a clip of Donald Trump's voice, sarcastically speaking from the perspective of his supporters, saying: \"Please, please, please, Mr. President, we're winning too much. We can't take it anymore. We're not used to winning in our country.\"",
+  "emojis_present": [
+    "😩"
+  ],
+  "audio_music": "A repetitive, upbeat hip-hop track plays throughout the video. The identified track is 'Pay the Rent (Intro)' by Lil Ke.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or complex editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "frustration"
+  ],
+  "cultural_references": [
+    "The song 'Pay the Rent (Intro)' by Lil Ke is used as background music."
+  ],
+  "central_claim": "The post claims that gas prices are rising significantly under Donald Trump, ironically framing this negative economic outcome as the 'winning' he often boasts about.",
+  "intended_effect": "To make the viewer feel economic anxiety, associate Donald Trump's presidency with high gas prices, and mock his political rhetoric.",
+  "uncertainty_flags": []
+}

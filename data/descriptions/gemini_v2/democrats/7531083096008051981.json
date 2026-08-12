@@ -1,0 +1,101 @@
+{
+  "video_id": "7531083096008051981",
+  "visual_action": "Donald Trump stands outdoors on the White House South Lawn speaking to off-screen reporters. He is wearing a suit and red tie. A female photographer with a camera is visible behind him. The footage is presented as a news clip from C-SPAN2.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person seen on screen answering a reporter's question."
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire exchange is about whether Trump would consider pardoning her. Her name is spoken by the reporter and appears in on-screen text."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is identified by face recognition, standing to the left of Trump, but is not part of the interaction."
+    },
+    {
+      "name": "Unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen male voice asks Trump the questions about Ghislaine Maxwell."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump opens the door for a Ghislaine Maxwell pardon: “I’m allowed to do it” 😬",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE SOUTH LAWN",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP SPEAKS TO REPORTERS AS HE DEPARTS FOR SCOTLAND",
+      "role": "chyron"
+    },
+    {
+      "text": "TODAY",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    },
+    {
+      "text": "MOMENTS AGO",
+      "role": "chyron"
+    },
+    {
+      "text": "WOULD YOU CONSIDER A PARDON OR A COMMUTATION FOR GHISLAINE MAXWELL?",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S SOMETHING I HAVEN'T THOUGHT ABOUT.",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S SOMETHING I'M ALLOWED TO DO IT,",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT IT'S SOMETHING I HAVE NOT THOUGHT ABOUT.",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT YOU WOULDN'T RULE IT OUT, SIR?",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A reporter asks Donald Trump if he would consider a pardon or commutation for Ghislaine Maxwell. Trump replies, \"It's something I haven't thought about... I'm allowed to do it, but it's something I have not thought about.\" The reporter presses, asking if he would rule it out, and the clip ends.",
+  "emojis_present": [
+    "😬"
+  ],
+  "audio_music": "The audio consists entirely of dialogue from a press scrum, with ambient outdoor sounds. There is no music.",
+  "editing_pacing": "The video is a single, continuous clip from a news broadcast. The only editing is the addition of a main text overlay at the top and sequential yellow text overlays that transcribe the dialogue as it's spoken.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump refused to rule out a potential pardon for Ghislaine Maxwell, stating that he has the authority to do it.",
+  "intended_effect": "To cause alarm and disapproval of Donald Trump by highlighting his non-committal response to potentially pardoning a convicted sex trafficker.",
+  "uncertainty_flags": []
+}

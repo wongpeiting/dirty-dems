@@ -1,0 +1,82 @@
+{
+  "video_id": "7610484140323982606",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named 'FactPost'. The tweet alleges that the Department of Justice hid files from the Jeffrey Epstein case that implicated Donald Trump in the sexual abuse of minors. Below the text of the tweet are two images: a photograph of Jeffrey Epstein and Donald Trump standing together, and a screenshot of a search result on what appears to be a government website, showing 'No results found' for the search term 'Trump'. A slow zoom is applied to the photograph of Trump and Epstein.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named multiple times in the on-screen tweet alleging he 'sexually abused minors' and is shown in a photograph with Jeffrey Epstein."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is mentioned in the on-screen tweet ('Epstein files') and is shown in a photograph with Donald Trump."
+    },
+    {
+      "name": "Department of Justice",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet alleges 'the DOJ hid dozens of Epstein files'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet is attributed to the account 'FactPost @factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New reports suggest the DOJ hid dozens of Epstein files alleging Trump sexually abused minors.",
+      "role": "overlay"
+    },
+    {
+      "text": "This includes three interviews with a woman who said Trump \"forced her head down to his exposed penis\" when she was just 13.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "No results found. Please try a differ...",
+      "role": "overlay"
+    },
+    {
+      "text": "Note on Search Functionality: D... (e.g. handwritten text) portions may produce unreliable search...",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only instrumental music plays.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and ominous instrumental track, identified as 'The Last Candle' by Jacob Miller, plays throughout the video. The music creates a serious and unsettling atmosphere that matches the gravity of the on-screen allegations.",
+  "editing_pacing": "The video is a static shot of a tweet screenshot, with a slow zoom-in on an embedded photograph of Donald Trump and Jeffrey Epstein.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disgust",
+    "Anger",
+    "Dread",
+    "Moral outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Department of Justice hid evidence from Jeffrey Epstein's files that implicates Donald Trump in the sexual abuse of minors.",
+  "intended_effect": "To convince the viewer that Donald Trump is guilty of heinous crimes that were covered up by the government, thereby generating outrage and opposition towards him.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet is uncertain; it may be a fabricated screenshot designed to look like a real tweet from a news source."
+  ]
+}

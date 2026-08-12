@@ -1,0 +1,94 @@
+{
+  "video_id": "7499507508503907626",
+  "visual_action": "The video displays a screenshot of a tweet from an account called 'FactPost'. The tweet claims that Trump's National Security Advisor was fired for adding a journalist to a confidential group chat. The tweet includes a photo of a man, Michael Waltz, and a screenshot of a group chat named 'Houthi PC small group' showing he added someone. The video then cuts to a larger view of a different screenshot from the same group chat, which shows the message 'Donald J. Trump removed Michael Waltz.' An overlay with the text 'damn lol 😭' appears over this final image.",
+  "cast": [
+    {
+      "name": "Michael Waltz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is pictured in the tweet screenshot and named multiple times in the group chat screenshots, e.g., 'Donald J. Trump removed Michael Waltz.' and 'Michael Waltz added you to the group'."
+    },
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned in the on-screen text of the tweet ('Trump's National Security Advisor') and in the group chat screenshot ('Donald J. Trump removed Michael Waltz.')."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet screenshot shows the account name 'FactPost' and handle '@factpostnews'."
+    },
+    {
+      "name": "Alex Wong",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A message in the group chat screenshot reads, 'My deputy Alex Wong is pulling together a tiger...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's National Security Advisor has been fired after he added a journalist into a highly confidential group chat.",
+      "role": "overlay"
+    },
+    {
+      "text": "Houthi PC small group",
+      "role": "overlay"
+    },
+    {
+      "text": "19 members",
+      "role": "overlay"
+    },
+    {
+      "text": "Michael Waltz added you to the group",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump removed Michael Waltz.",
+      "role": "overlay"
+    },
+    {
+      "text": "damn lol 😭",
+      "role": "overlay"
+    },
+    {
+      "text": "Team - establishing a principles group for coordination on Houthis, particularly for over the next 72 hours. My deputy Alex Wong is pulling together a tiger",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video; only instrumental music plays.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "A slow, melancholic instrumental track, identified as music related to 'Hannah Montana', plays throughout the video. The sad, dramatic tone creates a comedic and mocking effect when paired with the political subject matter.",
+  "editing_pacing": "The video is a simple slideshow, showing a static screenshot of a tweet for a few seconds before cutting to a second, related screenshot which remains on screen until the end.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video consists of fabricated screenshots of a tweet and a group chat. These staged documents create a fictional, satirical story designed to mock Michael Waltz and Donald Trump by portraying a comically severe security lapse and an unprofessional response.",
+  "emotions_signaled": [
+    "Mockery",
+    "Amusement"
+  ],
+  "cultural_references": [
+    "Hannah Montana"
+  ],
+  "central_claim": "Through fabricated screenshots, the video falsely claims that Trump's National Security Advisor, Michael Waltz, was fired for incompetence after adding a journalist to a secret chat, an act for which he was personally removed from the group by Trump.",
+  "intended_effect": "To amuse the viewer and encourage them to see the Trump team, specifically Michael Waltz, as incompetent, chaotic, and worthy of ridicule.",
+  "uncertainty_flags": []
+}

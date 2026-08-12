@@ -1,0 +1,73 @@
+{
+  "video_id": "7501429435330022698",
+  "visual_action": "A split-screen video shows Mark Carney speaking to Donald Trump in a formal office setting. On-screen text captions Carney's dialogue. The video then cuts to a closer shot of Carney as three kissing-face emojis appear over the screen.",
+  "cast": [
+    {
+      "name": "Mark Carney",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the main person shown on screen and the subject of the celebratory editing and on-screen text."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown sitting next to Mark Carney, listening."
+    },
+    {
+      "name": "Canada",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly states, \"Canada's view isn't going to change...\""
+    },
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text refers to the possibility of Canada becoming \"the 51st state,\" which implies the United States."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Respectfully, Canada's view isn't going to change on becoming the 51st state.",
+      "role": "caption"
+    },
+    {
+      "text": "It won't be for sale, ever.",
+      "role": "caption"
+    },
+    {
+      "text": "😙😙😙",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video's audio is entirely replaced by a repetitive sound clip from a song, featuring a male voice enthusiastically repeating the line, \"This is what I want to see!\". The original dialogue from the meeting is not audible.",
+  "emojis_present": [
+    "😙"
+  ],
+  "audio_music": "A loud, high-energy, and repetitive meme audio track plays throughout. The track is 'THIS IS WHAT I WANNA SEE' by Kevin Jz Prodigy, featuring the repeated line 'This is what I want to see!' used to signal strong approval or celebration.",
+  "editing_pacing": "The video uses a static split-screen followed by a single cut to a close-up, with an emoji overlay added for comedic/celebratory effect. The editing is simple and serves to highlight a reaction to the captioned statement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "approval",
+    "celebration",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The audio is a popular TikTok meme sound from the song 'THIS IS WHAT I WANNA SEE' by Kevin Jz Prodigy, originating from ballroom culture."
+  ],
+  "central_claim": "The post celebrates Canadian official Mark Carney for firmly telling Donald Trump that Canada will never become a US state.",
+  "intended_effect": "To generate approval and admiration for Mark Carney's statement and to mock Donald Trump.",
+  "uncertainty_flags": [
+    "The provided face-ID did not detect Donald Trump or Mark Carney, both of whom are clearly visible."
+  ]
+}

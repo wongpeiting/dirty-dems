@@ -1,0 +1,80 @@
+{
+  "video_id": "7187533852963917099",
+  "visual_action": "A young man in a grey hoodie is lying in bed, appearing to be about to fall asleep. He looks calm and pulls a blanket over himself. Suddenly, his eyes snap open in alarm, and the video starts shaking violently as a series of text overlays appear rapidly on screen.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, '...every congressional Republican voted against...'"
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The man shown in the video acting out the scenario of being in bed."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video was posted by the official '@democrats' account, implying their perspective as the creators of the message."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "POV: about to fall asleep but then I remember that every congressional Republican voted against...",
+      "role": "meme_text"
+    },
+    {
+      "text": "lower prescription drug prices 💊",
+      "role": "overlay"
+    },
+    {
+      "text": "a fairer tax system ⚖️",
+      "role": "overlay"
+    },
+    {
+      "text": "aggressive action on the climate crisis 🌍",
+      "role": "overlay"
+    },
+    {
+      "text": "lower energy costs 💡",
+      "role": "overlay"
+    },
+    {
+      "text": "lower health care costs 🏥",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video, only music.",
+  "emojis_present": [
+    "💊",
+    "⚖️",
+    "🌍",
+    "💡",
+    "🏥"
+  ],
+  "audio_music": "The video begins with the calm, gentle intro of Beyoncé's 'Love On Top'. At the 3-second mark, when the man's expression shifts to alarm, the music abruptly cuts to a loud, high-energy, climactic chorus from the same song. This sudden shift from soothing to jarring and intense music amplifies the feeling of panic and alarm.",
+  "editing_pacing": "The video starts with a static shot, then abruptly transitions to a fast-paced, shaky-camera style with rapid overlays of text to convey a sense of panic and urgency.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "anger",
+    "anxiety"
+  ],
+  "cultural_references": [
+    "Beyoncé (song 'Love On Top')",
+    "POV meme format"
+  ],
+  "central_claim": "Congressional Republicans have voted against popular policies beneficial to Americans, such as lowering prescription drug prices, creating a fairer tax system, and taking action on climate change.",
+  "intended_effect": "To create a sense of alarm and anger towards Republican politicians based on their voting record on key issues.",
+  "uncertainty_flags": []
+}

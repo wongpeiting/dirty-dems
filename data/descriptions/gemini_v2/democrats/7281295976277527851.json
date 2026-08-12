@@ -1,0 +1,78 @@
+{
+  "video_id": "7281295976277527851",
+  "visual_action": "A split-screen video compares Donald Trump and Joe Biden at the United Nations. The left panel, labeled 'LAUGHED AT' and dated '2018', shows Trump speaking at a podium. The camera cuts to the audience, which is laughing at his statement. The right panel, labeled 'APPLAUDED' and dated '2023', shows Joe Biden at a podium. His portion of the video begins in black and white and transitions to color as he speaks. After he finishes, the camera cuts to the audience, which includes Ukrainian President Volodymyr Zelenskyy, giving him sustained applause.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking on the left side of the screen, identified by on-screen text 'Trump'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking on the right side of the screen, identified by on-screen text 'Biden'."
+    },
+    {
+      "name": "United Nations",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly states the setting is 'at the United Nations'."
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in the audience on the right side of the screen, applauding for Joe Biden."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump vs. Biden at the United Nations",
+      "role": "overlay"
+    },
+    {
+      "text": "LAUGHED AT",
+      "role": "overlay"
+    },
+    {
+      "text": "APPLAUDED",
+      "role": "overlay"
+    },
+    {
+      "text": "2018",
+      "role": "overlay"
+    },
+    {
+      "text": "2023",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump claims, 'In less than two years, my administration has accomplished more than almost any administration in the history of our country,' which is met with laughter from the audience. He responds, 'Didn't expect that reaction, but that's okay.' In contrast, Joe Biden concludes a speech by saying, 'Let's do this work together... Let's bend the arc of history for the good of the world,' which is met with loud applause.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of the diegetic sound from the two speeches: the speakers' voices and the audience reactions of laughter and applause. There is no audible music.",
+  "editing_pacing": "The video uses a static split-screen format to create a direct comparison, with cuts to audience reaction shots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Pride",
+    "Contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump was laughed at by world leaders at the United Nations, while Joe Biden was applauded, suggesting a restoration of American respect on the global stage under Biden's presidency.",
+  "intended_effect": "To create a stark contrast that portrays Trump as an international embarrassment and Biden as a respected statesman, thereby encouraging support for Biden and the Democratic party.",
+  "uncertainty_flags": [
+    "The chyron text visible during Joe Biden's speech is too blurry to be legible.",
+    "The context provides a fingerprinted music track, but it is not audible in the video."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "video_id": "7617662351759723789",
+  "visual_action": "Comedian Jimmy Kimmel stands at a podium on a large stage, wearing a tuxedo and delivering a speech. The video cuts from a medium shot of Kimmel to a wide shot of the stage, which has 'OSCARS' and 'DOCUMENTARY SHORT' displayed. The video then cuts to a shot of the audience, who are laughing and applauding.",
+  "cast": [
+    {
+      "name": "Jimmy Kimmel",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking throughout the video. The on-screen text identifies him: 'Jimmy Kimmel calls out CBS at the Oscars'."
+    },
+    {
+      "name": "CBS",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Kimmel makes a joke comparing CBS to North Korea regarding free speech, saying 'Let's just leave it at North Korea and CBS.' The overlay text also states 'Jimmy Kimmel calls out CBS'."
+    },
+    {
+      "name": "North Korea",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Kimmel mentions the country as part of a joke: 'Let's just leave it at North Korea and CBS.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Jimmy Kimmel calls out CBS at the Oscars 🔥🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "AS YOU KNOW, THERE ARE SOME COUNTRIES WHOSE LEADERS DON'T SUPPORT FREE SPEECH. I'M NOT AT LIBERTY TO SAY WHICH. LET'S JUST LEAVE IT AT NORTH KOREA AND CBS. FORTUNATELY...",
+      "role": "caption"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "abc",
+      "role": "chyron"
+    },
+    {
+      "text": "OSCARS",
+      "role": "other"
+    },
+    {
+      "text": "DOCUMENTARY SHORT",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Jimmy Kimmel, speaking at what appears to be the Oscars, makes a joke about countries where leaders don't support free speech. After pretending he can't name them, he delivers the punchline: \"Let's just leave it at North Korea and CBS.\" The joke is met with laughter and applause from the audience.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio consists solely of Jimmy Kimmel's voice as he speaks, followed by the sound of a large audience laughing and applauding.",
+  "editing_pacing": "The editing follows a standard broadcast style, cutting between a medium shot of the speaker, a wide shot of the stage, and a reaction shot of the audience.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor",
+    "vindication"
+  ],
+  "cultural_references": [
+    "The Oscars (Academy Awards)"
+  ],
+  "central_claim": "The media network CBS is as suppressive of free speech as the totalitarian regime of North Korea.",
+  "intended_effect": "To encourage the audience to laugh at and disapprove of CBS through a well-known comedian's public criticism.",
+  "uncertainty_flags": []
+}

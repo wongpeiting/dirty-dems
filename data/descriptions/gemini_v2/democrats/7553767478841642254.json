@@ -1,0 +1,55 @@
+{
+  "video_id": "7553767478841642254",
+  "visual_action": "A static three-panel meme featuring images of talk show host Jimmy Kimmel on his studio set. In each panel, he is wearing a suit against a backdrop of a city skyline at night. Text is overlaid on each panel, creating a narrative sequence.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The first line of on-screen text reads, \"Trump tried his best to cancel me.\""
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions the \"Epstein files\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump tried his best to cancel me.",
+      "role": "meme_text"
+    },
+    {
+      "text": "Instead, he forced millions of people to watch the show.",
+      "role": "meme_text"
+    },
+    {
+      "text": "He might have to release the Epstein files to distract from this now.",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The audio consists of a female voice saying something like, \"I took a couple... you know, I took some time...\" The audio is unrelated to the visual content of the meme.",
+  "emojis_present": [],
+  "audio_music": "A very short, quiet audio clip of a woman's voice speaking plays for the duration of the video. It is unrelated to the visual content and there is no music.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Text is superimposed over images of Jimmy Kimmel to create a meme, attributing a statement to him for comedic and political effect.",
+  "emotions_signaled": [
+    "mockery",
+    "vindication"
+  ],
+  "cultural_references": [
+    "Jimmy Kimmel"
+  ],
+  "central_claim": "Donald Trump's attempt to 'cancel' Jimmy Kimmel backfired, increasing his viewership and representing a failure so significant that Trump would need a major distraction, like releasing the 'Epstein files,' to cover it up.",
+  "intended_effect": "To mock Donald Trump, portray him as incompetent, and suggest his attacks on critics are ineffective.",
+  "uncertainty_flags": [
+    "The audio track is a short, unrelated voice clip of a woman speaking, which does not match the fingerprinted music identified in the provided context ('I dont know - Demo — lil nas') and appears irrelevant to the visual meme.",
+    "It is highly probable that the quote attributed to Jimmy Kimmel via the on-screen text is fabricated for the purpose of the meme and was not actually said by him in this context."
+  ]
+}

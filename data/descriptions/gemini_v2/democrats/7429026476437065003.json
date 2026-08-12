@@ -1,0 +1,72 @@
+{
+  "video_id": "7429026476437065003",
+  "visual_action": "The video opens with a static image of a purported headline from 'The Atlantic' which reads, \"TRUMP: ‘I NEED THE KIND OF GENERALS THAT HITLER HAD’\". After a moment, it cuts to the 'Confused Nick Young' meme, where a man in a white t-shirt looks at the camera with a bewildered smile as three question marks appear around his head.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"TRUMP: ‘I NEED THE KIND OF GENERALS THAT HITLER HAD’\""
+    },
+    {
+      "name": "Adolf Hitler",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text reads: \"TRUMP: ‘I NEED THE KIND OF GENERALS THAT HITLER HAD’\""
+    },
+    {
+      "name": "The Atlantic",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and name 'The Atlantic' appear at the top of the headline graphic."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Atlantic",
+      "role": "overlay"
+    },
+    {
+      "text": "POLITICS",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP: ‘I NEED THE KIND OF GENERALS THAT HITLER HAD’",
+      "role": "overlay"
+    },
+    {
+      "text": "???",
+      "role": "overlay"
+    },
+    {
+      "text": "@kamalahq",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of a jumbled and overlapping conversation between what sounds like two women. One says, \"Oh, that's not...\" while another tries to explain something, saying, \"In the sense that, you know what I mean...\" The dialogue is disjointed and doesn't clearly relate to the visuals.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, modern track identified as 'FACE CARD — bajablaster16' plays throughout. Layered on top is a chaotic audio clip of overlapping female voices, which creates a confusing and slightly frantic mood.",
+  "editing_pacing": "A single, abrupt cut from a static text image to a well-known reaction meme clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "shock",
+    "mockery",
+    "confusion"
+  ],
+  "cultural_references": [
+    "The 'Confused Nick Young' meme, featuring former NBA player Nick Young, is used as a reaction shot."
+  ],
+  "central_claim": "Donald Trump made a shocking statement expressing a desire for generals loyal to him in the same way Hitler's generals were.",
+  "intended_effect": "To frame Donald Trump's alleged quote as alarming and nonsensical, using a popular meme to direct the viewer to react with confusion and ridicule.",
+  "uncertainty_flags": [
+    "The source and context of the overlapping spoken audio dialogue are unclear."
+  ]
+}

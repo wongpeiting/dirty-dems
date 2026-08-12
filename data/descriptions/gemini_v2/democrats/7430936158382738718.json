@@ -1,0 +1,98 @@
+{
+  "video_id": "7430936158382738718",
+  "visual_action": "A political advertisement presented as a 'Kamala Harris ad' features a man named Chris, who is identified as a maintenance guy and a Pittsburgh Steelers fan. The video is a montage showing photos of Chris as a child in Steelers gear, at games with his father, and more recent footage of him working with tools, spending time with his wife and children around a backyard fire pit, and driving his truck. The montage also includes B-roll of Pittsburgh, such as highway signs and Three Rivers Stadium. The ad concludes with a clip of Kamala Harris speaking at a podium.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears at the end of the ad to say, 'I'm Kamala Harris and I approve this message.' The opening on-screen text also identifies it as a 'NEW Kamala Harris ad'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the main subject of criticism in the ad. The narrator repeatedly refers to him by name, calling him a 'little silver spoon boy Donald Trump' and arguing he is unrelatable to working people."
+    },
+    {
+      "name": "Chris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the narrator and main character of the ad, and is identified by name with the on-screen text 'CHRIS'."
+    },
+    {
+      "name": "Pittsburgh Steelers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The opening on-screen text states the ad is 'airing during the Pittsburgh Steelers game,' and the narrator's identity is heavily tied to being a lifelong fan, shown through jerseys, photos, and attending games."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NEW Kamala Harris ad airing during the Pittsburgh Steelers game ⬇️⬇️⬇️",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Little silver spoon boy Donald Trump. How is he relatable to me whatsoever?\" 🔥🤬",
+      "role": "overlay"
+    },
+    {
+      "text": "CHRIS",
+      "role": "chyron"
+    },
+    {
+      "text": "Maintenance Guy",
+      "role": "chyron"
+    },
+    {
+      "text": "Diehard Steelers Fan",
+      "role": "chyron"
+    },
+    {
+      "text": "Proud Yinzer",
+      "role": "chyron"
+    },
+    {
+      "text": "A NEW WAY FORWARD",
+      "role": "overlay"
+    },
+    {
+      "text": "APPROVED BY KAMALA HARRIS. PAID FOR BY HARRIS FOR PRESIDENT.",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A man from Pittsburgh named Chris establishes his working-class credentials by describing his lifelong passion for the Pittsburgh Steelers, a tradition shared with his father. He defines a 'Yinzer' as a hardworking person dedicated to family and community. He then pivots to attacking Donald Trump, calling him a unrelatable 'little silver spoon boy' who 'does not care about the working man.' Chris claims Trump will give tax breaks to billionaires while selling out working families by cutting their healthcare and Social Security. He concludes by asking how Trump, who 'literally lives in a country club,' could possibly relate to him. The ad ends with Kamala Harris stating, 'I'm Kamala Harris and I approve this message.'",
+  "emojis_present": [
+    "⬇️",
+    "🔥",
+    "🤬"
+  ],
+  "audio_music": "An upbeat, energetic rock track, identified as '(You Gotta) Fight For Your Right (To Party)' by The Beastie Boys, plays throughout the montage, creating a rebellious and working-class atmosphere.",
+  "editing_pacing": "The video is a fast-paced montage using quick cuts between childhood photos, modern video clips of family and work life, and B-roll of Pittsburgh and Steelers games.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Authenticity",
+    "Relatability",
+    "Pride (in local identity)",
+    "Resentment",
+    "Nostalgia"
+  ],
+  "cultural_references": [
+    "Pittsburgh Steelers",
+    "(You Gotta) Fight For Your Right (To Party) by The Beastie Boys",
+    "Kordell Stewart",
+    "Yinzer"
+  ],
+  "central_claim": "Donald Trump is a privileged 'silver spoon' elitist who is completely unrelatable to and will harm the interests of hardworking, working-class Americans.",
+  "intended_effect": "To persuade working-class voters, particularly in Pennsylvania, that Donald Trump is not on their side and to foster a sense of shared identity with the narrator and resentment towards Trump.",
+  "uncertainty_flags": []
+}

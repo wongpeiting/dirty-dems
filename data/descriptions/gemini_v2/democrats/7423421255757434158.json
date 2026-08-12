@@ -1,0 +1,303 @@
+{
+  "video_id": "7423421255757434158",
+  "visual_action": "The video is a political ad featuring talking-head interviews with two former Trump administration officials, Kevin Carroll and Olivia Troye. Their testimony is intercut with B-roll footage of Donald Trump in meetings and walking on a tarmac, scenes of natural disasters like floods and wildfires, and footage of Kamala Harris interacting with citizens and distributing aid. On-screen text emphasizes words spoken by the narrators. The ad concludes with Harris delivering a standard campaign approval message.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The ad is centered on criticisms of his actions as president, featuring extensive B-roll footage of him and testimonials about his alleged misconduct."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The ad is presented as being for her campaign, she is shown in positive B-roll footage, she is endorsed by the speakers, and she speaks at the end to approve the message."
+    },
+    {
+      "name": "Kevin Carroll",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is identified by a chyron as 'Kevin Carroll, Senior Counsel, Homeland Security' and provides testimony against Donald Trump."
+    },
+    {
+      "name": "Olivia Troye",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is identified by a chyron as 'Olivia Troye, White House Homeland Security Advisor' and provides the main testimonial narrative of the ad."
+    },
+    {
+      "name": "Project 2025",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The ad warns that Trump will 'implement Project 2025's agenda,' and shows the cover of the 'Mandate for Leadership' book associated with the plan."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Wow, this new Kamala Harris ad is powerful",
+      "role": "caption"
+    },
+    {
+      "text": "Kevin Carroll\nSenior Counsel, Homeland Security",
+      "role": "chyron"
+    },
+    {
+      "text": "Olivia Troye\nWhite House Homeland Security Advisor",
+      "role": "chyron"
+    },
+    {
+      "text": "Hurricane Dorian Forecast Track and Inter...",
+      "role": "other"
+    },
+    {
+      "text": "20 Mandate for Leadership The Conservative Promise 25",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "APPROVED BY KAMALA HARRIS. PAID FOR BY HARRIS FOR PRESIDENT.",
+      "role": "credit"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "ADMINISTRATION",
+      "role": "overlay"
+    },
+    {
+      "text": "MILLION",
+      "role": "overlay"
+    },
+    {
+      "text": "THINK",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "WITH",
+      "role": "overlay"
+    },
+    {
+      "text": "CARE",
+      "role": "overlay"
+    },
+    {
+      "text": "PEOPLE",
+      "role": "overlay"
+    },
+    {
+      "text": "WOULD",
+      "role": "overlay"
+    },
+    {
+      "text": "NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "RELIEF",
+      "role": "overlay"
+    },
+    {
+      "text": "TO",
+      "role": "overlay"
+    },
+    {
+      "text": "HADN'T",
+      "role": "overlay"
+    },
+    {
+      "text": "TIME",
+      "role": "overlay"
+    },
+    {
+      "text": "IN",
+      "role": "overlay"
+    },
+    {
+      "text": "WOULDN'T",
+      "role": "overlay"
+    },
+    {
+      "text": "RELIEF",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMOCRATIC",
+      "role": "overlay"
+    },
+    {
+      "text": "SO",
+      "role": "overlay"
+    },
+    {
+      "text": "LOOKING",
+      "role": "overlay"
+    },
+    {
+      "text": "MANY",
+      "role": "overlay"
+    },
+    {
+      "text": "THOSE",
+      "role": "overlay"
+    },
+    {
+      "text": "AREAS",
+      "role": "overlay"
+    },
+    {
+      "text": "HIM",
+      "role": "overlay"
+    },
+    {
+      "text": "WHO",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU",
+      "role": "overlay"
+    },
+    {
+      "text": "NORMAL",
+      "role": "overlay"
+    },
+    {
+      "text": "JOB",
+      "role": "overlay"
+    },
+    {
+      "text": "IS",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICANS",
+      "role": "overlay"
+    },
+    {
+      "text": "REGARDLESS",
+      "role": "overlay"
+    },
+    {
+      "text": "POLITICS",
+      "role": "overlay"
+    },
+    {
+      "text": "IS",
+      "role": "overlay"
+    },
+    {
+      "text": "NO",
+      "role": "overlay"
+    },
+    {
+      "text": "WORST",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU'LL",
+      "role": "overlay"
+    },
+    {
+      "text": "HIM",
+      "role": "overlay"
+    },
+    {
+      "text": "2025'S",
+      "role": "overlay"
+    },
+    {
+      "text": "AGENDA",
+      "role": "overlay"
+    },
+    {
+      "text": "POWER",
+      "role": "overlay"
+    },
+    {
+      "text": "GUARDRAILS",
+      "role": "overlay"
+    },
+    {
+      "text": "WILL",
+      "role": "overlay"
+    },
+    {
+      "text": "MAN",
+      "role": "overlay"
+    },
+    {
+      "text": "KAMALA",
+      "role": "overlay"
+    },
+    {
+      "text": "BECAUSE",
+      "role": "overlay"
+    },
+    {
+      "text": "SAFETY",
+      "role": "overlay"
+    },
+    {
+      "text": "SECURITY",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICAN",
+      "role": "overlay"
+    },
+    {
+      "text": "THEY",
+      "role": "overlay"
+    },
+    {
+      "text": "NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "I'M",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS",
+      "role": "overlay"
+    },
+    {
+      "text": "MESSAGE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Two former officials from the Trump administration, Kevin Carroll and Olivia Troye, offer testimonials criticizing Donald Trump. They claim he did not care about the American people and would suggest withholding disaster relief from states that hadn't voted for him. Troye recalls an instance after a California wildfire where Trump allegedly refused to send relief because it was a Democratic state, forcing staff to prove his own voters were affected. They warn that if re-elected, Trump would have 'no one to stop his worst instincts' and would implement 'Project 2025's agenda' with 'unchecked power.' They endorse Kamala Harris, stating she will protect the safety and security of every American, regardless of their politics. The ad ends with Kamala Harris saying, 'I'm Kamala Harris and I approve this message.'",
+  "emojis_present": [],
+  "audio_music": "A serious, dramatic orchestral track plays throughout the ad, creating a tone of gravity and concern, which is typical for a political attack or contrast advertisement.",
+  "editing_pacing": "The video is professionally edited with a mix of talking-head interview clips and B-roll footage. It uses quick cuts and features text overlays that pop onto the screen to emphasize keywords from the narration, creating a dynamic and urgent pace.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Concern",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is dangerously unfit for the presidency because he uses his power to punish political opponents, even at the cost of American lives, whereas Kamala Harris will serve all Americans regardless of party.",
+  "intended_effect": "To persuade viewers that a second Trump term would be a threat to the country and to position Kamala Harris as a responsible leader who prioritizes American safety over politics.",
+  "uncertainty_flags": []
+}

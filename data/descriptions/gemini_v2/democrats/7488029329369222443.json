@@ -1,0 +1,97 @@
+{
+  "video_id": "7488029329369222443",
+  "visual_action": "The video displays a screenshot of a tweet from an account named 'FactPost'. The tweet includes a photo of Donald Trump and JD Vance shaking hands, and text claiming Trump is not joking about running for a third term. It also includes a graphic with the NBC News logo echoing the claim. The video then cuts to a split-screen clip of Donald Trump in a doorway being interviewed by an off-screen reporter. Captions are overlaid on this clip, attributing a question about term limits to the reporter and a response to Trump.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photograph, is the subject of all on-screen text, and is shown in a video clip."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is shown in a photo with Donald Trump and is mentioned in the on-screen text as a potential part of a plan for Trump to serve a third term: \"...like JD Vance running for office and then passing the role to Trump.\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle '@factpostnews' are displayed at the top of a tweet screenshot that forms the first part of the video."
+    },
+    {
+      "name": "NBC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NBC News logo and name are featured on a graphic within the initial tweet screenshot, which attributes the news about Trump's third-term ambitions to them."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The on-screen text presents a question attributed to a reporter: \"Reporter: The constitution limits a president to two terms.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump announces that he's 'not joking' about running for a third term.",
+      "role": "overlay"
+    },
+    {
+      "text": "He says 'there are methods' to do so, like JD Vance running for office and then passing the role to Trump.",
+      "role": "overlay"
+    },
+    {
+      "text": "SAVE",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump won't rule out seeking a third term in the White House, tells NBC News 'there are methods' for doing so",
+      "role": "overlay"
+    },
+    {
+      "text": "MARCH 30, 2026",
+      "role": "chyron"
+    },
+    {
+      "text": "Reporter: The constitution limits a president to two terms.",
+      "role": "caption"
+    },
+    {
+      "text": "I've had more people say \"please run again.\"",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "There is no audible speech or dialogue in the video. The audio consists solely of a musical score. All speech is conveyed through on-screen captions, which attribute a question to a reporter (\"The constitution limits a president to two terms.\") and a response to Donald Trump (\"I've had more people say 'please run again.'\").",
+  "emojis_present": [],
+  "audio_music": "A dramatic, orchestral, and suspenseful musical score ('Light at the end of the rubble' by Ak Justin) plays consistently throughout the video, creating a sense of alarm and seriousness.",
+  "editing_pacing": "The video consists of two static shots. It begins with a static screenshot of a tweet, then makes a single cut to a static, split-screen image of an interview clip. The pacing is slow and slideshow-like.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a screenshot of a tweet from 'FactPost', which appears to be a fabricated document designed to look like a real news post, in order to establish the video's premise. This constitutes a staged fake document.",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is seriously planning to run for an unconstitutional third presidential term and has devised methods to do so.",
+  "intended_effect": "To create alarm and opposition to Donald Trump by portraying him as having authoritarian ambitions and a disregard for constitutional term limits.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' Twitter/X account and the specific tweet shown could not be verified from the video alone."
+  ]
+}

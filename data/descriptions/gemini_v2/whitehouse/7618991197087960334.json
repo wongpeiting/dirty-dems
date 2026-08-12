@@ -1,0 +1,60 @@
+{
+  "video_id": "7618991197087960334",
+  "visual_action": "Donald Trump stands on a red carpet outside the White House as a black SUV pulls up. A woman in a blue suit, identified by on-screen text as the Prime Minister of Japan, exits the vehicle. Trump greets her with a handshake and a hug. They then stand and talk briefly. Military personnel in dress uniforms are visible in the background, and American and Japanese flags are displayed.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Visually present on screen greeting the Prime Minister of Japan and identified by the on-screen text \"President Trump\"."
+    },
+    {
+      "name": "Prime Minister of Japan",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Identified by the on-screen text \"the Prime Minister of Japan\" as she arrives and is greeted by Donald Trump."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The event takes place at the White House, which is named in the on-screen text and is the publisher of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump welcomes the Prime Minister of Japan 🇺🇸🇯🇵 to the White House",
+      "role": "overlay"
+    },
+    {
+      "text": "🇺🇸🇯🇵",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The video has no spoken dialogue, only ambient outdoor sounds, including a car engine.",
+  "emojis_present": [
+    "🇺🇸",
+    "🇯🇵"
+  ],
+  "audio_music": "The audio consists of natural, ambient sounds from the location, such as a vehicle engine and indistinct background noise. There is no music or narration.",
+  "editing_pacing": "The video is a single, continuous, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "formality",
+    "respect",
+    "friendliness"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is shown welcoming the Prime Minister of Japan to the White House, signaling a strong diplomatic relationship.",
+  "intended_effect": "To project an image of statesmanship and positive international relations under the Trump administration.",
+  "uncertainty_flags": [
+    "The identity of the female Prime Minister of Japan is not specified in the video."
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "video_id": "7548208272247917837",
+  "visual_action": "A slideshow of images. It begins with a screenshot of a tweet from 'FactPost' about Republicans blocking an 'Epstein Files' act, overlaid on a photo of an older woman in a congressional hearing setting. This is followed by a screenshot of a tweet from Karoline Leavitt denying that Donald Trump created a specific 'Birthday Card'. The video then shows the alleged card, which consists of dialogue text printed within the outline of a woman's torso, with a signature attributed to Donald J. Trump. The final image is a comparison of three signatures: one labeled 'EPSTEIN CARD', another from a '1995 LETTER TO LILLIAN VOLK', and a third from a '1999 LETTER TO LARRY KING'.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: 'Every House Rules Republican votes to block the Epstein Files Transparency Act' and 'at what point did Republicans decide hiding Trump's Epstein ties is more important than the dignity of the country?'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text mentions 'Trump's Epstein ties' and 'President Trump'. His signature is also shown and analyzed."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text refers to the 'Epstein Files Transparency Act' and 'Trump's Epstein ties'. The card comparison is labeled 'EPSTEIN CARD'."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A tweet from her account (@PressSec) is shown on screen, where she denies Trump's involvement with the card."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from the 'FactPost' account (@factpostnews) is shown at the beginning of the video."
+    },
+    {
+      "name": "The Wall Street Journal",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in Karoline Leavitt's tweet: 'The latest piece published by the Wall Street Journal PROVES...'"
+    },
+    {
+      "name": "Lillian Volk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Named in the signature comparison image as the recipient of a 1995 letter from Trump."
+    },
+    {
+      "name": "unnamed female politician",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An older woman is shown sitting at a desk in what appears to be a congressional hearing, in the background of the first text overlay."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Every House Rules Republican votes to block the Epstein Files Transparency Act from advancing",
+      "role": "overlay"
+    },
+    {
+      "text": "at what point did Republicans decide hiding Trump's Epstein ties is more important than the dignity of the country?",
+      "role": "overlay"
+    },
+    {
+      "text": "Karoline Leavitt @PressSec",
+      "role": "overlay"
+    },
+    {
+      "text": "The latest piece published by the Wall Street Journal PROVES this entire “Birthday Card” story is false. As I have said all along, it’s very clear President Trump did not draw this picture, and he did not sign it. President Trump’s legal team will continue to aggressively pursue litigation.",
+      "role": "overlay"
+    },
+    {
+      "text": "Voice Over:\nThere must be more to life than having everything.\nDonald:\nYes, there is, but I won't tell you what it is.\nJeffrey:\nNor will I, since I also know what it is.\nDonald:\nWe have certain things in common, Jeffrey.\nJeffrey:\nYes, we do, come to think of it.\nDonald:\nEnigmas never age, have you noticed that?\nJeffrey:\nAs a matter of fact, it was clear to me for the last time I saw you.\nDonald:\nA doll is a wonderful thing. Happy Birthday— and may every day be another wonderful a--hole.",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "EPSTEIN CARD",
+      "role": "overlay"
+    },
+    {
+      "text": "1995 LETTER TO LILLIAN VOLK",
+      "role": "overlay"
+    },
+    {
+      "text": "1999 LETTER TO LARRY KING",
+      "role": "overlay"
+    },
+    {
+      "text": "he wrote that card.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it consists only of a musical track.",
+  "emojis_present": [],
+  "audio_music": "A continuous, somber, and serious-sounding song ('We'll Be Millionaires' by Man Boy), featuring both instrumental sections and male vocals, plays throughout. The music creates a dramatic and accusatory tone.",
+  "editing_pacing": "A slow-paced slideshow of static images and text screenshots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "suspicion",
+    "gravity"
+  ],
+  "cultural_references": [
+    "Larry King"
+  ],
+  "central_claim": "Republicans are blocking the release of Jeffrey Epstein-related documents to conceal Donald Trump's connection to Epstein, a connection evidenced by a signed card that his team falsely denies.",
+  "intended_effect": "To persuade the viewer that Trump and the Republican party are corruptly covering up a connection to Jeffrey Epstein, and to generate opposition to them.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "7429035038991338795",
+  "visual_action": "Kamala Harris stands at a podium in a formal room, speaking directly to an audience (off-screen). An American flag and another official-looking flag are visible behind her. The shot is static and focused on her from the waist up.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, delivering the message directly."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the central subject of Kamala Harris's speech and the on-screen text. Harris says, \"while Donald Trump was president, he said he wanted generals like Adolf Hitler had.\""
+    },
+    {
+      "name": "John Kelly",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is cited by Kamala Harris as the source of the claim about Trump. She says, \"John Kelly, a retired four star general, confirmed that...\""
+    },
+    {
+      "name": "Adolf Hitler",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned as a point of comparison for the type of generals Donald Trump allegedly wanted. The on-screen text and audio both state Trump wanted generals \"like Adolf Hitler had.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "BREAKING 🇨🇭",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's Chief of Staff said Trump admires Hitler's generals",
+      "role": "overlay"
+    },
+    {
+      "text": "Kamala Harris: “John Kelly, a retired four star general, confirmed that while Donald Trump was president, he said he wanted generals like Adolf Hitler had.”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Kamala Harris states that John Kelly, a retired general and Donald Trump's former Chief of Staff, confirmed that Trump said he \"wanted generals like Adolf Hitler had.\" Harris interprets this by saying Trump does not want a military loyal to the U.S. Constitution, but rather \"a military that is loyal to him\" personally, one that would break the law if he ordered it.",
+  "emojis_present": [
+    "🇨🇭"
+  ],
+  "audio_music": "The video consists solely of Kamala Harris's spoken words. There is no music or other audio.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "shock",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump allegedly told his Chief of Staff, John Kelly, that he admired and wanted generals loyal to him personally, like Adolf Hitler had, indicating a desire for a military that is not loyal to the Constitution.",
+  "intended_effect": "To alarm viewers about Donald Trump's alleged authoritarian tendencies and his view of the military's role, portraying him as a threat to American democracy.",
+  "uncertainty_flags": [
+    "The use of the Swiss flag emoji (🇨🇭) in the 'BREAKING' text is unusual and its intended meaning is unclear; it may be an error."
+  ]
+}

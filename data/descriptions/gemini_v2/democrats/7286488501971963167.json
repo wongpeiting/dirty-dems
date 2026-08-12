@@ -1,0 +1,61 @@
+{
+  "video_id": "7286488501971963167",
+  "visual_action": "President Joe Biden is shown from the back, walking away from the camera in a hallway. An off-camera person asks him a question. Biden turns around, smiles, says a few words, and winks at the camera as the video ends.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually identified on screen and is the central figure responding to a reporter's question."
+    },
+    {
+      "name": "next House speaker",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The central topic of the video is the reporter's question, \"What's your advice to the next House speaker?\" and the on-screen text reference to the \"open role in the House for speaker\"."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks President Biden a question."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden on the recent open role in the House for speaker",
+      "role": "caption"
+    },
+    {
+      "text": "What's your advice to the next House speaker?",
+      "role": "overlay"
+    },
+    {
+      "text": "That's above my pay grade.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks President Biden, \"What's your advice to the next House speaker?\" Biden smiles and replies, \"That's above my pay grade.\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat, high-energy pop/dance track (\"Scream & Shout\" by will.i.am and Britney Spears) plays throughout the clip, giving it a confident, swaggering, and humorous tone.",
+  "editing_pacing": "The video consists of a single, uncut shot of the interaction, similar to a static talking-head clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Amusement",
+    "Confidence",
+    "Humor"
+  ],
+  "cultural_references": [
+    "The song 'Scream & Shout' by will.i.am and Britney Spears is used as the background music."
+  ],
+  "central_claim": "President Biden is portrayed as confidently and humorously unconcerned with the disarray in the House of Representatives regarding its speakership.",
+  "intended_effect": "To make the viewer see President Biden as cool, witty, and above the political fray of his opponents.",
+  "uncertainty_flags": []
+}

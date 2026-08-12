@@ -1,0 +1,70 @@
+{
+  "video_id": "7610672775539199246",
+  "visual_action": "Abigail Spanberger speaks at a podium in front of several American flags and at least one Virginia state flag. The clip is from a CNN broadcast, as indicated by the on-screen graphics.",
+  "cast": [
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, identified by face recognition and an on-screen chyron that reads 'Gov. Abigail Spanberger | (D) Virginia'."
+    },
+    {
+      "name": "George Washington",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Spanberger begins her speech by quoting a warning from George Washington's farewell address."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen chyron labels the speech a 'DEMOCRATIC RESPONSE' and the video is posted by the @democrats account."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and broadcast graphics are visible throughout the video, indicating the source of the footage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Gov. Spanberger: We have the power to demand more of our nation",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE CNN Williamsburg, Virginia 11:20 PM ET Gov. Abigail Spanberger | (D) Virginia DEMOCRATIC RESPONSE",
+      "role": "chyron"
+    },
+    {
+      "text": "IN HIS FAREWELL ADDRESS, GEORGE WASHINGTON WARNED US ABOUT THE POSSIBILITY OF, QUOTE, \"CUNNING, AMBITIOUS, AND UNPRINCIPLED MEN RISING TO POWER.\" BUT HE ALSO ENCOURAGED US, ALL AMERICANS, TO UNITE IN A COMMON CAUSE TO MOVE THIS NATION FORWARD. THAT IS OUR CHARGE ONCE MORE, AND THAT IS WHAT WE ARE SEEING ACROSS THE COUNTRY. IT IS DEEPLY AMERICAN AND PATRIOTIC TO DO SO, AND IT IS HOW WE ENSURE THAT THE STATE OF OUR UNION REMAINS STRONG, NOT JUST THIS YEAR BUT FOR THE NEXT 250 YEARS AS WELL. BECAUSE WE THE PEOPLE, HAVE THE POWER TO MAKE CHANGE, THE POWER TO STAND UP FOR WHAT IS RIGHT, THE POWER TO DEMAND MORE OF OUR NATION.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Abigail Spanberger gives a speech invoking George Washington's farewell address. She notes his warning about \"cunning, ambitious, and unprincipled men rising to power\" but pivots to his encouragement for Americans to unite for a common cause. She declares this a patriotic duty for today, asserting that \"we the people\" have the power to create change, stand up for what's right, and demand more from the nation to ensure its strength for the next 250 years.",
+  "emojis_present": [
+    "‼️"
+  ],
+  "audio_music": "The audio consists solely of Abigail Spanberger's speech, followed by audience applause at the very end. There is no background music.",
+  "editing_pacing": "The video is a single, static shot of a talking head. The editing consists of large, dynamic text overlays that appear word-by-word, synchronized with the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "inspiration",
+    "civic duty",
+    "empowerment"
+  ],
+  "cultural_references": [],
+  "central_claim": "Americans have the patriotic power and duty to unite and demand more from their nation, heeding the call of George Washington.",
+  "intended_effect": "To inspire viewers with a sense of patriotism and empower them to take collective action, associating these values with the Democratic Party.",
+  "uncertainty_flags": []
+}

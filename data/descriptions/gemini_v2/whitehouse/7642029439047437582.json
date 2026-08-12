@@ -1,0 +1,62 @@
+{
+  "video_id": "7642029439047437582",
+  "visual_action": "A compilation of short clips showing Donald Trump speaking at a podium outdoors, in front of American flags. He is wearing a suit and tie. The video is presented in a vertical format with text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker and visual subject throughout the video, delivering a commencement address."
+    },
+    {
+      "name": "U.S. Coast Guard",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"Trump Coastguard Commencement Core,\" and Trump is addressing the graduating cadets."
+    },
+    {
+      "name": "Thomas",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says directly, \"Please understand that, Thomas.\""
+    },
+    {
+      "name": "Mr. Superintendent",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump addresses him directly when absolving the cadets: \"Therefore, Mr. Superintendent, I hereby absolve...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump Coastguard Commencement Core",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump delivers a commencement address, making a series of jokes. He says he won't fight someone (\"This is not UFC\"), that hitting them hurt his hand \"like hitting a rock,\" and speculates he'll still be around in 2028 or 2032. He then, as president, absolves all cadets on restriction for \"minor\" and \"even somewhat major\" infractions. He concludes by joking about a place called \"Mr. G's\" where cadets may have spent too much time.",
+  "emojis_present": [
+    "🤣"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's speech. Each quick cut between clips is punctuated by a short, dramatic sound effect.",
+  "editing_pacing": "The video uses very fast cuts to create a highlight reel or 'core' edit of various moments from a single speech. Each clip is only a few seconds long.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Humor",
+    "Amusement"
+  ],
+  "cultural_references": [
+    "UFC (Ultimate Fighting Championship)"
+  ],
+  "central_claim": "This video compiles humorous and off-the-cuff moments from a commencement speech Donald Trump gave to the U.S. Coast Guard.",
+  "intended_effect": "To entertain the audience and portray Donald Trump as a humorous and unconventional speaker.",
+  "uncertainty_flags": []
+}

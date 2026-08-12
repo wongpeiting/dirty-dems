@@ -1,0 +1,71 @@
+{
+  "video_id": "7615712696696130830",
+  "visual_action": "The video displays a static screenshot of a tweet from an account called 'FactPost'. The tweet text makes an allegation about Jeffrey Epstein and Donald Trump. Below the text are two photos: one of Jeffrey Epstein and Donald Trump standing together, and another of a massage table in a room. The video then quickly zooms in on the photo of Epstein and Trump, and then on the photo of the massage room, which has a yellow label in the corner reading 'GOVERNMENT EXHIBIT'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen tweet text ('...spoke to Trump on speakerphone.') and shown in a photograph with Jeffrey Epstein."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen tweet text ('Newly released Epstein files allege Jeffrey Epstein ordered...') and shown in a photograph with Donald Trump."
+    },
+    {
+      "name": "unnamed 16-year-old girl",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is mentioned in the central allegation of the on-screen tweet text: '...ordered a 16-year-old girl to undress...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The allegation is presented via a screenshot of a tweet from the account 'FactPost' (@factpostnews)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Newly released Epstein files allege Jeffrey Epstein ordered a 16-year-old girl to undress and give him a massage while he spoke to Trump on speakerphone.",
+      "role": "overlay"
+    },
+    {
+      "text": "GOVERNMENT EXHIBIT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is set to music.",
+  "emojis_present": [],
+  "audio_music": "A somber and dramatic indie pop song ('Strangers' by Ethel Cain) plays throughout the entire video, creating a serious and ominous mood.",
+  "editing_pacing": "The video is a slideshow consisting of a static screenshot of a tweet, followed by quick zooms into the two photographs contained within the tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disgust",
+    "suspicion",
+    "anger"
+  ],
+  "cultural_references": [
+    "Ethel Cain"
+  ],
+  "central_claim": "Newly released Epstein files contain an allegation that Jeffrey Epstein was on a speakerphone call with Donald Trump while ordering a 16-year-old girl to give him a massage.",
+  "intended_effect": "To generate negative sentiment towards Donald Trump by linking him to Jeffrey Epstein's criminal activities.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet screenshot is not verifiable from the video alone."
+  ]
+}

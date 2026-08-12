@@ -1,0 +1,99 @@
+{
+  "video_id": "7536261793912458510",
+  "visual_action": "A split-screen television news interview is shown. On the right, a man identified as James Talarico speaks directly to the camera, with a Texas flag behind him. On the left, a news anchor, Wolf Blitzer, listens. The segment appears to be from a CNN broadcast, as indicated by the on-screen graphics.",
+  "cast": [
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, identified by face recognition and an on-screen chyron that reads 'James Talarico | (D) Texas State House'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Talarico, a Democrat, speaks on behalf of his colleagues, and the on-screen chyron reads 'SOON: DEADLINE FOR DEMOCRATS TO RETURN TO TEXAS'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Talarico states that 'the Republicans in Texas are trying to rig the upcoming midterms'."
+    },
+    {
+      "name": "the President of the United States",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Talarico claims the Republicans' actions are 'at the direct request of the president of the United States' so that the president 'doesn't have to face accountability for his unpopular policies'."
+    },
+    {
+      "name": "Wolf Blitzer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on the left side of the split-screen interview, appearing as the news anchor conducting the interview."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and broadcast graphics are visible throughout the clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "James Talarico on breaking quorum to stop Republican gerrymandering",
+      "role": "overlay"
+    },
+    {
+      "text": "HAPPENING NOW",
+      "role": "chyron"
+    },
+    {
+      "text": "SOON: DEADLINE FOR DEMOCRATS TO RETURN TO TEXAS",
+      "role": "chyron"
+    },
+    {
+      "text": "James Talarico | (D) Texas State House",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "MY COLLEAGUES AND I HAVE AGREED TO STAY OUT OF THE STATE CAPITOL FOR THE NEXT TWO WEEKS TO KILL THIS RIGGED MAP, AND STOP THIS CORRUPT PROCESS. WHO KNOWS WHAT WILL HAPPEN AFTER THAT. WE'RE DOING WHAT WE WERE ELECTED TO DO. THEY GERRYMANDERED OUR MAPS BACK IN 2021 WHEN THEY WERE. WE'RE BREAKING QUORUM",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "James Talarico, a Texas State House Democrat, explains that he and his colleagues are breaking quorum by staying out of the state capitol for two weeks. He describes this as a constitutionally protected tactic to stop a \"corrupt process\" by Texas Republicans, who he accuses of trying to \"rig the upcoming midterms\" by redrawing electoral maps mid-decade. Talarico claims this action is being taken at the \"direct request of the president of the United States\" to help the president avoid \"accountability for his unpopular policies.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of spoken dialogue from the news interview clip. There is no background music or any other sound.",
+  "editing_pacing": "The video is a single, static talking-head clip from a news interview. The only editing is the addition of text overlays on top of and below the interview footage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Righteousness",
+    "Urgency",
+    "Defiance"
+  ],
+  "cultural_references": [],
+  "central_claim": "Texas Democrats are legitimately breaking quorum to prevent Texas Republicans from illegally gerrymandering the state mid-decade at the behest of the President.",
+  "intended_effect": "To frame the Texas Democrats' actions as a necessary defense of democracy and to generate public support for them while portraying the Republican party as corrupt.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,43 @@
+{
+  "video_id": "7239905927267241258",
+  "visual_action": "A close-up shot of Donald Trump speaking. He is wearing a dark suit, white shirt, and red tie. The background is dark with red and blue lighting.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "His face is shown on screen for the entire video and he is heard speaking the lines that are also displayed as captions."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official account @democrats."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I did something that nobody thought was possible. I got rid of Roe v Wade.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"I did something that nobody thought was possible. I got rid of Roe v Wade.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "fear",
+    "alarm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump proudly takes direct responsibility for overturning Roe v. Wade.",
+  "intended_effect": "To motivate voters who support abortion rights to oppose Donald Trump.",
+  "uncertainty_flags": []
+}

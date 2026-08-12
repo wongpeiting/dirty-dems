@@ -1,0 +1,70 @@
+{
+  "video_id": "7525103780359163150",
+  "visual_action": "The video consists of two still images. The first shows Donald Trump at a desk, surrounded by a group of smiling and clapping people, laughing as he brings down a gavel. The second image shows Barack Obama speaking at a podium with a sign that reads 'AFFORDABLE HEALTHCARE FOR ALL' in front of a large crowd.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in the first still image, smiling and using a gavel, while on-screen text lists negative policy outcomes attributed to him."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in the second still image speaking at a podium about affordable healthcare, representing a nostalgic past."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "-17 million Americans kicked off their health care",
+      "role": "overlay"
+    },
+    {
+      "text": "-cuts to SNAP",
+      "role": "overlay"
+    },
+    {
+      "text": "-rural hospitals and nursing homes at risk of closing",
+      "role": "overlay"
+    },
+    {
+      "text": "-higher healthcare and prescription costs",
+      "role": "overlay"
+    },
+    {
+      "text": "AFFORDABLE HEALTHCARE FOR ALL",
+      "role": "other"
+    },
+    {
+      "text": "but there once was a time...",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is accompanied only by music.",
+  "emojis_present": [
+    "💔"
+  ],
+  "audio_music": "A slow, melancholic, and somber track ('Nothing's Gonna Hurt You Baby' by Cigarettes After Sex) plays throughout the video, creating a nostalgic and mournful mood.",
+  "editing_pacing": "A slow-paced slideshow consisting of two still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anger",
+    "Fear",
+    "Sadness",
+    "Nostalgia"
+  ],
+  "cultural_references": [
+    "The song 'Nothing's Gonna Hurt You Baby' by the band Cigarettes After Sex is used as the background music."
+  ],
+  "central_claim": "Donald Trump's policies harmed Americans by jeopardizing their healthcare and financial stability, in stark contrast to the era of affordable healthcare under Barack Obama.",
+  "intended_effect": "To evoke anger and fear towards Donald Trump's policies while fostering nostalgia for the Obama administration, encouraging viewers to support the Democratic party.",
+  "uncertainty_flags": [
+    "The provided face-ID context reported 'none detected', but Donald Trump and Barack Obama are clearly and easily identifiable in the video."
+  ]
+}

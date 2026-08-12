@@ -1,0 +1,89 @@
+{
+  "video_id": "7598697901384043789",
+  "visual_action": "A fast-paced montage of clips shows Donald Trump and other political figures in various settings. Trump is shown speaking at rallies and in the White House, gesturing erratically, yelling, and walking. Other clips include a man identified by a chyron as 'Pete' swinging an axe, a photo of Trump with Jeffrey Epstein superimposed over a video, Trump in a hard hat on a construction site, JD Vance speaking, Mike Johnson doing pull-ups, and Marco Rubio looking downcast. The editing is rapid, mimicking a reality TV show trailer.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure shown and heard throughout the video in numerous clips. The on-screen text explicitly names the 'trump admin'."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in close-up and speaking at a podium that reads 'TRUMP VANCE'."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "He is shown seated looking serious, and his name is mentioned in the audio: 'Look, Marco is actually probably my best friend.'"
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown doing pull-ups in a gym."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A photograph of him with Donald Trump is superimposed onto the video."
+    },
+    {
+      "name": "Pete Buttigieg",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown swinging an axe, with a partial chyron on screen that reads 'PETE VS. ...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "editing the trump admin like a reality show",
+      "role": "overlay"
+    },
+    {
+      "text": "PETE VS. CLA",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP WILL FIX IT TRUMP VANCE MAKE AMERICA GREAT AGAIN! 2024",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio is a montage of short, out-of-context soundbites. Donald Trump is heard saying, 'For minors, do we love minors? I love minors.' An unidentified man says, 'Look, Marco is actually probably my best friend.' Another man says, 'Someone might want to come through and do a couple pull-ups.' The dialogue is interspersed with grunts and yells from Trump.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, fast-paced electronic track with a driving beat plays throughout the video, mimicking the score of an action movie trailer or a high-drama reality TV show to create a sense of chaos and tension.",
+  "editing_pacing": "Extremely fast-paced montage with very rapid cuts between dozens of short clips, many lasting less than a second, to create a chaotic and jarring effect consistent with the 'reality show' theme.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A photograph of Donald Trump and Jeffrey Epstein is briefly superimposed over a video of Trump speaking, visually associating the two.",
+  "emotions_signaled": [
+    "Mockery",
+    "Alarm",
+    "Disgust",
+    "Drama"
+  ],
+  "cultural_references": [
+    "The entire video's format, from the on-screen text 'editing the trump admin like a reality show' to the rapid editing and dramatic music, is a direct reference to the genre of reality television."
+  ],
+  "central_claim": "The Trump administration and its allies are a chaotic, morally compromised, and ridiculous spectacle akin to a dysfunctional reality show.",
+  "intended_effect": "To frame Donald Trump and his associates as incompetent, dangerous, and absurd, thereby discouraging viewers from supporting them.",
+  "uncertainty_flags": [
+    "The provided face-ID list includes Karoline Leavitt and Robert F. Kennedy Jr., but they were not clearly identifiable in the fast-paced montage.",
+    "The identities of the speakers for the lines 'Look, Marco is actually probably my best friend' and 'Someone might want to come through and do a couple pull-ups' are not confirmed."
+  ]
+}

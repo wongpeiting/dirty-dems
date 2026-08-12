@@ -1,0 +1,57 @@
+{
+  "video_id": "7156618483390745899",
+  "visual_action": "A montage of clips showing Vice President Kamala Harris. In the clips, she is seen laughing under falling confetti, waving to a crowd from a stage while wearing a rainbow-sequined jacket, speaking at a podium, and waving while holding an umbrella in the rain. A text overlay with a birthday message is present throughout.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Kamala Harris is featured in every clip of the montage and is explicitly named in the on-screen text 'Happy Birthday, Vice President Harris!'. Her face is confirmed by the provided face-ID context."
+    },
+    {
+      "name": "Roy Blunt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as present on screen by the provided face-ID context. He is not a focal point of the video and is not otherwise clearly visible."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official account for the Democratic Party, @democrats."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Happy Birthday, Vice President Harris! 🪄",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video opens with a female voice exclaiming, \"Everyone, it's my birthday.\" The rest of the video has no speech, only music.",
+  "emojis_present": [
+    "🪄"
+  ],
+  "audio_music": "The video begins with a short spoken-word clip, then transitions into an upbeat, celebratory electronic dance track (identified as 'El Baile Mejora Tus Emociones — TikTok Mix') that plays for the remainder of the video.",
+  "editing_pacing": "The video is a montage with fast cuts, with each clip lasting for about a second, paced to the beat of the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Joy",
+    "Celebration",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "The opening audio clip, \"Everyone, it's my birthday,\" is a popular TikTok sound originating from the character Schmidt in the TV show 'New Girl'."
+  ],
+  "central_claim": "The video celebrates Vice President Kamala Harris's birthday by showcasing her in a series of positive and happy moments.",
+  "intended_effect": "To generate positive feelings and well-wishes for Vice President Kamala Harris on her birthday.",
+  "uncertainty_flags": [
+    "The provided face-ID context identifies Roy Blunt as being on screen, but he is not clearly visible in the montage."
+  ]
+}

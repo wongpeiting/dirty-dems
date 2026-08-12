@@ -1,0 +1,136 @@
+{
+  "video_id": "7584488152799137079",
+  "visual_action": "The video is a slideshow of still images. It begins with a photograph of Jeffrey Epstein and Donald Trump. This is followed by a screenshot of a tweet from an account named 'FactPost', which includes a close-up photo of Susie Wiles and another photo of Donald Trump, Melania Trump, Jeffrey Epstein, and Ghislaine Maxwell. Next, a screenshot of a paragraph of text is shown, with several lines highlighted in yellow. The video concludes with the same close-up, intense-looking photograph of Susie Wiles.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in two photographs and is named in the on-screen text: \"Trump's Chief of Staff...\" and \"[Trump] is in the file.\""
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in two photographs and named in the on-screen text: \"Epstein files\" and \"[Epstein's] plane.\""
+    },
+    {
+      "name": "Susie Wiles",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photo of her is shown and she is named in the on-screen text as \"Trump's Chief of Staff Susie Wiles\". The post attributes quotes to her."
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "She is named in the second block of text shown on screen: \"In February, Bondi gave binders...\""
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is pictured in a group photo with Donald Trump, Jeffrey Epstein, and Ghislaine Maxwell."
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is pictured in a group photo with Donald Trump and Jeffrey Epstein."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and Twitter handle (@factpostnews) of the account are visible in a screenshot of a tweet."
+    },
+    {
+      "name": "Liz Wheeler",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in a block of text as one of the social media influencers visiting the White House."
+    },
+    {
+      "name": "Jessica Reed Kraus",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in a block of text as one of the social media influencers visiting the White House."
+    },
+    {
+      "name": "Rogan O'Handley",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in a block of text as one of the social media influencers visiting the White House."
+    },
+    {
+      "name": "Chaya Raichik",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in a block of text as one of the social media influencers visiting the White House."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's Chief of Staff speaks on the Epstein files ➡️",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's Chief of Staff Susie Wiles on the Epstein Files:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"[Trump] is in the file. And we know he's in the file... [He] was on [Epstein's] plane... He's on the manifest.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "In February, Bondi gave binders labeled \"The Epstein Files: Phase 1\" to a group of conservative social media influencers who were visiting the White House, including Liz Wheeler, Jessica Reed Kraus, Rogan O'Handley, and Chaya Raichik. The binders turned out to contain nothing but old information. \"I think she completely whiffed on appreciating that that was the very targeted group that cared about this,\" Wiles said of Bondi. \"First she gave them binders full of nothingness. And then she said that the witness list, or the client list, was on her desk. There is no client list, and it sure as hell wasn't on her desk.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only a music track plays.",
+  "emojis_present": [
+    "➡️"
+  ],
+  "audio_music": "The video features two distinct music tracks. It begins with a dramatic pop track, which then transitions around the 7-second mark to a slowed, reverb-heavy, and serious-sounding track that plays over the reveal of the text evidence.",
+  "editing_pacing": "The video is a slow-paced slideshow of static images and text screenshots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Alarm",
+    "Intrigue"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's own Chief of Staff, Susie Wiles, has confirmed that Trump is named in the Epstein files and was on Epstein's flight manifest.",
+  "intended_effect": "To persuade viewers that Donald Trump is implicated in the Jeffrey Epstein scandal, using a supposed statement from a top aide as damaging evidence.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet shown in the screenshot cannot be verified from the video alone.",
+    "The source of the block of text shown after the tweet is not identified, so its authenticity and context are unclear."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "video_id": "7613244233343913247",
+  "visual_action": "The video shows a static screenshot of a tweet from an account named 'FactPost'. The tweet announces that Gina Hinojosa has won the Democratic primary for Texas governor. Below the text are two images side-by-side: a portrait of Gina Hinojosa and a photo of the Texas state flag. The video then slowly zooms in on the portrait of Hinojosa.",
+  "cast": [
+    {
+      "name": "Gina Hinojosa",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name and photo appear in a tweet that reads: 'State Rep. Gina Hinojosa wins the Democratic primary for Texas governor...'"
+    },
+    {
+      "name": "Greg Abbott",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions he is the opponent: '...and will face current Governor Greg Abbott in the general election.'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays a screenshot of a tweet from the account 'FactPost' with the handle '@factpostnews'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions the 'Democratic primary'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @Factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "State Rep. Gina Hinojosa wins the Democratic primary for Texas governor and will face current Governor Greg Abbott in the general election.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video, only music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, upbeat pop track ('Stateside' by PinkPantheress and Zara Larsson) plays throughout the video, creating a positive and celebratory mood.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot, followed by a slow zoom into one of the images within the tweet.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a screenshot of a tweet from a fabricated news source called 'FactPost' to present a political announcement as a legitimate news report.",
+  "emotions_signaled": [
+    "Pride",
+    "Hope",
+    "Celebration"
+  ],
+  "cultural_references": [
+    "The song 'Stateside' by PinkPantheress and Zara Larsson."
+  ],
+  "central_claim": "Gina Hinojosa has won the Democratic primary for Texas governor and will now face Greg Abbott in the general election.",
+  "intended_effect": "To generate excitement and a sense of victory among supporters of Gina Hinojosa and the Democratic Party.",
+  "uncertainty_flags": []
+}

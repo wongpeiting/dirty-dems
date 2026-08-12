@@ -1,0 +1,58 @@
+{
+  "video_id": "7646981757975235853",
+  "visual_action": "A slideshow of two still portrait photographs of Deb Haaland. The first photo has text overlaid announcing she has won the Democratic primary for New Mexico Governor. The second photo shows her looking upwards.",
+  "cast": [
+    {
+      "name": "Deb Haaland",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her name and image are featured prominently with the on-screen text: 'DEB HAALAND WINS DEMOCRATIC PRIMARY FOR NEW MEXICO GOVERNOR'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions the 'DEMOCRATIC PRIMARY'."
+    },
+    {
+      "name": "Midterm News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'MIDTERM NEWS' appears on screen as a watermark or brand."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MIDTERM NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "DEB HAALAND WINS DEMOCRATIC PRIMARY FOR NEW MEXICO GOVERNOR",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only song lyrics from the background music.",
+  "emojis_present": [],
+  "audio_music": "The video features an upbeat, high-energy pop song, identified as Demi Lovato's 'Cool For the Summer', playing throughout. The music creates a celebratory and exciting tone.",
+  "editing_pacing": "A simple slideshow consisting of two static images with one cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Celebration",
+    "Excitement"
+  ],
+  "cultural_references": [
+    "Demi Lovato"
+  ],
+  "central_claim": "Deb Haaland has won the Democratic primary for Governor of New Mexico.",
+  "intended_effect": "To celebrate Deb Haaland's primary victory and build excitement for her gubernatorial campaign.",
+  "uncertainty_flags": [
+    "The nature of 'Midterm News' (whether it is an internal branding for the account's posts or a reference to an external media organization) is unclear."
+  ]
+}

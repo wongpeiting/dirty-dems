@@ -1,0 +1,64 @@
+{
+  "video_id": "7558515083710582030",
+  "visual_action": "Donald Trump stands outside the White House as a black SUV pulls up. A man, identified by on-screen text as Mark Carney, exits the vehicle. Trump and Carney shake hands and speak briefly before standing side-by-side. A Marine in dress uniform walks past in the background. The two men then turn to enter the building.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually identified on screen (confirmed by face-ID) and named in the on-screen text: 'President Trump Welcomes...'"
+    },
+    {
+      "name": "Mark Carney",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text, 'President Trump Welcomes Canadian Prime Minister Mark Carney to White House,' and is shown meeting with Trump."
+    },
+    {
+      "name": "Israel",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An off-screen reporter asks a question to Trump about his 'message to Israel'."
+    },
+    {
+      "name": "Hamas",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An off-screen reporter references 'the second anniversary of the Hamas attack' in a question to Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Welcomes Canadian Prime Minister Mark Carney to White House 🇺🇸🇨🇦",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Mark Carney greets Donald Trump. An off-screen reporter asks, 'President Trump, saw your message to Israel on the second anniversary of the Hamas attack?' Trump replies, 'Thank you very much, everybody.'",
+  "emojis_present": [
+    "🇺🇸",
+    "🇨🇦"
+  ],
+  "audio_music": "The audio consists of diegetic sound, including spoken dialogue and ambient outdoor noise. There is no music.",
+  "editing_pacing": "The video is a single, continuous handheld shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "statesmanship",
+    "formality",
+    "international cooperation"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Donald Trump is actively engaged in international diplomacy by hosting Canadian Prime Minister Mark Carney at the White House.",
+  "intended_effect": "To portray Donald Trump as a presidential figure managing foreign relations and to reinforce the U.S.-Canada alliance under his leadership.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript appears to misinterpret a reporter's question, transcribing 'commandment' instead of what sounds clearly in the audio as 'the Hamas attack'."
+  ]
+}

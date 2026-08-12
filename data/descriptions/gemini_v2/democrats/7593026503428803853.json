@@ -1,0 +1,102 @@
+{
+  "video_id": "7593026503428803853",
+  "visual_action": "The video is a slow slideshow of static images. It begins with a screenshot of a tweet from the 'Democrats' account. The tweet features a quote from George Orwell's '1984' and is presented above a quoted tweet from an account called 'FactPost' about Donald Trump. The video then transitions to a portrait-style photo of a smiling blonde woman outdoors, followed by a photo of the interior of a car's passenger side, showing a blue bag and items in the glove compartment.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The initial image is a screenshot of a tweet from the account 'Democrats' (@TheDemocrats)."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The quoted tweet from 'FactPost' begins, 'Trump defends the ICE agent...'"
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photo of a woman is shown immediately after a tweet describes 'a woman in Minneapolis' being killed, implying the photo is of her."
+    },
+    {
+      "name": "George Orwell",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A quote is attributed to '— George Orwell, 1984' in the main tweet."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A tweet from the account 'FactPost @factpostnews' is shown quoted within the main tweet."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The FactPost tweet mentions 'the ICE agent'."
+    },
+    {
+      "name": "unnamed ICE agent",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The FactPost tweet mentions 'the ICE agent who shot and killed a woman'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "“The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command.” — George Orwell, 1984",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump defends the ICE agent who shot and killed a woman in Minneapolis. Video footage does not support Trump's claims. pic.x.com/GfVb4vbSmr",
+      "role": "overlay"
+    },
+    {
+      "text": "UNIVERSITY",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video. The audio consists of ambient nature sounds (crickets) and a slow, somber instrumental melody.",
+  "emojis_present": [],
+  "audio_music": "The video's audio begins with the sound of crickets chirping. A slow, gentle, and mournful melody played on a synthesized flute-like instrument enters and continues throughout. The overall effect is somber, sad, and elegiac.",
+  "editing_pacing": "The video is a slow-paced slideshow of static images with slow crossfade transitions between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "grief",
+    "outrage",
+    "distrust"
+  ],
+  "cultural_references": [
+    "George Orwell's novel '1984'"
+  ],
+  "central_claim": "Donald Trump and his party are dishonestly defending an ICE agent who killed an innocent woman and are asking their followers to ignore clear evidence, much like the totalitarian party in George Orwell's '1984'.",
+  "intended_effect": "To evoke sadness for the victim and outrage at Donald Trump and his political allies, portraying them as dishonest, callous, and authoritarian.",
+  "uncertainty_flags": []
+}

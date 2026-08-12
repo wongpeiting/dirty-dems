@@ -1,0 +1,62 @@
+{
+  "video_id": "7221400948051152171",
+  "visual_action": "A close-up, static shot of Kevin McCarthy sitting in what appears to be a legislative chamber. He has a serious, pensive expression. Another man, Mike Johnson, is seated behind him and slightly to the side. A text box is overlaid at the bottom of the screen, featuring the logo for The Washington Post and a headline.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the main visual subject of the video, shown in close-up."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly names the party: 'The GOP has no idea what it wants on the budget...'"
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the background, sitting behind Kevin McCarthy."
+    },
+    {
+      "name": "The Washington Post",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The newspaper's name and logo appear on the text overlay, attributing the headline."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Washington Post",
+      "role": "overlay"
+    },
+    {
+      "text": "The GOP has no idea what it wants on the budget, but it’s definitely not that",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A quirky, whimsical, and slightly goofy instrumental track with a repetitive, plucky melody plays throughout. The music serves to mock the subject, creating a comical or foolish atmosphere.",
+  "editing_pacing": "The video consists of a single, static shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [],
+  "central_claim": "The GOP is incompetent and lacks a coherent plan for the national budget.",
+  "intended_effect": "To make the viewer see the Republican party and its leadership as confused, disorganized, and worthy of ridicule.",
+  "uncertainty_flags": []
+}

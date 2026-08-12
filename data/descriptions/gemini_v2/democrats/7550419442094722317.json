@@ -1,0 +1,108 @@
+{
+  "video_id": "7550419442094722317",
+  "visual_action": "The video is a slideshow of still images. It begins with a screenshot of a purported New York Times guest essay dated September 14, 2025, with the headline \"Kathy Hochul: Why I Am Endorsing Zohran Mamdani.\" This is followed by a screenshot of a tweet from Zohran Kwame Mamdani thanking Governor Kathy Hochul for her support, which includes a quote-tweet from Hochul. The final image is a split screen with a photo of Kathy Hochul holding a document from the \"STATE OF NEW YORK\" on top, and a photo of Zohran Mamdani speaking at a press conference on the bottom.",
+  "cast": [
+    {
+      "name": "Kathy Hochul",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her name is in the headline of the fabricated op-ed and in the text of the displayed tweets. A photo of her is also shown."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name is in the headline of the fabricated op-ed and in the text of the displayed tweets. A photo of him is also shown."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and format of The New York Times are used for the fabricated op-ed screenshot."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned in the text of the tweets as someone Hochul and Mamdani will \"stand up to.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The New York Times",
+      "role": "overlay"
+    },
+    {
+      "text": "OPINION\nGUEST ESSAY",
+      "role": "overlay"
+    },
+    {
+      "text": "Kathy Hochul: Why I Am Endorsing Zohran Mamdani",
+      "role": "overlay"
+    },
+    {
+      "text": "Sept. 14, 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "Zohran Kwame Mamdani\n@ZohranKMamdani",
+      "role": "overlay"
+    },
+    {
+      "text": "Thank you @KathyHochul!",
+      "role": "overlay"
+    },
+    {
+      "text": "I'm grateful for the Governor's support in unifying our party, her resolve in standing up to Trump, and her focus on making New York affordable. I look forward to the great work we will accomplish together.",
+      "role": "overlay"
+    },
+    {
+      "text": "Our movement is only growing stronger.",
+      "role": "overlay"
+    },
+    {
+      "text": "Kathy Hochul @KathyHochul",
+      "role": "overlay"
+    },
+    {
+      "text": "New York City deserves a mayor who will stand up to Donald Trump and make life more affordable for New Yorkers.",
+      "role": "overlay"
+    },
+    {
+      "text": "That's @ZohranKMamdani. nytimes.com/2025/09/14/opi...",
+      "role": "overlay"
+    },
+    {
+      "text": "STATE OF NEW YORK",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue in the video; a hip-hop track plays throughout.",
+  "emojis_present": [
+    "🤝"
+  ],
+  "audio_music": "A driving, energetic hip-hop track, identified as \"CARNIVAL\" by Kanye West and Ty Dolla $ign, plays throughout the video, creating a sense of hype and momentum.",
+  "editing_pacing": "The video is a simple slideshow, presenting three static images in sequence with clean cuts between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a fabricated New York Times op-ed from a future date (Sept. 14, 2025), titled 'Kathy Hochul: Why I Am Endorsing Zohran Mamdani,' along with what appear to be fabricated tweets between the two politicians, to simulate a future political endorsement and alliance.",
+  "emotions_signaled": [
+    "Hype",
+    "Anticipation",
+    "Unity",
+    "Confidence"
+  ],
+  "cultural_references": [
+    "CARNIVAL (song by Kanye West and Ty Dolla $ign)"
+  ],
+  "central_claim": "A future political alliance between Kathy Hochul and Zohran Mamdani would represent a strong, unified Democratic front in New York prepared to confront Donald Trump.",
+  "intended_effect": "To generate excitement and support for a potential political alliance between Kathy Hochul and Zohran Mamdani, framing it as a powerful and positive development.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,57 @@
+{
+  "video_id": "7470620077008932142",
+  "visual_action": "A slideshow of two still photos. The first is a close-up of Elon Musk looking at the camera. The second shows Elon Musk in conversation with Donald Trump, who is wearing a red hat.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in two photos and named in the on-screen text: 'Elon Musk, Trump's head of DOGE'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in a photo with Elon Musk and named in the on-screen text: 'Trump's head of DOGE'."
+    },
+    {
+      "name": "SpaceX",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the on-screen text as the recipient of a government contract: '...for his company SpaceX'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Elon Musk, Trump's head of DOGE",
+      "role": "overlay"
+    },
+    {
+      "text": "has received a new $38,858,978 government contract for his company SpaceX",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video contains no spoken dialogue, only a music track.",
+  "emojis_present": [],
+  "audio_music": "A slow, atmospheric music track ('me and the devil' by Lil C.C.) plays throughout the video, creating a serious and slightly ominous tone.",
+  "editing_pacing": "A slow-paced slideshow with one cut between two static photos.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The on-screen text presents a fabricated title for Elon Musk, 'Trump's head of DOGE,' to satirically link him to Donald Trump and the cryptocurrency Dogecoin.",
+  "emotions_signaled": [
+    "mockery",
+    "suspicion",
+    "outrage"
+  ],
+  "cultural_references": [
+    "Dogecoin (DOGE)"
+  ],
+  "central_claim": "Elon Musk, framed satirically as 'Trump's head of DOGE,' has received a new government contract for SpaceX worth over $38 million, implying this is a result of his connection to Trump.",
+  "intended_effect": "To foster disapproval of Donald Trump and Elon Musk by implying their relationship involves cronyism.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,144 @@
+{
+  "video_id": "7470580275823578411",
+  "visual_action": "A static image of a Venn diagram is displayed. The left circle is yellow and the right circle is pink. The intersection of the two circles contains a list of United States federal agencies and their seals. At the top of the image, there is a title next to a blue, circular graphic with a single large eye.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads \"what Elon doesn't want you to know\" and labels one of the Venn diagram circles \"agencies with oversight of Musk's companies\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text labels one of the Venn diagram circles \"agencies impacted by sudden Trump firings\"."
+    },
+    {
+      "name": "Department of Transportation",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"Transportation\" with its seal in the Venn diagram."
+    },
+    {
+      "name": "Department of the Interior",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"Interior\" with its seal in the Venn diagram."
+    },
+    {
+      "name": "Department of Justice",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"Justice\" with its seal in the Venn diagram."
+    },
+    {
+      "name": "Department of Agriculture",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"Agriculture\" with its seal in the Venn diagram."
+    },
+    {
+      "name": "National Labor Relations Board",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"Nat'l Labor Relations Board\" with its seal in the Venn diagram."
+    },
+    {
+      "name": "Equal Employment Opportunity Commission",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"Equal Employment Opp. Comm.\" with its seal in the Venn diagram."
+    },
+    {
+      "name": "Consumer Financial Protection Bureau",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"CFPB\" with its seal in the Venn diagram."
+    },
+    {
+      "name": "Securities and Exchange Commission",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"Securities & Exchange Comm.\" with its seal in the Venn diagram."
+    },
+    {
+      "name": "Department of Defense",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"Defense\" with its seal in the Venn diagram."
+    },
+    {
+      "name": "Federal Election Commission",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"Federal Election Comm.\" with its seal in the Venn diagram."
+    },
+    {
+      "name": "Office of Government Ethics",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as \"Office of Gov't Ethics\" with its seal in the Venn diagram."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "what Elon doesn't want you to know",
+      "role": "overlay"
+    },
+    {
+      "text": "agencies impacted by sudden Trump firings",
+      "role": "overlay"
+    },
+    {
+      "text": "agencies with oversight of Musk's companies",
+      "role": "overlay"
+    },
+    {
+      "text": "Transportation\nInterior\nJustice\nAgriculture\nNat'l Labor Relations Board\nEqual Employment Opp. Comm.\nCFPB\nSecurities & Exchange Comm.\nDefense\nFederal Election Comm.\nOffice of Gov't Ethics",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video.",
+  "emojis_present": [],
+  "audio_music": "A short, ominous, and dramatic musical chord plays and holds throughout the video, creating a sense of suspense and revelation.",
+  "editing_pacing": "The video is a static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Alarm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's firings of government officials directly benefited Elon Musk by removing oversight from numerous agencies that regulate his companies.",
+  "intended_effect": "To convince the viewer that Trump and Musk are colluding to eliminate regulatory oversight for Musk's benefit.",
+  "uncertainty_flags": [
+    "The specific origin or meaning of the blue, one-eyed circular graphic is unclear, though it resembles an older style of internet emoticon."
+  ]
+}

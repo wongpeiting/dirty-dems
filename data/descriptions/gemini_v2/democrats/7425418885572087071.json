@@ -1,0 +1,66 @@
+{
+  "video_id": "7425418885572087071",
+  "visual_action": "Kamala Harris speaks at a podium to a large, cheering crowd indoors. The crowd holds blue signs that say \"HARRIS WALZ\" and \"vote\". The video cuts between shots of Harris speaking and wider shots of the enthusiastic audience reacting to her speech.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Kamala Harris is shown speaking at a rally for the entire duration of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the beginning reads \"Kamala SHREDS Trump\". Harris's entire speech is about her opponent's refusal to release records, debate, or do interviews."
+    },
+    {
+      "name": "Harris/Walz campaign",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The crowd is holding signs that read \"HARRIS WALZ\" and a logo with the same text is visible in the upper right corner of some shots."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kamala SHREDS Trump today in North Carolina for HIDING!",
+      "role": "caption"
+    },
+    {
+      "text": "GREENVILLE, NC",
+      "role": "chyron"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "HERE'S... NORTH CAROLINA... BEING TRANSPARENT... WITH VOTERS... BEING TRANSPARENT... CHECK OUT... REFUSES... RELEASE... RECORDS... DONE... EVERY OTHER... PRESIDENTIAL... CAMP... EVERY OTHER... PRESIDENTIAL... CANDIDATE... MODERN ERA... HAS DONE IT... UNWILLING... 60 MINUTES... INTERVIEW... LIKE EVERY... OTHER... MAJOR PARTY... CANDIDATE... HAS DONE... FOR MORE THAN... HALF A CENTURY... HE IS UNWILLING... TO MEET FOR A... SECOND DEBATE... AND HERE'S THE THING... HERE'S THE THING... MAKES YOU WONDER... IT MAKES YOU WONDER... WHY DOES HIS STAFF... WANT HIM TO HIDE AWAY... MUST QUESTION... QUESTION... AFRAID... THAT PEOPLE WILL SEE... HE IS TOO WEAK AND UNSTABLE... TO LEAD AMERICA... IS THAT WHAT'S GOING ON",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Kamala Harris criticizes her opponent, Donald Trump, for not being transparent with voters. She highlights his refusal to release medical records, do a 60 Minutes interview, or participate in a second debate, noting that these are standard practices for presidential candidates. She concludes by questioning if his staff is hiding him because they fear the public will see he is \"too weak and unstable to lead America,\" which elicits a massive cheer from the crowd.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of Kamala Harris's speech at a rally, with the prominent sound of a large, supportive crowd cheering, applauding, and reacting vocally throughout. There is no music.",
+  "editing_pacing": "The video uses quick cuts between various angles of Kamala Harris and wide shots of the cheering crowd. The pacing is made more dynamic by large, yellow text overlays that appear in sync with her speech, emphasizing key words and phrases.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Triumph",
+    "Concern",
+    "Partisan pride"
+  ],
+  "cultural_references": [
+    "60 Minutes"
+  ],
+  "central_claim": "Donald Trump is hiding from public scrutiny by refusing to release medical records, do interviews, or debate because he and his staff know he is too weak and unstable to lead the country.",
+  "intended_effect": "To persuade viewers that Donald Trump is unfit for office due to a lack of transparency and stability, while positioning Kamala Harris as a strong and confident leader.",
+  "uncertainty_flags": []
+}

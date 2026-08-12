@@ -1,0 +1,62 @@
+{
+  "video_id": "7608687891098750221",
+  "visual_action": "Donald Trump, in a blue suit, stands inside a fast-food restaurant called The Varsity, speaking to a group of employees behind a stainless steel counter. The employees, mostly Black men and women in red and white uniforms, are smiling and listening attentively, with some holding up phones to record. The camera is mostly static, filming Trump from behind and to the side.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure on screen, identified by face recognition, and is named in the on-screen text: 'President Trump orders hamburgers...'"
+    },
+    {
+      "name": "The Varsity",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The restaurant is identified by name in the on-screen text: '...orders hamburgers from The Varsity...'"
+    },
+    {
+      "name": "The Varsity employees",
+      "kind": "unknown",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A group of employees in uniform are shown on screen interacting with Donald Trump."
+    },
+    {
+      "name": "Air Force One",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Donald Trump in his speech and named in the on-screen text as the destination for the food."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump orders hamburgers from The Varsity to take back on Air Force One! 🍔🇺🇸",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump interacts with employees at a fast-food restaurant, asking if they are treated well. He then tells them he is ordering hamburgers for his team to take on Air Force One after he gives a speech. He remarks, 'Air Force One has nice warming... We can do anything on Air Force One.'",
+  "emojis_present": [
+    "🍔",
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists entirely of dialogue and ambient restaurant sounds. There is no music.",
+  "editing_pacing": "The video is a single, continuous shot with a static camera.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Relatability",
+    "Goodwill",
+    "Populism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a relatable president who connects positively with working-class Americans, as demonstrated by his friendly visit to a fast-food restaurant.",
+  "intended_effect": "To portray Donald Trump in a positive and populist light, showing him as personable and well-liked by everyday people.",
+  "uncertainty_flags": []
+}

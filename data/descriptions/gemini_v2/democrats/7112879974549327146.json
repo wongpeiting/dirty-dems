@@ -1,0 +1,59 @@
+{
+  "video_id": "7112879974549327146",
+  "visual_action": "A medium close-up shot of Rep. Tim Ryan speaking into a microphone held by an off-screen person. He is outdoors in a crowd, and a protest sign is partially visible in the background. He gestures with his hands as he speaks earnestly.",
+  "cast": [
+    {
+      "name": "Tim Ryan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face recognition and on-screen text. He is the sole speaker in the video."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text mentions \"extremist Republicans\" as the subject of Tim Ryan's warning."
+    },
+    {
+      "name": "Madison Cawthorn",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Tim Ryan mentions him by name, asking, \"You want Madison Cawthorn in your bedroom?\""
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Tim Ryan mentions him by name, asking, \"You want Matt Gaetz in your bedroom?\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep. Tim Ryan warning that extremist Republicans are attacking the right to privacy",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Rep. Tim Ryan argues that the government has no business in people's private lives, specifically criticizing certain Republicans. He rhetorically asks the listener, \"You want Madison Cawthorn in your bedroom? You want Matt Gaetz in your bedroom?\" He calls such government intrusion \"insanity\" and warns that these \"radicals are in your bedroom.\" He then suggests that rights like same-sex marriage are under threat, stating, \"They're coming after your kid next.\" Ryan concludes by calling for a \"big election\" and a \"sustained movement of Americans expanding rights.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Tim Ryan's speech with ambient background noise from the surrounding crowd. There is no music.",
+  "editing_pacing": "The video is a single, continuous shot with no cuts or special editing effects, styled like a man-on-the-street interview or press scrum.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Alarm",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Extremist Republicans are threatening Americans' right to privacy and other established rights like same-sex marriage, which requires an urgent and sustained electoral response.",
+  "intended_effect": "To alarm viewers about the perceived threats from the Republican party to personal freedoms and motivate them to vote for Democrats.",
+  "uncertainty_flags": []
+}

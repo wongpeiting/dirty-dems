@@ -1,0 +1,98 @@
+{
+  "video_id": "7570097231005568269",
+  "visual_action": "A close-up shot of Donald Trump speaking is shown with a distorted color filter. A series of screenshots of negative economic news headlines are rapidly superimposed over his face. The headlines are about tariffs, job cuts, voter frustration, and inflation.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is the main visual throughout the video, he speaks the opening line, and the overlaid news headlines are about his economic policies."
+    },
+    {
+      "name": "LendingTree",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An overlaid news headline reads: \"...LendingTree warns\"."
+    },
+    {
+      "name": "CNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The CNBC logo and name appear on a news headline screenshot."
+    },
+    {
+      "name": "Challenger",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An overlaid news headline reads: \"...Challenger says\"."
+    },
+    {
+      "name": "NBC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An overlaid news headline reads: \"...NBC News poll shows\"."
+    },
+    {
+      "name": "Treasury Dept.",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An overlaid news headline begins: \"Treasury Dept. says inflation is running 'above target'...\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TIONS FROM REPOR",
+      "role": "chyron"
+    },
+    {
+      "text": "POLITICS\nTrump tariffs could add $40 billion to holiday shoppers' and sellers' costs, LendingTree warns",
+      "role": "overlay"
+    },
+    {
+      "text": "ECONOMY\nJob cuts in October hit highest level for the month in 22 years, Challenger says",
+      "role": "overlay"
+    },
+    {
+      "text": "POLITICS\nVoters express frustration with Trump's handling of economy, NBC News poll shows",
+      "role": "overlay"
+    },
+    {
+      "text": "ECONOMY\nTreasury Dept. says inflation is running 'above target' as Trump insists there is 'no inflation'",
+      "role": "overlay"
+    },
+    {
+      "text": "bruh",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"I don't want to hear about the affordability.\" The rest of the audio consists of a variety of cartoonish sound effects.",
+  "emojis_present": [],
+  "audio_music": "The video opens with dialogue, which is immediately followed by a rapid, chaotic collage of meme-like sound effects including a horse whinny, dialing tones, and other cartoonish noises. The sounds are timed to the appearance of each news headline to create a mocking and chaotic effect.",
+  "editing_pacing": "The video uses a static shot of Donald Trump as a background, with fast cuts of news headline screenshots appearing as overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "alarm"
+  ],
+  "cultural_references": [
+    "Meme sound collage"
+  ],
+  "central_claim": "Donald Trump is dismissive of economic affordability issues while his policies are causing inflation, job cuts, and voter frustration.",
+  "intended_effect": "To portray Donald Trump as out of touch with and responsible for negative economic conditions.",
+  "uncertainty_flags": [
+    "The fingerprinted music provided in the context does not match the audible sound effects in the video, which are a collage of meme sounds rather than a single song."
+  ]
+}

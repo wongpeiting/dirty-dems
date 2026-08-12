@@ -1,0 +1,78 @@
+{
+  "video_id": "7665403650029686030",
+  "visual_action": "The video shows a congressional hearing where Senator Jon Ossoff questions a witness, identified by a chyron as Defense Secretary Pete Hegseth. The camera cuts between Ossoff, who is speaking from the dais, and Hegseth, who is seated at a witness table. There are other people in the background of the hearing room. Towards the end of the clip, a split-screen is used to show both men's faces simultaneously as their exchange becomes more tense.",
+  "cast": [
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face-ID, on-screen text, and is the primary speaker, questioning Pete Hegseth. The overlay text 'jon ossoff destroying pete hegseth' frames him as the protagonist."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face-ID, on-screen text, and is the subject of the questioning. The overlay text frames him as being 'destroyed'."
+    },
+    {
+      "name": "unnamed female chair",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman's voice is heard at the beginning of the clip presiding over the hearing and calling time at the end."
+    },
+    {
+      "name": "unnamed male senator",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male voice is heard yielding his time to Senator Ossoff near the beginning of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "fuck it, 6 full minutes of jon ossoff destroying pete hegseth with ease",
+      "role": "overlay"
+    },
+    {
+      "text": "DEFENSE SECY HEGSETH TESTIFIES ON CAPITOL HILL AMID RENEWED STRIKES ON IRAN",
+      "role": "chyron"
+    },
+    {
+      "text": "MS NOW LIVESTREAM",
+      "role": "chyron"
+    },
+    {
+      "text": "CAPITOL HILL 5:47 PM",
+      "role": "chyron"
+    },
+    {
+      "text": "hold for 2x",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video shows Senator Jon Ossoff intensely questioning Defense Secretary Pete Hegseth during a congressional hearing. Ossoff confronts Hegseth with his past statements from early in a conflict with Iran, where Hegseth allegedly claimed Iran's military had been 'destroyed' and made 'combat ineffective for years to come.' Hegseth attempts to defend or re-contextualize these statements, while Ossoff repeatedly interrupts him, demanding a direct 'yes or no' answer as to whether the statements were accurate. Hegseth avoids giving a direct answer, leading to a tense back-and-forth until the chairwoman announces Ossoff's time has expired.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the congressional hearing. There is no music or added sound effects.",
+  "editing_pacing": "The video uses standard news-style editing, cutting between different angles of the speakers. It employs zooms to emphasize reactions and a split-screen effect during the most confrontational part of the exchange.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph (Framed for Ossoff's performance)",
+    "Contempt (Directed at Hegseth's evasiveness)"
+  ],
+  "cultural_references": [
+    "The on-screen text 'fuck it, [x]' is a common internet meme format used to introduce a lengthy or noteworthy piece of content."
+  ],
+  "central_claim": "Pete Hegseth, as Defense Secretary, made misleadingly optimistic claims about a war with Iran, and Senator Jon Ossoff is now holding him accountable for these inaccurate statements.",
+  "intended_effect": "The video is intended to make viewers admire Jon Ossoff's sharp questioning and competence while viewing Pete Hegseth as evasive, dishonest, and incompetent.",
+  "uncertainty_flags": [
+    "The context of the hearing, including when it took place and the specific conflict with Iran being discussed, is not fully established by the video clip itself, though the chyron provides some details."
+  ]
+}

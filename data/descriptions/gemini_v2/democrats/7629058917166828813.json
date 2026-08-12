@@ -1,0 +1,120 @@
+{
+  "video_id": "7629058917166828813",
+  "visual_action": "A split-screen view of a Fox News broadcast from the White House press briefing room. On the right, a man in a suit and tie, identified by a chyron as Scott Bessent, speaks at a podium. On the left, two men in suits are shown in the audience. A Fox News chyron is visible at the bottom of the screen, and large text overlays appear, transcribing the speech with emphasis.",
+  "cast": [
+    {
+      "name": "Scott Bessent",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking and is identified by a Fox News chyron reading 'SCOTT BESSENT | TREASURY SECRETARY'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The main on-screen text at the top of the video reads, \"Trump's Treasury Secretary...\" and the speaker also says, \"President Trump said this morning...\""
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The broadcast is explicitly from Fox News, with their logo visible in the bottom left corner."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's Treasury Secretary calls the Strait of Hormuz the Strait of Vermouth 🤭",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "other"
+    },
+    {
+      "text": "LIVE | 1:34 PM ET",
+      "role": "other"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "SCOTT BESSENT | TREASURY SECRETARY",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: BESSENT ON LOWERING GAS PRICES",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENT TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "SAID THIS MORNING",
+      "role": "overlay"
+    },
+    {
+      "text": "WE'RE NEARING",
+      "role": "overlay"
+    },
+    {
+      "text": "THE END.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE US",
+      "role": "overlay"
+    },
+    {
+      "text": "KEPT THEIR SIDE ON",
+      "role": "overlay"
+    },
+    {
+      "text": "THE CEASEFIRE.",
+      "role": "overlay"
+    },
+    {
+      "text": "FIRING.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE STRAIT OF",
+      "role": "overlay"
+    },
+    {
+      "text": "VERMOUTH HAVE NOT",
+      "role": "overlay"
+    },
+    {
+      "text": "BEEN COMPLETELY",
+      "role": "overlay"
+    },
+    {
+      "text": "REOPENED.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Speaking at a White House press briefing, Treasury Secretary Scott Bessent discusses President Trump and a ceasefire. During his remarks, he makes a verbal gaffe, stating, \"The straits of Vermouth have not been completely reopened,\" instead of saying the \"Strait of Hormuz.\"",
+  "emojis_present": [
+    "🤭"
+  ],
+  "audio_music": "The audio consists solely of a man speaking during what appears to be a live news broadcast from a press briefing. There is no music or other sound design.",
+  "editing_pacing": "The video uses a static shot from a news broadcast. The primary editing technique is the use of large, colored text overlays that appear sequentially to highlight the words being spoken.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's Treasury Secretary, Scott Bessent, is incompetent, as evidenced by his gaffe of calling the Strait of Hormuz the \"Strait of Vermouth\" during a formal press briefing.",
+  "intended_effect": "To cause the audience to ridicule Scott Bessent and, by association, question the judgment and competence of Donald Trump's administration.",
+  "uncertainty_flags": []
+}

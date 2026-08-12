@@ -1,0 +1,63 @@
+{
+  "video_id": "7185289053875621163",
+  "visual_action": "The video first shows Hakeem Jeffries on what appears to be the floor of the House of Representatives, being hugged and congratulated by colleagues as others applaud. A wider shot shows many people in the chamber standing and clapping. The video then cuts to a close-up of Kevin McCarthy sitting with a serious expression.",
+  "cast": [
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown being congratulated and is named in the on-screen text: 'Democrats rallying behind Rep. Jeffries for House Democratic leader'."
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown with a serious expression while on-screen text mocks Republicans."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text 'Democrats rallying behind Rep. Jeffries' and the celebratory scene represent the party's unity. The post is from the official '@democrats' account."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text 'Republicans can't pick a speaker...' directly references the party's situation."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats rallying behind Rep. Jeffries for House Democratic leader",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans can't pick a speaker...",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of cheering and applause in the first half, followed by a loud, dramatic thud or gavel-like sound effect in the second half.",
+  "emojis_present": [],
+  "audio_music": "The first part of the video has diegetic sounds of cheering and applause, creating a celebratory atmosphere. This abruptly cuts to a single, loud, dramatic thud sound effect when the video shows Kevin McCarthy, adding a sense of failure or finality to the shot.",
+  "editing_pacing": "The video uses a simple, static editing style, with a hard cut between two scenes to create a stark contrast.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "unity",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "While Democrats are unified in selecting Hakeem Jeffries as their leader, Republicans are in disarray and unable to choose a Speaker of the House.",
+  "intended_effect": "To make viewers feel pride in Democratic unity and to mock the perceived disfunction and division within the Republican party.",
+  "uncertainty_flags": []
+}

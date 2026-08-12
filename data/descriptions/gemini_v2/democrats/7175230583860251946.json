@@ -1,0 +1,77 @@
+{
+  "video_id": "7175230583860251946",
+  "visual_action": "A slideshow of professional portrait photos of various smiling white men in suits is shown. An American flag is visible in the background of some of the photos. A red text box is overlaid on the bottom of the screen throughout the video.",
+  "cast": [
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text says: 'Remember when 195 House Republicans voted against a bill to protect access to birth control?'"
+    },
+    {
+      "name": "Unnamed Republican Representatives",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Multiple portrait photos of unidentified men, implied to be among the '195 House Republicans' mentioned in the text, are shown in a slideshow."
+    },
+    {
+      "name": "Dan Crenshaw",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID as one of the individuals shown in the photo slideshow."
+    },
+    {
+      "name": "Elise Stefanik",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID as one of the individuals shown in the photo slideshow."
+    },
+    {
+      "name": "Lee Zeldin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID as one of the individuals shown in the photo slideshow."
+    },
+    {
+      "name": "Markwayne Mullin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID as one of the individuals shown in the photo slideshow."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Remember when 195 House Republicans voted against a bill to protect access to birth control?",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is accompanied only by music.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, and atmospheric instrumental track plays throughout the video, creating a somber and reflective mood.",
+  "editing_pacing": "The video is a slideshow with slow fades between static portrait photos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "disapproval",
+    "reproach"
+  ],
+  "cultural_references": [],
+  "central_claim": "195 House Republicans voted against a bill that would have protected access to birth control.",
+  "intended_effect": "To cause viewers to remember and disapprove of House Republicans' voting record on birth control access.",
+  "uncertainty_flags": [
+    "The authoritative face-ID lists Elise Stefanik as appearing in the video, but visually only men appear to be shown in the rapid slideshow. It's possible she appears too briefly to register or the clip is a shortened version of the one analyzed for face-ID."
+  ]
+}

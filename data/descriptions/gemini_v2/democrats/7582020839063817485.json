@@ -1,0 +1,59 @@
+{
+  "video_id": "7582020839063817485",
+  "visual_action": "The video displays a screenshot of a tweet from an account named 'FactPost'. The tweet announces that Eileen Higgins has been elected the next mayor of Miami and is the first Democrat to hold the position in over 30 years. The tweet includes a smiling photo of Higgins, a woman with blonde hair and glasses. The video then slowly zooms in on this photo.",
+  "cast": [
+    {
+      "name": "Eileen Higgins",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name and photo appear in an on-screen tweet that states, 'Eileen Higgins has been elected the next mayor of Miami.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, 'She will be the first Democrat in over 30 years to hold this position.' The video was also posted by the @democrats account."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are visible at the top of the tweet screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Eileen Higgins has been elected the next mayor of Miami. She will be the first Democrat in over 30 years to hold this position.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only the lyrics and music of a song.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, celebratory hip-hop track plays throughout the clip. The identified track is 'Miami' by Will Smith.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot, followed by a slow zoom into the photo within the tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "celebration",
+    "pride",
+    "triumph"
+  ],
+  "cultural_references": [
+    "The video is set to the song 'Miami' by Will Smith."
+  ],
+  "central_claim": "Democrat Eileen Higgins has won the Miami mayoral election, a significant victory for the party as she is the first Democrat to hold the office in over 30 years.",
+  "intended_effect": "To generate excitement and a sense of victory among supporters by highlighting a significant electoral win for the Democratic Party in Miami.",
+  "uncertainty_flags": [
+    "Uncertain about the nature and authenticity of the 'FactPost' Twitter account shown in the screenshot."
+  ]
+}

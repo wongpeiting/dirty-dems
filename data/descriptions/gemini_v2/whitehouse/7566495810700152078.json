@@ -1,0 +1,55 @@
+{
+  "video_id": "7566495810700152078",
+  "visual_action": "The video opens with an aerial shot, seemingly from the window of a large airplane, showing the plane's wing. Four fighter jets fly in formation alongside the airplane, over a body of water with a coastal city visible in the distance. The video then cuts to a quick montage of three black-and-white still photos: a close-up on the columns of the White House, the Marine One helicopter landing on the White House lawn, and a full shot of the White House.",
+  "cast": [
+    {
+      "name": "United States",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The caption explicitly mentions 'U.S. F-16s' and 'Air Force One'."
+    },
+    {
+      "name": "South Korea",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The caption mentions '2 Korean...F-16s' and the flight being escorted 'into South Korea'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with on-screen text reading 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a rap song with a male vocalist. The provided transcript 'We'll be right back' does not match the audible lyrics, which include lines like 'Make this here with all the ice on in the booth' and 'jump out boys'.",
+  "emojis_present": [
+    "💪"
+  ],
+  "audio_music": "An upbeat, energetic hip-hop track with a strong beat and male vocals plays throughout the video, creating a powerful and hype-filled atmosphere.",
+  "editing_pacing": "The video consists of a single, steady aerial shot for the first 11 seconds, which then cuts to a quick slideshow of three black-and-white still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "strength",
+    "awe"
+  ],
+  "cultural_references": [],
+  "central_claim": "The United States and South Korea have a strong military alliance, demonstrated by their joint fighter jet escort of Air Force One.",
+  "intended_effect": "To evoke a sense of pride in American military power and its strong international alliances.",
+  "uncertainty_flags": [
+    "The provided whisper transcript does not match the audible rap music in the video."
+  ]
+}

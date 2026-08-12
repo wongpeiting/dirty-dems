@@ -1,0 +1,128 @@
+{
+  "video_id": "7626122357547060493",
+  "visual_action": "The video opens with cinematic shots of Earth from space, followed by views of the moon's surface. On-screen text identifies the audio as voices from NASA and President Donald Trump. A still photograph shows four astronauts—three men and one woman—floating in zero gravity inside a spacecraft, with American and Canadian flags behind them. The video then cuts to various B-roll shots including a close-up of a person lying down as if in a spacecraft, more views of the moon and an 'earthrise', and then back to the four astronauts waving and speaking into microphones. The video concludes with an animated logo of the White House.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A speaker introduces \"President Donald J. Trump\" and on-screen text reads \"Voice of: President Donald J. Trump,\" followed by his voice speaking for much of the video."
+    },
+    {
+      "name": "NASA",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "President Trump thanks \"the entire amazing team at NASA.\""
+    },
+    {
+      "name": "Jared Isaacson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "On-screen text identifies the \"Voice of: NASA Administrator Jared Isaacson.\" An astronaut later thanks \"our administrator, Jared Isaacman.\""
+    },
+    {
+      "name": "NASA Mission Control",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video opens with on-screen text reading \"Voice of: NASA Mission Control\" as a voice speaks."
+    },
+    {
+      "name": "Artemis II crew",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The entire video is a conversation with the Artemis II crew, who are named, shown, and speak."
+    },
+    {
+      "name": "Reed Wiseman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "President Trump names him as \"Commander Reed Weissman.\" An astronaut who appears to be him speaks at length."
+    },
+    {
+      "name": "Victor Glover",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "President Trump names him as \"Pilot Victor Glover.\" An astronaut who appears to be him speaks at the end of the video."
+    },
+    {
+      "name": "Christina Koch",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "President Trump names her as \"Mission Specialist Christina Koch.\" An astronaut who appears to be her speaks about seeing Earth from the far side of the moon."
+    },
+    {
+      "name": "Jeremy Hansen",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "President Trump names him as part of the crew. He is seen in the group shot of the astronauts."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Voice of: NASA Mission Control",
+      "role": "overlay"
+    },
+    {
+      "text": "Voice of: NASA Administrator Jared Isaacson",
+      "role": "overlay"
+    },
+    {
+      "text": "All images captured by the Artemis II crew on April 6, 2026",
+      "role": "overlay"
+    },
+    {
+      "text": "Voice of: President Donald J. Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICA 250",
+      "role": "other"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video presents a simulated call set in April 2026 between President Donald Trump and the crew of the Artemis II mission. After introductions from NASA Mission Control and NASA Administrator Jared Isaacson, Trump congratulates the astronauts—Commander Reed Wiseman, Pilot Victor Glover, Mission Specialist Christina Koch, and Jeremy Hansen—on their historic mission circling the moon. He praises them for making America proud and breaking distance records. The astronauts thank the President and the NASA administrator for their leadership and describe the profound experience of seeing Earth from space after returning from the far side of the moon. Trump concludes by saying he looks forward to welcoming them to the Oval Office and asking for their autographs, emphasizing the global significance of their achievement.",
+  "emojis_present": [
+    "🚀",
+    "🇺🇸"
+  ],
+  "audio_music": "A continuous, grand, and inspirational orchestral score plays throughout the video, creating a cinematic and patriotic tone suitable for a historic event.",
+  "editing_pacing": "The video is edited at a slow, deliberate pace, cutting between majestic space imagery and shots of the astronauts. The style is akin to a commemorative documentary.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The entire video is a staged fake broadcast, creating a fictional event set in the future (April 2026). It combines real footage of astronauts and space with what is likely synthesized or spliced audio to depict a congratulatory call from President Trump to the Artemis II crew that did not actually happen as portrayed.",
+  "emotions_signaled": [
+    "pride",
+    "patriotism",
+    "awe",
+    "inspiration"
+  ],
+  "cultural_references": [
+    "The caption 'To infinity… and beyond' is a famous catchphrase of the character Buzz Lightyear from the Disney/Pixar movie franchise 'Toy Story'."
+  ],
+  "central_claim": "Under a future Trump presidency in 2026, the United States achieves a historic new milestone in space exploration with the Artemis II mission, reinforcing American greatness and leadership.",
+  "intended_effect": "To inspire feelings of national pride and associate a major future American achievement in space directly with the leadership of Donald Trump.",
+  "uncertainty_flags": [
+    "The authenticity of the audio is uncertain; the voices, particularly Donald Trump's, could be AI-generated or spliced together from different recordings to fit the narrative.",
+    "The specific visual footage of the astronauts may be repurposed from previous real missions or training exercises."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "video_id": "7654643423357570318",
+  "visual_action": "A slideshow of two static images. The first is a photo of Donald Trump sitting at a table and speaking, next to another man in a blue suit. The second image is a bar chart comparing public support for various US wars, titled 'Iran War', with data sourced from Gallup and YouGov/Economist.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photo of him is shown under the text 'trump's war in iran is the most unpopular war in modern history'."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man in a blue suit is shown sitting next to Donald Trump in the photograph."
+    },
+    {
+      "name": "Stephen Semler",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is credited as the creator of the chart shown in the video: 'Chart: Stephen Semler'."
+    },
+    {
+      "name": "Gallup",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as a data source for the chart: 'Data: Gallup...'"
+    },
+    {
+      "name": "YouGov",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as a data source for the chart: 'Data: ...YouGov/Economist...'"
+    },
+    {
+      "name": "The Economist",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Listed as a data source for the chart: 'Data: ...YouGov/Economist...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "trump's war in iran is the most unpopular war in modern history",
+      "role": "overlay"
+    },
+    {
+      "text": "Iran War: No US war began or ended with less public support",
+      "role": "other"
+    },
+    {
+      "text": "*War is ongoing- polling data as of Jun 2026.",
+      "role": "other"
+    },
+    {
+      "text": "Data: Gallup (Dec 1941-Apr 1946; Aug 1950-Jan 1953; Jan 1973; Jan 1991-Jan 1992; Nov 2001-Jul 2021; Mar 2003-Aug 2010); YouGov/Economist (Mar-Jun 2026). Read more: stephensemler com",
+      "role": "credit"
+    },
+    {
+      "text": "Chart: Stephen Semler (@stephensemler | stephensemler com)",
+      "role": "credit"
+    },
+    {
+      "text": "Created with Datawrapper",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "A gentle, somber song, identified as 'Army Dreamers' by Kate Bush, plays throughout the video, creating a mournful and critical tone.",
+  "editing_pacing": "The video is a slideshow of two static images: a photograph followed by a data chart.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Disapproval"
+  ],
+  "cultural_references": [
+    "The background music is the song 'Army Dreamers' by Kate Bush, an anti-war song."
+  ],
+  "central_claim": "Donald Trump's war in Iran is the most unpopular war in modern American history.",
+  "intended_effect": "To generate disapproval of Donald Trump by portraying him as the initiator of a historically unpopular war.",
+  "uncertainty_flags": []
+}

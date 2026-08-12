@@ -1,0 +1,93 @@
+{
+  "video_id": "7581221297187818807",
+  "visual_action": "The video starts with a smartphone lock screen showing a painted portrait of Donald Trump wearing a crown as the wallpaper. A 'Ring' notification appears, reading 'There is a motion at your Front Door'. The video then transitions into a simulated Ring app interface, which plays a montage of clips of Donald Trump. The clips show him looking up at the sky, on an aircraft carrier as a jet flies over, wearing a MAGA hat while talking to press, watching military jets fly by, and walking on the White House lawn. The video ends with black and white footage of the White House and a helicopter, with the text 'THE WHITE HOUSE' overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the subject of the entire video montage and the wallpaper image at the beginning."
+    },
+    {
+      "name": "Ring",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video uses a simulated Ring doorbell notification and app interface as its central framing device."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'THE WHITE HOUSE' is displayed at the end of the video over shots of the building."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Saturday, December 6",
+      "role": "overlay"
+    },
+    {
+      "text": "6:07",
+      "role": "overlay"
+    },
+    {
+      "text": "RING",
+      "role": "overlay"
+    },
+    {
+      "text": "There is a motion at your Front Door",
+      "role": "overlay"
+    },
+    {
+      "text": "now",
+      "role": "overlay"
+    },
+    {
+      "text": "Front Door",
+      "role": "overlay"
+    },
+    {
+      "text": "TODAY 6:07:18 PM",
+      "role": "overlay"
+    },
+    {
+      "text": "Motion",
+      "role": "overlay"
+    },
+    {
+      "text": "Live",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from the A$AP Rocky song \"Trunks,\" including the repeated phrase \"back out the trunk from the front to the back.\"",
+  "emojis_present": [
+    "😏"
+  ],
+  "audio_music": "An energetic, bass-heavy rap track, identified as A$AP Rocky's 'Trunks', plays consistently throughout the video, creating a hype-filled and confident mood for the montage.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various clips of Donald Trump, all framed within a simulated video doorbell interface. The editing is synchronized with the beat of the background music.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video opens with a stylized, painted portrait of Donald Trump wearing a crown, which is not a real photograph. The main body of the video is presented within a fabricated Ring video doorbell interface, staging the montage of Trump clips as a 'motion detected' event.",
+  "emotions_signaled": [
+    "Pride",
+    "Strength",
+    "Anticipation",
+    "Confidence"
+  ],
+  "cultural_references": [
+    "Ring video doorbell",
+    "A$AP Rocky"
+  ],
+  "central_claim": "Donald Trump is imminently returning to the White House.",
+  "intended_effect": "To generate excitement and confidence among supporters regarding Donald Trump's return to power, portraying it as an inevitable and powerful event.",
+  "uncertainty_flags": []
+}

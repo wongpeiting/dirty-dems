@@ -1,0 +1,86 @@
+{
+  "video_id": "7553362907283639607",
+  "visual_action": "Donald Trump, in a suit and red tie, speaks at a podium against a green marble-like background, consistent with the UN General Assembly hall. A news chyron is visible at the bottom of the screen, and text overlays appear throughout the video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole person shown, speaking for the entire video. The on-screen text \"Trump rambling to the UN 😂\" identifies him and frames the post's content."
+    },
+    {
+      "name": "United Nations",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the setting and audience as \"the UN\" and a news chyron reads \"...SPEAKS AT U.N. GENERAL ASSEMBLY\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump rambling to the UN 😂",
+      "role": "overlay"
+    },
+    {
+      "text": "P SPEAKS AT U.N. GENERAL ASSEMBLY",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WIND DOESN'T",
+      "role": "overlay"
+    },
+    {
+      "text": "BLOW THOSE BIG",
+      "role": "overlay"
+    },
+    {
+      "text": "WINDMILLS ARE SO",
+      "role": "overlay"
+    },
+    {
+      "text": "PATHETIC AND SO BAD",
+      "role": "overlay"
+    },
+    {
+      "text": "SO EXPENSIVE TO",
+      "role": "overlay"
+    },
+    {
+      "text": "OPERATE",
+      "role": "overlay"
+    },
+    {
+      "text": "TO BE REBUILT",
+      "role": "overlay"
+    },
+    {
+      "text": "ALL THE TIME",
+      "role": "overlay"
+    },
+    {
+      "text": "TO RUST AND ROT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump criticizes windmills, saying \"the wind doesn't blow\" and calling them \"so pathetic and so bad, so expensive to operate.\" He claims they constantly need to be rebuilt and that they \"start to rust and rot.\"",
+  "emojis_present": [
+    "😂"
+  ],
+  "audio_music": "A slow, slightly whimsical and melancholic piano track plays throughout the speech. The music has a childlike quality, similar to the style used in the \"Peanuts\" television specials, which serves to mock the speaker and make his words sound foolish or simplistic.",
+  "editing_pacing": "The video is a single, static shot of a talking head. The primary editing consists of animated text overlays that appear in sync with the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The piano music evokes the style of the 'Peanuts' (Charlie Brown) animated specials."
+  ],
+  "central_claim": "Donald Trump's speech at the United Nations about windmills was an incoherent and rambling embarrassment.",
+  "intended_effect": "To make the viewer perceive Donald Trump as foolish and incompetent on the world stage.",
+  "uncertainty_flags": []
+}

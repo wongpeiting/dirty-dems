@@ -1,0 +1,59 @@
+{
+  "video_id": "7545894696325844238",
+  "visual_action": "Two men in dark suits, seen from the back, stand on a red carpet on the White House grounds, looking up at the sky. The Washington Monument is visible in the distance. Several fighter jets fly overhead in formation against a clear blue sky. The camera pans up to follow the jets. The video concludes with a black-and-white closing card featuring an image of the White House and then a helicopter, with the text 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A man with a distinctive hairstyle and build strongly resembling Donald Trump's is shown from behind on the White House grounds."
+    },
+    {
+      "name": "Polish President",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The post's caption states: 'Fighter jets fly over White House as Polish President arrives'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is posted from the official @whitehouse account, is filmed on the grounds, and uses 'THE WHITE HOUSE' as a closing title card."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "F-16 and F-35 Jets Fly Over the White House",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of dramatic, cinematic music and the loud roar of the fighter jets as they fly overhead.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, building electronic track (identified as 'Meridian' by ODESZA) plays throughout the video, creating a sense of grandeur and importance for the military flyover.",
+  "editing_pacing": "The video consists of a single, slow pan that tilts upward to follow the jets, followed by a cut to a static closing card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "awe",
+    "patriotism",
+    "power"
+  ],
+  "cultural_references": [],
+  "central_claim": "The United States is honoring the visiting Polish President with a powerful display of military hardware, showcasing the strength of the alliance.",
+  "intended_effect": "To inspire a sense of national pride and awe in American military power and its diplomatic relationships.",
+  "uncertainty_flags": [
+    "The identification of Donald Trump is based on strong visual cues from behind (hairstyle, build) but not a direct facial view.",
+    "The provided Whisper transcript ('We'll be right back.') does not match the audible content of the video, which is music and jet engine sounds."
+  ]
+}

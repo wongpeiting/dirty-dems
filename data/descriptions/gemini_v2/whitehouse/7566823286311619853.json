@@ -1,0 +1,69 @@
+{
+  "video_id": "7566823286311619853",
+  "visual_action": "J.D. Vance speaks at a podium bearing the seal of the President of the United States. He is wearing a dark suit and a red tie. The background features a large circular logo with red, white, and blue elements. Text is overlaid on the video, including a static quote and dynamic subtitles that appear as he speaks. The video ends with a black and white title card for \"THE WHITE HOUSE\" shown over images of the building and a helicopter.",
+  "cast": [
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium for the entire video. The provided context confirmed his presence via face-ID, and the post caption identifies him as 'VP Vance'."
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Vance's speech centers on him as an example of effective activism, mentioning 'Charlie Kirk's legacy' and how 'Charlie was effective'."
+    },
+    {
+      "name": "Turning Point USA",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The caption states the speech was given at a 'TPUSA Ole Miss Event'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @whitehouse account and features a chyron and end card with 'THE WHITE HOUSE' text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"If you care about this country, love it enough To get involved\"❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "5470 FOR UPDATES FROM THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "J.D. Vance delivers a speech in which he praises Charlie Kirk as an example of someone who was effective not just for having opinions, but because he was courageous, worked hard, and took action. Vance urges the audience to do the same, calling on them to get involved in political campaigns and make their voices heard, rather than just complaining on social media. He frames this civic involvement as the only way to \"save the United States of America\" and as the greatest contribution to Charlie Kirk's legacy.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists entirely of J.D. Vance speaking, with the natural room acoustics. At the end of his speech, there is applause from an audience. There is no music.",
+  "editing_pacing": "The video is a single, static shot of the speaker. The primary editing technique is the use of dynamic, word-by-word animated subtitles that appear in sync with the speech, a common style on the platform. A static quote is also overlaid throughout most of the clip. It cuts to a branded end card at the conclusion.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Inspiration",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "To save America, citizens must go beyond simply having opinions and get actively involved in the political process, following the example of effective activists like Charlie Kirk.",
+  "intended_effect": "To motivate viewers to participate in political campaigns and activism.",
+  "uncertainty_flags": []
+}

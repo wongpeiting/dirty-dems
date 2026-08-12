@@ -1,0 +1,103 @@
+{
+  "video_id": "7647907926501313805",
+  "visual_action": "A montage of video clips shows Donald Trump. In some, he is on a stage at an outdoor rally, pointing to and dancing for a crowd. In others, he walks through a White House hallway and across the White House lawn. Overlaid on these clips are screenshots of headlines from various news organizations (Breitbart, Newsweek, U.S. News, CNN) all reporting that the US economy added 172,000 jobs in May, exceeding expectations.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole person shown in the video clips, which celebrate positive economic news attributed to his presidency."
+    },
+    {
+      "name": "Breitbart",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A headline from Breitbart is shown on screen: \"TRUMP BOOM: AMERICA CREATED 172,000 JOBS IN MAY...\""
+    },
+    {
+      "name": "Newsweek",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A headline from Newsweek is shown on screen: \"Jobs Report Blows Past Expectations Again in Boost for Trump\""
+    },
+    {
+      "name": "U.S. News & World Report",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A headline from U.S. News is shown on screen: \"Employers Added 172,000 Jobs Last Month as US Job Market Shows Resilience Despite Iran War\""
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A headline from CNN is shown on screen: \"The US economy added a stronger-than-expected 172,000 jobs last month\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP BOOM: AMERICA CREATED 172,000 JOBS IN MAY, NEARLY TWICE AS MANY AS EXPECTED",
+      "role": "chyron"
+    },
+    {
+      "text": "B BREITBART",
+      "role": "chyron"
+    },
+    {
+      "text": "Newsweek",
+      "role": "overlay"
+    },
+    {
+      "text": "Jobs Report Blows Past Expectations Again in Boost for Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "US economy",
+      "role": "overlay"
+    },
+    {
+      "text": "US added 172,000 jobs in May as labor market shows signs of resilience",
+      "role": "overlay"
+    },
+    {
+      "text": "Employers Added 172,000 Jobs Last Month as US Job Market Shows Resilience Despite Iran War",
+      "role": "overlay"
+    },
+    {
+      "text": "CNN",
+      "role": "overlay"
+    },
+    {
+      "text": "The US economy added a stronger-than-expected 172,000 jobs last month",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio does not contain dialogue, only a repetitive vocal sample from the background music saying, \"it's like that.\"",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "A continuous, upbeat, and energetic hip-hop track ('Hoe Phase' by Drake) plays throughout the video, creating a celebratory and hype-filled mood.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between clips of Donald Trump, timed to the beat of the music. Screenshots of news headlines are used as overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Success",
+    "Vindication"
+  ],
+  "cultural_references": [
+    "The background music is the song 'Hoe Phase' by the artist Drake."
+  ],
+  "central_claim": "The US economy under Donald Trump is exceeding expectations with strong job growth, as confirmed by numerous media outlets.",
+  "intended_effect": "To make the viewer feel confident in Trump's economic leadership and persuade them that his presidency is successful.",
+  "uncertainty_flags": []
+}

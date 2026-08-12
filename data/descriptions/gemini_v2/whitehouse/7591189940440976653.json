@@ -1,0 +1,94 @@
+{
+  "video_id": "7591189940440976653",
+  "visual_action": "A static, close-up shot of Donald Trump speaking at a podium. He is wearing a dark suit, white shirt, and blue tie. Behind him is a dark blue curtain, with the top of an American flag visible to the left of the screen. He appears to be delivering a formal address, frequently looking down as if reading.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker and visually present throughout the video, announcing the capture of Nicolás Maduro."
+    },
+    {
+      "name": "Nicolás Maduro",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire speech is about his capture and indictment. He is repeatedly named in the audio and on-screen text, e.g., \"successfully captured Maduro\" and \"The illegitimate dictator Maduro was the kingpin...\""
+    },
+    {
+      "name": "Cilia Flores",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is identified as Maduro's wife and mentioned as being captured and indicted alongside him. Trump says, \"captured along with his wife, Celia Flores.\""
+    },
+    {
+      "name": "Jay Clayton",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned once in passing in connection with the indictment: \"Maduro and Flores have been indicted in the Southern District of New York, Jay Clayton...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NO NATION IN THE WORLD COULD ACHIEVE WHAT AMERICA ACHIEVED YESTERDAY.",
+      "role": "overlay"
+    },
+    {
+      "text": "ALL VENEZUELA'S MILITARY CAPACITIES WERE RENDERED POWERLESS",
+      "role": "overlay"
+    },
+    {
+      "text": "SUCCESSFULLY CAPTURED MADURO IN THE DEAD OF NIGHT.",
+      "role": "overlay"
+    },
+    {
+      "text": "IT WAS DARK, AND IT WAS DEADLY.",
+      "role": "overlay"
+    },
+    {
+      "text": "MADURO AND FLORES HAVE BEEN INDICTED IN THE SOUTHERN DISTRICT OF NEW YORK",
+      "role": "overlay"
+    },
+    {
+      "text": "FOR THEIR CAMPAIGN OF DEADLY NARCO TERRORISM AGAINST THE UNITED STATES AND ITS CITIZENS.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE ILLEGITIMATE DICTATOR MADURO WAS THE KINGPIN OF A VAST CRIMINAL NETWORK",
+      "role": "overlay"
+    },
+    {
+      "text": "RESPONSIBLE FOR THE DEATHS OF COUNTLESS AMERICANS.",
+      "role": "overlay"
+    },
+    {
+      "text": "MADURO AND HIS WIFE WILL SOON FACE THE FULL MIGHT OF AMERICAN JUSTICE AND STAND TRIAL ON AMERICAN SOIL.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that the U.S. military and law enforcement have successfully captured Venezuelan leader Nicolás Maduro and his wife, Cilia Flores. He describes a covert night operation where \"the lights of Caracas were largely turned off\" and says the Venezuelan military was rendered powerless. Trump states that Maduro and Flores have been indicted in the Southern District of New York for \"deadly narco-terrorism.\" He calls Maduro an \"illegitimate dictator\" who ran a \"vicious cartel\" responsible for trafficking drugs into the U.S. and causing the deaths of \"countless Americans,\" and asserts they will now face trial on American soil.",
+  "emojis_present": [],
+  "audio_music": "The video's audio consists solely of Donald Trump's spoken voice. There is no background music or other sound.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Seriousness",
+    "Condemnation"
+  ],
+  "cultural_references": [],
+  "central_claim": "The United States has successfully captured Venezuelan leader Nicolás Maduro and his wife, who are accused of narco-terrorism, and will bring them to face justice in America.",
+  "intended_effect": "To evoke a sense of national pride and security, portraying the administration as strong and effective in neutralizing foreign threats and protecting American citizens.",
+  "uncertainty_flags": [
+    "The audio of Donald Trump's speech has an unusual cadence and is somewhat slurred, making it unclear if this is his natural speech, a result of the recording, or potentially artificially generated."
+  ]
+}

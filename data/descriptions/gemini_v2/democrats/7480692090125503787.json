@@ -1,0 +1,56 @@
+{
+  "video_id": "7480692090125503787",
+  "visual_action": "Donald Trump and Elon Musk stand outdoors in front of a Tesla Cybertruck. Trump speaks and gestures, and then shakes hands with Musk.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face recognition, he is shown speaking the line 'I love Tesler'."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man visually identified as Elon Musk is shown standing next to Trump and shaking his hand."
+    },
+    {
+      "name": "Tesla",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says 'I love Tesler', referring to the company."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WHAT THE FUCK IS A TESLER 🦅😂👊",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "Donald Trump thanks an audience and then says, \"I love Tesler,\" mispronouncing the name of the car company, Tesla.",
+  "emojis_present": [
+    "🦅",
+    "😂",
+    "👊",
+    "🤣"
+  ],
+  "audio_music": "The audio consists of dialogue and ambient sound from the original video clip. There is no added music or sound effects.",
+  "editing_pacing": "The video is a single, continuous shot without any edits, zooms, or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is gaffe-prone and out of touch, as demonstrated by his mispronunciation of 'Tesla'.",
+  "intended_effect": "To encourage viewers to laugh at Donald Trump and view him as incompetent.",
+  "uncertainty_flags": [
+    "The man standing with Donald Trump is identified as Elon Musk based on strong visual resemblance, but this was not confirmed by the provided authoritative face-ID service."
+  ]
+}

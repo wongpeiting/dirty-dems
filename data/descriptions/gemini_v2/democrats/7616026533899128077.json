@@ -1,0 +1,76 @@
+{
+  "video_id": "7616026533899128077",
+  "visual_action": "The video opens with a clip of Donald Trump walking on a red carpet across a snowy landscape towards a helicopter. This is overlaid with a screenshot of a tweet. The video then cuts to a series of still images: a close-up of a person wearing black dress shoes, with a news chyron at the bottom; two photos of Marco Rubio (one seated on a couch, one standing) with a text overlay; and a final close-up of Rubio's shoes, which have a magical sparkling animation and a stylized wand superimposed on them.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A tweet overlaid on the video states, 'According to media reports, Donald Trump has been buying $145 Florsheim dress shoes for allies...' He is also shown walking in the opening clip."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is identified by face recognition in the provided context and named in an on-screen text overlay that reads, 'Marco Rubio was photographed wearing a pair Trump ordered for him...'"
+    },
+    {
+      "name": "Republicans against Trump",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'Republicans against Trump' (@RpsAgainstTrump) is shown at the beginning of the video."
+    },
+    {
+      "name": "WRAL NEWS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A news chyron with the 'WRAL NEWS' logo appears in one of the still images."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans against Trump @RpsAgainstTrump According to media reports, Donald Trump has been buying $145 Florsheim dress shoes for allies in his inner circle, and people are reportedly “afraid not to wear them.”",
+      "role": "overlay"
+    },
+    {
+      "text": "WRAL LIVE CENTER NEW: PRESIDENT TRUMP DIAGNOSED WITH VASCULAR CONDITION",
+      "role": "chyron"
+    },
+    {
+      "text": "Marco Rubio was photographed wearing a pair Trump ordered for him by just guessing his size. They looked noticeably too big.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of sung lyrics from a slow, moody song. The lines are: \"Walk a mile in these Louboutins... But they don't wear these shits where I'm from.\"",
+  "emojis_present": [
+    "😭",
+    "👞"
+  ],
+  "audio_music": "A slow, atmospheric hip-hop or R&B track with a melancholic tone plays throughout the video. The mood it creates is somber, which contrasts sarcastically with the mocking content of the video.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images and one short clip, with slow cuts between them. There are slight zooms and pans on the photos, and the final shot features an animated sparkle effect.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A magical sparkle effect and an animated, stylized wand, resembling one from a 'magical girl' anime, are superimposed over a close-up of Marco Rubio's shoe to mock him.",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule",
+    "contempt"
+  ],
+  "cultural_references": [
+    "Louboutins (luxury shoe brand mentioned in lyrics)",
+    "Magical Girl anime (e.g., Sailor Moon), referenced by the sparkling wand animation"
+  ],
+  "central_claim": "Donald Trump's allies, such as Marco Rubio, are so subservient that they are compelled to wear ill-fitting shoes he gifts them, making them look foolish.",
+  "intended_effect": "To portray Donald Trump as a controlling, cult-like figure and his allies as weak and sycophantic, inviting ridicule from the viewer.",
+  "uncertainty_flags": [
+    "The context of the WRAL News chyron and the image it is paired with (a shoe next to a paw-like object) is unclear; it appears to be a real screenshot used out of context for mocking effect.",
+    "The specific song used in the audio is not identified."
+  ]
+}

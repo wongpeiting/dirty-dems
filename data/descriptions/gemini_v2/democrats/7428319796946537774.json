@@ -1,0 +1,60 @@
+{
+  "video_id": "7428319796946537774",
+  "visual_action": "A slideshow-style video with two static images. The first is a stock photo of a woman sitting at a desk, looking bored or contemplative, with a notebook and coffee cup. The second image shows Vice President Kamala Harris standing at a clear lectern, looking forward with a slight, knowing smile.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Kamala Harris is shown in the second half of the video, representing the user's reaction to Donald Trump being mentioned."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text in the second half of the video reads, \"me the minute someone brings up Donald Trump\"."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unnamed woman in a stock photo appears in the first half of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“I’m not even really into politics”",
+      "role": "meme_text"
+    },
+    {
+      "text": "me the minute someone brings up Donald Trump",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only a music track plays.",
+  "emojis_present": [],
+  "audio_music": "A smooth, contemporary pop/R&B song plays throughout the entire video, creating a cool and dramatic mood. The provided music identification lists the track as 'Too Sweet — Maria Hiya'.",
+  "editing_pacing": "The video consists of a single cut from one static image to another, in a simple slideshow format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Relatability",
+    "Vigilance",
+    "Humor"
+  ],
+  "cultural_references": [
+    "The video uses a common meme format comparing a state of general disinterest ('I'm not into politics') with a state of sudden, intense focus when a specific trigger occurs.",
+    "The song used is a popular contemporary track."
+  ],
+  "central_claim": "The mention of Donald Trump immediately galvanizes people who might otherwise seem disengaged from politics.",
+  "intended_effect": "To create a relatable and humorous moment for viewers who are motivated to political action by their opposition to Donald Trump.",
+  "uncertainty_flags": [
+    "The music identification service lists the song as 'Too Sweet — Maria Hiya', which may be an error for the popular song 'Too Sweet' by Hozier."
+  ]
+}

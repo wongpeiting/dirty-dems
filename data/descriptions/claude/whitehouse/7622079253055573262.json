@@ -1,0 +1,100 @@
+{
+  "video_id": "7622079253055573262",
+  "visual_action": "The video shows two scene keyframes from what appears to be the FII Priority Miami conference (March 25–27, 2026), based on the podium signage. In the first frame, Donald Trump is seen from behind at a presidential podium, looking at a large screen displaying a CNN live broadcast graphic showing a poll titled \"MAGA GOP VIEW OF TRUMP\" with \"APPROVE 100%\" visible and a CNN anchor/reporter gesturing at the graphic. In the second frame, Trump is seen from the front/side speaking at the presidential podium, wearing a dark suit and pink tie, with an American flag backdrop and an FII Institute logo step-and-repeat banner to his left.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Seen from behind and then front at presidential podium; named in transcript as 'Donald John Trump'; podium bears the Presidential seal"
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "CNN logo visible on the broadcast graphic displayed on the screen behind Trump; caption references pulling up a CNN clip"
+    },
+    {
+      "name": "unnamed CNN anchor/reporter",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A male figure in a suit is visible on the CNN broadcast screen gesturing at the poll graphic"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The funniest President 🤣",
+      "role": "overlay"
+    },
+    {
+      "text": "MAGA GOP VIEW OF TRUMP",
+      "role": "caption"
+    },
+    {
+      "text": "APPROVE",
+      "role": "caption"
+    },
+    {
+      "text": "DISAPPROVE",
+      "role": "caption"
+    },
+    {
+      "text": "100",
+      "role": "caption"
+    },
+    {
+      "text": "CNN",
+      "role": "caption"
+    },
+    {
+      "text": "LIVE",
+      "role": "caption"
+    },
+    {
+      "text": "FII Priority",
+      "role": "caption"
+    },
+    {
+      "text": "MIAMI",
+      "role": "caption"
+    },
+    {
+      "text": "March 25–27, 2026",
+      "role": "caption"
+    },
+    {
+      "text": "FII INSTITUTE",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Trump speaks at the FII Priority Miami event, narrating his reaction to a CNN poll graphic showing 100% approval among MAGA/GOP respondents for Donald Trump and 0% disapproval. He quips: \"You don't have to be a mathematical genius to know you can't go higher than 100%.\" He then references \"the 1972 Miami-Dolk\" with \"big great numbers\" and transitions to taking unscreened audience questions, saying: \"Unlike other politicians, they would like the questions screened. I don't ask for screening of the questions. You can ask me anything you want. You can talk sex. You can whatever the hell you want. I'm here for you.\"",
+  "emojis_present": [
+    "🤣"
+  ],
+  "audio_music": "Original speech audio — Trump's live remarks at the FII Priority Miami event; no background music. Crowd ambience implied.",
+  "editing_pacing": "Two keyframes; appears to be a short clip with a cut between Trump viewing the screen from behind and Trump speaking at the podium from a wider angle. Relatively static talking-head/podium footage with minimal editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "amusement — signaled by the overlay text 'The funniest President 🤣' and Trump's comedic delivery about the 100% poll number",
+    "pride — signaled by Trump highlighting a 100% approval stat and the American flag backdrop",
+    "relatability — signaled by Trump's invitation to ask unscreened questions including the off-color 'you can talk sex' remark"
+  ],
+  "cultural_references": [
+    "CNN poll graphic format — used by Trump as a prop/comedic straight-man moment",
+    "Reference to '1972 Miami' — likely a historical election reference used for comparison"
+  ],
+  "central_claim": "Trump is entertaining and humorous as president, evidenced by his comedic reaction to a CNN poll showing 100% MAGA/GOP approval and his unfiltered offer to take any audience question without screening.",
+  "intended_effect": "Viewer laughs with Trump and sees him as charismatic, authentic, and unscripted compared to other politicians.",
+  "uncertainty_flags": [
+    "The '1972 Miami-Dolk' reference in the transcript is unclear — likely a garbled transcription of a specific poll or election result name; exact reference uncertain",
+    "The CNN broadcast shown on screen behind Trump appears to be a real CNN segment that Trump pulled up during his speech, but the exact broadcast date/context of that CNN clip is not fully verifiable from the frames",
+    "Event date 'March 25–27, 2026' is after the knowledge cutoff; treated as ground truth per instructions"
+  ]
+}

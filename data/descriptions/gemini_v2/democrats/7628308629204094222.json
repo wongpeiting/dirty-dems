@@ -1,0 +1,61 @@
+{
+  "video_id": "7628308629204094222",
+  "visual_action": "The video starts with a still image of a man in papal vestments, identified by text as \"Pope Leo XIV\", with a quote about idolatry below him. It then cuts to a screenshot of a Truth Social post by Donald J. Trump. The post contains a highly stylized painting depicting Trump, dressed in red and white robes, as a Christ-like figure healing a sick man in a bed. Surrounding them are other figures including a soldier, a nurse, and an elderly man. The background features an American flag, the Statue of Liberty, and angelic figures in the sky.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of his Truth Social post is shown, including his name 'Donald J. Trump' and handle '@realDonaldTrump'. The post is captioned 'meanwhile, trump on truth social'."
+    },
+    {
+      "name": "Pope Leo XIV",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An image of a man in papal vestments is labeled with the on-screen text 'Pope Leo XIV'. This pope does not exist historically."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pope Leo XIV",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Death enslaves those who have turned their backs on God and turned themselves and their own power into a mute, blind, and deaf idol\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump ✔ @realDonaldTrump",
+      "role": "other"
+    },
+    {
+      "text": "meanwhile, trump on truth social",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [
+    "✔"
+  ],
+  "audio_music": "A dramatic and sweeping pop ballad, identified as 'Sign of the Times' by Harry Styles, plays throughout the video, creating an epic and somewhat ironic tone when paired with the visuals.",
+  "editing_pacing": "The video is a slideshow consisting of a single cut between two static images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents two manipulated images. The first shows a real Catholic cardinal but mislabels him as 'Pope Leo XIV', a non-existent pope, to attribute a quote to him. The second is a screenshot of an image posted by Donald Trump, which is a stylized painting depicting Trump as a divine, Christ-like figure healing a sick person.",
+  "emotions_signaled": [
+    "mockery",
+    "criticism",
+    "alarm"
+  ],
+  "cultural_references": [
+    "Jesus Christ (iconography of healing the sick)",
+    "Harry Styles",
+    "Truth Social"
+  ],
+  "central_claim": "Donald Trump promotes a blasphemous and narcissistic self-image by sharing artwork that depicts him as a divine, Christ-like savior, which is a form of idolatry.",
+  "intended_effect": "To frame Donald Trump as promoting a dangerous cult of personality and to generate disapproval of his perceived narcissism and blasphemy.",
+  "uncertainty_flags": []
+}

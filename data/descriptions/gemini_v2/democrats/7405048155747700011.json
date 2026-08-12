@@ -1,0 +1,72 @@
+{
+  "video_id": "7405048155747700011",
+  "visual_action": "Kamala Harris speaks on a large, brightly lit stage at a political convention. The camera cuts between medium shots of her smiling and speaking into a microphone, and wide shots of a massive, cheering crowd in an arena. Many people in the crowd hold up matching red signs that say \"We Fight, We Win.\" The stage backdrop is decorated in red, white, and blue, with large screens displaying \"DNC 2024.\" After speaking, Harris waves and walks offstage. The video also shows a brief shot of Tim Walz in the audience, clapping, and a high-angle shot of the entire packed convention hall.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Kamala Harris is shown speaking on stage, and her name appears in on-screen text: \"Kamala Harris hit the stage on the first night of the DNC\"."
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The event is explicitly identified as the \"DNC\" in on-screen text overlays and on the large screens on stage."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown briefly in the audience clapping during the applause for Kamala Harris."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kamala Harris hit the stage on the first night of the DNC",
+      "role": "overlay"
+    },
+    {
+      "text": "When we fight, we win!",
+      "role": "caption"
+    },
+    {
+      "text": "God bless you, God bless the United States of America.",
+      "role": "caption"
+    },
+    {
+      "text": "Good night everyone.",
+      "role": "caption"
+    },
+    {
+      "text": "DNC 2024",
+      "role": "overlay"
+    },
+    {
+      "text": "We Fight, We Win.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Kamala Harris addresses an energetic crowd, saying, \"When we fight, we win!\" The crowd cheers loudly. She concludes with, \"God bless you, God bless the United States of America. Good night everyone.\"",
+  "emojis_present": [],
+  "audio_music": "The video features Kamala Harris's speech over the loud, continuous sound of a cheering crowd. After she finishes speaking, an upbeat and triumphant instrumental track (\"A Bop 4 Kamala/Forward Motion\" per music ID) begins and plays through the end of the clip, accompanying the ongoing applause and cheering.",
+  "editing_pacing": "The video uses multiple cuts between different camera angles, including medium shots of the speaker, wide shots of the crowd and stage, a reaction shot of an audience member (Tim Walz), and a sweeping high-angle shot of the entire arena. The pacing is energetic, consistent with a highlight reel of a major event.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Pride",
+    "Unity",
+    "Energy"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris delivered an energizing and triumphant speech on the first night of the 2024 DNC, unifying a massive and enthusiastic crowd.",
+  "intended_effect": "To make the viewer feel proud of and excited about Kamala Harris and the Democratic party, portraying them as strong and victorious.",
+  "uncertainty_flags": []
+}

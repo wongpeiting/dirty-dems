@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets — never commit real keys (ship .env.example only)
+.env
+**/.env
+
+# OS
+.DS_Store
+
+# Raw video is not redistributed (TikTok terms + size)
+*.mp4
+videos/

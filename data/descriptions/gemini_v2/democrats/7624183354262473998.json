@@ -1,0 +1,60 @@
+{
+  "video_id": "7624183354262473998",
+  "visual_action": "A static screenshot of a tweet from the account 'FactPost' is shown. The tweet includes photos of Pam Bondi and Donald Trump. After a moment, the video cuts to a different still image of Pam Bondi speaking, with Donald Trump standing behind her.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of him appears in the tweet screenshot and his name is mentioned in the on-screen text: \"New reporting reveals Trump has informed Pam Bondi...\""
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of her appears in the tweet screenshot and her name is mentioned in the on-screen text: \"New reporting reveals Trump has informed Pam Bondi...\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet screenshot shows the account name 'FactPost' and handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New reporting reveals Trump has informed Pam Bondi that her time as Attorney General is nearing an end.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Chaotic, panicked dialogue from a meme audio clip plays. Voices shout things like, \"Oh my god! Okay, it's happening! Everybody stay calm,\" and \"What's the procedure everyone?\" creating a sense of frenzy.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a popular, chaotic meme sound clip featuring multiple panicked voices yelling over each other. This creates a comedic and frantic tone.",
+  "editing_pacing": "A static image of a tweet is shown for a few seconds, followed by a single hard cut to another static photograph.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a screenshot of a tweet from 'FactPost' (@factpostnews), a satirical account, presenting a fabricated news report as if it were real for comedic and mocking effect.",
+  "emotions_signaled": [
+    "mockery",
+    "amusement",
+    "satirical alarm"
+  ],
+  "cultural_references": [
+    "The Office (U.S. TV show)"
+  ],
+  "central_claim": "The post satirically claims that Donald Trump is firing his Attorney General Pam Bondi, framing the event as a chaotic and panicked situation.",
+  "intended_effect": "To mock Donald Trump and Pam Bondi by portraying their political circle as unstable and chaotic, and to amuse the audience with the satirical scenario.",
+  "uncertainty_flags": [
+    "The face-ID service failed to detect Donald Trump and Pam Bondi, who are clearly visible in the photos shown.",
+    "The ACRCloud music fingerprint seems incorrect; the audio is dialogue from the TV show 'The Office', not the fingerprinted music track."
+  ]
+}

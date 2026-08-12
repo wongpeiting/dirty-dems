@@ -1,0 +1,46 @@
+{
+  "video_id": "7595703959684189495",
+  "visual_action": "Donald Trump is shown from the chest up, sitting at a desk in a formal room. He is wearing a dark suit and a gold tie. He briefly looks down at a document before looking up and speaking directly ahead. Several other people in suits stand in the background behind him.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person speaking and the central focus of the video clip."
+    },
+    {
+      "name": "the media",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says, \"Most of the media will get that.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump said WHAT????",
+      "role": "overlay"
+    },
+    {
+      "text": "ACTUALLY A LEGAL DEFINITION, WHOLE MILK. AND IT'S WHOLE WITH A W FOR THOSE OF YOU THAT HAVE A PROBLEM. MOST OF THE MEDIA WILL PICK UP THAT.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump states that 'whole milk' is a legal definition. He then condescendingly clarifies the spelling of 'whole,' saying, \"and it's whole with a W, for those of you that have a problem. Most of the media will get that.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's spoken words, with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot. The only editing is the addition of an overlay at the top and sequential, animated captions at the bottom that appear as Trump speaks.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video portrays Donald Trump as saying bizarre and condescending things by isolating a clip where he explains how to spell the word 'whole'.",
+  "intended_effect": "To encourage the viewer to mock Donald Trump and perceive him as foolish or strange.",
+  "uncertainty_flags": []
+}

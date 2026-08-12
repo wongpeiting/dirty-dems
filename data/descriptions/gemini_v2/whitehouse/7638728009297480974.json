@@ -1,0 +1,74 @@
+{
+  "video_id": "7638728009297480974",
+  "visual_action": "Donald Trump speaks from a desk in what appears to be an official government office. He is wearing a blue suit and purple tie. At one point, the shot widens to show two women standing behind him, smiling. An American flag is visible in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole speaker in the video, announcing a new government initiative."
+    },
+    {
+      "name": "Department of Labor",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states that 'the Department of Labor is issuing a new rule...'"
+    },
+    {
+      "name": "Council of Economic Advisers",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump says 'The Council of Economic Advisers projects that the number will rise...'"
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman in a purple dress is shown standing behind Donald Trump."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman in a blue blazer is shown standing behind Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MOMS.GOV 💖",
+      "role": "overlay"
+    },
+    {
+      "text": "This President has done more for families than any other President.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces a new rule from the Department of Labor creating a 'fertility benefit option' for employers, which can be offered as a supplemental benefit outside of regular health insurance. He states that a related website has already helped 19,000 Americans save over $15 million. He encourages mothers to visit a new government webpage for resources on pregnancy, nutrition, and other services.",
+  "emojis_present": [
+    "💖",
+    "🩷"
+  ],
+  "audio_music": "The video consists entirely of Donald Trump speaking. There is no background music or other audio effects.",
+  "editing_pacing": "The video primarily uses a static talking-head shot of Donald Trump, with one cut to a wider angle showing two women behind him before returning to the close-up.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Support",
+    "Pride",
+    "Care"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration has taken significant action to support mothers and families by creating new, accessible fertility benefits through a Department of Labor rule.",
+  "intended_effect": "To persuade viewers that Donald Trump is a pro-family president who has delivered tangible benefits to mothers and those seeking fertility treatments.",
+  "uncertainty_flags": []
+}

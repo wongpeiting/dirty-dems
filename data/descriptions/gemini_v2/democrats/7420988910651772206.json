@@ -1,0 +1,127 @@
+{
+  "video_id": "7420988910651772206",
+  "visual_action": "A split-screen view shows two men at a debate. On the right, Tim Walz is speaking at a podium. On the left, JD Vance is listening at his podium. The setting is a debate stage with a blue background. A chyron identifies the event as the 'VICE PRESIDENTIAL DEBATE' from CBS News.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on screen speaking for the entire duration of the video. He is identified by face-ID and the on-screen text 'Tim Walz: Trump thinks...'"
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears on the left side of the split-screen, listening to Tim Walz speak. He is identified by face-ID."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the central figure of criticism in the clip, mentioned in the on-screen text ('Tim Walz: Trump thinks climate change is a hoax!') and in the audio ('Donald Trump called it a hoax...')."
+    },
+    {
+      "name": "Biden-Harris Administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Tim Walz as a positive contrast to Donald Trump's stance: 'What we've seen out of the Harris administration now, the Biden-Harris administration...'"
+    },
+    {
+      "name": "CBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CBS News logo and name appear in the chyron at the bottom of the screen, identifying them as the broadcaster."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Tim Walz: Trump thinks climate change is a hoax!",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CBS NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "VICE PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "HOAX",
+      "role": "overlay"
+    },
+    {
+      "text": "ADMINISTRATION",
+      "role": "overlay"
+    },
+    {
+      "text": "MASSIVE",
+      "role": "overlay"
+    },
+    {
+      "text": "INVESTMENTS",
+      "role": "overlay"
+    },
+    {
+      "text": "REDUCTION",
+      "role": "overlay"
+    },
+    {
+      "text": "JOBS",
+      "role": "overlay"
+    },
+    {
+      "text": "COUNTRY",
+      "role": "overlay"
+    },
+    {
+      "text": "JEFFERSONVILLE",
+      "role": "overlay"
+    },
+    {
+      "text": "OHIO",
+      "role": "overlay"
+    },
+    {
+      "text": "CLIMATE",
+      "role": "overlay"
+    },
+    {
+      "text": "REAL",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Tim Walz criticizes Donald Trump for calling climate change a 'hoax' and joking about rising sea levels. He contrasts this with the Biden-Harris administration, praising the Inflation Reduction Act for creating massive investments and 200,000 jobs across the country in green technologies, citing examples in Jeffersonville, Ohio, and Minnesota. Walz concludes by stating that farmers in his state know that climate change is real.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of diegetic speech from a political debate, with no added music or sound effects.",
+  "editing_pacing": "The video uses a static split-screen shot from the debate. The primary editing feature is the use of kinetic typography, where individual words from the speech appear on screen in large, yellow text, synchronized with the audio.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disapproval",
+    "Concern",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Biden-Harris administration is tackling climate change and creating American jobs through green investments, while Donald Trump dismisses the issue as a hoax.",
+  "intended_effect": "To convince viewers that the Democratic party's approach to climate change is economically beneficial and responsible, while portraying Donald Trump as dismissive and out of touch.",
+  "uncertainty_flags": []
+}

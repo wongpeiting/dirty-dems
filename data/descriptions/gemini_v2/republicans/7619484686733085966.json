@@ -1,0 +1,72 @@
+{
+  "video_id": "7619484686733085966",
+  "visual_action": "The video starts with a screen recording of another TikTok post showing Jerome Powell speaking at a podium. The video then cuts to a fast-paced montage of clips featuring Donald Trump and Jerome Powell. In one clip, Trump stands behind Powell as the word \"mogged\" in a red digital box is superimposed over Powell's eyes. Other clips show the two of them together, including one where they wear hard hats at what appears to be a construction site.",
+  "cast": [
+    {
+      "name": "Jerome Powell",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the subject of the caption (\"Too late Jerome 🥴\") and the central figure in the montage. The word \"mogged\" is superimposed over his face. He also speaks at the beginning of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in a montage with Jerome Powell, positioned as the dominant figure who is \"mogging\" Powell. His presence is confirmed by authoritative face ID."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video begins with a screenshot of a post from the verified \"Democrats\" account, which the rest of the video appears to be a rebuttal to."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Democrats ✔️ · 21h ago",
+      "role": "other"
+    },
+    {
+      "text": "in jerome we trust 🙏",
+      "role": "caption"
+    },
+    {
+      "text": "Jerome Powell",
+      "role": "chyron"
+    },
+    {
+      "text": "GOOD AFTERNOON",
+      "role": "overlay"
+    },
+    {
+      "text": "mogged",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "Jerome Powell says, \"Good afternoon.\" The rest of the video's audio consists of a high-energy music track.",
+  "emojis_present": [
+    "🥴",
+    "🙏"
+  ],
+  "audio_music": "The video begins with clear dialogue. After the first line of speech, it abruptly switches to a loud, bass-heavy, and fast-paced electronic/phonk track that plays for the remainder of the clip, creating a hype or aggressive mood for the montage.",
+  "editing_pacing": "The video is a fast-paced montage with rapid cuts, flashes, and blur transitions, characteristic of a TikTok \"edit\" style.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A red digital text box with the word 'mogged' is superimposed over Jerome Powell's eyes to satirically imply he was dominated or upstaged by Donald Trump.",
+  "emotions_signaled": [
+    "Mockery",
+    "Triumph",
+    "Dominance"
+  ],
+  "cultural_references": [
+    "The term 'mogged' is a piece of internet slang, often used in meme culture, to mean someone has been upstaged or dominated by another person's superior appearance or presence."
+  ],
+  "central_claim": "Donald Trump has dominated and upstaged Jerome Powell, making the Democratic Party's expressed trust in Powell appear foolish.",
+  "intended_effect": "To portray Donald Trump as a dominant leader while mocking Jerome Powell and, by extension, the Democratic Party.",
+  "uncertainty_flags": []
+}

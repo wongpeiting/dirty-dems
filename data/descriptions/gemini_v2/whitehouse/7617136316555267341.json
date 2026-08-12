@@ -1,0 +1,156 @@
+{
+  "video_id": "7617136316555267341",
+  "visual_action": "A montage of political and military figures, including Donald Trump, Pete Hegseth, and Marco Rubio, speaking at various events such as rallies, press briefings, and news interviews. The clips are edited together with a dark, high-contrast color grade and an overlay that simulates scanlines on a screen. Text reading \"OBJECTIVE: DESTROY THEIR NAVY\" is superimposed over several clips. The video concludes with a title card showing a line drawing of the White House, with text identifying it and President Donald J. Trump.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the first person to speak, shown at a podium with the presidential seal. He is also named in the final credit screen: 'PRESIDENT DONALD J. TRUMP'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Multiple speakers refer to destroying the 'Iranian navy' and the 'Iranian regime's navy'. This is the 'their' referred to in the video's central message."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking in a clip, identified by face recognition."
+    },
+    {
+      "name": "unnamed military official",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man in a military uniform is shown speaking at a podium. His name tag appears to read 'CAINE' or 'GAINE'."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking at what appears to be a White House press briefing, identified by face recognition."
+    },
+    {
+      "name": "Jack Keane",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking on a Fox News segment."
+    },
+    {
+      "name": "Chris Brose",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking at what appears to be a congressional hearing."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown speaking to reporters, identified by face recognition."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible in the corner of a news segment clip."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with a title card reading 'THE WHITE HOUSE' and is posted from the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "OBJECTIVE:\nDESTROY THEIR NAVY ⚓️",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "...5470 FOR UPDATES FRO...",
+      "role": "chyron"
+    },
+    {
+      "text": "/FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. AND ISRAEL",
+      "role": "chyron"
+    },
+    {
+      "text": "...YS NEXT PHASE OF STR...",
+      "role": "chyron"
+    },
+    {
+      "text": "'MORE PUNISHING' FOR",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "RUBIO...",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A montage of speakers, including Donald Trump, state repeatedly that the objective is to \"annihilate\" or \"destroy their navy.\" This is explicitly identified as the \"Iranian navy\" and the \"Iranian regime's navy.\" The stated goals are to ensure \"freedom of the seas\" and prevent the shutdown of the Strait of Hormuz. This action is described as a primary focus of the military campaign.",
+  "emojis_present": [
+    "⚓️"
+  ],
+  "audio_music": "A continuous, dramatic, and tense orchestral score plays throughout the video, underpinning the dialogue. The music has a cinematic, militaristic feel, evoking the style of an action movie trailer and creating a serious, high-stakes atmosphere.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various speakers. A consistent, stylized visual filter with a dark color grade and screen scanlines is applied to all clips, creating a unified and tense aesthetic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Strength",
+    "Resolve",
+    "Intimidation",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration and its allies are unified and resolute in their military objective to destroy Iran's navy.",
+  "intended_effect": "To project an image of American military strength and a decisive foreign policy towards Iran under President Trump, while also intimidating adversaries.",
+  "uncertainty_flags": [
+    "The identity of the military official with the name tag 'CAINE' or 'GAINE' could not be definitively confirmed."
+  ]
+}

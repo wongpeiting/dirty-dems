@@ -1,0 +1,191 @@
+{
+  "video_id": "7535107113765326094",
+  "visual_action": "A man in a suit, Dan Freeman, speaks directly to the camera against a plain background. The video cuts between him and various visual aids, including screenshots of news articles about Texas politics, maps illustrating gerrymandered districts, footage of severe flooding and rescue operations, clips of Governor Greg Abbott and Donald Trump, and a clip of Representative Jasmine Crockett speaking at a press conference.",
+  "cast": [
+    {
+      "name": "Dan Freeman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The speaker identifies himself at the start and is identified by an on-screen chyron: 'Dan Freeman DNC Litigation Director'."
+    },
+    {
+      "name": "Greg Abbott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in clips and news headlines, and the speaker discusses his actions regarding a special legislative session in Texas."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker repeatedly refers to the actions of 'Republicans' and 'Republican map drawers' as the architects of the gerrymandering scheme."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in several clips and is mentioned by the speaker as having 'held private calls with Texas Republicans to demand they move forward with this redistricting scheme'."
+    },
+    {
+      "name": "Jasmine Crockett",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She appears in a clip speaking at a press conference, identified by the on-screen text 'Rep. Jasmine Crockett D-Texas'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker discusses how gerrymandering affects 'Democrats' and 'Democratic voters'."
+    },
+    {
+      "name": "Department of Justice",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker states, 'I was a voting rights litigator at DOJ for nearly 15 years.'"
+    },
+    {
+      "name": "Supreme Court of the United States",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A news headline shown on screen reads 'SCOTUS blocks Texas remap'."
+    },
+    {
+      "name": "American Civil Liberties Union",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The ACLU logo and an excerpt from one of their documents defining 'stacking' and 'packing' are shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Dan Freeman DNC Litigation Director",
+      "role": "chyron"
+    },
+    {
+      "text": "VOTING RIGHTS LITIGATOR",
+      "role": "overlay"
+    },
+    {
+      "text": "DOJ",
+      "role": "overlay"
+    },
+    {
+      "text": "FOR NEARLY 15 YEARS",
+      "role": "overlay"
+    },
+    {
+      "text": "SCOTUS blocks Texas remap",
+      "role": "overlay"
+    },
+    {
+      "text": "TEXAS'S DISCRIMINATORY 2011 REDISTRICTING PLAN,",
+      "role": "overlay"
+    },
+    {
+      "text": "Texas SB 14: THE NATION'S STRICTEST VOTER PHOTO ID LAW",
+      "role": "overlay"
+    },
+    {
+      "text": "AND THE STATE'S HARSH VOTER ID LAW.",
+      "role": "overlay"
+    },
+    {
+      "text": "Gov. Greg Abbott orders special legislative session after vetoing 26 bills",
+      "role": "overlay"
+    },
+    {
+      "text": "DAY SPECIAL LEGISLATIVE SESSION",
+      "role": "overlay"
+    },
+    {
+      "text": "OVER 100 LIVES",
+      "role": "overlay"
+    },
+    {
+      "text": "DISASTER RESPONSE AND PREVENTION,",
+      "role": "overlay"
+    },
+    {
+      "text": "ABBOTT THE FIRST PRIORITY IS REDISTRICTING.",
+      "role": "overlay"
+    },
+    {
+      "text": "WON THEM 25 OF 38 SEATS IN 2024,",
+      "role": "overlay"
+    },
+    {
+      "text": "TO GIVE THEM 30 OF 38 SEATS IN 2026.",
+      "role": "overlay"
+    },
+    {
+      "text": "PACKING",
+      "role": "overlay"
+    },
+    {
+      "text": "CRACKING",
+      "role": "overlay"
+    },
+    {
+      "text": "STACKING",
+      "role": "overlay"
+    },
+    {
+      "text": "ACLU AMERICAN CIVIL LIBERTIES UNION",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Stacking\" refers to combining concentrations of minority population with greater concentrations of white population, again to ensure that districts are majority white. \"Packing\" refers to concentrating as many minorities as possible in as few districts as possible to minimize the number of majority-minority districts.",
+      "role": "overlay"
+    },
+    {
+      "text": "Rep. Jasmine Crockett D-Texas",
+      "role": "chyron"
+    },
+    {
+      "text": "No More GERRYMANDERING Stop Stealing MY VOTE",
+      "role": "other"
+    },
+    {
+      "text": "Texas Republicans, including Gov. Abbott, were reluctant to redraw the state's congressional maps. Then Trump got involved.",
+      "role": "overlay"
+    },
+    {
+      "text": "The governor eventually agreed to include redistricting on his special session agenda after discussing the matter with the president on a phone call.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Dan Freeman, the DNC Litigation Director and a former DOJ voting rights litigator, argues that Texas Governor Greg Abbott is using a special legislative session, called in the wake of deadly floods, to push through a Republican-led gerrymandering scheme. Freeman claims that instead of focusing on disaster relief, Abbott's priority is redistricting to give Republicans more seats in 2026 than their vote share in 2024 would warrant. He explains three techniques used: 'packing' (concentrating Democratic voters), 'cracking' (spreading them out to dilute their power), and 'stacking' (combining different communities to favor Republicans). The video includes a clip of Donald Trump advocating for a 'simple redrawing' to pick up seats and suggests Trump pressured Texas Republicans into this plan. Rep. Jasmine Crockett is also shown stating that the plan is intended to 'dilute the voices of people of color'. Freeman concludes that Republicans are using Texans affected by floods as 'pawns' to pass unpopular legislation.",
+  "emojis_present": [],
+  "audio_music": "A consistent, slightly tense, and serious instrumental track plays under the narration throughout the video, giving it an expository and urgent tone.",
+  "editing_pacing": "The video uses a fast-paced editing style, cutting frequently between a central talking-head narrator and a montage of news headlines, maps, graphs, B-roll footage of politicians, and clips of disaster events.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "injustice",
+    "concern",
+    "urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "At the behest of Donald Trump, Texas Republicans led by Governor Greg Abbott are exploiting a natural disaster to force through a gerrymandered electoral map that unfairly benefits their party and dilutes the votes of Democrats and minority communities.",
+  "intended_effect": "To inform viewers about and generate opposition to what is portrayed as an undemocratic gerrymandering power grab by Texas Republicans.",
+  "uncertainty_flags": []
+}

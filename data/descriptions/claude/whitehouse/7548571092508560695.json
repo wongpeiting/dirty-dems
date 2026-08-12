@@ -1,0 +1,75 @@
+{
+  "video_id": "7548571092508560695",
+  "visual_action": "Two keyframes from what appears to be the same static or near-static image: two men standing in the Oval Office. The man on the left, wearing a navy blue suit with a red tie and white shirt, gestures with his right hand raised while speaking. The man on the right, wearing a dark plaid suit with a red/pink tie, listens attentively and wears a visitor badge. Behind them hangs a large portrait of Ronald Reagan, and above that are two smaller framed portraits (one appearing to be Alexander Hamilton). The Presidential seal podium is partially visible. The Resolute Desk is at the lower left. A superimposed white card displays a Truth Social/tweet-style post attributed to @realDonaldTump. At the bottom of the frame is \"The WHITE HOUSE\" logo with a White House icon.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Recognizable face of the man in the navy suit; the post is attributed to @realDonaldTrump on the overlaid social media card"
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named directly in the overlaid Trump statement: 'The Great, and even Legendary, Charlie Kirk, is dead.' The man on the right wearing a visitor badge may be Charlie Kirk, consistent with the context of a White House visit, though not confirmed by on-screen name tag text"
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the overlaid statement: 'Melania and my Sympathies go out to his beautiful wife Erika, and family.'"
+    },
+    {
+      "name": "Ronald Reagan",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Large portrait of Ronald Reagan visible on the Oval Office wall behind the two men"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump 🇺🇸 ✅ ➕\n@realDonaldTrump\n\nThe Great, and even Legendary, Charlie Kirk, is dead. No one understood or had the Heart of the Youth in the United States of America better than Charlie. He was loved and admired by ALL, especially me, and now, he is no longer with us. Melania and my Sympathies go out to his beautiful wife Erika, and family. Charlie, we love you!",
+      "role": "overlay"
+    },
+    {
+      "text": "The WHITE HOUSE",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is audible. The audio is listed as \"original sound - The White House.\" The content is conveyed entirely through the overlaid social media post text attributed to Donald J. Trump (@realDonaldTrump), which reads: \"The Great, and even Legendary, Charlie Kirk, is dead. No one understood or had the Heart of the Youth in the United States of America better than Charlie. He was loved and admired by ALL, especially me, and now, he is no longer with us. Melania and my Sympathies go out to his beautiful wife Erika, and family. Charlie, we love you!\"",
+  "emojis_present": [
+    "🇺🇸",
+    "✅",
+    "➕"
+  ],
+  "audio_music": "Original sound attributed to The White House; no music or spoken dialogue is discernible from the transcript. The post is silent or ambient.",
+  "editing_pacing": "Static or near-static image; essentially a slideshow/graphic post. Two near-identical keyframes suggest minimal or no video movement — functions as a still image post with an overlaid text card.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "grief/mourning — triggered by the announcement of Charlie Kirk's death and the eulogistic language ('we love you')",
+    "reverence — conveyed by Trump's description of Kirk as 'Great' and 'Legendary'",
+    "sympathy — explicitly extended to Kirk's wife Erika and family"
+  ],
+  "cultural_references": [
+    "Ronald Reagan portrait displayed prominently in the Oval Office background — a common symbol of conservative political legacy",
+    "Truth Social post format (verified badge, follow button) used to display the Trump statement"
+  ],
+  "central_claim": "President Trump, via a statement posted from the official White House account, announces the death of Charlie Kirk and mourns him as a beloved and legendary figure who deeply understood American youth.",
+  "intended_effect": "To inform viewers of Charlie Kirk's death and convey official presidential condolences, prompting grief and reverence for Kirk among the audience.",
+  "uncertainty_flags": [
+    "The identity of the man on the right (visitor badge, plaid suit) is not confirmed by on-screen text — he may be Charlie Kirk based on context, but this cannot be verified from the image alone",
+    "Charlie Kirk's death is referenced as a real event; this may postdate the model's knowledge cutoff — treated as real per instructions",
+    "No audio content is available to analyze beyond the transcript note of 'original sound - The White House'",
+    "The exact date of this post is not provided in the context"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "video_id": "7613087826409835807",
+  "visual_action": "A man in a suit (Marco Rubio) speaks at a podium. This is intercut with footage of Donald Trump smiling, military surveillance footage of explosions labeled \"UNCLASSIFIED,\" a montage of B-2 stealth bombers on a runway and in the air, and finally shots of Donald Trump in military-adjacent settings, saluting.",
+  "cast": [
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown speaking at a podium, and his voice provides the video's narration."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is featured prominently in the montage, shown smiling, saluting, and with military personnel, positioning him as the leader responsible for the actions described."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Marco Rubio's speech explicitly names Iran as the target of the US military operation described."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "45-47",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Marco Rubio states that the United States conducted a military operation against Iran with the \"very clear goal\" of eliminating the threat from its missiles and navy. He says the operation is being carried out \"quite successfully.\"",
+  "emojis_present": [],
+  "audio_music": "An intense, driving electronic track plays throughout the video, creating a powerful, action-oriented, and triumphant mood that complements the military-themed visuals.",
+  "editing_pacing": "Fast-paced montage with quick cuts between a talking head (Rubio), military B-roll footage, and clips of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Sense of Power/Strength"
+  ],
+  "cultural_references": [],
+  "central_claim": "Under Donald Trump's leadership, the United States military successfully neutralized threats posed by Iran.",
+  "intended_effect": "To instill a sense of pride in American military might and project Donald Trump as a strong and effective Commander-in-Chief.",
+  "uncertainty_flags": [
+    "The original context of Marco Rubio's speech is unclear; it may be repurposed to narrate this specific montage."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "7570877595613465870",
+  "visual_action": "Donald Trump, wearing a suit and red tie, walks through an indoor lounge area where a crowd is gathered behind a bar. The crowd cheers and chants as he waves. Trump points to and calls over a young boy wearing a Washington Commanders football jersey. Trump speaks to the boy and hands him a small object, identified by on-screen text as a \"Presidential Challenge Coin.\" The boy thanks him, and Trump pats his shoulder before the boy walks back to the cheering crowd. The video concludes with a black-and-white montage of the White House and a helicopter, with \"THE WHITE HOUSE\" text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure shown throughout the video, interacting with the crowd and the boy. On-screen text reads 'President Trump'."
+    },
+    {
+      "name": "Unnamed young boy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "A young boy who is called over by Trump and receives a coin from him. He is heard saying 'Thank you Mr. President'."
+    },
+    {
+      "name": "Washington Commanders",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states the event took place at 'The Commanders Game' and the boy is wearing the team's jersey."
+    },
+    {
+      "name": "Jayden Daniels",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The young boy is wearing a Washington Commanders jersey with the name 'DANIELS' and the number '5' on the back, which corresponds to quarterback Jayden Daniels."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Hands a Young Boy His Presidential Challenge Coin at The Commanders Game ❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is dominated by a crowd chanting \"USA!\" and various individuals shouting \"Thank you, Mr. President.\" Donald Trump is heard briefly saying \"Unbelievable\" and \"Have a good time.\" The young boy he interacts with says, \"Thank you Mr. President.\"",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio is entirely diegetic sound from the event, featuring a loud, energetic crowd cheering and chanting \"USA!\". There is no non-diegetic music or score. The effect is to create an atmosphere of enthusiastic popular support.",
+  "editing_pacing": "The video consists of a single, continuous shot that follows Donald Trump as he walks and interacts with the boy. This is followed by a hard cut to a short, black-and-white credit sequence with static shots.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Heartwarming"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a generous and beloved leader who makes personal, heartwarming connections with his supporters, such as giving a presidential coin to a young boy.",
+  "intended_effect": "To create a positive and endearing image of Donald Trump, portraying him as a kind and popular figure admired by the public.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,50 @@
+{
+  "video_id": "7631654699694886158",
+  "visual_action": "The video opens on a blurry shot of a sunny backyard with a pool and an American flag. A hand places a large, frosty glass beer mug onto a wooden table in the foreground. The mug has a prominent circular logo featuring Donald Trump and the words \"MAKE AMERICA GREAT AGAIN\". Beer is then poured into the mug in slow motion, causing it to foam and overflow.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "An image of Donald Trump is featured centrally on the beer mug, along with his political slogan \"MAKE AMERICA GREAT AGAIN\"."
+    },
+    {
+      "name": "Anheuser-Busch",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The caption states, 'Anheuser-Busch pours millions in investments into US PRODUCTION 🇺🇸🍻'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists only of the lyrics from the song \"Walking on a Dream\": \"Walking on a dream. How can I explain?\"",
+  "emojis_present": [
+    "🇺🇸",
+    "🍻"
+  ],
+  "audio_music": "The video features the upbeat and dreamy indie pop song 'Walking On A Dream' by Empire Of The Sun, which plays throughout, creating an idyllic and celebratory mood.",
+  "editing_pacing": "The video is a single, continuous shot presented in slow motion, focusing on the beer being poured into the mug.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Nostalgia",
+    "Celebration"
+  ],
+  "cultural_references": [
+    "The song 'Walking on a Dream' by the band Empire of the Sun."
+  ],
+  "central_claim": "The video visually links the 'Make America Great Again' movement with an idyllic vision of American life and economic prosperity, as mentioned in the caption regarding manufacturing investments.",
+  "intended_effect": "To create a positive and patriotic association between the MAGA movement and a thriving, enjoyable American lifestyle.",
+  "uncertainty_flags": [
+    "The use of explicitly partisan 'Make America Great Again' merchandise on the official '@whitehouse' account is highly unusual; the political strategy or context is unclear."
+  ]
+}

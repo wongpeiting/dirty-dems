@@ -1,0 +1,67 @@
+{
+  "video_id": "7662790663003507982",
+  "visual_action": "A static screenshot of a tweet from the official 'Democrats' account. The tweet shows a photo of Senators Raphael Warnock and Jon Ossoff waving at a podium with an American flag. The tweet text reads 'Duly elected.' Above the screenshot, there is an overlay text that reads 'georgia's senators 😥'.",
+  "cast": [
+    {
+      "name": "Raphael Warnock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is pictured in a tweet and identified by the on-screen text 'georgia's senators'."
+    },
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is pictured in a tweet and identified by the on-screen text 'georgia's senators'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet shown is from the 'Democrats' account (@TheDemocrats)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "georgia's senators 😥",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats",
+      "role": "other"
+    },
+    {
+      "text": "@TheDemocrats",
+      "role": "other"
+    },
+    {
+      "text": "Duly elected.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video; only music plays.",
+  "emojis_present": [
+    "😥"
+  ],
+  "audio_music": "A wistful, dreamy pop song, identified as Taylor Swift's 'Wildest Dreams (Karaoke Version)', plays throughout the video, creating a soft and somewhat melancholic mood.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Sadness",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Taylor Swift"
+  ],
+  "central_claim": "The election of Georgia's Democratic senators, Raphael Warnock and Jon Ossoff, is a cause for sadness or regret.",
+  "intended_effect": "To evoke feelings of disappointment or mockery regarding the Democratic senators from Georgia.",
+  "uncertainty_flags": []
+}

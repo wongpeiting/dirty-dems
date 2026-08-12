@@ -1,0 +1,96 @@
+{
+  "video_id": "7471025411191868715",
+  "visual_action": "A man in a suit and tie sits at a desk in what appears to be a congressional hearing room, speaking into a microphone. There are nameplates on the desk, one of which reads 'MR. NORMAN'.",
+  "cast": [
+    {
+      "name": "Ralph Norman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A congressman is shown speaking. A nameplate in front of him reads 'MR. NORMAN'. On-screen text identifies him as a 'GOP Congressman'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the top of the video says 'GOP Congressman says Republicans are coming after Social Security next'."
+    },
+    {
+      "name": "Social Security",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker says, '...we've got many more to come, like Social Security.'"
+    },
+    {
+      "name": "Department of Education",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker says, '...we have many more to come, like the Department of Education.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GOP Congressman says Republicans are coming after Social Security next",
+      "role": "overlay"
+    },
+    {
+      "text": "COULD GO ON LIST AFTER",
+      "role": "caption"
+    },
+    {
+      "text": "LIST AFTER LIST.",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S UP TO $54.3 BILLION",
+      "role": "caption"
+    },
+    {
+      "text": "WHERE WE SIT RIGHT NOW.",
+      "role": "caption"
+    },
+    {
+      "text": "THIS IS JUST THE FIRST AGENCY",
+      "role": "caption"
+    },
+    {
+      "text": "AND WE'VE GOT MANY MORE TO COME,",
+      "role": "caption"
+    },
+    {
+      "text": "LIKE SOCIAL SECURITY.",
+      "role": "caption"
+    },
+    {
+      "text": "WE HAVE MANY MORE TO COME,",
+      "role": "caption"
+    },
+    {
+      "text": "LIKE THE DEPARTMENT OF EDUCATION.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A congressman states that after dealing with one agency's $54.3 billion budget, there are 'many more to come,' specifically citing 'Social Security' and 'the Department of Education' as examples.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists only of a man speaking clearly, with no music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a person speaking, with text overlays and captions added. The pacing is slow and conversational.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "A Republican congressman has publicly stated that the GOP plans to target Social Security and the Department of Education.",
+  "intended_effect": "To cause alarm among voters and suggest that the Republican party poses a threat to popular government programs like Social Security.",
+  "uncertainty_flags": []
+}

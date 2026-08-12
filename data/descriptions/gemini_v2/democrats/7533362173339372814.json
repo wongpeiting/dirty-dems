@@ -1,0 +1,81 @@
+{
+  "video_id": "7533362173339372814",
+  "visual_action": "The video is a slideshow of two static screenshots. The first is a screenshot of a tweet from an account called 'FactPost,' which shows a photo of Donald Trump in a tuxedo next to a photo of a grand ballroom. The second is a screenshot of a CNBC news headline.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears in the on-screen text: \"The Trump administration...\" and \"Medicaid cuts in Trump's 'big beautiful bill'...\". A photograph of him is also shown."
+    },
+    {
+      "name": "Trump administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the tweet text: \"The Trump administration has announced...\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name of the Twitter account shown in the first screenshot."
+    },
+    {
+      "name": "CNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name of the news organization shown in the second screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Trump administration has announced they will be building a $200 million ballroom at the White House.",
+      "role": "overlay"
+    },
+    {
+      "text": "This comes weeks after passing a law that will kick 17 million Americans off their health care.",
+      "role": "overlay"
+    },
+    {
+      "text": "CNBC",
+      "role": "overlay"
+    },
+    {
+      "text": "HEALTH AND SCIENCE",
+      "role": "overlay"
+    },
+    {
+      "text": "Medicaid cuts in Trump's 'big beautiful bill' will leave millions uninsured, threaten rural hospitals",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is accompanied only by music.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic, and somber instrumental track plays throughout, creating a sad and critical mood. It appears to be an indie/lo-fi song.",
+  "editing_pacing": "The video is a slow-paced slideshow, showing one static screenshot and then transitioning to a second static screenshot.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a screenshot of a tweet from an account named \"FactPost.\" This appears to be a staged document, as the account is likely not a real news organization, and the claim is presented without verification to create a specific political narrative.",
+  "emotions_signaled": [
+    "Outrage",
+    "Anger",
+    "Sadness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration prioritized spending hundreds of millions on a lavish ballroom while simultaneously cutting healthcare for millions of Americans.",
+  "intended_effect": "To generate anger and disapproval towards Donald Trump by portraying his administration's priorities as callous and harmful to ordinary citizens.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' Twitter account and the tweet it displays is uncertain. It could be a fabricated or satirical account presented as a real news source."
+  ]
+}

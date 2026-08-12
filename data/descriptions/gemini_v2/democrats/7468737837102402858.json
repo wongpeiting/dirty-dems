@@ -1,0 +1,80 @@
+{
+  "video_id": "7468737837102402858",
+  "visual_action": "A slideshow of two images presented as screenshots of tweets from an account named 'FactPost'. The first image is a fabricated 'Time' magazine cover showing Elon Musk sitting at the presidential desk in the Oval Office, with the text 'Elon Musk as President of the United States on the cover of Time Magazine.' The second image shows Elon Musk again at the desk, but with Donald Trump standing behind him holding a tray of drinks, as if serving him. The text for this tweet reads, 'We like this Time cover better'.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Elon Musk is shown sitting at the Resolute Desk in both manipulated images and is named in the on-screen text."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Donald Trump is shown in the second manipulated image, standing behind Elon Musk and holding a tray of drinks."
+    },
+    {
+      "name": "Time Magazine",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The 'TIME' logo is featured on a fabricated magazine cover, and the publication is mentioned by name in the on-screen text."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are displayed as the source of the tweets shown in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk as President of the United States on the cover of Time Magazine.",
+      "role": "overlay"
+    },
+    {
+      "text": "TIME",
+      "role": "overlay"
+    },
+    {
+      "text": "FEB. 26, 2029",
+      "role": "overlay"
+    },
+    {
+      "text": "We like this Time cover better",
+      "role": "overlay"
+    },
+    {
+      "text": "ALT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only background music.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, grand orchestral score plays throughout the video, creating a mock-epic or cinematic tone.",
+  "editing_pacing": "A simple slideshow that transitions from one static image to a second static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays two manipulated images. The first is a fake 'Time' magazine cover showing Elon Musk as president in the Oval Office. The second is a photoshopped image depicting Donald Trump serving drinks to Elon Musk, who is seated at the Resolute Desk, to portray Trump in a subservient role to Musk.",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "The format of a TIME Magazine cover"
+  ],
+  "central_claim": "The post uses a manipulated image to mock Donald Trump by depicting him as a servant to Elon Musk.",
+  "intended_effect": "To cause viewers to laugh at Donald Trump and see him as subordinate to Elon Musk.",
+  "uncertainty_flags": []
+}

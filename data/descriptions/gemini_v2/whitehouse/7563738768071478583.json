@@ -1,0 +1,69 @@
+{
+  "video_id": "7563738768071478583",
+  "visual_action": "The video is a montage showing the state visit of the Australian Prime Minister to the White House. It opens with a military honor guard and a motorcade arriving. Donald Trump greets the Prime Minister, Anthony Albanese, and they shake hands. They are shown in a meeting in a formal room, walking along a White House colonnade, and looking at a model of a stealth bomber in the Oval Office. The video includes shots of an Australian flag, and a menu for a luncheon in Albanese's honor. The two leaders then sit at a table and formally sign an agreement, holding up the signed documents and shaking hands as others applaud. The video concludes with black-and-white shots of the White House and the text 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visually identified by face recognition and heard speaking, welcoming the Prime Minister of Australia."
+    },
+    {
+      "name": "Anthony Albanese",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Identified as 'THE HONORABLE ANTHONY ALBANESE, MP PRIME MINISTER OF AUSTRALIA' on a luncheon menu shown on screen, and referred to as 'the Prime Minister of Australia' in the audio."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visually identified by face recognition in the background of the meeting scene."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🇺🇸🤝🇦🇺",
+      "role": "caption"
+    },
+    {
+      "text": "The Prime Minister of Australia",
+      "role": "overlay"
+    },
+    {
+      "text": "Luncheon\nin honor of\nTHE HONORABLE Anthony Albanese MP\nPRIME MINISTER of AUSTRALIA",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump welcomes the Prime Minister of Australia, Anthony Albanese, calling him a friend and noting their collaboration on critical minerals. Albanese thanks Trump, reaffirming that the US and Australia are 'great friends and... great allies,' and states that their new agreement on critical minerals and rare earths is a 'really significant day' for their relationship. Trump responds that it is an honor to sign the agreement.",
+  "emojis_present": [
+    "🇺🇸",
+    "🤝",
+    "🇦🇺"
+  ],
+  "audio_music": "An uplifting, cinematic orchestral score plays throughout the video, creating a sense of importance and positive diplomatic achievement. The sound of applause is heard after the agreement is signed.",
+  "editing_pacing": "The video is a smoothly edited montage of clips from the state visit, functioning as a highlight reel of the key moments.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Friendship",
+    "Alliance"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration has a strong, friendly, and productive diplomatic relationship with Australia, culminating in a significant agreement on critical minerals.",
+  "intended_effect": "To make the viewer feel proud of American diplomacy and confident in the strength of the US-Australia alliance under Donald Trump's leadership.",
+  "uncertainty_flags": [
+    "Pete Hegseth is identified by face-ID but is not clearly visible or identifiable in the video; he is presumably one of the individuals in the background of the meeting."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "video_id": "7631385369388322062",
+  "visual_action": "The video consists of a static or near-static graphic post formatted in a vertical/portrait aspect ratio with black bars top and bottom. The main visual is a daytime photograph of a large white neoclassical government building (the Virginia State Capitol) with columned portico, green lawn, and red flower beds in the foreground under a blue sky. Over this image, overlaid text announces breaking news about Virginia Democrats gaining 4 new congressional seats through redistricting. A \"FACT POST\" logo appears in the upper left corner. The same graphic frame is held across all 8 keyframes, indicating this is essentially a static image video/slideshow with no cuts between different scenes. The OCR also references before/after redistricting map visuals sourced from the Virginia Redistricting Committee, though these are not clearly visible in the keyframes shown.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Headline reads 'DEMS STRIKE BACK IN REDISTRICTING FIGHT, NET 4 NEW BLUE SEATS IN VIRGINIA'; account is @democrats"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Body text reads 'counteracting Trump and Republicans' Texas gerrymander'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Body text reads 'Trump and Republicans' Texas gerrymander'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FACT POST",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING",
+      "role": "chyron"
+    },
+    {
+      "text": "DEMS STRIKE BACK IN REDISTRICTING FIGHT, NET 4 NEW BLUE SEATS IN VIRGINIA",
+      "role": "overlay"
+    },
+    {
+      "text": "Virginia Democrats just successfully redrew their congressional map, counteracting Trump and Republicans' Texas gerrymander",
+      "role": "caption"
+    },
+    {
+      "text": "SOURCE: VIRGINIA REDISTRICTING COMMITTEE (2021-2026 MAP)",
+      "role": "credit"
+    },
+    {
+      "text": "SOURCE: VIRGINIA REDISTRICTING COMMITTEE (NEW 2026 MAP)",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is audible. The Whisper transcript is empty. The audio track is the song \"Fuck Off\" by Quba, which plays throughout.",
+  "emojis_present": [
+    "👏"
+  ],
+  "audio_music": "The audio is the track \"Fuck Off\" by Quba (confirmed via ACRCloud fingerprint), beginning at 0.0s and playing throughout the video. The tone of the track is assertive/defiant, functioning as a triumphant or dismissive underscore to the redistricting victory announcement.",
+  "editing_pacing": "Static graphic presentation — essentially a single image held for the duration of the clip with no cuts or camera movement. The editing is slideshow-style with no dynamic elements visible in the keyframes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "triumph — the headline 'DEMS STRIKE BACK' and 'NET 4 NEW BLUE SEATS' frames the redistricting outcome as a victory",
+    "defiance — the 'STRIKE BACK' framing and the 'Fuck Off' audio signal a combative, assertive mood",
+    "urgency — the red 'BREAKING' chyron creates a sense of breaking-news immediacy"
+  ],
+  "cultural_references": [],
+  "central_claim": "Virginia Democrats successfully redrew their congressional map through redistricting, netting 4 new Democratic seats and thereby offsetting Republican gains from the Texas gerrymander.",
+  "intended_effect": "Make Democratic-leaning viewers feel energized, triumphant, and confident that Democrats are fighting back effectively against Republican gerrymandering.",
+  "uncertainty_flags": [
+    "The OCR references 'BEFORE' and 'AFTER' redistricting map visuals with sourcing from the Virginia Redistricting Committee, but these map graphics are not clearly visible in the provided keyframes — it is unclear whether they appear elsewhere in the video",
+    "The specific claim of '4 new blue seats' cannot be independently verified from the keyframes alone",
+    "The building shown appears to be the Virginia State Capitol but this is inferred from context rather than on-screen labeling"
+  ]
+}

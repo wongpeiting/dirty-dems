@@ -1,0 +1,47 @@
+{
+  "video_id": "7652070440281672973",
+  "visual_action": "A static image shows the animated character Shrek standing waist-deep in murky green water. The setting is the Lincoln Memorial Reflecting Pool, with the Lincoln Memorial visible in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, 'NEW FOOTAGE OF TRUMP'S RENOVATED REFLECTING POOL !!'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The post was made by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NEW FOOTAGE OF TRUMP'S RENOVATED REFLECTING POOL !!",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "A voice identified as the character Shrek shouts, \"What are you doing in my swamp!\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a single, iconic line of dialogue from the movie 'Shrek', delivered in an angry, booming voice, without any other music or sound effects.",
+  "editing_pacing": "The video is a static image with audio laid over it. There is no movement, editing, or cuts.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The animated character Shrek is digitally superimposed into a photograph of the Lincoln Memorial Reflecting Pool. The water of the pool has also been digitally colored green to resemble Shrek's swamp. The manipulation is for satirical purposes to mock Donald Trump.",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "Shrek (character)",
+    "The line 'What are you doing in my swamp!' from the movie *Shrek*"
+  ],
+  "central_claim": "The post satirically claims that Donald Trump has ruined the Lincoln Memorial Reflecting Pool, turning it into a swamp.",
+  "intended_effect": "To mock Donald Trump by associating him with decay and ugliness, thereby eliciting amusement and disapproval from the audience.",
+  "uncertainty_flags": [
+    "The provided audio fingerprint identifies the track as 'My Swamp — Lil Kevo 303', but the audio is very clearly the famous line of dialogue from the movie 'Shrek'. The song may sample this line, but the primary cultural reference is the film."
+  ]
+}

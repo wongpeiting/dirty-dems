@@ -1,0 +1,87 @@
+{
+  "video_id": "7476521755520208174",
+  "visual_action": "The video first shows Donald Trump speaking at a podium outdoors in front of a building with columns and American flags. It then cuts to a static image of a bar graph from a CBS News / YouGov poll about price changes.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium."
+    },
+    {
+      "name": "CBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The poll graphic is labeled \"CBS NEWS POLL\"."
+    },
+    {
+      "name": "YouGov",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The poll graphic is labeled with the YouGov logo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "August 2024:",
+      "role": "overlay"
+    },
+    {
+      "text": "I will immediately bring prices down starting on day one.",
+      "role": "caption"
+    },
+    {
+      "text": "February 2025:",
+      "role": "overlay"
+    },
+    {
+      "text": "CBS NEWS POLL | YouGov",
+      "role": "chyron"
+    },
+    {
+      "text": "MOE: +/- 2.3 PTS\nFEBRUARY 27-28, 2025",
+      "role": "chyron"
+    },
+    {
+      "text": "PRICES IN LAST FEW WEEKS HAVE BEEN...",
+      "role": "chyron"
+    },
+    {
+      "text": "62% GOING UP",
+      "role": "chyron"
+    },
+    {
+      "text": "33% STAYING THE SAME",
+      "role": "chyron"
+    },
+    {
+      "text": "5% GOING DOWN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"I will immediately bring prices down starting on day one.\"",
+  "emojis_present": [],
+  "audio_music": "A gentle, well-known classical music piece (which sounds like Edvard Grieg's \"Morning Mood\") plays throughout the entire video, creating an ironic contrast between Trump's promise and the poll results shown.",
+  "editing_pacing": "The video consists of two slow, static shots with a single cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "irony",
+    "mockery",
+    "concern"
+  ],
+  "cultural_references": [
+    "Edvard Grieg's 'Morning Mood'"
+  ],
+  "central_claim": "If Donald Trump were president, he would fail on his promise to lower prices, and inflation would worsen.",
+  "intended_effect": "To convince viewers that Donald Trump's economic promises are empty and that his presidency would be detrimental to the economy.",
+  "uncertainty_flags": [
+    "The identified music from the fingerprint service ('Holi deiz — Sema joho') contradicts the TikTok sound label and what is audibly heard, which strongly resembles the famous classical piece 'Morning Mood' by Edvard Grieg."
+  ]
+}

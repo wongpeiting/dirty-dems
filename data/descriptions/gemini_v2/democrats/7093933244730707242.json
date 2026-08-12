@@ -1,0 +1,52 @@
+{
+  "video_id": "7093933244730707242",
+  "visual_action": "A static, close-up shot of Senator Elizabeth Warren speaking directly to the camera. She is wearing glasses and a pink jacket, and is positioned against a slightly blurred outdoor background.",
+  "cast": [
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole person on screen, speaking for the entire duration of the video. The on-screen text also identifies her: 'Senator Warren's feelings on Roe v. Wade'."
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Warren repeatedly refers to 'an extremist Supreme Court' and claims 'this Supreme Court has said they don't care'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Warren concludes her remarks by stating, 'That's what the Republicans have been building toward'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Warren's feelings on Roe v. Wade",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Elizabeth Warren expresses anger at what she calls an 'extremist Supreme Court' for imposing its views on the country regarding Roe v. Wade. She argues that the decision will not affect wealthy women, who can afford to travel for abortions, but will 'fall hardest' on poor women, victims of molestation and rape, and working mothers. She concludes that the Supreme Court does not care about these women and is simply imposing its extremist views, which she says is what the Republican party has been working towards.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Elizabeth Warren's impassioned speech. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "anger",
+    "outrage",
+    "sympathy",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Supreme Court's decision to overturn Roe v. Wade is an extremist act that will disproportionately harm poor and vulnerable women.",
+  "intended_effect": "To evoke anger towards the Supreme Court and Republicans, and to foster sympathy for women who will be negatively impacted by the loss of abortion access.",
+  "uncertainty_flags": []
+}

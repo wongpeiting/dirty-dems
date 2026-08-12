@@ -1,0 +1,114 @@
+{
+  "video_id": "7533721789969583415",
+  "visual_action": "The video opens with a screenshot of a tweet from an account named 'FactPost'. The tweet claims the Corporation for Public Broadcasting is shutting down due to a loss of federal funding, and it displays a photo of Donald Trump next to the Corporation for Public Broadcasting (CPB) logo. This is followed by a screenshot of a purported news article from 'DEADLINE' with the headline \"Corporation For Public Broadcasting To Shut Down Operations After Loss Of Federal Funding,\" dated August 1, 2025. The remainder of the video is a montage of clips from various PBS children's television shows, including \"Sesame Street,\" \"Mister Rogers' Neighborhood,\" \"Clifford the Big Red Dog,\" \"Reading Rainbow,\" \"Dragon Tales,\" \"Arthur,\" and \"Curious George,\" as well as PBS branding like the \"Viewers Like You\" bumpers.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of him appears in a tweet screenshot at the beginning of the video, and the post's caption states, \"Today, Trump cut funding for PBS’ parent company...\""
+    },
+    {
+      "name": "Corporation for Public Broadcasting",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Its name and logo are featured in screenshots of a tweet and a news article that claim it is shutting down."
+    },
+    {
+      "name": "Public Broadcasting Service",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is a montage of its programming and logos, and the caption refers to it as the entity affected by funding cuts to its parent company."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Corporation for Public Broadcasting has announced they are shutting down due to the loss of federal funding.",
+      "role": "overlay"
+    },
+    {
+      "text": "cpb Corporation for Public Broadcasting",
+      "role": "overlay"
+    },
+    {
+      "text": "DEADLINE",
+      "role": "overlay"
+    },
+    {
+      "text": "Corporation For Public Broadcasting To Shut Down Operations After Loss Of Federal Funding",
+      "role": "overlay"
+    },
+    {
+      "text": "By Ted Johnson\nAugust 1, 2025 10:03am",
+      "role": "overlay"
+    },
+    {
+      "text": "Viewers Like You",
+      "role": "overlay"
+    },
+    {
+      "text": "PBS Viewers like you",
+      "role": "overlay"
+    },
+    {
+      "text": "READING RAINBOW",
+      "role": "overlay"
+    },
+    {
+      "text": "Clifford THE BIG RED DOG",
+      "role": "overlay"
+    },
+    {
+      "text": "SESAME STREET .org",
+      "role": "overlay"
+    },
+    {
+      "text": "PBS PUBLIC BROADCASTING SERVICE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists entirely of the song \"Rainbow Connection,\" as sung by Kermit the Frog. The lyrics ponder the existence of rainbows and dreams, expressing a hopeful belief in finding \"the rainbow connection\" that unites \"the lovers, the dreamers, and me.\"",
+  "emojis_present": [],
+  "audio_music": "A gentle, nostalgic, and melancholic acoustic song, identified as \"Rainbow Connection\" sung by Kermit the Frog, plays consistently throughout the entire video. Its hopeful and innocent tone contrasts with the announcement of the shutdown, creating a sense of loss.",
+  "editing_pacing": "The video begins with static shots of two screenshots (a tweet and a news article) and then transitions into a slower-paced montage of short clips from various television shows, with cuts timed to the music.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays what appear to be fabricated screenshots of a tweet from an account named 'FactPost' and a news article from 'DEADLINE'. These screenshots are presented as real evidence that the Corporation for Public Broadcasting is shutting down due to actions by Donald Trump.",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Sadness",
+    "Concern"
+  ],
+  "cultural_references": [
+    "Kermit the Frog",
+    "The Muppets",
+    "Rainbow Connection",
+    "PBS",
+    "Sesame Street",
+    "Elmo",
+    "Bert and Ernie",
+    "Andrew Garfield",
+    "Clifford the Big Red Dog",
+    "Reading Rainbow",
+    "Dragon Tales",
+    "Mister Rogers' Neighborhood",
+    "Fred Rogers",
+    "Officer Clemmons",
+    "WordGirl",
+    "Cyberchase",
+    "Arthur",
+    "Curious George"
+  ],
+  "central_claim": "Donald Trump has cut federal funding for the Corporation for Public Broadcasting, causing it and PBS to shut down and depriving the public of beloved children's programming.",
+  "intended_effect": "To evoke nostalgia and sadness for cherished PBS shows and to direct those feelings into political opposition against Donald Trump, who is blamed for their demise.",
+  "uncertainty_flags": []
+}

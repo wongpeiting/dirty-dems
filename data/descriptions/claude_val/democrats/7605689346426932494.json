@@ -1,0 +1,70 @@
+{
+  "video_id": "7605689346426932494",
+  "visual_action": "The video consists of a static or near-static display of a tweet/post from the account @factpostnews (FactPost, verified blue checkmark) reading: \"Pam Bondi refuses to look at Epstein survivors during a hearing on the Epstein files.\" Below the text is a photograph taken inside what appears to be a U.S. congressional hearing room. In the foreground, a blonde woman in a dark jacket sits with her eyes downcast, not making eye contact with anyone behind her. In the background, a group of people — some wearing white t-shirts with text — are standing with their hands raised, as if making a point or testifying. A digital timer reading \"2:0\" is visible in the upper right. The final frame zooms into the photograph for a closer look. The same image is repeated across multiple keyframes with no editing cuts — it is essentially a static image slideshow or a held shot.",
+  "cast": [
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "On-screen tweet text reads 'Pam Bondi refuses to look at Epstein survivors during a hearing on the Epstein files.' The blonde woman in the foreground of the photograph is identified as Pam Bondi by the caption."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The tweet is attributed to @factpostnews (FactPost) with a blue verified checkmark shown in the screenshot."
+    },
+    {
+      "name": "Epstein survivors (unnamed group)",
+      "kind": "unknown",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet references 'Epstein survivors' and the background of the photo shows multiple individuals standing with raised hands, some in white shirts, in the hearing room."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Pam Bondi refuses to look at Epstein survivors during a hearing on the Epstein files.",
+      "role": "overlay"
+    },
+    {
+      "text": "EXIT",
+      "role": "other"
+    },
+    {
+      "text": "2:0",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is present. The Whisper transcript is empty. The audio is the song \"Praying\" by Kesha playing throughout.",
+  "emojis_present": [],
+  "audio_music": "The ACRCloud fingerprint identifies the track as \"Praying\" by Kesha, beginning from 0.0s and playing throughout the video. The song is an emotional, gospel-influenced power ballad with a tone of pain, survival, and confrontation. Its use here — layered under an image of alleged dismissal of abuse survivors — creates a solemn, emotionally heavy, and empathetic atmosphere.",
+  "editing_pacing": "Essentially static — the video holds on a single tweet screenshot for most of its duration, then zooms slightly into the embedded photograph in the final frame. No cuts, no motion graphics. Extremely slow-paced, resembling a slideshow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "indignation — Bondi is shown looking downward while survivors raise their hands behind her, framed as dismissiveness",
+    "empathy for survivors — the image of people in white shirts with hands raised evokes their plea being ignored",
+    "gravity/solemnity — 'Praying' by Kesha adds an emotionally heavy, survivor-solidarity undertone"
+  ],
+  "cultural_references": [
+    "Praying by Kesha — a widely recognized song associated with surviving abuse and calling out powerful abusers, used here as emotional underscoring for imagery of abuse survivors being ignored"
+  ],
+  "central_claim": "Pam Bondi deliberately avoided looking at Jeffrey Epstein survivors who were present and visibly raising their hands during a congressional hearing on the Epstein files, implying indifference or evasion toward victims.",
+  "intended_effect": "Viewer feels outrage or disappointment toward Pam Bondi and sympathy for Epstein survivors, based on the juxtaposition of her downcast gaze with the raised hands of survivors behind her.",
+  "uncertainty_flags": [
+    "The identity of the blonde woman in the foreground as Pam Bondi is asserted only by the tweet caption — face recognition did not confirm her identity; she cannot be independently verified from the image alone.",
+    "It is unclear whether the image is a candid moment or a deliberate posture; the caption's claim that she 'refuses' to look is an interpretive assertion, not a verified fact.",
+    "The identities of the individuals in the background (claimed to be Epstein survivors) cannot be independently confirmed from the image.",
+    "The exact date and context of the hearing depicted are not shown in the post itself."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "video_id": "7159389191523142955",
+  "visual_action": "The video quickly cuts between still photos of three Republican politicians and animated outlines of three US states. The politicians shown are Marco Rubio, JD Vance, and Ted Budd. Over each of their photos is the text \"abortion ban? 🤔\". After each politician, an animated outline of their corresponding state (Florida, Ohio, North Carolina) appears with cartoonish, superimposed human eyes and lips. The lips on the state outlines lip-sync to the music.",
+  "cast": [
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photo of Marco Rubio is shown at the beginning of the video, paired with an animated map of Florida."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photo of JD Vance is shown in the middle of the video, paired with an animated map of Ohio."
+    },
+    {
+      "name": "Ted Budd",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still photo of Ted Budd is shown at the end of the video, paired with an animated map of North Carolina. He is speaking at a podium with the 'Gaston County Republican Party' seal."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The seal on the podium where Ted Budd is speaking reads 'GASTON COUNTY REPUBLICAN PARTY'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "abortion ban? 🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "GASTON COUNTY REPUBLICAN PARTY",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists of a pop song with lyrics that are lip-synced by the animated state outlines. The audible lyrics are \"You want me? No.\"",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "An upbeat, fast-paced pop song plays throughout the video. The lyrics \"You want me? No\" are timed to the appearance of the animated states, creating a mocking and dismissive effect.",
+  "editing_pacing": "The video uses very fast cuts, alternating between still photos and simple animations in a slideshow-like format.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Human-like eyes and lips are digitally superimposed onto the outlines of the states of Florida, Ohio, and North Carolina to personify them. The lips are animated to look like they are lip-syncing to the song for a satirical effect.",
+  "emotions_signaled": [
+    "mockery",
+    "concern",
+    "sarcasm"
+  ],
+  "cultural_references": [
+    "The animation style of superimposing human facial features onto inanimate objects is a common internet meme format."
+  ],
+  "central_claim": "Republican senators Marco Rubio, JD Vance, and Ted Budd support abortion bans that are implicitly rejected by the states they represent.",
+  "intended_effect": "To mock these Republican senators for their anti-abortion stances and frame them as being out of step with their constituents' wishes.",
+  "uncertainty_flags": []
+}

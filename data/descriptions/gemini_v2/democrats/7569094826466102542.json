@@ -1,0 +1,86 @@
+{
+  "video_id": "7569094826466102542",
+  "visual_action": "A fast-paced montage shows California Governor Gavin Newsom in various settings. He is seen speaking at a podium with an American flag and a sign reading 'ELECTION RIGGING RESPONSE ACT' while people behind him hold 'DEFEND DEMOCRACY' signs. The video cuts between clips of him speaking directly to the camera, at an interview, on a stage with 'MEDIA TECH AI WEEK' branding, talking closely with a man wearing a political hat, laughing on the phone in an office, and smiling at other public events.",
+  "cast": [
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the subject of the entire video montage, appearing in every clip, and is identified by authoritative face-ID. His voice is heard at the beginning of the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The handle '@DEMOCRATS' is overlaid on the video, identifying the account that posted it."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man wearing a dark cap with 'AMERICA' in yellow letters, resembling a campaign hat, is shown briefly in a close, confrontational-style conversation with Newsom. The context implies this individual is a political rival, likely Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ELECTION RIGGING RESPONSE ACT",
+      "role": "overlay"
+    },
+    {
+      "text": "@DEMOCRATS",
+      "role": "overlay"
+    },
+    {
+      "text": "DEFEND DEMOCRACY",
+      "role": "other"
+    },
+    {
+      "text": "CALIFORNIA WORKERS FOR PROP 50",
+      "role": "other"
+    },
+    {
+      "text": "YES on 50",
+      "role": "other"
+    },
+    {
+      "text": "inma MEDIA TECH AI WEEK",
+      "role": "other"
+    },
+    {
+      "text": "RISING SCORES BETTER OUTCOMES",
+      "role": "other"
+    },
+    {
+      "text": "@DEFENDING'S DEMOCRACY",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video opens with a male voice, likely Gavin Newsom's, saying, \"Well don't mess with the great golden state.\" The rest of the audio consists of a song with the repeated lyric \"squabble up.\"",
+  "emojis_present": [
+    "😮‍💨"
+  ],
+  "audio_music": "The video opens with a single spoken line, then a driving hip-hop track begins and continues for the rest of the clip. The track, identified as 'squabble up' by Kendrick Lamar, features a repetitive vocal sample of the phrase 'squabble up'. The overall effect is energetic, confident, and confrontational.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various clips and occasional zooms for emphasis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Energy",
+    "Confrontation"
+  ],
+  "cultural_references": [
+    "The song 'squabble up' by hip-hop artist Kendrick Lamar is used as the backing track."
+  ],
+  "central_claim": "Gavin Newsom is a strong and energetic leader who is ready to fight for California and democratic principles.",
+  "intended_effect": "To generate hype and portray Gavin Newsom as a powerful and effective political figure.",
+  "uncertainty_flags": [
+    "The authoritative music ID identifies a second track ('Hello Bhana' by Binita Sherpa) starting at 5.7s, but the audio in the video appears to be a continuous loop of the first track ('squabble up' by Kendrick Lamar).",
+    "The person shown speaking with Gavin Newsom, implied to be Donald Trump, is not clearly identifiable by face."
+  ]
+}

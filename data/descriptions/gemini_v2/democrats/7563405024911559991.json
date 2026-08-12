@@ -1,0 +1,86 @@
+{
+  "video_id": "7563405024911559991",
+  "visual_action": "A meme video structured in two parts. The first part shows two clips of individuals speaking in interview settings, framed as public statements. The top clip shows a man with glasses in a news studio, and the bottom clip shows a woman speaking outdoors with the White House in the background. The second part cuts to a close-up shot of a person in a suit holding a smartphone, displaying a text message conversation, framed as a private communication.",
+  "cast": [
+    {
+      "name": "Unnamed man (identified as Secretary of Treasury)",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video presents a clip of an unnamed man with the overlay text 'secretaries of treasury and agriculture on tv:'."
+    },
+    {
+      "name": "Unnamed woman (identified as Secretary of Agriculture)",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video presents a clip of an unnamed woman with the overlay text 'secretaries of treasury and agriculture on tv:'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text in the first half of the video reads 'Our farmers overwhelmingly back Trump' and 'Trump has been the most pro-farmer president.'"
+    },
+    {
+      "name": "China",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A fabricated text message shown on screen reads, 'This gives China further leverage on us.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "secretaries of treasury and agriculture on tv:",
+      "role": "overlay"
+    },
+    {
+      "text": "Our farmers overwhelmingly back Trump. They know he has their backs.",
+      "role": "chyron"
+    },
+    {
+      "text": "Trump has been the most pro-farmer president.",
+      "role": "chyron"
+    },
+    {
+      "text": "them texting each other",
+      "role": "overlay"
+    },
+    {
+      "text": "\"but this is highly unfortunate.\"",
+      "role": "meme_text"
+    },
+    {
+      "text": "\"This gives China further leverage on us.\"",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "The audio is a popular meme sound clip from the movie 'The Hangover'. One man says, \"Cool. Um, can you give me a sec?\" After a dramatic musical swell, a second man says, \"Alan, we are so fucked.\" A third man asks, \"Why?\" The dialogue is used to represent the characters' supposed private reaction to their public statements.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of dialogue from a meme. It starts with one line of dialogue, then a dramatic, ominous orchestral sting plays as the visual cuts to the 'private' text message, and the key punchline of the dialogue is delivered over the music. The music serves to create a sense of panic and revelation.",
+  "editing_pacing": "The editing uses simple, sharp cuts. It presents two static clips, then cuts to a third static shot to create a comedic 'public vs. private' juxtaposition.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video superimposes fabricated text messages ('\"but this is highly unfortunate.\"', '\"This gives China further leverage on us.\"') over an image of a person using a phone. This creates a fake private conversation to satirically contrast with the public statements shown earlier, implying the officials are hypocritical.",
+  "emotions_signaled": [
+    "mockery",
+    "alarm",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The audio dialogue is from the 2009 film 'The Hangover' and is a widely used meme format.",
+    "The video uses a common meme structure contrasting public statements ('on tv') with supposed private thoughts or actions ('texting each other')."
+  ],
+  "central_claim": "Trump administration officials publicly praise his pro-farmer policies while privately panicking that these same policies are disastrous and give leverage to China.",
+  "intended_effect": "To portray Trump officials as hypocritical and their policies as harmful, thereby generating distrust and ridicule towards them.",
+  "uncertainty_flags": [
+    "The identities of the man and woman shown are not confirmed; the video labels them 'secretaries of treasury and agriculture', but this may be part of the meme's premise rather than a factual identification.",
+    "The full text message on the phone screen in the original image is illegible; the readable text is superimposed for the meme.",
+    "The fingerprinted music seems incorrect, as the audio is a very distinct and popular meme sound from the movie 'The Hangover'."
+  ]
+}

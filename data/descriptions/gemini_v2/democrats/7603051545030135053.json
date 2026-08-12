@@ -1,0 +1,83 @@
+{
+  "video_id": "7603051545030135053",
+  "visual_action": "The video opens with a still photograph of Donald Trump and Jeffrey Epstein standing next to each other. Text is overlaid on the image, quoting Trump. The video then transitions to a three-panel layout displaying a video clip. In the clip, an unnamed female reporter asks Donald Trump a question in a press scrum. Trump, seated, listens and then responds. Subtitles for the dialogue appear at the bottom of the panels.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photograph and a video clip, is quoted in on-screen text, and speaks on camera."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in a photograph with Donald Trump, and the on-screen text refers to 'THE EPSTEIN FILES' and 'survivors of Epstein's'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown speaking to Donald Trump in a press setting."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible on screen during the news clip segment."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“ ” IT'S REALLY TIME FOR THE COUNTRY TO GET ONTO SOMETHING ELSE.",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP ON THE EPSTEIN FILES",
+      "role": "overlay"
+    },
+    {
+      "text": "A lot of women who are survivors of Epstein's are unhappy with the redactions.",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "overlay"
+    },
+    {
+      "text": "Do you think they should be more transparent?",
+      "role": "chyron"
+    },
+    {
+      "text": "I think it's really time for the country to get onto something else.",
+      "role": "chyron"
+    },
+    {
+      "text": "MERICA BAC",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A reporter asks Donald Trump, \"A lot of women who are survivors of Epstein's are unhappy with the redactions. Do you think they should be more transparent?\" Trump replies, \"I think it's really time for the country to get onto something else.\"",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and slightly ominous instrumental track plays consistently throughout the entire video.",
+  "editing_pacing": "The video consists of static images and panels, with no fast cuts or dynamic editing. It cuts once from the initial photo to the three-panel news clip layout.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "outrage",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is being dismissive of the Jeffrey Epstein case and its victims, an issue he is personally associated with.",
+  "intended_effect": "To generate disapproval of Donald Trump by highlighting his association with Jeffrey Epstein and his dismissive response to questions about the case.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,57 @@
+{
+  "video_id": "7514032259675131182",
+  "visual_action": "A video clip shows former President Donald Trump walking up the stairs to Air Force One, seen from behind. He appears to briefly stumble or lose his footing. The clip is looped. Two uniformed service members stand at attention at the base of the stairs.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown walking up the stairs and is named in the on-screen text: 'Trump tripped on the AF1 stairs lol' and 'PRESIDENT TRUMP DEPARTS...'"
+    },
+    {
+      "name": "Forbes",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'Forbes BREAKING NEWS' logo is visible on the chyron graphic in the bottom right corner."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump tripped on the AF1 stairs lol",
+      "role": "overlay"
+    },
+    {
+      "text": "JUNE 8, 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT TRUMP DEPARTS MORRISTOWN, NEW JERSEY, ON AIR FORCE ONE EN ROUTE TO D.C.",
+      "role": "chyron"
+    },
+    {
+      "text": "Forbes BREAKING NEWS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no audible speech. The audio consists of an instrumental music track. The provided transcript ('This is you, this is so good') is not audible in the video.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, electronic instrumental track ('Love To You' by Tingwey Band) plays throughout the looped clip. The jaunty tone creates a mocking or comedic effect when paired with the visual of Trump stumbling.",
+  "editing_pacing": "The video consists of a single, short news clip that is looped continuously to emphasize the moment Trump stumbles.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post mocks Donald Trump by isolating and looping a moment of physical unsteadiness to portray him as clumsy or frail.",
+  "intended_effect": "To make the audience laugh at Donald Trump and view him as physically unfit.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('This is you, this is so good') is not audible in the video, which features only instrumental music.",
+    "The on-screen text identifies Donald Trump as 'PRESIDENT TRUMP' but gives a date of June 8, 2025, which is after his historical first term. Following instructions, this is not being flagged as manipulation, but the temporal inconsistency is noted."
+  ]
+}

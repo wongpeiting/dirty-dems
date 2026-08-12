@@ -1,0 +1,70 @@
+{
+  "video_id": "7569069200468233485",
+  "visual_action": "The video opens with several seconds of heavily blurred, abstract, colorful frames — appearing to be an out-of-focus or stylized transition effect using vibrant teal, red, orange, and pink hues. A second abstract frame shows a dark cylindrical object with light halos. The video then cuts to a clearer shot of a woman in a magenta/pink blazer standing at a podium with a microphone, in front of an American flag and a blue backdrop partially reading \"...OUR NEW... VT...\" — a campaign sign on the podium reads \"MIKIE SHERRILL / DALE CALDWELL.\" The video then cuts to another dark/blurred transition, followed by a radial zoom-blur effect on a crowd scene with purple and blue stage lighting. A blurred shot follows of a figure in a magenta outfit on a stage with blue curtains. The video then cuts to a crisp group photo shot: Abigail Spanberger in a blue blazer stands center-smiling with a diverse group of supporters, two young girls holding a campaign banner reading \"SPANBERGER FOR VIRGINIA\" with the URL \"AbigailSpanberger.com.\" Finally, the video cuts to an outdoor scene of Spanberger laughing joyfully while holding a teal-and-yellow branded hand fan reading \"Abigail Spanberger / GOVERNOR,\" standing near a bus that reads \"...STATE UNIVERSITY...\" with another person nearby. The @DEMOCRATS watermark appears throughout.",
+  "cast": [
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Confirmed by face-ID; 'SPANBERGER FOR VIRGINIA' banner and 'Abigail Spanberger / GOVERNOR' branded fan visible on screen"
+    },
+    {
+      "name": "Mikie Sherrill",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Campaign podium sign reads 'MIKIE SHERRILL / DALE CALDWELL'; woman in pink blazer at podium appears to be at a Sherrill/Caldwell campaign event"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "@DEMOCRATS watermark present throughout; this is posted from the official @democrats account"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "@DEMOCRATS",
+      "role": "overlay"
+    },
+    {
+      "text": "MIKIE SHERRILL\nDALE CALDWELL",
+      "role": "overlay"
+    },
+    {
+      "text": "AbigailSpanberger.com\nSPANBERGER\nFOR VIRGINIA",
+      "role": "overlay"
+    },
+    {
+      "text": "Abigail Spanberger\nGOVERNOR",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is the song \"Same Damn Time\" by Future. The lyrics heard include: \"How I better, at the same damn time / On the phone, cookin' dope, at the same damn time / Tellin' white, tellin' me, at the same damn time / Fuckin' two bad bitches, at the same damn time.\" The phrase \"at the same damn time\" is the recurring hook, used as the sonic frame for the video's visual montage. No original spoken dialogue from the politicians is audible.",
+  "emojis_present": [],
+  "audio_music": "The track \"Same Damn Time\" by Future plays from the start (fingerprinted at 0.0s and confirmed again at 6.7s). It is an upbeat, energetic hip-hop track with a prominent hook repeating \"at the same damn time.\" The music drives the pacing and energy of the montage, creating a hype/celebratory effect. The sound label indicates this is the account's own audio upload.",
+  "editing_pacing": "Fast-paced with heavy use of blur transitions, radial zoom effects, and speed ramps between shots. The blurred/abstract frames serve as kinetic transitions. The clearer shots — the Sherrill event, the Spanberger group photo, and the Spanberger bus/fan moment — are interspersed between motion-blur passages. Overall feel is energetic and hype-forward.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement — driven by the upbeat Future hip-hop track and fast editing",
+    "enthusiasm — Spanberger shown laughing and smiling broadly",
+    "energy/momentum — zoom-blur and speed-ramp edits create a sense of forward motion"
+  ],
+  "cultural_references": [
+    "Same Damn Time by Future — the song's hook 'at the same damn time' is used as an ironic/hype framing device to suggest Democrats are running multiple campaigns simultaneously"
+  ],
+  "central_claim": "Democratic candidates Abigail Spanberger (running for Virginia Governor) and Mikie Sherrill are campaigning energetically and simultaneously, framed to the \"Same Damn Time\" hook to suggest the party is active on multiple fronts at once.",
+  "intended_effect": "Generate excitement and enthusiasm among Democratic supporters about multiple simultaneous Democratic gubernatorial/candidate campaigns, particularly Spanberger's Virginia Governor race.",
+  "uncertainty_flags": [
+    "The woman at the Sherrill/Caldwell podium in the pink blazer is not face-ID confirmed — she may be Mikie Sherrill herself or another speaker at the event; face is partially visible but not confirmed",
+    "The 'STATE UNIVERSITY' text on the bus in the Spanberger outdoor scene is partially obscured — specific institution unclear",
+    "OCR rendered 'SPANBERCER' and '@DEMOCRAATS' (likely noise artifacts); corrected to 'SPANBERGER' and '@DEMOCRATS' based on visual context",
+    "Exact campaign cycle/election year for Spanberger Virginia Governor race not confirmed from frames alone — context suggests this is a real campaign event post-2024"
+  ]
+}

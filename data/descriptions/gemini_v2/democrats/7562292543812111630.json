@@ -1,0 +1,56 @@
+{
+  "video_id": "7562292543812111630",
+  "visual_action": "A muscular, bald man in a baker's uniform repeatedly uses a machine to pour an excessive amount of thick white glaze over a rack of donuts in a commercial kitchen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads: \"the type of glaze trump gets...\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text reads: \"...from other republicans...\"."
+    },
+    {
+      "name": "unnamed baker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows an unidentified man glazing donuts."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the type of glaze trump gets from other republicans for tanking our economy and shutting down our government",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a slowed-down hip-hop song with male vocal ad-libs. The lyrics are indistinct but include phrases that sound like \"hold on,\" \"wait,\" and \"yeah.\" The provided whisper transcript appears to be inaccurate.",
+  "emojis_present": [
+    "🫩"
+  ],
+  "audio_music": "The video features a continuous, slowed-down hip-hop track, identified as 'gLaSs oF WaTeR (slowed) — Revlox'. The mood is atmospheric and laid-back.",
+  "editing_pacing": "The video is a short, simple, looped clip of a single action.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The use of the word 'glaze' is a reference to contemporary internet slang for sycophantic praise."
+  ],
+  "central_claim": "Republicans give Donald Trump excessive, uncritical praise despite his actions of allegedly harming the economy and causing government shutdowns.",
+  "intended_effect": "To mock Donald Trump and Republicans who support him, portraying their praise as absurdly overwrought.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript does not seem to accurately reflect the audible lyrics in the music."
+  ]
+}

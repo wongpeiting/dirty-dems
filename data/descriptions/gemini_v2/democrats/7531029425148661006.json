@@ -1,0 +1,155 @@
+{
+  "video_id": "7531029425148661006",
+  "visual_action": "In a C-SPAN clip, Donald Trump, Jerome Powell, and Tim Scott are seen standing in a building under construction, all wearing white hard hats. Trump speaks about a budget number, claiming it has increased. Powell, standing to Trump's left, corrects him. Trump pulls a piece of paper from his pocket and looks at it while Powell continues to explain the figures. Tim Scott stands to Trump's right, observing the conversation silently.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the subject of the overlay text, \"Trump gets instantly fact checked,\" and is the primary speaker being corrected in the video clip."
+    },
+    {
+      "name": "Jerome Powell",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is identified by the overlay text as the \"Fed Chair\" and by a chyron as \"JEROME POWELL Federal Reserve Chair.\" He directly contradicts and fact-checks Trump, making him central to the post's narrative."
+    },
+    {
+      "name": "Tim Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visibly present on screen, standing next to Donald Trump, but does not speak or participate in the central conversation."
+    },
+    {
+      "name": "Federal Reserve",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The chyron reads \"TRUMP VISITS FEDERAL RESERVE HEADQUARTERS\" and Powell is identified as the \"Fed Chair.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump gets instantly fact checked by the Fed Chair 😂",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP VISITS FEDERAL RESERVE HEADQUARTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "WASHINGTON, DC",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "SO WE'RE TAKING",
+      "role": "caption"
+    },
+    {
+      "text": "AND IT LOOKS LIKE",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S ABOUT 3.1",
+      "role": "caption"
+    },
+    {
+      "text": "I'M NOT AWARE",
+      "role": "caption"
+    },
+    {
+      "text": "OF THAT MR. PRESIDENT",
+      "role": "caption"
+    },
+    {
+      "text": "IT JUST CAME OUT.",
+      "role": "caption"
+    },
+    {
+      "text": "FROM ANYBODY",
+      "role": "caption"
+    },
+    {
+      "text": "THIS CAME FROM US?",
+      "role": "caption"
+    },
+    {
+      "text": "JEROME POWELL",
+      "role": "chyron"
+    },
+    {
+      "text": "Federal Reserve Chair",
+      "role": "chyron"
+    },
+    {
+      "text": "YOU JUST",
+      "role": "caption"
+    },
+    {
+      "text": "ADDED IN A THIRD",
+      "role": "caption"
+    },
+    {
+      "text": "BUILDING.",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S A BUILDING",
+      "role": "caption"
+    },
+    {
+      "text": "THAT'S BEING BUILT.",
+      "role": "caption"
+    },
+    {
+      "text": "YEARS AGO.",
+      "role": "caption"
+    },
+    {
+      "text": "WE FINISHED MARTIN",
+      "role": "caption"
+    },
+    {
+      "text": "FIVE YEARS AGO.",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S PART OF",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump states that a cost figure has risen from 2.7 to 3.1 billion. Federal Reserve Chair Jerome Powell immediately states he is not aware of that and hasn't heard it from anyone at the Fed. After Trump produces a piece of paper, Powell clarifies that Trump's number includes the Martin renovation, which he explains is a building that was finished five years ago and not a new expense. Trump disputes this, saying it's a building that's \"being built,\" but Powell reiterates, \"We finished Martin five years ago.\"",
+  "emojis_present": [
+    "😂",
+    "🥀"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the C-SPAN broadcast, with no added music or sound effects.",
+  "editing_pacing": "The video is a single, continuous, static shot from a C-SPAN broadcast. The only editing is the addition of a text overlay at the top and synchronized captions at the bottom.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [
+    "The caption 'be so fr' is internet slang for 'be so for real,' an expression of disbelief or exasperation."
+  ],
+  "central_claim": "Donald Trump made a misleading claim about government spending and was immediately corrected on camera by Federal Reserve Chair Jerome Powell.",
+  "intended_effect": "To portray Donald Trump as uninformed and untruthful, and to amuse the audience at his expense.",
+  "uncertainty_flags": []
+}

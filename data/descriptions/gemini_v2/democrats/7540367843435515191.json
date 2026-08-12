@@ -1,0 +1,47 @@
+{
+  "video_id": "7540367843435515191",
+  "visual_action": "A man in a gym setting attempts to do pull-ups but struggles significantly, flailing his body and legs without successfully completing a repetition. Other people are working out in the background.",
+  "cast": [
+    {
+      "name": "the person in charge of the military",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text \"he's in charge of the whole military btw\" implies the video is meant to represent the leader of the military."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "unknown",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The man is shown on screen attempting to do pull-ups but is not identified by name."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "he's in charge of the whole military btw",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio does not contain intelligible speech. Instead, it consists of a high-pitched, cartoonish, frantic screaming sound effect that plays throughout the clip. The provided transcript \"Alright, bye, bye\" is incorrect.",
+  "emojis_present": [],
+  "audio_music": "The audio is dominated by a loud, high-pitched, frantic screaming sound effect throughout the clip, a well-known meme audio often referred to as \"Mickey Mouse screaming by Sr Pelo.\" This sound serves to make the man's actions seem chaotic and ridiculous. The fingerprinted music identified as \"Te Escapas — Rabeat\" is not audible over the screaming sound effect.",
+  "editing_pacing": "The video consists of a single, uncut clip from a static camera position.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The audio is a popular meme sound effect known as 'Mickey Mouse screaming', created by animator Sr Pelo."
+  ],
+  "central_claim": "The leader of the US military is physically weak, incompetent, and unfit for command.",
+  "intended_effect": "To ridicule an implied political opponent (the person in charge of the military) and portray them as weak and unserious.",
+  "uncertainty_flags": [
+    "The specific identity of the person 'in charge of the whole military' is not explicitly stated, only implied.",
+    "The provided Whisper transcript is incorrect and does not match the audio content of the video."
+  ]
+}

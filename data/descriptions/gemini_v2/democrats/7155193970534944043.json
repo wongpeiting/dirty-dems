@@ -1,0 +1,64 @@
+{
+  "video_id": "7155193970534944043",
+  "visual_action": "A slideshow-style video with two still images. The first is of Val Demings smiling. The second is of Marco Rubio speaking.",
+  "cast": [
+    {
+      "name": "Val Demings",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still image of Val Demings is shown with the on-screen text '✨Rep. Val Demings💕' and 'fighting to protect reproductive freedom'."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still image of Marco Rubio is shown with the on-screen text '😳Sen. Marco Rubio🤔' and 'wants a national abortion ban without exceptions'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "✨Rep. Val Demings💕",
+      "role": "overlay"
+    },
+    {
+      "text": "fighting to protect reproductive freedom",
+      "role": "overlay"
+    },
+    {
+      "text": "😳Sen. Marco Rubio🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "wants a national abortion ban without exceptions",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a high-pitched voice exclaiming \"Slay!\" at the beginning, followed by a loud explosion sound effect for the second half of the video. There is no other dialogue.",
+  "emojis_present": [
+    "✨",
+    "💕",
+    "😳",
+    "🤔"
+  ],
+  "audio_music": "The audio begins with a high-pitched voice clip of someone saying 'Slay!'. When the visual cuts to the second image, this is replaced by a loud, jarring explosion sound effect.",
+  "editing_pacing": "A static slideshow with a single cut between two images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Alarm",
+    "Disapproval"
+  ],
+  "cultural_references": [
+    "The audio clip 'Slay!', which is a popular slang term and meme sound."
+  ],
+  "central_claim": "Val Demings fights to protect reproductive freedom, while Marco Rubio wants to implement a national abortion ban without exceptions.",
+  "intended_effect": "To create a stark contrast between the two politicians on the issue of abortion, generating support for Val Demings and opposition to Marco Rubio.",
+  "uncertainty_flags": [
+    "The provided music fingerprint ('Forest Dreams 4 — AMLYLY') does not match the audible content, which consists of two distinct sound effects (a voice clip and an explosion) rather than a continuous music track."
+  ]
+}

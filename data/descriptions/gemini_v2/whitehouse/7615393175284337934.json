@@ -1,0 +1,53 @@
+{
+  "video_id": "7615393175284337934",
+  "visual_action": "Donald Trump, in a suit, stands inside a restaurant as a crowd of supporters applauds him. A Venezuelan flag is visible on the wall behind him. An older man in a blue blazer praises Trump. Trump then walks over to the man, shakes his hand, hugs him, and they have a brief conversation.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually present throughout the video, named in the on-screen text, and is the subject of praise from a supporter."
+    },
+    {
+      "name": "unnamed supporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An older man in a blue blazer speaks at the beginning, saying, 'You have been the best president we have seen in our lives.' Trump later refers to him as 'one of the most successful men in Florida.'"
+    },
+    {
+      "name": "El Arepazo Restaurant",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the location as 'El Arepazo Restaurant in Doral, Florida.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump visits El Arepazo Restaurant in Doral, Florida",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unnamed supporter praises Donald Trump, saying, \"You have been the best president we have seen in our lives,\" which is met with loud applause. Trump then speaks to the man, calling him a longtime friend and \"one of the most successful men in Florida,\" who \"did it the hard way.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of dialogue and the ambient sounds of a crowd. It begins with a man speaking, followed by loud, enthusiastic cheering and clapping. There is no musical soundtrack.",
+  "editing_pacing": "The video is a single, continuous, handheld shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Pride",
+    "Enthusiasm"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump receives an enthusiastic and adoring welcome from supporters at a local restaurant in Florida, demonstrating his grassroots popularity.",
+  "intended_effect": "To showcase Trump's popular support and create a sense of pride and community among his followers.",
+  "uncertainty_flags": [
+    "The identity of the man who speaks and interacts with Trump is not specified."
+  ]
+}

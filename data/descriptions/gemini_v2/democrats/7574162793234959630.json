@@ -1,0 +1,110 @@
+{
+  "video_id": "7574162793234959630",
+  "visual_action": "A static image of a purported CNN news segment is shown. A male anchor stands next to a large screen displaying poll results. The screen is titled \"GOP ON THE EPSTEIN FILES\" and shows two percentages: \"APPROVE OF TRUMP 44%\" and \"WANT THEM ALL RELEASED 67%\". A hand-drawn green line connects the two results. The CNN logo is in the bottom right corner, and a news ticker is at the bottom. A thinking face emoji is overlaid at the top center of the video.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen graphic is titled \"GOP ON THE EPSTEIN FILES\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "One of the poll results shown is \"APPROVE OF TRUMP 44%\"."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen graphic is titled \"GOP ON THE EPSTEIN FILES\"."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and broadcast template are used for the graphic."
+    },
+    {
+      "name": "Unnamed CNN anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is shown on screen presenting the graphic in what appears to be a CNN studio."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "GOP ON THE EPSTEIN FILES",
+      "role": "chyron"
+    },
+    {
+      "text": "APPROVE OF TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "44%",
+      "role": "overlay"
+    },
+    {
+      "text": "WANT THEM ALL RELEASED",
+      "role": "overlay"
+    },
+    {
+      "text": "67%",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "RS WHO INTEND TO TRAVEL TO THE US FOR THE WORLD CUP \"TO APPLY RIGHT AWAY\" NEWS CENTRAL",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a music track.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The video is set to an aggressive, upbeat electronic music track, identified as \"Diddy Blud Post (Hardcore)\" by TUZYA. It features a repetitive, pitched-up vocal sample and plays throughout, creating a chaotic and slightly mocking tone.",
+  "editing_pacing": "The video consists of a single, static image with an emoji overlaid on top. There is no editing or movement.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated CNN news graphic. The graphic combines two seemingly unrelated poll statistics (\"APPROVE OF TRUMP 44%\" and \"WANT THEM [EPSTEIN FILES] ALL RELEASED 67%\") under a single heading to create a misleading or nonsensical association. A green line is also crudely drawn on the screen to connect the two stats, which is not part of a professional news broadcast. This is designed to mock GOP voters by suggesting their political priorities are confused.",
+  "emotions_signaled": [
+    "Mockery",
+    "Confusion"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post implies a confusing or hypocritical connection between Republican voters' approval of Donald Trump and their desire for the release of the Epstein files.",
+  "intended_effect": "To cause the viewer to mock or question the priorities and coherence of Republican voters and to associate Donald Trump with the Epstein scandal.",
+  "uncertainty_flags": [
+    "While the on-screen graphic shows strong evidence of being a fabrication (illogical poll data, hand-drawn elements), I cannot be 100% certain it is not a doctored version of a real CNN segment without external verification."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "video_id": "7563401714699783479",
+  "visual_action": "The video first shows Speaker Mike Johnson at a podium saying 'Republicans have been working.' It then cuts to a screenshot of a mostly empty calendar for October 2025, purportedly from the U.S. House of Representatives Committee Repository. Only one day, October 20, is highlighted.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "On-screen text reads 'what mike johnson says:'. He is shown speaking."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mike Johnson is shown saying 'Republicans have been working.'"
+    },
+    {
+      "name": "U.S. House of Representatives",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'U.S. HOUSE OF REPRESENTATIVES' appears at the top of the calendar screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "what mike johnson says:",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans have been working.",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. HOUSE OF REPRESENTATIVES\nCOMMITTEE REPOSITORY",
+      "role": "other"
+    },
+    {
+      "text": "the house calendar in october bc of him 🌹🌶️",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Over a sad song, a clip of Mike Johnson plays where he says, 'Republicans have been working.'",
+  "emojis_present": [
+    "🌹",
+    "🌶️"
+  ],
+  "audio_music": "A slow, melancholic R&B track ('You Broke My Heart' by Drake) plays throughout, creating an ironic and mocking tone that suggests lying and betrayal.",
+  "editing_pacing": "A simple, slow cut from a talking-head clip to a static screenshot to create a direct visual contrast.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a screenshot of a U.S. House calendar for October 2025 that appears to be fabricated to show legislative inaction. The calendar incorrectly labels October 20th as a Tuesday; in 2025, it was a Monday. This error suggests the image is a staged fake document.",
+  "emotions_signaled": [
+    "mockery",
+    "disappointment",
+    "scorn"
+  ],
+  "cultural_references": [
+    "The song 'You Broke My Heart' by Drake is used."
+  ],
+  "central_claim": "Speaker Mike Johnson is lying when he claims Republicans have been working, as their legislative calendar is supposedly empty.",
+  "intended_effect": "To persuade the viewer that Republicans under Mike Johnson are not governing effectively and are misleading the public about their work.",
+  "uncertainty_flags": []
+}

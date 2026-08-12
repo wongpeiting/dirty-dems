@@ -1,0 +1,70 @@
+{
+  "video_id": "7623429996572331278",
+  "visual_action": "The video cycles through a series of B-roll shots set against the persistent overlay of a Truth Social post from @realDonaldTrump announcing a State Visit by the King and Queen of the United Kingdom. Scenes include: (1) an exterior shot of Windsor Castle with two men in suits (one identifiable as Donald Trump and the other appears to be King Charles III) walking in the foreground; (2) a close-up of Trump gesturing with his fist outside what appears to be a castle; (3) a profile shot of Trump surrounded by figures in ceremonial uniforms; (4) a British military marching band in red uniforms performing on a lawn; (5) soldiers in 18th-century American Revolutionary War-era uniforms with muskets and tricorn hats; (6) aerobatic jets (resembling the Red Arrows) trailing pink smoke over a lawn event; (7) jets trailing blue and pink smoke flying over what appears to be Windsor Castle; (8) an opulent interior room with dark wood paneling, ornate gold furniture, a patterned carpet, and a framed portrait — suggestive of a royal palace interior. The Truth Social post is pinned as an overlay across all frames throughout the clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Trump is visibly shown walking at Windsor Castle, in close-up gesturing, and in profile at a ceremonial event; the Truth Social post is attributed to @realDonaldTrump signed 'DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES OF AMERICA'"
+    },
+    {
+      "name": "King Charles III",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The Truth Social post references 'the King and Queen of the United Kingdom'; one of the two suited men walking at Windsor Castle in frame 1 appears to be the King based on context, though face is not fully clear"
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the Truth Social post text: 'Melania and I are pleased to announce...'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Posted by @whitehouse account; White House mentioned in the Truth Social post text as venue for the Banquet Dinner"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump 🇺🇸 @realDonaldTrump\n\nMelania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom, will visit the United States for a Historic State Visit from April 27-30th, which will include a beautiful Banquet Dinner at the White House on the evening of April 28th. This momentous occasion will be even more special this year, as we commemorate the 250th Anniversary of our Great Country. I look forward to spending time with the King, whom I greatly respect. It will be TERRIFIC!\n\nDONALD J. TRUMP\nPRESIDENT OF THE UNITED STATES OF AMERICA",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio track plays Lorde's song \"Royals,\" with the lyrics: \"And we'll never be royals / It's in our blood / That kind of lux just ain't for us / We crave a different kind of buzz / Let me be your ruler / You can call me Queen Bee / And baby I'll rule.\" The lyric choice is clearly deliberate and thematically tied to the post's subject of a royal State Visit announcement.",
+  "emojis_present": [
+    "👑",
+    "🇺🇸"
+  ],
+  "audio_music": "Lorde's \"Royals\" plays as the background audio — a well-known pop song about not being royalty but aspiring to rule, chosen to complement the announcement of the UK King and Queen's State Visit to the United States.",
+  "editing_pacing": "Slow, cinematic slideshow of B-roll footage with a static text overlay persisting across all frames. Shots are held for several seconds each, with gentle transitions. The pacing is deliberate and stately, reinforcing a sense of occasion and grandeur.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement and pride — conveyed by the grand B-roll of castles, military bands, aerobatic displays, and royal interiors paired with a formal presidential announcement",
+    "playful wit — conveyed by the ironic use of Lorde's 'Royals' as the soundtrack to a royal State Visit announcement",
+    "patriotism — conveyed by inclusion of Revolutionary War-era soldier reenactors alongside British royal pageantry, referencing the 250th Anniversary"
+  ],
+  "cultural_references": [
+    "Lorde's song 'Royals' (2013) — used ironically/playfully as the backdrop for a royal diplomatic announcement",
+    "American Revolutionary War imagery (soldiers in period uniforms) — referencing the 250th Anniversary of American independence from Britain",
+    "British Royal pageantry — Windsor Castle, Red Arrows aerobatic display team, Household Cavalry/Guards marching band"
+  ],
+  "central_claim": "President Trump and Melania are announcing a Historic State Visit by the King and Queen of the United Kingdom to the United States from April 27–30, including a White House Banquet Dinner, timed to coincide with America's 250th Anniversary.",
+  "intended_effect": "To generate excitement and a sense of historic prestige around the announced State Visit of the British King and Queen, while entertaining viewers with the clever/ironic use of \"Royals\" as the soundtrack.",
+  "uncertainty_flags": [
+    "The identity of the second suited figure walking with Trump in the first scene (possibly King Charles III) cannot be confirmed with certainty as the face is not fully clear",
+    "It is uncertain whether the B-roll footage is archival/stock footage from previous royal events or newly produced for this announcement",
+    "The specific date of the video posting and whether the State Visit had already occurred at time of posting cannot be verified from the frames alone"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "video_id": "7533324588508400909",
+  "visual_action": "A narrator speaks directly to the camera, interspersed with two news clips of Donald Trump. The first clip shows Trump seated and speaking during a press conference or interview. The second clip shows Trump speaking to an off-screen reporter while standing in the aisle of an airplane. The video alternates between the narrator and these clips.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking in multiple news clips and is the central subject of the narrator's commentary."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is repeatedly named by the narrator and Trump in relation to his history with Trump and Virginia Giuffre."
+    },
+    {
+      "name": "Virginia Giuffre",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is named by the narrator and a reporter as the 'employee' Trump claims Epstein 'stole' from him."
+    },
+    {
+      "name": "unnamed narrator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man who speaks directly to the camera, providing the commentary and narrative for the video."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An unseen woman asks Donald Trump a question about Virginia Giuffre in one of the news clips."
+    },
+    {
+      "name": "C-SPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'C-SPAN' and 'C-SPAN2' appear on the chyrons during the clips of Trump speaking."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP KEEPS SAYING SOMETHING PRETTY BIZARRE ABOUT HIS RELATIONSHIP WITH EPSTEIN.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP TAKES QUESTIONS FROM REPORTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "TURNBERRY, SCOTLAND",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    },
+    {
+      "text": "STOLE PEOPLE THAT WORKED FOR ME",
+      "role": "overlay"
+    },
+    {
+      "text": "HE WON'T STOP REFERRING TO EPSTEIN \"STEALING\" EMPLOYEES FROM HIS BUSINESS.",
+      "role": "overlay"
+    },
+    {
+      "text": "IN FACT HE REMEMBERS ONE SPECIFIC EMPLOYEE, IT WAS ONE OF EPSTEIN'S MOST PROMINENT VICTIMS VIRGINIA GIUFFRE",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP SPEAKS TO REPORTERS AS HE TRAVELS BACK TO U.S.",
+      "role": "chyron"
+    },
+    {
+      "text": "ABOARD AIR FORCE ONE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "STOLEN UM PERSONS DID THAT INCLUDE VIRGINIA GIUFFRE?",
+      "role": "overlay"
+    },
+    {
+      "text": "I THINK SHE WORKED AT THE SPA",
+      "role": "overlay"
+    },
+    {
+      "text": "I THINK SO I THINK THAT WAS ONE OF THE PEOPLE YEAH HE STOLE HER.",
+      "role": "overlay"
+    },
+    {
+      "text": "MINOR WHEN SHE WORKED AT MAR-A-LAGO",
+      "role": "overlay"
+    },
+    {
+      "text": "TESTIMONY THAT EPSTEIN RECRUITED HER FROM TRUMP'S RESORT.",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S TELLING THAT TRUMP SEEMS MORE UPSET THAT EPSTEIN STOLE FROM HIS BUSINESS THAN THAT A MINOR WAS TRAFFICKED AND ABUSED BY EPSTEIN.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A narrator states that Donald Trump keeps saying bizarre things about his relationship with Jeffrey Epstein, specifically that Epstein was \"stealing\" employees from his business. The narrator claims Trump remembers one employee in particular: Virginia Giuffre, one of Epstein's most prominent victims. In a news clip, a reporter asks Trump if Giuffre was one of the \"stolen persons,\" to which Trump responds, \"I don't know... I think she worked at the spa... I think so... He stole her.\" The narrator concludes by stating that Giuffre was a minor when Epstein recruited her from Trump's Mar-a-Lago resort, and argues it's \"telling\" that Trump seems more upset about Epstein stealing from his business than about a minor being trafficked and abused.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from the narrator and archival news clips. There is no music or other sound design.",
+  "editing_pacing": "The video uses simple cuts between a static talking-head shot of a narrator and two archival news clips. The pacing is determined by the narration.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "disapproval",
+    "moral outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's repeated framing of Virginia Giuffre being 'stolen' from his business by Jeffrey Epstein shows he is more concerned with his financial losses than with the fact that a minor was trafficked from his property.",
+  "intended_effect": "To portray Donald Trump as callous, morally deficient, and having a disturbing lack of concern for the well-being of a victim of sex trafficking who was connected to his property.",
+  "uncertainty_flags": []
+}

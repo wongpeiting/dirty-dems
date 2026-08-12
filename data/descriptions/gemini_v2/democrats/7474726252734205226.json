@@ -1,0 +1,69 @@
+{
+  "video_id": "7474726252734205226",
+  "visual_action": "A static image of a tweet from a user named Ken Martin. The tweet shows a photo taken in a grocery store of egg cartons on a shelf. The price tag for the eggs is $10.49. Next to the price tag is a sticker of Donald Trump pointing, with a speech bubble that says 'I DID THAT!'. The video includes a slight zoom-in on the photo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the tweet text (\"Donald Trump isn't doing a damn thing about it!\") and pictured on the \"I DID THAT!\" sticker."
+    },
+    {
+      "name": "Ken Martin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name and Twitter handle (@kenmartin73) are shown as the author of the tweet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Ken Martin",
+      "role": "overlay"
+    },
+    {
+      "text": "@kenmartin73",
+      "role": "overlay"
+    },
+    {
+      "text": "Spotted in Wisconsin. $10.49 for eggs.",
+      "role": "overlay"
+    },
+    {
+      "text": "Prices keep going up and Donald Trump isn't doing a damn thing about it!",
+      "role": "overlay"
+    },
+    {
+      "text": "10.49",
+      "role": "other"
+    },
+    {
+      "text": "I DID THAT!",
+      "role": "meme_text"
+    },
+    {
+      "text": "LARGE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A continuous, loud, and grating monotonous buzzer sound plays throughout the entire video, creating an annoying and somewhat comedic effect.",
+  "editing_pacing": "The video consists of a static image of a tweet with a very slow zoom-in on the photo within the tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "satire",
+    "annoyance"
+  ],
+  "cultural_references": [
+    "The video uses the 'I Did That!' sticker meme, which originally featured Joe Biden and was placed on gas pumps to blame him for high fuel prices. This post swaps Biden for Donald Trump to satirically blame him for high egg prices."
+  ],
+  "central_claim": "The post sarcastically blames former President Donald Trump for the high price of eggs, thereby mocking the practice of blaming political figures for inflation.",
+  "intended_effect": "To amuse the viewer and mock political opponents who blame specific politicians for economic issues like inflation, by reappropriating a meme typically used against Democrats.",
+  "uncertainty_flags": []
+}

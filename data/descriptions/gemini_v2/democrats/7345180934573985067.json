@@ -1,0 +1,71 @@
+{
+  "video_id": "7345180934573985067",
+  "visual_action": "The video opens with Joe Biden speaking at a podium, identified by a chyron as the State of the Union, with Kamala Harris and Mike Johnson seated behind him. Biden gestures to Harris as he speaks. The video then cuts to a montage of clips featuring Kamala Harris: being sworn in outdoors, walking and talking with Biden in various White House settings, speaking at a podium, and smiling alongside Biden and Douglas Emhoff.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown speaking at the State of the Union address, where he praises Kamala Harris. He also appears throughout the montage with her."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is the subject of Biden's praise and the central figure of the entire video montage, which showcases her in her role as Vice President."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible seated behind President Biden during the opening clip from the State of the Union address."
+    },
+    {
+      "name": "Douglas Emhoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the final clip of the montage, standing and smiling with Joe Biden and Kamala Harris."
+    },
+    {
+      "name": "Roy Blunt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via face-ID in the background of a scene, likely the inauguration."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "State of the Union",
+      "role": "chyron"
+    },
+    {
+      "text": "Now president to the first woman vice president.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "At the State of the Union, Joe Biden gestures towards Kamala Harris and says, \"...now president to the first woman vice president.\" His remarks are followed by applause.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, rhythmic electronic/pop track plays continuously throughout the video, creating an energetic and celebratory tone for the montage.",
+  "editing_pacing": "The video begins with a static shot of a speech and transitions into a fast-paced montage with quick cuts between various clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "celebration",
+    "inspiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video celebrates Kamala Harris's historic position as the first female Vice President.",
+  "intended_effect": "To evoke feelings of pride and admiration for Kamala Harris and the historic nature of her vice presidency.",
+  "uncertainty_flags": []
+}

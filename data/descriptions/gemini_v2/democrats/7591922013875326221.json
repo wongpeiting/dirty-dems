@@ -1,0 +1,105 @@
+{
+  "video_id": "7591922013875326221",
+  "visual_action": "A two-panel slideshow. The first panel is a split image: the top half shows a portrait of George W. Bush next to an image of explosions in a city at night, captioned \"Baghdad, April 2003\". The bottom half shows a portrait of Donald Trump next to a similar image of an explosion, captioned \"Caracas, January 2026\". The text \"bullshit repeats itself\" is overlaid at the top. The second panel is also a split image: the top shows a group photo of the Bush administration from a magazine layout, while the bottom shows a different group of people around a conference table, implying a parallel.",
+  "cast": [
+    {
+      "name": "George W. Bush",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A portrait of him is shown next to the text 'Baghdad, April 2003'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A portrait of him is shown next to the text 'Caracas, January 2026'."
+    },
+    {
+      "name": "George W. Bush Administration",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A group photo of George W. Bush with his cabinet is shown in a magazine layout."
+    },
+    {
+      "name": "Dick Cheney",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a group photo of the Bush administration."
+    },
+    {
+      "name": "Condoleezza Rice",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a group photo of the Bush administration."
+    },
+    {
+      "name": "Colin Powell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a group photo of the Bush administration."
+    },
+    {
+      "name": "Donald Rumsfeld",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a group photo of the Bush administration."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "bullshit repeats itself",
+      "role": "overlay"
+    },
+    {
+      "text": "Baghdad, April 2003",
+      "role": "overlay"
+    },
+    {
+      "text": "Caracas, January 2026",
+      "role": "overlay"
+    },
+    {
+      "text": "FAREWELL TO ALL THAT",
+      "role": "overlay"
+    },
+    {
+      "text": "An Oral History of the Bush White House",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a song with the lyrics, \"Bullshit repeats itself, is that how the saying goes? Been here a thousand times...\"",
+  "emojis_present": [],
+  "audio_music": "A somber pop song, identified as 'We Almost Broke Up Again Last Night' by Sabrina Carpenter, plays throughout. The lyrics heard directly reinforce the video's theme that history is repeating itself in a negative way.",
+  "editing_pacing": "A simple slideshow with one static image cutting to another.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents an image of an explosion with the label 'Caracas, January 2026' to create a visual representation of a hypothetical or past event under Donald Trump. This composite image combines a generic photo with a specific, predictive caption to make a political argument, functioning as a staged depiction.",
+  "emotions_signaled": [
+    "dread",
+    "fear",
+    "cynicism",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The song 'We Almost Broke Up Again Last Night' by Sabrina Carpenter is used, with its lyrics 'Bullshit repeats itself' providing the central theme."
+  ],
+  "central_claim": "A second Donald Trump presidency would lead to a repeat of the George W. Bush administration's mistake of starting an unnecessary war, this time in Venezuela.",
+  "intended_effect": "To persuade viewers to oppose Donald Trump by framing his potential presidency as a dangerous continuation of the Bush-era foreign policy that led to the Iraq War.",
+  "uncertainty_flags": [
+    "The identities of the individuals in the second group photo, implied to be Donald Trump's team, are not clear.",
+    "A small block of text from a magazine layout in the second slide is illegible."
+  ]
+}

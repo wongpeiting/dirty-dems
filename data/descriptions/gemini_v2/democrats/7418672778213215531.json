@@ -1,0 +1,66 @@
+{
+  "video_id": "7418672778213215531",
+  "visual_action": "The video is a fast-paced montage featuring Tim Walz. It begins with him speaking at a podium labeled 'HARRIS' in Bethlehem, PA, at a political rally. It cuts to other clips of him speaking animatedly at different events and celebrating on stage. The montage also includes two still photos presented in a filmstrip frame: one of a hunting dog and another of Walz in hunting gear holding a shotgun. There is also a brief, blurry clip of Walz and a woman disembarking from a plane.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the primary subject of the video, shown speaking and in various montage clips. His presence is confirmed by face ID."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Tim Walz says, '...you can kind of see why Donald Trump's not telling the truth'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The podium from which Tim Walz is speaking is prominently labeled 'HARRIS', indicating it is a Harris-Walz campaign event."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WELL I CAN KIND OF SEE WHY DONALD TRUMP'S NOT TELLING THE TRUTH",
+      "role": "overlay"
+    },
+    {
+      "text": "BECAUSE IF HE TELLS THE TRUTH HE DOESN'T GET A DAMN VOTE",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS",
+      "role": "chyron"
+    },
+    {
+      "text": "BETHLEHEM, PA",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Tim Walz says, 'Well I can kind of see why Donald Trump's not telling the truth. Because if he tells the truth, he doesn't get a damn vote.'",
+  "emojis_present": [],
+  "audio_music": "A very upbeat, high-energy electronic dance track plays throughout the entire video, creating a 'hype' atmosphere for the political speech.",
+  "editing_pacing": "The video features very fast cuts between multiple clips of Tim Walz speaking at different events, still photos, and B-roll footage, creating a rapid, high-energy montage style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Hype",
+    "Energy",
+    "Confidence",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The background music is 'Si Te Sabes el Tiktok Baila', which is a popular format/sound on TikTok associated with dance challenges."
+  ],
+  "central_claim": "Donald Trump deliberately avoids telling the truth because doing so would make him unelectable.",
+  "intended_effect": "To energize supporters, portray Tim Walz as a confident and compelling speaker, and frame Donald Trump as fundamentally dishonest.",
+  "uncertainty_flags": []
+}

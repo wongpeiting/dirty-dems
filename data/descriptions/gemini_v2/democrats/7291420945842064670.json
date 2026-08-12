@@ -1,0 +1,94 @@
+{
+  "video_id": "7291420945842064670",
+  "visual_action": "President Joe Biden, standing in the cabin of Air Force One, speaks with a group of reporters holding microphones. The scene is framed by a CNN 'Breaking News' chyron at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown speaking and answering a reporter's question."
+    },
+    {
+      "name": "Jim Jordan",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A reporter asks Biden for his view on \"Jim Jordan's current predicament.\""
+    },
+    {
+      "name": "Antony Blinken",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID, he is visible in the background behind President Biden."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks President Biden the question about Jim Jordan."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and a 'Breaking News' chyron are displayed throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden on the most recent applicant for House speaker",
+      "role": "overlay"
+    },
+    {
+      "text": "Do you have a view of Jim Jordan's current predicament",
+      "role": "overlay"
+    },
+    {
+      "text": "now unable to secure the speakership?",
+      "role": "overlay"
+    },
+    {
+      "text": "I ache for him. 😏",
+      "role": "overlay"
+    },
+    {
+      "text": "No, zero none. 😂",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "BIDEN SPEAKS WITH REPORTERS ABOARD AIR FORCE ONE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A reporter asks President Biden if he has a view on Jim Jordan's predicament in being unable to secure the House speakership. Biden sarcastically replies, \"I ache for him,\" before smiling and adding, \"No. Zero. None.\" The reporters laugh in response.",
+  "emojis_present": [
+    "😏",
+    "😂"
+  ],
+  "audio_music": "The audio consists solely of dialogue and ambient cabin noise, followed by laughter from the reporters. There is no music.",
+  "editing_pacing": "The video is a single, continuous clip with text overlays added to transcribe the dialogue and add commentary. The camera is relatively static.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "humor",
+    "sarcasm"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden has zero sympathy for Jim Jordan's failure to win the House speakership.",
+  "intended_effect": "To portray President Biden as witty and dismissive of his political opponents, and to generate amusement at Jim Jordan's expense.",
+  "uncertainty_flags": []
+}

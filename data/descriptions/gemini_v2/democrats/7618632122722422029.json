@@ -1,0 +1,44 @@
+{
+  "video_id": "7618632122722422029",
+  "visual_action": "The video consists of two static images. The first is a close-up photo of Donald Trump's face. The second is a close-up photo of a person's lower legs and feet, showing them wearing dark trousers, patterned socks, and shiny black dress shoes that appear large. Text is overlaid for the duration of the video.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A close-up photo of his face is shown, and the on-screen text presents a fabricated quote attributed to him."
+    },
+    {
+      "name": "unnamed staffer",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The on-screen text refers to 'my staff', and the second image shows a person's feet, implying they are the staffer being discussed."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "every time my staff comes to the White House I give them a pair of shoes that are at least 3 sizes too big for them",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a mashup of pop song clips with lyrics including \"...that was then and this is now... Now look at me. This is the part of me.\" The lyrics are unrelated to the video's visual content.",
+  "emojis_present": [],
+  "audio_music": "A fast-paced, high-energy mashup of pop song clips plays throughout the video, creating a dramatic and slightly absurd tone.",
+  "editing_pacing": "Slideshow of two static images with one cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The audio is a popular style of TikTok sound that mashes up multiple pop songs for dramatic or comedic effect."
+  ],
+  "central_claim": "The video satirically claims Donald Trump forces his staff to wear shoes that are three sizes too big, portraying him as strange and petty.",
+  "intended_effect": "To mock and ridicule Donald Trump by attributing a bizarre, fabricated quote to him.",
+  "uncertainty_flags": []
+}

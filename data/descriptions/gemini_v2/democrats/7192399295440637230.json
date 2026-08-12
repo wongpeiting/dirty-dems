@@ -1,0 +1,44 @@
+{
+  "video_id": "7192399295440637230",
+  "visual_action": "A person in a suit and sunglasses, seen from behind, stands before an easel and a blank canvas. They use a paintbrush to gradually reveal a portrait of Kevin McCarthy on the canvas. The portrait appears in pieces, as if being painted, until the full image is visible, at which point it sparkles.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A portrait of him is revealed on a canvas throughout the video, and the on-screen text asks a critical question about his path to becoming Speaker."
+    },
+    {
+      "name": "MAGA Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions 'the most extreme MAGA Republicans'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“After 14 failed votes, who handed over the reins of his caucus to the most extreme MAGA Republicans to become Speaker?”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, repetitive Eurodance track, identified as 'Up & Down' by Vengaboys, plays throughout the video, creating a somewhat jaunty or mocking tone.",
+  "editing_pacing": "The video consists of a single shot with a stylized digital reveal effect, where a portrait is progressively uncovered on a canvas as if being painted.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The act of 'painting' the portrait is a visual fabrication. A photograph of Kevin McCarthy is digitally superimposed and revealed in pieces on the canvas to create the illusion of it being painted.",
+  "emotions_signaled": [
+    "Mockery",
+    "Criticism"
+  ],
+  "cultural_references": [
+    "The song 'Up & Down' by Vengaboys."
+  ],
+  "central_claim": "Kevin McCarthy became Speaker of the House by conceding power to the most extreme members of the Republican party after a historically long series of failed votes.",
+  "intended_effect": "To frame Kevin McCarthy as weak and beholden to the 'extreme MAGA' wing of his party, thereby generating disapproval.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,68 @@
+{
+  "video_id": "7551081939566890253",
+  "visual_action": "The video consists of a static or near-static single photograph displayed across all 8 keyframes, with two slightly different crops/zooms of the same scene. The setting is an ornate, formal state room — green damask walls, gold-framed portrait paintings, candelabras, bronze sculptures, and a display cabinet of fine china — consistent with Windsor Castle or a similar British royal residence. Five people are grouped around a circular wooden table covered with books/documents and display items. Center-left stands Donald Trump in a dark navy suit with a burgundy/purple tie. Next to him is a man in a suit (identifiable by context as King Charles III). Beside him is a woman in a cobalt/royal blue long-sleeved dress with pearl necklace (identifiable as Queen Camilla). To the far right, seen from behind, is a woman in a dark charcoal/black ensemble with a wide-brimmed, deep plum/purple hat — identified by the overlay text as Melania Trump. To the far left stands another woman in a black top and white/cream skirt with her hair up. In later frames the camera zooms in to show Melania's back and her hat more prominently alongside Camilla in blue.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Face-ID confirmed; visible in center of the group photo in dark suit"
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'Melania's outfit for Trump's UK visit'; woman in dark outfit with wide-brim plum hat seen from behind is implied to be Melania"
+    },
+    {
+      "name": "King Charles III",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Older man in suit standing next to Trump in what appears to be a British royal state room, consistent with a US presidential UK visit"
+    },
+    {
+      "name": "Queen Camilla",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Woman in cobalt blue long-sleeved dress with pearl necklace standing beside the man identified as Charles, consistent with royal visit imagery"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Melania's outfit for Trump's UK visit 😭",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The Whisper transcript captures a partial phrase: \"at in the course of this campaign that you know.\" This appears to be audio playing in the background — possibly a speech clip — though it does not align clearly with the visual content. The primary communication is through the on-screen text and the image itself rather than spoken word.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The TikTok sound is labeled \"original sound,\" and ACRCloud found no commercial music match. The Whisper transcript suggests a speech or voice-over clip is audible (\"at in the course of this campaign that you know\"), but the fragment is too incomplete to attribute definitively. No background music is evident; the audio appears to be a spoken-word clip, possibly a campaign speech excerpt used as commentary.",
+  "editing_pacing": "Essentially a static slideshow — the same photograph is held across all frames with a subtle zoom/crop shift partway through to focus on Melania's hat and outfit from behind. No fast cuts or dynamic editing; slow, deliberate hold on the image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "amusement — the 😭 emoji and 'hat theory' caption frame the wide-brim plum hat as noteworthy or comic",
+    "admiration or irony — the zoom-in on the hat highlights it as the focal point, with ambiguous valence"
+  ],
+  "cultural_references": [
+    "Hat theory — a TikTok/social media fashion trend/meme in which the meaning or symbolism of a public figure's hat choice is analyzed or speculated upon; referenced explicitly in the caption '#hattheory'"
+  ],
+  "central_claim": "Melania Trump wore a notable wide-brimmed plum hat as part of her outfit during Donald Trump's official visit to the UK, and this outfit — specifically the hat — is being highlighted for audience reaction.",
+  "intended_effect": "Draw viewer attention to Melania Trump's fashion choice (the large dark hat) during the UK state visit, inviting comment, amusement, or reaction under the \"hat theory\" trend/meme framework.",
+  "uncertainty_flags": [
+    "The identities of King Charles III and Queen Camilla are inferred from context (setting, attire, event) and not face-ID confirmed",
+    "Melania Trump is identified only by the on-screen text and by elimination — her face is not visible (she is seen from behind)",
+    "The Whisper transcript fragment ('at in the course of this campaign that you know') is unclear in its source and relevance to the visual content",
+    "The exact royal residence/venue is not confirmed on screen but the decor is consistent with Windsor Castle or Buckingham Palace",
+    "It is unclear whether the 😭 emoji is meant to express awe, humor, or mockery of the outfit"
+  ]
+}

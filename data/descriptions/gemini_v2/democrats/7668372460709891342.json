@@ -1,0 +1,131 @@
+{
+  "video_id": "7668372460709891342",
+  "visual_action": "A montage video split into two parts. The first half, labeled \"the problem,\" shows quick cuts of Republican politicians: Donald Trump holding up a signed document, Rep. Gabe Evans speaking at a podium, a large group of smiling Republican men and women giving thumbs up, and Trump wincing as he bangs a gavel. The second half, labeled \"the solution,\" shows a montage of Democratic politicians and supporters in various settings: a woman smiling outdoors near a tractor, Jon Ossoff speaking at a rally with an American flag behind him, a woman in scrubs high-fiving a child, people marching in a parade behind a \"CHARLES BOOKER 2026\" banner, and Deb Haaland speaking with a constituent.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown multiple times in the first section of the video labeled 'the problem'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The first section, titled 'the problem', exclusively features prominent Republican politicians like Donald Trump, Mike Johnson, and Gabe Evans."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video was posted by the @democrats account, and the second section, titled 'the solution', features a montage of Democratic politicians and supporters."
+    },
+    {
+      "name": "Gabe Evans",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A chyron identifies him as 'REP. GABE EVANS (R) Colorado'."
+    },
+    {
+      "name": "Jon Ossoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown speaking at a podium in front of an American flag in 'the solution' section."
+    },
+    {
+      "name": "Charles Booker",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on a large banner that reads 'CHARLES BOOKER 2026 For US SENATE'."
+    },
+    {
+      "name": "Deb Haaland",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown speaking with another person in 'the solution' montage."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the group photo of Republicans giving a thumbs-up."
+    },
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the montage of 'the solution'."
+    },
+    {
+      "name": "Roy Cooper",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the montage."
+    },
+    {
+      "name": "Ted Cruz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the montage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the problem",
+      "role": "overlay"
+    },
+    {
+      "text": "REP. GABE EVANS\n(R) Colorado",
+      "role": "chyron"
+    },
+    {
+      "text": "the solution",
+      "role": "overlay"
+    },
+    {
+      "text": "CHARLES BOOKER",
+      "role": "other"
+    },
+    {
+      "text": "2026 For US SENATE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue; the video is set entirely to music.",
+  "emojis_present": [],
+  "audio_music": "The video features two distinct musical cues. The first section, 'the problem,' is accompanied by a slow, pensive instrumental piece. When the video transitions to 'the solution,' the music abruptly changes to an uplifting, ethereal choral piece, creating a hopeful and inspiring mood.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Hope",
+    "Inspiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican party and its politicians are 'the problem,' while the Democratic party and its candidates represent 'the solution' for the country.",
+  "intended_effect": "To frame the political landscape as a clear choice between a problematic Republican party and a hopeful Democratic party, encouraging viewers to support Democrats.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "7232321868093574442",
+  "visual_action": "A fast-paced slideshow of black-and-white professional headshots of various smiling politicians. Each photo has an American flag in the background. A red text box is overlaid at the bottom of the screen throughout the video.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, '217 House Republicans voted for a bill that could cut education funding...'"
+    },
+    {
+      "name": "Jim Banks",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face appears in the montage of Republican politicians."
+    },
+    {
+      "name": "Lauren Boebert",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her face appears in the montage of Republican politicians."
+    },
+    {
+      "name": "Lori Chavez-DeRemer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her face appears in the montage of Republican politicians."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "217 House Republicans voted for a bill that could cut education funding...😩✏️",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of music.",
+  "emojis_present": [
+    "😩",
+    "✏️"
+  ],
+  "audio_music": "The video features the upbeat pop song 'dumb dumb' by mazie throughout. The song's whimsical tone and lyrics which include the line 'everyone is dumb' create a mocking and satirical effect when paired with the portraits of the politicians.",
+  "editing_pacing": "A fast-paced slideshow of still portrait photos, with quick cuts between each image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval",
+    "alarm"
+  ],
+  "cultural_references": [
+    "The song 'dumb dumb' by mazie is used."
+  ],
+  "central_claim": "217 House Republicans voted for a bill that could potentially cut funding for education.",
+  "intended_effect": "To generate disapproval and alarm towards House Republicans regarding their vote on education funding.",
+  "uncertainty_flags": []
+}

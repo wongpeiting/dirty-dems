@@ -1,0 +1,124 @@
+{
+  "video_id": "7575292672047385870",
+  "visual_action": "A news broadcast clip shows Donald Trump seated at a desk in what appears to be the Oval Office, with Zohran Mamdani standing beside him. The broadcast includes a chyron at the bottom. This clip is framed with added text at the top and yellow caption-style text at the bottom that transcribes the dialogue.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown on screen speaking and is the subject of the overlaid text."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown standing next to Trump and is named in both the on-screen text ('Mamdani's NYC') and the audio ('under a Mamdani administration')."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks the question to Donald Trump."
+    },
+    {
+      "name": "Katy Tur",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news chyron includes the text 'KATY TUR REPORTS'."
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'MSNOW' appears on the news broadcast overlay."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: I “really would” feel comfortable living in Mamdani’s NYC",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: WE HAD A MEETING TODAY THAT SURPRISED ME",
+      "role": "chyron"
+    },
+    {
+      "text": "KATY TUR REPORTS",
+      "role": "chyron"
+    },
+    {
+      "text": "YOU USED TO CALL",
+      "role": "overlay"
+    },
+    {
+      "text": "NEW YORK CITY HOME.",
+      "role": "overlay"
+    },
+    {
+      "text": "WOULD YOU FEEL",
+      "role": "overlay"
+    },
+    {
+      "text": "COMFORTABLE LIVING",
+      "role": "overlay"
+    },
+    {
+      "text": "IN NEW YORK CITY",
+      "role": "overlay"
+    },
+    {
+      "text": "UNDER A MAMDANI",
+      "role": "overlay"
+    },
+    {
+      "text": "ADMINISTRATION?",
+      "role": "overlay"
+    },
+    {
+      "text": "YEAH, I WOULD.",
+      "role": "overlay"
+    },
+    {
+      "text": "I REALLY WOULD.",
+      "role": "overlay"
+    },
+    {
+      "text": "ESPECIALLY AFTER THE",
+      "role": "overlay"
+    },
+    {
+      "text": "MEETING. ABSOLUTELY.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump, \"Would you feel comfortable living in New York City under a Mamdani administration?\" Trump responds, \"Yeah, I would. I really would. Especially after the meeting. Absolutely.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of spoken dialogue from the source news clip, with no accompanying music or sound effects.",
+  "editing_pacing": "The video consists of a single, static clip from a news broadcast with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "surprise",
+    "irony"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump stated he would feel comfortable living in New York City under a hypothetical administration led by Zohran Mamdani.",
+  "intended_effect": "To surprise the audience with an unexpected statement from Trump, potentially to create confusion among his supporters or highlight his political unpredictability.",
+  "uncertainty_flags": [
+    "The full context of the meeting between Donald Trump and Zohran Mamdani, and the conversation shown, is not provided in the short clip."
+  ]
+}

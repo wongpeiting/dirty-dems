@@ -1,0 +1,88 @@
+{
+  "video_id": "7136724509175958827",
+  "visual_action": "A young woman with brunette/blonde highlighted hair and gold hoop earrings speaks directly to camera against a plain white/light grey background throughout the video. She is wearing a grey t-shirt that reads \"PROTECT VOTING RIGHTS\" (though the text appears mirrored/reversed in the frame, reading \"ƧTHOIЯ ӨИITOV TƆƎTOЯq\"). She gestures expressively with her hands — pointing with one finger, raising her palm. The video cuts between her talking-head segments and animated infographic screens. The first infographic shows a semicircular House seating chart divided into blue (Democrat) and red/pink (Republican) sides, with a rainbow flag emoji icon in the center circle, text stating \"157 House Republicans Voted Against A Bill To Codify Marriage Equality,\" and counters showing \"220 DEMOCRATS VOTED YES\" and \"157 REPUBLICANS VOTED NO.\" The second infographic shows a similar semicircular seating chart with a pill/capsule emoji icon in the center, text reading \"195 House Republicans Voted Against A Bill To Protect Access To Birth Control,\" with \"195 REPUBLICANS VOTED NO\" displayed. The final frames return to the woman speaking to camera, now without the title overlay. A URL \"IWillVote.com\" appears at the end.",
+  "cast": [
+    {
+      "name": "unnamed female presenter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible on screen throughout as the primary talking-head host of the video"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Account is @democrats; infographic shows '220 DEMOCRATS VOTED YES'"
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text: '157 House Republicans Voted Against A Bill To Codify Marriage Equality' and '195 House Republicans Voted Against A Bill To Protect Access To Birth Control'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WHAT'S ON THE LINE IN 2022 MIDTERMS",
+      "role": "overlay"
+    },
+    {
+      "text": "157 House Republicans Voted Against A Bill To Codify Marriage Equality",
+      "role": "overlay"
+    },
+    {
+      "text": "220 DEMOCRATS VOTED YES",
+      "role": "overlay"
+    },
+    {
+      "text": "157 REPUBLICANS VOTED NO",
+      "role": "overlay"
+    },
+    {
+      "text": "195 House Republicans Voted Against A Bill To Protect Access To Birth Control",
+      "role": "overlay"
+    },
+    {
+      "text": "195 REPUBLICANS VOTED NO",
+      "role": "overlay"
+    },
+    {
+      "text": "IWillVote.com",
+      "role": "overlay"
+    },
+    {
+      "text": "PROTECT VOTING RIGHTS (mirrored/reversed as: ƧTHOIЯ ӨИITOV TƆƎTOЯq)",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The presenter speaks to camera about what is at stake in the 2022 midterm elections. She discusses Republican voting records on social issues, specifically referencing House Republican votes against bills to codify marriage equality and to protect access to birth control. The audio is the account's own original sound; no verbatim transcript was provided, but the on-screen infographics and title overlay frame the spoken content around these two legislative votes and their significance heading into the midterms.",
+  "emojis_present": [
+    "🏳️‍🌈"
+  ],
+  "audio_music": "No commercial music matched. Audio appears to be the presenter's own spoken voice throughout — a direct-to-camera talking-head delivery. No background music, sound effects, or meme audio detected from available context.",
+  "editing_pacing": "Moderate pacing. Structured as a talking-head with periodic cuts to full-screen animated infographic slides and back. The infographics are held long enough to read. No fast cuts, speed ramps, or slow-mo; relatively straightforward explainer-style editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency — title overlay 'WHAT'S ON THE LINE' frames high stakes",
+    "alarm/concern — large Republican vote tallies against popular social protections highlighted in red",
+    "civic motivation — closing call-to-action via IWillVote.com"
+  ],
+  "cultural_references": [
+    "Rainbow flag 🏳️‍🌈 emoji used as the central icon in the marriage equality infographic — widely recognized LGBTQ+ pride symbol"
+  ],
+  "central_claim": "House Republicans voted in large numbers against bills to codify marriage equality and protect access to birth control, and these voting records are presented as what is at stake in the 2022 midterm elections.",
+  "intended_effect": "Motivate viewers — particularly those who support marriage equality and birth control access — to vote in the 2022 midterms, framing the election as a direct referendum on these Republican votes.",
+  "uncertainty_flags": [
+    "Presenter is not named or identified in the video or context — could be a Democratic Party staffer, influencer, or spokesperson; identity unknown",
+    "No Whisper transcript was provided, so spoken word content is inferred from on-screen text and visual context only",
+    "The t-shirt text appears reversed/mirrored in the frame — unclear if this is a camera-flip artifact or intentional; likely a front-facing camera mirror effect, reads as 'PROTECT VOTING RIGHTS'",
+    "Exact vote counts (157 and 195) and the specific bills referenced cannot be independently verified from the video alone"
+  ]
+}

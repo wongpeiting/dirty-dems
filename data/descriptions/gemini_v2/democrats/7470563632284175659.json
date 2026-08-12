@@ -1,0 +1,86 @@
+{
+  "video_id": "7470563632284175659",
+  "visual_action": "The video shows a clip of Donald Trump speaking at a podium with American flags behind him. The podium is labeled \"TRUMP VANCE\". The video then cuts to a static screenshot of a headline from The New York Times which reads, \"With High Prices Persisting, Trump Tempers Tone on Slaying Inflation\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking at a rally in the first clip and is the subject of The New York Times headline in the second clip."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on the podium alongside Trump's name, reading \"TRUMP VANCE\"."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's masthead is shown above a headline screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump says he will defeat inflation on day one",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT STARTING ON DAY ONE,",
+      "role": "caption"
+    },
+    {
+      "text": "I WILL QUICKLY DEFEAT INFLATION.",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP VANCE",
+      "role": "other"
+    },
+    {
+      "text": "TEXT GEORGIA TO 88022",
+      "role": "other"
+    },
+    {
+      "text": "NO TAX ON TIPS",
+      "role": "other"
+    },
+    {
+      "text": "NO TAX ON OVERTIME",
+      "role": "other"
+    },
+    {
+      "text": "TEXT TRUMP TO 88022",
+      "role": "other"
+    },
+    {
+      "text": "The New York Times",
+      "role": "overlay"
+    },
+    {
+      "text": "With High Prices Persisting, Trump Tempers Tone on Slaying Inflation",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"But starting on day one, I will quickly defeat inflation.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice from a speech clip. There is no music or other sound.",
+  "editing_pacing": "The video consists of a single clip of a speech followed by a hard cut to a static image of a news headline.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "skepticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is unreliable on economic issues because he promised to defeat inflation on day one but is now reportedly tempering his tone on the subject.",
+  "intended_effect": "To portray Donald Trump as inconsistent and untrustworthy regarding his economic promises.",
+  "uncertainty_flags": []
+}

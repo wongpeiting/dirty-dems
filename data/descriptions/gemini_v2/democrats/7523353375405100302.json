@@ -1,0 +1,47 @@
+{
+  "video_id": "7523353375405100302",
+  "visual_action": "A montage of clips shows Donald Trump on a golf course. He is seen driving a golf cart with another man, getting out of the cart, and swinging a golf club.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the person shown in all the clips on the golf course, and the on-screen text refers to 'Trump'."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "unknown",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unidentified man is shown sitting next to Donald Trump in the golf cart in the opening shot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump after signing the “poor people don’t deserve to live” bill",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists of the lyrics to the song \"Rock That Body.\"",
+  "emojis_present": [
+    "🥀"
+  ],
+  "audio_music": "An upbeat, high-energy pop/dance track ('Rock That Body' by The Black Eyed Peas) plays throughout the video. Its celebratory tone creates a stark, mocking contrast with the grim (and fabricated) event described in the on-screen text.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between several different clips of Trump on the golf course.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The on-screen text satirically claims Trump is golfing after signing a fictitious and cruel bill titled the 'poor people don’t deserve to live' bill. This text is superimposed over real footage of him golfing to create a false, mocking context for his actions.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt",
+    "satire"
+  ],
+  "cultural_references": [
+    "The Black Eyed Peas (song 'Rock That Body')"
+  ],
+  "central_claim": "Donald Trump is a cruel and callous person who would casually enjoy a game of golf after passing legislation that harms poor people.",
+  "intended_effect": "To generate mockery and contempt for Donald Trump by portraying him as indifferent to the welfare of the poor.",
+  "uncertainty_flags": []
+}

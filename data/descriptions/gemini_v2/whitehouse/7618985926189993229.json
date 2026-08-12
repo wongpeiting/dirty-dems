@@ -1,0 +1,75 @@
+{
+  "video_id": "7618985926189993229",
+  "visual_action": "A man in a suit, identified as Pete Hegseth, stands at a podium giving a speech. The podium has a seal for the 'Department of War'. Behind him is a light blue flag. The video is a static shot focused on the speaker. It concludes with a black screen showing the logo for the 'U.S. Department of War'.",
+  "cast": [
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face-ID, he is the sole speaker and visual focus of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker states, 'Yesterday at Dover Air Force Base, President Trump... stood in solemn silence'."
+    },
+    {
+      "name": "U.S. Department of War",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name appears on the seal on the speaker's podium and on the final credit screen."
+    },
+    {
+      "name": "the Chairman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker states, 'President Trump, the Chairman, and I stood in solemn silence'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "AT DOVER... PRESIDENT... SOLEMN... AS HEROES... HOME. FLAG DRAPED CASKETS... WE GRIEVED WITH THEIR FAMILIES... THROUGH TEARS, THROUGH HUGS, THROUGH STRENGTH, AND THROUGH UNBREAKABLE RESOLVE... THEY SAID, FINISH THIS. HONOR THEIR SACRIFICE. DO NOT WAVER. DO NOT STOP UNTIL THE JOB IS DONE. ...WE WILL FINISH THIS. WE WILL HONOR THEIR SACRIFICE. THEIR SACRIFICE ONLY STEELS OUR COMMITMENT.",
+      "role": "overlay"
+    },
+    {
+      "text": "DEPARTMENT OF WAR",
+      "role": "other"
+    },
+    {
+      "text": "UNITED STATES OF AMERICA",
+      "role": "other"
+    },
+    {
+      "text": "U.S. Department of War",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The speaker, Pete Hegseth, recounts being at Dover Air Force Base with President Trump and 'the Chairman' to witness the return of fallen soldiers in 'flag-draped caskets.' He says he listened to the families, who through their grief showed 'unbreakable resolve' and urged him to 'Finish this. Honor their sacrifice. Do not waver. Do not stop until the job is done.' Hegseth states that he and the President promised they would, concluding, 'Their sacrifice only steels our commitment.'",
+  "emojis_present": [],
+  "audio_music": "A somber and emotional orchestral score plays continuously under the speech, swelling at key moments to emphasize the gravity and resolve of the message.",
+  "editing_pacing": "The video consists of a single, static shot of the speaker at a podium. The main editing element is the use of overlaid text that appears sequentially to highlight key phrases from the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Sorrow",
+    "Resolve",
+    "Patriotism",
+    "Solemnity"
+  ],
+  "cultural_references": [],
+  "central_claim": "The administration will honor the sacrifice of fallen soldiers by completing its mission, a commitment reinforced by the direct pleas of the soldiers' grieving families.",
+  "intended_effect": "To evoke feelings of patriotism, respect for the military, and confidence in the administration's resolve and empathy.",
+  "uncertainty_flags": [
+    "The specific identity of 'the Chairman' mentioned in the speech is not provided.",
+    "The context of the military conflict that resulted in the soldiers' deaths is not specified."
+  ]
+}

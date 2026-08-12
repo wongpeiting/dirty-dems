@@ -1,0 +1,56 @@
+{
+  "video_id": "7413085560748789035",
+  "visual_action": "The video is a slideshow presented as a two-part meme. The first part shows a four-panel grid of flattering photos of Kamala Harris smiling, clapping, speaking at a podium, and boarding a plane. The second part shows a four-panel grid of unflattering photos of Donald Trump: his hair blowing wildly, looking down with a serious expression, making a face while speaking, and shouting.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in a four-panel grid of photos in the first half of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in a four-panel grid of photos in the second half of the video, and referred to in the on-screen text as a 'strange wannabe'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "every presidential candidate..",
+      "role": "meme_text"
+    },
+    {
+      "text": "has their strange wannabe.",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. The audio consists of a song with the lyrics, \"How do I meet the strangest men? They always seem to find me.\"",
+  "emojis_present": [],
+  "audio_music": "A quirky, slightly off-key song with a female vocalist and a simple, jaunty bass line plays throughout. The tone is comedic and mocking.",
+  "editing_pacing": "A simple slideshow that makes a single cut from the first screen showing Kamala Harris to the second screen showing Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [
+    "The song is 'Strangest Men' by Natalie Palamides, which is used as a meme sound on TikTok."
+  ],
+  "central_claim": "Donald Trump is a strange and unfit 'wannabe' in contrast to a proper presidential candidate like Kamala Harris.",
+  "intended_effect": "To mock Donald Trump and portray him as ridiculous and not a serious candidate, while elevating Kamala Harris.",
+  "uncertainty_flags": []
+}

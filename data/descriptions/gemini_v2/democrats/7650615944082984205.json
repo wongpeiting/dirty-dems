@@ -1,0 +1,69 @@
+{
+  "video_id": "7650615944082984205",
+  "visual_action": "A screen recording of a computer monitor displaying a YouTube livestream. The livestream shows construction workers on scaffolding in front of the Kennedy Center, where the names \"THE JOHN F. KENNEDY\" and \"THE DONALD J. TRUMP\" are inscribed. An animated dancing hot dog with headphones and then an animated dancing Shrek are superimposed over the bottom of the monitor.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name, \"THE DONALD J. TRUMP\", is carved on the building. The on-screen caption reads, \"everyone is waiting for trump's name to get removed 😭😭😭\". A YouTube video title is visible: \"[LIVE] Crews set to remove Trump's name from Kennedy Center\"."
+    },
+    {
+      "name": "John F. Kennedy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name is on the building shown in the video: \"THE JOHN F. KENNEDY MEMORIAL CENTER\"."
+    },
+    {
+      "name": "The Kennedy Center",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The building is identified by text as \"THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING ARTS\", and the YouTube video title mentions the \"Kennedy Center\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING ARTS",
+      "role": "other"
+    },
+    {
+      "text": "THE DONALD J. TRUMP AND",
+      "role": "other"
+    },
+    {
+      "text": "LIVE | Crews set to remove Trump's name from Kennedy Center",
+      "role": "overlay"
+    },
+    {
+      "text": "everyone is waiting for trump's name to get removed 😭😭😭",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The video contains no spoken dialogue, only music.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The upbeat pop song \"Party In The U.S.A.\" by Miley Cyrus plays throughout the entire clip, creating a celebratory and cheerful mood.",
+  "editing_pacing": "The video is a static screen recording of another video, but it incorporates animated characters superimposed over the foreground, which gives it a dynamic and meme-like quality.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "An animated dancing hot dog and then the animated character Shrek are digitally superimposed over the screen recording, seemingly dancing on the desk in front of the monitor. This is done for comedic and celebratory effect.",
+  "emotions_signaled": [
+    "celebration",
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "Party In The U.S.A. (song by Miley Cyrus)",
+    "Dancing Hot Dog (Snapchat filter/meme)",
+    "Shrek (animated character)"
+  ],
+  "central_claim": "The removal of Donald Trump's name from the Kennedy Center is a celebratory event.",
+  "intended_effect": "To create a sense of celebration and mockery surrounding the removal of Donald Trump's name from the building, and to rally those who oppose him.",
+  "uncertainty_flags": []
+}

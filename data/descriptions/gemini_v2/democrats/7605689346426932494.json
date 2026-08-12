@@ -1,0 +1,69 @@
+{
+  "video_id": "7605689346426932494",
+  "visual_action": "A static image displays a screenshot of a tweet from the account 'FactPost'. The tweet text claims 'Pam Bondi refuses to look at Epstein survivors during a hearing on the Epstein files.' Below the text is a photograph showing a blonde woman, identified as Pam Bondi, looking down in the foreground. In the background, a group of people are seated with their right hands raised in what appears to be a formal hearing room.",
+  "cast": [
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly names 'Pam Bondi' and she is pictured in the accompanying photograph."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is referenced in the on-screen text via the phrases 'Epstein survivors' and 'Epstein files'."
+    },
+    {
+      "name": "Epstein survivors",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The group is named in the on-screen text and depicted in the photograph with their hands raised."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and handle '@Factpostnews' of the account that posted the tweet are visible in the screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@Factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Pam Bondi refuses to look at Epstein survivors during a hearing on the Epstein files.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio, only a music track.",
+  "emojis_present": [],
+  "audio_music": "The video features the emotional and powerful song 'Praying' by Kesha, which plays throughout. The song's theme of overcoming abuse is used to create a somber tone and evoke sympathy for the survivors mentioned in the post.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sympathy",
+    "disapproval",
+    "outrage"
+  ],
+  "cultural_references": [
+    "Kesha (via her song 'Praying')"
+  ],
+  "central_claim": "Pam Bondi is callously indifferent to the survivors of Jeffrey Epstein's abuse, as evidenced by her refusal to look at them during a hearing.",
+  "intended_effect": "To generate negative sentiment towards Pam Bondi by portraying her as unsympathetic to victims of sexual abuse.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,42 @@
+{
+  "video_id": "7639803324421639454",
+  "visual_action": "A static screen with a black background displays white and red text. A small red and white logo, which appears to be the Republican National Committee elephant logo, is centered at the bottom.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, \"173 Democrats voted against supporting law enforcement.\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A logo resembling the Republican National Committee (RNC) elephant is displayed on screen, and the post is from the '@republicans' account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "173 Democrats voted against supporting law enforcement.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "The video features a suspenseful and ominous piano and music box track throughout, consistent with the identified song \"Suspense Horror Piano Music.\"",
+  "editing_pacing": "The video is a single static shot with no edits or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "173 Democrats voted against a bill that would support law enforcement.",
+  "intended_effect": "To generate disapproval and alarm towards the Democratic Party by portraying them as being against law enforcement.",
+  "uncertainty_flags": []
+}

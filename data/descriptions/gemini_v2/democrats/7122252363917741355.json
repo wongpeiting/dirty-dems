@@ -1,0 +1,73 @@
+{
+  "video_id": "7122252363917741355",
+  "visual_action": "A woman speaks directly to the camera. Behind her, an animated graphic with the title \"House of Representatives Vote On A Bill To Create An Active Shooter Alert System\" appears. The graphic, a semi-circle of dots representing legislators, fills in to show vote counts: first, blue dots representing Democrats voting yes, with the number 217, and then red dots for Republicans voting no, with the number 168.",
+  "cast": [
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker and narrator of the video."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker states, \"168 Republicans voted no.\" The on-screen text also reads, \"168 REPUBLICANS VOTED NO.\" She also refers to \"Ultra MAGA Republicans.\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker says, \"217 Democrats passed a bill,\" and wears a sweatshirt with the word \"DEMOCRAT\" mirrored. The on-screen text reads, \"217 DEMOCRATS VOTED YES.\""
+    },
+    {
+      "name": "House of Representatives",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The title of the graphic is \"House of Representatives Vote On A Bill To Create An Active Shooter Alert System.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "House of Representatives Vote On A Bill To Create An Active Shooter Alert System",
+      "role": "overlay"
+    },
+    {
+      "text": "217 DEMOCRATS VOTED YES",
+      "role": "overlay"
+    },
+    {
+      "text": "168 REPUBLICANS VOTED NO",
+      "role": "overlay"
+    },
+    {
+      "text": "TARCOMED",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A woman claims that Republicans are \"out of step with the American people.\" She reports that 217 Democrats passed a bill for an \"Amber-style\" active shooter alert system, while 168 Republicans voted against it. She concludes by stating that \"Ultra MAGA Republicans are too extreme to hold power.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of the woman's speech. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot. The only edits are animated graphics that appear over the speaker's shoulder to display the vote counts.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "concern",
+    "disappointment"
+  ],
+  "cultural_references": [
+    "AMBER Alert"
+  ],
+  "central_claim": "Republicans are extremists who oppose public safety because a majority of them in the House voted against creating an active shooter alert system that Democrats supported.",
+  "intended_effect": "To make viewers angry with Republicans for voting against a public safety bill and to persuade them to support Democrats.",
+  "uncertainty_flags": []
+}

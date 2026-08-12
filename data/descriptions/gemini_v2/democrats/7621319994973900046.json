@@ -1,0 +1,121 @@
+{
+  "video_id": "7621319994973900046",
+  "visual_action": "A fast-paced montage of clips featuring Donald Trump at a desk, and various other politicians and supporters in different settings (outdoors, at a rally, at a podium). Each clip is overlaid with large, white text highlighting purported political news or statistics.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown visually in multiple clips and is the subject of on-screen text headlines like \"Donald Trump's Approval Rating Hits Record Low in Second Term: Poll\" and \"Democrat flips seat representing Mar-a-Lago's district...\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post is from the '@democrats' account and celebrates the party's successes with text like 'In 2025, Democrats Flipped 21 Percent of GOP-Held Legislative Seats'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned as 'GOP' and 'Republicans' in on-screen text, such as 'GOP-Held Legislative Seats' and 'Republicans stare down epic voter enthusiasm gap ahead of 2026 midterms'."
+    },
+    {
+      "name": "Unnamed female Democrat",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman shown smiling in a clip with the overlay text: 'Democrat flips seat representing Mar-a-Lago's district in Florida special election'."
+    },
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by facial recognition, shown smiling at a podium in front of American flags."
+    },
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by facial recognition, shown on a stage in front of a large crowd."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by facial recognition, shown speaking into a microphone outdoors at night."
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by facial recognition, shown on a stage in front of a large crowd."
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by facial recognition, shown on a stage in front of a large crowd."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "In 2025, Democrats Flipped 21 Percent of GOP-Held Legislative Seats",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrat flips seat representing Mar-a-Lago's district in Florida special election",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald Trump's Approval Rating Hits Record Low in Second Term: Poll",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans stare down epic voter enthusiasm gap ahead of 2026 midterms",
+      "role": "overlay"
+    },
+    {
+      "text": "nov 2026 🔜",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A female voice raps lyrics over a beat, starting with the line \"You bitches thought it was over, it ain't never over.\" The rest of the lyrics include lines like \"I'ma go go run and make the headlines\" and \"night-night like it's bedtime.\"",
+  "emojis_present": [
+    "🔜"
+  ],
+  "audio_music": "A confident, upbeat hip-hop track with a female rapper plays throughout. The audio begins with a popular meme sound bite, setting a defiant and triumphant tone for the video.",
+  "editing_pacing": "A fast-paced montage with quick cuts between clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "triumphalism",
+    "confidence",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The audio opens with the viral meme sound 'You bitches thought it was over', often associated with rapper Saucy Santana."
+  ],
+  "central_claim": "Democrats are experiencing significant and ongoing electoral success against a weakened Donald Trump and Republican party, building momentum for the 2026 midterms.",
+  "intended_effect": "To energize Democratic supporters by showcasing a narrative of victory and to project confidence about future electoral prospects.",
+  "uncertainty_flags": [
+    "The identity of the specific female Democrat shown in the clip about flipping the 'Mar-a-Lago district seat' is not provided."
+  ]
+}

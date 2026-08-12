@@ -1,0 +1,84 @@
+{
+  "video_id": "7462935932191247658",
+  "visual_action": "The video shows a clip of Donald Trump sitting in the Oval Office being interviewed by Sean Hannity. The camera cuts between a two-shot of both men and a close-up of Trump as he speaks.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking throughout the clip and the subject of the post's commentary."
+    },
+    {
+      "name": "Sean Hannity",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown on screen interviewing Donald Trump, but he does not speak in the clip."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on the chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump just said he can tell immigrants are bad based on how they “look” 😳",
+      "role": "caption"
+    },
+    {
+      "text": "HANNITY SITS DOWN WITH TRUMP IN THE OVAL OFFICE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "HANNITY EXCLUSIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "OPEN BORDERS WITH PEOPLE",
+      "role": "overlay"
+    },
+    {
+      "text": "POURING IN, SOME OF WHOM — I WON'T",
+      "role": "overlay"
+    },
+    {
+      "text": "GET INTO IT, BUT YOU CAN LOOK AT THEM AND YOU",
+      "role": "overlay"
+    },
+    {
+      "text": "CAN SAY, COULD BE TROUBLE.",
+      "role": "overlay"
+    },
+    {
+      "text": "COULD BE TROUBLE.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump discusses \"open borders with people pouring in\" and states that for some of them, \"you can look at them and you can say, could be trouble.\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the interview, with no background music or sound effects.",
+  "editing_pacing": "The editing consists of simple cuts between a two-shot and a close-up of the speaker, typical of a standard television interview segment.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump claims he can identify potentially dangerous immigrants simply by looking at them.",
+  "intended_effect": "To provoke outrage and criticism of Donald Trump by highlighting comments that suggest he judges people based on their appearance.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,65 @@
+{
+  "video_id": "7424633167597833503",
+  "visual_action": "The video starts with a static screenshot of a tweet from Tim Walz. The tweet reads, \"All Donald Trump and JD Vance know about manufacturing is how to manufacture bullshit.\" After a few seconds, it cuts to a photoshopped image of a basketball game. In the image, Tim Walz's head is superimposed on a player dunking a basketball. Donald Trump's head is on the player being dunked on, and JD Vance's head is on another player looking on from the side.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name, handle, and profile picture are shown on a tweet he authored. His face is also photoshopped into the basketball image."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in Tim Walz's tweet and his face is photoshopped onto a basketball player being dunked on."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in Tim Walz's tweet and his face is photoshopped onto a basketball player."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Tim Walz",
+      "role": "overlay"
+    },
+    {
+      "text": "@Tim_Walz",
+      "role": "overlay"
+    },
+    {
+      "text": "All Donald Trump and JD Vance know about manufacturing is how to manufacture bullshit.",
+      "role": "overlay"
+    },
+    {
+      "text": "DALLAS",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of a meme sound effect and music.",
+  "emojis_present": [],
+  "audio_music": "The video begins with a male voice shouting a drawn-out \"Dayum!\", a common meme sound effect. This is immediately followed by an upbeat, celebratory hip-hop track ('Bird' by Mambrett) that plays for the remainder of the clip.",
+  "editing_pacing": "The video consists of two static shots: a screenshot of a tweet, followed by a hard cut to a photoshopped image. The pacing is simple and not dynamic.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The heads of Tim Walz, Donald Trump, and JD Vance are digitally superimposed onto the bodies of basketball players. Walz is shown dunking on Trump, with Vance looking on, to visually represent Walz 'dunking on' or defeating Trump and Vance with his tweet.",
+  "emotions_signaled": [
+    "mockery",
+    "triumph"
+  ],
+  "cultural_references": [
+    "The 'Dayum!' meme sound effect.",
+    "The cultural metaphor of 'dunking on' someone, visually literalized through a photoshopped basketball game."
+  ],
+  "central_claim": "Tim Walz's tweet asserts that Donald Trump and JD Vance are liars whose only expertise is in creating 'bullshit', not in actual manufacturing.",
+  "intended_effect": "The intended effect is to make the audience see Trump and Vance as incompetent liars, to mock them, and to celebrate Tim Walz's pointed criticism as a decisive victory or 'dunk'.",
+  "uncertainty_flags": []
+}

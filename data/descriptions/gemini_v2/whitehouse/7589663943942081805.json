@@ -1,0 +1,86 @@
+{
+  "video_id": "7589663943942081805",
+  "visual_action": "A montage of short clips featuring Donald Trump in various settings. He speaks at a podium in front of a fake 'McDonald's Impact Summit 2025' backdrop, reacts to an off-screen crash, holds up a red hat reading 'TRUMP WAS RIGHT ABOUT EVERYTHING,' speaks at rallies, reacts to a sneeze, stands with Melania Trump and a child in a Halloween costume, uses a sword at a formal event, and speaks outdoors in front of a helicopter. The video ends on a still shot of a framed photograph.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the subject of every clip in the montage and is shown speaking throughout."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears standing next to Donald Trump during a Halloween event clip."
+    },
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "While not clearly visible, he is identified by face-ID in the context data and is addressed by name by Trump after an off-screen sneeze: 'God bless you, Bobby.'"
+    },
+    {
+      "name": "McDonald's",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The first clip features a manipulated backdrop for the 'MCDONALD'S IMPACT SUMMIT 2025,' and Trump refers to himself as a 'former McDonald's fry cook.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MCDONALD'S IMPACT SUMMIT 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "NATIONALLY LOVED",
+      "role": "overlay"
+    },
+    {
+      "text": "LOCALLY OWNED",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump 2025 Core",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP WAS RIGHT ABOUT EVERYTHING",
+      "role": "meme_text"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video is a compilation of out-of-context clips of Donald Trump speaking. Key lines include him jokingly introducing himself as the 'very first former McDonald's fry cook ever to become president,' responding to an off-screen crash with 'You okay? Fake news,' refusing to introduce senators he doesn't like, joking about catching COVID after someone sneezes, and bluntly stating of an unnamed group, 'they don't know what the fuck they're doing.'",
+  "emojis_present": [
+    "🙏"
+  ],
+  "audio_music": "The audio primarily consists of Donald Trump's spoken words. Each cut between clips is punctuated by a tape-rewind or stop sound effect. An upbeat electronic music track plays in the background during the clip of the Halloween event and the subsequent clip of him with a sword.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between short, disconnected clips.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The opening scene is a visual fabrication. A backdrop for a fictitious 'MCDONALD'S IMPACT SUMMIT 2025' has been digitally superimposed behind Donald Trump as he speaks at a podium. This is paired with audio of him calling himself a 'former McDonald's fry cook' to create a satirical scenario.",
+  "emotions_signaled": [
+    "humor",
+    "amusement",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Marshmello"
+  ],
+  "central_claim": "The video compiles a series of out-of-context, humorous, and unfiltered moments to portray Donald Trump as an entertaining and uniquely authentic political figure.",
+  "intended_effect": "To amuse the audience and cultivate an image of Donald Trump as a charismatic and funny personality.",
+  "uncertainty_flags": [
+    "The audio of Donald Trump saying he was a 'McDonald's fry cook' in the first clip sounds potentially artificial and may be an audio deepfake or heavily edited, though this cannot be confirmed visually.",
+    "The on-screen presence of Robert F. Kennedy Jr. is asserted by context data but is not clearly discernible in the video itself."
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "video_id": "7554506333945416974",
+  "visual_action": "A clip of Donald Trump speaking outdoors, with a helicopter visible in the background, is shown twice with captions. The video then cuts to a static screenshot of a tweet from the 'Democrats' Twitter/X account.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking in the first half of the video."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned multiple times in the tweet shown on screen: 'Republicans control the House. Republicans control the Senate. Republicans control the White House.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet shown is from the 'Democrats' account (@TheDemocrats)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "If it has to shut down...",
+      "role": "overlay"
+    },
+    {
+      "text": "it'll have to shut down.",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats @TheDemocrats\n\nRepublicans control the House.\nRepublicans control the Senate.\nRepublicans control the White House.\n\nIt'll be on them if the government shuts down.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump is heard saying the words that appear on screen: \"If it has to shut down... it'll have to shut down.\" This is followed by a heavily distorted and slowed-down audio clip of a male voice, a meme sound, saying something akin to \"I'm making a complete butt of myself.\"",
+  "emojis_present": [],
+  "audio_music": "The video starts with Donald Trump's natural speaking voice. This is immediately followed by a distorted, slowed-down, low-pitched audio clip of a male voice, used for comedic or mocking effect.",
+  "editing_pacing": "Simple editing consisting of two static shots of a speaking person followed by a static screenshot of a tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "blame"
+  ],
+  "cultural_references": [
+    "Uses a distorted audio clip of a line from the animated TV show 'The Critic'."
+  ],
+  "central_claim": "Donald Trump and the Republican Party are responsible for and willing to cause a government shutdown.",
+  "intended_effect": "To hold Republicans accountable for a potential government shutdown and to mock their position on the issue.",
+  "uncertainty_flags": [
+    "The date of the tweet shown on screen is not visible."
+  ]
+}

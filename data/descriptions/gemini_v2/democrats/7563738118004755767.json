@@ -1,0 +1,64 @@
+{
+  "video_id": "7563738118004755767",
+  "visual_action": "A montage of clips showing Donald Trump on stage at various rallies. He is seen speaking, waving to crowds, and gesturing. Some shots show him on an airport tarmac in front of a plane.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown in every clip of the video and is explicitly named in the on-screen text."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the on-screen text: \"during the government shutdown, trump and republicans are:\"."
+    },
+    {
+      "name": "Adelita Grijalva",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the on-screen text list of actions: \"refusing to swear in rep-elect adelita grijalva\"."
+    },
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the on-screen text list of actions: \"buying kristi noem 2 luxury private jets\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "during the government shutdown, trump and republicans are:\n\n• demolishing part of the white house to make room for a $200M golden ballroom\n• trying to send argentina a $40 BILLION bailout\n• refusing to swear in rep-elect adelita grijalva\n• buying kristi noem 2 luxury private jets\n• considering commuting diddy's sentence",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of a musical mashup with sung lyrics, including lines like \"I scream from the top of my lungs, what's going on\" and profane rap lyrics like \"business say shit, and it ain't say nothing, a hundred motherfuckers can't tell me not\".",
+  "emojis_present": [
+    "🥲"
+  ],
+  "audio_music": "A high-energy, chaotic musical mashup plays continuously throughout the video. It appears to combine lyrics from the song \"What's Up?\" by 4 Non Blondes with a separate rap track over a driving beat, creating a frantic and jarring effect.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different clips of Donald Trump.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Disapproval",
+    "Anger"
+  ],
+  "cultural_references": [
+    "The song \"What's Up?\" by 4 Non Blondes is used in the audio mashup.",
+    "Diddy (Sean Combs) is mentioned in the on-screen text regarding a potential sentence commutation."
+  ],
+  "central_claim": "During a government shutdown, Donald Trump and Republicans are engaging in corrupt and self-serving actions, including lavish spending, controversial foreign aid, and political favoritism.",
+  "intended_effect": "To provoke anger and outrage at Donald Trump and Republicans, portraying them as corrupt and fiscally irresponsible.",
+  "uncertainty_flags": []
+}

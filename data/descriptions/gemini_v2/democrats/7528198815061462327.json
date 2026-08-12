@@ -1,0 +1,77 @@
+{
+  "video_id": "7528198815061462327",
+  "visual_action": "A slideshow of images. First, a screenshot of a Wall Street Journal headline about Donald Trump sending a 'bawdy' letter to Jeffrey Epstein. Second, a screenshot of the article text describing the letter, with three flushed face emojis overlaid. Finally, a montage of four photographs showing Donald Trump with Jeffrey Epstein and Ghislaine Maxwell.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name appears in the on-screen text from a news article, and he is shown in several photographs."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name appears in the on-screen text from a news article, and he is shown in photographs with Donald Trump."
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She appears in two photographs with Donald Trump."
+    },
+    {
+      "name": "Wall Street Journal",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The abbreviation \"WSJ\" is shown on screen as the source of the article."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "swipe to see what the letter said",
+      "role": "overlay"
+    },
+    {
+      "text": "WSJ",
+      "role": "overlay"
+    },
+    {
+      "text": "Jeffrey Epstein's Friends Sent Him Bawdy Letters for a 50th Birthday Album. One Was From Donald Trump.",
+      "role": "overlay"
+    },
+    {
+      "text": "😳😳😳",
+      "role": "overlay"
+    },
+    {
+      "text": "The letter bearing Trump's name, which was reviewed by the Journal, is bawdy—like others in the album. It contains several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker. A pair of small arcs denotes the woman's breasts, and the future president's signature is a squiggly \"Donald\" below her waist, mimicking pubic hair. The letter concludes: \"Happy Birthday — and may every day be another wonderful secret.\"",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video contains no spoken words, only an ominous musical track.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "A continuous, low-pitched, ominous and suspenseful drone-like sound, creating a feeling of dread and seriousness.",
+  "editing_pacing": "A slow-paced slideshow of static images (screenshots and photographs).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "disgust",
+    "suspicion"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump had a close and inappropriate relationship with Jeffrey Epstein, as shown by a 'bawdy' birthday letter he sent and multiple photos of them together.",
+  "intended_effect": "To create suspicion and disapproval of Donald Trump by associating him with the Jeffrey Epstein scandal.",
+  "uncertainty_flags": []
+}

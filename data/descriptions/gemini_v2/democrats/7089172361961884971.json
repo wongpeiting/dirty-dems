@@ -1,0 +1,81 @@
+{
+  "video_id": "7089172361961884971",
+  "visual_action": "The video begins with a shot of Joe Biden sitting at a desk in what appears to be the Oval Office, writing on a document. Text overlays describe his tax plan. The video then cuts to three different clips of Rick Scott. The first is a close-up of him with a wide-eyed, surprised expression. The second shows him at a press conference, holding up a pamphlet. The third shows him speaking at a podium. Text overlays appear over these clips, describing the Republican tax plan.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Joe Biden is shown at the beginning of the video, and on-screen text describes \"President Biden's Tax plan\"."
+    },
+    {
+      "name": "Rick Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Rick Scott is shown in multiple clips representing the Republican plan. His name is also visible on a sign behind him in one shot."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text explicitly mentions the \"Republicans plan to...\" raise taxes."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden's Tax plan ensures...",
+      "role": "overlay"
+    },
+    {
+      "text": "✨billionaires pay their fair share✨",
+      "role": "overlay"
+    },
+    {
+      "text": "✨no one making under $400k/year pays more in taxes✨",
+      "role": "overlay"
+    },
+    {
+      "text": "vs. Republicans plan to...",
+      "role": "overlay"
+    },
+    {
+      "text": "🚩raise taxes on half the country🚩",
+      "role": "overlay"
+    },
+    {
+      "text": "🚩raise taxes on the middle class🚩",
+      "role": "overlay"
+    },
+    {
+      "text": "🚩raise taxes on seniors🚩",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video. The audio consists solely of a repeating vocal sample of the word \"Wait\" set to a beat.",
+  "emojis_present": [
+    "✨",
+    "🚩"
+  ],
+  "audio_music": "The audio is a rhythmic, repeating vocal sample of the word 'Wait', identified as the track 'Wait Wait Wait' by MESTA NET. This meme-style sound creates a sense of surprise and incredulity.",
+  "editing_pacing": "The video uses quick cuts, contrasting a single clip of Joe Biden with multiple, rapidly-shown clips of Rick Scott. This creates a fast-paced, comparative montage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Approval",
+    "Alarm",
+    "Disapproval",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The audio track 'Wait Wait Wait' is a popular meme sound on platforms like TikTok."
+  ],
+  "central_claim": "President Biden's tax plan is fair to the middle class and makes billionaires pay their share, whereas the Republican plan, represented by Rick Scott, will raise taxes on the middle class, seniors, and half the country.",
+  "intended_effect": "To persuade viewers that Biden's tax plan is beneficial for ordinary people while the Republican plan is harmful, thereby encouraging support for Democrats and opposition to Republicans.",
+  "uncertainty_flags": []
+}

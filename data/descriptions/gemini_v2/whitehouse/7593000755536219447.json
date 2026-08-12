@@ -1,0 +1,128 @@
+{
+  "video_id": "7593000755536219447",
+  "visual_action": "Karoline Leavitt speaks at a podium in the White House press briefing room. An unidentified man stands behind her and to her right. The podium is labeled \"THE WHITE HOUSE WASHINGTON\". Text overlays appear periodically to announce the topic of the press conference. The video concludes with a series of black and white images of the White House and a helicopter, with \"THE WHITE HOUSE\" text displayed.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The speaker is visually identified as Karoline Leavitt throughout the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker states, \"The Trump administration is now updating...\" and \"President Trump has tasked two of the great individuals behind me...\""
+    },
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker opens by saying, \"The Trump administration is now updating federal nutrition standards...\" and on-screen text reads, \"The Trump Administration announces new 2025-2030 Dietary Guidelines.\""
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man with grey hair, wearing a suit and red tie, is visible standing behind Karoline Leavitt throughout her speech."
+    },
+    {
+      "name": "USDA Secretary Rollins",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker refers to \"USDA Secretary Rollins\" as one of the individuals tasked with the project."
+    },
+    {
+      "name": "HHS Secretary Kennedy",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker refers to \"HHS Secretary Kennedy\" as one of the individuals tasked with the project."
+    },
+    {
+      "name": "United States Department of Agriculture (USDA)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker mentions \"USDA Secretary Rollins\"."
+    },
+    {
+      "name": "Department of Health and Human Services (HHS)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker mentions \"HHS Secretary Kennedy\"."
+    },
+    {
+      "name": "Department of Veterans Affairs (VA)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker notes the guidelines will affect \"the food that they are consuming at the VA.\""
+    },
+    {
+      "name": "WIC",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker mentions the guidelines will impact programs \"such as WIC and Head Start.\""
+    },
+    {
+      "name": "Head Start",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker mentions the guidelines will impact programs \"such as WIC and Head Start.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE WASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON\n\nThe Trump Administration\nannounces new 2025-2030\nDietary Guidelines",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt announces that the Trump Administration is updating federal nutrition standards by unveiling the new 2025-2030 Dietary Guidelines for America. She emphasizes that these guidelines are based on science and facts, not special interests, and were developed by USDA Secretary Rollins and HHS Secretary Kennedy at President Trump's direction. Leavitt states the new guidelines will form the foundation for all federal food programs, affecting school lunches, meals for the military and veterans, and nutritional programs for those in need like WIC and Head Start.",
+  "emojis_present": [
+    "🍇",
+    "🥦"
+  ],
+  "audio_music": "The audio consists entirely of a person speaking clearly from a podium, with no background music or sound effects.",
+  "editing_pacing": "The video primarily uses a static, talking-head shot of the speaker at the podium, with text overlays appearing and disappearing. It concludes with a brief montage of black-and-white still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Authority",
+    "Reassurance",
+    "Trustworthiness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump Administration is improving the health of all Americans by releasing new science-based dietary guidelines that will reform federal food programs.",
+  "intended_effect": "To portray the Trump Administration as competent, proactive, and concerned with the health and well-being of the American people.",
+  "uncertainty_flags": [
+    "The man standing behind Karoline Leavitt strongly resembles Mehmet Oz, but he is not identified by the provided face-ID context or in the video's audio/text."
+  ]
+}

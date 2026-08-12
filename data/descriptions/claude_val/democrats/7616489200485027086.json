@@ -1,0 +1,71 @@
+{
+  "video_id": "7616489200485027086",
+  "visual_action": "The video opens with a heavily glitched, green-saturated image of a man (confirmed as Donald Trump by face-ID) with dollar-sign symbols digitally superimposed over his eyes, mouth open in what appears to be a yelling expression. The background is a chaotic green pixelated glitch pattern. The video then transitions to a series of glitch-art title cards on pale/gray backgrounds with partially obscured text reading phrases including \"HEALTH CARE,\" \"SNAP,\" and \"FREE SCHOOL LUNCH,\" accompanied by red redaction bars and chromatic aberration effects. Next, the video cuts to a heavily filtered image of smiling people (grayscale with magenta/pink wash) with overlaid glitching text referencing \"HEALTH CARE,\" \"SNAP,\" and \"FREE SCHOOL LUNCH\" — with red strikethroughs over the words. The final sequence shows aerial/highway footage tinted in fiery orange-red-yellow tones with digital artifact overlays, resembling a warzone or disaster, with bold text overlays reading \"$11.3 BILLION SINCE START,\" \"7 SERVICE MEMBERS,\" \"HUNDREDS OF CIVILIANS,\" and \"SCHOOL BOMBED.\" All text and visuals have heavy glitch, chromatic aberration, and distortion effects throughout.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Face confirmed by InsightFace roster in opening glitched frame; audio narration states 'Donald Trump is spending $2 billion every day on his war in Iran'; dollar-sign symbols are digitally superimposed over his eyes in the opening image."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "$ $",
+      "role": "overlay"
+    },
+    {
+      "text": "HEALTH CARE",
+      "role": "overlay"
+    },
+    {
+      "text": "SNAP",
+      "role": "overlay"
+    },
+    {
+      "text": "FREE SCHOOL LUNCH",
+      "role": "overlay"
+    },
+    {
+      "text": "$11.3 BILLION SINCE START",
+      "role": "overlay"
+    },
+    {
+      "text": "7 SERVICE MEMBERS",
+      "role": "overlay"
+    },
+    {
+      "text": "HUNDREDS OF CIVILIANS",
+      "role": "overlay"
+    },
+    {
+      "text": "SCHOOL BOMBED",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The narration states: \"Donald Trump is spending $2 billion every day on his war in Iran. Money that could fund health care, SNAP, free school lunches. $11.3 billion since the start with seven service members dead, hundreds of civilian deaths, and we bombed a school.\" The tone is urgent and accusatory throughout.",
+  "emojis_present": [],
+  "audio_music": "Original audio produced by the account. A narrating voice-over (spoken-word, no music bed identified) delivers the script in a grave, urgent tone. No background music or commercial track detected. The delivery is rapid and declarative, structured for maximum impact — listing costs, casualties, and consequences in quick succession. No meme sound effects or musical stings detected.",
+  "editing_pacing": "Fast-cut, heavily processed aesthetic throughout. Glitch art transitions, chromatic aberration, digital artifact overlays, and color-washed footage dominate. Text slams in with glitch animations and red redaction-bar effects. The pacing is rapid and disorienting — each scene lasts only a few seconds before cutting. The overall style mimics a corrupted broadcast or digital emergency signal.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "In the opening frame, green dollar-sign symbols ($ $) are digitally superimposed over Donald Trump's eyes — a deliberate visual alteration of the original image made to mock him as money-obsessed or war-profiteering. This is a visible photoshop/overlay manipulation applied to a real image of Trump for satirical/rhetorical effect.",
+  "emotions_signaled": [
+    "alarm — fiery red/orange imagery of what appears to be a burning highway scene paired with casualty statistics",
+    "moral outrage — dollar-sign eyes on Trump figure juxtaposed with struck-through domestic programs (SNAP, health care, free school lunch)",
+    "grief — text listing '7 SERVICE MEMBERS,' 'HUNDREDS OF CIVILIANS,' 'SCHOOL BOMBED' over distressed imagery",
+    "urgency — rapid cutting, glitch effects, and '$2 BILLION A DAY' framing in caption and audio"
+  ],
+  "cultural_references": [
+    "Dollar-sign eyes meme — a well-established internet visual trope (derived from cartoon conventions, e.g. Looney Tunes/classic animation) applied to Trump's face to signify greed"
+  ],
+  "central_claim": "Donald Trump is spending $2 billion per day ($11.3 billion total) on a war in Iran, resulting in 7 U.S. service member deaths, hundreds of civilian deaths, and the bombing of a school — money that could instead have funded domestic programs like health care, SNAP, and free school lunches.",
+  "intended_effect": "To provoke outrage and opposition to Trump's Iran military spending by contrasting its cost with cut domestic programs and by cataloguing its human toll in casualties and civilian harm.",
+  "uncertainty_flags": [
+    "The specific conflict referred to as 'his war in Iran' and associated figures ($11.3B, 7 service members, school bombed) are after my training knowledge cutoff — treated as real per instructions, but cannot independently verify the figures.",
+    "The smiling group of people shown in the middle sequence (grayscale/magenta wash) cannot be identified — they may be stock imagery or specific individuals.",
+    "The aerial/highway footage in fiery tones may be real disaster/war footage or heavily filtered stock footage — its origin is unclear.",
+    "OCR was noisy ('ShAP MOL FRE') — reconstructed as 'SNAP,' 'SCHOOL,' 'FREE' based on audio transcript and cleaner frames."
+  ]
+}

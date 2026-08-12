@@ -1,0 +1,80 @@
+{
+  "video_id": "7462519936569658670",
+  "visual_action": "The video shows a clip from a C-SPAN broadcast of a White House press conference. It cuts between a shot of Donald Trump speaking at a podium in the Roosevelt Room and a shot of reporters in the audience. An unnamed male reporter with glasses asks a question.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at a White House podium and is the subject of the on-screen caption and the reporter's question. A chyron identifies him as 'PRESIDENT TRUMP'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man with glasses is shown in the audience of reporters and is heard asking Trump a series of questions about his business dealings."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump won't stop grifting and making billions as president 😳",
+      "role": "caption"
+    },
+    {
+      "text": "PRESIDENT TRUMP TAKES QUESTIONS FROM REPORTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "The White House\nRoosevelt Room",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "DO YOU INTEND TO CONTINUE SELLING PRODUCTS THAT BENEFIT YOURSELF PERSONALLY WHILE YOU'RE PRESIDENT?",
+      "role": "overlay"
+    },
+    {
+      "text": "WELL, I DON'T KNOW IF IT BENEFITED. I DON'T KNOW WHERE IT IS. I DON'T KNOW MUCH ABOUT IT OTHER THAN I LAUNCHED IT. I HEARD IT WAS VERY SUCCESSFUL. I HAVEN'T CHECKED IT. WHERE IS IT TODAY?",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU MADE A LOT OF MONEY, SIR.",
+      "role": "overlay"
+    },
+    {
+      "text": "HOW MUCH?",
+      "role": "overlay"
+    },
+    {
+      "text": "SEVERAL BILLION DOLLARS, IT SEEMS LIKE IN THE LAST SEVERAL DAYS.",
+      "role": "overlay"
+    },
+    {
+      "text": "SEVERAL BILLION? THAT'S PEANUTS FOR THESE GUYS.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A reporter asks Donald Trump if he intends to continue selling products that personally benefit him while he is president. Trump deflects, saying he doesn't know much about it but heard it was successful. The reporter claims Trump made \"several billion dollars\" in recent days. Trump responds dismissively, \"Several billion? That's peanuts for these guys.\"",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of the dialogue from the press conference, with no background music or sound effects.",
+  "editing_pacing": "The video consists of simple cuts back and forth between two static shots: one of Donald Trump at a podium and one of the reporters in the audience.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is unapologetically using his presidency to enrich himself by billions of dollars and is dismissive when confronted about this conflict of interest.",
+  "intended_effect": "To portray Donald Trump as corrupt, out of touch, and unfit for office due to his business dealings while president.",
+  "uncertainty_flags": []
+}

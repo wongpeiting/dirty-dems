@@ -1,0 +1,94 @@
+{
+  "video_id": "7637608896433081614",
+  "visual_action": "The video starts with a young man, Will Roberts, speaking directly to the camera in a room with a mounted deer head on the wall. The text 'April 2026' is overlaid. The scene then cuts to a month later, 'May 2026', where Will, now with a prosthetic left leg, is standing in an office-like setting with Dr. Mehmet Oz and two other adults, presumably his parents. Dr. Oz speaks to Will, who then addresses the camera.",
+  "cast": [
+    {
+      "name": "Will Roberts",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He introduces himself at the start of the video, saying 'my name is Will Roberts', and his story about his cancer treatment is the entire focus of the video."
+    },
+    {
+      "name": "Mehmet Oz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He appears on screen speaking with Will Roberts and is also mentioned by name by Will: 'thanks to President Trump and Dr. Oz'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Will Roberts explicitly thanks him for his help, saying, 'And I'm out here in LA getting it thanks to President Trump and Dr. Oz'."
+    },
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption states, 'The entire Trump admin is praying for you patriot @Will Roberts ❤️🇺🇸'."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An adult male in a purple polo shirt is shown standing with Will Roberts and Dr. Oz."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An adult female in a tan top is shown standing with Will Roberts and Dr. Oz."
+    },
+    {
+      "name": "Dr. Charleston",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned at the very end of the video when Dr. Oz says, 'We'll find out in about six weeks, Dr. Charleston said.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "April 2026",
+      "role": "overlay"
+    },
+    {
+      "text": "May 2026",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A young man named Will Roberts from Alabama introduces himself and explains he has a deadly bone cancer, asking viewers to share his video for help. The video then cuts to a later scene where he is with Dr. Mehmet Oz and his parents. Dr. Oz praises Will's spirit. Will thanks everyone for their prayers and for helping him raise money for his medication. He specifically says he is in Los Angeles receiving the treatment 'thanks to President Trump and Dr. Oz.' He adds that they will know in six weeks if the treatment is working.",
+  "emojis_present": [
+    "❤️",
+    "🇺🇸"
+  ],
+  "audio_music": "The audio consists solely of spoken dialogue with no background music or sound effects.",
+  "editing_pacing": "The video consists of two static, conversational shots with a single cut between them, creating a slow and direct-to-camera pacing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sympathy",
+    "hope",
+    "gratitude",
+    "inspiration",
+    "patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Thanks to the help of President Trump, Dr. Oz, and public support, a young patriot named Will Roberts is now receiving crucial treatment for his cancer.",
+  "intended_effect": "To create a positive and compassionate image of Donald Trump and his administration by highlighting their role in helping a young person in need, while also inspiring viewers with a story of resilience.",
+  "uncertainty_flags": [
+    "The identities of the man and woman with Will Roberts are not confirmed, though they are likely his parents as referenced by Dr. Oz."
+  ]
+}

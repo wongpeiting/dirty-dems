@@ -1,0 +1,48 @@
+{
+  "video_id": "7558162961420881166",
+  "visual_action": "A static, close-up shot of Donald Trump looking slightly upward with his mouth open, as if in the middle of speaking.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face is the sole visual in the video, and he is named in the on-screen text: 'Trump to American soybean farmers...'"
+    },
+    {
+      "name": "American soybean farmers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "They are mentioned in the on-screen text: 'Trump to American soybean farmers after decimating their livelihoods with tariffs'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump to American soybean farmers after decimating their livelihoods with tariffs",
+      "role": "meme_text"
+    },
+    {
+      "text": "(everyone is buying soybeans from brazil and argentina instead)",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "A male voice says a phrase that sounds like, \"I want you to produce me some cabbage, carrots.\" This audio clip is unrelated to the on-screen text about soybeans and is used for ironic effect.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a short, repurposed viral audio clip of a man speaking. The sound is used as a non-sequitur for comedic or mocking effect.",
+  "editing_pacing": "The video is a single, static image with no edits or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "criticism"
+  ],
+  "cultural_references": [
+    "The audio is from a viral sound clip identified as 'I Want You To Produce' by Viral Quotes, which is repurposed in the style of a TikTok meme."
+  ],
+  "central_claim": "Donald Trump's tariff policies harmed American soybean farmers by causing their customers to buy from Brazil and Argentina instead.",
+  "intended_effect": "To portray Donald Trump as incompetent and his policies as harmful to American workers, particularly farmers.",
+  "uncertainty_flags": []
+}

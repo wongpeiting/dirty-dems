@@ -1,0 +1,108 @@
+{
+  "video_id": "7604133696714706189",
+  "visual_action": "A fast-paced montage of clips featuring Donald Trump. He is shown in various settings: waving from the White House with Melania Trump, walking down a hallway, at rallies with large crowds, dancing in front of military personnel, signing documents at a desk while surrounded by supporters, waving from a naval ship, walking on an airport tarmac, speaking at podiums (including one with a CPAC logo), wielding a ceremonial sword, and attending a UFC event. The video concludes with a black-and-white image of the White House and a helicopter, with \"THE WHITE HOUSE\" text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in nearly every frame of the montage video."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown walking and waving alongside Donald Trump in several clips."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visibly stands behind Donald Trump, smiling, during a document signing scene around 0:20."
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID as being present in the video, likely within one of the crowd shots."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID as being present in the video, likely within one of the crowd shots."
+    },
+    {
+      "name": "Conservative Political Action Conference",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'CPAC' logo is visible on the podium from which Trump is speaking at 0:09."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Iykyk 🤭",
+      "role": "caption"
+    },
+    {
+      "text": "CPAC",
+      "role": "overlay"
+    },
+    {
+      "text": "45-47",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "overlay"
+    },
+    {
+      "text": "BUD LIGHT",
+      "role": "other"
+    },
+    {
+      "text": "UFC 316",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video opens with a male voiceover stating, \"I may only have one match, but I can make an explosion.\" It then transitions to a female-led, anthemic pop song with motivational lyrics including, \"This is our fight song, Take back my life song... I'll be strong, I'll play my fight song... And I don't really care if nobody else believes.\"",
+  "emojis_present": [
+    "🤭"
+  ],
+  "audio_music": "The audio begins with a male voiceover, then transitions into an upbeat and anthemic pop song that builds in energy throughout the montage. The song, with a strong female vocal lead, creates a powerful, inspirational, and triumphant mood that matches the visuals of Trump's rallies and activities. The style is highly reminiscent of a well-known pop anthem.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes. It frequently uses slow-motion to emphasize moments of perceived power or confidence. The editing is synchronized with the building tempo of the anthemic background music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "inspiration",
+    "pride",
+    "strength",
+    "triumph"
+  ],
+  "cultural_references": [
+    "The song used is a sound-alike of Rachel Platten's 2015 hit \"Fight Song\", borrowing its recognizable anthemic and empowering feel.",
+    "The video features imagery from a UFC (Ultimate Fighting Championship) event, with the Bud Light logo also visible on the octagon."
+  ],
+  "central_claim": "Donald Trump is a strong and resilient fighter who is mounting a powerful comeback, and his supporters should feel inspired and ready for the fight.",
+  "intended_effect": "To energize and motivate supporters by portraying Donald Trump as a powerful, determined leader on a triumphant return.",
+  "uncertainty_flags": [
+    "The audio sounds extremely similar to 'Fight Song' by Rachel Platten, but was not matched by the music fingerprinting service, suggesting it may be a cover or a purpose-made sound-alike.",
+    "The presence of Hakeem Jeffries and JD Vance is based on authoritative face-ID data, but they are not clearly identifiable in the fast-paced crowd shots."
+  ]
+}

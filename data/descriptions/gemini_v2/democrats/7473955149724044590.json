@@ -1,0 +1,81 @@
+{
+  "video_id": "7473955149724044590",
+  "visual_action": "The video begins with a still image framed as an Instagram post from 'The White House' account. The image is a stylized painting of Donald Trump wearing a crown against a city skyline backdrop, with the text 'TRUMP' and 'LONG LIVE THE KING'. An overlay reads, 'Trump's White House posted this...'. The video then cuts to a two-panel clip of Donald Trump speaking at a podium with American flags, with captions reading 'Should I run again?' and 'You tell me.'",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is depicted in a painted illustration wearing a crown, and he appears in a video clip speaking the lines 'Should I run again? You tell me.'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The video shows a fabricated Instagram post from the 'whitehouse' account and includes the text 'Trump's White House posted this...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "whitehouse",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "LONG LIVE THE KING",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's White House posted this...",
+      "role": "overlay"
+    },
+    {
+      "text": "and the next day Trump said this",
+      "role": "overlay"
+    },
+    {
+      "text": "Should I run again?",
+      "role": "chyron"
+    },
+    {
+      "text": "You tell me.",
+      "role": "chyron"
+    },
+    {
+      "text": "WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE | 4:20 PM ET",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump asks an audience, \"Should I run again? You tell me.\"",
+  "emojis_present": [],
+  "audio_music": "A dramatic, orchestral, and cinematic musical score ('Light at the end of the rubble' by Ak Justin) plays throughout the video, creating a serious and ominous tone.",
+  "editing_pacing": "The video consists of a static image shown for a few seconds, followed by a static two-panel video clip of a talking head.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated Instagram post, attributed to the 'whitehouse' account, featuring a non-photographic, painted illustration of Donald Trump wearing a crown. This staged social media post is used to frame him as authoritarian.",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The illustration of Trump is styled to resemble the cover of TIME Magazine."
+  ],
+  "central_claim": "The video implies Donald Trump has authoritarian, monarchical ambitions by pairing a fabricated image of him as a king with a clip of him asking his supporters if he should run for office again.",
+  "intended_effect": "To generate concern and alarm about Donald Trump's character and fitness for office.",
+  "uncertainty_flags": []
+}

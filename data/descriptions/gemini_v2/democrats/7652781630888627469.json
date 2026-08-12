@@ -1,0 +1,60 @@
+{
+  "video_id": "7652781630888627469",
+  "visual_action": "A montage of still images and short video clips celebrating the opening of the Obama Presidential Center. The video shows the exterior of the building, interior shots of art exhibits and visitors, a formal portrait of Barack and Michelle Obama, and the Obamas viewing their portrait. Some clips have animated effects like sparkles, floating hearts, and a digital fire overlay.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Visible in a portrait, a still image, and in-person at the presidential center named after him."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Visible in a portrait and in-person at the presidential center."
+    },
+    {
+      "name": "Obama Presidential Center",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text 'the obama presidential center opens today' appears throughout the video, and the building itself is shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the obama presidential center opens today 💙",
+      "role": "overlay"
+    },
+    {
+      "text": "YES WE CAN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is set entirely to music.",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "An uplifting, nostalgic pop-rock song, identified as 'Dreams' by Fleetwood Mac, plays consistently throughout the video.",
+  "editing_pacing": "A montage of still images and clips with smooth transitions and animated overlays like sparkles and floating hearts.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A digital flame effect is superimposed over a shot of Barack Obama standing in what appears to be the Oval Office, likely for symbolic effect.",
+  "emotions_signaled": [
+    "pride",
+    "celebration",
+    "nostalgia"
+  ],
+  "cultural_references": [
+    "'Dreams' by Fleetwood Mac",
+    "The 'Yes We Can' slogan"
+  ],
+  "central_claim": "The Obama Presidential Center has opened, marking a celebratory moment for the legacy of the Obama presidency.",
+  "intended_effect": "To generate excitement and positive feelings about the Obama Presidential Center and the Obamas' legacy.",
+  "uncertainty_flags": []
+}

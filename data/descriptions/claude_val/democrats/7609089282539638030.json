@@ -1,0 +1,52 @@
+{
+  "video_id": "7609089282539638030",
+  "visual_action": "The video is a montage of multiple clips of Donald Trump speaking and gesturing, all bathed in a heavy red/pink color grade that gives a dramatic, ominous aesthetic. The first two frames show Trump at what appears to be a White House press briefing or news conference setting, with a chyron visible at the bottom reading \"NEWS CONFERENCE AF[TER] [COU]RT STRIKES DOWN TAR[IFFS]\". He is wearing a blue tie and suit with an American flag pin. The next frames shift to Trump at a podium bearing the Presidential seal, in front of American flags, wearing a red tie, speaking emphatically with both fists raised. There is a close-up extreme zoom on Trump's face with eyes squinting and mouth moving. Later frames return to the news conference setting with the blue tie, and then back to the podium with the red tie and fists pumping. A final frame shows what appears to be a darkened TV broadcast frame with partially legible chyron text reading \"TRUMP\" at the bottom. Throughout, motion blur and fast cuts are used. The entire video is drenched in a saturated red/pink filter overlay.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Face confirmed by InsightFace roster; appears in every frame of the montage; on-screen OCR text reads 'TRUMP'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NEWS CONFERENCE AF[TER]",
+      "role": "chyron"
+    },
+    {
+      "text": "[COU]RT STRIKES DOWN TAR[IFFS]",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The Whisper transcript captures what sounds like Trump speaking: \"I want to be a good boy, but she gets it and be a good boy I'd love to kiss you.\" These appear to be audio clips of Trump speaking, likely spliced together or selectively edited, set against the \"Earned It (Sped Up)\" music track.",
+  "emojis_present": [
+    "🤢"
+  ],
+  "audio_music": "From 0.0s onward, \"Earned It (Sped Up)\" by The Weeknd plays continuously throughout the clip (ACRCloud confirmed at both 0.0s and 6.6s). The track is a sped-up, pitched-up version of the original, giving it an eerie, slightly surreal quality. Trump's voice audio is layered over or under the music. The combination of the sensual/romantic song with Trump's speech fragments creates a jarring juxtaposition.",
+  "editing_pacing": "Fast cuts between multiple clips; heavy red/pink color grade overlay applied throughout; motion blur on several frames suggesting speed ramps or intentional ghosting effects; extreme close-up zoom on Trump's face in one segment; overall frenetic, stylized editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disgust — signaled by the 🤢 caption emoji and the ominous red color grade",
+    "unease — signaled by the surreal pairing of a sensual sped-up song with Trump's speech",
+    "mockery — signaled by the selection of Trump audio clips ('I'd love to kiss you', 'good boy') paired with the Weeknd track"
+  ],
+  "cultural_references": [
+    "Earned It (Sped Up) by The Weeknd — the song, originally from the Fifty Shades of Grey soundtrack, is used here for its sensual/romantic connotations, creating a juxtaposition with Trump's political speech clips"
+  ],
+  "central_claim": "Trump's own words and demeanor, set against a seductive/sensual sped-up song and framed in ominous red, are presented to provoke disgust and ridicule — contextualized by a chyron indicating a court has struck down his tariffs.",
+  "intended_effect": "To make viewers feel disgust and mockery toward Trump by pairing his speech clips (including phrases like \"I'd love to kiss you\" and \"be a good boy\") with a sped-up sensual song, while the chyron about court-struck tariffs underscores a political setback.",
+  "uncertainty_flags": [
+    "The chyron text is partially cut off by the frame crop — full text reads approximately 'NEWS CONFERENCE AFTER COURT STRIKES DOWN TARIFFS' but exact wording is uncertain",
+    "The Whisper transcript ('I want to be a good boy… I'd love to kiss you') may be imprecise; the exact source and context of these Trump audio quotes is unclear without full video audio",
+    "It is unclear whether the Trump audio clips are from one continuous speech or spliced from multiple sources",
+    "The date of the court ruling striking down tariffs referenced in the chyron is not determinable from the frames alone"
+  ]
+}

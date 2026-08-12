@@ -1,0 +1,63 @@
+{
+  "video_id": "7618985926189993229",
+  "visual_action": "Scene 1: A man in a dark navy suit with a plaid tie and an American-flag pocket square stands at a podium bearing the seal \"DEPARTMENT OF WAR · UNITED STATES OF AMERICA.\" Behind him is a light-blue military-style flag with a winged emblem. He appears to be speaking at an official press briefing. Scene 2: A black screen with a white Pentagon-building logo and the text \"U.S. Department of War\" centered on screen.",
+  "cast": [
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Man at podium identified by face and context of audio describing him as Secretary of Defense alongside President Trump at Dover Air Force Base; @whitehouse account and audio reference to 'the Chairman and I' at Dover."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in transcript: 'President Trump, the Chairman, and I stood in solemn silence as heroes came home.'"
+    },
+    {
+      "name": "U.S. Department of Defense / Department of War",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Podium seal reads 'DEPARTMENT OF WAR · UNITED STATES OF AMERICA'; closing card reads 'U.S. Department of War' with Pentagon logo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DEPARTMENT OF WAR\nUNITED STATES OF AMERICA",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S. Department of War",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The speaker recounts attending a ceremony at Dover Air Force Base alongside President Trump and the Chairman, receiving flag-draped caskets of fallen service members. He describes hearing from families who urged: \"Finish this. Honor their sacrifice. Do not waver. Do not stop until the job is done.\" He states the response from himself and the President was: \"We will finish this. We will honor their sacrifice. Their sacrifice only steels our commitment.\"",
+  "emojis_present": [],
+  "audio_music": "Original speech audio — a single speaker delivering a somber, resolute address with no background music. Tone is grave and emotionally weighted.",
+  "editing_pacing": "Two-scene structure: a static talking-head shot at the podium followed by a simple black-background closing card with the institutional logo. Minimal editing, slow and deliberate pacing consistent with an official address.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The podium seal and closing card both read \"DEPARTMENT OF WAR · UNITED STATES OF AMERICA\" / \"U.S. Department of War\" — a deliberate substitution of the actual name \"Department of Defense.\" The Pentagon logo is retained but the official name has been visually altered. This is a fabricated/altered institutional label superimposed onto what otherwise appears to be real official footage, rebranding the DoD as the \"Department of War.\"",
+  "emotions_signaled": [
+    "solemnity — evoked by references to flag-draped caskets and tearful families",
+    "resolve — speaker repeatedly commits to 'finishing' the mission",
+    "grief — description of standing in silence and grieving with families",
+    "patriotic duty — framing of fallen soldiers' sacrifice as a mandate to continue"
+  ],
+  "cultural_references": [
+    "Dover Air Force Base dignified transfer ceremonies — a well-known ritual for receiving fallen U.S. service members",
+    "Historical name 'Department of War' — the pre-1947 name of what became the Department of Defense, invoked here as a rebranding"
+  ],
+  "central_claim": "The speaker, presenting himself as Secretary of Defense under President Trump, pledges that the administration will honor the sacrifice of fallen service members by completing the military mission they died for.",
+  "intended_effect": "To inspire viewers to feel solemn respect for fallen troops and confidence that the administration is committed to seeing the mission through, associating the administration with military honor and resolve.",
+  "uncertainty_flags": [
+    "The speaker is identified as Pete Hegseth based on visual resemblance and contextual cues (Dover ceremony, Secretary-level role, @whitehouse account) but no on-screen name chyron is present to confirm.",
+    "It is unclear whether the 'Department of War' branding represents an official administration rebrand of the DoD or is a fabricated/satirical edit of the podium seal — the closed-caption/OCR did not capture the seal text independently, so this relies on visual inspection.",
+    "The date of the Dover ceremony and which conflict the fallen service members are from cannot be confirmed from the available frames."
+  ]
+}

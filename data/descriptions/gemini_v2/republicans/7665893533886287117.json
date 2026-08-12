@@ -1,0 +1,53 @@
+{
+  "video_id": "7665893533886287117",
+  "visual_action": "A man in a suit and tie walks to a desk in a dimly lit office with an American flag in the background. He sits down, adjusts his tie, and looks forward as if preparing for an interview or recording.",
+  "cast": [
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The only person shown on screen, who speaks and appears to be the subject of the purported documentary."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the on-screen text as the group that was allegedly 'rigging U.S. elections'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is posted by the '@republicans' account, and the on-screen text says 'how we stopped the Democrats', implying 'we' refers to Republicans."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Preparing for the documentary on how we stopped the Democrats from rigging U.S. elections",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A man asks, \"We ready?\" and then says, \"Let's go.\"",
+  "emojis_present": [],
+  "audio_music": "A dramatic and serious-sounding string music track plays throughout the video, creating a sense of importance and suspense.",
+  "editing_pacing": "The video consists of a single, static shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "intrigue",
+    "suspicion"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican party has produced a documentary detailing how they stopped the Democratic party from rigging U.S. elections.",
+  "intended_effect": "To create anticipation for a supposed documentary and to reinforce the belief that Democrats attempt to rig elections while Republicans protect election integrity.",
+  "uncertainty_flags": [
+    "The identity of the man in the video is not specified."
+  ]
+}

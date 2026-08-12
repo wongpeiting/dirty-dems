@@ -1,0 +1,92 @@
+{
+  "video_id": "7522180726742142263",
+  "visual_action": "The video starts with a static screenshot of a tweet from an account named 'FactPost'. The tweet lists several negative consequences of what it calls 'Trump's budget bill'. After a few seconds, it transitions to a wide shot of the U.S. Senate chamber during a vote, as broadcast by C-SPAN2. The C-SPAN chyron at the bottom of the screen displays the vote count and the name of the bill being voted on.",
+  "cast": [
+    {
+      "name": "Senate Republicans",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption reads, 'Senate Republicans voted for this.' The on-screen tweet also states, 'Almost all Senate Republicans just voted to pass Trump's budget bill...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet refers to 'Trump's budget bill'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost' (@factpostnews) is displayed."
+    },
+    {
+      "name": "C-SPAN2",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for C-SPAN2 appears in the chyron on the footage of the Senate floor."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Almost all Senate Republicans just voted to pass Trump's budget bill, which:",
+      "role": "overlay"
+    },
+    {
+      "text": "–Cuts over $1 trillion from Medicaid\n–Kicks 17 million Americans off their health care coverage\n–Adds hundreds of dollars to energy bills\n–Threatens millions of manufacturing and construction jobs\n–Cuts the largest ever amount to SNAP/food assistance for families, children, and veterans\n–Adds $3.25 trillion to the national debt\n–Hands out $1 trillion in tax cuts for billionaires",
+      "role": "overlay"
+    },
+    {
+      "text": "YEA 50 NAY 50",
+      "role": "chyron"
+    },
+    {
+      "text": "H.R. 1, the One Big Beautiful Bill Act",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE • 12:02 ET",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. SENATE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A somber, atmospheric piano and electronic track (identified as Radiohead's 'Everything In Its Right Place') plays throughout the video, creating a serious and foreboding tone.",
+  "editing_pacing": "The video uses a simple slideshow-style edit, showing a static screenshot of a tweet for the first few seconds, followed by a single static wide shot of the Senate floor.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "outrage",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "Radiohead"
+  ],
+  "central_claim": "Senate Republicans have voted for Donald Trump's budget bill, which will harm ordinary Americans by cutting healthcare and food assistance while giving tax cuts to billionaires and increasing the national debt.",
+  "intended_effect": "To provoke disapproval and anger towards Senate Republicans by highlighting the negative impacts of legislation they supported.",
+  "uncertainty_flags": [
+    "The video presents a tweet about 'Trump's budget bill' alongside C-SPAN footage of a vote on 'H.R. 1, the One Big Beautiful Bill Act'; it is unclear if these are the same bill or if the C-SPAN clip is simply illustrative B-roll of a Senate vote.",
+    "The authenticity and claims of the 'FactPost' tweet cannot be verified from the video content alone."
+  ]
+}

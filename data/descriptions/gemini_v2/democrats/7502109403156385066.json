@@ -1,0 +1,91 @@
+{
+  "video_id": "7502109403156385066",
+  "visual_action": "The video shows C-SPAN footage from the floor of the U.S. House of Representatives. It opens with a wide shot of the chamber as a vote tally is displayed on screen. It then cuts to a medium shot of a man in a suit, Rep. Dave Taylor, speaking at a podium and banging a gavel. The video ends on the same wide shot of the chamber.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An overlay text at the top of the video reads, 'Republicans just renamed the Gulf of Mexico...'"
+    },
+    {
+      "name": "Dave Taylor",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A chyron on screen identifies him as 'REP. DAVE TAYLOR Speaker Pro Tempore'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The vote tally board displayed on screen includes a line for 'DEMOCRATIC' votes."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans just renamed the Gulf of Mexico while ppl can't afford rent or groceries",
+      "role": "overlay"
+    },
+    {
+      "text": "ON PASSAGE",
+      "role": "chyron"
+    },
+    {
+      "text": "H R 276",
+      "role": "chyron"
+    },
+    {
+      "text": "YEA NAY PRES NV",
+      "role": "chyron"
+    },
+    {
+      "text": "REPUBLICAN 211 1 8",
+      "role": "chyron"
+    },
+    {
+      "text": "DEMOCRATIC 205 8",
+      "role": "chyron"
+    },
+    {
+      "text": "INDEPENDENT",
+      "role": "chyron"
+    },
+    {
+      "text": "TOTALS 211 206 16",
+      "role": "chyron"
+    },
+    {
+      "text": "TIME REMAINING 0:00",
+      "role": "chyron"
+    },
+    {
+      "text": "REP. DAVE TAYLOR\nSpeaker Pro Tempore",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A man identified as Rep. Dave Taylor, Speaker Pro Tempore, reads the results of a congressional vote, stating, \"On this vote, the yeas are 211, the nays are 206. The bill is passed.\" He then formally concludes the matter by stating, \"Without objection, a motion to reconsider is laid on the table.\"",
+  "emojis_present": [
+    "😀",
+    "👍"
+  ],
+  "audio_music": "The video opens with a sped-up, high-pitched baby laughing sound effect. This is followed by a quirky, mischievous instrumental track that plays over the congressman's speech, creating a mocking and absurd tone.",
+  "editing_pacing": "The editing is simple, consisting of a few static shots from C-SPAN footage. The primary effects are created by the audio and text overlays rather than cutting or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "frustration"
+  ],
+  "cultural_references": [
+    "The audio uses a popular TikTok meme sound, 'Sigma Baby Laughing Remix'."
+  ],
+  "central_claim": "While Americans struggle with the cost of living, Republicans in Congress are wasting time on trivial legislative actions like renaming the Gulf of Mexico.",
+  "intended_effect": "To make the viewer feel that the Republican Party is out of touch with the economic problems of ordinary people and to ridicule their legislative priorities.",
+  "uncertainty_flags": []
+}

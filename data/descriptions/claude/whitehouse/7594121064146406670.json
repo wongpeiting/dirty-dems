@@ -1,0 +1,65 @@
+{
+  "video_id": "7594121064146406670",
+  "visual_action": "The video opens with a very dark, nearly black frame showing a blurry silhouette of a person and what appears to be a hand/fingers — possibly someone handling a lock in low light. The next frames show extreme close-ups of what appears to be a vintage or heavy-duty trunk/case with ornate gold-toned metal hardware, latches, clasps, and chain links, shot in warm amber/brown tones. This is followed by an aerial drone shot of a white pickup truck (consistent with a Border Patrol vehicle) kicking up a large dust cloud as it speeds along a dirt desert road at dusk/sunset. Next is a front-on shot of a green military Stryker armored vehicle driving on a paved highway bearing a yellow \"OVERSIZE LOAD\" banner on its front bumper and the number \"032\" on a white diamond placard. Then an aerial drone shot shows the US-Mexico border wall (a tall dark steel barrier), a green river/canal running alongside it, and a white Border Patrol truck driving along the dirt bank below. The final frame shows a group of approximately 8–10 US Army soldiers in full combat gear (camouflage uniforms, helmets, body armor, large rucksacks) assembled on a gravel surface in daylight.",
+  "cast": [
+    {
+      "name": "US Border Patrol",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "White truck with Border Patrol markings visible in aerial shot alongside border wall and canal"
+    },
+    {
+      "name": "US Military / US Army",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Soldiers in full combat gear and Stryker armored vehicle with US military markings shown"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Account is @whitehouse; post is framed as an official White House communication about border security"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "OVERSIZE LOAD",
+      "role": "other"
+    },
+    {
+      "text": "032",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A single line of audio is heard: \"This motherf***er is locked.\" — spoken in a casual, emphatic tone, coordinating with the caption \"Border is LOCKED 🔒\"",
+  "emojis_present": [
+    "🔒"
+  ],
+  "audio_music": "Original sound featuring a single spoken line — \"This motherf***er is locked\" — delivered with emphasis. No background music identified; the line functions as a punchy verbal punctuation to the visual montage.",
+  "editing_pacing": "Fast-cut montage style; cuts between dark close-up lock/hardware shots, aerial B-roll of desert border terrain, and military asset footage. Cinematic drone shots alternate with dramatic ground-level vehicle shots. Overall pacing is punchy and high-energy, building from dark close-ups to wide dramatic landscapes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "strength/power — conveyed by military hardware (Stryker, soldiers) and border wall aerial imagery",
+    "confidence/bravado — conveyed by the emphatic spoken line 'This motherf***er is locked'",
+    "security/reassurance — conveyed by Border Patrol vehicle patrolling alongside the wall"
+  ],
+  "cultural_references": [
+    "Use of profanity ('This motherf***er is locked') as an emphatic vernacular exclamation of dominance/completion, consistent with viral social-media hype culture"
+  ],
+  "central_claim": "The US border is now secured and under firm military and law-enforcement control.",
+  "intended_effect": "Produce a sense of strength, authority, and accomplishment regarding border security; convey that the administration has decisively locked down the southern border.",
+  "uncertainty_flags": [
+    "The dark opening frames are very blurry — the object being handled may be an actual padlock, which would tie directly to the 'locked' metaphor, but cannot be confirmed with certainty",
+    "The vintage trunk/case close-ups may be metaphorical B-roll (a lock being shut) rather than a real border-related artifact; purpose is unclear",
+    "The identity of the speaker delivering the audio line cannot be determined from the frames provided",
+    "Whether the Stryker vehicle and soldier footage is from the US-Mexico border specifically or from a separate military exercise cannot be confirmed",
+    "Exact date/event of military deployment shown is unknown"
+  ]
+}

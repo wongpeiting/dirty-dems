@@ -1,0 +1,80 @@
+{
+  "video_id": "7611949691688733965",
+  "visual_action": "The video opens with a static image designed to look like a news alert from a source called \"FACT POST\". The image shows Donald Trump in profile against a background of a city with large smoke plumes, as if from an explosion. Text is overlaid on this image. The video then cuts to a three-panel layout of Donald Trump speaking at a podium in front of American flags. The same clip is used in all three panels, each with a different line of text subtitled.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in the initial graphic and in the speaking clips. The on-screen text and his own speech are about his actions and promises regarding war."
+    },
+    {
+      "name": "Fact Post",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A logo for \"FACT POST\" appears in the top-left corner of the initial news-style graphic."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FACT POST",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP ORDERS MILITARY STRIKES IN IRAN: “MAY HAVE” AMERICAN CASUALTIES",
+      "role": "overlay"
+    },
+    {
+      "text": "“The lives of courageous American heroes may be lost and we may have casualties. That often happens in war,” said Trump after ordering military action in Iran, including strikes on multiple residential buildings.",
+      "role": "overlay"
+    },
+    {
+      "text": "so much for this",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP ON THE CAMPAIGN TRAIL",
+      "role": "chyron"
+    },
+    {
+      "text": "They said, “He will start a war.”",
+      "role": "caption"
+    },
+    {
+      "text": "I’m not gonna start a war.",
+      "role": "caption"
+    },
+    {
+      "text": "I’m gonna stop wars.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio features Donald Trump saying, \"They said, 'He will start a war.' I'm not gonna start a war. I'm gonna stop wars.\"",
+  "emojis_present": [],
+  "audio_music": "A somber and atmospheric instrumental track, identified as Radiohead's \"Everything In Its Right Place\", plays throughout the entire video, creating a serious and ominous tone.",
+  "editing_pacing": "The video consists of a single cut, moving from a static, news-style graphic to a three-panel layout showing a video clip of Donald Trump speaking.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The initial image is a fabricated news graphic. It composites a photo of Donald Trump with a separate photo of explosions and adds journalistic-style text to create a staged document ('BREAKING' news alert) for narrative effect.",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "anger",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Everything In Its Right Place by Radiohead"
+  ],
+  "central_claim": "Donald Trump has broken his campaign promise to avoid conflict by ordering military strikes in Iran that could lead to American casualties.",
+  "intended_effect": "To portray Donald Trump as a hypocrite who has gone back on his word and endangered American lives, thereby generating fear and anger towards him.",
+  "uncertainty_flags": [
+    "It is unclear if 'Fact Post' is a real organization or a name fabricated for the purpose of this video's graphic."
+  ]
+}

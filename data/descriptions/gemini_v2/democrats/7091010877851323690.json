@@ -1,0 +1,62 @@
+{
+  "video_id": "7091010877851323690",
+  "visual_action": "The video starts with a black-and-white, still image of Donald Trump looking serious at a desk. A tweet from 'The Democrats' is overlaid, stating, 'Under Trump, the deficit was up and jobs were down.' The scene then transitions to color and shows a montage of clips of Joe Biden smiling, laughing, walking confidently in sunglasses, and interacting with young people. The tweet on screen expands to add, 'Under Biden, the deficit is down and jobs are up,' and remains visible over the Biden montage.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face is shown in the opening shot and the on-screen text discusses his presidency."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is featured in a montage of clips and the on-screen text discusses his presidency."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The on-screen text is presented as a tweet from their official account, '@TheDemocrats'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Under Trump, the deficit was up and jobs were down.",
+      "role": "overlay"
+    },
+    {
+      "text": "Under Biden, the deficit is down and jobs are up.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is entirely music-driven.",
+  "emojis_present": [],
+  "audio_music": "The video begins with approximately two seconds of slow, somber, slightly melancholic music over the image of Trump. It then abruptly cuts to an upbeat, celebratory, funky hip-hop track with a prominent bassline and horn section for the remainder of the video, which plays over the montage of Biden. The sharp contrast in musical mood is used to frame Trump negatively and Biden positively.",
+  "editing_pacing": "The video starts with a static image and then transitions into a fast-paced montage with quick cuts between different clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Failure",
+    "Triumph",
+    "Pride"
+  ],
+  "cultural_references": [
+    "The format uses an overlay designed to look like a tweet from the platform X (formerly Twitter)."
+  ],
+  "central_claim": "The Biden administration has improved the economy with lower deficits and higher job numbers, in direct contrast to the Trump administration's record.",
+  "intended_effect": "To create a strong positive association with Joe Biden's economic performance and a negative one with Donald Trump's, persuading the viewer of the Democratic party's success.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,75 @@
+{
+  "video_id": "7605262444524604685",
+  "visual_action": "The video starts with a still photograph of Donald Trump and Jeffrey Epstein standing together. Large text is overlaid on the image. It then transitions to a view of a redacted document, zooming in on a highlighted line of text that matches the quote from the first screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown in a photograph with Jeffrey Epstein and is the subject of the quote featured in the on-screen text: 'EVERYONE HAS KNOWN HE'S BEEN DOING THIS. DONALD TRUMP ON JEFFREY EPSTEIN IN 2006'."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown in a photograph with Donald Trump and is the person the quote is about, as indicated by the on-screen text 'DONALD TRUMP ON JEFFREY EPSTEIN IN 2006'."
+    },
+    {
+      "name": "Alexander Acosta",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name, 'ALEXANDER ACOSTA', is visible in the text of the document shown on screen."
+    },
+    {
+      "name": "FBI",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The organization is mentioned in the on-screen document: 'PBPD referred this case to the FBI'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“EVERYONE HAS KNOWN HE'S BEEN DOING THIS.",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP ON JEFFREY EPSTEIN IN 2006",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD TRUMP told [redacted] that",
+      "role": "other"
+    },
+    {
+      "text": "everyone has known he's been doing this”.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. An ominous instrumental track plays, and near the end, a male voice sings the lyric, \"Me and the devil.\"",
+  "emojis_present": [],
+  "audio_music": "A somber, ominous instrumental string track plays throughout. At the end of the clip, a male vocal sample sings the line \"Me and the devil,\" enhancing the serious and accusatory tone.",
+  "editing_pacing": "The video consists of two static shots: a photograph with text overlay, followed by a document with highlighted text. There is a slow zoom-in on the document. The style is a simple slideshow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Seriousness",
+    "Condemnation"
+  ],
+  "cultural_references": [
+    "The sung lyric \"Me and the devil\" is likely a reference to the classic blues song \"Me and the Devil Blues\" by Robert Johnson, which has dark, folkloric themes."
+  ],
+  "central_claim": "Donald Trump knew about Jeffrey Epstein's criminal behavior in 2006, a fact that is supposedly confirmed in an official document.",
+  "intended_effect": "To damage Donald Trump's reputation by linking him to Jeffrey Epstein and suggesting he was aware of and complicit in Epstein's crimes.",
+  "uncertainty_flags": [
+    "The authenticity of the document shown on screen cannot be verified from the video alone."
+  ]
+}

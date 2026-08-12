@@ -1,0 +1,56 @@
+{
+  "video_id": "7554438392331701518",
+  "visual_action": "The video shows Marine One, the presidential helicopter, descending for a landing on the South Lawn of the White House. The helicopter, with \"UNITED STATES OF AMERICA\" visible on its side, approaches the camera before ascending out of the top of the frame. The shot is low-angle and appears to be in slow motion. The video concludes with a static black screen showing a white line drawing of the White House, with text identifying it and the president.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The final credit screen of the video displays the text \"PRESIDENT DONALD J. TRUMP\"."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The White House building is the primary backdrop for the entire video, and the final credit screen displays the text \"THE WHITE HOUSE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "UNITED STATES OF AMERICA",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video contains no spoken words; the audio consists entirely of instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, sweeping, orchestral score with a patriotic feel plays throughout the video, identified as \"Epic Patriotic Background Music\".",
+  "editing_pacing": "The video consists of a single, continuous slow-motion shot of the helicopter landing, followed by a static credit screen at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "pride",
+    "power",
+    "grandeur"
+  ],
+  "cultural_references": [
+    "The caption 'Catching flights, not feelings' is a popular internet slang phrase."
+  ],
+  "central_claim": "The Trump presidency is characterized by patriotism, strength, and cinematic grandeur, as symbolized by Marine One at the White House.",
+  "intended_effect": "To evoke feelings of pride, patriotism, and awe, associating these emotions with President Trump's administration.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('Thank you so much for watching.') appears to be inaccurate, as no speech is audible in the video over the loud musical score."
+  ]
+}

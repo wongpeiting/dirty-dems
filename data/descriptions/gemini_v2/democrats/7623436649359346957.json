@@ -1,0 +1,123 @@
+{
+  "video_id": "7623436649359346957",
+  "visual_action": "The video is a slideshow of three static graphics. The first shows a portrait of Donald Trump wearing a white 'USA' cap against a red-tinted background with a large explosion. The second is a screenshot of a tweet from an account called 'FactPost' about gas prices, showing images of Trump and a gas pump. The third is a map of the U.S. showing states with the highest gas price increases, with a national average of $4/gallon as of March 31, 2026.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is depicted in two images and the on-screen text 'UNDER TRUMP, AVERAGE GAS PRICES HAVE SKYROCKETED...' directly attributes the scenario to him."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost' (@Factpostnews) is shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "UNDER TRUMP, AVERAGE GAS PRICES HAVE SKYROCKETED TO",
+      "role": "overlay"
+    },
+    {
+      "text": "$4.00/GAL",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "47",
+      "role": "other"
+    },
+    {
+      "text": "FactPost @Factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The national average gas price has reached $4 per gallon after rising $1.06 over the past month.",
+      "role": "overlay"
+    },
+    {
+      "text": "This is the largest increase ever recorded.",
+      "role": "overlay"
+    },
+    {
+      "text": "The U.S. gas price average is now $4/gal.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE STATES WITH THE HIGHEST INCREASES:",
+      "role": "overlay"
+    },
+    {
+      "text": "California +$1.08",
+      "role": "overlay"
+    },
+    {
+      "text": "Washington +$1.16",
+      "role": "overlay"
+    },
+    {
+      "text": "Oregon +$1.12",
+      "role": "overlay"
+    },
+    {
+      "text": "Nevada +$1.06",
+      "role": "overlay"
+    },
+    {
+      "text": "Utah +$1.04",
+      "role": "overlay"
+    },
+    {
+      "text": "Alaska +$1.14",
+      "role": "overlay"
+    },
+    {
+      "text": "Arizona +$1.34",
+      "role": "overlay"
+    },
+    {
+      "text": "North Carolina +99¢",
+      "role": "overlay"
+    },
+    {
+      "text": "Florida +$1.03",
+      "role": "overlay"
+    },
+    {
+      "text": "D.C. +96¢",
+      "role": "overlay"
+    },
+    {
+      "text": "As of March 31, 2026",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of the song 'Gasolina' by Daddy Yankee, with the word 'gasolina' repeated in the lyrics.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, prominent reggaeton track, identified as 'Gasolina' by Daddy Yankee, plays throughout the video. The song's title and theme directly and ironically reference the video's subject of gasoline prices.",
+  "editing_pacing": "The video is a slideshow of three static images with simple cuts between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The initial image of Donald Trump is a composite. His photo is superimposed onto a background featuring a large, fiery explosion, and the entire scene is tinted red for an ominous effect. The text on his cap, 'USA' and '47', also appears to be digitally added.",
+  "emotions_signaled": [
+    "alarm",
+    "anxiety",
+    "anger"
+  ],
+  "cultural_references": [
+    "Gasolina by Daddy Yankee"
+  ],
+  "central_claim": "Under a future Donald Trump presidency, America will face a crisis of record-breaking, skyrocketing gas prices.",
+  "intended_effect": "To create fear and anger towards Donald Trump by associating him with future economic hardship and national crisis, thereby discouraging viewers from voting for him.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' Twitter account is uncertain; it may be a fabricated graphic created for the video."
+  ]
+}

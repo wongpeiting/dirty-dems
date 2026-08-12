@@ -1,0 +1,120 @@
+{
+  "video_id": "7613446041186094367",
+  "visual_action": "The video is a slideshow presenting photos of four U.S. Army soldiers. It begins with a 2x2 grid of all four individuals against an American flag backdrop. It then slowly zooms in on individual portraits of each soldier, one by one, displaying their name, rank, and age on screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The initial on-screen text reads, 'these are the first US soldiers to be killed in Trump's war with Iran'."
+    },
+    {
+      "name": "Cody Khork",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His portrait is shown with the on-screen text 'Captain Cody Khork, 35'."
+    },
+    {
+      "name": "Nicole Amor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Her portrait is shown with the on-screen text 'Sgt. 1st Class Nicole Amor, 39'."
+    },
+    {
+      "name": "Noah Tietjens",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His portrait is shown with the on-screen text 'Sgt. 1st Class Noah Tietjens, 42'."
+    },
+    {
+      "name": "Declan Coady",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His portrait is shown with the on-screen text 'Sgt. Declan Coady, 20'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The initial on-screen text mentions 'Trump's war with Iran'."
+    },
+    {
+      "name": "U.S. Army",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The soldiers' uniforms include a 'U.S. ARMY' tape."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "these are the first US soldiers to be killed in Trump's war with Iran",
+      "role": "overlay"
+    },
+    {
+      "text": "Captain Cody Khork, 35",
+      "role": "overlay"
+    },
+    {
+      "text": "Sgt. 1st Class Nicole Amor, 39",
+      "role": "overlay"
+    },
+    {
+      "text": "Sgt. 1st Class Noah Tietjens, 42",
+      "role": "overlay"
+    },
+    {
+      "text": "Sgt. Declan Coady, 20",
+      "role": "overlay"
+    },
+    {
+      "text": "KHORK",
+      "role": "other"
+    },
+    {
+      "text": "AMOR",
+      "role": "other"
+    },
+    {
+      "text": "TIETJENS",
+      "role": "other"
+    },
+    {
+      "text": "COADY",
+      "role": "other"
+    },
+    {
+      "text": "U.S. ARMY",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video has no spoken audio, only instrumental music.",
+  "emojis_present": [],
+  "audio_music": "A slow, somber instrumental track plays throughout the video, creating a mournful and memorial-like atmosphere.",
+  "editing_pacing": "The video is a slow-paced slideshow with very slow zooms into static portraits of the soldiers.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "grief",
+    "sadness",
+    "solemnity",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is responsible for the deaths of four specific U.S. soldiers in a war with Iran.",
+  "intended_effect": "To evoke sadness for the deceased soldiers and to assign blame for their deaths to Donald Trump.",
+  "uncertainty_flags": []
+}

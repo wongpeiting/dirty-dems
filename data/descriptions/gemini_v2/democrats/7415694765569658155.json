@@ -1,0 +1,101 @@
+{
+  "video_id": "7415694765569658155",
+  "visual_action": "A slideshow of four images featuring a baby hippopotamus. The first image shows a person petting the hippo. The subsequent images show the hippo with its mouth wide open, as if yelling or surprised. Each image is accompanied by a text overlay with a political claim.",
+  "cast": [
+    {
+      "name": "Project 2025",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text mentions 'Project 2025' in three separate slides."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text states, '81% of Project 2025 authors worked for Trump' and 'Trump would replace thousands of federal workers with MAGA “loyalists”'."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text states, 'JD Vance wrote the foreword to the leader of Project 2025's book'."
+    },
+    {
+      "name": "Department of Education",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text states, 'Project 2025 would eliminate the Department of Education'."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text mentions 'MAGA “loyalists”'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "hey did you know",
+      "role": "overlay"
+    },
+    {
+      "text": "81% of Project 2025 authors worked for Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "https://www.theguardian.com/us-news/article/2024/jul/08/trump-project-2025",
+      "role": "overlay"
+    },
+    {
+      "text": "Project 2025 would eliminate the Department of Education",
+      "role": "overlay"
+    },
+    {
+      "text": "https://www.brookings.edu/articles/project-2025-and-education-a-lot-of-bad-ideas-some-more-actionable-than-others/",
+      "role": "overlay"
+    },
+    {
+      "text": "JD Vance wrote the foreword to the leader of Project 2025's book",
+      "role": "overlay"
+    },
+    {
+      "text": "https://thehill.com/homenews/4829346-five-key-excerpts-from-jd-vances-forward-to-project-2025-leaders-book/",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump would replace thousands of federal workers with MAGA “loyalists”",
+      "role": "overlay"
+    },
+    {
+      "text": "https://www.nytimes.com/article/project-2025.html",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video, only music.",
+  "emojis_present": [],
+  "audio_music": "Upbeat, energetic electronic/hip-hop music plays continuously throughout the video, creating a driving rhythm for the slideshow.",
+  "editing_pacing": "The video is a simple slideshow with quick cuts between four static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "shock",
+    "concern"
+  ],
+  "cultural_references": [
+    "The video uses a popular internet meme format of pairing alarming text-based claims with cute or funny animal reaction photos, in this case a baby hippopotamus that appears increasingly shocked."
+  ],
+  "central_claim": "Project 2025 is a plan driven by Donald Trump and JD Vance to dismantle the government, such as the Department of Education, and install partisan loyalists.",
+  "intended_effect": "To generate alarm and opposition towards Donald Trump, JD Vance, and Project 2025 by presenting its goals as extreme and dangerous.",
+  "uncertainty_flags": []
+}

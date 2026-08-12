@@ -1,0 +1,84 @@
+{
+  "video_id": "7540767069856402743",
+  "visual_action": "A montage of JD Vance and Pete Hegseth interacting with U.S. National Guard soldiers. The video opens with Vance and Hegseth walking down a colonnaded walkway. It cuts between shots of Vance speaking to a group of soldiers, soldiers in camouflage uniforms listening and eating, and both Vance and Hegseth shaking hands and talking with the soldiers indoors. Hegseth is seen handing out food that appears to be burgers. The video concludes with Vance posing for a group photo with the soldiers, followed by a black-and-white credit screen for 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker throughout the video, and the camera focuses on him interacting with soldiers."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visually present alongside JD Vance, walking with him and handing out food to soldiers."
+    },
+    {
+      "name": "Stephen Miller",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly in the background walking with JD Vance."
+    },
+    {
+      "name": "U.S. National Guard",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Soldiers in uniform are shown throughout the video and are explicitly thanked in the audio as 'the guardsmen here'."
+    },
+    {
+      "name": "Police officers",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the audio: 'I want to thank all the people, the guardsmen here and the police officers who worked very hard'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a credit screen that says 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "HOW'D WE DO?",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "JD Vance thanks the National Guardsmen and police officers for their hard work in keeping Washington D.C. safe. He claims that in the last nine days, there has been a 35% reduction in violent crime and over a 50% reduction in robberies. Vance states he came to thank them in person and hand out burgers, emphasizing that cities do not have to be 'taken over by violence' and that law and order can be restored with 'political willpower.' He assures the American people that D.C. is already safer and will be made even safer, calling it 'your city.'",
+  "emojis_present": [],
+  "audio_music": "A continuous, cinematic, and inspiring orchestral score plays under the entire speech, lending a serious and determined tone to the video.",
+  "editing_pacing": "The video is a montage with relatively slow cuts and some slow-motion shots, creating a polished and cinematic feel. It alternates between talking-head shots of the speaker and B-roll of his interactions with soldiers.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Pride",
+    "Seriousness",
+    "Reassurance"
+  ],
+  "cultural_references": [
+    "Shake Shack"
+  ],
+  "central_claim": "With strong political will and the support of law enforcement like the National Guard, crime in major cities like Washington D.C. can be reduced dramatically and quickly.",
+  "intended_effect": "To feel reassured about public safety and to view JD Vance as a proactive leader who supports law enforcement and is effectively combating crime.",
+  "uncertainty_flags": [
+    "Stephen Miller's presence is based on the provided face-ID context; he is not clearly identifiable in the video otherwise."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "video_id": "7611248239307689230",
+  "visual_action": "The video shows a static screenshot of a tweet from an account called 'FactPost'. The tweet displays a selfie of a young woman and a second photo of a person's legs in what appears to be a vehicle. The video then slowly zooms in on the second photo, which is revealed to be an Instagram Story post.",
+  "cast": [
+    {
+      "name": "Ellie Aghayeva",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name is mentioned in the on-screen tweet text: '...has been identified as Ellie Aghayeva...'"
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The acronym 'DHS' is used in both the tweet text ('...detained by DHS agents...') and the Instagram story text ('Dhs illegally arrested me.')."
+    },
+    {
+      "name": "Columbia University",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The university is named in the on-screen tweet text: 'The Columbia University student...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The account name 'FactPost' and handle '@factpostnews' are visible at the top of the tweet screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "The Columbia University student detained by DHS agents this morning has been identified as Ellie Aghayeva, an international student with a visa.",
+      "role": "overlay"
+    },
+    {
+      "text": "The agents misrepresented themselves to gain access to Aghayeva's residential building.",
+      "role": "overlay"
+    },
+    {
+      "text": "ellharve",
+      "role": "overlay"
+    },
+    {
+      "text": "Dhs illegally arrested me. Please help",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in this video.",
+  "emojis_present": [],
+  "audio_music": "A somber, dramatic instrumental track plays throughout the video, creating a serious and concerning tone.",
+  "editing_pacing": "The video consists of a static shot that slowly zooms in on a detail within a screenshot of a social media post.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "concern",
+    "sympathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Department of Homeland Security illegally arrested a Columbia University international student, Ellie Aghayeva, after misrepresenting themselves to gain access to her residence.",
+  "intended_effect": "To provoke outrage at the actions of DHS and generate sympathy for the student who was allegedly arrested illegally.",
+  "uncertainty_flags": [
+    "The credibility and nature of the 'FactPost' account shown in the screenshot are not established by the video."
+  ]
+}

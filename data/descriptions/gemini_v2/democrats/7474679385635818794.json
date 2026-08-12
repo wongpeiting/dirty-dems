@@ -1,0 +1,57 @@
+{
+  "video_id": "7474679385635818794",
+  "visual_action": "The video opens with a static photograph of Doug Emhoff and Kamala Harris smiling and taking a selfie while seated in a large audience. After a couple of seconds, it transitions to a screenshot of a tweet from Doug Emhoff's account, which contains the same selfie photo.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is pictured prominently in the selfie and is mentioned in the on-screen tweet text: '@KamalaHarris AMAZING speech'."
+    },
+    {
+      "name": "Doug Emhoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is pictured taking the selfie and is identified as the author of the on-screen tweet: 'Doug Emhoff @DouglasEmhoff'."
+    },
+    {
+      "name": "NAACP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The tweet text mentions the event: 'The NAACP Image Awards'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Doug Emhoff @DouglasEmhoff",
+      "role": "overlay"
+    },
+    {
+      "text": "Right before @KamalaHarris AMAZING speech at The NAACP Image Awards.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio, only a music track.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, indie-pop style track ('Champagne Coast' by Blood Orange) plays throughout the video, creating a positive and lighthearted mood.",
+  "editing_pacing": "A simple slideshow consisting of a static photo followed by a cut to a static screenshot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "positivity",
+    "pride",
+    "admiration"
+  ],
+  "cultural_references": [
+    "Blood Orange (musician)"
+  ],
+  "central_claim": "Kamala Harris gave an amazing speech at the prestigious NAACP Image Awards, a moment proudly shared by her husband, Doug Emhoff.",
+  "intended_effect": "To generate positive feelings towards Kamala Harris and Doug Emhoff and associate them with the NAACP.",
+  "uncertainty_flags": []
+}

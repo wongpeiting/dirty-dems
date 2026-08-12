@@ -1,0 +1,135 @@
+{
+  "video_id": "7457645680211840299",
+  "visual_action": "Donald Trump speaks at a podium at a rally in Coachella, California. He wears a dark suit, red tie, and a red \"Make America Great Again\"-style hat. In the background, a crowd of supporters is visible, some holding signs with the number \"47\". The video is a clip from a broadcast, with a news chyron at the bottom from the network RSBN.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible throughout the video speaking at a rally. His name is on the podium and in on-screen text."
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump addresses him directly in his speech: \"...we'll say, Gavin, if you don't do it, we're not giving you any of that fire money...\""
+    },
+    {
+      "name": "California",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text states Trump threatened to withhold aid from California, and the chyron includes the text \"TEXT CALIFORNIA TO 88022\"."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears in the news chyron at the bottom of the screen: \"FORMER NASCAR DRIVER DANICA PATRICK TO MODERATE JD VANCE TOWN HALL\"."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears in a scrolling news chyron, partially visible as \"TRUMP SAYS OBAMA MIGHT VOTE FOR HIM...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "On the campaign trail, Trump threatened to withhold disaster relief aid from California",
+      "role": "overlay"
+    },
+    {
+      "text": "AND WE'LL FORCE IT",
+      "role": "caption"
+    },
+    {
+      "text": "DOWN HIS THROAT AND",
+      "role": "caption"
+    },
+    {
+      "text": "WE'LL SAY, GAVIN,",
+      "role": "caption"
+    },
+    {
+      "text": "IF YOU DON'T DO IT,",
+      "role": "caption"
+    },
+    {
+      "text": "WE'RE NOT GIVING YOU",
+      "role": "caption"
+    },
+    {
+      "text": "ANY OF THAT FIRE MONEY",
+      "role": "caption"
+    },
+    {
+      "text": "THAT WE SEND YOU ALL",
+      "role": "caption"
+    },
+    {
+      "text": "THE TIME FOR ALL THE",
+      "role": "caption"
+    },
+    {
+      "text": "FOREST FIRES THAT",
+      "role": "caption"
+    },
+    {
+      "text": "YOU HAVE.",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S NOT HARD TO DO.",
+      "role": "caption"
+    },
+    {
+      "text": "LIVE COACHELLA, CA",
+      "role": "chyron"
+    },
+    {
+      "text": "RSBN",
+      "role": "chyron"
+    },
+    {
+      "text": "TEXT CALIFORNIA TO 88022",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "FORMER NASCAR DRIVER DANICA PATRICK TO MODERATE JD VANCE TOWN HALL",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump describes how he would deal with California's Governor Gavin Newsom, stating, \"we'll force it down his throat.\" He threatens to withhold federal disaster relief funds, which he calls \"fire money,\" for forest fires if Newsom does not comply with an unspecified demand.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's speech at a rally, with ambient crowd noise in the background. There is no music or other added sound.",
+  "editing_pacing": "The video is a single, static shot of Trump speaking. The editing consists of a persistent text overlay at the top and synchronized, word-by-word captions appearing at the bottom.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Alarm",
+    "Outrage",
+    "Aggression"
+  ],
+  "cultural_references": [
+    "Danica Patrick"
+  ],
+  "central_claim": "Donald Trump threatened to withhold federal disaster relief funds from California as a form of political leverage over its governor.",
+  "intended_effect": "To portray Donald Trump as vindictive and willing to abuse presidential power, thereby encouraging opposition to him.",
+  "uncertainty_flags": []
+}

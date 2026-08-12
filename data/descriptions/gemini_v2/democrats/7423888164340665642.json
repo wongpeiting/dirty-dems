@@ -1,0 +1,255 @@
+{
+  "video_id": "7423888164340665642",
+  "visual_action": "The video shows a screen recording of a CNN broadcast about 'Hurricane Milton.' The broadcast features a split-screen video call with Vice President Kamala Harris and Administrator Deanne Criswell, labeled as a 'Hurricane Briefing.' A breaking news chyron from CNN runs along the bottom, providing details about the hurricane's strength and projected path with maps of Florida.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown speaking via video call, and is identified by the on-screen text 'VICE PRESIDENT KAMALA HARRIS' and the top overlay 'VP Harris'."
+    },
+    {
+      "name": "Deanne Criswell",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She appears on the video call next to Kamala Harris and is identified by the on-screen text 'ADMINISTRATOR DEANNE CRISWELL'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Kamala Harris begins her remarks by saying, 'As the president said...'"
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and branding are featured prominently on the breaking news chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VP Harris: We are working to make sure folks in Florida get the resources and support they need",
+      "role": "overlay"
+    },
+    {
+      "text": "STATUS UPDATE HURRICANE BRIEFING",
+      "role": "overlay"
+    },
+    {
+      "text": "VICE PRESIDENT KAMALA HARRIS",
+      "role": "chyron"
+    },
+    {
+      "text": "ADMINISTRATOR DEANNE CRISWELL",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "HURRICANE MILTON PACKING WINDS OF 145 MPH",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "Hurricane Milton Category 4",
+      "role": "chyron"
+    },
+    {
+      "text": "MILTON PROJECTED TO MAKE LANDFALL NEAR SARASOTA",
+      "role": "chyron"
+    },
+    {
+      "text": "THE",
+      "role": "caption"
+    },
+    {
+      "text": "BEEN",
+      "role": "caption"
+    },
+    {
+      "text": "CLOCK",
+      "role": "caption"
+    },
+    {
+      "text": "HURRICANE",
+      "role": "caption"
+    },
+    {
+      "text": "AND",
+      "role": "caption"
+    },
+    {
+      "text": "PEOPLE",
+      "role": "caption"
+    },
+    {
+      "text": "SAFE",
+      "role": "caption"
+    },
+    {
+      "text": "INCLUDING",
+      "role": "caption"
+    },
+    {
+      "text": "FEDERAL",
+      "role": "caption"
+    },
+    {
+      "text": "LOCAL",
+      "role": "caption"
+    },
+    {
+      "text": "ARE",
+      "role": "caption"
+    },
+    {
+      "text": "COORDINATED",
+      "role": "caption"
+    },
+    {
+      "text": "AND",
+      "role": "caption"
+    },
+    {
+      "text": "EFFECTIVE",
+      "role": "caption"
+    },
+    {
+      "text": "BEEN",
+      "role": "caption"
+    },
+    {
+      "text": "CONTACT",
+      "role": "caption"
+    },
+    {
+      "text": "FLORIDA",
+      "role": "caption"
+    },
+    {
+      "text": "MAKE",
+      "role": "caption"
+    },
+    {
+      "text": "CUTTING",
+      "role": "caption"
+    },
+    {
+      "text": "TAPE",
+      "role": "caption"
+    },
+    {
+      "text": "IN",
+      "role": "caption"
+    },
+    {
+      "text": "RELIEF",
+      "role": "caption"
+    },
+    {
+      "text": "FOLKS",
+      "role": "caption"
+    },
+    {
+      "text": "ALSO",
+      "role": "caption"
+    },
+    {
+      "text": "COMMUNITIES",
+      "role": "caption"
+    },
+    {
+      "text": "RESOURCES",
+      "role": "caption"
+    },
+    {
+      "text": "THAT",
+      "role": "caption"
+    },
+    {
+      "text": "AS",
+      "role": "caption"
+    },
+    {
+      "text": "POSSIBLE",
+      "role": "caption"
+    },
+    {
+      "text": "WE",
+      "role": "caption"
+    },
+    {
+      "text": "SENT",
+      "role": "caption"
+    },
+    {
+      "text": "1,000",
+      "role": "caption"
+    },
+    {
+      "text": "PERSONNEL",
+      "role": "caption"
+    },
+    {
+      "text": "GROUND",
+      "role": "caption"
+    },
+    {
+      "text": "ASSIST",
+      "role": "caption"
+    },
+    {
+      "text": "TO",
+      "role": "caption"
+    },
+    {
+      "text": "FOR",
+      "role": "caption"
+    },
+    {
+      "text": "WILL",
+      "role": "caption"
+    },
+    {
+      "text": "SCALE",
+      "role": "caption"
+    },
+    {
+      "text": "EFFORTS",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Vice President Kamala Harris details the administration's response to the impending Hurricane Milton in Florida. She says they are working 'around the clock' to coordinate federal, state, and local resources, and are in contact with Florida leaders to 'cut any red tape' to ensure communities get the relief they need. She states that over 1,000 federal personnel are already on the ground in Florida to assist with preparations.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Kamala Harris's spoken remarks. There is no music or other sound.",
+  "editing_pacing": "The video is a static shot of a screen, showing a news broadcast and video call. The editing is minimal, consisting of a title overlay at the top and synchronized captions that appear word-by-word as Harris speaks.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "reassurance",
+    "competence",
+    "seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Biden-Harris administration is actively and competently managing the federal response to Hurricane Milton to ensure Floridians get the necessary resources and support.",
+  "intended_effect": "To project an image of a competent and responsive government actively managing a crisis, thereby reassuring the public, especially those in the path of the hurricane.",
+  "uncertainty_flags": []
+}

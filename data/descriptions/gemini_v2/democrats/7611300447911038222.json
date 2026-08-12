@@ -1,0 +1,91 @@
+{
+  "video_id": "7611300447911038222",
+  "visual_action": "A montage showing Donald Trump at a podium, followed by Zohran Mamdani walking outside. A photo of Donald Trump seated in the Oval Office with J.D. Vance standing beside him is then repeatedly superimposed over clips of Mamdani and other background scenes, including people on a bus and a news studio.",
+  "cast": [
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown walking outside and as the background for an overlay of Trump. Named in on-screen text 'and new york's zohran mamdani'. He is the main subject of the implied association."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown at a podium and in an Oval Office photo. His voice is heard praising the 'Mayor of New York City'. Named in on-screen text 'florida's donald trump'."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visibly present in a photo standing next to Donald Trump in the Oval Office. He is not named or spoken about."
+    },
+    {
+      "name": "Shane Hollander",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the opening voiceover: 'Canada's Shane Hollander'."
+    },
+    {
+      "name": "Azealia Rosanoff",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the opening voiceover: 'and Russia's Azealia Rosanoff'."
+    },
+    {
+      "name": "Mayor of New York City",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced in Donald Trump's audio clip: 'Mayor of New York City. I think he's a nice guy, actually'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "florida's donald trump",
+      "role": "overlay"
+    },
+    {
+      "text": "and new york's zohran mamdani",
+      "role": "overlay"
+    },
+    {
+      "text": "EXCLUSIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNBC",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A voiceover lists names, including \"Canada's Shane Hollander\" and \"Russia's Azealia Rosanoff.\" This is followed by a soundbite from Donald Trump saying, \"Mayor of New York City. I think he's a nice guy, actually. Speak to him a lot.\"",
+  "emojis_present": [
+    "🤫"
+  ],
+  "audio_music": "A continuous, ominous synth music track plays throughout the video, creating a suspenseful and serious tone.",
+  "editing_pacing": "A montage with moderate pacing, heavily featuring a picture-in-picture overlay effect where a single image of Trump and J.D. Vance is superimposed on various other video clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "irony"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video implies a positive association between Democratic Socialist Zohran Mamdani and Donald Trump by juxtaposing images of Mamdani with an out-of-context audio clip of Trump praising the \"Mayor of New York City\".",
+  "intended_effect": "To create negative sentiment towards Zohran Mamdani among a Democratic-leaning audience by deceptively linking him to Donald Trump.",
+  "uncertainty_flags": [
+    "The face-ID service identified John Thune, but he was not visibly identifiable in the video.",
+    "The relevance of the names 'Shane Hollander' and 'Azealia Rosanoff' mentioned in the opening voiceover is unclear."
+  ]
+}

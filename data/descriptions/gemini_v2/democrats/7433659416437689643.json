@@ -1,0 +1,52 @@
+{
+  "video_id": "7433659416437689643",
+  "visual_action": "Oprah Winfrey is on a large, brightly lit stage at a nighttime rally. The stage backdrop is dark blue with white stars and an American flag. She is speaking with a group of diverse young people who are lined up on stage with her. She walks down the line, interacting with them individually as a crowd watches from below.",
+  "cast": [
+    {
+      "name": "Oprah Winfrey",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Oprah Winfrey is visibly on stage speaking for the entire video and is named in the on-screen text."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the event as a \"Kamala Harris rally!!\""
+    },
+    {
+      "name": "unnamed first-time voters",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A group of young people are shown on stage with Oprah, and the on-screen text identifies them as \"first time voters.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Oprah brought out first time voters to the Kamala Harris rally!!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Oprah Winfrey speaks to the young people on stage, confirming they are all voting tomorrow morning. She says, \"Thank you for exercising your freedom of expression...\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of live sound from a political rally. Oprah Winfrey's voice is heard speaking through a microphone, with the ambient noise of a large crowd in the background.",
+  "editing_pacing": "The video is a single, continuous shot filmed from the perspective of someone in the audience, with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "inspiration",
+    "empowerment"
+  ],
+  "cultural_references": [
+    "Oprah Winfrey"
+  ],
+  "central_claim": "Oprah Winfrey appeared at a Kamala Harris rally to support her and encourage young, first-time voters to vote.",
+  "intended_effect": "To leverage Oprah Winfrey's celebrity endorsement to generate excitement for Kamala Harris's campaign and motivate young people to vote.",
+  "uncertainty_flags": []
+}

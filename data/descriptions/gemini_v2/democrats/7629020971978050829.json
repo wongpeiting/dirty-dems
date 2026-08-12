@@ -1,0 +1,86 @@
+{
+  "video_id": "7629020971978050829",
+  "visual_action": "The video is a slideshow of still images. It opens with a group photograph of several business executives, including Mark Zuckerberg, Lauren Sanchez, Jeff Bezos, Sundar Pichai, and Elon Musk. Text is superimposed over this image. The video then cuts to an individual photo of Mark Zuckerberg, followed by an individual photo of Jeff Bezos. Both individual photos also have superimposed text stating a monetary value.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The first on-screen text reads, 'Trump raised taxes on 95% of Americans...'"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the initial group photo and in a subsequent individual photo with the text 'Mark Zuckerberg: $3.9 billion'."
+    },
+    {
+      "name": "Jeff Bezos",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the initial group photo and in a subsequent individual photo with the text 'Jeff Bezos: $257 billion'."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the initial group photograph to the right of Sundar Pichai."
+    },
+    {
+      "name": "Lauren Sanchez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the initial group photograph between Mark Zuckerberg and Jeff Bezos."
+    },
+    {
+      "name": "Sundar Pichai",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the initial group photograph between Jeff Bezos and Elon Musk."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump raised taxes on 95% of Americans so these billionaires could get a tax break",
+      "role": "overlay"
+    },
+    {
+      "text": "Mark Zuckerberg: $3.9 billion",
+      "role": "overlay"
+    },
+    {
+      "text": "Jeff Bezos: $257 billion",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech or dialogue, only background music.",
+  "emojis_present": [],
+  "audio_music": "The song 'Money' from the musical 'Cabaret' plays throughout the video. The repetitive 'money, money, money' lyric emphasizes the post's theme of billionaires and tax breaks, creating a critical and mocking tone.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Resentment"
+  ],
+  "cultural_references": [
+    "The song 'Money' from the musical 'Cabaret'."
+  ],
+  "central_claim": "Donald Trump's tax policies benefited billionaires at the expense of the vast majority of Americans.",
+  "intended_effect": "To generate anger towards Donald Trump and convince viewers that his tax policies are unfair and favor the wealthy over the general public.",
+  "uncertainty_flags": [
+    "The provided OCR includes text for 'Elon Musk: $823.6 billion', but this text and a corresponding individual slide for Musk do not appear in the video provided. Musk is only visible in the initial group photograph."
+  ]
+}

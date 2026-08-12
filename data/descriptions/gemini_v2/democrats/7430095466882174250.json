@@ -1,0 +1,69 @@
+{
+  "video_id": "7430095466882174250",
+  "visual_action": "A slideshow of two static images. The first is a close-up photo of John Kelly with a headline above him and text overlaid on the image. The second is a photo of John Kelly seated at a desk in what appears to be the Oval Office, surrounded by several other men, with a headline above the image.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in two on-screen headlines: \"As Election Nears, Kelly Warns Trump Would Rule Like a Dictator\" and \"13 former Trump aides back Kelly's 'dictator' warning...\"."
+    },
+    {
+      "name": "John Kelly",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in photographs and named in the on-screen text headlines as the person issuing the warning about Trump."
+    },
+    {
+      "name": "Unnamed former Trump aides",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states, \"13 former Trump aides back Kelly's 'dictator' warning...\"."
+    },
+    {
+      "name": "Jared Kushner",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible standing on the far right in the group photograph in the second scene."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "As Election Nears, Kelly Warns Trump Would Rule Like a Dictator",
+      "role": "overlay"
+    },
+    {
+      "text": "In case this wasn’t enough already... 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "13 former Trump aides back Kelly’s ‘dictator’ warning, saying the former president seeks ‘absolute’ power.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video contains no speech, only a musical soundtrack.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "A slow, somber, and dramatic musical score plays throughout the video, creating a sense of gravity and alarm.",
+  "editing_pacing": "The video is a simple slideshow consisting of two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "concern",
+    "fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's former chief of staff John Kelly, along with other former aides, warns that Trump would rule like a dictator and seek absolute power if re-elected.",
+  "intended_effect": "To evoke fear and concern about a potential Donald Trump presidency, framing him as a threat to democracy.",
+  "uncertainty_flags": []
+}

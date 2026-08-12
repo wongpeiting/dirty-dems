@@ -1,0 +1,67 @@
+{
+  "video_id": "7611823047267339533",
+  "visual_action": "Donald Trump stands at a podium with the Seal of the President of the United States, delivering a speech directly to the camera. He wears a dark suit, a white collared shirt, and a white baseball cap with \"USA\" written on it. The background consists of American flags. The video is a single, static talking-head shot. It concludes with a black and white title card reading \"THE WHITE HOUSE\" over an image of the building.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole speaker and visual subject for the entirety of the video, addressing the nation about military action."
+    },
+    {
+      "name": "Iranian regime",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speech is centered on military action against Iran. Trump refers to them as \"a vicious group of very hard, terrible people\" and the \"world's number one state sponsor of terror.\""
+    },
+    {
+      "name": "Hamas",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as an Iranian proxy responsible for the October 7th attacks on Israel."
+    },
+    {
+      "name": "Islamic Revolutionary Guard",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump directly addresses the members of the Islamic Revolutionary Guard, telling them to lay down their weapons."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that the US military has commenced \"major combat operations in Iran.\" He frames the action as a defensive measure to eliminate threats from the Iranian regime, which he describes as a \"vicious group.\" Trump recounts a long history of Iranian aggression, including the Tehran embassy hostage crisis, the 1983 Beirut barracks bombing, the USS Cole attack, and support for Hamas's October 7 attack. He states his policy is that Iran \"can never have a nuclear weapon\" and mentions a previous strike, \"Operation Midnight Hammer,\" that he claims \"obliterated\" their nuclear program. He declares the new operation will destroy Iran's missiles and navy. Trump directly addresses the Iranian military, offering immunity for surrender or threatening \"certain death.\" He then speaks to the Iranian people, telling them their \"hour of freedom is at hand\" and urging them to take over their government once the US operation is complete.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Donald Trump's spoken address. There is no audible music, score, or sound effects.",
+  "editing_pacing": "The video is a single, static, unedited talking-head shot of a speech, followed by a title card at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gravity",
+    "Resolve",
+    "Anger",
+    "Patriotism",
+    "Urgency"
+  ],
+  "cultural_references": [],
+  "central_claim": "The United States has launched a major military operation against Iran to eliminate its military and nuclear capabilities and to enable the Iranian people to overthrow the regime.",
+  "intended_effect": "To justify a major military action to the American public and the world, project an image of decisive leadership, intimidate the Iranian regime, and incite an uprising among the Iranian people.",
+  "uncertainty_flags": [
+    "The provided music fingerprint from ACRCloud lists three distinct music tracks, but no music is audible in the video; the audio appears to be speech-only."
+  ]
+}

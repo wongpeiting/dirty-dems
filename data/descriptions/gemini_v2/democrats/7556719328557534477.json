@@ -1,0 +1,164 @@
+{
+  "video_id": "7556719328557534477",
+  "visual_action": "A video clip from an MSNBC broadcast shows a tense conversation in a hallway between Speaker Mike Johnson and an unnamed female Democratic Representative. The Representative, with her back mostly to the camera, confronts Johnson, who faces her. Large, yellow subtitles appear on screen, transcribing their dialogue.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking on screen and is identified by face-ID and the on-screen text: 'Mike Johnson'."
+    },
+    {
+      "name": "unnamed Democratic Representative",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A woman is shown speaking to Mike Johnson and is identified by the on-screen text as a 'Dem Rep.'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is referred to as 'The President' who is 'unhinged' and 'unwell'. The on-screen text also refers to 'Trump's rant to generals' and 'TRUMP THREATENS MASS LAYOFFS'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Dem Rep. confronts Mike Johnson on Trump's rant to generals 😩",
+      "role": "overlay"
+    },
+    {
+      "text": "> THE KING'S SHUTDOWN",
+      "role": "chyron"
+    },
+    {
+      "text": "SHUTDOWN BEGINS AS TRUMP THREATENS MASS LAYOFFS",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNBC",
+      "role": "chyron"
+    },
+    {
+      "text": "ALL IN",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE PRESIDENT",
+      "role": "overlay"
+    },
+    {
+      "text": "IS UNHINGED.",
+      "role": "overlay"
+    },
+    {
+      "text": "HE IS UNWELL.",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT ARE",
+      "role": "overlay"
+    },
+    {
+      "text": "ON YOUR SIDE",
+      "role": "overlay"
+    },
+    {
+      "text": "I DON'T CONTROL",
+      "role": "overlay"
+    },
+    {
+      "text": "PLEASE.",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT PERFORMANCE",
+      "role": "overlay"
+    },
+    {
+      "text": "GENERALS?",
+      "role": "overlay"
+    },
+    {
+      "text": "I DIDN'T SEE IT.",
+      "role": "overlay"
+    },
+    {
+      "text": "THAT IS SO",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU KNOW I SERVE",
+      "role": "overlay"
+    },
+    {
+      "text": "ON FOREIGN",
+      "role": "overlay"
+    },
+    {
+      "text": "APPROPRIATIONS.",
+      "role": "overlay"
+    },
+    {
+      "text": "COLLISION OF",
+      "role": "overlay"
+    },
+    {
+      "text": "OUR ALLIES ARE",
+      "role": "overlay"
+    },
+    {
+      "text": "LOOKING",
+      "role": "overlay"
+    },
+    {
+      "text": "OUR ENEMIES ARE",
+      "role": "overlay"
+    },
+    {
+      "text": "LAUGHING.",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT WHO",
+      "role": "overlay"
+    },
+    {
+      "text": "IS UNWELL.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unnamed Democratic Representative confronts Mike Johnson, stating that the President (Donald Trump) is 'unhinged' and 'unwell.' She references a 'dangerous' performance in front of generals. Johnson deflects, saying he 'didn't see it' and that some people on her side are also unwell. The Representative argues that this behavior is causing US allies to look elsewhere and enemies to laugh.",
+  "emojis_present": [
+    "😩"
+  ],
+  "audio_music": "The audio consists solely of the spoken dialogue from the news clip, with ambient background noise typical of a busy hallway.",
+  "editing_pacing": "The video is a single, static clip from a news broadcast. The only editing is the addition of text overlays and subtitles.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "urgency",
+    "concern",
+    "frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is mentally unfit and a danger to national security, and Republicans like Speaker Mike Johnson are deflecting from this serious issue.",
+  "intended_effect": "To provoke alarm in the viewer about Trump's leadership and to cast Republicans as complicit or negligent.",
+  "uncertainty_flags": [
+    "The identity of the female Democratic Representative is not specified."
+  ]
+}

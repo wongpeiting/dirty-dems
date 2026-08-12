@@ -1,0 +1,85 @@
+{
+  "video_id": "7275366242972699946",
+  "visual_action": "A rapid slideshow of black-and-white formal portraits of different male politicians. Each politician is shown in a suit, smiling or looking neutral, with an American flag in the background. A red text box with white lettering is overlaid on the bottom portion of the screen throughout the clip.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads, 'Every Republican voted against allowing Medicare to negotiate drug prices 😟'."
+    },
+    {
+      "name": "Andy Biggs",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition as one of the Republican politicians shown in the slideshow."
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition as one of the Republican politicians shown in the slideshow."
+    },
+    {
+      "name": "Matt Gaetz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition as one of the Republican politicians shown in the slideshow."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition as one of the Republican politicians shown in the slideshow."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition as one of the Republican politicians shown in the slideshow."
+    },
+    {
+      "name": "Medicare",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text refers to 'allowing Medicare to negotiate drug prices'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Every Republican voted against allowing Medicare to negotiate drug prices 😟",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only music plays.",
+  "emojis_present": [
+    "😟"
+  ],
+  "audio_music": "A slow, somber, and slightly distorted track plays throughout. It features a repeating vocal sample over a simple beat, creating a critical and mournful tone.",
+  "editing_pacing": "The video is a fast-paced slideshow, with quick cuts between static, black-and-white portraits of politicians.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Condemnation",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "Every Republican politician voted against a measure that would allow Medicare to negotiate drug prices.",
+  "intended_effect": "To generate disapproval and criticism of the Republican Party for their legislative actions regarding healthcare costs.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,57 @@
+{
+  "video_id": "7538525601615990029",
+  "visual_action": "A montage of clips shows Senator J.D. Vance standing in front of Mount Rushmore, people skiing on a snowy mountain, a screenshot of a tweet about Vance staying at a luxury Scottish estate, Vance walking with his family at what appears to be a theme park, and Vance walking on a dock at a marina.",
+  "cast": [
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Vance is shown on screen at Mount Rushmore and is named in the on-screen text \"JD's been vacationing nonstop since February\" and in a tweet screenshot."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost' (@factpostnews) is shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "JD's been vacationing nonstop since February",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "JD Vance is now vacationing in a $28,000 per week luxury Scottish estate.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is from a travel advertisement. A cheerful female voice with a British accent says, \"Nothing beats a Jet2 holiday. And right now, you can save 50 pounds per person.\"",
+  "emojis_present": [],
+  "audio_music": "The audio is an upbeat, cheerful jingle and voiceover taken directly from a Jet2holidays travel advertisement. It is used ironically to mock the subject of the video.",
+  "editing_pacing": "A fast-paced montage with quick cuts between different video clips and a static screenshot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "Jet2holidays (advertisement audio)",
+    "Mount Rushmore",
+    "Twitter/X (tweet format)"
+  ],
+  "central_claim": "J.D. Vance has been taking nonstop, expensive vacations since February, suggesting he is out of touch and neglecting his duties.",
+  "intended_effect": "To portray J.D. Vance as a wealthy, out-of-touch politician and to generate disapproval and mockery.",
+  "uncertainty_flags": [
+    "The specific locations of the ski resort, theme park, and marina are not identified."
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "7560370330045402381",
+  "visual_action": "Donald Trump, in a blue suit, gets out of a black car. He adjusts his jacket and looks forward with a serious expression. The video then cuts to two black and white shots: an exterior view of the White House building, followed by a shot of a helicopter landing on the White House lawn.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the sole person shown in the video, getting out of a car. The on-screen text describes his mindset."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a shot of the building and the words 'THE WHITE HOUSE' on screen. The account is also '@whitehouse'."
+    },
+    {
+      "name": "Fake News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states, 'The lion does not concern himself with the fake news...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The lion does not concern himself with the fake news, only putting America First",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue in the video, only music with lyrics. The sung lyrics include lines like \"And I'm dreaming right where I belong\" and \"Here we lie all alone in my dreaming\".",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "A continuous, upbeat soul/funk track with male vocals plays throughout the video. The music has a confident, swaggering feel that complements the video's portrayal of Trump.",
+  "editing_pacing": "The main shot of Donald Trump appears to be in slight slow-motion. This is followed by two simple cuts to static, black-and-white shots of the White House and a helicopter.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Strength",
+    "Pride",
+    "Patriotism",
+    "Dismissiveness"
+  ],
+  "cultural_references": [
+    "The phrase 'The lion does not concern himself with...' is a reference to a common aphorism about strength and indifference to lesser opinions, often cited as 'A lion does not concern himself with the opinion of sheep'."
+  ],
+  "central_claim": "Donald Trump is a strong leader, like a lion, who ignores criticism from the 'fake news' and remains focused on his 'America First' agenda.",
+  "intended_effect": "To portray Donald Trump as a powerful and resolute leader, inspiring confidence and admiration among his supporters.",
+  "uncertainty_flags": [
+    "The provided music fingerprint identifies two tracks, but only the first track seems to be audible in the clip provided."
+  ]
+}

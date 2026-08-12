@@ -1,0 +1,94 @@
+{
+  "video_id": "7652755291661929742",
+  "visual_action": "A montage of still photos. First, a photo of Donald Trump pointing. Second, a photo of the statue of Abraham Lincoln at the Lincoln Memorial. This is followed by two more photos of Donald Trump pointing in different settings. The final shot is of the Lincoln Memorial Reflecting Pool, which contains bright green water. Two maintenance workers are standing at the edge of the pool.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown in multiple photos and his voice (or an impersonator) is used to ask questions throughout the video."
+    },
+    {
+      "name": "Abraham Lincoln",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A large statue of Abraham Lincoln at the Lincoln Memorial is shown."
+    },
+    {
+      "name": "George Washington",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker in the video asks, 'Washington, you free this friday?'"
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker asks, 'Mike, you free this friday?'. In the context of Donald Trump, this is a likely reference to his former Vice President."
+    },
+    {
+      "name": "Johnny",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker asks, 'Johnny, you free this friday?'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "free this friday?",
+      "role": "overlay"
+    },
+    {
+      "text": "i'm good friday",
+      "role": "overlay"
+    },
+    {
+      "text": "washington, you free this friday?",
+      "role": "overlay"
+    },
+    {
+      "text": "Johnny, you free this—what the",
+      "role": "overlay"
+    },
+    {
+      "text": "i'm so",
+      "role": "overlay"
+    },
+    {
+      "text": "i'm so GREEN 🤢",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is an edited, comedic sound clip. A voice representing Donald Trump repeatedly asks different people if they are 'free this friday'. The people asked include 'Washington', 'Mike', and 'Johnny'. After getting positive responses, the speaker seems to see something shocking and says 'what the...'. The audio then abruptly cuts to a different, sad-sounding voice saying 'I'm so green', which serves as the punchline.",
+  "emojis_present": [
+    "🤢"
+  ],
+  "audio_music": "A gentle, slightly melancholic piano track ('Aurora Keys 45 — AMLYLY') plays in the background throughout the video. The main audio is a comedic dialogue mashup, which ends with a mournful, drawn-out line reading ('I'm so green') for humorous effect.",
+  "editing_pacing": "The video consists of a slideshow of still photos with fast cuts between them, timed to the spoken dialogue to create a comedic rhythm.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Humor",
+    "Mockery",
+    "Disgust"
+  ],
+  "cultural_references": [
+    "The video uses a popular TikTok meme format where a person calls multiple friends to organize a plan, which is then revealed to be something disastrous or absurd."
+  ],
+  "central_claim": "The video uses a meme format featuring Donald Trump to humorously point out that the Lincoln Memorial Reflecting Pool is in a disgusting, green state.",
+  "intended_effect": "To make the viewer laugh at the joke and feel disgust toward the state of the reflecting pool, implicitly criticizing the state of affairs in Washington D.C.",
+  "uncertainty_flags": [
+    "The identity of 'Mike' is implied to be Mike Pence but is not confirmed.",
+    "The identity of 'Johnny' is unknown."
+  ]
+}

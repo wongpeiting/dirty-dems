@@ -1,0 +1,82 @@
+{
+  "video_id": "7433939408681749802",
+  "visual_action": "The video is a slideshow-style compilation framed with black bars at top and bottom. The persistent overlay text \"Celebs who have already voted 🔥\" appears in white at the top against a black background throughout. The first several frames (at least 7) show the same still photograph: a woman with long platinum-blonde hair sitting in the driver's seat of a car, wearing a black leather jacket with an \"I Voted\" sticker affixed to it. She is taking a selfie and smiling slightly. The final frame shifts to a different photograph: a woman outdoors near palm trees, wearing a white T-shirt reading \"IT'S ABOUT MADAM TIME.\" with an \"I Voted\" circular sticker on the shirt, and a camo baseball cap with \"HARRIS WALZ\" printed on it. She is posing with both hands holding the brim of the cap and smiling broadly. She is also wearing Calvin Klein underwear visible at the waistband.",
+  "cast": [
+    {
+      "name": "unnamed blonde celebrity (platinum hair, leather jacket)",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in selfie-style photo in car wearing 'I Voted' sticker; not named in any on-screen text or audio"
+    },
+    {
+      "name": "Lizzo",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Final frame shows a woman matching Lizzo's appearance wearing a Harris-Walz cap and 'IT'S ABOUT MADAM TIME.' shirt with I Voted sticker; identity uncertain — flagged below"
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "'HARRIS WALZ' printed on cap in final frame; 'MADAM TIME' on shirt implies female president/Madam President"
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "'HARRIS WALZ' printed on cap in final frame"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Celebs who have already voted 🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "HARRIS\nWALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S ABOUT MADAM TIME.",
+      "role": "overlay"
+    },
+    {
+      "text": "I Voted",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken audio or dialogue is detected in this video. The Whisper transcript is empty, indicating the video is silent or contains only background audio without speech.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "No commercial music matched by fingerprint. No speech detected in transcript. The video appears to be a silent slideshow or contains ambient/non-speech audio only throughout its duration.",
+  "editing_pacing": "Static slideshow format — each frame is a still photograph held for several seconds. Minimal editing; no cuts between action clips, just a sequence of still images with persistent text overlay. Slow, magazine-spread pacing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "civic enthusiasm — conveyed by 'I Voted' stickers and celebrities showcasing their participation",
+    "excitement/energy — conveyed by the 🔥 emoji and 'MADAM TIME' slogan",
+    "inspiration — framing celebrities as models for voter participation"
+  ],
+  "cultural_references": [
+    "Lizzo (musician) — appears in final frame wearing Harris-Walz campaign cap and 'IT'S ABOUT MADAM TIME.' shirt with I Voted sticker, referencing her public support for Kamala Harris",
+    "'IT'S ABOUT MADAM TIME.' — slogan referencing the prospect of the first female U.S. president ('Madam President'), used as a campaign cultural touchstone"
+  ],
+  "central_claim": "Notable celebrities have cast their early votes, implicitly in support of the Harris-Walz ticket, and their participation is meant to encourage others to vote.",
+  "intended_effect": "Inspire viewers to vote by showing that celebrities they may admire have already voted, normalizing and glamorizing civic participation ahead of an election.",
+  "uncertainty_flags": [
+    "The identity of the platinum-blonde woman in the car selfie is not confirmed — no name appears in any on-screen text, caption, or OCR for this individual",
+    "The identity of the woman in the final frame is inferred as Lizzo based on visual resemblance, but face-ID returned no confirmed match; this should be verified",
+    "OCR includes noisy/fragmented text ('ABeut MADAM IS A This With FELONY AMPERING BOX ELOT') that does not match what is legible in the frames — this may be noise from other slides in the slideshow not captured in the provided keyframes, or OCR artifact; the full slideshow may contain more celebrities not represented in these 8 keyframes",
+    "The reference to 'FELONY TAMPERING BOX ELOT' (likely 'FELONY TAMPERING BALLOT BOX') in the OCR suggests there may be additional slides in the full video making a legal/civic-integrity claim not visible in these keyframes",
+    "No audio transcript available — cannot confirm whether any voiceover or music plays during the video"
+  ]
+}

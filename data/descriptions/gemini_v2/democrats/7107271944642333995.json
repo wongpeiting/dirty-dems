@@ -1,0 +1,59 @@
+{
+  "video_id": "7107271944642333995",
+  "visual_action": "A static, close-up shot of Representative Katie Porter speaking at a microphone in what appears to be a congressional hearing room. She is seated at a desk with a nameplate in front of her.",
+  "cast": [
+    {
+      "name": "Katie Porter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the only person shown on screen and is speaking for the entire duration of the video. The authoritative face-ID confirms her presence and on-screen text identifies her as 'Representative Porter'."
+    },
+    {
+      "name": "Peloton",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Porter uses the company as an example, stating, 'After one child died using a Peloton treadmill last year...'"
+    },
+    {
+      "name": "Consumer Product Safety Commission",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Porter mentions the organization by name, stating, 'the Consumer Product Safety Commission intervened and recalled the product.'"
+    },
+    {
+      "name": "Gun manufacturers",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Porter's central argument is that 'federal law protects gun manufacturers' instead of regulating them."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Representative Porter on the Need for Gun Safety Reform",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Representative Katie Porter argues for gun safety reform by contrasting the swift federal response to a single death caused by a Peloton treadmill, which was recalled, with the lack of federal action despite hundreds of children dying from guns. She states emphatically that there is 'no federal safety standard for guns' and that instead of being regulated like other consumer products, 'federal law protects gun manufacturers.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Katie Porter's spoken words in a setting with natural room acoustics, likely a hearing room. There is no background music or added sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts, zooms, or other editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Frustration",
+    "Incredulity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Guns should be subject to federal safety regulations like any other consumer product, but they are uniquely protected by law, leading to preventable deaths.",
+  "intended_effect": "To persuade the viewer that the lack of federal safety standards for guns is a dangerous and illogical double standard that requires legislative reform.",
+  "uncertainty_flags": []
+}

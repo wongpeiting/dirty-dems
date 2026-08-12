@@ -1,0 +1,63 @@
+{
+  "video_id": "7283497816444456238",
+  "visual_action": "Joe Biden stands outdoors in front of a group of people, speaking into a red and white megaphone. He wears a dark blue pullover, a dark baseball cap, and brown shoes. The crowd behind him, many in red shirts, clap and hold signs for the UAW union, including one that reads \"UAW ON STRIKE\". The event takes place in front of a building with a partially visible \"gm\" (General Motors) sign.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure shown speaking for the entire video. On-screen text reads, 'Joe Biden makes history...'. He is also confirmed by face-ID."
+    },
+    {
+      "name": "United Auto Workers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Multiple people in the crowd are holding signs that say 'UAW' and 'UAW ON STRIKE'."
+    },
+    {
+      "name": "Wall Street",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Joe Biden says, 'Wall Street didn't build the country.'"
+    },
+    {
+      "name": "General Motors",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A sign in the background shows the 'gm' logo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Joe Biden makes history by becoming the first sitting president to join a picket line",
+      "role": "overlay"
+    },
+    {
+      "text": "You've heard me say it many times: Wall Street didn't build the country, the middle class built the country, and unions built the middle class. And that's a fact. So let's keep going. You deserve what you've earned and you've earned a hell of a lot more than what you're getting paid now. Thank you very much.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Speaking through a megaphone to a cheering crowd of union workers, Joe Biden repeats his common refrain: \"Wall Street didn't build the country, the middle class built the country, and unions built the middle class.\" He tells the workers they deserve what they have earned and significantly more than their current pay.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of diegetic sound from the event: Joe Biden's voice amplified by a megaphone and the enthusiastic cheers and applause of the crowd in response to his statements. There is no musical score.",
+  "editing_pacing": "The video is a single, continuous, static shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Solidarity",
+    "Empowerment"
+  ],
+  "cultural_references": [],
+  "central_claim": "Joe Biden is a historic, pro-union president who stands with the American middle class.",
+  "intended_effect": "To portray Joe Biden as a champion for workers and unions, and to make viewers feel pride in his historic action of joining a picket line.",
+  "uncertainty_flags": []
+}

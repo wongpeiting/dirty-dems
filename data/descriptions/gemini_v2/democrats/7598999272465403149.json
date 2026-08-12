@@ -1,0 +1,111 @@
+{
+  "video_id": "7598999272465403149",
+  "visual_action": "Minneapolis Mayor Jacob Frey speaks at a podium during a press conference. Other people, including a sign language interpreter, stand behind him. The footage is framed as a news broadcast, with a C-SPAN chyron at the bottom.",
+  "cast": [
+    {
+      "name": "Jacob Frey",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A chyron identifies him as 'MINNEAPOLIS MAYOR JACOB FREY (D)'. He is the sole speaker in the video."
+    },
+    {
+      "name": "unnamed sign language interpreter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A person is shown standing to the right of Jacob Frey, providing sign language interpretation throughout his speech."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Mayor Frey addresses the most recent shooting in Minneapolis",
+      "role": "overlay"
+    },
+    {
+      "text": "MINNEAPOLIS MAYOR JACOB FREY (D) HOLDS NEWS CONFERENCE ON FEDERAL AGENT-INVOLVED SHOOTING",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "I JUST SAW A VIDEO",
+      "role": "caption"
+    },
+    {
+      "text": "OF MORE THAN SIX",
+      "role": "caption"
+    },
+    {
+      "text": "MASKED AGENTS",
+      "role": "caption"
+    },
+    {
+      "text": "PUMMELING ONE OF OUR",
+      "role": "caption"
+    },
+    {
+      "text": "CONSTITUENTS AND",
+      "role": "caption"
+    },
+    {
+      "text": "SHOOTING HIM",
+      "role": "caption"
+    },
+    {
+      "text": "TO DEATH.",
+      "role": "caption"
+    },
+    {
+      "text": "HOW MANY MORE",
+      "role": "caption"
+    },
+    {
+      "text": "RESIDENTS,",
+      "role": "caption"
+    },
+    {
+      "text": "HOW MANY MORE",
+      "role": "caption"
+    },
+    {
+      "text": "AMERICANS NEED TO",
+      "role": "caption"
+    },
+    {
+      "text": "DIE OR GET BADLY",
+      "role": "caption"
+    },
+    {
+      "text": "HURT FOR THIS",
+      "role": "caption"
+    },
+    {
+      "text": "OPERATION TO END?",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Minneapolis Mayor Jacob Frey describes having just seen a video of \"more than six masked agents pummeling one of our constituents and shooting him to death.\" He then demands to know, \"How many more residents, how many more Americans need to die or get badly hurt for this operation to end?\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Jacob Frey's speech from the press conference, with no added music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a press conference. The primary editing technique is the use of large, yellow text overlaid on the video, which appears sequentially to emphasize the speaker's words.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "anger",
+    "grief"
+  ],
+  "cultural_references": [],
+  "central_claim": "A fatal shooting by federal agents in Minneapolis is unacceptable, and the operation that led to it must be stopped immediately.",
+  "intended_effect": "To generate public outrage over the actions of federal agents and to pressure authorities to end the operation in question.",
+  "uncertainty_flags": []
+}

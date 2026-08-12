@@ -1,0 +1,43 @@
+{
+  "video_id": "7210944014474890538",
+  "visual_action": "A still photo of Kevin McCarthy smiling and holding a gavel is shown with animated sparkly effects. The image rotates slightly, and at one point, a digital swirl effect briefly distorts the photo before it returns to normal.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the person shown in the photo and is named in the on-screen text: 'Kevin McCarthy and 220 House Republicans voted...'"
+    },
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "They are named in the on-screen text: '...and 220 House Republicans voted for a bill...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Just letting everyone know Kevin McCarthy and 220 House Republicans voted for a bill to make it easier for the ultra-wealthy to cheat on their taxes",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it only contains background music.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, electronic dance-pop track plays throughout the video.",
+  "editing_pacing": "The video consists of a single still photo animated with digital effects, including rotation, sparkles, and a brief swirl distortion.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A digital swirl/warp effect is briefly applied to the photo, distorting Kevin McCarthy's face for a mocking or jarring effect.",
+  "emotions_signaled": [
+    "outrage",
+    "disapproval",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kevin McCarthy and 220 House Republicans voted for a bill that helps the ultra-wealthy cheat on their taxes.",
+  "intended_effect": "To create disapproval of Kevin McCarthy and House Republicans by portraying their actions as beneficial to the rich at the expense of others.",
+  "uncertainty_flags": []
+}

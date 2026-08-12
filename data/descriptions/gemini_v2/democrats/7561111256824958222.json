@@ -1,0 +1,149 @@
+{
+  "video_id": "7561111256824958222",
+  "visual_action": "A soybean farmer, John Bartman, stands in his field and speaks directly to the camera. He becomes emotional while discussing his family's farm. The video includes B-roll of him driving a combine harvester, shots of his farm, an old family photo, and his mother, Rosemary Bartman, being interviewed. There are also several news clips from ABC News and CNN discussing the negative impact of tariffs on farmers, as well as screenshots of newspaper articles.",
+  "cast": [
+    {
+      "name": "John Bartman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen text identifies him as 'John Bartman Owner, Bartman Family Farms.' He is the main speaker in the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Soybean farmer speaks out on Trump's tariffs hurting his livelihood.' He is repeatedly mentioned as the cause of the farmer's economic hardship."
+    },
+    {
+      "name": "Rosemary Bartman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "On-screen text identifies her as 'Rosemary Bartman John's Mother.' She speaks about her son and the farm."
+    },
+    {
+      "name": "unnamed news anchor 1",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An ABC News anchor is shown speaking in a news clip about the impact of tariffs."
+    },
+    {
+      "name": "unnamed news anchor 2",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A second female news anchor is shown speaking in a news clip."
+    },
+    {
+      "name": "unnamed news anchor 3",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A CNN news anchor is shown speaking in a news clip about a potential farmer bailout."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "John Bartman mentions him positively, saying 'When President Obama was in office...' A New York Times article about him signing a farm bill is also shown."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "John Bartman speaks positively about his administration's policies, stating, 'Joe Biden gets in there again... prices went up again...'"
+    },
+    {
+      "name": "China",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as a key market for soybeans that has been lost due to tariffs. 'China hasn't bought one of our beans.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Soybean farmer speaks out on Trump's tariffs hurting his livelihood",
+      "role": "overlay"
+    },
+    {
+      "text": "THE FIRST 100 DAYS",
+      "role": "chyron"
+    },
+    {
+      "text": "HEARTLAND FARMERS CONCERNED OVER TARIFFS",
+      "role": "chyron"
+    },
+    {
+      "text": "AMERICA'S TRADE WAR",
+      "role": "chyron"
+    },
+    {
+      "text": "SOYBEAN FARMERS ON IMPACT OF SALES AS US TRADE WAR WITH CHINA CONTINUES",
+      "role": "chyron"
+    },
+    {
+      "text": "John Bartman\nOwner, Bartman Family Farms",
+      "role": "chyron"
+    },
+    {
+      "text": "FARM COUNTRY\nSTAY ALERT!",
+      "role": "other"
+    },
+    {
+      "text": "Rosemary Bartman\nJohn's Mother",
+      "role": "chyron"
+    },
+    {
+      "text": "The New York Times\nIn Signing Farm Bill, Obama Extols\nRural Growth",
+      "role": "other"
+    },
+    {
+      "text": "Trump's Trade Wars Have Made Bad Agriculture Policies Worse",
+      "role": "other"
+    },
+    {
+      "text": "FARMER BAILOUT COMING?",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP TRADE WAR",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP CONSIDERING $10 BILLION BAILOUT FOR AMERICA'S FARMERS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An Illinois soybean farmer, John Bartman, emotionally describes how his multi-generational family farm is at risk due to Donald Trump's tariffs. He reminisces about farming with his father and calls the current situation \"total bullshit\" and \"stupid.\" News clips corroborate that farmers are suffering economically. His mother, Rosemary, expresses pride in him but laments the loss of markets like China due to the tariffs. John explains the ripple effect of farming on the broader economy and contrasts Trump's harmful policies with the more beneficial agricultural policies under the Obama and Biden administrations, stating that farmers want markets, not bailouts.",
+  "emojis_present": [],
+  "audio_music": "A continuous, slow, and somber piano and string instrumental track plays throughout the video, creating a serious and emotional mood.",
+  "editing_pacing": "The video uses a mix of talking-head interviews, emotional close-ups, and cinematic B-roll of farm life. These are interspersed with archival news clips and screenshots of articles to provide external validation for the farmer's claims. The overall pacing is slow and deliberate.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sympathy",
+    "sadness",
+    "anger",
+    "nostalgia",
+    "frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's trade policies and tariffs are destroying the livelihoods of multi-generational American farmers by eliminating their markets and putting their family legacies at risk.",
+  "intended_effect": "To generate sympathy for farmers harmed by Trump's policies and persuade viewers that he is detrimental to the American heartland.",
+  "uncertainty_flags": []
+}

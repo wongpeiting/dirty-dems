@@ -1,0 +1,86 @@
+{
+  "video_id": "7638382056615005454",
+  "visual_action": "The video is a high-production-value promotional trailer for a UFC event at the White House. It features quick cuts of four male UFC fighters in suits posing on the White House South Lawn, including intense face-offs. There are also close-up, dramatic shots of a patriotic-themed UFC championship belt and promotional materials branded with \"UFC FREEDOM 250.\" The video begins with a close-up of a plaque for \"The WHITE HOUSE SOUTH LAWN\" and ends with a title card for \"THE WHITE HOUSE.\"",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is set on the White House lawn, and a final title card reads \"THE WHITE HOUSE.\""
+    },
+    {
+      "name": "UFC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The organization's logo \"UFC\" is prominently featured on the championship belts and other on-screen text like \"UFC FREEDOM 250.\""
+    },
+    {
+      "name": "UFC Fighters",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Four professional fighters are the main visual subjects of the video, shown posing on the White House lawn and holding championship belts."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "America 250 summer loading",
+      "role": "overlay"
+    },
+    {
+      "text": "The WHITE HOUSE",
+      "role": "other"
+    },
+    {
+      "text": "SOUTH LAWN",
+      "role": "other"
+    },
+    {
+      "text": "UFC FREEDOM 250",
+      "role": "overlay"
+    },
+    {
+      "text": "UFC",
+      "role": "other"
+    },
+    {
+      "text": "250",
+      "role": "other"
+    },
+    {
+      "text": "MDCC LXXVI",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [
+    "🔜"
+  ],
+  "audio_music": "A dramatic, orchestral, and cinematic score plays throughout the video, creating a sense of hype and anticipation similar to a major film or sports event trailer.",
+  "editing_pacing": "The video uses fast cuts, dramatic slow-motion shots of the fighters, and close-ups, creating a slick, high-energy, trailer-like feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Anticipation",
+    "Hype",
+    "Patriotism"
+  ],
+  "cultural_references": [
+    "UFC (Ultimate Fighting Championship)",
+    "America 250"
+  ],
+  "central_claim": "The White House is promoting a major, patriotic-themed UFC event called \"UFC Freedom 250\" on the South Lawn as part of the nation's 250th anniversary celebrations.",
+  "intended_effect": "To generate excitement and national pride for a UFC event hosted at the White House.",
+  "uncertainty_flags": [
+    "The specific names of the four UFC fighters shown are not provided and could not be identified from the video alone."
+  ]
+}

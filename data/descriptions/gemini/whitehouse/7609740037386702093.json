@@ -1,0 +1,119 @@
+{
+  "video_id": "7609740037386702093",
+  "visual_action": "The video opens with hockey players Brady and Matthew Tkachuk in Team USA jerseys being interviewed. It then cuts to a fast-paced montage of a hockey game between Team USA (in blue and white) and Team Canada (in red). The montage includes a fight on the ice, fans in colonial costumes cheering, Team USA scoring multiple goals, and celebrating exuberantly on the ice. The video concludes with an emotional post-game interview with a different, unnamed Team USA player.",
+  "cast": [
+    {
+      "name": "Brady Tkachuk",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker in the opening voiceover, which appears to be AI-generated, saying 'They booed our national anthem, so I had to come out and teach those maple syrup eating f***s a lesson. Canada, we own you, Lil Bro.' He is also shown on screen in a USA jersey."
+    },
+    {
+      "name": "Matthew Tkachuk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown sitting next to Brady Tkachuk in the opening interview segment. A chyron identifies him as 'MATTHEW TKACHUK'."
+    },
+    {
+      "name": "Team USA Hockey",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The players are shown throughout the video wearing jerseys that say 'USA'."
+    },
+    {
+      "name": "Team Canada Hockey",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "They are the opponents of Team USA, identified by their red jerseys with a maple leaf logo and by being explicitly named in the opening trash talk ('Canada, we own you')."
+    },
+    {
+      "name": "Matt Boldy",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A sports commentator calls out his name as he scores a goal: 'And Boldy... he scores!'"
+    },
+    {
+      "name": "Jack Hughes",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A sports commentator announces his game-winning goal: 'Jack Hughes wins it! The golden goal for the United States...'"
+    },
+    {
+      "name": "unnamed Team USA player",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An emotional player is interviewed at the end of the video, saying 'I'm so proud to be American today... Tonight was all for the country.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NATIONS FACE-OFF",
+      "role": "other"
+    },
+    {
+      "text": "FINLANDE",
+      "role": "other"
+    },
+    {
+      "text": "SUEDE",
+      "role": "other"
+    },
+    {
+      "text": "MATTHEW TKACHUK\n5 PENALTY MINUTES, 3 SHOTS, 2 HITS",
+      "role": "chyron"
+    },
+    {
+      "text": "USA DEFEATS CANADA 3-1",
+      "role": "chyron"
+    },
+    {
+      "text": "USA OFFICIALLY CLINCH A SPOT IN THE CHAMPIONSHIP FINAL THURSDAY",
+      "role": "chyron"
+    },
+    {
+      "text": "MILANO CORTINA 2026",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video starts with an AI-generated voice attributed to Brady Tkachuk, trash-talking Canada for allegedly booing the US anthem, saying he had to 'teach those maple syrup eating f***s a lesson' and that 'Canada, we own you, Lil Bro.' This is followed by sports commentary describing Team USA goals by Matt Boldy and a game-winning 'golden goal' by Jack Hughes, which is heralded as the 'first time since the 1980 miracle.' The video ends with a different player giving an emotional interview, saying, 'I love the USA. I'm so proud to be American... Tonight was all for the country.'",
+  "emojis_present": [
+    "🥇",
+    "🦅"
+  ],
+  "audio_music": "The video begins and ends with original speech from interviews. The central montage section is set to an upbeat, triumphant rock song that enhances the feeling of a major sports victory.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between game highlights, fan reactions, and player celebrations, framed by two static interview shots at the beginning and end.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The audio of hockey player Brady Tkachuk at the beginning of the video appears to be an AI-generated voice clone or a voiceover. His lip movements do not match the aggressive and profane audio, which claims he had to 'teach those maple syrup eating f***s a lesson' after they booed the US national anthem.",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride",
+    "Triumph",
+    "Excitement",
+    "Derision"
+  ],
+  "cultural_references": [
+    "Miracle on Ice (1980 Olympic Hockey)",
+    "USA vs. Canada hockey rivalry",
+    "Milano Cortina 2026 Winter Olympics"
+  ],
+  "central_claim": "Team USA's hockey team achieved a historic, patriotic victory over their Canadian rivals at the 2026 Olympics, reaffirming American dominance in the sport.",
+  "intended_effect": "To evoke feelings of national pride, excitement, and triumph in American viewers over a significant athletic victory against a major rival.",
+  "uncertainty_flags": [
+    "The provided whisper transcript identifies the final goal scorer as 'Jeff Hughes,' but the well-known Team USA player is Jack Hughes. The audio is fast, but it is highly likely the transcript is in error and the player referenced is Jack Hughes.",
+    "The video combines footage from at least two different events: an interview at a 'Nations Face-Off' tournament and game highlights from the 'Milano Cortina 2026' Olympics, presenting them as a single narrative."
+  ]
+}

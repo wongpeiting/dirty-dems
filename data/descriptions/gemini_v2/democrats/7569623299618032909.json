@@ -1,0 +1,49 @@
+{
+  "video_id": "7569623299618032909",
+  "visual_action": "A static graphic shows a collage of portraits of various smiling people against a blue background with stars. Large, stylized text in the center reads \"DEMS SWEEP\". At the bottom is the Democratic Party donkey logo.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The text \"DEMS SWEEP\" and \"DEMOCRATS WIN ACROSS THE COUNTRY\" is shown, along with the party's donkey logo."
+    },
+    {
+      "name": "Unnamed Democratic politicians",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A collage of portraits of over a dozen individuals is displayed. The context of the graphic implies they are the Democrats who won their respective elections."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DEMOCRATS WIN ACROSS THE COUNTRY",
+      "role": "overlay"
+    },
+    {
+      "text": "DEMS SWEEP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists only of music.",
+  "emojis_present": [],
+  "audio_music": "An upbeat and triumphant pop song ('Forever' by Joel Venom, Nick Nemesis) plays throughout the clip, creating a celebratory and victorious atmosphere.",
+  "editing_pacing": "The video is a static image with no cuts or motion.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Triumph",
+    "Celebration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party achieved a sweeping victory in elections across the United States.",
+  "intended_effect": "To make supporters feel proud and celebratory about the Democratic Party's electoral successes.",
+  "uncertainty_flags": [
+    "The specific identities of the individuals shown in the collage could not be determined."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "video_id": "7605340729879186702",
+  "visual_action": "The video shows two separate clips. In the first, former President Barack Obama is at a polling station, smiling as he interacts with a poll worker at a check-in desk. In the second clip, President Joe Biden is also at a polling station, walking up to a check-in desk and interacting with a poll worker.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is clearly visible in the first half of the video, and he is identified by the on-screen text 'Obama showing his ID to vote'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "His face is clearly visible in the second half of the video, and he is identified by the on-screen text 'Biden also showing his ID to vote'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video was posted by the account @republicans."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Obama showing his ID to vote",
+      "role": "overlay"
+    },
+    {
+      "text": "Biden also showing his ID to vote",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio is a song with the lyrics, \"Boy, it's not that complicated. You should stay in my good graces. So I'll switch it up like that, so fast 'cause no one's more amazed.\"",
+  "emojis_present": [],
+  "audio_music": "The video features the upbeat pop song 'Good Graces' by Sabrina Carpenter throughout. The music has a confident and slightly sassy tone, and the lyric 'it's not that complicated' is timed to align with the video's message.",
+  "editing_pacing": "The video consists of two clips with a single direct cut between them, juxtaposing the two presidents.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "vindication",
+    "mockery"
+  ],
+  "cultural_references": [
+    "Sabrina Carpenter"
+  ],
+  "central_claim": "Requiring an ID to vote is a simple, common-sense measure that even prominent Democratic presidents like Obama and Biden follow, implying that opposition to such laws is unreasonable.",
+  "intended_effect": "To persuade viewers to support voter ID laws by showcasing Democratic leaders complying with the process, thereby framing it as a non-partisan and straightforward issue.",
+  "uncertainty_flags": []
+}

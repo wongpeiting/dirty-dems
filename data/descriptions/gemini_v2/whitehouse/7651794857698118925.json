@@ -1,0 +1,52 @@
+{
+  "video_id": "7651794857698118925",
+  "visual_action": "A montage of patriotic-themed clips: a person on horseback carrying an American flag through a field, fighter jets flying in formation, a large crowd at a rodeo unfurling a giant American flag, Donald and Melania Trump disembarking an airplane, a military helicopter landing on an aircraft carrier, two fighter jets flying, and a large fireworks display over a city at night. Donald Trump is also shown at an event outside what appears to be the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown multiple times in the montage, including at an event and walking down airplane stairs. The video's theme of a 'patriotic summer' is implicitly linked to him."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown walking down the stairs of an airplane with Donald Trump."
+    },
+    {
+      "name": "U.S. Military",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Various military assets are shown, including fighter jets flying in formation and a helicopter on an aircraft carrier."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This and a patriotic summer",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue; the audio consists entirely of a song.",
+  "emojis_present": [],
+  "audio_music": "The video features the iconic rock anthem 'Born in the U.S.A.' by Bruce Springsteen throughout, lending a powerful and patriotic feeling to the montage.",
+  "editing_pacing": "A fast-paced montage with quick cuts between various patriotic and military-themed scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Pride"
+  ],
+  "cultural_references": [
+    "The song 'Born in the U.S.A.' by Bruce Springsteen is used as the soundtrack."
+  ],
+  "central_claim": "Donald Trump is associated with a quintessentially patriotic American summer, characterized by military strength, Americana, and national celebrations.",
+  "intended_effect": "To evoke feelings of national pride and associate them with Donald Trump.",
+  "uncertainty_flags": []
+}

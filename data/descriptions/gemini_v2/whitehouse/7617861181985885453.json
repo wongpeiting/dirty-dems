@@ -1,0 +1,127 @@
+{
+  "video_id": "7617861181985885453",
+  "visual_action": "A montage of speakers discussing foreign policy. The video begins with Donald Trump speaking at a presidential podium. It then cuts to Karoline Leavitt at a White House press briefing podium, followed by a US Air Force officer speaking, then Senator Marco Rubio speaking to reporters, and finally a commentator on a Fox News segment. The video has a dark, blue-tinted filter with a scanline effect throughout, resembling an old CRT screen. It concludes with a black screen showing an outline of the White House and text identifying the administration.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A man identified by face recognition is shown speaking at a presidential podium."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post's caption reads 'OBJECTIVE 3: destroy Iran’s terrorist proxies' and the audio mentions 'Iran's military and industrial base'."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman identified by face recognition speaks at a White House press podium."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man identified by face recognition is shown speaking."
+    },
+    {
+      "name": "unnamed US Air Force officer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man in a US Air Force uniform with general's stars is shown speaking at a podium."
+    },
+    {
+      "name": "unnamed commentator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man is shown speaking during a television news segment."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo appears on a chyron during a news segment clip."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and features a logo and text for 'THE WHITE HOUSE' on the end screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "USA",
+      "role": "other"
+    },
+    {
+      "text": "OBJECTIVE:\nDESTROY THE REGIONS\nTERRORIST PROXIES",
+      "role": "overlay"
+    },
+    {
+      "text": "SEAL OF THE PRESIDENT OF THE UNITED STATES",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "45470 FOR UPDATES FROM THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS\nchannel",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. AND ISRAEL",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "THE WHITE HOUSE\nPRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Various officials, including Donald Trump, Karoline Leavitt, a military officer, Marco Rubio, and a news commentator, speak about a unified objective to counter Iran. They state the goal is to destroy the region's 'terrorist proxies' to prevent them from destabilizing the world, attacking US forces, and killing people with IEDs. The plan, referred to as 'Operation Epic Fury', involves targeting Iran's military and industrial base to prevent future attacks on Americans and their allies.",
+  "emojis_present": [],
+  "audio_music": "A continuous, serious, and ominous instrumental score plays throughout the video, under all the dialogue. The track changes multiple times, maintaining a dramatic and tense mood consistent with the topic of military action and national security.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different speakers in various settings. A consistent visual treatment, including a dark, cool color grade and a scanline filter, is applied to all clips, giving it a stylized and cohesive look.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "determination",
+    "urgency",
+    "threat"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration is taking decisive military and strategic action to destroy Iran's terrorist proxies and neutralize its capacity to harm American interests.",
+  "intended_effect": "To convince the audience that the administration is strong, proactive, and effective in confronting foreign threats, particularly from Iran.",
+  "uncertainty_flags": [
+    "The identity of the US Air Force officer is not confirmed.",
+    "The identity of the commentator on Fox News is not confirmed."
+  ]
+}

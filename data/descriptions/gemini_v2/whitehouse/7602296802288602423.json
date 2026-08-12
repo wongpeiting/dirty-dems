@@ -1,0 +1,108 @@
+{
+  "video_id": "7602296802288602423",
+  "visual_action": "A fast-paced montage of photos and short video clips shows Donald Trump in various settings: posing with supporters, with Melania Trump watching fireworks, laughing at a bill signing, shaking hands with a UFC fighter in an octagon, at a large outdoor rally with the Washington Monument in the background, signing documents in the Oval Office, speaking at an event about the Middle East, dancing on stage, speaking from a White House balcony, and sitting in front of a blue backdrop with the words \"PEACE\" and \"ALASKA 2025\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Visible in nearly every frame of the montage, he is the central subject of the video."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Seen from behind standing next to Donald Trump watching fireworks."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID; partially visible in the first photo of the montage."
+    },
+    {
+      "name": "John Ratcliffe",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified via authoritative face-ID; visible in the background of one of the event photos."
+    },
+    {
+      "name": "UFC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The letters \"UFC\" are visible on the glove of a fighter shaking hands with Donald Trump."
+    },
+    {
+      "name": "unnamed UFC fighter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An unnamed fighter is shown shaking hands with Donald Trump inside a UFC octagon."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "📸 Pause on your favorite pose ",
+      "role": "caption"
+    },
+    {
+      "text": "MIDDLE EAST",
+      "role": "overlay"
+    },
+    {
+      "text": "PEACE",
+      "role": "overlay"
+    },
+    {
+      "text": "ALASKA 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "PURSUING PEACE",
+      "role": "overlay"
+    },
+    {
+      "text": "SEAL OF THE PRESIDENT OF THE UNITED STATES",
+      "role": "other"
+    },
+    {
+      "text": "UFC",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A male voice chants a word that sounds like \"Pose\" or \"Post\" repeatedly over a hip-hop beat, along with the word \"photoshoot.\"",
+  "emojis_present": [
+    "📸"
+  ],
+  "audio_music": "An energetic, upbeat viral TikTok hip-hop track plays throughout. The music consists of a strong beat and a repetitive male vocal chant, creating a 'hype' mood that drives the fast-paced visual montage.",
+  "editing_pacing": "The video is a rapid montage of still photos and short clips with very fast cuts synchronized to the beat of the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Hype",
+    "Confidence",
+    "Patriotism"
+  ],
+  "cultural_references": [
+    "The video uses a viral TikTok audio track, a common internet trend.",
+    "Features an appearance with a UFC fighter, referencing the popular mixed martial arts organization."
+  ],
+  "central_claim": "Donald Trump is a popular, charismatic, and effective leader, associated with strength, high-profile events, and peace initiatives.",
+  "intended_effect": "To generate excitement and support for Donald Trump by showcasing a highlight reel of his powerful and popular moments.",
+  "uncertainty_flags": [
+    "The audio transcript notes the repeated word as 'Post', but given the visual context and the word 'photoshoot', it is likely intended to be 'Pose'.",
+    "The visual identification of JD Vance and John Ratcliffe is based on provided metadata and they are not prominently featured in the video."
+  ]
+}

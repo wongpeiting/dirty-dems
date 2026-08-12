@@ -1,0 +1,55 @@
+{
+  "video_id": "7566406017978731831",
+  "visual_action": "Across all 8 keyframes, a large man wearing a Philadelphia Eagles athletic long-sleeve shirt, black jogger pants, and white sneakers stands in what appears to be a locker-room shower hallway (white tile walls, shower fixtures, soap dispensers visible). His natural head/face is replaced with a digitally superimposed cutout image of a heavyset man wearing a blue hoodie over a blue dress shirt and pink/magenta tie — the cutout floats above the Eagles shirt with a visible blue rectangular border, clearly an AR/face-swap overlay effect. The man's body remains static and facing forward throughout. The overlay image of the face/hoodie/suit combo bobs or shifts slightly frame to frame, suggesting it is an animated or AR filter rather than a static photoshop. The lower third consistently displays the overlay text \"HE CRUSHED THE HALO THEME SONG 😂🤝\".",
+  "cast": [
+    {
+      "name": "unnamed Eagles-shirt man (body)",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Person wearing Philadelphia Eagles shirt visible throughout all frames; identity not established beyond team apparel"
+    },
+    {
+      "name": "unnamed person (face overlay / hoodie-suit cutout)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A digitally superimposed cutout of a heavyset man in a blue hoodie over a blue dress shirt and pink tie is placed over the standing person's head; the caption and overlay text 'HE CRUSHED THE HALO THEME SONG' refer to this individual as the subject; the @whitehouse account caption says 'VP absolutely crushed', implying this may be the Vice President, but the face is not independently identifiable with certainty"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "HE CRUSHED THE HALO THEME SONG 😂🤝",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The Whisper transcript captures only repeated \"OM OM OM OM\" sounds, consistent with someone vocally performing the iconic Gregorian-chant-style Halo (video game) theme song. No other spoken dialogue is audible.",
+  "emojis_present": [
+    "😂",
+    "🤝"
+  ],
+  "audio_music": "Original sound consisting of a person vocally performing the Halo (Bungie/343 Industries video game franchise) theme song — represented in the transcript as repeated \"OM\" chants, mimicking the iconic Gregorian choir opening of the Halo theme. No background music track.",
+  "editing_pacing": "Static talking-head/slideshow style; the camera is fixed and the subject stands still throughout all 8 frames. The main visual dynamism comes from the animated face-swap/AR overlay shifting slightly between frames. Minimal editing — essentially a single continuous static shot.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A digitally superimposed cutout — showing a heavyset man's face wearing a blue hoodie layered over a blue dress shirt and pink tie — is overlaid on top of the standing person's actual head. The cutout has a visible blue rectangular border and floats/bobs above the body, clearly an AR filter or digital face-swap effect rather than the subject's real appearance. This appears to be a humorous/novelty overlay used for comedic effect rather than a deceptive deepfake, but it is a deliberate visible visual manipulation of the subject's appearance.",
+  "emotions_signaled": [
+    "amusement — signaled by the 😂 emoji and the word 'crushed' used in a celebratory/funny context",
+    "admiration/hype — signaled by the 🤝 clapping/handshake emoji and the framing of the performance as impressive",
+    "surprise/delight — the juxtaposition of a political figure performing a video game theme song in a locker room setting"
+  ],
+  "cultural_references": [
+    "Halo video game franchise theme song (Bungie/343 Industries) — the iconic Gregorian chant opening, being vocally performed",
+    "Locker room / team facility setting invoking NFL/sports culture (Philadelphia Eagles apparel)",
+    "AR face-swap / funny overlay filter format common on TikTok"
+  ],
+  "central_claim": "An individual identified in the caption as the Vice President impressively performed a vocal rendition of the Halo video game theme song.",
+  "intended_effect": "Generate amusement and positive/relatable feelings toward the Vice President by showing them doing something unexpectedly fun and geeky (singing the Halo theme), positioning the VP as personable and entertaining.",
+  "uncertainty_flags": [
+    "The identity of the person whose face is shown in the overlay cutout cannot be independently confirmed from the visual alone — the @whitehouse caption says 'VP absolutely crushed' suggesting this is the Vice President, but the face in the overlay is not recognizable with certainty.",
+    "It is unclear whether the body (Eagles shirt) and the face (overlay) belong to the same person or are two different individuals combined via the AR effect.",
+    "The specific Vice President being referenced is ambiguous given the post date context (could be VP Harris or VP Vance depending on timing); the account is @whitehouse which as of Jan 2025 would be the Trump administration.",
+    "The Whisper transcript only captures 'OM OM OM OM' — it is unclear if any other speech or audio occurs in the full video beyond what is captured in these keyframes."
+  ]
+}

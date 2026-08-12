@@ -1,0 +1,152 @@
+{
+  "video_id": "7631977388389207310",
+  "visual_action": "A split-screen interview is shown. On the left, Steve Bannon listens and smiles while wearing headphones. On the right, an East Asian man in a blue polo shirt speaks in front of a backdrop for 'Patrick Henry College'. As he speaks, he makes a gesture near his eyes with his index fingers to illustrate 'slits'. Chyrons for 'Real America's Voice' and 'War Room' are visible at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Steve Bannon",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible on the left side of the split-screen interview, identified by face recognition."
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The man on the right side of the split-screen who makes the controversial comment that is the focus of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text at the top of the video refers to the speaker as 'Trump's new Navy chief'."
+    },
+    {
+      "name": "Ku Klux Klan",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text at the top explicitly mentions a 'KKK hood'."
+    },
+    {
+      "name": "US Navy",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The overlay text identifies the speaker as the potential 'new Navy chief'."
+    },
+    {
+      "name": "Real America's Voice",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for 'REAL AMERICA'S VOICE' is visible in the chyron."
+    },
+    {
+      "name": "War Room",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'WAR ROOM' logo is visible in the chyron, identifying the program."
+    },
+    {
+      "name": "Patrick Henry College",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name of the college is on the backdrop behind the speaker."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WTF: Trump's new Navy chief asks for a KKK hood with “slits” in the eyes 😬",
+      "role": "overlay"
+    },
+    {
+      "text": "FOLLOW US ON SOCIAL MEDIA",
+      "role": "chyron"
+    },
+    {
+      "text": "Twitter: @RealAmVoice | Gettr: @WarRoom",
+      "role": "chyron"
+    },
+    {
+      "text": "BUT I HAVE ONE",
+      "role": "caption"
+    },
+    {
+      "text": "ASK FOR THEM,",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S JUST WHEN YOU",
+      "role": "caption"
+    },
+    {
+      "text": "GIVE ME MY HOOD,",
+      "role": "caption"
+    },
+    {
+      "text": "MAKE SURE IT'S GOT THE",
+      "role": "caption"
+    },
+    {
+      "text": "LITTLE SLITS AND NOT THE",
+      "role": "caption"
+    },
+    {
+      "text": "CIRCLES SO I CAN",
+      "role": "caption"
+    },
+    {
+      "text": "SEE BETTER.",
+      "role": "caption"
+    },
+    {
+      "text": "REAL AMERICA'S VOICE",
+      "role": "chyron"
+    },
+    {
+      "text": "WAR ROOM",
+      "role": "chyron"
+    },
+    {
+      "text": "PATRICK HENRY COLLEGE",
+      "role": "other"
+    },
+    {
+      "text": "There are no conspiracies but there are no coincidences",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "In an interview with Steve Bannon, a man says, \"I have one ask for them. It's just when you give me my hood, make sure it's got the little slits and not the circles so I can see better.\" The comment is framed by on-screen text as a request for a 'KKK hood' and appears to be a racist joke referencing the speaker's own East Asian ethnicity.",
+  "emojis_present": [
+    "😬"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the interview clip, with no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a split-screen interview with no edits, cuts, or zooms.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "disbelief",
+    "mockery",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "A man identified as Donald Trump's potential new Navy chief made a racist joke on Steve Bannon's show referencing a KKK hood and his own eyes.",
+  "intended_effect": "To generate outrage and portray the speaker, Steve Bannon, and Donald Trump as tolerant of or engaged in racism.",
+  "uncertainty_flags": [
+    "The identity of the speaker and his purported role as 'Trump's new Navy chief' are asserted by the on-screen text but not independently verified within the video clip itself."
+  ]
+}

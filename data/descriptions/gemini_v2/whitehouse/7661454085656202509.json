@@ -1,0 +1,71 @@
+{
+  "video_id": "7661454085656202509",
+  "visual_action": "The video starts with a rapid montage of different people, including Donald Trump, saying the word \"chips.\" It then shows a bag of potato chips, with the text \"NOT THOSE CHIPS...\" appearing as the video turns to black and white. This is followed by a montage of Donald Trump walking in a hallway, standing outdoors, and speaking at a rally. Over these clips, text overlays appear, resembling news headlines on torn paper, detailing large-scale investments in US semiconductor chip manufacturing.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure shown in the montage, and the on-screen text presents massive investments in chip manufacturing as a major achievement of his."
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An unidentified man in a checkered shirt appears at the very beginning of the video, saying \"chips.\""
+    },
+    {
+      "name": "Apple",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An on-screen text overlay reads: \"Apple to invest $30 billion in US chip manufacturing.\""
+    },
+    {
+      "name": "Micron",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An on-screen text overlay reads: \"Micron boosts US investment plan again, commits $250 billion through 2035.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NOT THOSE CHIPS...",
+      "role": "overlay"
+    },
+    {
+      "text": "Apple to invest $30 billion in US chip manufacturing",
+      "role": "overlay"
+    },
+    {
+      "text": "Micron boosts US investment plan again, commits $250 billion through 2035",
+      "role": "overlay"
+    },
+    {
+      "text": "America's Chip Resurgence: Over $640 Billion in Semiconductor Supply Chain Investments",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a rapid sequence of different voices saying the single word \"chips\" several times at the beginning of the video. There is no other dialogue.",
+  "emojis_present": [],
+  "audio_music": "The video begins with spoken audio. At the 3-second mark, a record-scratch sound effect plays, followed by the introduction of an upbeat, confident hip-hop track with a prominent beat. This music continues for the remainder of the video, creating a powerful and celebratory mood for the montage.",
+  "editing_pacing": "The video starts with very fast cuts. The main section is a montage of clips of Donald Trump with text overlays, edited at a moderate pace.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "accomplishment",
+    "humor"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's administration spurred hundreds of billions of dollars in investments, leading to a major resurgence in America's semiconductor chip manufacturing industry.",
+  "intended_effect": "To make viewers feel proud of Donald Trump's economic achievements and credit him for strengthening American industry.",
+  "uncertainty_flags": []
+}

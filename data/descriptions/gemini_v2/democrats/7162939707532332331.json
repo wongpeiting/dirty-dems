@@ -1,0 +1,56 @@
+{
+  "video_id": "7162939707532332331",
+  "visual_action": "A fast-paced slideshow displays official portraits of various male politicians smiling while standing in front of an American flag. A red text box is overlaid on every image throughout the video.",
+  "cast": [
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Every House Republican voted against creating a fairer tax system 😫😤'."
+    },
+    {
+      "name": "Austin Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face appears in the slideshow of politicians."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face appears in the slideshow of politicians."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Every House Republican voted against creating a fairer tax system 😫😤",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists only of a sound effect.",
+  "emojis_present": [
+    "😫",
+    "😤"
+  ],
+  "audio_music": "A continuous, high-pitched, and frantic screeching sound effect, similar to an alarm or chaotic bird chirping, plays throughout the video. The effect is jarring and designed to be annoying.",
+  "editing_pacing": "A fast-paced slideshow with rapid cuts between still portrait photos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "frustration",
+    "anger",
+    "annoyance"
+  ],
+  "cultural_references": [],
+  "central_claim": "Every House Republican voted against creating a fairer tax system.",
+  "intended_effect": "To generate anger and disapproval towards House Republicans for their stance on taxes.",
+  "uncertainty_flags": [
+    "The identities of several politicians shown in the slideshow, other than those identified in the context, are unknown."
+  ]
+}

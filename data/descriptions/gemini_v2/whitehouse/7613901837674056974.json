@@ -1,0 +1,65 @@
+{
+  "video_id": "7613901837674056974",
+  "visual_action": "In what appears to be a room in the White House, Donald Trump stands at a presidential podium giving a speech. Behind him and to his left stands a large group of men in matching dark suits, appearing to be a sports team. Soccer player Lionel Messi is digitally superimposed into the scene, standing still to the far left of the group. Trump gestures toward the group as he speaks, and they react by shouting and clapping.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the central figure shown speaking at a podium for the entire duration of the video."
+    },
+    {
+      "name": "Lionel Messi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually, though artificially, present and is named in the on-screen text, 'Who is better... Pelé or Messi?!'"
+    },
+    {
+      "name": "Pelé",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text, 'Who is better... Pelé or Messi?!', and is the subject of Donald Trump's speech."
+    },
+    {
+      "name": "unnamed sports team",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A large group of men in matching suits stand behind Donald Trump in a formation typical of a team being honored at the White House."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“Who is better... Pelé or Messi?!”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump speaks about the soccer player Pelé, saying, \"Pelé was pretty good.\" He then turns to the crowd behind him and asks, \"Who's better? Him or Pelé?\" The crowd shouts a response and claps enthusiastically. Trump then concludes, \"but he was pretty good, right? Pelé was pretty good.\"",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The audio consists entirely of diegetic sound: Donald Trump's voice speaking, and the sounds of a crowd reacting with shouts, laughter, and applause. There is no background music.",
+  "editing_pacing": "The video is presented as a single, static shot, but features a significant visual manipulation where one person is digitally added to the scene.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video digitally superimposes an image of soccer star Lionel Messi into a real clip of Donald Trump speaking at a White House event. This edit creates a fabricated and humorous scenario where Trump appears to be polling the audience on whether Messi or Pelé is the better player.",
+  "emotions_signaled": [
+    "Amusement",
+    "Fandom"
+  ],
+  "cultural_references": [
+    "Lionel Messi",
+    "Pelé"
+  ],
+  "central_claim": "The video fabricates a moment where Donald Trump polls a sports team at the White House on whether Lionel Messi or Pelé is the greatest soccer player of all time.",
+  "intended_effect": "To amuse the audience and portray Donald Trump in a humorous and pop-culture-aware light.",
+  "uncertainty_flags": [
+    "The identity of the original sports team featured in the unedited clip is unknown."
+  ]
+}

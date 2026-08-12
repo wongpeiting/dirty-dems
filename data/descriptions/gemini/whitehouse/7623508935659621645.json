@@ -1,0 +1,110 @@
+{
+  "video_id": "7623508935659621645",
+  "visual_action": "A woman with blonde hair wearing a pink floral jacket speaks from the podium in the White House press briefing room. She holds up a sheet of paper that shows a photo of another woman and lists the airtime several news networks dedicated to her story. The video ends with the White House logo on a black screen.",
+  "cast": [
+    {
+      "name": "Unnamed female official",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A woman in a pink floral jacket speaks at the White House podium for the entire video."
+    },
+    {
+      "name": "Sheridan Gorman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker repeatedly names her, describes her murder, and shows her photo on a document. The caption also names her."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker says \"it's despicable that Democrats are currently defunding the department\" and later refers to \"the Democrat Party, who wants to defund the agency.\""
+    },
+    {
+      "name": "Unnamed Venezuelan immigrant",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker identifies the alleged murderer as an \"illegal alien from Venezuela.\""
+    },
+    {
+      "name": "Mainstream Media",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "An on-screen text overlay reads \"Mainstream Media Won’t Cover the Murder\" and the speaker critiques the lack of media coverage."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker names the organization and cites its coverage time: \"You have ABC News has spent one minute and 19 seconds.\""
+    },
+    {
+      "name": "CBS",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker names the organization and cites its coverage time: \"You have CBS two minutes in one second.\""
+    },
+    {
+      "name": "NBC",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker names the organization and cites its coverage time: \"You have NBC 23 seconds.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Sheridan Gorman’s life was worth far more than 23 seconds on cable tv.",
+      "role": "caption"
+    },
+    {
+      "text": "Mainstream Media Won’t Cover the Murder of a Young Woman by an Illegal Alien",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE\nWASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "SHERIDAN GORMAN\n[logo] ABC NEWS 1 MINUTE 19 SECONDS\n[logo] CBS 2 MINUTES 1 SECOND\n[logo] NBC NEWS 23 SECONDS",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A White House official speaks about the murder of Sheridan Gorman, a young woman in Chicago, allegedly by an \"illegal alien from Venezuela.\" She calls it \"despicable\" that Democrats are trying to defund the agency responsible for deportations. She also criticizes the mainstream media for insufficient coverage of the case, holding up a document showing that ABC News, CBS, and NBC devoted very little time to the story, with NBC giving it only \"23 seconds.\"",
+  "emojis_present": [],
+  "audio_music": "Original speech",
+  "editing_pacing": "Static talking-head",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Anger",
+    "Fear",
+    "Sympathy"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic Party and the mainstream media are failing to protect and value American lives, as evidenced by their responses to the murder of Sheridan Gorman by an undocumented immigrant.",
+  "intended_effect": "To provoke anger towards Democrats and the media, generate fear about immigration, and build support for the administration's policies.",
+  "uncertainty_flags": [
+    "The identity of the female official speaking is not provided."
+  ]
+}

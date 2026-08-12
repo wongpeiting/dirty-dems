@@ -1,0 +1,82 @@
+{
+  "video_id": "7515167972021783854",
+  "visual_action": "Senator Alex Padilla speaks to the press outdoors. A CNN 'Breaking News' chyron is displayed at the bottom of the screen, describing an incident where Padilla was allegedly forcibly removed from a DHS news conference.",
+  "cast": [
+    {
+      "name": "Alex Padilla",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen text reads \"Senator Padilla\" and \"SEN. PADILLA\"."
+    },
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The top overlay text states the incident occurred after Padilla was \"asking Kristi Noem questions\"."
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Padilla says, \"If this is how the Department of Homeland Security responds...\". A chyron also refers to a \"DHS NEWS CONFERENCE\"."
+    },
+    {
+      "name": "The current administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Padilla states, \"We will hold this administration accountable.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Senator Padilla after being tackled and handcuffed for asking Kristi Noem questions:",
+      "role": "meme_text"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN. PADILLA SAYS HE WAS FORCED TO THE GROUND, HANDCUFFED AS HE WAS FORCIBLY REMOVED FROM DHS NEWS CONFERENCE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN NEWS CENTRAL",
+      "role": "chyron"
+    },
+    {
+      "text": "Los Angeles 12:26 PM PT",
+      "role": "chyron"
+    },
+    {
+      "text": "IF THIS IS HOW THE DEPARTMENT OF HOMELAND SECURITY RESPONDS TO A SENATOR WITH A QUESTION YOU CAN ONLY IMAGINE WHAT THEY'RE DOING TO FARM WORKERS, TO COOKS, TO DAY LABORERS OUT IN THE LOS ANGELES COMMUNITY AND THROUGHOUT CALIFORNIA AND THROUGHOUT THE COUNTRY. WE WILL HOLD THIS ADMINISTRATION ACCOUNTABLE.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Senator Alex Padilla suggests that the Department of Homeland Security (DHS) mistreats people. He asks, \"If this is how the Department of Homeland Security responds to a senator with a question, you can only imagine what they're doing to farm workers, to cooks, to day laborers...\" He vows to \"hold this administration accountable.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Senator Padilla's spoken words, with background noise typical of an outdoor press conference. There is no music.",
+  "editing_pacing": "The video is a single, static shot of a person speaking (talking-head style). The primary editing consists of animated text overlays appearing in sync with the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Department of Homeland Security under the current administration uses excessive and abusive force, indicated by an incident involving Senator Padilla, which suggests far worse treatment for vulnerable groups like immigrant workers.",
+  "intended_effect": "To generate anger and concern over the actions of the Department of Homeland Security and the administration it operates under.",
+  "uncertainty_flags": []
+}

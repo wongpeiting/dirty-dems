@@ -1,0 +1,75 @@
+{
+  "video_id": "7621608560379579679",
+  "visual_action": "The video opens with a close-up of a woman wearing a congressional pin and a lapel microphone, speaking at what appears to be an official or televised event. The second frame shows a panel discussion setting with a logo partially visible (\"M...\" likely Munich Security Conference), featuring a bald man in a navy suit with a pink tie and a woman in red seated across from him. The third frame shows the same woman from the opening, now desaturated/black-and-white and blurred, with the overlay text \"Wanna Get Away?\" The following frames show heavily scan-lined, VHS/surveillance-style footage of large crowds of travelers in what appear to be airport terminals — crowded security lines, baggage claim areas, and corridors. One frame shows a close-up of a screen or sign reading \"[Sec]urity Check[point]\" and \"[Tem]pora[ry] Close[d]\" with \"AS OF 3/12/2026,\" visible at the bottom. The final frames continue with crowded airport B-roll footage with the same VHS/scan-line aesthetic.",
+  "cast": [
+    {
+      "name": "unnamed congresswoman",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A woman wearing what appears to be a congressional lapel pin appears in the opening and blurred third frame; her identity is not confirmed by on-screen text or audio, but the editorial framing ties her to the 'Democrats' referenced in the narration."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Narration states: 'Democrats are making flying an awful experience for travelers' and 'until the Democrats decide to reopen the government' and 'Thank a Democrat today.'"
+    },
+    {
+      "name": "unnamed bald man at panel",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in second frame at a panel discussion setting; identity not confirmed."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Wanna Get Away?",
+      "role": "overlay"
+    },
+    {
+      "text": "urity Checki",
+      "role": "other"
+    },
+    {
+      "text": "MPORA CLOSE",
+      "role": "other"
+    },
+    {
+      "text": "AS OF 3/12/2026,",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio narration opens with a woman's voice saying, \"This is such a, you know, I think that this is a, this is, of course, a very long-standing policy.\" A second voiceover (announcer-style) then says: \"Want to get away? Too bad. In many airports, Democrats are making flying an awful experience for travelers. Expect continued growing TSA lines and unpaid staff until the Democrats decide to reopen the government. Thank a Democrat today.\"",
+  "emojis_present": [
+    "✈️"
+  ],
+  "audio_music": "Original sound; no music. Opens with a clip of a woman speaking (sounding uncertain/stammering), then transitions to a clear, authoritative male-style announcer narration blaming Democrats for airport disruptions. The juxtaposition of the halting quote against the punchy narration is deliberate.",
+  "editing_pacing": "Fast-cut structure: close-up of the congresswoman speaking → panel discussion B-roll → blurred/desaturated freeze-frame of same woman with overlay text → multiple VHS/scan-line filtered shots of crowded airports and a \"Temporarily Closed\" security checkpoint sign. The VHS filter and scan lines give the airport footage an alarming, chaotic aesthetic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "frustration — VHS-filtered footage of long airport lines and closed security checkpoints",
+    "blame/accountability — narration explicitly directs viewers to 'Thank a Democrat today'",
+    "mockery — the Southwest Airlines 'Wanna Get Away?' advertising slogan applied to Democratic politicians via the overlay text and caption",
+    "anxiety — crowded, chaotic airport imagery paired with language about 'unpaid staff' and growing lines"
+  ],
+  "cultural_references": [
+    "Southwest Airlines 'Wanna Get Away?' advertising campaign — the slogan and ✈️ emoji in the caption directly invoke this well-known ad series to mock the subject",
+    "VHS/surveillance aesthetic — used to evoke chaotic, alarming imagery of airport congestion"
+  ],
+  "central_claim": "Democrats caused a government shutdown that closed TSA security checkpoints, created long airport lines, and left TSA staff unpaid, making air travel miserable for Americans.",
+  "intended_effect": "Viewers should blame Democrats for airport chaos and travel disruption resulting from a government shutdown, framed humorously via the Southwest Airlines \"Wanna Get Away?\" ad slogan but with a serious accusatory message.",
+  "uncertainty_flags": [
+    "The identity of the congresswoman shown in the opening and blurred frame is not confirmed by on-screen text or audio; she appears to be a Democratic member of Congress but cannot be positively identified from the frames provided.",
+    "The sign reading 'Temporarily Closed AS OF 3/12/2026' appears to be authentic airport/TSA signage shown as B-roll, but it is partially cropped and its full context is unclear.",
+    "The identity of the bald man in the panel discussion scene is unknown.",
+    "The panel discussion backdrop logo is partially obscured; it may be the Munich Security Conference but cannot be confirmed.",
+    "The date 3/12/2026 on the TSA closure sign is after the knowledge cutoff; treated as real per instructions, but flagged for human review."
+  ]
+}

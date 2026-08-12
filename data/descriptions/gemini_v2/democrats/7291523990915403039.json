@@ -1,0 +1,70 @@
+{
+  "video_id": "7291523990915403039",
+  "visual_action": "The video shows a slideshow of two screenshots of Bloomberg news articles. The first, dated October 17, 2022, has the headline \"Forecast for US Recession Within Year Hits 100% in Blow to Biden\". The video then cuts to a second screenshot, dated exactly one year later on October 17, 2023, with the headline \"US Economic Data Keep Coming In Stronger and Defying Forecasts\".",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is named in the first on-screen headline: \"...Blow to Biden\". The audio also features his voice."
+    },
+    {
+      "name": "Bloomberg",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news organization's name appears at the top of the two article screenshots shown in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Bloomberg",
+      "role": "other"
+    },
+    {
+      "text": "Politics | Economics",
+      "role": "other"
+    },
+    {
+      "text": "Forecast for US Recession Within Year Hits 100% in Blow to Biden",
+      "role": "overlay"
+    },
+    {
+      "text": "October 17, 2022",
+      "role": "overlay"
+    },
+    {
+      "text": "Economics",
+      "role": "other"
+    },
+    {
+      "text": "US Economic Data Keep Coming In Stronger and Defying Forecasts",
+      "role": "overlay"
+    },
+    {
+      "text": "October 17, 2023",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A man, presumed to be Joe Biden, delivers a triumphant speech snippet, saying: \"We are America! Second to none! And we own the finish line!\"",
+  "emojis_present": [],
+  "audio_music": "The video opens with a clip of a political speech over faint crowd noise. After the speaker's final line, a triumphant and modern hip-hop track begins and plays for the remainder of the video.",
+  "editing_pacing": "The video is a simple slideshow, consisting of a single, quick cut between two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "vindication",
+    "optimism",
+    "triumph"
+  ],
+  "cultural_references": [],
+  "central_claim": "Despite dire media predictions of a recession, the U.S. economy under President Biden has proven to be strong and has defied negative forecasts.",
+  "intended_effect": "To instill confidence and pride in the Biden administration's economic performance and to discredit pessimistic economic predictions.",
+  "uncertainty_flags": [
+    "The provided whisper transcript was empty, but the audio clearly contains a short speech which was transcribed manually."
+  ]
+}

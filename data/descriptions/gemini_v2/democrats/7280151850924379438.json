@@ -1,0 +1,97 @@
+{
+  "video_id": "7280151850924379438",
+  "visual_action": "The video shows a static screenshot of a tweet from Kevin McCarthy dated September 24, 2019. It then cuts to a second static screenshot of a tweet from Jake Sherman dated September 12, 2023. In both screenshots, key phrases and the dates are circled in red to draw the viewer's attention.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His tweet from 2019 is shown, and the 2023 news report is about his actions regarding an impeachment inquiry."
+    },
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in Kevin McCarthy's 2019 tweet: 'Speaker Pelosi can't decide on impeachment unilaterally.'"
+    },
+    {
+      "name": "House of Representatives",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in both tweets as the body responsible for impeachment votes."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced as 'Dems' in Kevin McCarthy's 2019 tweet."
+    },
+    {
+      "name": "Jake Sherman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Author of the second tweet shown, reporting on the House impeachment inquiry."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced as 'House Rs' in Jake Sherman's 2023 tweet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kevin McCarthy @SpeakerMcCarthy",
+      "role": "other"
+    },
+    {
+      "text": "Here are the facts:\n1. Speaker Pelosi can't decide on impeachment unilaterally. It requires a full vote of the House of Representatives.\n2. The House has voted three times on articles of impeachment. Each vote failed.\n3. For Dems, this is all about politics. Not about facts.",
+      "role": "other"
+    },
+    {
+      "text": "7:19 PM Sep 24, 2019",
+      "role": "other"
+    },
+    {
+      "text": "Jake Sherman @JakeSherman",
+      "role": "other"
+    },
+    {
+      "text": "NEWS — House is NOT expected to vote on an impeachment inquiry, sources tell me. They will open the inquiry without a vote. This would've been a tough vote for House Rs.\nMcCarthy will announce this shortly at his news conference",
+      "role": "other"
+    },
+    {
+      "text": "11:19 AM Sep 12, 2023 593.8K Views",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A female voice says, \"That's suspicious,\" over the first tweet, and after a pause, says, \"That's weird,\" over the second tweet.",
+  "emojis_present": [],
+  "audio_music": "A popular meme audio clip of a female voice saying \"That's suspicious... That's weird,\" is used to imply hypocrisy or a strange coincidence.",
+  "editing_pacing": "A simple slideshow consisting of two static images shown sequentially.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "The 'That's suspicious... that's weird' meme audio clip."
+  ],
+  "central_claim": "Kevin McCarthy is hypocritical for demanding a full House vote for impeachment in 2019 when Democrats were in control, but initiating an impeachment inquiry without a vote in 2023 when he was Speaker.",
+  "intended_effect": "To portray Kevin McCarthy as a hypocrite whose stance on impeachment procedures changes based on political convenience.",
+  "uncertainty_flags": []
+}

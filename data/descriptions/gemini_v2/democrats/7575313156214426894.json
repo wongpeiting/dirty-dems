@@ -1,0 +1,75 @@
+{
+  "video_id": "7575313156214426894",
+  "visual_action": "A series of video clips shows Donald Trump in the Oval Office with Zohran Mamdani. Trump is seated at his desk speaking, while Mamdani stands beside him. In one shot, they shake hands. On-screen text attributes quotes to Trump praising Mamdani.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Visually present throughout the video, seated in the Oval Office. Fabricated quotes are attributed to him via on-screen text."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visually present with Trump and named in the on-screen text 'Trump after meeting with Zohran Mamdani'. The fabricated quotes are about him."
+    },
+    {
+      "name": "RSBN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The RSBN logo appears on screen as a watermark on some of the clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump after meeting with Zohran Mamdani:",
+      "role": "overlay"
+    },
+    {
+      "text": "WASHINGTON, D.C.",
+      "role": "chyron"
+    },
+    {
+      "text": "I met with a man who is a very rational person. I met with a man who really wants to see New York be great again.",
+      "role": "overlay"
+    },
+    {
+      "text": "Would you feel comfortable living in New York City under a Mamdani administration?",
+      "role": "overlay"
+    },
+    {
+      "text": "Yes. I really would, especially after the meeting. Absolutely.",
+      "role": "overlay"
+    },
+    {
+      "text": "I feel very confident that he can do a very good job. I think he is going to surprise some conservative people, actually.",
+      "role": "overlay"
+    },
+    {
+      "text": "RSBN",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video's audio consists of a calm instrumental track overlaid with a repeating vocal sample of a male voice saying 'Thank you'. The quotes attributed to Donald Trump in the on-screen text are not spoken.",
+  "emojis_present": [],
+  "audio_music": "A calm, gentle instrumental track plays throughout. A repeating vocal sample of a male voice saying 'Thank you' is overlaid on the music. The overall effect is placid, creating an ironic contrast with the political subject matter.",
+  "editing_pacing": "The video is a slow-paced slideshow of a few video clips, each held for several seconds to allow the on-screen text to be read.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video uses real footage of Donald Trump and Zohran Mamdani but superimposes fabricated subtitles quoting Trump as enthusiastically endorsing Mamdani. The video's actual audio does not contain this dialogue, creating a satirical and false representation of events.",
+  "emotions_signaled": [
+    "satire",
+    "mockery",
+    "amusement"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video satirically fabricates a scenario in which Donald Trump praises and endorses Democratic Socialist politician Zohran Mamdani.",
+  "intended_effect": "To amuse the audience and mock Donald Trump by presenting him in an absurd, fabricated scenario where he praises a political opponent.",
+  "uncertainty_flags": []
+}

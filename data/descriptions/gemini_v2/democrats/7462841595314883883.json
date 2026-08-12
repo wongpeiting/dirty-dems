@@ -1,0 +1,98 @@
+{
+  "video_id": "7462841595314883883",
+  "visual_action": "The video shows a clip from a C-SPAN broadcast of a congressional hearing. Senator Bernie Sanders is shown at a dais, speaking and gesturing. The video then cuts to Russell Vought, a nominee, speaking at a witness table. The video cuts back and forth between the two men as they engage in a question-and-answer exchange in a formal committee hearing room.",
+  "cast": [
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is identified by face recognition and a C-SPAN chyron that reads \"SEN. BERNIE SANDERS\". He is shown questioning the nominee."
+    },
+    {
+      "name": "Russell Vought",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is identified by face recognition and a C-SPAN chyron that reads \"HON. RUSSELL VOUGHT\". He is shown answering questions."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text at the top of the video reads, \"Wow.... Trump nominee refuses to say that health care is a human right\", identifying Vought as his nominee."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Wow.... Trump nominee refuses to say that health care is a human right",
+      "role": "overlay"
+    },
+    {
+      "text": "SEN. BERNIE SANDERS\nI-Vermont",
+      "role": "chyron"
+    },
+    {
+      "text": "WHITE HOUSE BUDGET DIRECTOR CONFIRMATION",
+      "role": "chyron"
+    },
+    {
+      "text": "HON. RUSSELL VOUGHT",
+      "role": "chyron"
+    },
+    {
+      "text": "BUT MY QUESTION TO YOU, IT'S A SIMPLE ONE.",
+      "role": "caption"
+    },
+    {
+      "text": "HEALTH CARE IS A HUMAN RIGHT.",
+      "role": "caption"
+    },
+    {
+      "text": "SENATOR, I THINK IT'S IMPORTANT TO",
+      "role": "caption"
+    },
+    {
+      "text": "BUT YOU DIDN'T ANSWER MY QUESTION.",
+      "role": "caption"
+    },
+    {
+      "text": "IS A SIMPLE QUESTION. IN AMERICA,",
+      "role": "caption"
+    },
+    {
+      "text": "HEALTH CARE IS A HUMAN RIGHT?",
+      "role": "caption"
+    },
+    {
+      "text": "SENATOR, I THINK THE PRESIDENT HAS",
+      "role": "caption"
+    },
+    {
+      "text": "DO YOU THINK THAT HEALTH CARE IS A HUMAN RIGHT",
+      "role": "caption"
+    },
+    {
+      "text": "I BELIEVE THE ROLE OF THE OFFICE",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Senator Bernie Sanders repeatedly asks Russell Vought, a nominee for White House Budget Director, if he believes healthcare is a human right. Vought avoids giving a direct yes-or-no answer, instead stating the importance of \"evidence-based outcomes\" and implementing the president's policy agenda. Sanders becomes frustrated, pointing out several times that Vought is not answering the simple question.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of the spoken dialogue from the congressional hearing, with no background music or added sound effects.",
+  "editing_pacing": "The video uses simple cuts back and forth between the two speakers, following the conversation in a standard talking-head format.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's nominee for White House Budget Director, Russell Vought, refuses to state whether he believes healthcare is a human right.",
+  "intended_effect": "To generate criticism of Russell Vought and the Trump administration for their perceived stance on healthcare.",
+  "uncertainty_flags": []
+}

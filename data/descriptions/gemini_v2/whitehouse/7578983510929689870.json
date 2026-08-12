@@ -1,0 +1,86 @@
+{
+  "video_id": "7578983510929689870",
+  "visual_action": "A fast-paced montage of clips. It begins with a woman at a protest holding a sign that reads 'ICE OUT OF CHI'. The video then cuts between various people in outdoor settings, including a woman dancing in a parking lot and another taking a selfie-style video. These are intercut with scenes of law enforcement officers, some with 'POLICE' on their vests, arresting several individuals. The arrests are physical, with officers handcuffing people, holding them on the ground, and one officer chasing a person along a fenced walkway. The video concludes with a black screen showing the exterior of the White House and text that reads 'THE WHITE HOUSE'. Some of the individuals being arrested have their faces blurred.",
+  "cast": [
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video ends with a title card reading 'THE WHITE HOUSE', and the account that posted the video is '@whitehouse'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A protest sign at the beginning of the video explicitly reads 'ICE OUT OF CHI'. The subsequent scenes show law enforcement actions consistent with immigration enforcement."
+    },
+    {
+      "name": "Unnamed law enforcement officers",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Multiple individuals in tactical gear and uniforms are shown arresting people. One officer's vest has the word 'POLICE' on the back."
+    },
+    {
+      "name": "Unnamed protesters",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A group of people are shown at a protest at the start of the video, with one woman prominently holding an anti-ICE sign."
+    },
+    {
+      "name": "Unnamed arrested individuals",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several individuals are shown being physically detained, handcuffed, and chased by law enforcement officers."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ICE OUT OF CHI",
+      "role": "other"
+    },
+    {
+      "text": "ALL OUR NEIGHBORHOODS",
+      "role": "other"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio consists of lyrics from the Sabrina Carpenter song 'Juno'. The lines featured are: 'I wanna try out some freaky positions', 'Have you ever tried this one?', and 'I know you want my touch for love'. The question 'Have you ever tried this one?' is repeated three times over scenes of arrests.",
+  "emojis_present": [
+    "🥰"
+  ],
+  "audio_music": "The video is set to the upbeat, poppy Sabrina Carpenter song 'Juno'. The flirty and suggestive lyrics are ironically juxtaposed with visuals of protests and law enforcement arresting people, creating a mocking and triumphant tone.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes of protest, daily life, and law enforcement actions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Mockery",
+    "Dismissiveness"
+  ],
+  "cultural_references": [
+    "Juno (song by Sabrina Carpenter)",
+    "Sabrina Carpenter"
+  ],
+  "central_claim": "The White House is confidently and effectively carrying out immigration enforcement actions, dismissing and mocking any opposition.",
+  "intended_effect": "To project an image of strength and control regarding immigration policy, while belittling opponents and rallying supporters with a sense of triumphant confidence.",
+  "uncertainty_flags": [
+    "The specific law enforcement agency is not definitively identified; a protest sign names ICE, but an officer's vest says 'POLICE'."
+  ]
+}

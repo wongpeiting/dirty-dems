@@ -1,0 +1,57 @@
+{
+  "video_id": "7256785024840764714",
+  "visual_action": "A woman stands between two American flags in front of a blue background. On-screen text asks, \"are you even patriotic?\". She smiles and opens her black blazer to reveal a white t-shirt featuring a blue graphic of Joe Biden's face. The eyes on the graphic are glowing red. The numbers '20' and '24' are printed on either side of his head on the shirt.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A graphic of his face is featured prominently on the t-shirt, alongside the years '20 24'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video was posted by the official account '@democrats'."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is the individual featured in the video performing the reveal of the t-shirt."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"are you even patriotic?\"",
+      "role": "overlay"
+    },
+    {
+      "text": "20 24",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "In response to the on-screen question, a deep, slightly distorted male voice says, \"Hell yes, I am.\"",
+  "emojis_present": [],
+  "audio_music": "A modern, upbeat hip-hop track, identified as 'American spangled banger', plays throughout the clip. The track is overlaid with a spoken line of dialogue at the beginning.",
+  "editing_pacing": "The video consists of a single, static shot focused on the woman's action.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The graphic of Joe Biden on the t-shirt has been digitally altered to make his eyes glow red, a visual element of the 'Dark Brandon' meme.",
+  "emotions_signaled": [
+    "pride",
+    "confidence",
+    "humor"
+  ],
+  "cultural_references": [
+    "Dark Brandon meme"
+  ],
+  "central_claim": "Supporting Joe Biden for president in 2024 is a patriotic act.",
+  "intended_effect": "To energize supporters by framing their vote for Biden as a confident and patriotic act, using a popular online meme.",
+  "uncertainty_flags": []
+}

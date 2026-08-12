@@ -1,0 +1,113 @@
+{
+  "video_id": "7581965275554172215",
+  "visual_action": "The video shows Donald Trump entering a formal meeting room, presumably in the White House, and sitting down at a long conference table. The video is a montage of clips from this meeting, showing Trump speaking, as well as various other attendees (some in cowboy hats) listening and speaking in turn to praise him. The video concludes with a group photo of Trump at his desk with several attendees, followed by black-and-white footage of the White House exterior and a helicopter, with \"THE WHITE HOUSE\" displayed as a title card.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown speaking about a new policy and being praised by others. He is identified by face recognition."
+    },
+    {
+      "name": "American Farmers",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about providing financial aid from tariffs to farmers, who are repeatedly mentioned by Trump and other speakers (e.g., 'how are my farmers?'). The caption also refers to 'America's Farmers'."
+    },
+    {
+      "name": "Brooke Rollins",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Identified by face recognition, she speaks and praises Trump, saying he always asks, 'how are my farmers?'"
+    },
+    {
+      "name": "Scott Bessent",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Identified by face recognition, he thanks Trump for putting farmers first with a 'pro-farmer agenda'."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman at the meeting speaks, saying, 'We appreciate what you've done today.'"
+    },
+    {
+      "name": "unnamed man with glasses",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man at the meeting speaks, saying, 'It's Christmas early for farmers.'"
+    },
+    {
+      "name": "Garrett Love",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man in a cowboy hat is shown seated at the conference table with a nameplate that reads 'Garrett Love Montezuma, Kansas'."
+    },
+    {
+      "name": "unnamed man in cowboy hat",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An older man wearing a cowboy hat is shown listening during the meeting."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and concludes with a title card reading 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Garrett Love\nMontezuma, Kansas",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "Christmas came early for America’s Farmers 🇺🇸",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that his administration will provide farmers with financial aid derived from money collected through tariffs. Following his announcement, a series of individuals, presumably farmer representatives, take turns thanking Trump. One man calls the payment 'Christmas early for farmers.' A woman praises Trump for consistently asking 'How are my farmers?' Another man thanks him for a 'pro-growth, pro-farmer agenda' and for ushering in a 'new golden age of American agriculture.'",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "A continuous, uplifting, and cinematic-style orchestral score plays in the background throughout the entire video, underscoring the dialogue.",
+  "editing_pacing": "The video is a moderately paced montage of professionally shot clips from a single meeting. It cuts between Trump speaking and various attendees listening or offering their own praise, using a variety of camera angles and close-ups.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Pride",
+    "Admiration",
+    "Patriotism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a champion for American farmers, using tariff funds to provide them with direct financial support.",
+  "intended_effect": "To make viewers, particularly those in agricultural communities, feel grateful to and supportive of Donald Trump, viewing him as a leader who prioritizes their interests.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript contains a likely error, transcribing 'pro-farmer agenda' as 'pro-pharma agenda'; the speaker in the audio clearly says 'pro-farmer'.",
+    "Not all speakers in the video are identified by name."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "video_id": "7470313104753134891",
+  "visual_action": "A news clip from Fox News shows Elon Musk standing and speaking in what appears to be the Oval Office. Donald Trump is seated at his desk, listening. The clip is formatted for a vertical screen with text overlays at the top and bottom.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is identified by face recognition and is the subject of the reporter's questions and the main speaker in the video. The on-screen text states, 'Reporter grills Elon Musk'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is identified by face recognition, is seated at the desk during Musk's comments, and speaks at the end of the clip to defend Musk's involvement."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman's voice is heard off-screen asking questions to Elon Musk."
+    },
+    {
+      "name": "The Pentagon",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The reporter mentions Musk's companies receiving federal contracts from 'the Pentagon'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is a clip from a Fox News broadcast, with their logo and chyron format visible throughout."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Reporter grills Elon Musk about his conflict of interest",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS\nMUSK: COULDN'T ASK FOR A STRONGER PUBLIC MANDATE\nFOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS\nMUSK: ALL OF OUR ACTIONS ARE TRANSPARENT\nFOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "ELON MUSK JOINS TRUMP AT EO SIGNING EVENT\nFOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS\nMUSK: ALL OF DOGE ACTIONS ARE FULLY PUBLIC\nFOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS\nTRUMP: IF WE THOUGHT THERE WAS A CONFLICT OF INTEREST WITH MUSK, WE WOULDN'T ALLOW HIM TO BE INVOLVED\nFOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "MOMENTS AGO\nTHE WHITE HOUSE",
+      "role": "other"
+    },
+    {
+      "text": "IF THERE IS A CONFLICT OF INTEREST WHEN IT COMES TO YOU YOURSELF, FOR INSTANCE, YOU'VE RECEIVED BILLIONS OF DOLLARS IN FEDERAL CONTRACTS. WHEN IT COMES TO THE PENTAGON, FOR INSTANCE, WHICH THE PRESIDENT, I KNOW HAS DIRECTED YOU TO LOOK INTO, ARE YOU POLICING YOURSELF IN THAT? IS THERE ANY SORT OF ACCOUNTABILITY, CHECK AND BALANCE IN PLACE THAT WOULD PROVIDE ANY TRANSPARENCY FOR THE AMERICAN PEOPLE? WELL, ALL OF OUR ACTIONS ARE FULLY PUBLIC. SO IF YOU SEE ANYTHING YOU SAY, LIKE, WAIT A SECOND, HEY, ELON, LIKE MAYBE THAT'S, YOU KNOW, THAT THERE'S A CONFLICT THERE. IT'S NOT LIKE PEOPLE ARE GOING TO BE SHY ABOUT SAYING THAT. THEY'LL SAY INCLUDING YOU YOURSELF. YES, BUT TRANSPARENCY IS WHAT BUILDS TRUST. NOT SIMPLY SOMEBODY ASSERTING TRUST, NOT SOMEBODY SAYING THEY'RE TRUSTWORTHY. BUT ALL TRANSPARENCY. GOING ON. AND YOU CAN SEE, AM I DOING SOMETHING THAT BENEFITS ONE OF MY COMPANIES OR NOT. IT'S TOTALLY OBVIOUS. AND WE THOUGHT THAT WE WOULD NOT LET HIM DO THAT SEGMENT OR LOOK IN THAT AREA IF WE THOUGHT THERE WAS A LACK OF TRANSPARENCY OR A CONFLICT OF INTEREST.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unseen reporter questions Elon Musk about a potential conflict of interest regarding his companies' federal contracts, particularly with the Pentagon, and asks about accountability. Musk replies that his actions are \"fully public\" and that transparency builds trust, making any conflict \"totally obvious.\" Donald Trump adds that they wouldn't let Musk be involved if they suspected a conflict of interest.",
+  "emojis_present": [
+    "🧐"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the news clip, with no added music or sound effects.",
+  "editing_pacing": "The video is a single, uncut news clip with a static camera shot, resembling a talking-head format.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A Fox News chyron at 0:41 appears to be digitally altered to read \"MUSK: ALL OF DOGE ACTIONS ARE FULLY PUBLIC\". The word \"DOGE\" is likely a satirical reference to Dogecoin, a cryptocurrency heavily promoted by Musk, inserted to mock him by associating his official government work with his crypto interests. The original word was likely related to the Department of Defense or government.",
+  "emotions_signaled": [
+    "suspicion",
+    "scrutiny",
+    "concern"
+  ],
+  "cultural_references": [
+    "Dogecoin"
+  ],
+  "central_claim": "Elon Musk has a serious conflict of interest due to his government advisory role and his companies' federal contracts, and his reassurances about transparency are not credible.",
+  "intended_effect": "To make the viewer question the ethics of Elon Musk's role in the Trump administration and to perceive both figures as disregarding conflicts of interest.",
+  "uncertainty_flags": [
+    "While the 'DOGE' chyron is almost certainly a digital manipulation for satirical effect, there is a minuscule possibility it was a genuine, bizarre error in the original Fox News broadcast. Without the source broadcast, 100% certainty is not possible."
+  ]
+}

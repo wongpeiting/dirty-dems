@@ -1,0 +1,100 @@
+{
+  "video_id": "7631300294206360845",
+  "visual_action": "A video clip shows Donald Trump on what appears to be an airplane, being asked a question by an off-screen reporter. The screen then splits into a four-quadrant meme format with different colored backgrounds (red, blue, yellow, green) overlaid on the video, each presenting a potential answer to the reporter's question. After a brief countdown, the video highlights the 'correct' answer, 'quiet, piggy,' by superimposing a green square with that text over Trump's face as he speaks.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visible throughout the video; his speech is the subject of the edit."
+    },
+    {
+      "name": "unnamed female reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Her voice is heard asking the initial question which sets up the meme."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name is referenced in one of the multiple-choice options: 'i'll release all the epstein files'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“If there's nothing incriminating in the files sir, why not actually release them?”",
+      "role": "caption"
+    },
+    {
+      "text": "thank you",
+      "role": "meme_text"
+    },
+    {
+      "text": "i love women journalists",
+      "role": "meme_text"
+    },
+    {
+      "text": "i'll release all the epstein files",
+      "role": "meme_text"
+    },
+    {
+      "text": "quiet, piggy",
+      "role": "meme_text"
+    },
+    {
+      "text": "3",
+      "role": "overlay"
+    },
+    {
+      "text": "2",
+      "role": "overlay"
+    },
+    {
+      "text": "1",
+      "role": "overlay"
+    },
+    {
+      "text": "quiet, piggy",
+      "role": "overlay"
+    },
+    {
+      "text": "WASHINGTON",
+      "role": "other"
+    },
+    {
+      "text": "LOCAL",
+      "role": "other"
+    },
+    {
+      "text": "-6:58",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An unseen female reporter asks Donald Trump, \"If there's nothing incriminating in the files sir, why not actually release them?\" Trump's subsequent spoken response is edited and manipulated to sound as if he is saying, \"quiet, piggy.\" The original, unedited audio of his response is not included.",
+  "emojis_present": [],
+  "audio_music": "The video begins with the clear sound of a reporter's question. At around the 3-second mark, an upbeat, electronic, quiz-show-style music track begins, which sounds like the theme from the game 'Kahoot!'. This music plays over the meme section of the video. The video ends with manipulated audio of Donald Trump's voice. The overall effect of the music is to frame the interaction as a mocking trivia game.",
+  "editing_pacing": "The video uses a meme-style edit. It starts with a single clip, then overlays a four-quadrant, multiple-choice quiz format. It includes a brief countdown timer (3, 2, 1) before highlighting the chosen 'answer' with a final overlay. The pacing is quick and designed for social media engagement.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The audio is manipulated. Donald Trump's real response to the reporter's question is replaced with a fabricated audio clip designed to sound like him saying the insulting phrase 'quiet, piggy'.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The video's format is a parody of a multiple-choice quiz, similar to the online game Kahoot!, reinforced by the soundtrack.",
+    "The four-quadrant layout is reminiscent of the 'Political Compass' meme format."
+  ],
+  "central_claim": "Donald Trump is misogynistic and contemptuously dismisses serious questions from female journalists.",
+  "intended_effect": "To portray Trump as crude and misogynistic, thereby damaging his public image and generating ridicule.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript is highly inaccurate and does not match the audible dialogue or on-screen text.",
+    "The identity of the second fingerprinted music track is not clearly audible in the final clip."
+  ]
+}

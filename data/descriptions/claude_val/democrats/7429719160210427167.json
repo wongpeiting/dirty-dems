@@ -1,0 +1,141 @@
+{
+  "video_id": "7429719160210427167",
+  "visual_action": "The video is formatted as a vertical short-form clip. The top portion of every frame shows a static black background with white bold title text reading \"Stephen A. Smith RIPS into Trump on Fox News 😭💀\". The lower portion shows an embedded Fox News broadcast — specifically the \"Hannity\" program — which itself contains a split-screen: on the left, sports commentator Stephen A. Smith appears via video link, wearing a grey/red Adidas track jacket against a city-skyline background; on the right side, B-roll footage plays showing Kamala Harris at what appears to be a campaign rally or event, waving and descending/ascending stairs on a stage, with crowd members visible below. The Fox News chyron reads \"STEPHEN A SMITH ON THE STATE OF KAMALA'S CAMPAIGN\" with a \"Hannity\" lower-third and a \"SEN LINDSEY GRAHAM COMING UP\" teaser bug on the right. The broadcast switches between \"LIVE\" and \"BREAKING NEWS\" banners. Below the embedded broadcast, yellow subtitle/caption words appear one at a time in sequence: \"I\", \"NOT\", \"SOMEBODY\", \"CLARITY\", \"BRAGGING\", \"DONALD\", \"CAN'T\", \"WATCHING\". The clip is styled as a short reaction/highlight clip from a Fox News appearance.",
+  "cast": [
+    {
+      "name": "Stephen A. Smith",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Fox News chyron reads 'STEPHEN A SMITH ON THE STATE OF KAMALA'S CAMPAIGN'; his face appears in the Fox News split-screen video link box; title overlay names him explicitly"
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Face-ID confirms Kamala Harris visible in Fox News B-roll footage on right side of split-screen, at what appears to be a campaign event; chyron references 'Kamala's Campaign'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Title overlay reads 'Stephen A. Smith RIPS into Trump on Fox News'; subtitle word 'DONALD' appears mid-clip, likely part of 'Donald [Trump]'"
+    },
+    {
+      "name": "Sean Hannity",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Face-ID confirms Sean Hannity on screen; 'HANNITY' lower-third on the Fox News broadcast confirms his show"
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Fox News bug reads 'SEN LINDSEY GRAHAM COMING UP' on right side of broadcast"
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Fox News logo and branding visible throughout the embedded broadcast; named in title overlay"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Stephen A. Smith RIPS into Trump on Fox News 😭💀",
+      "role": "overlay"
+    },
+    {
+      "text": "STEPHEN A SMITH ON THE STATE OF KAMALA'S CAMPAIGN",
+      "role": "chyron"
+    },
+    {
+      "text": "HANNITY",
+      "role": "chyron"
+    },
+    {
+      "text": "SEN LINDSEY GRAHAM COMING UP",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN WEDNESDAY",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "I",
+      "role": "caption"
+    },
+    {
+      "text": "NOT",
+      "role": "caption"
+    },
+    {
+      "text": "SOMEBODY",
+      "role": "caption"
+    },
+    {
+      "text": "CLARITY",
+      "role": "caption"
+    },
+    {
+      "text": "BRAGGING",
+      "role": "caption"
+    },
+    {
+      "text": "DONALD",
+      "role": "caption"
+    },
+    {
+      "text": "CAN'T",
+      "role": "caption"
+    },
+    {
+      "text": "WATCHING",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Stephen A. Smith is speaking on Fox News's Hannity program about the state of Kamala Harris's campaign. Based on the fragmented yellow subtitle words visible (\"NOT\", \"SOMEBODY\", \"CLARITY\", \"BRAGGING\", \"DONALD\", \"CAN'T\", \"WATCHING\"), Smith appears to be making a critical remark that includes a reference to \"Donald\" — consistent with the title's claim that he is \"ripping into Trump.\" The full quote is not reconstructable from the keyframes alone, but the structure suggests something along the lines of criticizing Trump for bragging about something he can't/couldn't do while watching, or lacking clarity. The Whisper transcript was not provided, so exact wording is uncertain.",
+  "emojis_present": [
+    "😭",
+    "💀"
+  ],
+  "audio_music": "No commercial music matched. Audio appears to be original speech — Stephen A. Smith speaking on the Fox News Hannity broadcast. No background music, meme sounds, or score detected from available context. The account label indicates \"original sound.\"",
+  "editing_pacing": "Static talking-head format with minimal editing. The Fox News broadcast is embedded as a screen-recording or clip within the vertical frame. B-roll of Kamala Harris at a rally cycles on the right side of the split-screen. Word-by-word yellow subtitle captions appear sequentially at the bottom, creating a paced reading effect. Overall pacing is slow and deliberate — no fast cuts or zooms.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "surprise — title framing ('RIPS into Trump on Fox News') signals an unexpected moment of cross-network criticism",
+    "amusement/validation — skull and crying-laughing emojis in title suggest the post frames this as entertaining or satisfying"
+  ],
+  "cultural_references": [
+    "Stephen A. Smith — ESPN sports commentator and media personality, known for his outspoken commentary style on First Take; appearing here in a political context on Fox News"
+  ],
+  "central_claim": "Stephen A. Smith, appearing on Fox News's Hannity, made critical remarks about Donald Trump — a notable moment because Fox News is generally considered favorable to Trump, and Smith is a prominent sports/media personality.",
+  "intended_effect": "To generate surprise, amusement, and a sense of validation among viewers sympathetic to Democrats, by highlighting a prominent non-political figure criticizing Trump on a pro-Trump network.",
+  "uncertainty_flags": [
+    "The Whisper transcript was not provided, so the exact quote(s) Stephen A. Smith said cannot be confirmed — only fragmentary subtitle words are visible",
+    "It is unclear whether Smith's remarks were primarily about Trump or about both Trump and Kamala Harris's campaign, given the Fox News chyron focuses on 'the state of Kamala's campaign'",
+    "The subtitle words ('NOT', 'SOMEBODY', 'CLARITY', 'BRAGGING', 'DONALD', 'CAN'T', 'WATCHING') are fragmentary and may not form a single coherent sentence — full quote uncertain",
+    "The exact date of the Fox News Hannity appearance is not visible in the frames",
+    "Sean Hannity was face-ID'd but his role as host/interviewer vs. merely shown is not fully clear from keyframes alone"
+  ]
+}

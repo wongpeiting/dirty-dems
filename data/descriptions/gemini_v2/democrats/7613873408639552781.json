@@ -1,0 +1,94 @@
+{
+  "video_id": "7613873408639552781",
+  "visual_action": "A person in what appears to be a McDonald's restaurant films a wall-mounted TV screen. The TV is showing a news broadcast of Kristi Noem speaking at a podium with American flags in the background. A news chyron indicates she has been fired by President Trump. The camera zooms in on Noem's face, and a social media filter is applied, superimposing dog ears, a dog nose, and sparkling particle effects onto her image.",
+  "cast": [
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her face is shown on the TV screen throughout the video, and she is named in both the on-screen text overlay ('kristi noem') and the news chyron ('KRISTI NOEM')."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned in the news chyron on the TV screen: 'KRISTI NOEM SPEAKS AFTER BEING FIRED BY PRES. TRUMP'."
+    },
+    {
+      "name": "Chris Kay",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The speaker in the audio identifies himself at the start of the video: 'Chris Kay here...'"
+    },
+    {
+      "name": "McDonald's",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The setting appears to be a McDonald's, indicated by a sign with the golden arches logo and the phrase 'the big arch' used in the on-screen text and audio."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "bruh just found out kristi noem got fired while ordering the big arch 😭",
+      "role": "overlay"
+    },
+    {
+      "text": "KRISTI NOEM SPEAKS AFTER BEING FIRED BY PRES. TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: SENATE VOTE ON DHS",
+      "role": "chyron"
+    },
+    {
+      "text": "MILLIONS WITHOUT POWER AS BLACKOUT HITS WESTERN HALF",
+      "role": "chyron"
+    },
+    {
+      "text": "Customers Needing Assistance Please Ask A Crew Member",
+      "role": "other"
+    },
+    {
+      "text": "OPEN LATE",
+      "role": "other"
+    },
+    {
+      "text": "TRY DELIVERY",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A man's voice, identifying as Chris Kay, speaks over the video with audio that is completely unrelated to the visuals. He introduces something called 'the Big Arch' and says it has been 'tested already in Portugal.' This appears to be a non-sequitur for comedic effect.",
+  "emojis_present": [
+    "😭",
+    "🥳"
+  ],
+  "audio_music": "An upbeat, modern hip-hop track ('Standing On Business' by Dj Bonka) plays throughout the video, underneath a man's unrelated voiceover. The mismatch between the audio and the visual content creates a surreal and mocking tone.",
+  "editing_pacing": "The video is a single, continuous handheld shot that slowly zooms in on the television screen. Near the end, a digital filter effect is applied.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A social media filter is superimposed over Kristi Noem's face on the TV screen, adding cartoonish dog ears, a dog nose, and sparkling effects. This is a satirical reference to the real-world controversy involving her shooting her dog.",
+  "emotions_signaled": [
+    "mockery",
+    "humor",
+    "schadenfreude"
+  ],
+  "cultural_references": [
+    "Snapchat/Instagram dog filter",
+    "Standing On Business (slang/meme)",
+    "The Big Arch (colloquialism for McDonald's)"
+  ],
+  "central_claim": "Kristi Noem is being mocked for the controversy where she shot her dog, in the context of the news that she was fired by Donald Trump.",
+  "intended_effect": "To make the viewer laugh at Kristi Noem, see her as ridiculous, and feel satisfaction at her political misfortune.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,113 @@
+{
+  "video_id": "7626485049998789901",
+  "visual_action": "The video shows a clip from a Fox News broadcast. Initially, it is a split screen with an unnamed woman asking a question on the left and Karoline Leavitt at a podium on the right. The view then shifts to a single shot of Leavitt speaking at the podium, which appears to be in the White House press briefing room. Fox News chyrons and graphics are visible throughout.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Her face is shown throughout the video, and she is identified by the authoritative face-ID. The on-screen text also reads, 'Karoline Leavitt says...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is mentioned in the on-screen text ('Trump had plans ready...') and referred to in the audio by Leavitt as 'the President of the United States.' The initial question is about what 'he meant'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referenced in the on-screen text as 'Iranians' and in the audio as the 'Iranian regime'."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman shown in the initial split-screen asking the question that prompts Leavitt's response."
+    },
+    {
+      "name": "The Pentagon",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Karoline Leavitt: 'The Pentagon had a target list that they were ready to hit go on...'"
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and branded chyrons are visible throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Karoline Leavitt says Trump had plans ready to wipe out all Iranians",
+      "role": "overlay"
+    },
+    {
+      "text": "WHAT WAS YOUR UNDERSTANDING OF WHAT HE MEANT WHEN HE SAID, \"THIS CIVILIZATION IS GOING TO BE ELIMINATED\"?",
+      "role": "caption"
+    },
+    {
+      "text": "I THINK IT WAS A VERY, VERY STRONG THREAT FROM THE PRESIDENT OF THE UNITED STATES THAT LED THE IRANIAN REGIME TO CAVE TO THEIR KNEES AND ASK FOR A CEASEFIRE AND AGREE TO REOPENING THE STRAIT OF HORMUZ.",
+      "role": "caption"
+    },
+    {
+      "text": "SO IT WAS A VERY STRONG THREAT THAT LED TO RESULTS.",
+      "role": "caption"
+    },
+    {
+      "text": "AND AS THE SECRETARY OF WAR STATED AT THE PENTAGON THIS MORNING, IT WAS NOT AN EMPTY THREAT BY ANY MEANS.",
+      "role": "caption"
+    },
+    {
+      "text": "THE PENTAGON HAD A TARGET LIST THAT THEY WERE READY TO HIT GO ON AT 8:00 PM LAST NIGHT IF THE IRANIAN REGIME HAD NOT AGREED TO OPEN THE STRAIT, WHICH THEY DID.",
+      "role": "caption"
+    },
+    {
+      "text": "AND I THINK THAT'S SOMETHING WE SHOULD ALL BE GRATEFUL FOR.",
+      "role": "caption"
+    },
+    {
+      "text": "WH: IRANIAN THREAT IS \"GREATLY DESTROYED\"",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "WH: STRAIT OF HORMUZ MUST REMAIN OPEN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An unnamed reporter asks Karoline Leavitt for her understanding of what Donald Trump meant when he said a \"civilization is going to be eliminated.\" Leavitt characterizes it as a \"very, very strong threat\" that forced the \"Iranian regime to cave to their knees\" and agree to a ceasefire. She asserts it was not an \"empty threat,\" claiming the Pentagon had a \"target list that they were ready to hit go on\" if Iran had not complied.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from the news broadcast clip, with no music or sound effects.",
+  "editing_pacing": "The video is a single, continuous clip from a news broadcast. The editing is minimal, featuring one cut from a split-screen view to a single shot of the speaker. Large, bold yellow text appears on screen, timed to the words being spoken.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "shock",
+    "horror",
+    "outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Karoline Leavitt confirms that the Trump administration had concrete military plans to attack Iran, which she describes as a credible threat that achieved its diplomatic goals.",
+  "intended_effect": "To shock the viewer and portray the Trump administration as dangerously extreme and willing to contemplate mass killing.",
+  "uncertainty_flags": [
+    "Karoline Leavitt refers to a 'Secretary of War.' The United States has not had an official with this title since 1947; the modern equivalent is the Secretary of Defense. It is unclear if this is a slip of the tongue or a reference to a different role."
+  ]
+}

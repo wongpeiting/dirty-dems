@@ -1,0 +1,72 @@
+{
+  "video_id": "7213530034546543914",
+  "visual_action": "The video is a meme format using the cartoon character Pingu. It first shows Pingu in the corner of a screen with text about President Biden's budget proposal. It then cuts to a close-up of a sad, crying Pingu with text identifying this as the Republican reaction. Finally, it shows black and white still photos of Mitch McConnell and Kevin McCarthy, with the sad Pingu character superimposed over McCarthy's image, alongside text criticizing a Republican plan.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads: '*President Biden proposing a budget that will reduce the deficit by $3 trillion* 🥰'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'Republicans:' and the video contrasts their alleged actions with Biden's."
+    },
+    {
+      "name": "Mitch McConnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A black and white still photograph of Mitch McConnell is shown."
+    },
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A black and white still photograph of Kevin McCarthy is shown."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "*President Biden proposing a budget that will reduce the deficit by $3 trillion* 🥰",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans:",
+      "role": "overlay"
+    },
+    {
+      "text": "*Backing a plan that would add $3 trillion to the deficit over the next decade*",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of the cartoon character Pingu's signature 'noot noot' sound effect, followed by dramatic and sad orchestral music.",
+  "emojis_present": [
+    "🥰"
+  ],
+  "audio_music": "The video begins with the iconic 'noot noot' sound effect from the children's show 'Pingu'. After about three seconds, this is replaced by dramatic, sad, swelling orchestral music that plays for the remainder of the clip, creating a mocking and somber tone.",
+  "editing_pacing": "The video is a slow-paced slideshow, cutting between three static scenes with animated text and character overlays.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The cartoon character Pingu is superimposed over a photograph of Kevin McCarthy to represent a sad or hypocritical reaction from Republicans.",
+  "emotions_signaled": [
+    "Mockery",
+    "Disappointment",
+    "Approval"
+  ],
+  "cultural_references": [
+    "Pingu (cartoon character)",
+    "Pingu 'noot noot' sound meme"
+  ],
+  "central_claim": "President Biden proposed a fiscally responsible budget to reduce the deficit, while Republicans are hypocritically backing a plan that would increase it by the same amount.",
+  "intended_effect": "To portray Republicans as hypocritical on fiscal policy and to praise President Biden's budget proposal, using a popular meme to generate mockery and amusement.",
+  "uncertainty_flags": []
+}

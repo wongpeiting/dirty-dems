@@ -1,0 +1,56 @@
+{
+  "video_id": "7429077916065107246",
+  "visual_action": "A slideshow of four photographs. The first three photos show musicians Taylor Swift (holding a cat), Ariana Grande, and Lizzo, respectively. The final photo shows musician Kid Rock. Each photo has text overlaid on it.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text \"Kamala's endorsers 🔥\" appears over the first three images."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text \"Trump's endorser 😩\" appears over the final image."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kamala's endorsers 🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump's endorser 😩",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it is accompanied only by music.",
+  "emojis_present": [
+    "🔥",
+    "😩"
+  ],
+  "audio_music": "The video is set to the instrumental saxophone introduction of George Michael's 'Careless Whisper'. The song choice is likely intended for a humorous or mocking effect.",
+  "editing_pacing": "The video is a simple slideshow with one static image displayed after another.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Humor",
+    "Pride"
+  ],
+  "cultural_references": [
+    "Taylor Swift",
+    "Ariana Grande",
+    "Lizzo",
+    "Kid Rock",
+    "The song 'Careless Whisper' by George Michael"
+  ],
+  "central_claim": "Kamala Harris is endorsed by popular, mainstream celebrities, while Donald Trump is endorsed by a less culturally relevant celebrity.",
+  "intended_effect": "To create an association of cultural relevance and popularity with Kamala Harris while mocking Donald Trump through his celebrity endorser.",
+  "uncertainty_flags": []
+}

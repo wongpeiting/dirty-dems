@@ -1,0 +1,78 @@
+{
+  "video_id": "7541042581271055630",
+  "visual_action": "The video starts with a static screenshot of a tweet from an account called 'FactPost'. The tweet shows a photo of Donald Trump next to a map of Texas and claims Texas Republicans are passing gerrymandered maps at Trump's request. It then cuts to a two-panel clip of Donald Trump outdoors, being asked a question and then answering it. The video concludes with a static, closer view of the gerrymandered map of Texas.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears on screen speaking the words 'No, a simple redrawing so we pick up five seats.' Also named in the initial on-screen tweet."
+    },
+    {
+      "name": "Texas House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the tweet: 'Texas House Republicans have voted to pass their gerrymandered congressional maps.'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name and logo of the Twitter/X account 'FactPost' are shown at the top of the screenshot."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks Trump, 'Are you calling for a complete redrawing of the congressional map?'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Texas House Republicans have voted to pass their gerrymandered congressional maps.",
+      "role": "overlay"
+    },
+    {
+      "text": "The redrawn maps were requested by Trump amid fears about losing the House majority.",
+      "role": "overlay"
+    },
+    {
+      "text": "Are you calling for a complete redrawing of the congressional map?",
+      "role": "overlay"
+    },
+    {
+      "text": "No, a simple redrawing so we pick up five seats.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An unseen person asks Donald Trump, \"Are you calling for a complete redrawing of the congressional map?\" Trump replies, \"No, a simple redrawing so we pick up five seats.\"",
+  "emojis_present": [],
+  "audio_music": "Dramatic, ominous orchestral music plays consistently throughout the entire video, creating a serious and foreboding tone.",
+  "editing_pacing": "The video consists of three static shots: a screenshot of a tweet, a video clip of Trump speaking, and an image of a map. The pacing is slow and deliberate.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Alarm",
+    "Concern",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump and Texas Republicans are openly and corruptly gerrymandering congressional maps to gain an unfair political advantage.",
+  "intended_effect": "To generate outrage at Donald Trump and Republicans for allegedly manipulating the electoral system.",
+  "uncertainty_flags": [
+    "The authenticity of the 'FactPost' tweet is not verified within the video.",
+    "The context of Donald Trump's quote is not provided, and it may be presented out of its original context."
+  ]
+}

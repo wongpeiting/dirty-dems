@@ -1,0 +1,63 @@
+{
+  "video_id": "7546261737109032247",
+  "visual_action": "The video shows Robert F. Kennedy Jr. speaking forcefully at a hearing, addressing Senator Ron Wyden, who is also shown. The format sometimes uses a split screen, with a blurred image of one person in the background while the other is in focus. The clip ends with a black and white graphic with the text 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker in the video, identified by face recognition and on-screen text referring to him as 'Sec. Kennedy'."
+    },
+    {
+      "name": "Ron Wyden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of Robert F. Kennedy Jr.'s speech, is shown on screen, and is identified by face recognition and on-screen text 'Sen. Wyden' and a nameplate 'MR. WYDEN'."
+    },
+    {
+      "name": "Biden administration",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Kennedy states that increased infant mortality is 'because of what happened during the Biden administration'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Sec. Kennedy SCORCHES Sen. Wyden on Children's Health",
+      "role": "overlay"
+    },
+    {
+      "text": "MR. WYDEN",
+      "role": "chyron"
+    },
+    {
+      "text": "THE HONORABLE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Robert F. Kennedy Jr. confronts Senator Ron Wyden, accusing him of being silent for 20-25 years while chronic disease among children rose dramatically. Kennedy claims that for the first time in 20 years, infant mortality has increased, and he explicitly blames the Biden administration for this, stating that his administration will end it.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from a hearing, with no background music or sound effects.",
+  "editing_pacing": "The video uses simple cuts between the speaker (Kennedy) and the person being addressed (Wyden), employing a static talking-head style. At times, a split-screen effect is used.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "indignation",
+    "urgency",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Senator Wyden has been negligent regarding children's health for decades, and the Biden administration is to blame for a recent increase in infant mortality which the new administration will solve.",
+  "intended_effect": "To portray Robert F. Kennedy Jr. as a strong advocate for children's health who holds other politicians and the previous administration accountable for failures.",
+  "uncertainty_flags": []
+}

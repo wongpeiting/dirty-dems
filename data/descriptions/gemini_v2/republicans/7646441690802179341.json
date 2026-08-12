@@ -1,0 +1,87 @@
+{
+  "video_id": "7646441690802179341",
+  "visual_action": "A split-screen video. On the right, a man with a gray beard and a camouflage hat speaks to the camera from an outdoor setting. On the left, a montage of clips shows another man speaking at a podium and at a protest with a megaphone. The entire video is framed as a Fox Business news segment, with a chyron at the bottom displaying headlines and stock information.",
+  "cast": [
+    {
+      "name": "Teddy Daniels",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "On-screen chyron identifies him as 'TEDDY DANIELS | HIGH RISK PROTECTION SPECIALIST' and 'TEDDY DANIELS | PURPLE HEART RECIPIENT'."
+    },
+    {
+      "name": "Graham Platner",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text reads 'Combat Veteran SLAMS Graham Platner:' and the chyron reads 'RPT: PLATNER MOCKS WOUNDED SOLDIER IN OLD POST'."
+    },
+    {
+      "name": "Jim Jordan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face and name 'REP JIM JORDAN' appear in a small box on the news chyron at the bottom of the screen."
+    },
+    {
+      "name": "Fox Business",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The 'FOX BUSINESS' logo is visible on the chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Combat Veteran SLAMS Graham Platner:",
+      "role": "overlay"
+    },
+    {
+      "text": "RPT: PLATNER MOCKS WOUNDED SOLDIER IN OLD POST",
+      "role": "chyron"
+    },
+    {
+      "text": "TEDDY DANIELS | HIGH RISK PROTECTION SPECIALIST",
+      "role": "chyron"
+    },
+    {
+      "text": "TEDDY DANIELS | PURPLE HEART RECIPIENT",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX BUSINESS",
+      "role": "chyron"
+    },
+    {
+      "text": "REP JIM JORDAN",
+      "role": "chyron"
+    },
+    {
+      "text": "PORTLAND, ME",
+      "role": "overlay"
+    },
+    {
+      "text": "NO ICE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A man, identified as combat veteran Teddy Daniels, states that having someone like Graham Platner involved in the culture is 'embarrassing for the entire military and veteran community.'",
+  "emojis_present": [],
+  "audio_music": "The only audio is a man's spoken dialogue. There is no music or background sound.",
+  "editing_pacing": "The video uses a static split-screen format, with a talking head on the right and a short montage of B-roll clips on the left. The chyron text changes once during the clip.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "indignation",
+    "disapproval",
+    "embarrassment"
+  ],
+  "cultural_references": [],
+  "central_claim": "Graham Platner's alleged past actions of mocking a wounded soldier are an embarrassment to the military and veteran community.",
+  "intended_effect": "To provoke anger and disapproval towards Graham Platner by framing him as anti-veteran.",
+  "uncertainty_flags": []
+}

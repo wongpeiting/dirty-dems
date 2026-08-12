@@ -1,0 +1,50 @@
+{
+  "video_id": "7270555142238326059",
+  "visual_action": "In a single, continuous slow-motion shot, Joe Biden, wearing a dark suit and sunglasses, walks towards the camera. He is outdoors with a blurred background of trees and what appears to be a railing. A text overlay resembling a news headline is present for the entire clip.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Joe Biden is the only person shown in the video, walking towards the camera in slow motion."
+    },
+    {
+      "name": "Cleveland News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'Cleveland News' appears on screen as the source for the displayed headline."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "New SAVE plan will lower payments for millions of borrowers and eventually forgive loans",
+      "role": "overlay"
+    },
+    {
+      "text": "Cleveland News",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, confident instrumental remix track plays throughout the video, creating a cool and positive mood that complements the slow-motion visual of Joe Biden walking.",
+  "editing_pacing": "The video consists of a single slow-motion shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "confidence",
+    "pride",
+    "optimism"
+  ],
+  "cultural_references": [
+    "The audio is a remix of the song 'Freaking Out the Neighbourhood' by Mac DeMarco, which is a reference to indie music.",
+    "The slow-motion walk towards the camera is a common cinematic trope used to portray a character as cool or heroic."
+  ],
+  "central_claim": "The Biden administration's SAVE plan is a successful policy providing significant financial relief to millions of student loan borrowers.",
+  "intended_effect": "To make viewers feel positive about the Biden administration's accomplishments and view him as a cool, competent leader.",
+  "uncertainty_flags": []
+}

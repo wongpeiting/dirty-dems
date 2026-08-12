@@ -1,0 +1,77 @@
+{
+  "video_id": "7554430831851244814",
+  "visual_action": "The video is a montage showing a meeting between U.S. President Donald Trump and Turkish President Recep Tayyip Erdoğan. It opens with a shot of a diplomatic car with Turkish flags. It then shows Trump and Erdoğan shaking hands outside and inside the White House, sitting down for a meeting in an ornate room, and Erdoğan signing a guest book as Trump looks on. There are various shots of Erdoğan listening, Trump speaking, and B-roll of microphones and someone filming the meeting on a smartphone. The video also shows officials, including Marco Rubio, signing documents as Erdoğan watches. The montage concludes with the diplomatic car driving away and a closing card with \"THE WHITE HOUSE\" text.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking throughout the video and is identified by face recognition."
+    },
+    {
+      "name": "Recep Tayyip Erdoğan",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown prominently throughout the video and is named by Donald Trump in the audio: \"It's a pleasure to be with President Erdogan of Turkey.\""
+    },
+    {
+      "name": "Turkey",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The country is mentioned multiple times in the audio (e.g., \"President Erdogan of Turkey,\" \"trade with Turkey\"), and its flag is shown on a diplomatic car."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is briefly shown signing a document and is identified by face recognition."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's name appears on the closing credit screen, and the building is shown visually."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🇺🇸🤝🇹🇷",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump expresses his pleasure in meeting with President Erdoğan of Turkey, whom he describes as a long-time friend. Trump calls Erdoğan a \"highly respected man\" both in his own country and internationally. He praises Turkey's \"tremendous military\" and notes the strong trade relationship between the two countries, which he intends to expand. Trump concludes by reiterating his \"great respect for this man.\"",
+  "emojis_present": [
+    "🇺🇸",
+    "🤝",
+    "🇹🇷"
+  ],
+  "audio_music": "A continuous, inspirational orchestral score plays underneath Donald Trump's speech throughout the video, creating a dignified and positive tone.",
+  "editing_pacing": "The video is a montage with smooth cuts between professionally shot clips of the diplomatic meeting. The pacing is deliberate and stately.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Respect",
+    "Friendship",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "The relationship between Donald Trump and Turkish President Erdoğan is a strong friendship built on mutual respect, which benefits both nations through military and trade partnerships.",
+  "intended_effect": "To showcase Donald Trump's positive diplomatic relationship with the leader of Turkey and project an image of successful and respectful foreign policy.",
+  "uncertainty_flags": [
+    "The identities of several men shown signing documents, other than Marco Rubio, are not clear."
+  ]
+}

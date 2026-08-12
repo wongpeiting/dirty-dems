@@ -1,0 +1,67 @@
+{
+  "video_id": "7569059784620641591",
+  "visual_action": "The video displays a screenshot of a tweet from the account 'FactPost'. The tweet announces that Pennsylvania voters have preserved the Democratic majority on the state Supreme Court. Below the text are two images: one of three judges at a bench, and one of the Pennsylvania State Capitol building. The video then transitions to a full-screen, posed photo of three judges (one woman, two men) in black robes standing behind a large wooden desk in a courtroom setting.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads '...preserve the 5-2 Democratic majority...'"
+    },
+    {
+      "name": "Pennsylvania Supreme Court",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads '...on the state Supreme Court.'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video shows a screenshot of a tweet from the account 'FactPost' with the handle '@factpostnews'."
+    },
+    {
+      "name": "unnamed Pennsylvania Supreme Court justices",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A posed photograph shows three judges in judicial robes."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Pennsylvania voters have elected to preserve the 5-2 Democratic majority on the state Supreme Court.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is accompanied by music only.",
+  "emojis_present": [],
+  "audio_music": "A triumphant, bass-heavy, hip-hop-style instrumental track plays throughout the clip, creating a celebratory and hype-filled mood.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot which then transitions to a full-screen static photograph of three judges. The pacing is slow, like a slideshow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "triumph",
+    "celebration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democrats have secured a significant political victory by preserving their majority on the Pennsylvania Supreme Court.",
+  "intended_effect": "To celebrate a political victory and evoke a sense of pride and success among Democratic supporters.",
+  "uncertainty_flags": []
+}

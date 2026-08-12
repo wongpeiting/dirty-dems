@@ -1,0 +1,46 @@
+{
+  "video_id": "7667312662363032846",
+  "visual_action": "Donald Trump is shown speaking at a podium with the presidential seal. The video then cuts to a static image of a hospital room, where an aerial photograph of a large reflecting pond has been superimposed onto a hospital bed. Beside the bed is a table with flowers and a 'Get Well' balloon.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Donald Trump is shown speaking at a podium at the beginning of the video, and his voice provides the audio for the entire clip."
+    },
+    {
+      "name": "Mr. Pond",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referred to in the audio as 'the beautiful reflecting pond' and in the on-screen text as 'mr. pond'. A picture of the pond is the central subject of the video's joke, shown in a hospital bed."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "feel better mr. pond 🙏",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump describes a 'beautiful reflecting pond' and claims someone was 'cutting it with a knife,' adding, 'it's in the hospital now, but it's got to get better very soon.'",
+  "emojis_present": [
+    "🙏"
+  ],
+  "audio_music": "The audio consists of Donald Trump's voice from a speech. When the video cuts to the image of the pond in the hospital bed, the sound of a beeping heart monitor and a person coughing are added as sound effects for comedic effect.",
+  "editing_pacing": "The video consists of a single cut from a clip of Trump speaking to a static, manipulated image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "An aerial photograph of a reflecting pond is superimposed onto a hospital bed to create a literal, and therefore absurd, visual representation of Donald Trump's statement that the pond is 'in the hospital'. This is done to mock his statement.",
+  "emotions_signaled": [
+    "mockery",
+    "humor"
+  ],
+  "cultural_references": [
+    "The Reflecting Pool on the National Mall in Washington D.C."
+  ],
+  "central_claim": "The video mocks Donald Trump by taking his bizarre statement about a reflecting pond being 'in the hospital' literally to portray him as nonsensical.",
+  "intended_effect": "To make the viewer laugh at Donald Trump's strange and rambling way of speaking.",
+  "uncertainty_flags": []
+}

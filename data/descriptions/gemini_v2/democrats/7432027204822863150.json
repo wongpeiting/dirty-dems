@@ -1,0 +1,85 @@
+{
+  "video_id": "7432027204822863150",
+  "visual_action": "Minnesota Governor Tim Walz speaks at a podium to a crowd. Behind him is a large banner for \"LOCAL 13 PHILADELPHIA\". The audience, seen from behind, is holding up phones to record his speech as he gestures emphatically.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker in the video, identified by face recognition and on-screen text."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text and is the central subject of Walz's speech. Walz says, \"if Trump's elected\" and \"Trump ran on [getting rid of] it\"."
+    },
+    {
+      "name": "Affordable Care Act (Obamacare)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The policy is the main topic of the speech and is mentioned in both the on-screen text (\"Trump going after Obamacare\") and the dialogue."
+    },
+    {
+      "name": "John McCain",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Walz mentions him by name as the person who cast the deciding vote to save Obamacare."
+    },
+    {
+      "name": "Speaker of the House",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Walz begins his speech by stating, \"The Speaker of the House said they're going to go after Obamacare.\""
+    },
+    {
+      "name": "Local 13 Philadelphia",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A large banner behind Tim Walz reads 'LOCAL 13 PHILADELPHIA'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Tim Walz lays the hammer on Trump going after Obamacare 👊",
+      "role": "overlay"
+    },
+    {
+      "text": "Walz: Trump ran on getting rid of Obamacare, they tried 60 times to overturn it!",
+      "role": "overlay"
+    },
+    {
+      "text": "LOCAL 13 PHILADELPHIA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Tim Walz warns the audience that the Speaker of the House has confirmed they will go after Obamacare if Donald Trump is elected. He argues this is a credible threat, as they have tried to repeal it before. Walz explains that Obamacare protected people by preventing insurance companies from denying coverage for pre-existing conditions. He states that Trump and his allies \"tried 60 times to overturn it,\" and that it was only saved by a single vote from Senator John McCain.",
+  "emojis_present": [
+    "👊"
+  ],
+  "audio_music": "The audio consists entirely of Tim Walz's speech, with diegetic sounds of crowd applause and cheering in response to his statements.",
+  "editing_pacing": "The video is a single, static shot of a talking-head speech with no cuts or dynamic editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "urgency",
+    "concern",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "If Donald Trump is re-elected, he and his party will repeal the Affordable Care Act (Obamacare), which would eliminate critical healthcare protections for Americans, such as coverage for pre-existing conditions.",
+  "intended_effect": "To create fear and urgency about the potential loss of healthcare under a Trump presidency and to motivate viewers to oppose him.",
+  "uncertainty_flags": []
+}

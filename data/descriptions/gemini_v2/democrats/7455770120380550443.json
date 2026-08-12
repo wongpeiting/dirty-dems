@@ -1,0 +1,58 @@
+{
+  "video_id": "7455770120380550443",
+  "visual_action": "A slideshow of two still photos. The first is of Kevin McCarthy looking seriously at the camera. The second is of Mike Johnson, wearing glasses, also looking at the camera. Both images have text overlaid on them.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in the first photo and named in the on-screen text: 'In 2023 Kevin McCarthy was ousted by his party as Speaker of the House'."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in the second photo and named in the on-screen text: 'Now Mike Johnson is struggling to get enough votes to remain speaker 😅'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states that Kevin McCarthy was 'ousted by his party', implying the Republican party, setting up the parallel to Mike Johnson's current situation."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "In 2023 Kevin McCarthy was ousted by his party as Speaker of the House",
+      "role": "overlay"
+    },
+    {
+      "text": "Now Mike Johnson is struggling to get enough votes to remain speaker 😅",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male voice says, \"Damn... Here we go again.\"",
+  "emojis_present": [
+    "😅"
+  ],
+  "audio_music": "A slow, melancholic instrumental track, identified as a slowed version of 'Everything I Am' by sunsetsonata, plays under a spoken audio clip. The combination of the somber music and the weary dialogue creates a mocking tone.",
+  "editing_pacing": "A slow-paced slideshow with a single cut between two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Schadenfreude"
+  ],
+  "cultural_references": [
+    "The audio 'Damn... Here we go again' is a famous line spoken by the character Carl 'CJ' Johnson from the video game Grand Theft Auto: San Andreas, which has become a popular internet meme signifying the tiresome repetition of an unfortunate event."
+  ],
+  "central_claim": "The Republican Party is repeating its past leadership failures, showing a pattern of internal chaos as Speaker Mike Johnson faces the same ouster threat that Kevin McCarthy did.",
+  "intended_effect": "To portray the Republican Party as dysfunctional and incapable of maintaining stable leadership.",
+  "uncertainty_flags": []
+}

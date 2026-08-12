@@ -1,0 +1,133 @@
+{
+  "video_id": "7599344682857975071",
+  "visual_action": "The video shows a clip from a CNN news segment titled 'STATE OF THE UNION'. An unnamed female anchor interviews a man in a law enforcement uniform, identified by on-screen text as 'Trump's Border Chief'. On the right side of the screen, several blurred clips show a snowy, outdoor scene with law enforcement activity. Text is overlaid on the video, highlighting the dialogue.",
+  "cast": [
+    {
+      "name": "Trump's Border Chief",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A man in uniform is shown speaking and is identified by the on-screen text 'Trump's Border Chief'."
+    },
+    {
+      "name": "Alex Pretti",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states the segment is about 'the killing of Alex Pretti'."
+    },
+    {
+      "name": "Border Patrol agents",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The chief repeatedly states, 'The victims are the Border Patrol agents.'"
+    },
+    {
+      "name": "Unnamed CNN anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A female anchor is shown conducting the interview on a CNN set."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the speaker as 'Trump's Border Chief'."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and branding for 'STATE OF THE UNION' are visible throughout the clip."
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The news chyron reads, 'VIDEOS CONTRADICT DHS ACCOUNT OF FATAL MINNEAPOLIS SHOOTING'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's Border Chief on the killing of Alex Pretti: “The victims are the Border Patrol agents.”",
+      "role": "caption"
+    },
+    {
+      "text": "STATE OF THE UNION",
+      "role": "chyron"
+    },
+    {
+      "text": "VIDEOS CONTRADICT DHS ACCOUNT OF FATAL MINNEAPOLIS SHOOTING",
+      "role": "chyron"
+    },
+    {
+      "text": "Obtained by CNN",
+      "role": "credit"
+    },
+    {
+      "text": "WARNING GRAPHIC CONTENT",
+      "role": "overlay"
+    },
+    {
+      "text": "WITH RESPECT,",
+      "role": "overlay"
+    },
+    {
+      "text": "THOUGH IN SOME WAYS YOU'RE BLAMING THE VICTIM HERE.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE VICTIM, THE VICTIMS ARE THE BORDER PATROL AGENTS.",
+      "role": "overlay"
+    },
+    {
+      "text": "I'M NOT BLAMING THE BORDER PATROL AGENTS.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE VICTIM ARE THE BORDER PATROL AGENTS.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE SUSPECT PUT HIMSELF IN THAT SITUATION.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE VICTIMS ARE THE BORDER PATROL AGENTS THERE.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A CNN anchor suggests to a man identified as 'Trump's Border Chief' that he is 'blaming the victim' in a fatal shooting case. The chief denies this and repeatedly insists, 'The victims are the Border Patrol agents.' He adds that 'the suspect put himself in that situation.'",
+  "emojis_present": [
+    "?"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue from the news interview. There is no music or other sound.",
+  "editing_pacing": "The video is a static clip of a news broadcast. The only editing consists of text overlays that appear sequentially to transcribe and emphasize the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Shock",
+    "Disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "A former Border Chief from the Trump administration claims that Border Patrol agents, not the person they killed, are the true victims in a fatal shooting.",
+  "intended_effect": "To provoke shock and outrage at the official's statement, framing it as an example of cruel victim-blaming associated with the Trump administration.",
+  "uncertainty_flags": [
+    "The specific name of the official identified as 'Trump's Border Chief' is not given.",
+    "The name of the CNN anchor is not given.",
+    "The caption is '??????', which is interpreted as six question mark emojis, but could be a placeholder for a missing caption."
+  ]
+}

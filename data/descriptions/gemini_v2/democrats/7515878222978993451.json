@@ -1,0 +1,71 @@
+{
+  "video_id": "7515878222978993451",
+  "visual_action": "Minnesota Governor Tim Walz stands at a podium giving a press conference. An American flag and several men, including some in sheriff's uniforms, stand behind him. Walz speaks with a somber expression, occasionally looking down at his notes.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, identified by face-ID and on-screen text as \"Governor Walz\"."
+    },
+    {
+      "name": "Melissa Hortman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Walz announces her death, calling her \"Speaker Melissa Hortman\" and eulogizing her."
+    },
+    {
+      "name": "Mark Hortman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Walz mentions him as Melissa Hortman's husband who was also killed: \"Speaker Melissa Hortman and her husband Mark were shot and killed.\""
+    },
+    {
+      "name": "John Hoffman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Walz identifies him as another victim of a shooting: \"My prayers also go out to State Senator John Hoffman...\""
+    },
+    {
+      "name": "Yvette Hoffman",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Walz mentions her as John Hoffman's wife who was also shot: \"...State Senator John Hoffman and his wife Yvette, who were each shot multiple times.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Governor Walz's update on the situation in Minnesota",
+      "role": "overlay"
+    },
+    {
+      "text": "WE'RE HERE TODAY UNSPEAKABLE TRAGEDY HAS UNFOLDED IN MINNESOTA. MY GOOD FRIEND AND COLLEAGUE, SPEAKER MELISSA HORTMAN AND HER HUSBAND, MARK, WERE SHOT AND KILLED EARLY THIS MORNING IN WHAT APPEARS TO BE A POLITICALLY MOTIVATED ASSASSINATION. OUR STATE LOST A GREAT LEADER, AND I LOST A DEAREST OF FRIENDS. SPEAKER HORTMAN WAS SOMEONE WHO SERVED THE PEOPLE OF MINNESOTA WITH GRACE, COMPASSION, HUMOR, AND A SENSE OF SERVICE. SHE WAS A FORMIDABLE PUBLIC SERVANT, A FIXTURE AND A GIANT IN MINNESOTA. SHE WOKE UP EVERY DAY DETERMINED TO MAKE THIS STATE A BETTER PLACE. SHE IS IRREPLACEABLE AND WILL BE MISSED BY SO MANY. MINNESOTA'S THOUGHTS AND PRAYERS ARE WITH HER FAMILY, HER LOVED ONES, HER CHILDREN AND HER PARENTS. MY PRAYERS ALSO GO OUT TO STATE SENATOR JOHN HOFFMAN AND HIS WIFE, YVETTE, WHO WERE EACH SHOT MULTIPLE TIMES. THE HOFFMANS ARE OUT OF SURGERY AT THIS TIME AND RECEIVING CARE, AND WE ARE CAUTIOUSLY OPTIMISTIC THEY WILL SURVIVE THIS ASSASSINATION ATTEMPT.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Governor Tim Walz announces that an \"unspeakable tragedy has unfolded in Minnesota.\" He reports that Speaker Melissa Hortman and her husband Mark were killed in a \"politically motivated assassination.\" He eulogizes Hortman as a great leader and friend. Walz also states that State Senator John Hoffman and his wife Yvette were shot multiple times in an assassination attempt but are expected to survive.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a man's voice speaking at a press conference, with ambient room tone. There is no music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of a talking head at a press conference with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Sorrow",
+    "Gravity",
+    "Shock"
+  ],
+  "cultural_references": [],
+  "central_claim": "Speaker Melissa Hortman has been assassinated and State Senator John Hoffman has been wounded in politically motivated shootings in Minnesota.",
+  "intended_effect": "To inform the public of a shocking act of political violence and to express grief for the victims.",
+  "uncertainty_flags": []
+}

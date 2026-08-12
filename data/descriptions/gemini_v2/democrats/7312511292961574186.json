@@ -1,0 +1,54 @@
+{
+  "video_id": "7312511292961574186",
+  "visual_action": "The video consists of two still images. The first is a shot of the U.S. Capitol Building dome. The second is a photo of Nancy Pelosi, wearing a bright pink suit, standing at the Speaker's podium in the House of Representatives chamber and raising a gavel.",
+  "cast": [
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is featured in a prominent photograph as the representation of the effective House leadership the post claims to miss."
+    },
+    {
+      "name": "U.S. House of Representatives",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text explicitly mentions 'The House getting things done.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The post is from the official account for the Democratic Party (@democrats) and positively features a prominent Democratic leader."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I miss",
+      "role": "overlay"
+    },
+    {
+      "text": "The House getting things done.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, orchestral instrumental track plays throughout the video, creating a nostalgic and significant tone.",
+  "editing_pacing": "The video is a slow-paced slideshow consisting of a single cut between two still photographs.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "The U.S. House of Representatives was more effective and productive under the leadership of Democrat Nancy Pelosi.",
+  "intended_effect": "To evoke nostalgia for Democratic leadership in the House and persuade viewers that Democrats are more effective at governing.",
+  "uncertainty_flags": []
+}

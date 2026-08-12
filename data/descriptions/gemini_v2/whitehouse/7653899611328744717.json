@@ -1,0 +1,96 @@
+{
+  "video_id": "7653899611328744717",
+  "visual_action": "The video cross-cuts between a talking-head clip of JD Vance speaking during a TV news interview and a montage of B-roll footage. The B-roll shows Donald Trump at a Daytona racetrack, shaking hands with racecar driver Richard Petty, standing with a small child, watching a military jet flyover, and walking with a young woman to a helicopter on a lawn. The video ends with a clip of JD Vance disembarking from a plane or helicopter while carrying a small child.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking in a news interview clip. He is identified by face recognition and by on-screen text reading 'VP Vance' and 'PRESIDENT JD VANCE'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in several B-roll clips at a racetrack and near a helicopter. He is wearing a 'MAKE AMERICA GREAT AGAIN' hat."
+    },
+    {
+      "name": "God",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "JD Vance repeatedly references God, saying 'I think that's evidence that God loves us' and 'I hope that my kid comes to know God'."
+    },
+    {
+      "name": "Fox & Friends Weekend",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name of the program appears on the chyron during JD Vance's interview segment."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VP Vance shares his message for his children on Father's Day ❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT JD VANCE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX & FRIENDS WEEKEND",
+      "role": "chyron"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "Happy Father's Day!",
+      "role": "overlay"
+    },
+    {
+      "text": "DAYTONA INTER…",
+      "role": "other"
+    },
+    {
+      "text": "President Donald J. Trump",
+      "role": "other"
+    },
+    {
+      "text": "DAYTONA 500",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "JD Vance gives a message for his children, expressing his hope that they see the world with \"wondrous excitement and joy.\" He counters the world's cynicism by pointing to nature as \"evidence that God loves us\" and created a \"very, very good\" world. Despite imperfections and sin, he believes we are surrounded by evidence of God's love and hopes his children will come to know God by experiencing the \"joy of creation.\"",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists entirely of JD Vance's speaking voice from a news interview, with no accompanying music or sound effects.",
+  "editing_pacing": "The video uses cross-cutting, alternating between a static talking-head interview shot of JD Vance and a montage of B-roll clips featuring Donald Trump and JD Vance with children.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A chyron from a 'FOX & FRIENDS WEEKEND' segment identifies JD Vance as 'PRESIDENT JD VANCE', which visually contradicts an overlay caption on the same clip that identifies him as 'VP Vance'. This suggests the chyron may have been digitally altered.",
+  "emotions_signaled": [
+    "Inspiration",
+    "Hope",
+    "Patriotism",
+    "Familial love"
+  ],
+  "cultural_references": [
+    "Richard Petty",
+    "NASCAR",
+    "Daytona 500"
+  ],
+  "central_claim": "VP JD Vance is a devout family man whose faith guides his wish for his children to see the goodness in God's creation, a value reflected in the wholesome, patriotic imagery of President Trump.",
+  "intended_effect": "To portray the administration and JD Vance as guided by faith, family values, and patriotism, evoking feelings of hope and warmth.",
+  "uncertainty_flags": [
+    "The identity of the man shaking hands with Donald Trump is inferred to be Richard Petty based on his distinctive appearance (cowboy hat, sunglasses), but he is not explicitly named."
+  ]
+}

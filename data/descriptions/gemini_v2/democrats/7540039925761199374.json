@@ -1,0 +1,136 @@
+{
+  "video_id": "7540039925761199374",
+  "visual_action": "A before-and-after style video contrasting two clips of Donald Trump. In the first clip, labeled \"Before meeting with Putin:\", Trump is on a plane and states he wants a ceasefire rapidly. In the second clip, labeled \"After meeting with Putin:\", Trump is in an office setting with other men, including Volodymyr Zelenskyy, and states he doesn't think a ceasefire is needed. This second clip has a CNN news chyron at the bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker in both video clips and the subject of the main on-screen text."
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is framed around Trump's meeting with him, as stated in the text: \"Trump changed his mind on a ceasefire after Putin meeting\"."
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown sitting opposite Trump in the second clip and is named in the CNN chyron."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and a news chyron are visible in the second clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump changed his mind on a ceasefire after Putin meeting 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "Before meeting with Putin:",
+      "role": "overlay"
+    },
+    {
+      "text": "I WANT TO SEE A",
+      "role": "caption"
+    },
+    {
+      "text": "CEASEFIRE RAPIDLY.",
+      "role": "caption"
+    },
+    {
+      "text": "I DON'T KNOW IF IT'S",
+      "role": "caption"
+    },
+    {
+      "text": "BUT I'M NOT GOING TO",
+      "role": "caption"
+    },
+    {
+      "text": "BE HAPPY IF IT'S",
+      "role": "caption"
+    },
+    {
+      "text": "NOT TODAY.",
+      "role": "caption"
+    },
+    {
+      "text": "EVERYONE SAID IT",
+      "role": "caption"
+    },
+    {
+      "text": "CAN'T BE TODAY.",
+      "role": "caption"
+    },
+    {
+      "text": "After meeting with Putin:",
+      "role": "overlay"
+    },
+    {
+      "text": "NEED A CEASEFIRE.",
+      "role": "caption"
+    },
+    {
+      "text": "IF YOU LOOK AT THE",
+      "role": "caption"
+    },
+    {
+      "text": "SIX DEALS THAT I",
+      "role": "caption"
+    },
+    {
+      "text": "SETTLED THIS YEAR,",
+      "role": "caption"
+    },
+    {
+      "text": "AT WAR.",
+      "role": "caption"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP: WILL HAVE TRILATERAL MEETING WITH ZELENSKY AND PUTIN \"IF EVERYTHING WORKS OUT WELL TODAY\"",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "In the first clip, Donald Trump says, \"I want to see a ceasefire rapidly... I'm not going to be happy if it's not today.\" In the second clip, he says, \"I don't think you need a ceasefire.\" He then refers to other deals he has settled.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of spoken dialogue from Donald Trump in two different settings. There is no background music or sound effects.",
+  "editing_pacing": "The video uses a simple side-by-side (sequentially presented) comparison structure, cutting from one talking-head clip to another. The pacing is determined by the length of the speech clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "suspicion",
+    "concern",
+    "criticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump changed his position on wanting a ceasefire immediately after meeting with Vladimir Putin, suggesting Putin influenced his decision.",
+  "intended_effect": "To cause viewers to question Donald Trump's consistency and suspect he is negatively influenced by Vladimir Putin.",
+  "uncertainty_flags": [
+    "The video doesn't provide the dates or full context of the two clips, so the direct cause-and-effect relationship it asserts (a change of mind after a specific meeting) cannot be verified from the video alone.",
+    "The ticker text on the CNN chyron is partially illegible."
+  ]
+}

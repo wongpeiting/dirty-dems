@@ -1,0 +1,85 @@
+{
+  "video_id": "7620988685454019853",
+  "visual_action": "The video displays a screenshot of a tweet from 'FactPost'. The tweet announces that 'Emily Gregory wins the Florida HD-87 special election, beating a Trump-endorsed Republican in Trump's home district.' The tweet includes a photo of Emily Gregory and a photo of the Florida state flag. An overlay caption at the top of the screen reads, 'democrats just flipped trump's home district 😥'. The video briefly zooms in on Emily Gregory's photo, then cuts to a photo of Donald Trump wearing a 'MAKE AMERICA GREAT AGAIN' hat, with the same tweet superimposed over his chest.",
+  "cast": [
+    {
+      "name": "Emily Gregory",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of her is shown and her name is featured in the on-screen tweet: 'Emily Gregory wins the Florida HD-87 special election...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is mentioned in the overlay caption ('trump's home district'), in the tweet ('Trump-endorsed Republican in Trump's home district'), and a photo of him is shown at the end of the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text at the top reads 'democrats just flipped trump's home district 😥'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet mentions that Emily Gregory beat a 'Trump-endorsed Republican'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost' (@factpostnews) is the central visual of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "democrats just flipped trump's home district 😥",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost\n@factpostnews",
+      "role": "other"
+    },
+    {
+      "text": "Emily Gregory wins the Florida HD-87 special election, beating a Trump-endorsed Republican in Trump's home district.",
+      "role": "other"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only a rap song playing throughout.",
+  "emojis_present": [
+    "😥",
+    "🫵",
+    "🤣"
+  ],
+  "audio_music": "A confident, upbeat rap song ('Mad Again' by BunnaB) plays throughout the video, creating a triumphant and gloating tone.",
+  "editing_pacing": "The video is a short slideshow of static images, featuring a zoom-in on one photo and a cut to another.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Gloating",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The song 'Mad Again' by BunnaB is used."
+  ],
+  "central_claim": "Democrats have won a significant victory by flipping a legislative district in Florida associated with Donald Trump, suggesting his political influence is weakening.",
+  "intended_effect": "To make supporters feel triumphant about a political victory and to mock Donald Trump and Republicans over the loss.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,51 @@
+{
+  "video_id": "7600831275540221198",
+  "visual_action": "The video shows footage from a large, dark concert arena, apparently filmed from the audience's perspective. On stage, a large video screen displays a close-up of the performer, Lady Gaga, as she sits at an instrument and speaks into a microphone. The wider view shows the stage and the large crowd, with many people holding up their phones, creating small points of light.",
+  "cast": [
+    {
+      "name": "Lady Gaga",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, shown on a large screen at her concert. The on-screen text identifies her: 'Lady Gaga condemns ICE during her show'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Lady Gaga states that families are 'being mercilessly targeted by ICE.' The on-screen text also reads 'Lady Gaga condemns ICE...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Lady Gaga condemns ICE during her show",
+      "role": "overlay"
+    },
+    {
+      "text": "In a couple of days I'm gonna be heading home. And my heart is aching thinking about the people, the children, the families all over America who are being mercilessly targeted by ICE. I'm thinking about all of their pain and how their lives are being destroyed right in front of us. I'm also thinking about Minnesota and everyone back at home who is living in so much fear and searching for answers on what we all should do. When entire communities lose their sense of safety and belonging, it breaks something in all of us. I hope that you'll all stand with us tonight.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "During a concert, Lady Gaga gives a speech expressing her sorrow for families and children across America who are being 'mercilessly targeted by ICE.' She talks about their pain and fear, and how their lives are being destroyed. She specifically mentions people in Minnesota living in fear. She concludes by asking her audience to 'stand with us,' asserting that when communities lose their sense of safety, 'it breaks something in all of us.' The audience cheers in response.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Lady Gaga's speech, with a prominent echo characteristic of a large arena setting. There is no music. The crowd can be heard cheering loudly in approval of her statements.",
+  "editing_pacing": "The video is a single, continuous shot of the concert stage and screen, with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "empathy",
+    "outrage",
+    "solidarity",
+    "fear"
+  ],
+  "cultural_references": [
+    "Lady Gaga",
+    "Mother Monster"
+  ],
+  "central_claim": "Lady Gaga uses her concert as a platform to condemn ICE for mercilessly targeting and destroying the lives of families, and she calls on her audience to stand in solidarity with those affected.",
+  "intended_effect": "To leverage a celebrity's emotional appeal to galvanize public opposition to ICE's policies and create empathy for affected immigrant communities.",
+  "uncertainty_flags": []
+}

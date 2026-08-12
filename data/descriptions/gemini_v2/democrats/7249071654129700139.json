@@ -1,0 +1,49 @@
+{
+  "video_id": "7249071654129700139",
+  "visual_action": "The video is a slideshow of two still images. The first is a photo of Donald Trump looking somber at a podium. The second is a photo of Joe Biden smiling while wearing aviator sunglasses.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in the first image, and the text \"The last guy talked about infrastructure for years...\" refers to him."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in the second image, and the text \"President Biden delivered historic infrastructure investments...\" refers to him."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The last guy talked about infrastructure for years...",
+      "role": "overlay"
+    },
+    {
+      "text": "President Biden delivered historic infrastructure investments to the American people",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "",
+  "emojis_present": [],
+  "audio_music": "The video features the instrumental song \"The Winner Is...\" by DeVotchKa. The music starts with a simple, slightly pensive tone over the image of Donald Trump, then swells into a triumphant, uplifting crescendo over the image of Joe Biden, creating an emotional contrast and a feeling of victory.",
+  "editing_pacing": "slideshow",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "accomplishment",
+    "disappointment"
+  ],
+  "cultural_references": [
+    "The Winner Is... (song from the movie Little Miss Sunshine)"
+  ],
+  "central_claim": "While Donald Trump only talked about infrastructure, Joe Biden successfully delivered historic infrastructure investments to the American people.",
+  "intended_effect": "To create a feeling of pride in President Biden's accomplishments and portray him as more effective than his predecessor.",
+  "uncertainty_flags": []
+}

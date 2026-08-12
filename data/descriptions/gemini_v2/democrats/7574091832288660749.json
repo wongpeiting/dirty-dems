@@ -1,0 +1,78 @@
+{
+  "video_id": "7574091832288660749",
+  "visual_action": "Donald Trump stands at a podium with the presidential seal, delivering a speech at the \"McDonald's Impact Summit '20\" in Washington D.C. A large screen behind him has McDonald's branding. The footage includes a C-SPAN2 chyron at the bottom of the screen. The shot is static throughout the clip.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is the sole speaker featured in the video, shown delivering a speech. He is also identified by the C-SPAN2 chyron."
+    },
+    {
+      "name": "McDonald's",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The event is identified on-screen as the \"MCDONALD'S IMPACT SUMMIT '20\" and Trump is speaking to \"MCDONALD'S FRANCHISE OWNERS & SUPPLIERS\" according to the chyron. He also mentions them at the end of the clip."
+    },
+    {
+      "name": "C-SPAN2",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN2 logo is visible on the chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: And you know, we got the drip drip water, we call it the drip drip.",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP SPEAKS ON AFFORDABILITY TO GATHERING OF MCDONALD'S FRANCHISE OWNERS & SUPPLIERS",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE • 3:52",
+      "role": "chyron"
+    },
+    {
+      "text": "WASHINGTON, DC",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN2",
+      "role": "chyron"
+    },
+    {
+      "text": "MCDONALD'S IMPACT SUMMIT '20",
+      "role": "other"
+    },
+    {
+      "text": "NATIONALLY LOVED",
+      "role": "other"
+    },
+    {
+      "text": "LOCALLY OWNED",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump discusses his administration's policy of eliminating ten regulations for every new one implemented. He uses an extended example about repealing water regulations, which he calls \"drip-drip water,\" claiming they restrict water flow from sinks and showers. He humorously describes his personal frustration with low water pressure when trying to wash his hair. He alludes to another bathroom fixture affected by these regulations but declines to name it, before joking that people who don't understand his reference shouldn't own a McDonald's franchise.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's speaking voice during a speech. Ambient room noise and some audience laughter can be heard in the background. There is no music or added sound effects.",
+  "editing_pacing": "The video is a single, static shot of a person speaking at a podium, with no cuts, zooms, or other camera movements.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Ridicule"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video implies that Donald Trump is a nonsensical leader who focuses on trivial personal grievances like shower water pressure rather than important national issues.",
+  "intended_effect": "To make the viewer perceive Donald Trump as foolish and unfit for office.",
+  "uncertainty_flags": []
+}

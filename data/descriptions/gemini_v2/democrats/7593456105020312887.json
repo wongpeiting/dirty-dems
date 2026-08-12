@@ -1,0 +1,62 @@
+{
+  "video_id": "7593456105020312887",
+  "visual_action": "Alexandria Ocasio-Cortez stands on the steps of a government building, surrounded by reporters and cameras, and speaks directly to them.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video and is identified by a chyron reading 'REP. ALEXANDRIA OCASIO-CORTEZ (D-NY)'."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is a criticism of his alleged comments. AOC refers to him as 'Vice President Vance' and the on-screen text reads 'Rep AOC rips into JD Vance'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The overlay text mentions 'his comments on ICE in Minnesota'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Rep AOC rips into JD Vance for his comments on ICE in Minnesota",
+      "role": "overlay"
+    },
+    {
+      "text": "REP. ALEXANDRIA OCASIO-CORTEZ (D-NY) SPEAKS TO REPORTERS ON CAPITOL HILL",
+      "role": "chyron"
+    },
+    {
+      "text": "JANUARY 9, 2026",
+      "role": "chyron"
+    },
+    {
+      "text": "Forbes BREAKING NEWS",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Alexandria Ocasio-Cortez states she understands that \"Vice President Vance believes that shooting a young mother of three in the face three times is an acceptable America that he wants to live in.\" She declares that she does not agree, calling it a \"fundamental difference\" between them. She concludes, \"I do not believe that the American people should be assassinated in the street.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of Alexandria Ocasio-Cortez's spoken words, with ambient background noise from the surrounding press scrum. There is no music or soundtrack.",
+  "editing_pacing": "The video is a single, static shot of a person speaking to reporters, in a talking-head style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "JD Vance supports the extrajudicial killing of American citizens.",
+  "intended_effect": "To generate outrage toward JD Vance by portraying him as an extremist who condones lethal violence against civilians.",
+  "uncertainty_flags": []
+}

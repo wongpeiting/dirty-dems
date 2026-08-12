@@ -1,0 +1,53 @@
+{
+  "video_id": "7552959291259391245",
+  "visual_action": "Donald Trump, dressed in a tuxedo, is seen on a stage with flags behind him. He is holding a large ceremonial pair of scissors or a sword and makes cutting motions. He then smiles and shimmies while holding the object. Other people, including some in military-style uniforms, are visible in the background.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the main person shown on screen and is identified by face recognition."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Trump letting Republicans shut down the government...'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The post's caption mentions, '...not even bother negotiating with Dems btw'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump letting Republicans shut down the government so they can kick millions of Americans off their health care",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. The audio consists of music with lyrics from the song 'The Sign' by Ace of Base, including the lines, \"I got a new life, you would hardly recognize me I'm so glad, how can a person like me care for you.\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat 90s pop song, identified as 'The Sign' by Ace of Base, plays throughout the clip. The music's cheerful tone and the specific ironic lyrics create a mocking effect when juxtaposed with the serious on-screen text.",
+  "editing_pacing": "The video consists of a single, short, looped clip with no cuts or complex editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "sarcasm",
+    "anger"
+  ],
+  "cultural_references": [
+    "\"The Sign\" by Ace of Base"
+  ],
+  "central_claim": "Donald Trump is gleefully supporting a government shutdown by Republicans that will cause millions of Americans to lose their health care.",
+  "intended_effect": "To portray Donald Trump and Republicans as callous and uncaring individuals who celebrate actions that harm American citizens, thereby generating anger and opposition towards them.",
+  "uncertainty_flags": []
+}

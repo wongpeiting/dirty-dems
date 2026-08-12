@@ -1,0 +1,75 @@
+{
+  "video_id": "7600136466001448223",
+  "visual_action": "The video begins with a static screenshot of a tweet from an account named 'FactPost'. The tweet shows an image of Donald Trump from behind, with a C-SPAN logo, walking near a helicopter. The tweet text attributes a quote to Trump regarding the 'killing of Alex Pretti'. The video then transitions to a clip of Trump speaking to reporters outdoors, with a helicopter in the background. The clip is shown with different lines of the quote appearing as on-screen captions.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is visually present and is the subject of the on-screen text and the central focus of the video."
+    },
+    {
+      "name": "Alex Pretti",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text introduces the clip as 'Trump on the killing of Alex Pretti'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video opens with a screenshot of a tweet from the account 'FactPost' (@Factpostnews)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @Factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump on the killing of Alex Pretti:",
+      "role": "overlay"
+    },
+    {
+      "text": "\"You know, you can't have guns. You can't walk in with guns. Can't walk into this. You can't do that.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "You know, you can't have guns.",
+      "role": "caption"
+    },
+    {
+      "text": "You can't do that.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. Donald Trump is shown mouthing words, but his voice is inaudible and has been replaced entirely by a music track. The words he allegedly spoke are conveyed only through on-screen text.",
+  "emojis_present": [],
+  "audio_music": "A dramatic, slightly triumphant-sounding orchestral/electronic track ('It's Time to Spoil Everything' by Makis Radiology) plays throughout the entire video, replacing any natural audio or speech.",
+  "editing_pacing": "The video consists of a static shot of a tweet screenshot, which then cuts to a short video clip of Donald Trump that is presented in two segments with different captions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "outrage",
+    "confusion"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump responded to the killing of Alex Pretti with the incoherent and inappropriate comment, 'You know, you can't have guns... You can't do that.'",
+  "intended_effect": "To portray Donald Trump as callous, incoherent, and unfit for office by presenting a decontextualized quote in a serious and dramatic manner.",
+  "uncertainty_flags": [
+    "The identity of 'Alex Pretti' and the circumstances of their death are not specified.",
+    "The authenticity of the 'FactPost' tweet cannot be verified from the video.",
+    "The original context of Donald Trump's quote is completely omitted."
+  ]
+}

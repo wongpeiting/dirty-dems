@@ -1,0 +1,97 @@
+{
+  "video_id": "7469928284504182062",
+  "visual_action": "The video shows a clip from a televised interview. Donald Trump is seated in a formal room, being interviewed by another man, identified by a chyron as Bret Baier. The camera cuts between a medium shot of Trump, a shot of Baier, and a wider two-shot of both men seated across from each other.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown on screen throughout the video and answers the interviewer's question."
+    },
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The interviewer asks if Trump views \"Vice President J.D. Vance\" as his successor. The post's caption also tags him."
+    },
+    {
+      "name": "Bret Baier",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is the interviewer asking the question, and the chyron identifies the segment as \"BRET BAIER PREVIEWS PART 2 OF HIS TRUMP INTERVIEW\"."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo appears on the chyron throughout the video clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "that was a quick no lol",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "SPECIAL REPORT",
+      "role": "chyron"
+    },
+    {
+      "text": "BRET BAIER PREVIEWS PART 2 OF HIS TRUMP INTERVIEW",
+      "role": "chyron"
+    },
+    {
+      "text": "INTERVIEW WITH PRESIDENT TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "DO YOU VIEW",
+      "role": "caption"
+    },
+    {
+      "text": "VICE PRESIDENT J.D. VANCE",
+      "role": "caption"
+    },
+    {
+      "text": "AS YOUR SUCCESSOR,",
+      "role": "caption"
+    },
+    {
+      "text": "THE REPUBLICAN NOMINEE IN 2028?",
+      "role": "caption"
+    },
+    {
+      "text": "NO,",
+      "role": "caption"
+    },
+    {
+      "text": "BUT HE'S VERY CAPABLE.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An interviewer asks Donald Trump, \"Do you view Vice President J.D. Vance as your successor, the Republican nominee in 2028?\" Trump immediately replies, \"No, but he's very capable.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of the dialogue from the interview clip, without any background music or sound effects.",
+  "editing_pacing": "The video uses simple cuts between different camera angles of a static, talking-head style interview.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump does not view Vice President J.D. Vance as his successor for the 2028 Republican nomination.",
+  "intended_effect": "To embarrass J.D. Vance and suggest a lack of confidence in him from Donald Trump, potentially creating an impression of division among Republicans.",
+  "uncertainty_flags": []
+}

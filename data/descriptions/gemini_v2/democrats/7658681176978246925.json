@@ -1,0 +1,126 @@
+{
+  "video_id": "7658681176978246925",
+  "visual_action": "A slideshow of still images with text overlays. The first image shows Donald Trump at a desk signing a bill, surrounded by clapping supporters including Melania Trump and Mitch McConnell. Subsequent images show a school cafeteria line, an empty hospital room, a dejected-looking person sitting on a step, and finally a bar chart comparing '$1 trillion' in tax cuts to '$930 billion' in Medicaid cuts.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in the first image signing a bill, and the on-screen text states, 'it has been one year since trump signed his megabill.'"
+    },
+    {
+      "name": "Mitch McConnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible in the first photograph, standing to Donald Trump's right and clapping."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is visible in the background of the first photograph during the bill signing."
+    },
+    {
+      "name": "Institute on Taxation and Economic Policy",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Credited as a source for the data in the bar chart, with its logo 'ITEP.org' displayed."
+    },
+    {
+      "name": "Joint Committee on Taxation",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Listed as a source for the data in the bar chart."
+    },
+    {
+      "name": "Congressional Budget Office",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Listed as a source for the data in the bar chart."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "it has been one year since trump signed his megabill.",
+      "role": "overlay"
+    },
+    {
+      "text": "here's what happened since.",
+      "role": "overlay"
+    },
+    {
+      "text": "almost 2.5 MILLION children lost food assistance",
+      "role": "overlay"
+    },
+    {
+      "text": "8 MILLION Americans have lost their healthcare entirely",
+      "role": "overlay"
+    },
+    {
+      "text": "taxes raised on 95% of americans",
+      "role": "overlay"
+    },
+    {
+      "text": "$1 trillion tax cut for the top 1%",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump Megabill Pays for Tax Cuts for the Top 1% With Medicaid Cuts for Moderate-Income Families",
+      "role": "overlay"
+    },
+    {
+      "text": "$1 trillion",
+      "role": "other"
+    },
+    {
+      "text": "$930 billion",
+      "role": "other"
+    },
+    {
+      "text": "Tax cuts for the richest 1% over the next 10 years",
+      "role": "other"
+    },
+    {
+      "text": "Cuts to Medicaid over the next 10 years",
+      "role": "other"
+    },
+    {
+      "text": "Source: Institute on Taxation and Economic Policy analysis of data from the Joint Committee on Taxation, Congressional Budget Office, and various other sources, July 2025",
+      "role": "credit"
+    },
+    {
+      "text": "Institute on Taxation and Economic Policy | ITEP.org",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is set entirely to music.",
+  "emojis_present": [],
+  "audio_music": "A somber and melancholic pop song ('David' by Lorde) plays throughout the video, creating a serious and critical mood.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images, with each image and its accompanying text overlay shown for several seconds before cutting to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Anger",
+    "Sympathy",
+    "Outrage"
+  ],
+  "cultural_references": [
+    "The song 'David' by the artist Lorde is used as the background music."
+  ],
+  "central_claim": "A 'megabill' signed by Donald Trump resulted in widespread negative consequences for average Americans, such as losing food and healthcare assistance, while providing a massive tax cut for the wealthiest 1%.",
+  "intended_effect": "To persuade the viewer that Donald Trump's policies are harmful to the majority of Americans and primarily benefit the rich, thereby fostering opposition to him.",
+  "uncertainty_flags": []
+}

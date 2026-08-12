@@ -1,0 +1,89 @@
+{
+  "video_id": "7576311658063105335",
+  "visual_action": "A montage of two clips. First, Donald Trump is shown meeting and shaking hands with Saudi Crown Prince Mohammed bin Salman in the Oval Office, with a Fox News chyron on screen. Second, Trump is shown speaking with Indonesian politician Prabowo Subianto in front of a backdrop of international flags.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "On-screen text states, \"Trump's the type to make backroom deals...\" and he is shown in all the video clips."
+    },
+    {
+      "name": "Mohammed bin Salman",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified in the Fox News chyron as 'SAUDI CROWN PRINCE' meeting with Trump."
+    },
+    {
+      "name": "Prabowo Subianto",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by the on-screen subtitle 'Prabowo: Can I ... Can I meet Eric?'"
+    },
+    {
+      "name": "Eric Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen subtitles of a conversation: 'Prabowo: Can I ... Can I meet Eric?' and 'Trump: I'll have Eric call you.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's the type to make backroom deals with foreign leaders that just happen to enrich him and his family 🤫",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: TRUMP, SAUDI CROWN PRINCE MEET IN OVAL OFFICE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "Prabowo: Can I ... Can I meet Eric?",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump: I'll have Eric call you.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump: He's such a good boy. I'll have Eric call.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a rap song with the repeated lyric, \"I'm the type to hop on the flight with a warrant, you gotta catch me.\" The dialogue shown in on-screen subtitles between Trump and Prabowo is not clearly audible over the music.",
+  "emojis_present": [
+    "🤫"
+  ],
+  "audio_music": "A rap track ('Vibración Guía' by Andrew James Cook) plays throughout the video, creating a swaggering or illicit tone that complements the accusation of 'backroom deals'.",
+  "editing_pacing": "A quick cut between two different clips of Donald Trump meeting with foreign leaders.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Distrust",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump engages in corrupt 'backroom deals' with foreign leaders, using his political position to benefit his family financially.",
+  "intended_effect": "To persuade the viewer that Donald Trump is corrupt and uses his presidency for personal enrichment.",
+  "uncertainty_flags": []
+}

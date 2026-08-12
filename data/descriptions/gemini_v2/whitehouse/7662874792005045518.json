@@ -1,0 +1,53 @@
+{
+  "video_id": "7662874792005045518",
+  "visual_action": "A conversation between two men, JD Vance and Joe Rogan, in a podcast studio setting. The video cuts between close-up shots of each man as they speak into microphones. A neon sign for 'The Joe Rogan Experience' is visible behind Rogan.",
+  "cast": [
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on screen speaking throughout the video, identified by face recognition."
+    },
+    {
+      "name": "Joe Rogan",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears on screen speaking throughout the video, identified by face recognition."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text references 'Dems' and JD Vance speaks about being 'skeptical of what the Democrats are doing.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VP on Rogan: If Dems don't want to cheat in elections, why not require Voter ID?",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "JD Vance and Joe Rogan discuss voter ID laws. Vance claims that in some places, one can be prosecuted for requiring a voter to show ID. Rogan responds that this seems like a way to enable cheating and contrasts it with Democrats' previous support for vaccine passports. Vance argues that if Democrats don't want to cheat, they should support voter ID. He adds that requiring ID for mail-in ballots solves many issues. Rogan agrees, calling the measure 'logical' and concludes by saying, 'I'm not skeptical. I'm accusing them. I think they stole the election.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of conversational dialogue between the two speakers, with no background music or sound effects.",
+  "editing_pacing": "The video uses simple cuts, alternating between shots of the two speakers as they converse in a talking-head style.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Suspicion",
+    "Disbelief",
+    "Accusation"
+  ],
+  "cultural_references": [
+    "The Joe Rogan Experience"
+  ],
+  "central_claim": "The Democratic Party's opposition to voter ID laws indicates that they want to cheat in elections.",
+  "intended_effect": "To persuade viewers that voter ID is a common-sense security measure and to generate suspicion about the Democratic Party's motives regarding election integrity.",
+  "uncertainty_flags": []
+}

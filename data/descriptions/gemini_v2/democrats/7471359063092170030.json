@@ -1,0 +1,81 @@
+{
+  "video_id": "7471359063092170030",
+  "visual_action": "The video displays a slideshow of two screenshots of tweets. The first is a tweet from Doug Emhoff directed at Kamala Harris, featuring a smiling selfie of the two of them. The second is a tweet from Barack Obama directed at Michelle Obama, featuring a smiling selfie of them together.",
+  "cast": [
+    {
+      "name": "Doug Emhoff",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A screenshot shows a tweet from the account 'Doug Emhoff' (@DouglasEmhoff) and features a photo of him."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is tagged (@KamalaHarris) in a tweet from Doug Emhoff and appears in a photo with him."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A screenshot shows a tweet from the account 'Barack Obama' (@BarackObama) and features a photo of him."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "She is tagged (@MichelleObama) in a tweet from Barack Obama and appears in a photo with him."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Doug Emhoff @DouglasEmhoff",
+      "role": "overlay"
+    },
+    {
+      "text": "Happy Valentine's Day to the love of my life @KamalaHarris. Every day with you is an adventure filled with laughter and joy. Grateful to be by your side through it all. ❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "Barack Obama @BarackObama",
+      "role": "overlay"
+    },
+    {
+      "text": "Thirty-two years together and you still take my breath away. Happy Valentine's Day, @MichelleObama!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio is entirely a musical track.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "A gentle, sentimental song with a female vocalist plays consistently throughout the video, creating a warm and romantic mood.",
+  "editing_pacing": "The video is a simple slideshow, transitioning once from the first static screenshot of a tweet to the second.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Love",
+    "Warmth",
+    "Admiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Prominent Democratic figures, specifically the Obamas and Kamala Harris with Doug Emhoff, have strong, loving, and admirable relationships.",
+  "intended_effect": "To humanize these political figures and evoke feelings of warmth and admiration for their relationships, portraying them in a positive and relatable light.",
+  "uncertainty_flags": []
+}

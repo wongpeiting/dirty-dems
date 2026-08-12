@@ -1,0 +1,79 @@
+{
+  "video_id": "7631997664422317342",
+  "visual_action": "The video opens with a close-up shot of Nancy Pelosi speaking. After she finishes her statement, the video cuts to a fast-paced montage of clips featuring Donald Trump. The clips show him standing in front of a very large American flag, at a rally podium holding up a black and yellow jersey with 'TRUMP' on the back, walking down a red carpet at an outdoor rally, standing in front of a fighter jet, walking on a stage with sparks/fireworks in the background, and finally, from behind, wearing a white baseball cap with '45-47' on the side.",
+  "cast": [
+    {
+      "name": "Nancy Pelosi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Appears in the opening clip speaking the line, 'Donald Trump is not going to be president of the United States.'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Is named in the opening audio by Nancy Pelosi ('Donald Trump is not going to be president'), appears on screen throughout the subsequent montage, and his name is visible on a jersey and a large screen."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by external context (face-ID) as being present in the video, though he is not clearly visible or featured."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald Trump is not going to",
+      "role": "caption"
+    },
+    {
+      "text": "be president of the United States",
+      "role": "caption"
+    },
+    {
+      "text": "take it to the bank",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP",
+      "role": "other"
+    },
+    {
+      "text": "DONALD J. TRUMP",
+      "role": "other"
+    },
+    {
+      "text": "45th & 47th President of the United States",
+      "role": "other"
+    },
+    {
+      "text": "45-47",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Nancy Pelosi says, \"Donald Trump is not going to be president of the United States. Take it to the bank.\"",
+  "emojis_present": [],
+  "audio_music": "The video begins with only Nancy Pelosi's spoken dialogue. At the transition to the montage of Donald Trump, the upbeat and defiant pop song 'Telephone' by Lady Gaga ft. Beyoncé begins and plays for the remainder of the video, creating a triumphant and dismissive mood.",
+  "editing_pacing": "The video consists of a single, static shot of a person speaking, followed by a fast-cut montage of various clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "pride",
+    "confidence"
+  ],
+  "cultural_references": [
+    "The song 'Telephone' by Lady Gaga and Beyoncé is used as the backing track."
+  ],
+  "central_claim": "The post mocks Nancy Pelosi's past prediction that Donald Trump would not become president by showcasing a montage of him as a powerful and popular political figure.",
+  "intended_effect": "To mock Nancy Pelosi, and to make viewers feel proud of and confident in Donald Trump's political strength.",
+  "uncertainty_flags": [
+    "Could not visually confirm the presence of Pete Hegseth, who was listed in the provided face-ID context."
+  ]
+}

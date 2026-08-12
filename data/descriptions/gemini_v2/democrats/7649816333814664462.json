@@ -1,0 +1,69 @@
+{
+  "video_id": "7649816333814664462",
+  "visual_action": "The video intercuts clips of Donald Trump speaking to reporters at night on an airport tarmac with a montage of various large crowds cheering for him. The crowd shots include people in an outdoor park watching him on a large screen, and a massive audience inside an arena (Madison Square Garden) holding up phone lights while he is shown saluting on the jumbotron. The video ends with Trump waving and turning to board an airplane.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video and is shown on screen throughout, both in person and on large video screens."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text \"FROM FOX\" appears on a chyron in the news clips of Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "BOOOO👎",
+      "role": "caption"
+    },
+    {
+      "text": "SPEAKS TO REPORTERS AFTER ATTENDING",
+      "role": "chyron"
+    },
+    {
+      "text": "FROM FOX",
+      "role": "chyron"
+    },
+    {
+      "text": "Lauren Caulk",
+      "role": "credit"
+    },
+    {
+      "text": "MADISON SQUARE GARDEN",
+      "role": "other"
+    },
+    {
+      "text": "CHASE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump describes a recent public appearance, stating that the reception was \"very good\" and \"amazing.\" He claims the crowd reaction was \"mostly cheers\" and describes it as \"loud and it was very enthusiastic.\"",
+  "emojis_present": [
+    "👎"
+  ],
+  "audio_music": "The audio alternates between Donald Trump's spoken voice and the loud, roaring sound of a large, cheering crowd. There is no musical score. The sound of the enthusiastic crowd is used to amplify the visuals of his supporters.",
+  "editing_pacing": "The video uses quick cuts, alternating between a relatively static interview shot of Trump and dynamic, sweeping shots of large crowds, creating a juxtaposition between his commentary and the evidence of his reception.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Pride",
+    "Triumph"
+  ],
+  "cultural_references": [
+    "Madison Square Garden"
+  ],
+  "central_claim": "Donald Trump is being mocked for his claim of receiving an 'amazing' and 'enthusiastic' reception, with the caption sarcastically suggesting the cheers were actually boos.",
+  "intended_effect": "To portray Donald Trump as delusional or dishonest about his level of public support.",
+  "uncertainty_flags": [
+    "The specific event that Trump is speaking about is not identified."
+  ]
+}

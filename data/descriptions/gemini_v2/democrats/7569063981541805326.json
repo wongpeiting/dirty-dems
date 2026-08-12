@@ -1,0 +1,57 @@
+{
+  "video_id": "7569063981541805326",
+  "visual_action": "The video is a slideshow of two still images. The first is a screenshot of a tweet from an account called 'FactPost' which announces that 'Democrat Mikie Sherrill has been elected Governor of New Jersey.' The tweet includes a photo of Sherrill and a photo of the New Jersey State House. The second image is a photo of Mikie Sherrill smiling while speaking at a podium.",
+  "cast": [
+    {
+      "name": "Mikie Sherrill",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The on-screen text of a tweet reads 'Democrat Mikie Sherrill has been elected Governor of New Jersey.' She is also shown in two photographs."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays a screenshot of a tweet from the account 'FactPost' with the handle '@factpostnews'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text refers to Mikie Sherrill as a 'Democrat'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrat Mikie Sherrill has been elected Governor of New Jersey.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; only instrumental and vocal music plays.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, anthemic classic rock song, identified as Bruce Springsteen's 'Dancing In the Dark', plays throughout the video, creating a celebratory and triumphant mood.",
+  "editing_pacing": "The video is a simple slideshow consisting of two static images with a single cut between them.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a staged/fake tweet from a parody or non-existent news source called 'FactPost' to announce a purported election result. This format mimics a real news announcement to present its claim as fact.",
+  "emotions_signaled": [
+    "pride",
+    "celebration",
+    "triumph"
+  ],
+  "cultural_references": [
+    "Bruce Springsteen"
+  ],
+  "central_claim": "Democrat Mikie Sherrill has been elected Governor of New Jersey.",
+  "intended_effect": "To create a sense of excitement and celebrate a purported political victory for the Democratic Party.",
+  "uncertainty_flags": []
+}

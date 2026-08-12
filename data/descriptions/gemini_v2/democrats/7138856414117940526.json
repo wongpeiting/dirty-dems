@@ -1,0 +1,74 @@
+{
+  "video_id": "7138856414117940526",
+  "visual_action": "Jaime Harrison, DNC Chair, speaks directly to the camera in what appears to be an office setting. A framed sign reading 'RON BROWN DNC CHAIR' is visible on the wall behind him.",
+  "cast": [
+    {
+      "name": "Jaime Harrison",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, and the on-screen text identifies him as 'Chair Harrison'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about praising 'President Biden' for his student loan forgiveness plan. He is mentioned by name multiple times."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker is the DNC Chair, the account is @democrats, and he refers to 'Democrats in the House and the Senate'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned once at the end of the video: 'That's what we got in Vice President Harris.'"
+    },
+    {
+      "name": "Ron Brown",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears on a framed sign on the wall behind Jaime Harrison which reads 'RON BROWN DNC CHAIR'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Chair Harrison on the impact of President Biden's student loan forgiveness plan 👩‍🎓✨",
+      "role": "overlay"
+    },
+    {
+      "text": "RON BROWN DNC CHAIR",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "DNC Chair Jaime Harrison praises President Biden for making history by delivering on his campaign promise for targeted student loan forgiveness. Harrison shares an anecdote about a grandparent in their 70s still paying off student loans, framing Biden's action as a 'helping hand' for working people. He concludes that delivering on promises is what voters get with President Biden, Vice President Harris, and Democrats in Congress.",
+  "emojis_present": [
+    "👩‍🎓",
+    "✨"
+  ],
+  "audio_music": "The video consists solely of a person speaking. There is no background music or other audio.",
+  "editing_pacing": "The video is a single, static shot of a person speaking directly to the camera (a 'talking-head' style).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Compassion",
+    "Relief"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden and the Democratic Party are keeping their promises to help working families by enacting student loan forgiveness.",
+  "intended_effect": "To persuade the viewer that the Democratic party is effective and compassionate, thereby solidifying support for its leaders and policies.",
+  "uncertainty_flags": []
+}

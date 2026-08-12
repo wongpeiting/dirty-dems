@@ -1,0 +1,111 @@
+{
+  "video_id": "7516665964948163883",
+  "visual_action": "The video starts with a clip of a woman speaking at a White House press briefing podium. It then cuts to a screenshot of a headline from The Washington Post about Donald Trump's income. It concludes with a screenshot showing a product image of a gold-colored 'TRUMP MOBILE' smartphone next to a headline from CNBC.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in on-screen text as 'President Trump' and in headlines: 'Trump reports over $600 million...' and 'Trump Organization...'"
+    },
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text 'the trump admin:' appears at the beginning of the video."
+    },
+    {
+      "name": "unnamed Trump administration official",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown speaking at a White House podium, identified by the overlay text as being part of 'the trump admin:'."
+    },
+    {
+      "name": "The Trump Organization",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in the on-screen headline: 'Trump Organization announces mobile plan...'"
+    },
+    {
+      "name": "The Washington Post",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Credited as the source for the headline about Trump's income."
+    },
+    {
+      "name": "CNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Credited as the source for the headline about the Trump Organization's mobile plan."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "the trump admin:",
+      "role": "meme_text"
+    },
+    {
+      "text": "It's ridiculous to suggest President Trump is doing anything for his own benefit.",
+      "role": "caption"
+    },
+    {
+      "text": "meanwhile...",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump reports over $600 million in income in latest financial disclosure",
+      "role": "overlay"
+    },
+    {
+      "text": "The Washington Post",
+      "role": "credit"
+    },
+    {
+      "text": "TRUMP MOBILE",
+      "role": "overlay"
+    },
+    {
+      "text": "Make America Great Again",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump Organization announces mobile plan, $499 smartphone",
+      "role": "overlay"
+    },
+    {
+      "text": "🥴🥴🥴",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no audible dialogue. The clip of the official speaking is overdubbed with a baby laughing sound effect. On-screen captions attribute the following words to her: \"It's ridiculous to suggest President Trump is doing anything for his own benefit.\"",
+  "emojis_present": [
+    "🥴"
+  ],
+  "audio_music": "The audio is a comedic remix featuring various sound effects to create a mocking tone. The video begins with a high-pitched, cartoonish baby laughing sound. This is followed by a brief musical sting and then a deeper, more villainous-sounding laugh that ends with a record-scratch-like sound. The fingerprinted music is identified as 'いたずらっ子の黒猫' (Mischievous Black Cat), which aligns with the playful, mocking tone.",
+  "editing_pacing": "A slideshow with quick cuts between a video clip and two static images of news headlines.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery (use of laughing sound effects over the official's statement)",
+    "Disbelief (the use of 'meanwhile...' and 🥴 emojis to contradict the initial claim)",
+    "Contempt (the juxtaposition of the denial with headlines about Trump's financial activities)"
+  ],
+  "cultural_references": [
+    "The audio is labeled 'Sigma Baby Laughing Remix,' which references the 'sigma male' internet meme archetype."
+  ],
+  "central_claim": "The Trump administration's denial that Donald Trump acts for his own financial benefit is hypocritical and false, as evidenced by his significant income and business ventures while in or associated with office.",
+  "intended_effect": "To mock the Trump administration's claims and persuade the viewer that Donald Trump used his position for personal enrichment.",
+  "uncertainty_flags": []
+}

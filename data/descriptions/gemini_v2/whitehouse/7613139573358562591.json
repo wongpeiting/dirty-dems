@@ -1,0 +1,77 @@
+{
+  "video_id": "7613139573358562591",
+  "visual_action": "A montage of clips shows large crowds of people, seemingly of Iranian descent, rallying and celebrating in various city streets. They are waving pre-revolution Iranian flags (with the Lion and Sun) and American flags, dancing, and cheering. One protestor holds a sign that reads \"THANK YOU TRUMP\". Throughout the montage, small video clips of Donald Trump dancing at a rally are superimposed over the crowd footage. The video has a stylized filter with scan lines. It ends with a black and white graphic for \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in multiple superimposed clips dancing. A sign in the crowd reads \"THANK YOU TRUMP\"."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with a title card reading \"THE WHITE HOUSE\"."
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man's voice is heard at the beginning of the video saying, \"Look what the beautiful people out here...\""
+    },
+    {
+      "name": "Iranian protestors",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text says \"All Iranians rn be like:\", and the people are shown waving Iranian flags in what appears to be a protest or rally."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THANK YOU TRUMP ♥",
+      "role": "other"
+    },
+    {
+      "text": "All Iranians rn be like:",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video opens with a man saying, \"Look what the beautiful people out here...\" The rest of the video's audio consists of the song \"Y.M.C.A.\" by Village People. The provided transcript contains lyrics from the song.",
+  "emojis_present": [
+    "♥"
+  ],
+  "audio_music": "The video begins with a brief spoken line, then the upbeat disco song \"Y.M.C.A.\" by Village People starts and plays continuously until the end. The music creates a celebratory and energetic mood for the montage.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes of crowds and rallies. It frequently uses superimposed clips of Donald Trump dancing over the main footage.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Video clips of Donald Trump dancing are digitally superimposed onto footage of street protests and rallies. This creates the visual impression that he is present with the crowds or that they are dancing in unison with him.",
+  "emotions_signaled": [
+    "Joy",
+    "Celebration",
+    "Support",
+    "Pride"
+  ],
+  "cultural_references": [
+    "The song 'Y.M.C.A.' by Village People, which is a widely recognized disco anthem and a song frequently played at Donald Trump's rallies.",
+    "The meme format of 'X be like:' used as on-screen text to frame the video's content."
+  ],
+  "central_claim": "Iranians are enthusiastically celebrating and showing widespread support for Donald Trump.",
+  "intended_effect": "To generate positive sentiment for Donald Trump by portraying him as a figure celebrated by the Iranian people.",
+  "uncertainty_flags": [
+    "The first spoken line in the transcript, \"they're all shatting me,\" appears to be a transcription error; the audio is unclear but sounds more positive, possibly \"chanting for me.\"",
+    "The specific identity of the man speaking at the beginning is not clear.",
+    "The dates and locations of the protest footage are not specified."
+  ]
+}

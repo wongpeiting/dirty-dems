@@ -1,0 +1,66 @@
+{
+  "video_id": "7545223037851929870",
+  "visual_action": "A montage of scenes shows Donald Trump, wearing a suit, visiting what appears to be a steel mill. He interacts with workers in orange jumpsuits and hard hats, examines a large coil of steel and a washing machine, and walks with workers in front of a large American flag. The video concludes with black and white footage of the White House and a helicopter, branded with \"THE WHITE HOUSE\" text.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the central figure in the video, shown in multiple shots interacting with workers at a steel mill."
+    },
+    {
+      "name": "United States Steel",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The \"USS\" logo is visible on workers' uniforms and the words \"United States Steel\" are printed on a large steel coil."
+    },
+    {
+      "name": "unnamed steel workers",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Several workers in hard hats and uniforms are shown interacting with Donald Trump throughout the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "USS",
+      "role": "other"
+    },
+    {
+      "text": "United States Steel",
+      "role": "other"
+    },
+    {
+      "text": "MON VALLEY WORKS",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The dialogue is indistinct and functions as background noise beneath a dominant musical track. The provided transcript captures some ambient sounds but there is no clear narrative speech.",
+  "emojis_present": [],
+  "audio_music": "A continuous, powerful, and anthemic electronic instrumental track ('Meridian' by ODESZA) plays throughout the video, creating a heroic and patriotic mood.",
+  "editing_pacing": "The video is a smoothly edited montage featuring some slow-motion shots, which gives it a cinematic and impactful feel.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "patriotism"
+  ],
+  "cultural_references": [
+    "ODESZA"
+  ],
+  "central_claim": "Donald Trump is a champion of the American steel industry and its workers.",
+  "intended_effect": "To foster a sense of patriotism and pride in American industry, and to portray Donald Trump as a strong supporter of the American working class.",
+  "uncertainty_flags": [
+    "The specific dialogue is inaudible under the loud musical score; the provided transcript is minimal and likely captures ambient noise rather than a coherent message."
+  ]
+}

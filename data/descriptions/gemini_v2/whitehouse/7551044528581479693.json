@@ -1,0 +1,72 @@
+{
+  "video_id": "7551044528581479693",
+  "visual_action": "The video shows a man, who appears to be Joe Biden, in a dark suit walking alongside a uniformed officer. They are inspecting long rows of soldiers in red coats and tall black bearskin hats on a lawn in a castle courtyard. After about 11 seconds, the on-screen text disappears, and the two men continue walking down the line of soldiers. The video ends with a black and white image of the White House exterior and a helicopter, with the text 'THE WHITE HOUSE' overlaid.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A man who is visually identifiable as Joe Biden is shown walking and inspecting the Guard of Honor for the majority of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text overlay explicitly names 'President Trump' as the individual inspecting the Guard of Honor, while the video shows Joe Biden."
+    },
+    {
+      "name": "King Charles III",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions him: '...with King Charles III at Windsor Castle'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and concludes with an end-slate featuring the text 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Inspects the Guard of Honor with King Charles III at Windsor Castle",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists entirely of instrumental music.",
+  "emojis_present": [
+    "👑",
+    "🇺🇸",
+    "🇬🇧"
+  ],
+  "audio_music": "A stately, formal brass band piece plays throughout the video, consistent with a military or royal ceremony. The music is continuous and serves to create a dignified and official atmosphere.",
+  "editing_pacing": "The video consists of a single, continuous shot of the inspection, followed by a hard cut to a static end-slate. The pacing is slow and formal.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Formality",
+    "Confusion",
+    "Irony"
+  ],
+  "cultural_references": [],
+  "central_claim": "The video claims that President Trump inspected the Guard of Honor at Windsor Castle, but visually depicts President Biden doing so.",
+  "intended_effect": "To create confusion and generate discussion by deliberately mislabeling footage of President Biden with a caption about former President Trump.",
+  "uncertainty_flags": [
+    "The on-screen text identifies the US president as 'President Trump', but the man clearly shown in the video is Joe Biden. The context's authoritative face-ID did not detect any politicians, which conflicts with the visual evidence.",
+    "The use of a factually incorrect text overlay on authentic footage is a form of misrepresentation. It does not fit the schema's definition of visual manipulation (e.g., photoshop, deepfake), so `is_manipulated` is set to false, but the intent is clearly to present a false reality.",
+    "The motivation for this misattribution by the official White House account is unclear, whether it's an error, satire, or a form of political commentary."
+  ]
+}

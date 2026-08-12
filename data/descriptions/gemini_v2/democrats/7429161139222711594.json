@@ -1,0 +1,81 @@
+{
+  "video_id": "7429161139222711594",
+  "visual_action": "Kamala Harris speaks at a podium during a CNN Presidential Town Hall. She is wearing a dark blazer and a white top, gesturing with her hands as she speaks. The background is a stage setting with red and blue elements.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown on screen speaking for the entire duration of the video and is identified by face-ID and an on-screen chyron."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Harris states, 'When Donald Trump was president, he hand-selected three members of the United States Supreme Court' and refers to 'Trump abortion bans'."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo and a chyron identifying the event as a 'CNN TOWN HALL' are visible on screen."
+    },
+    {
+      "name": "United States Supreme Court",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Harris says Donald Trump 'hand-selected three members of the United States Supreme Court'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "VP Harris' response on abortion bans 👇👇👇",
+      "role": "overlay"
+    },
+    {
+      "text": "Kamala Harris: \"And now in 20 states we have Trump abortion bans, that include punishing health care providers, doctors, and nurses.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "PRESIDENTIAL TOWN HALL WITH KAMALA HARRIS",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN TOWN HALL",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Kamala Harris states that when Donald Trump was president, he intentionally appointed three Supreme Court justices to overturn Roe v. Wade. She says they succeeded, leading to what she calls \"Trump abortion bans\" in 20 states. Harris claims these bans criminalize healthcare providers, citing a Texas law that allows for a life sentence in prison.",
+  "emojis_present": [
+    "👇"
+  ],
+  "audio_music": "The audio consists entirely of Kamala Harris's unedited speech from the town hall event. There is no background music or sound effects.",
+  "editing_pacing": "The video is a single, static shot of Kamala Harris speaking, presented in a talking-head style. There are no cuts or dynamic editing techniques.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Alarm",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is directly responsible for the overturning of Roe v. Wade and the subsequent state-level abortion bans that punish healthcare providers.",
+  "intended_effect": "To attribute blame to Donald Trump for abortion restrictions and to alarm viewers about the consequences of these laws for healthcare providers, encouraging opposition to him and his policies.",
+  "uncertainty_flags": []
+}

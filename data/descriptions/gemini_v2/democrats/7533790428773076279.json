@@ -1,0 +1,99 @@
+{
+  "video_id": "7533790428773076279",
+  "visual_action": "A slideshow of still images presented in a three-panel or two-panel format. The images show Donald Trump and an unnamed male interviewer in what appears to be an office setting with American flags in the background. Text is overlaid on the images to represent dialogue.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually present in multiple panels and is the subject of all the on-screen text quotes."
+    },
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears in the on-screen text: \"Karoline Leavitt's become a star.\""
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name appears in the on-screen text of a question posed to Trump: \"Is clemency on the table for Ghislaine Maxwell?\""
+    },
+    {
+      "name": "Diddy",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name appears in the on-screen text of a question posed to Trump: \"Would you consider pardoning Diddy?\""
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is shown in several panels, with on-screen text indicating he is asking questions to Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Karoline Leavitt's become a star.",
+      "role": "overlay"
+    },
+    {
+      "text": "It's those lips...",
+      "role": "overlay"
+    },
+    {
+      "text": "The way they move.",
+      "role": "overlay"
+    },
+    {
+      "text": "Is clemency on the table for Ghislaine Maxwell?",
+      "role": "overlay"
+    },
+    {
+      "text": "I'm allowed to do it.",
+      "role": "overlay"
+    },
+    {
+      "text": "I have the right to do it.",
+      "role": "overlay"
+    },
+    {
+      "text": "Would you consider pardoning Diddy?",
+      "role": "overlay"
+    },
+    {
+      "text": "Well, he was half-innocent. I got along with him great.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The narrative is conveyed entirely through on-screen text and music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, creepy, and ominous horror-style synthesizer track plays throughout the video, creating a sense of tension and unease.",
+  "editing_pacing": "The video is a static slideshow composed of still images. There is no motion, cutting, or dynamic editing.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video deceptively edits quotes. The quotes \"It's those lips... The way they move.\" are juxtaposed with a mention of Karoline Leavitt, implying Trump said this about her. This quote was reportedly made by Trump about Nancy Pelosi, so its use here is a deliberate recontextualization to create a false and misleading narrative.",
+  "emotions_signaled": [
+    "Disgust",
+    "Alarm",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "Horror movie audio tropes"
+  ],
+  "central_claim": "Donald Trump is a creepy and corrupt figure who makes inappropriate comments about women and is willing to pardon notorious criminals like Ghislaine Maxwell and Diddy.",
+  "intended_effect": "To generate disgust, alarm, and contempt for Donald Trump, portraying him as unfit for office.",
+  "uncertainty_flags": [
+    "The authenticity and original context of the quotes attributed to Trump regarding Ghislaine Maxwell and Diddy have not been verified from the video alone."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "video_id": "7551527389239512375",
+  "visual_action": "A fast-cut montage of Donald Trump dancing at various political rallies and events. He is shown on stage in front of large crowds, sometimes accompanied by Melania Trump. In one clip, he stands before military service members. In another, he holds a ceremonial sword above a cake. The video concludes with black and white footage of the White House and a presidential helicopter.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in every clip of the montage, dancing and on stage at rallies."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown standing next to Donald Trump in a couple of clips."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is posted by the @whitehouse account, displays the text 'THE WHITE HOUSE HAS REACHED ONE MILLION FOLLOWERS!', and ends with the text 'THE WHITE HOUSE' over an image of the building."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE HAS REACHED ONE MILLION FOLLOWERS!",
+      "role": "overlay"
+    },
+    {
+      "text": "DREAM BIG AGAIN",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The provided transcript is incorrect. The audio consists entirely of the song 'Y.M.C.A.' by the Village People.",
+  "emojis_present": [],
+  "audio_music": "The entire video is set to the upbeat and celebratory disco song 'Y.M.C.A.' by the Village People. The high-energy music reinforces the festive and energetic visuals of Trump dancing.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Celebration",
+    "Energy",
+    "Pride",
+    "Fun"
+  ],
+  "cultural_references": [
+    "Y.M.C.A. by Village People"
+  ],
+  "central_claim": "The White House is celebrating reaching one million social media followers by showcasing President Trump's popularity and energetic personality at his rallies.",
+  "intended_effect": "To make the viewer feel excited about the administration's popularity and to view President Trump as a dynamic and fun leader.",
+  "uncertainty_flags": [
+    "The provided audio transcript is incorrect; there is no speech in the video."
+  ]
+}

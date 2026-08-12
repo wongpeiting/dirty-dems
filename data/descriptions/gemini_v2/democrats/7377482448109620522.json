@@ -1,0 +1,66 @@
+{
+  "video_id": "7377482448109620522",
+  "visual_action": "The video consists of two static images. The first shows Vice President Kamala Harris and Speaker Mike Johnson in what appears to be the House chamber. A separate, cutout image of President Joe Biden waving is superimposed in the foreground. The second image shows President Biden sitting at a desk and signing a document, flanked by other individuals in suits.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A cutout of him is superimposed on the first image, and he is shown signing legislation in the second. The text frames him as the protagonist passing climate reform."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the on-screen text: \"...and Republicans can barely elect a speaker!\""
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown standing and clapping in the background of the first image."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown standing at the Speaker's rostrum in the first image."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "\"You'll never get any climate legislation passed as president\"",
+      "role": "overlay"
+    },
+    {
+      "text": "I'm passing robust climate reform and Republicans can barely elect a speaker!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists entirely of a pop song, with lyrics about success and one-upmanship audible.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the upbeat, confident pop song 'Feather' by Sabrina Carpenter. The music plays throughout, and the audible lyrics \"I'm on SNL and you're not\" align with the video's taunting and triumphant tone.",
+  "editing_pacing": "The video is a simple slideshow, transitioning from one static, edited image to another.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "In the first scene, a cutout image of Joe Biden waving is digitally superimposed into the foreground of a photo featuring Kamala Harris and Mike Johnson. The superimposition is clear from the differing image quality, lighting, and sharp edges of the cutout.",
+  "emotions_signaled": [
+    "Triumph",
+    "Pride",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The song 'Feather' by Sabrina Carpenter is used as the soundtrack.",
+    "The audible lyrics reference being on 'SNL' (Saturday Night Live) as a measure of success."
+  ],
+  "central_claim": "President Biden is effectively passing major climate legislation while the Republican party is in disarray and unable to even elect a speaker.",
+  "intended_effect": "To make the viewer feel proud of the Biden administration's accomplishments and to view the Republican party as incompetent and ineffective.",
+  "uncertainty_flags": []
+}

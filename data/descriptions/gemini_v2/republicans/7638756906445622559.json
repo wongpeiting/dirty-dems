@@ -1,0 +1,90 @@
+{
+  "video_id": "7638756906445622559",
+  "visual_action": "Donald Trump sits at a large wooden desk, resembling the Oval Office, surrounded by a group of people. He speaks directly to someone off-camera. The video then cuts to a rapid montage featuring a woman's face digitally engulfed in flames, followed by quick, close-up shots of Bernie Sanders looking distressed, Alexandria Ocasio-Cortez shouting, and Gavin Newsom looking concerned.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Visible speaking at a desk, identified by face recognition."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump refers to 'they' having 'Trump Derangement Syndrome,' followed by a montage of prominent Democratic politicians, implying the party as a whole is the subject."
+    },
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a montage of politicians meant to exemplify 'Trump Derangement Syndrome'."
+    },
+    {
+      "name": "Alexandria Ocasio Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a montage of politicians meant to exemplify 'Trump Derangement Syndrome'."
+    },
+    {
+      "name": "Gavin Newsom",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a montage of politicians meant to exemplify 'Trump Derangement Syndrome'."
+    },
+    {
+      "name": "Robert F Kennedy Jr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible standing in the background behind Donald Trump."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "They've got serious \"Trump Derangement Syndrome\"",
+      "role": "caption"
+    },
+    {
+      "text": "which actually is a disease",
+      "role": "caption"
+    },
+    {
+      "text": "I'm hearing it is actually a disease",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump claims his opponents have 'serious Trump Derangement Syndrome,' which he says 'actually is a disease.' He then adds, 'I'm hearing it is actually a disease.'",
+  "emojis_present": [
+    "🤡"
+  ],
+  "audio_music": "The video starts with only spoken dialogue from Donald Trump. After about 6 seconds, as the montage begins, an intense and aggressive phonk music track with a heavy beat starts abruptly and plays until the end, creating a chaotic and mocking tone.",
+  "editing_pacing": "The video begins with a static talking-head shot and then transitions to a fast-paced montage with rapid, jarring cuts between different clips and a visual effect.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A clip of a woman's face is digitally manipulated to appear engulfed in flames, timed to Trump's words to visually represent the concept of 'Trump Derangement Syndrome' as an intense, destructive condition.",
+  "emotions_signaled": [
+    "mockery",
+    "derision",
+    "triumph"
+  ],
+  "cultural_references": [
+    "The term 'Trump Derangement Syndrome' (TDS) is used, which is a pejorative neologism in American political discourse."
+  ],
+  "central_claim": "Donald Trump's political opponents suffer from an irrational, obsessive hatred of him that amounts to a mental disease.",
+  "intended_effect": "To mock prominent Democrats by portraying them as unhinged, while amusing and validating the views of Trump's supporters.",
+  "uncertainty_flags": [
+    "The source of the clip showing a woman on fire is unclear, though it appears to be from a film or television show.",
+    "The identities of several people standing behind Donald Trump, other than Robert F. Kennedy Jr., are unknown."
+  ]
+}

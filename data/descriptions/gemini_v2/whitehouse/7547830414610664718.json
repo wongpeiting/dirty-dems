@@ -1,0 +1,75 @@
+{
+  "video_id": "7547830414610664718",
+  "visual_action": "A montage of clips showing Donald Trump attending a professional tennis match. The video begins with the Seal of the President of the United States, then shows Trump waving from the top of an airplane staircase. It cuts to scenes from the tennis match at Arthur Ashe Stadium, including wide shots of the court, a large American flag, the silver trophy, and two male players competing. Interspersed are many shots of Trump in the audience, smiling, clapping, pumping his fist, and signing an autograph. The players are shown entering the court, playing points, and celebrating. At the end, both players are shown with their respective trophies. The video concludes with a logo for 'THE WHITE HOUSE' over a black and white image of the building.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is shown in multiple clips at a tennis match, identified by face and an on-screen chyron that reads 'PRESIDENT DONALD J. TRUMP'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a logo card showing an image of the building and the text 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "SEAL OF THE PRESIDENT OF THE UNITED STATES",
+      "role": "other"
+    },
+    {
+      "text": "SECTION 47",
+      "role": "other"
+    },
+    {
+      "text": "ARTHUR ASHE STADIUM",
+      "role": "other"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "UNITED STATES OPEN TENNIS CHAMPIONSHIPS",
+      "role": "other"
+    },
+    {
+      "text": "TIFFANY & CO.",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists entirely of a musical track.",
+  "emojis_present": [],
+  "audio_music": "The video features a continuous, upbeat, and energetic rock track ('Head to Head' by AlexGrohl) that gives it the feel of a hype reel or an exciting sports highlight montage.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between shots of the tennis match action and reaction shots of Donald Trump in the crowd. Some shots use slow motion for dramatic effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Pride",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "US Open (tennis tournament)",
+    "Arthur Ashe Stadium",
+    "Carlos Alcaraz",
+    "Jannik Sinner"
+  ],
+  "central_claim": "Donald Trump is a popular and engaged public figure who enjoys major American sporting events like the US Open.",
+  "intended_effect": "To associate Donald Trump with the excitement, prestige, and success of a major sporting event, portraying him in a positive and charismatic light.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('We'll be right back.') does not match the video's audio, which contains only music and no speech.",
+    "The tennis players are identified as Carlos Alcaraz and Jannik Sinner based on visual appearance and the context of the US Open, but they are not explicitly named in the video."
+  ]
+}

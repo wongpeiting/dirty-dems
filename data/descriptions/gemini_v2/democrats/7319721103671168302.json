@@ -1,0 +1,90 @@
+{
+  "video_id": "7319721103671168302",
+  "visual_action": "The video is presented within a static screenshot of a tweet from the 'Biden-Harris HQ' account. The embedded video clip shows Nikki Haley on a stage at a town hall-style event, with American flags and a branded backdrop behind her. She is holding a microphone and responding to a question from an audience member who is not visible.",
+  "cast": [
+    {
+      "name": "Nikki Haley",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the person on screen speaking and the subject of the critical tweet."
+    },
+    {
+      "name": "Biden-Harris HQ",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet framing the video is from the account 'Biden-Harris HQ' with the handle '@BidenHQ'."
+    },
+    {
+      "name": "Unnamed questioner",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man's voice is heard asking Haley the questions about the Civil War."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Biden-Harris HQ\n@BidenHQ",
+      "role": "overlay"
+    },
+    {
+      "text": "Asked what caused the Civil War, Nikki Haley refuses to mention slavery: “What do you want me to say about slavery? Next question.”",
+      "role": "overlay"
+    },
+    {
+      "text": "What was the cause of the United States' Civil War?",
+      "role": "caption"
+    },
+    {
+      "text": "Well, don't come with an easy question, right? I mean,",
+      "role": "caption"
+    },
+    {
+      "text": "I think the cause of the Civil War was basically how government was going to run.",
+      "role": "caption"
+    },
+    {
+      "text": "The freedoms and what people could and couldn't do.",
+      "role": "caption"
+    },
+    {
+      "text": "What do you think the cause of the Civil War was?",
+      "role": "caption"
+    },
+    {
+      "text": "I mean I think it always comes down to the role of government.",
+      "role": "caption"
+    },
+    {
+      "text": "We need to have capitalism. We need to have economic freedom. We need to make sure that we do all things so that individuals have the liberties, so that they can have freedom of speech, freedom of religion, freedom to do or be anything they want to be without government getting in the way.",
+      "role": "caption"
+    },
+    {
+      "text": "What do you want me to say about slavery?",
+      "role": "caption"
+    },
+    {
+      "text": "Next question.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "An audience member asks Nikki Haley what caused the U.S. Civil War. Haley responds that the cause was \"basically how government was going to run. The freedoms and what people could and couldn't do.\" She deflects the question back to the man. When pressed by the questioner about answering without mentioning slavery, Haley says, \"What do you want me to say about slavery?\" before moving on with, \"Next question.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from the town hall event, with natural room acoustics and the sound of a public address system. There is no music.",
+  "editing_pacing": "The video is a single, continuous clip from a town hall meeting, presented inside a static screenshot of a tweet. The editing is minimal, consisting of added captions for the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Criticism",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Nikki Haley refused to mention slavery as the cause of the Civil War when asked directly at a public event.",
+  "intended_effect": "To portray Nikki Haley as evasive or ignorant on a fundamental aspect of American history, suggesting she is unfit for the presidency.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,92 @@
+{
+  "video_id": "7518172540766850318",
+  "visual_action": "J.D. Vance, in a suit and tie, speaks at a podium with two microphones. Behind him is an American flag and a large blue vehicle, possibly for emergency services. The shot is static and appears to be from a news broadcast or press conference.",
+  "cast": [
+    {
+      "name": "J.D. Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person shown speaking throughout the video, identified by face recognition and in the on-screen text: 'WTF‼️ JD Vance just referred to...'"
+    },
+    {
+      "name": "Alex Padilla",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the on-screen text as the person J.D. Vance misidentified: '...referred to Sen. Alex Padilla as “Jose Padilla”'"
+    },
+    {
+      "name": "Jose Padilla",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "J.D. Vance says, 'I was hoping Jose Padilla would be here...' This name is also quoted in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WTF‼️ JD Vance just referred to Sen. Alex Padilla as “Jose Padilla”",
+      "role": "overlay"
+    },
+    {
+      "text": "I WAS HOPING JOSE PADILLA WOULD",
+      "role": "caption"
+    },
+    {
+      "text": "BE HERE TO ASK A QUESTION,",
+      "role": "caption"
+    },
+    {
+      "text": "BUT UNFORTUNATELY,",
+      "role": "caption"
+    },
+    {
+      "text": "I GUESS HE DECIDED NOT TO SHOW",
+      "role": "caption"
+    },
+    {
+      "text": "UP BECAUSE THERE WASN'T THE",
+      "role": "caption"
+    },
+    {
+      "text": "THEATER. AND THAT'S ALL IT IS.",
+      "role": "caption"
+    },
+    {
+      "text": "I THINK EVERYBODY REALIZES",
+      "role": "caption"
+    },
+    {
+      "text": "THAT'S WHAT THIS IS.",
+      "role": "caption"
+    },
+    {
+      "text": "IT'S PURE POLITICAL THEATER.",
+      "role": "caption"
+    },
+    {
+      "text": "FOX 10",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "J.D. Vance says, \"I was hoping Jose Padilla would be here to ask a question, but unfortunately, I guess he decided not to show up because there wasn't the theater.\" He dismisses the matter as \"pure political theater.\"",
+  "emojis_present": [
+    "‼️"
+  ],
+  "audio_music": "The audio consists only of J.D. Vance's unaltered speech from the press event. There is no background music or added sound effects.",
+  "editing_pacing": "The video is a single, static shot of J.D. Vance speaking at a podium, with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "J.D. Vance incorrectly referred to Senator Alex Padilla as 'Jose Padilla' during a press conference.",
+  "intended_effect": "To highlight a verbal mistake by J.D. Vance, making him appear foolish, incompetent, or disrespectful, particularly towards a Hispanic colleague.",
+  "uncertainty_flags": []
+}

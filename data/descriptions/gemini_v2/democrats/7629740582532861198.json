@@ -1,0 +1,60 @@
+{
+  "video_id": "7629740582532861198",
+  "visual_action": "A static image of a tweet from an account named \"FactPost\" is shown. The tweet text claims U.S. troops are receiving unappetizing meals due to an \"Iran war.\" It includes two photos of cafeteria-style food. The video then zooms in on one photo of a gray meat-like substance, a brown patty, and carrots. Finally, it cuts to a still image of the \"Nasty Patty\" burger from the cartoon SpongeBob SquarePants.",
+  "cast": [
+    {
+      "name": "U.S. Troops",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text states, 'Troops face food shortages...'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screenshot shows a tweet from the account 'FactPost @factpostnews'."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen tweet text mentions 'logistical impacts from the Iran war'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New photos reveal small and unappetizing meals aboard U.S. ships in the Middle East.",
+      "role": "overlay"
+    },
+    {
+      "text": "Troops face food shortages and are unable to receive packages due to logistical impacts from the Iran war.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video is silent except for a recurring sound effect. There is no spoken dialogue.",
+  "emojis_present": [],
+  "audio_music": "A low, mournful, and repetitive foghorn sound effect plays throughout the video, creating a comically sad or pathetic tone.",
+  "editing_pacing": "A slow-paced slideshow of static images, with a simple zoom-in on one detail followed by a hard cut to a new image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated screenshot of a tweet from a likely fake news account called 'FactPost'. The tweet makes a false claim about an 'Iran war' causing food shortages for U.S. troops, serving as a satirical example of misinformation.",
+  "emotions_signaled": [
+    "mockery",
+    "disgust"
+  ],
+  "cultural_references": [
+    "SpongeBob SquarePants"
+  ],
+  "central_claim": "The post satirizes alarmist misinformation by presenting a fabricated news tweet about poor troop conditions due to a fake \"Iran war\" and comparing the alleged food to the disgusting \"Nasty Patty\" from SpongeBob SquarePants.",
+  "intended_effect": "To make the viewer mock the fabricated news claim as absurd and disgusting, and to encourage skepticism towards similar online misinformation.",
+  "uncertainty_flags": []
+}

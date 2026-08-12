@@ -1,0 +1,81 @@
+{
+  "video_id": "7427223323907493166",
+  "visual_action": "The video is formatted as a vertical TikTok with a persistent black banner at the top (containing the overlay text) and a black bar at the bottom. The main video footage, occupying the middle portion of the screen, shows Kamala Harris speaking at an outdoor campaign rally in Grand Rapids, MI. The footage alternates between close-up shots of Harris at a podium bearing the Vice Presidential seal (flanked by American flags and an autumnal orange-leaf backdrop) and wider shots showing the full stage, a large \"vote\" banner in light blue, crowd members in the foreground, and campaign signage reading \"GRAND RAPIDS, MI.\" Harris is dressed in a black blazer and pearl necklace. The rally appears energetic with a large crowd. In two later frames, yellow bold italic text appears in the black bottom bar: first \"EXHAUSTION,\" then \"CAMPAIGN,\" then \"ARE,\" suggesting karaoke-style word-by-word lyric or speech callouts. The \"HARRIS WALZ\" campaign logo is watermarked in the upper-right corner of the video footage throughout.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Confirmed by InsightFace roster; visible speaking at Grand Rapids, MI podium with HARRIS WALZ branding"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named directly in persistent overlay text: 'Awww, is Trump too tired to campaign? 🤭'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Posted by @democrats account; HARRIS WALZ campaign watermark throughout"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Awww, is Trump too tired to campaign? 🤭",
+      "role": "overlay"
+    },
+    {
+      "text": "GRAND RAPIDS, MI",
+      "role": "chyron"
+    },
+    {
+      "text": "HARRIS\nWALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "vote",
+      "role": "overlay"
+    },
+    {
+      "text": "EXHAUSTION",
+      "role": "overlay"
+    },
+    {
+      "text": "CAMPAIGN",
+      "role": "overlay"
+    },
+    {
+      "text": "ARE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No Whisper transcript was provided. Based on the OCR fragments (\"EXHAUSTION,\" \"CAMPAIGN,\" \"ARE,\" \"TOUGHEST,\" \"THE WORLD\"), Harris appears to be delivering campaign speech lines — likely referencing the toughness of the campaign trail or contrasting her stamina with Trump's. The word-by-word yellow callouts suggest the audio highlights specific words from her speech for emphasis. Exact quoted lines cannot be confirmed without a transcript.",
+  "emojis_present": [
+    "🤭"
+  ],
+  "audio_music": "No commercial song was matched by ACRCloud fingerprint, indicating original or meme audio. The audio is likely Kamala Harris's live speech from the Grand Rapids rally, with no background music detected. The yellow word-callout editing style suggests the speech audio is the primary sound, with specific words highlighted for emphasis. No meme sound effects (e.g., rimshot, record-scratch) are apparent from the visual cues.",
+  "editing_pacing": "Moderate pacing with a static top text overlay throughout; video panel alternates between close-up podium shots and wider crowd/stage shots; yellow italic karaoke-style word callouts pulse in the bottom bar synced to speech; no fast cuts or speed ramps detected.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — directed at Trump via the 'too tired to campaign' taunt in the top overlay",
+    "enthusiasm/energy — Harris shown actively speaking to a large crowd, implying contrast with an absent/tired opponent",
+    "confidence — the 'TOUGHEST' and 'THE WORLD' OCR fragments suggest a boastful framing of Harris's campaign activity"
+  ],
+  "cultural_references": [],
+  "central_claim": "While Kamala Harris actively campaigns before a large crowd in Grand Rapids, MI, the post implies that Donald Trump is too tired or absent to campaign, contrasting her energy with his supposed exhaustion.",
+  "intended_effect": "Prompt viewers to perceive Trump as weak, tired, or disengaged from campaigning, while viewing Harris as energetic and actively fighting for votes.",
+  "uncertainty_flags": [
+    "No Whisper transcript provided — exact spoken content of Harris's speech cannot be confirmed; word callouts ('EXHAUSTION,' 'CAMPAIGN,' 'ARE,' 'TOUGHEST,' 'THE WORLD') are inferred from OCR but full context of her remarks is unknown",
+    "It is unclear whether the word callouts are from Harris's own speech or from a narrator/voiceover",
+    "The specific date of the Grand Rapids rally is not visible in frames"
+  ]
+}

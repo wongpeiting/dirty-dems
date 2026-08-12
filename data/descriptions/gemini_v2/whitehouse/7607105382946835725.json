@@ -1,0 +1,67 @@
+{
+  "video_id": "7607105382946835725",
+  "visual_action": "A woman, Karoline Leavitt, stands at a podium with 'THE WHITE HOUSE WASHINGTON' written on it, against a backdrop showing the White House. She speaks directly to the camera. An overlay text box appears over the podium, and yellow captions appear at the bottom of the screen, summarizing her speech. The camera performs a slow, subtle zoom-in throughout the clip.",
+  "cast": [
+    {
+      "name": "Karoline Leavitt",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face recognition, she is the sole speaker in the video, delivering the entire message from the podium."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about public support for his policies, referred to as \"President Trump's deportation agenda,\" \"President Trump's efforts,\" and \"the Trump administration's common sense requirement.\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the audio as political opponents: \"desperate recent attempts by Democrats... to undermine the president's deportation agenda.\""
+    },
+    {
+      "name": "Harvard-Harris",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Cited in the audio as the source of polling data: \"Brand new Harvard-Harris polling shows overwhelming support...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE WASHINGTON",
+      "role": "chyron"
+    },
+    {
+      "text": "Polls Show Overwhelming Support for President Trump's Deportation Efforts",
+      "role": "overlay"
+    },
+    {
+      "text": "DESPITE DESPERATE RECENT ATTEMPTS BY DEMOCRATS IN THE MEDIA TO UNDERMINE THE PRESIDENT'S DEPORTATION AGENDA, THESE EFFORTS ARE FAILING. BRAND NEW HARVARD-HARRIS POLLING SHOWS OVERWHELMING SUPPORT FOR PRESIDENT TRUMP'S EFFORTS TO PROTECT LAW ABIDING CITIZENS FROM CRIMINAL ILLEGAL ALIENS. NEARLY EIGHT IN TEN AMERICANS SAY CRIMINAL ILLEGAL ALIENS SHOULD BE DEPORTED. A SOLID MAJORITY ALSO SUPPORT DEPORTING ALL ILLEGAL ALIENS REGARDLESS OF ADDITIONAL CRIMES. AND MORE THAN TWO IN THREE AMERICANS BACK THE TRUMP ADMINISTRATION'S COMMON SENSE REQUIREMENT THAT STATE AND LOCAL OFFICIALS COOPERATE WITH FEDERAL AUTHORITIES AND WORK TO HAND OVER CRIMINAL ILLEGAL ALIENS IN LOCAL JAILS FOR SWIFT DEPORTATION.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Karoline Leavitt states that despite attempts by Democrats and the media to undermine President Trump's deportation agenda, these efforts are failing. She cites a new Harvard-Harris poll showing \"overwhelming support\" for Trump's policies, stating that nearly 8 in 10 Americans believe \"criminal illegal aliens should be deported.\" She adds that a majority also support deporting all undocumented immigrants, and over two-thirds of Americans back requiring local officials to cooperate with federal authorities for deportations.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a woman's clear, spoken voice. There is no background music or other sound effects.",
+  "editing_pacing": "The video is a single, continuous shot of a talking head at a podium, with a very slow zoom-in. Text overlays and captions are added on top of the footage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Confidence",
+    "Validation",
+    "Fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "The American public overwhelmingly supports President Trump's hardline deportation policies, contrary to narratives from Democrats and the media.",
+  "intended_effect": "To validate the views of supporters and persuade others that Trump's immigration policies have a strong popular mandate.",
+  "uncertainty_flags": []
+}

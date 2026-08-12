@@ -1,0 +1,57 @@
+{
+  "video_id": "7623914742238776590",
+  "visual_action": "A montage that intercuts gameplay footage from the video game *Super Mario Galaxy* with real-life footage and animations of NASA's space exploration program. The game footage shows the character Mario exploring space-themed levels, flying with Yoshi, and collecting a large golden \"Grand Star.\" The NASA footage shows astronauts in orange suits, a rocket launch, views of Earth and the Moon from space, and various spacecraft in operation.",
+  "cast": [
+    {
+      "name": "NASA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The NASA logo is shown on an astronaut's suit patch and on the side of rockets. The entire video's real-world footage is about NASA missions."
+    },
+    {
+      "name": "Unnamed NASA astronauts",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Four astronauts in orange flight suits are shown in a group portrait, and an astronaut in a white spacesuit is shown on the moon."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NASA",
+      "role": "other"
+    },
+    {
+      "text": "You got a Grand Star!",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue. The audio consists of a musical score and video game sound effects, including the character Mario's signature exclamations like \"Mamma mia!\" and \"Woo-hoo!\" as he accomplishes a task in the game. The provided transcript is incorrect.",
+  "emojis_present": [
+    "🚀"
+  ],
+  "audio_music": "The video is scored with a continuous, grand, orchestral soundtrack identified as being from the video game *Super Mario Galaxy*. The music is adventurous and epic in tone, creating a sense of wonder and excitement that matches both the video game and real-life space exploration visuals.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between video game footage and real NASA footage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Awe",
+    "Nostalgia",
+    "Pride",
+    "Wonder"
+  ],
+  "cultural_references": [
+    "Super Mario Galaxy (video game)",
+    "Mario (fictional character)",
+    "Yoshi (fictional character)"
+  ],
+  "central_claim": "NASA's real-life space exploration missions are as epic and adventurous as the beloved video game *Super Mario Galaxy*.",
+  "intended_effect": "To generate excitement and support for NASA's missions by framing them with the fun, nostalgic, and adventurous theme of a popular video game.",
+  "uncertainty_flags": [
+    "The provided audio transcript is completely inaccurate and does not match the spoken content, which consists of video game sound effects."
+  ]
+}

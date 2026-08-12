@@ -1,0 +1,97 @@
+{
+  "video_id": "7542982149570366775",
+  "visual_action": "A video clip shows Donald Trump speaking at a cabinet meeting. This is followed by a quick succession of three screenshots of news headlines from the Associated Press, The Wall Street Journal, and The Hill, which appear one after another.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown in a C-SPAN clip speaking about the economy, stating 'there's no inflation.'"
+    },
+    {
+      "name": "Associated Press",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The organization's logo and a headline from one of its polls are shown on screen."
+    },
+    {
+      "name": "The Wall Street Journal",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The organization's name and a headline are shown on screen."
+    },
+    {
+      "name": "The Hill",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The organization's logo and a headline are shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🤔🤔🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP HOLDS CABINET MEETING",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE CABINET ROOM",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "THE AVERAGE AMERICAN WORKER HAS ALREADY SEEN A $500 WAGE INCREASE THIS YEAR, AND THERE'S NO INFLATION.",
+      "role": "overlay"
+    },
+    {
+      "text": "The vast majority of US adults are stressed about grocery costs, an AP-NORC poll finds",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WALL STREET JOURNAL.",
+      "role": "overlay"
+    },
+    {
+      "text": "Nobody's Buying Homes, Nobody's Switching Jobs—and America's Mobility Is Stalling",
+      "role": "overlay"
+    },
+    {
+      "text": "THE HILL",
+      "role": "overlay"
+    },
+    {
+      "text": "Nearly 1 in 3 businesses plan to raise prices within 6 months: Report",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump states, \"The average American worker has already seen a $500 wage increase this year, and there's no inflation.\"",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The video starts with Donald Trump's spoken dialogue. After his final line, a loud, dramatic impact sound effect punctuates the appearance of each of the three subsequent news headlines, creating a jarring, contradictory effect.",
+  "editing_pacing": "The video starts with a static talking-head clip and then cuts to a rapid succession of three static screenshots, creating a slideshow effect.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "skepticism",
+    "alarm",
+    "disagreement"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's optimistic claims about the economy, wage increases, and inflation are false and directly contradicted by reporting on widespread economic stress.",
+  "intended_effect": "To portray Donald Trump as dishonest or out of touch with the economic reality faced by Americans and to generate concern about the state of the economy.",
+  "uncertainty_flags": []
+}

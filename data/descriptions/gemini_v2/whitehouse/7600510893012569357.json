@@ -1,0 +1,119 @@
+{
+  "video_id": "7600510893012569357",
+  "visual_action": "The video is a black-and-white slideshow of photos. It begins with text reading 'Let us remind you of our WHY.' It then shows photos of several young people, identified as victims of crime. The first is a young woman taking a selfie. The next are portraits of a young man and woman, followed by photos of them as a couple. Then, a photo of another young woman is shown with a news headline overlay about her murder. After text reading 'And countless more Americans taken too soon...', a montage of photos of other individuals and families is shown. The video concludes with text stating the Trump Administration's policy on deporting 'Criminal illegal aliens' and ends with the logo for 'THE WHITE HOUSE' over an image of the White House.",
+  "cast": [
+    {
+      "name": "Lizbeth Medina",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the post caption. Her photo is the first one shown, accompanied by a woman's voice (her mother's) talking about finding her child."
+    },
+    {
+      "name": "Anya Varfolomeev",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the caption and the audio voiceover, which describes her death. Her photo is shown."
+    },
+    {
+      "name": "Nikolay Osokin",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the caption and the audio voiceover, which describes his death. His photo is shown."
+    },
+    {
+      "name": "Dacara Thompson",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in the post caption. Her photo is shown with a news headline overlay about her murder."
+    },
+    {
+      "name": "Trump Administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the end reads, 'The Trump Admin will continue to deport Criminal illegal aliens & protect Americans'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with the logo 'THE WHITE HOUSE' and is posted by the @whitehouse account."
+    },
+    {
+      "name": "Unnamed mother",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman's voiceover at the beginning says 'Nobody ever wants to see their child in a bath, the way I found her.'"
+    },
+    {
+      "name": "Unnamed female reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A reporter's voice describes the deaths of Anya Varfolomeev and Nikolay Osokin and the legal status of the perpetrator."
+    },
+    {
+      "name": "Unnamed family member",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman's voice cries 'It's been hard' over the photo of Dacara Thompson."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Let us remind you of our WHY.",
+      "role": "overlay"
+    },
+    {
+      "text": "Missing Maryland 19-year-old confirmed dead and man charged with murder",
+      "role": "overlay"
+    },
+    {
+      "text": "And countless more Americans taken too soon...",
+      "role": "overlay"
+    },
+    {
+      "text": "The Trump Admin will continue to deport Criminal illegal aliens & protect Americans",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a compilation of soundbites. An emotional woman, presumably a mother, says, 'Nobody ever wants to see their child in a bath, the way I found her.' A second voice, a female reporter, explains that two teenagers in California, Anya Varfolomeev and Nikolay Osokin, 'were killed by an illegal alien in a DUI crash.' She adds that the perpetrator was scheduled for early release in 2025 due to California's sentencing laws. A third woman's voice is heard crying and saying, 'It's been hard.'",
+  "emojis_present": [],
+  "audio_music": "A slow, somber, and mournful instrumental and vocal track plays throughout the video, creating a tragic and serious tone. The music is consistent with the funereal visuals.",
+  "editing_pacing": "The video is a slow-paced slideshow of still, black-and-white photographs with slow fade transitions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "grief",
+    "sadness",
+    "fear",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump Administration will protect Americans by deporting undocumented immigrants who commit violent crimes, a necessary action because lenient state laws are failing to keep citizens safe.",
+  "intended_effect": "To evoke sadness for the victims, fear of crime by undocumented immigrants, and anger at lenient laws, while positioning the Trump Administration as the solution to protect Americans.",
+  "uncertainty_flags": [
+    "The identities of the people shown in the final montage of victims are not specified.",
+    "The speakers providing the audio voiceovers are not explicitly identified by name."
+  ]
+}

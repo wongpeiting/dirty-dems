@@ -1,0 +1,51 @@
+{
+  "video_id": "7660573107626806542",
+  "visual_action": "A montage of multiple clips featuring Donald Trump in various public settings. Clip 1: Trump walks down a red carpet on an airport tarmac, descending stairs from a plane, with security personnel in background. Clip 2: Trump stands at what appears to be an indoor official event with an American flag behind him, eyes appearing closed/drooping. Clip 3: Trump stands alongside another man (identified by visible airport signage reading \"ELEBİ\" — consistent with Atatürk or similar Turkish airport branding, suggesting a meeting with Turkish President Erdoğan) on an airport tarmac. Clip 4-5: Continuation of the tarmac meeting scene; Trump appears to turn away from a microphone while the other man gestures. Clip 6: Trump seated at a cabinet/meeting room table with eyes appearing closed, wearing a pink/red tie, American flag and ornate gold decor visible behind him. Clip 7: Trump standing in the doorway of Air Force One (or similar presidential aircraft), raising a fist. Clip 8: A distant shot of someone (wearing a red cap and white outfit, consistent with Trump's golf attire) sitting in a golf cart on a golf course, with another person standing nearby.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Confirmed by authoritative face-ID; visible throughout all clips in suit and signature red/pink tie"
+    },
+    {
+      "name": "Recep Tayyip Erdoğan",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Airport signage reading 'ELEBİ' (partial 'ÇELEBİ', a Turkish airport ground services brand); the man in sunglasses and blue suit standing alongside Trump on a Turkish airport tarmac is consistent in appearance with Erdoğan, though face-ID did not confirm; flagged as uncertain"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "fck it, trump dementia highlights 🔥🤬",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue is audible or captured in the Whisper transcript. The video is a silent (music-only) montage with no voiceover or speech.",
+  "emojis_present": [
+    "🔥",
+    "🤬"
+  ],
+  "audio_music": "Throughout the full clip, a slowed-and-reverb version of a Lukas Graham track (fingerprinted as \"Boneze\" by Lukas Graham, slowed + reverb) plays continuously from 0.0s onward. The treatment gives it a dreamy, melancholic, slightly eerie quality. No voiceover or dialogue is present — the music is the sole audio element.",
+  "editing_pacing": "Slideshow-style montage with moderate cut pace — clips are roughly 3–6 seconds each, cutting between different public settings and events. No fast cuts or speed ramps; editing is slow and steady, matching the slowed-down reverb music. Simple sequential cuts with no graphic transitions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — overlay text labels clips as 'dementia highlights', framing Trump's behavior as symptomatic",
+    "concern or alarm — slowed reverb music adds an ominous, unsettling tone",
+    "contempt — the 🤬 emoji in the overlay reinforces a derisive framing"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post claims, through its title overlay and curated clip selection, that Donald Trump exhibits signs of cognitive decline or dementia, presenting moments from his public appearances as evidence.",
+  "intended_effect": "To lead viewers to perceive Trump as cognitively impaired based on the selected clips of him appearing dazed, disoriented, or physically unsteady.",
+  "uncertainty_flags": [
+    "The man on the Turkish airport tarmac is visually consistent with Erdoğan but was not confirmed by face-ID; identification is based on contextual cues (Turkish airport branding, diplomatic setting) only.",
+    "The golf course clip is a distant shot — the person in the red cap is assumed to be Trump based on context but is not clearly identifiable by face.",
+    "No Whisper transcript was produced, so it is unclear if there is any audio speech; it may be music-only.",
+    "The specific public events from which each clip is sourced (dates/locations) cannot be precisely determined from the footage alone."
+  ]
+}

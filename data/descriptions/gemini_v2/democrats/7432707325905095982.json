@@ -1,0 +1,125 @@
+{
+  "video_id": "7432707325905095982",
+  "visual_action": "A slideshow of seven screenshots of news headlines about Donald Trump. The media outlets shown are The New York Times, The Guardian, PBS, The Washington Post, and the BBC. Each headline is displayed on a white background for a few seconds.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of every news headline shown, such as \"Trump Says He'll Protect Women, 'Like It or Not,' Evoking His History of Misogyny\" and \"Donald Trump dressed like a garbage man. That's rich.\""
+    },
+    {
+      "name": "Liz Cheney",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the PBS headline: \"Trump says Liz Cheney might not be such a 'war hawk' if she had rifles shooting at her\"."
+    },
+    {
+      "name": "Tucker Carlson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in a New York Times headline: \"Tucker Carlson Tells Crowd Trump Will Give Country a 'Spanking'\"."
+    },
+    {
+      "name": "Xi Jinping",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned as 'Xi' in the BBC headline: \"Trump says China respects him because Xi knows he is 'crazy'\"."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The masthead for \"The New York Times\" appears on screen above several headlines."
+    },
+    {
+      "name": "The Guardian",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for \"The Guardian\" appears on screen above a headline."
+    },
+    {
+      "name": "PBS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for \"PBS\" appears on screen above a headline."
+    },
+    {
+      "name": "The Washington Post",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The masthead for \"The Washington Post\" appears on screen above a headline."
+    },
+    {
+      "name": "BBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo for \"BBC\" appears on screen above a headline."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The New York Times\nTrump Says He'll Protect Women, 'Like It or Not,' Evoking His History of Misogyny",
+      "role": "overlay"
+    },
+    {
+      "text": "The Guardian\nTrump wants you to believe that the US economy is doing terribly. It's untrue",
+      "role": "overlay"
+    },
+    {
+      "text": "PBS\nTrump says Liz Cheney might not be such a 'war hawk' if she had rifles shooting at her",
+      "role": "overlay"
+    },
+    {
+      "text": "The Washington Post\nDonald Trump dressed like a garbage man. That's rich.",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times\nOnce Top Advisers to Trump, They Now Call Him 'Liar,' 'Fascist' and 'Unfit'",
+      "role": "overlay"
+    },
+    {
+      "text": "BBC\nTrump says China respects him because Xi knows he is 'crazy'",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times\nTucker Carlson Tells Crowd Trump Will Give Country a 'Spanking'",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio is a song with female vocals. Key audible lyrics include \"I don't relate to you,\" \"'cause I'd never treat me this shitty,\" and \"You made me hate this city.\"",
+  "emojis_present": [],
+  "audio_music": "A somber and emotional pop song with female vocals plays throughout the video. The lyrics express feelings of disappointment and betrayal, creating a critical and melancholic mood that underscores the negative content of the news headlines.",
+  "editing_pacing": "A slow-paced slideshow of static images. Each news headline is held on screen for several seconds before cutting to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "disdain",
+    "disappointment"
+  ],
+  "cultural_references": [],
+  "central_claim": "A compilation of negative news headlines from various media outlets suggests that Donald Trump is erratic, untrustworthy, and unfit to be president.",
+  "intended_effect": "To reinforce a negative perception of Donald Trump by showcasing critical coverage from established media sources, making the viewer feel concerned about his character and judgment.",
+  "uncertainty_flags": [
+    "The specific song and artist are not identified by automated systems, though the music and lyrics are central to the video's tone."
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "video_id": "7499096745876491562",
+  "visual_action": "Donald Trump sits for a one-on-one interview with a reporter in an office setting. The video cuts between a two-shot of both men and close-ups of each person as they speak.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is shown speaking throughout the video."
+    },
+    {
+      "name": "George Stephanopoulos",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "An interviewer, visually identifiable as George Stephanopoulos, is shown speaking with Donald Trump. Trump addresses him by name, which is transcribed as 'Terry' in the provided transcript."
+    },
+    {
+      "name": "MS-13",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The central point of disagreement in the interview clip is whether a document mentioned the gang MS-13. Trump says, \"He did not have the letter MS-13.\" The interviewer responds, \"It says MS-13.\""
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An \"ABC NEWS EXCLUSIVE\" logo and an \"abc\" network bug are visible on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump MELTS DOWN after reporter fact-checks him 😩",
+      "role": "overlay"
+    },
+    {
+      "text": "ABC NEWS EXCLUSIVE",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT LET'S MOVE ON.",
+      "role": "chyron"
+    },
+    {
+      "text": "WAIT A MINUTE,",
+      "role": "chyron"
+    },
+    {
+      "text": "HEY, TERRY.",
+      "role": "chyron"
+    },
+    {
+      "text": "HE DID NOT HAVE THE",
+      "role": "chyron"
+    },
+    {
+      "text": "LETTER MS-13.",
+      "role": "chyron"
+    },
+    {
+      "text": "IT SAYS MS-13.",
+      "role": "chyron"
+    },
+    {
+      "text": "PHOTOSHOPPED.",
+      "role": "chyron"
+    },
+    {
+      "text": "THAT WAS",
+      "role": "chyron"
+    },
+    {
+      "text": "PHOTOSHOPPED.",
+      "role": "chyron"
+    },
+    {
+      "text": "YOU CAN'T DO THAT.",
+      "role": "chyron"
+    },
+    {
+      "text": "HEY,",
+      "role": "chyron"
+    },
+    {
+      "text": "THE BIG BREAK OF A",
+      "role": "chyron"
+    },
+    {
+      "text": "LIFETIME. YOU KNOW,",
+      "role": "chyron"
+    },
+    {
+      "text": "INTERVIEW.",
+      "role": "chyron"
+    },
+    {
+      "text": "I PICKED YOU BECAUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "FRANKLY, I NEVER HEARD OF YOU,",
+      "role": "chyron"
+    },
+    {
+      "text": "BUT THAT'S OKAY.",
+      "role": "chyron"
+    },
+    {
+      "text": "I PICKED YOU, TERRY.",
+      "role": "chyron"
+    },
+    {
+      "text": "BUT YOU'RE NOT BEING",
+      "role": "chyron"
+    },
+    {
+      "text": "VERY NICE.",
+      "role": "chyron"
+    },
+    {
+      "text": "HE HAD MS-13 TATTOOED.",
+      "role": "chyron"
+    },
+    {
+      "text": "WE'LL AGREE TO",
+      "role": "chyron"
+    },
+    {
+      "text": "I WANT TO MOVE ON TO",
+      "role": "chyron"
+    },
+    {
+      "text": "SOMETHING ELSE.",
+      "role": "chyron"
+    },
+    {
+      "text": "abc",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "In an interview, Donald Trump and an interviewer argue about a document. The interviewer states it says \"MS-13,\" which Trump denies, claiming, \"That was photoshopped.\" Trump becomes agitated, interrupts the interviewer multiple times, and insults him, saying, \"I picked you because frankly, I never heard of you, but that's okay... but you're not being very nice.\" Trump insists, \"He had MS-13 tattooed,\" while the interviewer repeatedly tries to move on.",
+  "emojis_present": [
+    "😩"
+  ],
+  "audio_music": "The audio consists solely of the spoken dialogue from the interview clip. There is no music or other sound effects.",
+  "editing_pacing": "The video uses standard interview editing, cutting between a two-shot of both speakers and tighter close-up shots of each person as they talk.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "schadenfreude"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump gets defensive and angry, resorting to claims of fakery and personal insults, when fact-checked by a reporter during an interview.",
+  "intended_effect": "To portray Trump as volatile, unable to handle factual challenges, and prone to lashing out under pressure.",
+  "uncertainty_flags": [
+    "The provided transcript identifies the interviewer as 'Terry', and the on-screen captions reflect this. However, the interviewer is visually identifiable as ABC News' George Stephanopoulos, and the audio sounds more like 'George' than 'Terry'. The analysis follows the visual and audio evidence over the potentially incorrect transcript."
+  ]
+}

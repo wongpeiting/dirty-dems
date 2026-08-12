@@ -1,0 +1,99 @@
+{
+  "video_id": "7530029352340278542",
+  "visual_action": "A slideshow of two static images. The first is a screenshot of a tweet from the account 'FactPost'. The tweet shows a photo of Donald Trump and Melania Trump walking next to a photo of large, empty metal cages in a row. The second image is a screenshot of a block of text from an article, with one sentence highlighted in yellow.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is pictured prominently in the first slide, and the post implicitly blames him for the inhumane conditions described in the text."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Pictured walking alongside Donald Trump in the first slide."
+    },
+    {
+      "name": "unnamed Nicaraguan migrant",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire post is centered on the story of his alleged mistreatment as detailed in the on-screen text."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet screenshot is from the account 'FactPost @factpostnews'."
+    },
+    {
+      "name": "WLRN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions that the migrant told his story to 'WLRN'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "New reporting reveals the conditions at 'Alligator Alcatraz':",
+      "role": "overlay"
+    },
+    {
+      "text": "“His hands and feet were then painfully shackled, and he was put in a four-by-four-foot square in the recreation yard that he says guards call “the box.” He says he was directly in the Everglades sun and heat, for several hours, with no water.”",
+      "role": "overlay"
+    },
+    {
+      "text": "“They chained me to the ground,” a Nicaraguan migrant seeking U.S. asylum told WLRN in a phone call from inside Alligator Alcatraz.",
+      "role": "overlay"
+    },
+    {
+      "text": "“I was in the sun, like, from one o’clock to seven o’clock in the evening — without no water.”",
+      "role": "overlay"
+    },
+    {
+      "text": "The Nicaraguan man, who is Black and asked WLRN not to use his name for fear of government retaliation, claims that over the weekend he had an argument about new detainee clothing rules with a guard who he says called him the n-word.",
+      "role": "overlay"
+    },
+    {
+      "text": "He says his hands and feet were then painfully shackled, and he was put in a four-by-four-foot square in the recreation yard that he says guards call “the box.” He says he was directly in the Everglades sun and heat, for several hours, with no water.",
+      "role": "overlay"
+    },
+    {
+      "text": "“I did nothing violent,” he said. “I don’t deserve this, nobody deserves this, ’cause this is unhuman, on top of all the other things here, like the lights being on all night while we’re trying to sleep.”",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue; the audio consists only of ominous music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, low-pitched, ominous ambient sound plays throughout the video, creating a somber and serious tone.",
+  "editing_pacing": "A slow slideshow, displaying two static images sequentially.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "sympathy",
+    "shock"
+  ],
+  "cultural_references": [
+    "Alligator Alcatraz (a reference to the famous Alcatraz prison)"
+  ],
+  "central_claim": "The Trump administration is responsible for the inhumane and cruel treatment of migrants in detention facilities.",
+  "intended_effect": "To provoke outrage at the Trump administration's immigration policies and to generate sympathy for the migrant who was allegedly abused.",
+  "uncertainty_flags": [
+    "The origin and authenticity of the 'FactPost' account and the article it cites are not established within the video."
+  ]
+}

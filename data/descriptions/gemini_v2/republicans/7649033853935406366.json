@@ -1,0 +1,139 @@
+{
+  "video_id": "7649033853935406366",
+  "visual_action": "The video shows a clip from a Fox News broadcast. It begins with a male news anchor speaking, then cuts to Senator Marsha Blackburn for the majority of the video, who is speaking in what appears to be a remote interview.",
+  "cast": [
+    {
+      "name": "Marsha Blackburn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the primary speaker in the video, identified by face recognition and named in the on-screen chyron and the post's caption."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Marsha Blackburn repeatedly criticizes \"the Democrats,\" and the post's caption states she \"RIPS Democrats.\""
+    },
+    {
+      "name": "unnamed male anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A male news anchor is shown speaking at the beginning of the video clip."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned multiple times in the audio, such as in the phrase \"abolish ICE method,\" and also named in the on-screen chyron."
+    },
+    {
+      "name": "Department of Homeland Security",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Marsha Blackburn says Democrats \"would shut down Homeland Security.\""
+    },
+    {
+      "name": "U.S. Customs and Border Protection (CBP)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The acronym \"CBP\" appears in the on-screen chyron."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and name are visible on screen as the broadcaster of the segment."
+    },
+    {
+      "name": "U.S. Coast Guard",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named by Marsha Blackburn as an agency being used as a \"pawn.\""
+    },
+    {
+      "name": "U.S. Secret Service",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named by Marsha Blackburn as an agency being used as a \"pawn.\""
+    },
+    {
+      "name": "Transportation Security Administration (TSA)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named by Marsha Blackburn as an agency being used as a \"pawn.\""
+    },
+    {
+      "name": "Shannon Bream",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears in the on-screen chyron for the program \"FOX NEWS SUNDAY SHANNON BREA[M] TODAY\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LIVE",
+      "role": "overlay"
+    },
+    {
+      "text": "SENATE PASSES $70B",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "FUNDING FOR I.C.E., CBP",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS SUNDAY SHANNON BREA TODAY",
+      "role": "chyron"
+    },
+    {
+      "text": "BLACKBURN (R) | SENATE JUDICIARY COMMITTEE MEMBER",
+      "role": "chyron"
+    },
+    {
+      "text": "PASSES $70B IN FUNDING FOR I.",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A male Fox News anchor asks why funding has been held up. Senator Marsha Blackburn responds that it is \"inconceivable\" that Democrats would block funding, attributing it to their desire to \"abolish ICE.\" She accuses Democrats of putting the concerns of \"illegal aliens\" before the American people and says they would shut down Homeland Security and use agencies like the Coast Guard, Secret Service, and TSA as \"pawns\" in their game.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from a news broadcast. There is no music or other significant audio.",
+  "editing_pacing": "The editing consists of a single cut from a male news anchor to Marsha Blackburn. Both shots are static talking-head clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Disbelief",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Democrats are deliberately undermining national security and prioritizing undocumented immigrants over American citizens by attempting to defund or abolish agencies like ICE.",
+  "intended_effect": "To create anger and concern towards the Democratic Party's policies on immigration and law enforcement funding.",
+  "uncertainty_flags": []
+}

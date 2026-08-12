@@ -1,0 +1,122 @@
+{
+  "video_id": "7574140777429781815",
+  "visual_action": "In a CNN studio, a male analyst, Harry Enten, stands beside a female anchor, Kate Bolduan, and presents polling data on a large screen behind them. The graphics display polling numbers for Republican voters regarding the \"Epstein files.\" The first graphic compares Republican approval of Trump on the issue (44%) to their desire for the files to be released (67%). A second graphic shows a 1,181% increase in Google searches for Jeffrey Epstein, with a photo of Epstein shown.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photo on the screen graphic titled 'TRUMP, EPSTEIN & THE GOP BASE' and is the central figure discussed in the audio analysis."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His name and photo appear in on-screen graphics (e.g., 'GOP ON THE EPSTEIN FILES', 'GOOGLE SEARCHES FOR JEFFREY EPSTEIN'), and the entire segment is about the polling and interest surrounding the 'Epstein files'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen graphics refer to 'THE GOP BASE' and the analyst repeatedly discusses the 'Republican base' and 'Republican voters'."
+    },
+    {
+      "name": "Harry Enten",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is the main speaker, and a chyron identifies him as 'Harry Enten Chief Data Analyst'."
+    },
+    {
+      "name": "Kate Bolduan",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The analyst addresses her by name, saying 'Kate Bolduan?' She is visible on screen but does not speak in the clip."
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible in the corner of the screen throughout the broadcast clip."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker mentions him by name, stating, 'and Mike Johnson said, you know what? I'm sending the house home'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Pollster: 67% of Republican voters want the files to be released",
+      "role": "overlay"
+    },
+    {
+      "text": "RUN THE NUMBERS TRUMP, EPSTEIN & THE GOP BASE",
+      "role": "chyron"
+    },
+    {
+      "text": "GOP ON THE EPSTEIN FILES",
+      "role": "chyron"
+    },
+    {
+      "text": "APPROVE OF TRUMP 44%",
+      "role": "chyron"
+    },
+    {
+      "text": "WANT THEM ALL RELEASED 67%",
+      "role": "chyron"
+    },
+    {
+      "text": "GOOGLE SEARCHES FOR JEFFREY EPSTEIN",
+      "role": "chyron"
+    },
+    {
+      "text": "HIGHEST 5-DAY SEARCH LEVEL THIS YEAR",
+      "role": "chyron"
+    },
+    {
+      "text": "1,181% VS. LAST WEEK",
+      "role": "chyron"
+    },
+    {
+      "text": "*TOP ASSOCIATED SEARCH TOPIC IS \"TRUMP\"",
+      "role": "chyron"
+    },
+    {
+      "text": "Harry Enten Chief Data Analyst",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A CNN analyst argues that Donald Trump is out of touch with his own base regarding the Jeffrey Epstein files. He presents polling data showing that while only 44% of Republicans approved of Trump on the issue, a majority of 67% wanted the files released. The analyst notes this is a rare instance of the Republican base disagreeing with Trump, which emboldened Republican representatives to go against him. He also highlights a nearly 1200% surge in Google searches for Epstein, with Trump being the top associated search topic, indicating intense public interest that politicians could not ignore.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from a news broadcast segment. There is no music or added sound effects.",
+  "editing_pacing": "The video is a continuous, static shot of a news segment. The pacing is driven by the speaker's energetic delivery. Green lines are drawn on the on-screen graphics to highlight the numbers being discussed, indicating the original broadcast clip has been edited for social media.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Surprise",
+    "Schadenfreude"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump misjudged his own base's strong desire for the release of the Epstein files, creating a rare instance where Republican voters and representatives diverged from his position.",
+  "intended_effect": "To demonstrate that Donald Trump's control over the Republican party is not absolute and that he is vulnerable when his positions conflict with the strong will of his base.",
+  "uncertainty_flags": []
+}

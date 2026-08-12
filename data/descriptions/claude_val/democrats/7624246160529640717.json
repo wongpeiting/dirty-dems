@@ -1,0 +1,130 @@
+{
+  "video_id": "7624246160529640717",
+  "visual_action": "The video consists of a static title card overlay at the top throughout the entire clip, reading \"Trump's new AG says partying with Epstein is okay 🤨\", placed above a clipped Fox News broadcast segment. The Fox News footage shows two distinct visual configurations: (1) An in-studio two-shot of a female host (identified by the show chyron as \"The Ingraham Angle\" — Laura Ingraham) seated at a desk across from a male guest, both in a Washington DC studio with a cityscape background; (2) A solo close-up of the male guest, later identified by a Fox News chyron as \"TODD BLANCHE | U.S. DEPUTY ATTORNEY GENERAL.\" The lower-third Fox News chyron throughout reads \"DOJ RELEASES MORE EPSTEIN FILES.\" The broadcast alternates between the two-shot and close-ups of Blanche as he speaks. Yellow bold subtitle text appears below the broadcast window for portions of the clip, rendering key phrases from his spoken remarks: \"THE RALLIES.\", \"ANY OF THESE\", \"I'LL NEVER\", \"SAY NO AND\", \"ALWAYS\", \"ANY EVIDENCE\", \"MISCONDUCT.\" The final frames show white bold text: \"MISCONDUCT.\" The video is formatted in a vertical mobile style with black bars above and below the Fox News clip.",
+  "cast": [
+    {
+      "name": "Todd Blanche",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Fox News chyron reads 'TODD BLANCHE | U.S. DEPUTY ATTORNEY GENERAL'; he is the person speaking the key quoted remarks about Epstein"
+    },
+    {
+      "name": "Laura Ingraham",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Fox News show chyron reads 'THE INGRAHAM ANGLE'; female host visible in the two-shot matches Ingraham's known appearance as host of that show"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Top overlay text reads 'Trump's new AG says partying with Epstein is okay'; Blanche is described as Trump's AG appointee"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Chyron reads 'DOJ RELEASES MORE EPSTEIN FILES'; Blanche says 'it is not a crime to party with Mr. Epstein'; overlay text references Epstein"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Account is @democrats; the post frames the Fox News clip with the overlay caption and emoji as editorial commentary"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's new AG says partying with Epstein is okay 🤨",
+      "role": "overlay"
+    },
+    {
+      "text": "▶ WASHINGTON, DC\n7:15 PM ET",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "DOJ RELEASES MORE EPSTEIN FILES",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "THE INGRAHAM ANGLE",
+      "role": "chyron"
+    },
+    {
+      "text": "▶ TODD BLANCHE | U.S. DEPUTY ATTORNEY GENERAL",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "THE RALLIES.",
+      "role": "caption"
+    },
+    {
+      "text": "ANY OF THESE",
+      "role": "caption"
+    },
+    {
+      "text": "I'LL NEVER",
+      "role": "caption"
+    },
+    {
+      "text": "SAY NO AND",
+      "role": "caption"
+    },
+    {
+      "text": "ALWAYS",
+      "role": "caption"
+    },
+    {
+      "text": "ANY EVIDENCE",
+      "role": "caption"
+    },
+    {
+      "text": "MISCONDUCT.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio is a clip of an interview between Laura Ingraham (or an interviewer) and Todd Blanche on Fox News. The interviewer asks, referencing people seen at the rallies: \"Is there any chance that any of these individuals who partied with Epstein and engaged in, you know, relations with minors will be prosecuted? Any chance?\" Blanche responds: \"We, I'll never say no. And we will always investigate any evidence of misconduct. But as you know, it is not a crime to party with Mr. Epstein.\" The final quoted line — \"it is not a crime to party with Mr. Epstein\" — is the focal statement the post is built around.",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "The audio is entirely speech — a clipped Fox News interview segment with no background music or sound effects. The speech is clear broadcast-quality audio. No music, no meme sound effects, and no additional audio is layered in. The account label confirms this is \"original sound,\" meaning the Fox News clip audio is used as-is.",
+  "editing_pacing": "Mostly static — the Fox News clip plays in sequence with minimal editing intervention. The main editorial additions are the persistent top overlay text and the yellow/white subtitle captions that appear word-by-word or phrase-by-phrase below the broadcast clip to highlight key moments of Blanche's remarks. Cuts occur between the two-shot and the solo close-up of Blanche as the original broadcast alternated cameras. Pacing is slow and deliberate, letting the quoted statement land.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage — signaled by the caption 'what the fuck?' and the 🤨 emoji in the overlay",
+    "disbelief — the framing of Blanche's quote as shocking via the overlay text and emoji",
+    "indignation — the selective subtitle highlighting of 'it is not a crime to party with Mr. Epstein'"
+  ],
+  "cultural_references": [],
+  "central_claim": "Trump's Deputy Attorney General Todd Blanche stated on Fox News that attending parties with Jeffrey Epstein is not a crime, which the post frames as a troubling or disqualifying position.",
+  "intended_effect": "To provoke outrage and alarm in viewers at the idea that a top Trump DOJ official is publicly downplaying the significance of associating with Jeffrey Epstein.",
+  "uncertainty_flags": [
+    "The face-ID system returned no confirmed matches; Laura Ingraham's identity is inferred from the 'THE INGRAHAM ANGLE' show chyron and visual match to her known appearance, not face recognition.",
+    "The overlay text says 'Trump's new AG' but the chyron identifies Blanche as 'U.S. DEPUTY ATTORNEY GENERAL,' not Attorney General — the overlay may be imprecise or refer to an acting/nominated status at the time of the clip.",
+    "The exact broadcast date of this Fox News segment is not visible; it cannot be independently confirmed from the frames provided.",
+    "The Whisper transcript renders the first word as 'We' which may be a transcription artifact for a different word or sentence opener."
+  ]
+}

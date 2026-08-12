@@ -1,0 +1,168 @@
+{
+  "video_id": "7463539184003829034",
+  "visual_action": "The video is a slideshow set to music. It begins with a three-panel meme of Donald Trump at a podium, with overlaid text depicting a conversation. It then alternates between still photos of Trump with tech billionaires (Elon Musk, Mark Zuckerberg, Sam Altman) and screenshots of news headlines from The Guardian, ABC News, and The New York Times critical of Trump's policies.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown speaking in the opening clip and in photos throughout the video. He is named in on-screen text and in every news headline."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a photograph with Donald Trump. His name and net worth are displayed as on-screen text."
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a photograph shaking hands with Donald Trump. His name and net worth are displayed as on-screen text."
+    },
+    {
+      "name": "Sam Altman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a photograph with Donald Trump. His name and net worth are displayed as on-screen text."
+    },
+    {
+      "name": "Unnamed reporter",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The reporter's question is presented as on-screen text in the opening meme: '[Reporter: You made a lot of money on crypto. Several billion dollars.]'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in a headline from The Guardian: 'Republicans reportedly ready to cut Medicaid funding to pay for Trump plans'."
+    },
+    {
+      "name": "The Guardian",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and a headline from this news organization are shown on screen."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and a headline from this news organization are shown on screen."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and a headline from this news organization are shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "[Reporter: You made a lot of money on crypto. Several billion dollars.]",
+      "role": "meme_text"
+    },
+    {
+      "text": "Several billion dollars?",
+      "role": "meme_text"
+    },
+    {
+      "text": "That's peanuts for these guys. *points at tech billionaires*",
+      "role": "meme_text"
+    },
+    {
+      "text": "Trump 🤝 Elon",
+      "role": "overlay"
+    },
+    {
+      "text": "Elon Musk net worth: $427.5B",
+      "role": "overlay"
+    },
+    {
+      "text": "The Guardian",
+      "role": "other"
+    },
+    {
+      "text": "Republicans reportedly ready to cut Medicaid funding to pay for Trump plans",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump 🤝 Zuckerberg",
+      "role": "overlay"
+    },
+    {
+      "text": "Zuckerberg net worth: $215.5B",
+      "role": "overlay"
+    },
+    {
+      "text": "abc NEWS",
+      "role": "other"
+    },
+    {
+      "text": "Trump now says bringing down grocery prices, as he promised, will be 'very hard'",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump 🤝 Altman",
+      "role": "overlay"
+    },
+    {
+      "text": "Altman net worth: $1.1B",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times",
+      "role": "other"
+    },
+    {
+      "text": "Trump Drive to Cut Safety Net Could Hit His Voters",
+      "role": "overlay"
+    },
+    {
+      "text": "The new administration wants to slash aid for health, food and housing",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "In the opening clip, a reporter's question is shown via on-screen text, 'You made a lot of money on crypto. Several billion dollars.' Donald Trump is heard replying, 'Several billion dollars?' The subsequent on-screen text attributes the line 'That's peanuts for these guys' to him as he points to tech billionaires. The rest of the video's audio is entirely music.",
+  "emojis_present": [
+    "🤝"
+  ],
+  "audio_music": "The video is set to an upbeat, theatrical song, identified as 'Money' from the musical 'Cabaret'. The song plays continuously and its lyrics about the power and allure of money provide a satirical commentary on the video's content.",
+  "editing_pacing": "The video is a slideshow of still images and text screenshots, with cuts timed to the rhythm of the background music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Concern",
+    "Outrage",
+    "Distrust"
+  ],
+  "cultural_references": [
+    "The song 'Money' from the musical 'Cabaret'.",
+    "The use of the handshake emoji (🤝) between names is a common meme format to signify an alliance or agreement."
+  ],
+  "central_claim": "Donald Trump prioritizes his relationships with wealthy tech billionaires over the economic well-being of ordinary Americans, planning policies that benefit the rich while cutting social safety nets.",
+  "intended_effect": "To create a negative perception of Donald Trump by portraying him as allied with the ultra-wealthy at the expense of the general population.",
+  "uncertainty_flags": [
+    "The source and date for the net worth figures cited for Elon Musk, Mark Zuckerberg, and Sam Altman are not provided.",
+    "The full context of the opening clip of Donald Trump speaking is not available in the video."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "video_id": "7563385657024974093",
+  "visual_action": "A still photograph of Kristi Noem is shown. The camera slowly zooms in on her face as text appears overlaid on the image.",
+  "cast": [
+    {
+      "name": "Kristi Noem",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her name appears in the on-screen text: 'kristi noem...'"
+    },
+    {
+      "name": "Trump administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text mentions 'the trump admin'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "kristi noem just got the trump admin to drop $200M on her private jets (the government's still shut down and people can't afford groceries btw)",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A short, dramatic, orchestral-style sound effect, likely a meme audio clip, plays to add emphasis to the on-screen text.",
+  "editing_pacing": "A slow zoom-in on a static photograph.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "disapproval",
+    "anger"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kristi Noem, with the help of the Trump administration, wastefully spent $200 million on private jets during a government shutdown when citizens are struggling financially.",
+  "intended_effect": "To generate anger and disapproval towards Kristi Noem, portraying her as corrupt and out of touch with the struggles of ordinary people.",
+  "uncertainty_flags": [
+    "The specific origin of the short, dramatic audio clip is unclear, though it functions as a common meme-style sound effect."
+  ]
+}

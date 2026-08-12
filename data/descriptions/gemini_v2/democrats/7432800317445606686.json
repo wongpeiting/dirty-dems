@@ -1,0 +1,70 @@
+{
+  "video_id": "7432800317445606686",
+  "visual_action": "Jeff Jackson, a man in a suit, speaks at a podium on a stage in front of a large, cheering crowd. The event is a political rally, with stage signage reading \"NORTH CAROLINA VOTES HARRIS-WALZ\". The video cuts between a wide shot of the stage and a medium close-up of Jackson as he speaks.",
+  "cast": [
+    {
+      "name": "Jeff Jackson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "An overlay text at the top of the video reads: \"Jeff Jackson speaks at North Carolina Kamala Harris rally!\". He is the person shown speaking throughout the video."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the event as a \"Kamala Harris rally!\" and the stage signage reads \"HARRIS-WALZ\"."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The stage signage clearly displays the ticket as \"HARRIS-WALZ\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Jeff Jackson speaks at North Carolina Kamala Harris rally! 👇👇👇🏙️",
+      "role": "overlay"
+    },
+    {
+      "text": "Jackson: We're gonna go about serving people with civility, integrity, honesty, decency, and with joy.",
+      "role": "caption"
+    },
+    {
+      "text": "NORTH CAROLINA VOTES",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS-WALZ",
+      "role": "other"
+    },
+    {
+      "text": "CHARLOTTE, NC",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Jeff Jackson gives a speech at a rally, stating that after winning, they will \"turn the page from one of the darkest chapters of American politics.\" He promises to serve people with \"civility, with integrity, with honesty, with decency, with joy.\" He concludes by thanking the audience and saying, \"we will see you at the polls.\"",
+  "emojis_present": [
+    "👇",
+    "🏙️"
+  ],
+  "audio_music": "The audio consists entirely of Jeff Jackson's live speech and the enthusiastic cheering and applause from the large crowd in response.",
+  "editing_pacing": "The video uses simple cuts, alternating between a wide shot of the stage and a medium close-up on the speaker, Jeff Jackson. The pacing is that of a live speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Hope",
+    "Optimism",
+    "Inspiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Harris-Walz ticket, supported by speakers like Jeff Jackson, will restore positive values like civility, integrity, and joy to American politics.",
+  "intended_effect": "To inspire support and voter turnout for the Harris-Walz campaign by presenting it as a hopeful and decent alternative.",
+  "uncertainty_flags": []
+}

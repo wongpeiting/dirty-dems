@@ -1,0 +1,96 @@
+{
+  "video_id": "7613515230978575646",
+  "visual_action": "A sequence of frames from what appears to be archival video footage, likely from the late 1980s or early 1990s based on the film grain, color palette, and clothing. Two men are shown together in an indoor setting — one in a black suit with a pink tie (confirmed as Donald Trump by face-ID), and another man in a light denim/chambray shirt standing beside him. They appear to be at some kind of event or gathering, talking animatedly, with Trump gesturing with his finger at several points. As the clip progresses, multiple overlaid text fragments accumulate on screen, pulled from what appear to be news headlines or legal/court document excerpts relating to sex trafficking, underage victims, and Trump. The two men are shown from various angles — side profile, closer shots — as the text overlay grows increasingly dense across the frames.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Confirmed by authoritative face-ID; shown in black suit with pink tie throughout all frames; named in multiple on-screen text overlays including 'Donald Trump knew and funded underage sex parties,' 'Introducing 14-year-old to Donald J. Trump,' 'Trump and Epstein together'"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'Trump and Epstein together'; the second unidentified man in the denim shirt appearing beside Trump in archival footage is implied by the post to be Epstein, though face-ID does not confirm this"
+    },
+    {
+      "name": "unnamed man in denim shirt",
+      "kind": "unknown",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible throughout all frames standing beside Trump; not confirmed by face-ID as any known politician; implied by on-screen text to be Jeffrey Epstein but cannot be confirmed visually"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "sexual desire for minor girls",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald Trump knew and funded underage sex parties",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump and Epstein together",
+      "role": "overlay"
+    },
+    {
+      "text": "forced to perform sex acts when she was 13",
+      "role": "overlay"
+    },
+    {
+      "text": "Introducing 14-year-old to Donald J. Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "sex trafficking",
+      "role": "overlay"
+    },
+    {
+      "text": "sex trafficking ring at the Trump Golf Course",
+      "role": "overlay"
+    },
+    {
+      "text": "forced to give oral sex",
+      "role": "overlay"
+    },
+    {
+      "text": "incredibly painful",
+      "role": "overlay"
+    },
+    {
+      "text": "12-year-old female",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio transcript contains a repeated phrase spoken in a quiet, measured voice: \"I am waiting. I have been waiting. I was born waiting. I was born waiting.\" This appears to be a spoken-word or poetic vocal track layered over the archival footage, creating an effect of long-deferred expectation or demand for accountability.",
+  "emojis_present": [],
+  "audio_music": "Throughout the clip, \"Abbey\" by Mitski plays continuously from the start (fingerprinted at 0.0s and again at 8.5s), providing a quiet, melancholic, and emotionally weighted musical backdrop. The track has a sparse, intimate tone that amplifies the gravity of the on-screen text. A spoken-word vocal (\"I am waiting. I have been waiting. I was born waiting.\") is layered over the music, adding a sense of long anticipation or demand. The overall audio effect is somber and urgent.",
+  "editing_pacing": "Slow, deliberate pacing. The clip uses a single continuous archival footage source with gradual zooms and reframings. Text overlays accumulate progressively across frames, building visual density over time. No rapid cuts; the effect is more of a slow burn, with each new text fragment adding to the accumulation of allegations.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage — evoked by accumulating text allegations of child sexual abuse and trafficking linked to Trump",
+    "Urgency and demand for accountability — reinforced by the spoken-word audio 'I am waiting' and the caption 'we deserve the truth'",
+    "Gravity and solemnity — created by Mitski's sparse, melancholic score",
+    "Disgust — triggered by the graphic nature of the on-screen text excerpts referencing minors"
+  ],
+  "cultural_references": [
+    "Mitski — 'Abbey' is used as the musical backdrop, lending a melancholic, emotionally resonant indie-music atmosphere to the post"
+  ],
+  "central_claim": "The post claims that Donald Trump was knowingly associated with Jeffrey Epstein and complicit in or aware of the sexual abuse and sex trafficking of underage girls, and that the public is owed a full accounting of these alleged facts.",
+  "intended_effect": "To produce outrage and moral condemnation of Donald Trump by associating archival footage of him with Epstein alongside accumulating text excerpts alleging child sex trafficking and abuse, and to generate a sense of urgency for truth and accountability.",
+  "uncertainty_flags": [
+    "The identity of the second man in the denim shirt cannot be confirmed by face-ID; the post strongly implies it is Jeffrey Epstein via on-screen text 'Trump and Epstein together,' but this cannot be independently verified from the imagery alone.",
+    "The on-screen text fragments appear to be excerpts from news articles or legal documents, but their precise sources are not shown; it is unclear whether all claims are drawn from verified court filings or from unverified allegations.",
+    "The OCR transcript includes noise (e.g. 'girld', 'Partles', 'traficking', 'parcies') suggesting some text may have been partially misread; the cleaned versions used in on_screen_text are best-guess interpretations.",
+    "The exact date/provenance of the archival footage is not identified within the clip itself.",
+    "The spoken-word audio ('I am waiting...') — its source (original voiceover, sampled poetry, etc.) is not identified."
+  ]
+}

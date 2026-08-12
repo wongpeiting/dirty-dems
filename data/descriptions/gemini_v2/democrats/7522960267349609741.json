@@ -1,0 +1,132 @@
+{
+  "video_id": "7522960267349609741",
+  "visual_action": "The video starts with a still photograph of a large group of smiling politicians, identified as Republicans, giving a thumbs-up gesture. A PBS News logo is visible in the corner. The video then abruptly cuts to a montage showing a young girl with glasses and her mother. The montage includes scenes of the girl eating, a close-up of a medical feeding tube being used, the mother and child interacting, and various medications on a table, with a close-up on a package for a drug called Skytrofa.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The opening text reads \"Republicans after signing Trump's budget...\". A large group of them are shown in a photo."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text mentions \"Trump's budget\"."
+    },
+    {
+      "name": "unnamed mother",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman is shown with her child and speaks about the cost of their medication: \"This is our medication that without the Medicaid coverage would be $3,200 a month.\""
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition in the group photograph of celebrating politicians."
+    },
+    {
+      "name": "Steve Scalise",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition in the group photograph of celebrating politicians."
+    },
+    {
+      "name": "unnamed child",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A young girl with glasses is shown receiving care and is the subject of the second half of the video."
+    },
+    {
+      "name": "PBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The PBS News logo is visible on the initial photograph."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republicans after signing Trump's budget to cut Medicaid by $1 trillion",
+      "role": "overlay"
+    },
+    {
+      "text": "PBS NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "The reality of who the bill hurts most",
+      "role": "overlay"
+    },
+    {
+      "text": "THEY WOULD BE",
+      "role": "overlay"
+    },
+    {
+      "text": "$4,000 A MONTH,",
+      "role": "overlay"
+    },
+    {
+      "text": "EVEN WITH HELP",
+      "role": "overlay"
+    },
+    {
+      "text": "PRIVATE",
+      "role": "overlay"
+    },
+    {
+      "text": "THIS IS OUR",
+      "role": "overlay"
+    },
+    {
+      "text": "MEDICATION THAT",
+      "role": "overlay"
+    },
+    {
+      "text": "WITHOUT THE",
+      "role": "overlay"
+    },
+    {
+      "text": "MEDICAID",
+      "role": "overlay"
+    },
+    {
+      "text": "BE $3,200 A",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A news report states that a family would pay over $4,000 a month for medical costs even with private insurance. A woman then says, \"This is our medication that without the Medicaid coverage would be $3,200 a month.\"",
+  "emojis_present": [
+    "💔"
+  ],
+  "audio_music": "The video opens with the upbeat, celebratory song \"Y.M.C.A.\" by Village People. There is a record-scratch sound effect at the transition, after which the music switches to a slow, somber piano melody for the remainder of the clip, creating a sad and sympathetic mood.",
+  "editing_pacing": "The video employs a dramatic juxtaposition, cutting from a single static photo of celebrating politicians to a slower-paced montage of a family dealing with medical issues. The sharp contrast in both visuals and audio is the central editing technique.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Sympathy",
+    "Mockery",
+    "Sadness"
+  ],
+  "cultural_references": [
+    "Y.M.C.A. by Village People"
+  ],
+  "central_claim": "Republicans are callously celebrating a Trump-proposed budget that cuts Medicaid, which will devastate families who rely on it for life-saving medication for their children.",
+  "intended_effect": "To provoke anger at Republicans and Donald Trump while generating sympathy for families affected by Medicaid cuts.",
+  "uncertainty_flags": []
+}

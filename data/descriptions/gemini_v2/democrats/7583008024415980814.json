@@ -1,0 +1,83 @@
+{
+  "video_id": "7583008024415980814",
+  "visual_action": "A slideshow of still photographs. The first shows Donald Trump and Jeffrey Epstein talking to a woman at a party. The second is a black and white photo of Trump with a group of women whose faces are censored. The third shows Trump sitting next to a woman whose face is censored. The fourth shows a condom package with a caricature of Trump on it. The fifth shows two men in an office. The final image is a mirror selfie of two men.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Named in the opening on-screen text and appears in multiple photographs."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Named in the opening on-screen text ('Epstein's estate') and shown in the first photograph with Donald Trump."
+    },
+    {
+      "name": "House Oversight Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The text 'HOUSE_OVERSIGHT' is watermarked on several of the photos."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "new photos of Trump from Epstein's estate were just released ➡️",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump Condom $4.50",
+      "role": "other"
+    },
+    {
+      "text": "FINALLY",
+      "role": "other"
+    },
+    {
+      "text": "I'm HUUUUGE!",
+      "role": "other"
+    },
+    {
+      "text": "FISH EDDY",
+      "role": "other"
+    },
+    {
+      "text": "HOUSE_OVERSIGHT_083462",
+      "role": "other"
+    },
+    {
+      "text": "HOUSE_OVERSIGHT_065961",
+      "role": "other"
+    },
+    {
+      "text": "HOUSE_OVERSIGHT_00821",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; it is accompanied only by music.",
+  "emojis_present": [
+    "➡️"
+  ],
+  "audio_music": "A continuous synth-pop track with a serious, somewhat somber tone plays throughout the video, creating a grave mood.",
+  "editing_pacing": "A slideshow of still images, with each photo displayed for a few seconds before cutting to the next.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Black boxes are digitally superimposed over the faces of several individuals in the photographs to obscure their identities.",
+  "emotions_signaled": [
+    "suspicion",
+    "scandal",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Newly released photos from Jeffrey Epstein's estate show Donald Trump's association with him, implying involvement in scandalous activities.",
+  "intended_effect": "To damage Donald Trump's reputation by linking him to Jeffrey Epstein and suggesting misconduct.",
+  "uncertainty_flags": [
+    "The authenticity, context, and original source of the photos presented are not verified within the video. The claim that they are 'new' and 'from Epstein's estate' is asserted by the on-screen text but not independently substantiated."
+  ]
+}

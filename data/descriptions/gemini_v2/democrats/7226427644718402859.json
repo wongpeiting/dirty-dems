@@ -1,0 +1,62 @@
+{
+  "video_id": "7226427644718402859",
+  "visual_action": "A cutout of Joe Biden speaking at a podium is superimposed over a screenshot of a campaign merchandise website. The website shows a white t-shirt featuring a stylized graphic of Joe Biden with glowing red eyes and the numbers '20' and '24' on either side. The campaign logo 'BIDEN HARRIS' is at the top of the screenshot.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His face is shown throughout the video, he is speaking, and he is named in the on-screen text as the subject of the t-shirt."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her name appears in the 'BIDEN HARRIS' campaign logo at the top of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "BIDEN HARRIS",
+      "role": "overlay"
+    },
+    {
+      "text": "20 24",
+      "role": "other"
+    },
+    {
+      "text": "*me justifying buying the new t-shirt Joe Biden just dropped*",
+      "role": "overlay"
+    },
+    {
+      "text": "APPAREL STYLE:",
+      "role": "other"
+    },
+    {
+      "text": "Unisex",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Joe Biden says, \"Guess what? It grows the economy. Benefits everybody. Hurts nobody.\"",
+  "emojis_present": [],
+  "audio_music": "The video features only Joe Biden's speaking voice without any accompanying music or sound effects.",
+  "editing_pacing": "The video is a static shot, with a video clip of Joe Biden and a text overlay superimposed on a background image of a webpage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor",
+    "pride"
+  ],
+  "cultural_references": [
+    "The format '*me justifying [action]*' is a common internet meme."
+  ],
+  "central_claim": "Buying the new Joe Biden t-shirt is a justifiable purchase because, like his economic policies, it 'benefits everybody' and 'hurts nobody'.",
+  "intended_effect": "To humorously encourage supporters to buy campaign merchandise and associate the act with positive economic outcomes.",
+  "uncertainty_flags": [
+    "The provided whisper transcript was empty, but audio of Joe Biden speaking is clearly audible."
+  ]
+}

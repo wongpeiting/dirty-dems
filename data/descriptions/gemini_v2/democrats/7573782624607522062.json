@@ -1,0 +1,106 @@
+{
+  "video_id": "7573782624607522062",
+  "visual_action": "A slideshow of still photos of Donald Trump, using the \"1 girl, 10 obsessions\" meme format. A numbered list of nine alleged \"obsessions\" is overlaid on corresponding images: Trump waving from a plane (\"tariffs\"), with Jeffrey Epstein, sleeping in a chair (\"falling asleep during meetings\"), with Javier Milei (\"argentina\"), a building resembling the White House being demolished (\"redecorating!\"), a close-up of his orange-toned face (\"orange makeup\"), his mugshot (\"felonies\"), at a formal party (\"throwing lavish parties while Americans go hungry\"), and standing behind a table full of McDonald's food.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the subject of every photo and all of the on-screen text labels, including text on his shirt identifying him as 'President Donald Trump'."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Appears in a photo with Donald Trump, and his name is shown as text overlay '2. jeffrey epstein'."
+    },
+    {
+      "name": "Javier Milei",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a photo with Donald Trump, corresponding to the on-screen text '4. argentina'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "President Donald Trump",
+      "role": "other"
+    },
+    {
+      "text": "1 girl, 10 obsessions",
+      "role": "meme_text"
+    },
+    {
+      "text": "1. tariffs",
+      "role": "overlay"
+    },
+    {
+      "text": "2. jeffrey epstein",
+      "role": "overlay"
+    },
+    {
+      "text": "3. falling asleep during meetings",
+      "role": "overlay"
+    },
+    {
+      "text": "4. argentina",
+      "role": "overlay"
+    },
+    {
+      "text": "5. redecorating!",
+      "role": "overlay"
+    },
+    {
+      "text": "6. orange makeup",
+      "role": "overlay"
+    },
+    {
+      "text": "7. felonies",
+      "role": "overlay"
+    },
+    {
+      "text": "8. throwing lavish parties while Americans go hungry",
+      "role": "overlay"
+    },
+    {
+      "text": "9. mcdonalds",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male speaker (the anime character Shikamaru Nara) expresses a desire to be a \"cloud\" and avoid putting effort into things, saying he only became a ninja \"so I could do whatever I wanted.\" A female speaker questions his nonchalance. The dialogue is about laziness and apathy.",
+  "emojis_present": [],
+  "audio_music": "A gentle, melancholic acoustic guitar track plays throughout, underneath dialogue from the anime Naruto. The combination creates an ironic tone.",
+  "editing_pacing": "A slideshow with slow, simple cuts between still images.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The image for \"5. redecorating!\" shows a major demolition of a white building that resembles the White House. This image appears to be fabricated or decontextualized to satirically suggest Trump would destroy the institution.",
+  "emotions_signaled": [
+    "mockery",
+    "disdain",
+    "criticism"
+  ],
+  "cultural_references": [
+    "The video uses the '1 girl, 10 obsessions' TikTok meme format.",
+    "The audio is a monologue from the character Shikamaru Nara from the anime series 'Naruto', used ironically."
+  ],
+  "central_claim": "Donald Trump is an unfit leader whose \"obsessions\" consist of corrupt associations, personal vanity, felonies, and harmful policies, all while being fundamentally lazy and apathetic.",
+  "intended_effect": "To portray Donald Trump as a corrupt, ridiculous, and lazy figure, thereby generating mockery and opposition towards him.",
+  "uncertainty_flags": []
+}

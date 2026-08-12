@@ -1,0 +1,115 @@
+{
+  "video_id": "7407816850274405675",
+  "visual_action": "A montage of five clips of Kamala Harris, presented as a countdown. 5: Harris debates Mike Pence. 4: Harris questions Brett Kavanaugh during a confirmation hearing. 3: Harris questions Attorney General William Barr during a Senate hearing. 2: Harris speaks at a 2019 Democratic debate, with a brief cut to Bernie Sanders in the audience. 1: Harris speaks at a podium at a campaign rally, in front of American flags.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Is the subject of the video, appearing and speaking in every clip. The title is '5 ICONIC KAMALA HARRIS MOMENTS'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The final line of the video is Harris saying, 'I know Donald Trump's type.' He is also mentioned in the first clip via the 'Trump tax cut'."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Shown debating Harris in the first clip. An overlay reads 'Debating Mike Pence in 2020'."
+    },
+    {
+      "name": "Brett Kavanaugh",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Shown being questioned by Harris in a confirmation hearing. An overlay reads 'Brett Kavanaugh's confirmation hearing'."
+    },
+    {
+      "name": "William Barr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Shown being questioned by Harris in a Senate hearing. His nameplate 'Hon. William P. Barr' is visible."
+    },
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown listening in the audience during Harris's debate speech."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned by Harris when questioning William Barr: 'Has the president or anyone at the White House ever asked or suggested...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "5 ICONIC KAMALA HARRIS MOMENTS",
+      "role": "overlay"
+    },
+    {
+      "text": "5. Debating Mike Pence in 2020",
+      "role": "overlay"
+    },
+    {
+      "text": "4. Brett Kavanaugh's confirmation hearing",
+      "role": "overlay"
+    },
+    {
+      "text": "3. Grilling AG Barr at a Senate hearing",
+      "role": "overlay"
+    },
+    {
+      "text": "2. Spitting facts at the 2019 Dem debate",
+      "role": "overlay"
+    },
+    {
+      "text": "1. First rally for 2024 campaign",
+      "role": "overlay"
+    },
+    {
+      "text": "c-span",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE MSNBC",
+      "role": "chyron"
+    },
+    {
+      "text": "Hon. William P. Barr",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video is a compilation of clips showcasing Kamala Harris. She repeatedly tells Mike Pence, \"Mister Vice President, I'm speaking.\" She questions Brett Kavanaugh, suggesting, \"I think you're thinking of someone and you don't want to tell us.\" She presses William Barr for a \"yes or no\" answer about whether the president asked him to open an investigation. At a debate, she lists statistics on maternal mortality and gun violence affecting Black women and criticizes the wage gap, asking other candidates, \"Where you been, and what are you going to do?\" Finally, at a rally, she says she took on \"fraudsters\" and \"cheaters\" and that she knows \"Donald Trump's type.\"",
+  "emojis_present": [],
+  "audio_music": "For the first minute, the audio consists only of the dialogue from the source clips. Around the 58-second mark, an upbeat, celebratory pop/hip-hop track with female vocals begins, playing under Harris's campaign rally speech to create a powerful and hype-filled conclusion.",
+  "editing_pacing": "The video is a montage with cuts between five different scenes, each lasting 10-15 seconds. The pacing is steady and serves to build a narrative through the sequence of clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "empowerment",
+    "admiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris has a history of being a strong, assertive, and 'iconic' leader who effectively confronts male opponents and champions issues of racial and gender equality.",
+  "intended_effect": "To make viewers feel inspired by and proud of Kamala Harris, reinforcing her image as a formidable and principled leader ahead of a campaign.",
+  "uncertainty_flags": []
+}

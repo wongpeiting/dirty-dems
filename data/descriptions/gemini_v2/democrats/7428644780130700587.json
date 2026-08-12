@@ -1,0 +1,57 @@
+{
+  "video_id": "7428644780130700587",
+  "visual_action": "A slideshow of two still photos of Donald Trump. The first is a close-up of him smiling. The second is a more unflattering photo of him looking tired or dazed. Both images have text overlays.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face is featured in two photographs, and his name appears in the on-screen text: \"Swipe for Trump's economic plan !\" and \"Trump's economic plans would worsen inflation...\""
+    },
+    {
+      "name": "unnamed experts",
+      "kind": "unknown",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text overlay: \"Trump's economic plans would worsen inflation, experts say\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Swipe for Trump's economic plan !",
+      "role": "overlay"
+    },
+    {
+      "text": "➡️➡️➡️",
+      "role": "overlay"
+    },
+    {
+      "text": "BUSINESS",
+      "role": "chyron"
+    },
+    {
+      "text": "Trump's economic plans would worsen inflation, experts say",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The audio is a comedic mashup. A male voice sings, \"I can show you the world,\" then a different, deadpan voice says, \"You have two dollars and three cents.\" The first voice then resumes singing a parody lyric, \"I can show you my driveway.\"",
+  "emojis_present": [
+    "➡️"
+  ],
+  "audio_music": "A popular meme audio track is used for comedic and mocking effect. It begins with the grand, promising opening line of the song \"A Whole New World,\" which is then jarringly interrupted by a flat, disappointing statement about having only '$2.03'. The audio then concludes with a comically mundane parody of the song's lyrics. The overall effect is anticlimactic and satirical.",
+  "editing_pacing": "Slideshow style, with one cut between two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "The audio is a meme that prominently features a sample and parody of the song \"A Whole New World\" from the Disney movie 'Aladdin'."
+  ],
+  "central_claim": "Donald Trump's economic plans are empty promises that will worsen inflation.",
+  "intended_effect": "To make the viewer mock and distrust Donald Trump's economic proposals.",
+  "uncertainty_flags": []
+}

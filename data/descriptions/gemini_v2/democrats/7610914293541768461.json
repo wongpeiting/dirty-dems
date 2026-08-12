@@ -1,0 +1,101 @@
+{
+  "video_id": "7610914293541768461",
+  "visual_action": "The video shows clips of Donald Trump speaking from a podium in what appears to be the chamber of the U.S. House of Representatives. After each of his spoken statements, the video freezes on his face, a white box appears around his head, and a text overlay appears on the left side of the screen defining a pejorative term (\"Liar\", \"Loser\", \"Looter\") and applying it to him with a supposed counter-argument. Two men, identified as JD Vance and Mike Johnson, are visible sitting behind Trump.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker throughout the video and the subject of all the critical on-screen text."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'Democrats have won or overperformed in 251 elections.' The video is posted by the official '@democrats' account."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible sitting behind Donald Trump."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible sitting behind Donald Trump."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text says 'the Republicans are not winning \"so much.\"'."
+    },
+    {
+      "name": "Trump family",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text suggests funds 'went to the Trump family's pockets.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🤔",
+      "role": "caption"
+    },
+    {
+      "text": "Liar",
+      "role": "overlay"
+    },
+    {
+      "text": "A liar is someone who intentionally says a false statement. Donald Trump does not protect American citizens. As seen in January when his federal agents killed two citizens in Minneapolis.",
+      "role": "overlay"
+    },
+    {
+      "text": "Loser",
+      "role": "overlay"
+    },
+    {
+      "text": "Someone who is defeated in a contest, competition, or game. Democrats have won or overperformed in 251 elections, which means the Republicans are not winning \"so much.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "Looter",
+      "role": "overlay"
+    },
+    {
+      "text": "Someone who steals goods. People were not lifted off food stamps, they were kicked off. Perhaps those funds went to the Trump family's pockets.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video features three distinct clips of Donald Trump speaking. First, he says, \"The first duty of the American government is to protect American citizens.\" Second, he says, \"And in fact, we're winning so much.\" Third, he states, \"We have lifted 2.4 million Americans, a record off of food stamps.\" Each clip is followed by a sound effect and a text-based rebuttal.",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The audio consists of Donald Trump's speech. After each of his statements, a comedic sound effect (similar to a record scratch or a 'boing') plays, followed by a simple, repeating hip-hop beat that underscores the on-screen text. The effect is mocking.",
+  "editing_pacing": "The video's pacing is structured around a repetitive call-and-response format. A clip of a talking head (Trump) plays, which is then interrupted by a freeze-frame. During the freeze-frame, text overlays and a box highlighting Trump's face appear. This pattern repeats three times.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt",
+    "derision"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump is a liar, a loser, and a looter whose claims about protecting citizens, winning elections, and economic policy are false.",
+  "intended_effect": "To discredit Donald Trump by portraying his statements as lies and to cast him as a failure and corrupt, thereby persuading the viewer to oppose him.",
+  "uncertainty_flags": []
+}

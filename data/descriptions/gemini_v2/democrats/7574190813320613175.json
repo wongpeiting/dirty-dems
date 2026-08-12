@@ -1,0 +1,93 @@
+{
+  "video_id": "7574190813320613175",
+  "visual_action": "A montage of video clips and still photos of Donald Trump in various settings: speaking at night, sitting in a meeting, and walking outdoors. The final part of the video shows a clip of Trump speaking with Jeffrey Epstein, followed by still photos of the two of them together, including one with an unidentified woman between them.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in every clip and photo throughout the video."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown in a video clip and still photos with Donald Trump near the end of the video."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID in the provided context, but not clearly visible in the video clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "you're unsuited for",
+      "role": "overlay"
+    },
+    {
+      "text": "THE RAGE OF WAR",
+      "role": "overlay"
+    },
+    {
+      "text": "so pack up,",
+      "role": "overlay"
+    },
+    {
+      "text": "so pack up, go home",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU'RE THROUGH",
+      "role": "overlay"
+    },
+    {
+      "text": "how could i",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE A MAN",
+      "role": "overlay"
+    },
+    {
+      "text": "out of",
+      "role": "overlay"
+    },
+    {
+      "text": "OUT OF YOU",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists entirely of a song with the lyrics: \"You're unsuitable for the rage of war. So pack up, go home, you're through. How could I make a man out of you?\"",
+  "emojis_present": [],
+  "audio_music": "A dramatic, orchestral song, identified as \"I'll Make a Man Out of You\" from Disney's Mulan, plays throughout the video. The tone is serious and epic, creating a mocking or ironic contrast with the visuals of Donald Trump.",
+  "editing_pacing": "The video is a montage with quick cuts between different clips and still photos, synchronized with the lyrics of the background song. Text overlays appear and disappear with the music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "contempt",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "Mulan (Disney movie)",
+    "I'll Make a Man Out of You (song)",
+    "Donny Osmond"
+  ],
+  "central_claim": "Donald Trump is unfit for leadership and morally compromised, as evidenced by his association with Jeffrey Epstein.",
+  "intended_effect": "To persuade the viewer that Donald Trump is weak, corrupt, and unsuitable for office.",
+  "uncertainty_flags": [
+    "The presence of Melania Trump is based on authoritative face-ID data, but she was not clearly visible in the video to the human annotator."
+  ]
+}

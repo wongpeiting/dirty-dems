@@ -1,0 +1,76 @@
+{
+  "video_id": "7106332031075781931",
+  "visual_action": "The video shows two clips. The first is of Senator Chuck Schumer speaking at a podium with an on-screen text overlay. The second clip is of Senator Rick Scott sitting at a desk and looking down at papers, also with an on-screen text overlay.",
+  "cast": [
+    {
+      "name": "Charles Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in the first clip of the video, representing the Democratic party's actions."
+    },
+    {
+      "name": "Rick Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in the second clip of the video, representing the Republican party's plan."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text in the first clip states, 'Democrats are fighting inflation and lowering costs for Americans'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text in the second clip mentions, 'Republicans have a plan that could raise taxes on Americans'."
+    },
+    {
+      "name": "Americans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned twice in on-screen text as the group affected by the political parties' actions."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "✨Democrats are fighting inflation and lowering costs for Americans✨",
+      "role": "overlay"
+    },
+    {
+      "text": "🚩Republicans have a plan that could raise taxes on Americans🚩",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. The audio consists of two sound effects: a gentle, sympathetic 'Aww' sound over the clip of Chuck Schumer, followed by a disappointed sighing 'Oh' sound over the clip of Rick Scott.",
+  "emojis_present": [
+    "✨",
+    "🚩"
+  ],
+  "audio_music": "The audio is not music but a pair of contrasting sound effects. A soft, sympathetic 'Aww' plays over the clip about Democrats, creating a positive, caring tone. This is immediately followed by a disappointed, sigh-like 'Oh' sound over the clip about Republicans, creating a negative, concerning tone.",
+  "editing_pacing": "The video consists of two static shots with a single cut between them. The pacing is slow and deliberate.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Approval",
+    "Concern",
+    "Disapproval"
+  ],
+  "cultural_references": [
+    "The use of short, emotive sound effects ('Aww', 'Oh') to frame political claims is a common TikTok and internet meme format."
+  ],
+  "central_claim": "The Democratic Party is actively helping Americans by fighting inflation, while the Republican Party has a plan that would harm Americans by raising their taxes.",
+  "intended_effect": "To generate positive feelings toward the Democratic Party's economic agenda and negative feelings toward the Republican Party's, portraying Democrats as protectors of Americans' financial well-being.",
+  "uncertainty_flags": []
+}

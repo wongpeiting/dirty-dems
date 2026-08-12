@@ -1,0 +1,66 @@
+{
+  "video_id": "7659437543238192397",
+  "visual_action": "A static, upward-looking photo of Donald Trump in a suit and red tie, with American flags in the background. Overlaid on the image are three separate white text boxes with black text, each presenting a negative statistic attributed to his presidency. A line of lyrics also appears on screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His face is the main visual of the video, and all on-screen text criticizes policies from his administration."
+    },
+    {
+      "name": "GOP",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text states '...and the GOP let prices skyrocket'."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text references 'Trump's ICE surge'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "they have stolen the heart from inside you",
+      "role": "caption"
+    },
+    {
+      "text": "Over 145,000 US children separated from parents since Trump's ICE surge, study estimates",
+      "role": "overlay"
+    },
+    {
+      "text": "More Than 770,000 Children Are No Longer Receiving SNAP Benefits After Trump Changes Federal Food Program",
+      "role": "overlay"
+    },
+    {
+      "text": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a song with female vocals. The on-screen text displays the lyrics being sung: \"they have stolen the heart from inside you.\"",
+  "emojis_present": [],
+  "audio_music": "A somber and emotional song, identified as 'Know Who You Are' from the movie Moana, plays throughout the clip. The tone is dramatic and sad, matching the critical on-screen text.",
+  "editing_pacing": "The video consists of a single static image with text overlays appearing on screen. There is no cutting or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "anger",
+    "outrage"
+  ],
+  "cultural_references": [
+    "Moana (Disney movie)",
+    "Know Who You Are (song)"
+  ],
+  "central_claim": "Donald Trump's presidential policies have harmed American children and families by separating them, cutting food benefits, and making healthcare unaffordable.",
+  "intended_effect": "To evoke negative emotions toward Donald Trump and persuade the viewer that his presidency caused significant suffering.",
+  "uncertainty_flags": []
+}

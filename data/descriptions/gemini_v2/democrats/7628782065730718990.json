@@ -1,0 +1,70 @@
+{
+  "video_id": "7628782065730718990",
+  "visual_action": "A man in a suit and tie, Dave Rubin, is shown speaking in a studio setting. The screen is split into two panels, top and bottom, showing him speaking. Initially, his words appear as captions. Then, a clown emoji is superimposed over his face in the bottom panel, and several text boxes with headlines and a poll graph appear around him. A 'TURNING POINT US' logo is partially visible in the background.",
+  "cast": [
+    {
+      "name": "Dave Rubin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking throughout the video, and the post's mockery is directed at him. The partially visible 'TURNING POINT US' logo behind him suggests his affiliation."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An overlaid text box reads 'Trump approval rating hits new low as Iran war squeezes economy,' making his administration's policies and popularity central to the post's counter-argument."
+    },
+    {
+      "name": "Turning Point USA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'TURNING POINT US' is partially visible on the screen behind the speaker."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I recognize that a lot of young voters don't love the policy we have in the Middle East.",
+      "role": "overlay"
+    },
+    {
+      "text": "I understand that.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump approval rating hits new low as Iran war squeezes economy",
+      "role": "overlay"
+    },
+    {
+      "text": "Americans Broadly Disapprove of U.S. Military Action in Iran",
+      "role": "overlay"
+    },
+    {
+      "text": "Oppose 54%",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A man, identified as Dave Rubin, says: \"I recognize that a lot of young voters don't love the policy we have in the Middle East. I understand that.\"",
+  "emojis_present": [
+    "🤡"
+  ],
+  "audio_music": "The video is scored with a slow, somber piano track ('Nocture of Shadows — Virelios Astryx') that creates a serious, dramatic tone, which contrasts with the visual mockery that appears later.",
+  "editing_pacing": "The video uses a static, two-panel shot of a talking head. The main editing event is the sudden appearance of multiple overlays (a clown emoji, text boxes, a graph) to create a meme-like punchline.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A large clown emoji (🤡) is superimposed over the speaker's face to mock him and portray his statement as foolish. Text boxes with news headlines and poll data are also added to contradict his point.",
+  "emotions_signaled": [
+    "mockery",
+    "derision"
+  ],
+  "cultural_references": [
+    "The clown emoji meme, used online to signify that someone is being foolish or making an ignorant statement."
+  ],
+  "central_claim": "The speaker, Dave Rubin, is being clownish by framing opposition to US military policy as only a 'young voter' issue, when in fact, disapproval is broad and has had negative consequences for the Trump administration.",
+  "intended_effect": "To make the viewer mock Dave Rubin and conservative foreign policy, viewing them as out of touch with the general American public.",
+  "uncertainty_flags": []
+}

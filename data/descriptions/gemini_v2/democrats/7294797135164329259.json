@@ -1,0 +1,94 @@
+{
+  "video_id": "7294797135164329259",
+  "visual_action": "A video clip of Mike Johnson speaking during a Fox News interview. He is seated in what appears to be an office, wearing a suit and glasses. A Fox News chyron is visible at the bottom of the interview footage.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking throughout the clip, identified by face recognition and the on-screen text \"Republican speaker of the House Mike Johnson\" and a chyron reading \"EXCLUSIVE INTERVIEW WITH SPEAKER MIKE JOHNSON\"."
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mike Johnson says, \"But when five justices on the Supreme Court changed it, that became the law of the land.\""
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on the chyron at the bottom of the screen."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The overlay text at the top of the video identifies Mike Johnson as the \"Republican speaker of the House\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republican speaker of the House Mike Johnson complaining that gay couples now have the right to marry:",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "EXCLUSIVE INTERVIEW WITH SPEAKER MIKE JOHNSON",
+      "role": "chyron"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "They changed the definition of marriage",
+      "role": "caption"
+    },
+    {
+      "text": "that had been regarded by basically",
+      "role": "caption"
+    },
+    {
+      "text": "every human society for 5,000 years.",
+      "role": "caption"
+    },
+    {
+      "text": "But when five justices on the Supreme Court",
+      "role": "caption"
+    },
+    {
+      "text": "changed it,",
+      "role": "caption"
+    },
+    {
+      "text": "that became the law of the land.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Mike Johnson states that the definition of marriage, which he claims had been consistent for 5,000 years, was changed. He notes that when five Supreme Court justices made this change, it became \"the law of the land.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Mike Johnson's voice from the interview clip. There is no music or other sound.",
+  "editing_pacing": "The video consists of a single, static shot of a talking-head interview with no cuts or special effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "criticism",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "House Speaker Mike Johnson is unhappy that the Supreme Court legalized gay marriage, which he views as an alteration of a long-standing societal definition.",
+  "intended_effect": "To portray Mike Johnson as being against marriage equality and to generate disapproval of his views.",
+  "uncertainty_flags": []
+}

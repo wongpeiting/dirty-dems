@@ -1,0 +1,62 @@
+{
+  "video_id": "7595726900379651359",
+  "visual_action": "In a formal room resembling the White House's East Room, Donald Trump stands on a small stage with the Florida Panthers hockey team. To the left is the Stanley Cup trophy on a pedestal. Team members present Trump with a hockey stick and a red jersey with his name and the number 47 on the back. The team and an audience applaud. The video concludes with a black-and-white graphic of the White House, followed by a shot of a helicopter, with the text 'THE WHITE HOUSE' overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is visually present throughout the event, is named in the on-screen text as 'President Trump', and speaks on camera."
+    },
+    {
+      "name": "Florida Panthers",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The team is named in the on-screen overlay text: 'Florida Panthers gift President Trump...'. They are shown presenting the gifts."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Florida Panthers gift President Trump a Stanley Cup Championship ring, hockey stick, and jersey!",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP",
+      "role": "other"
+    },
+    {
+      "text": "47",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio consists of applause and indistinct chatter. Donald Trump is heard saying, \"Did you hear him? Good for slashing,\" as he is presented with the hockey stick, making a joke to the audience.",
+  "emojis_present": [
+    "🇺🇸",
+    "🏒"
+  ],
+  "audio_music": "The audio consists of diegetic sounds from the event, including applause, cheering, and spoken dialogue. There is no musical soundtrack.",
+  "editing_pacing": "The video is primarily a single, static shot of the event, followed by a cut to a black-and-white closing credit sequence.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Celebration",
+    "Pride",
+    "Respect",
+    "Humor"
+  ],
+  "cultural_references": [
+    "Florida Panthers",
+    "Stanley Cup"
+  ],
+  "central_claim": "The Florida Panthers, a championship sports team, are honoring President Trump with gifts, including a jersey with the number 47, implicitly recognizing him as the 47th U.S. President.",
+  "intended_effect": "To portray Donald Trump as a respected leader celebrated by popular sports champions.",
+  "uncertainty_flags": []
+}

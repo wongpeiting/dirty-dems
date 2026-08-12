@@ -1,0 +1,100 @@
+{
+  "video_id": "7413063430346722591",
+  "visual_action": "The video opens with a selfie photo of Kamala Harris smiling, with a large crowd in an auditorium in the background. The text '“hang out?”' is overlaid. It then cuts to a graphic for an 'ABC NEWS PRESIDENTIAL DEBATE' featuring headshots of Kamala Harris and Donald Trump. Text above this graphic reads 'the hangout:'. The debate graphic includes details about the time and streaming services.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a selfie photo at the start and in a headshot on the presidential debate graphic, where her name 'KAMALA HARRIS' is also written."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a headshot on the presidential debate graphic, where his name 'DONALD TRUMP' is also written."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo and name 'ABC NEWS' appear on the presidential debate graphic."
+    },
+    {
+      "name": "Hulu",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Hulu logo appears on the debate graphic under 'STREAM ON'."
+    },
+    {
+      "name": "Disney+",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Disney+ logo appears on the debate graphic under 'STREAM ON'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video was posted by the official @democrats account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“hang out?”",
+      "role": "overlay"
+    },
+    {
+      "text": "the hangout:",
+      "role": "overlay"
+    },
+    {
+      "text": "KAMALA HARRIS",
+      "role": "chyron"
+    },
+    {
+      "text": "DONALD TRUMP",
+      "role": "chyron"
+    },
+    {
+      "text": "ABC NEWS PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "TUESDAY 9P ET",
+      "role": "chyron"
+    },
+    {
+      "text": "STREAM ON hulu Disney+ ABC NEWS LIVE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "A continuous, upbeat trap/hip-hop track ('Pink Lemonade (Hood Trap)' by LeoStayTrill/Mr Reload It) plays throughout the video, creating a modern and hype-filled tone.",
+  "editing_pacing": "The video consists of a single, quick cut from one static image to another.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor",
+    "anticipation"
+  ],
+  "cultural_references": [
+    "The video uses the popular internet meme format 'X?' / 'the X:', which juxtaposes a question with an unexpected or humorous answer/reveal."
+  ],
+  "central_claim": "The upcoming presidential debate between Kamala Harris and Donald Trump is framed as a casual but significant 'hangout,' using a meme to generate interest and excitement.",
+  "intended_effect": "To use humor and a familiar meme format to announce the presidential debate and encourage viewers, particularly younger audiences, to watch.",
+  "uncertainty_flags": []
+}

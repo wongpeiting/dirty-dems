@@ -1,0 +1,61 @@
+{
+  "video_id": "7547749075110595853",
+  "visual_action": "The video starts with a static screenshot of a tweet from 'FactPost'. The tweet claims health insurance premiums are rising by up to 18%, citing Trump's tariffs as a reason. The tweet includes a split-screen image of Donald Trump and a stock photo of a health insurance form with a stethoscope. The video then cuts to a clip of Donald Trump speaking at a podium, with on-screen text identifying the clip as 'Trump last year' and subtitling his words.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in a photograph in the initial tweet screenshot and in a video clip speaking. He is also named in the on-screen text: 'Trump's tariffs' and 'Trump last year'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays a screenshot of a tweet from the account 'FactPost' (@factpostnews)."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Health insurance companies are raising insurance premiums by up to 18%, the largest increase in 15 years.",
+      "role": "overlay"
+    },
+    {
+      "text": "Companies have cited Trump's tariffs as a reason for this increase.",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump last year 🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "When I win, I will immediately bring prices down starting on day one.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump is shown saying, \"When I win, I will immediately bring prices down starting on day one.\"",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "A dramatic and somber instrumental track plays continuously throughout the video, creating a serious tone.",
+  "editing_pacing": "The editing is simple, consisting of a single cut from a static image of a tweet to a video clip of a person speaking. It resembles a slideshow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "skepticism",
+    "irony",
+    "concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's policies have caused a significant increase in health insurance premiums, directly contradicting his campaign promise to lower prices.",
+  "intended_effect": "To persuade the viewer that Donald Trump is untrustworthy and that his policies have negative financial consequences for Americans.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,84 @@
+{
+  "video_id": "7433642360296181034",
+  "visual_action": "From an audience perspective, Michigan Governor Gretchen Whitmer walks onto a large, brightly lit stage at a political rally in Detroit. The stage backdrop is a large blue screen with \"HARRIS WALZ\" displayed. She approaches a podium as the crowd cheers. She is wearing a red coat.",
+  "cast": [
+    {
+      "name": "Gretchen Whitmer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Her face is shown as she walks onto the stage and speaks. The on-screen text caption identifies her by name: \"Gretchen Whitmer's walkout tonight was iconic\"."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears on the stage backdrop as part of the \"HARRIS WALZ\" campaign branding."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on the stage backdrop as part of the \"HARRIS WALZ\" campaign branding."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Gretchen Whitmer's walkout tonight was iconic 🔥😎",
+      "role": "caption"
+    },
+    {
+      "text": "DETROIT, MI",
+      "role": "chyron"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "overlay"
+    },
+    {
+      "text": "VOTE FOR FREEDOM",
+      "role": "overlay"
+    },
+    {
+      "text": "NOV. 5",
+      "role": "overlay"
+    },
+    {
+      "text": "HELLO",
+      "role": "overlay"
+    },
+    {
+      "text": "DETROIT",
+      "role": "overlay"
+    },
+    {
+      "text": "TEXT VOTE TO 30330",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video opens with a rap song with lyrics including \"Big Gretch.\" After the song fades, Gretchen Whitmer approaches the podium and says, \"Hello Detroit!\"",
+  "emojis_present": [
+    "🔥",
+    "😎"
+  ],
+  "audio_music": "A hype rap track, identified as 'Big Gretch' by Gmac Cash, plays for approximately the first 11 seconds of the video, creating an energetic and celebratory atmosphere for Gretchen Whitmer's entrance. The music stops abruptly when she begins to speak.",
+  "editing_pacing": "The video consists of a single, continuous shot that slowly zooms in on Gretchen Whitmer as she walks to the podium.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "excitement",
+    "admiration"
+  ],
+  "cultural_references": [
+    "The song 'Big Gretch' by Detroit rapper Gmac Cash is used as walkout music."
+  ],
+  "central_claim": "Gretchen Whitmer's entrance at a rally in Detroit was an iconic and exciting moment.",
+  "intended_effect": "To generate excitement and admiration for Gretchen Whitmer, portraying her as a cool and popular political figure.",
+  "uncertainty_flags": []
+}

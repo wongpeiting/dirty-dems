@@ -1,0 +1,77 @@
+{
+  "video_id": "7610669097050705165",
+  "visual_action": "The video starts with Donald Trump speaking at a podium in what appears to be the U.S. House chamber during a State of the Union address. After he makes a statement, the camera shows the audience applauding. The video then cuts to a manipulated clip where the character Michael Scott from the TV show 'The Office' is superimposed into the same chamber, dancing energetically and lifting a large speaker above his head while a bass-boosted patriotic song plays.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at a podium for the first half of the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The caption reads, \"Democrats refusing to stand up. DISGUSTING.\", making them the target of the post's criticism."
+    },
+    {
+      "name": "Tom Suozzi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His name appears in a chyron at the bottom of the screen: \"REP. TOM SUOZZI\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "if you agree with this statement",
+      "role": "caption"
+    },
+    {
+      "text": "then stand up and show your support",
+      "role": "caption"
+    },
+    {
+      "text": "the first duty of the American government is to protect American citizens",
+      "role": "caption"
+    },
+    {
+      "text": "not illegal aliens",
+      "role": "caption"
+    },
+    {
+      "text": "REP. TOM SUOZZI\nDistrict ■ Glen Cove, Great Neck\nSTATE-of-the-UNION",
+      "role": "chyron"
+    },
+    {
+      "text": "STAND TF UP 🙌🙌🙌",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"If you agree with this statement, then stand up and show your support. The first duty of the American government is to protect American citizens, not illegal aliens.\" The crowd applauds after his statement.",
+  "emojis_present": [
+    "🙌"
+  ],
+  "audio_music": "The video begins with only Donald Trump's speaking voice. After he finishes his statement and applause begins, a loud, bass-boosted version of \"The Star-Spangled Banner\" abruptly starts playing. This music is high-energy and serves as a hype track for the meme portion of the video.",
+  "editing_pacing": "The video consists of a single, static shot of Donald Trump speaking, which then hard-cuts to a superimposed reaction meme. The pacing is designed as a setup-and-punchline format.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The character Michael Scott and a large speaker are digitally superimposed onto footage of the House chamber. This creates a satirical meme where the character appears to be reacting enthusiastically to Donald Trump's speech.",
+  "emotions_signaled": [
+    "Patriotism",
+    "Mockery",
+    "Contempt",
+    "Humor"
+  ],
+  "cultural_references": [
+    "Michael Scott",
+    "The Office (U.S. TV series)"
+  ],
+  "central_claim": "Democrats are unpatriotic because they do not stand in support of the idea that the U.S. government's primary duty is to protect its citizens over undocumented immigrants.",
+  "intended_effect": "To rally support for Donald Trump's nationalist message while mocking Democrats as being out of touch with American priorities.",
+  "uncertainty_flags": []
+}

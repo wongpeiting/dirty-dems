@@ -1,0 +1,67 @@
+{
+  "video_id": "7642401738917416206",
+  "visual_action": "The video opens with a black-and-white, still photograph of Joe Biden looking thoughtfully out of a window. After a few seconds, it cuts to a man in a blue suit (Lee Zeldin) speaking at a podium with the Seal of the President of the United States. He is in an ornate, gold-and-white room, gesturing towards two large presentation boards on easels. One board is titled 'The Trump Deregulatory Agenda' and the other resembles a large receipt.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A photo of him is shown at the start of the video, with on-screen text that reads, 'The Biden administration's ridiculous regulations cost Americans billions.'"
+    },
+    {
+      "name": "Lee Zeldin",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is the person shown speaking at the podium, presenting the information on the charts."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "His administration is praised in on-screen text ('Today's actions under Trump's admin') and on a large chart titled 'The Trump Deregulatory Agenda'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Biden administration's ridiculous regulations cost Americans billions.",
+      "role": "overlay"
+    },
+    {
+      "text": "Today's actions under Trump's admin are saving over $2.4B for American families & safe-guarding over 350,000 jobs.",
+      "role": "overlay"
+    },
+    {
+      "text": "The Trump Deregulatory Agenda",
+      "role": "other"
+    },
+    {
+      "text": "Your Receipt From Today's Actions",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Lee Zeldin, speaking from a podium, states that 'today's actions' are saving American families over $2.4 billion and safeguarding 350,000 jobs. He specifies that supermarkets alone will see savings of $800 million, which Americans will notice when they buy food.",
+  "emojis_present": [
+    "💪",
+    "🇺🇸"
+  ],
+  "audio_music": "The video begins with a slow, somber piano and music box track for the first four seconds over the image of Joe Biden, creating a suspenseful or negative mood. The music then cuts out completely and is replaced by the clear, unadorned audio of the man speaking for the rest of the clip.",
+  "editing_pacing": "The video has slow pacing, consisting of a static black-and-white photograph followed by a single cut to a static shot of a person speaking at a podium.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "worry",
+    "frustration",
+    "hope",
+    "relief"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Biden administration's regulations are financially harming Americans, in contrast to the Trump administration's deregulatory policies which save families billions of dollars and protect jobs.",
+  "intended_effect": "To persuade viewers that the Trump administration's economic policies are superior and more beneficial to American families than those of the Biden administration.",
+  "uncertainty_flags": []
+}

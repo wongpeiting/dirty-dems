@@ -1,0 +1,121 @@
+{
+  "video_id": "7617861181985885453",
+  "visual_action": "The video is a montage of speakers discussing action against terrorist proxies. It begins with Donald Trump, wearing a white 'USA' hat, speaking at a podium with the presidential seal. Text overlays appear: 'OBJECTIVE: DESTROY THE REGIONS TERRORIST PROXIES'. The video then cuts to a blonde woman at a press podium, a US Air Force officer at another podium, Marco Rubio speaking, and a guest on a Fox News segment. The entire video has a dark, blue-green color grade and a scan-line filter, simulating a view from a digital screen or targeting system. It concludes with a line drawing of the White House and the text 'THE WHITE HOUSE' and 'PRESIDENT DONALD J. TRUMP'.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium at the beginning of the video and identified as president at the end."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the audio as the country whose 'terrorist proxies' and 'military and industrial base' are being targeted. The caption also states 'destroy Iran’s terrorist proxies'."
+    },
+    {
+      "name": "Unnamed White House official",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A blonde woman shown speaking from a White House press briefing room podium."
+    },
+    {
+      "name": "Caine",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man in a US Air Force general's uniform is shown speaking. His nametag appears to read 'CAINE'."
+    },
+    {
+      "name": "Marco Rubio",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Recognizable politician shown speaking briefly."
+    },
+    {
+      "name": "Unnamed Fox News guest",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man is shown speaking in a clip that features the Fox News logo and chyron."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible during one of the clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "OBJECTIVE:",
+      "role": "overlay"
+    },
+    {
+      "text": "DESTROY THE REGIONS",
+      "role": "overlay"
+    },
+    {
+      "text": "TERRORIST PROXIES",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "chyron"
+    },
+    {
+      "text": "CAINE",
+      "role": "other"
+    },
+    {
+      "text": "FOX NEWS channel",
+      "role": "chyron"
+    },
+    {
+      "text": "U.S. AND ISRAEL",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "PRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video compiles statements from multiple speakers, including Donald Trump, outlining a military objective. Trump states his administration will ensure \"the region's terrorist proxies can no longer destabilize the region or the world.\" An unnamed official announces \"Operation Epic Fury\" to achieve this. A military officer details plans to go \"deeper into Iran's military and industrial base\" to prevent attacks on Americans. Another speaker says, \"We will destroy their ability to sponsor terrorism,\" and a final speaker calls for the \"elimination of their... support for proxies which is destabilizing the entire Middle East.\"",
+  "emojis_present": [],
+  "audio_music": "A low, tense, and ominous synthesized score plays under the spoken dialogue, creating a serious and militaristic atmosphere.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different speakers. A consistent dark, blue-green color grade and a digital scan-line filter are applied throughout to create a stylized, high-tech military aesthetic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Strength",
+    "Resolve",
+    "Seriousness",
+    "Threat"
+  ],
+  "cultural_references": [
+    "The video's aesthetic, with its 'OBJECTIVE' text overlay, dark filter, and scan-line effect, mimics the style of a mission briefing from a military action movie or a video game like 'Call of Duty'."
+  ],
+  "central_claim": "The Trump administration is launching 'Operation Epic Fury' to destroy Iran's terrorist proxies and military capabilities, thereby protecting American lives and interests.",
+  "intended_effect": "To portray the Trump administration as strong and decisive in protecting the U.S. from foreign threats, and to build support for aggressive military action against Iran.",
+  "uncertainty_flags": [
+    "The name on the military officer's uniform is difficult to read but appears to be 'CAINE'.",
+    "The blonde woman speaking from the press podium and the man speaking on the Fox News segment are not identified by name."
+  ]
+}

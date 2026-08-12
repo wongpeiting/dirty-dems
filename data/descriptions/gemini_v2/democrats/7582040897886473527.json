@@ -1,0 +1,90 @@
+{
+  "video_id": "7582040897886473527",
+  "visual_action": "A clip from a Fox News broadcast shows Donald Trump speaking at a podium to a crowd of supporters at a rally in Mount Pocono, PA. A chyron from 'The Ingraham Angle' is at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at a podium and is the subject of the post's text and audio."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The broadcast is identified by the Fox News logo and chyron for 'The Ingraham Angle'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump loves WHAT??",
+      "role": "overlay"
+    },
+    {
+      "text": "FOR MINERS,",
+      "role": "overlay"
+    },
+    {
+      "text": "MINERS?",
+      "role": "overlay"
+    },
+    {
+      "text": "MINERS.",
+      "role": "overlay"
+    },
+    {
+      "text": "I DON'T KNOW",
+      "role": "overlay"
+    },
+    {
+      "text": "HOW THEY DO",
+      "role": "overlay"
+    },
+    {
+      "text": "IT GOING",
+      "role": "overlay"
+    },
+    {
+      "text": "10,000 FEET",
+      "role": "overlay"
+    },
+    {
+      "text": "UNDER THE",
+      "role": "overlay"
+    },
+    {
+      "text": "GROUND",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP: LOWER PRICES, BIGGER PAYCHECKS",
+      "role": "chyron"
+    },
+    {
+      "text": "MOUNT POCONO, PA",
+      "role": "chyron"
+    },
+    {
+      "text": "THE INGRAHAM ANGLE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Donald Trump asks a rally crowd, \"do we love miners?\" and then states \"I love miners.\" He adds that he doesn't know how they do their job, \"going 10,000 feet under the ground.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's speech and the ambient noise of the crowd reacting. There is no music or added sound effects.",
+  "editing_pacing": "The video is a single, static shot of Trump speaking. The only editing is the addition of sequential overlay text that appears in sync with his words.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Incredulity"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post highlights Donald Trump's statement about loving miners to imply it is strange, insincere, or worthy of mockery.",
+  "intended_effect": "To make the viewer see Donald Trump as pandering, insincere, or out of touch.",
+  "uncertainty_flags": []
+}

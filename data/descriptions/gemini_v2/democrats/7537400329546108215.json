@@ -1,0 +1,67 @@
+{
+  "video_id": "7537400329546108215",
+  "visual_action": "The video displays two static images in sequence. The first is a graphic designed to look like an NBC News alert, with the NBC logo and text about Donald Trump's plans for Washington D.C. police. The second image is a screenshot of a tweet from the Democratic Party's account. The tweet includes text and a map of Washington D.C. with a red circle drawn around the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The first on-screen graphic reads 'Trump to take over D.C. police...'. The audio consists of a guilty verdict being read repeatedly, which is a clear reference to his recent conviction."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The second image is a screenshot of a tweet from the account 'Democrats' with the handle '@TheDemocrats'."
+    },
+    {
+      "name": "NBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The NBC logo appears at the top of the first graphic shown in the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump to take over D.C. police and deploy the National Guard in effort to fight crime in the nation's capital",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats @TheDemocrats",
+      "role": "overlay"
+    },
+    {
+      "text": "Found the home base of criminals in D.C.",
+      "role": "overlay"
+    },
+    {
+      "text": "Washington",
+      "role": "other"
+    },
+    {
+      "text": "The White House",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A woman's voice is heard reading a criminal verdict, repeatedly stating the count number followed by the word \"guilty.\" For example: \"Count one, guilty. Count two, guilty. Count three, guilty.\"",
+  "emojis_present": [],
+  "audio_music": "A modern, dramatic hip-hop or trap beat plays consistently throughout the video, creating a serious and tense atmosphere.",
+  "editing_pacing": "The video is a simple slideshow, cutting from one static image to the next without any other effects.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The first screen is a fabricated graphic designed to mimic an official NBC News alert. The second screen, a screenshot of a tweet, has a red circle digitally drawn onto the map to highlight the White House, visually reinforcing the tweet's text.",
+  "emotions_signaled": [
+    "Mockery",
+    "Alarm",
+    "Triumph"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post frames Donald Trump as a hypocritical criminal by juxtaposing his stated goal of fighting crime in D.C. with his own guilty verdict, implying the White House is the center of criminality under him.",
+  "intended_effect": "To undermine Trump's 'law and order' stance, portray him as a criminal, and generate mockery and alarm among viewers.",
+  "uncertainty_flags": []
+}

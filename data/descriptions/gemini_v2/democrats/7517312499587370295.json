@@ -1,0 +1,98 @@
+{
+  "video_id": "7517312499587370295",
+  "visual_action": "A clip of Donald Trump speaking outdoors on a grassy lawn in front of several men in work clothes and hard hats. A Fox News chyron is at the bottom of the screen. The entire video is framed with black bars at the top and bottom, which contain white text overlays.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video clip, shown from the chest up."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The top overlay text, 'Trump as news swirls about possible war with Iran:', frames the entire video, establishing the context against which Trump's actions are judged."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is a clip from a Fox News broadcast, identified by the logo and chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump as news swirls about possible war with Iran:",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "NOW: TRUMP SPEAKS AS NEW FLAGPOLES GO UP",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "LET'S HAVE A GOOD—",
+      "role": "overlay"
+    },
+    {
+      "text": "THEY CALL IT",
+      "role": "overlay"
+    },
+    {
+      "text": "THEY ALSO USE ANOTHER",
+      "role": "overlay"
+    },
+    {
+      "text": "BUT I'M NOT GOING TO",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU KNOW WHAT THAT IS?",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WORD.",
+      "role": "overlay"
+    },
+    {
+      "text": "IT STARTS WITH AN E.",
+      "role": "overlay"
+    },
+    {
+      "text": "YOU KNOW WHAT THE WORD IS?",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump talks about what seems to be the installation of flagpoles, stating, 'they call it a lifting.' He then alludes to another word for it that he won't say, teasingly asking the audience, 'it starts with an E. You know what the word is?' The implication is that the word is 'erection'.",
+  "emojis_present": [
+    "😀",
+    "👍"
+  ],
+  "audio_music": "The audio consists only of Donald Trump's spoken words and the ambient sound of an outdoor press event. There is no music or other sound effects.",
+  "editing_pacing": "The video uses a single, static clip from a news broadcast. The primary editing is the addition of a text overlay at the top to provide context, and animated text at the bottom that appears sequentially to emphasize Trump's words as he speaks.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule",
+    "irony"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post implies Donald Trump was focused on trivial and inappropriate topics while a major international crisis with Iran was unfolding, suggesting he has poor priorities and is unfit for office.",
+  "intended_effect": "To make viewers ridicule Donald Trump for his perceived lack of seriousness and misplaced focus during a potential national security crisis.",
+  "uncertainty_flags": []
+}

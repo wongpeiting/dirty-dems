@@ -1,0 +1,104 @@
+{
+  "video_id": "7433829512200228142",
+  "visual_action": "A middle-aged white man with a goatee, wearing a blue t-shirt and a U.S. Army baseball cap, is interviewed outdoors by a news crew. A microphone with a news station logo is held in front of him. In the background, other people are walking along a paved path next to a road.",
+  "cast": [
+    {
+      "name": "Scott Lambert",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A news chyron at the bottom of the screen identifies him as 'SCOTT LAMBERT'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The top overlay text reads: \"PA voter today explains why he's voting for Harris/Walz\"."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The top overlay text reads: \"PA voter today explains why he's voting for Harris/Walz\"."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The bottom overlay text references \"the Trump-Vance ticket\"."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The bottom overlay text references \"the Trump-Vance ticket\"."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker says, \"the Republican ticket is just not a good fit for the country.\""
+    },
+    {
+      "name": "Pittsburgh's Action News 4",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news station's logo and name appear on the microphone and the chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "PA voter today explains why he's voting for Harris/Walz ⬇️⬇️⬇️",
+      "role": "overlay"
+    },
+    {
+      "text": "Voter: We've seen so many times recently that the Trump-Vance ticket is just not a good fit for the country.",
+      "role": "overlay"
+    },
+    {
+      "text": "RESPONSE TO HARRIS RALLY",
+      "role": "chyron"
+    },
+    {
+      "text": "SCOTT LAMBERT",
+      "role": "chyron"
+    },
+    {
+      "text": "PITTSBURGH'S ACTION NEWS 4",
+      "role": "chyron"
+    },
+    {
+      "text": "2024",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A voter identified as Scott Lambert states, \"we've seen so many times recently that the Republican ticket is just not a good fit for the country.\" An on-screen text overlay transcribes this line but replaces his words \"the Republican ticket\" with \"the Trump-Vance ticket.\"",
+  "emojis_present": [
+    "⬇️"
+  ],
+  "audio_music": "The audio consists of a man speaking during an interview, with ambient background noise of other people nearby. There is no music.",
+  "editing_pacing": "The video is a single, unedited clip from a news interview, presented as a static shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Sincerity",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "A Pennsylvania voter, who appears to be a veteran, is voting for the Democratic ticket (Harris/Walz) because he feels the Republican ticket is not a good fit for the country.",
+  "intended_effect": "To persuade viewers, particularly swing voters or veterans, by showcasing an ordinary person expressing support for the Democratic ticket and opposition to the Republican one.",
+  "uncertainty_flags": []
+}

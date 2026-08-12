@@ -1,0 +1,49 @@
+{
+  "video_id": "7544396805694311735",
+  "visual_action": "Donald Trump speaks at a podium at an outdoor rally in front of a large crowd of supporters. He wears a dark suit, red tie, and a red 'USA' hat. The video is presented in a vertical format, with blurred versions of the main footage filling the space above and below the central frame.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person speaking in the video, shown in a close-up shot for the entire duration."
+    },
+    {
+      "name": "God",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speech is centered around prayer and rededicating the country as 'one nation under God', a phrase which is also featured prominently in on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ONE NATION UNDER GOD",
+      "role": "overlay"
+    },
+    {
+      "text": "As we prepare to celebrate two and a half centuries of freedom, I am inviting America's great religious communities to pray for our nation and for our people. From the beginning, this has always been a country sustained and strengthened by prayer. So important, if we bring religion back stronger, you're going to see everything get better and better and better. You're going to see it get better and better. So as we chart our course toward the next 250 years, let us rededicate ourselves to one nation under God",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "At a rally, Donald Trump invites America's religious communities to pray for the nation. He asserts that the country has always been strengthened by prayer and that bringing religion back more strongly will improve everything. He calls for a rededication to being 'one nation under God,' prompting cheers from the crowd.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice during his speech and the ambient sound of the crowd, which cheers loudly at the end of his statement.",
+  "editing_pacing": "The video is a single, static shot focused on Donald Trump speaking at the podium, with no cuts or dynamic editing.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Piety",
+    "Patriotism",
+    "Hope"
+  ],
+  "cultural_references": [
+    "Pledge of Allegiance"
+  ],
+  "central_claim": "America's strength and prosperity are fundamentally tied to its religious faith, and the nation must renew its commitment to being 'one nation under God' to succeed in the future.",
+  "intended_effect": "To inspire religious patriotism and rally support by portraying Trump as a leader who will restore the nation's moral and spiritual foundation.",
+  "uncertainty_flags": []
+}

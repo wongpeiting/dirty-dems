@@ -1,0 +1,64 @@
+{
+  "video_id": "7405648291393850666",
+  "visual_action": "The video is a slideshow of two still photographs. The first photo shows Barack and Michelle Obama holding hands on a stage with a blue, starry background, labeled 'The Obamas at the 2012 DNC'. The second photo shows them 12 years later, embracing and smiling at each other against a similar blue background, labeled 'The Obamas at the 2024 DNC'.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a photograph from the 2012 DNC and another from the 2024 DNC."
+    },
+    {
+      "name": "Michelle Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Appears in a photograph from the 2012 DNC and another from the 2024 DNC."
+    },
+    {
+      "name": "Democratic National Convention",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies the setting of the photos as 'the 2012 DNC' and 'the 2024 DNC'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "The Obamas at the 2012 DNC 💙",
+      "role": "overlay"
+    },
+    {
+      "text": "The Obamas at the 2024 DNC 💙🥺",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is a faint female voice at the very beginning that says something like, \"I have a feeling this is gonna go by really fast.\" The rest of the video is instrumental and vocal music.",
+  "emojis_present": [
+    "💙",
+    "🥺"
+  ],
+  "audio_music": "The video opens with a very brief, faint spoken audio clip typical of a TikTok trend. It then immediately transitions into the sentimental and nostalgic song 'Photograph' by Ed Sheeran, which plays for the remainder of the clip, reinforcing the theme of looking back at past moments.",
+  "editing_pacing": "The video is a simple slideshow, transitioning from one still image to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Nostalgia",
+    "Affection",
+    "Sentimentality"
+  ],
+  "cultural_references": [
+    "The song playing is 'Photograph' by Ed Sheeran.",
+    "The format of showing a 'then' and 'now' picture to a sentimental song is a common social media trend.",
+    "The opening audio clip 'I have a feeling this is gonna go by really fast' is a widely used TikTok sound for videos about time passing."
+  ],
+  "central_claim": "The post highlights the enduring and affectionate relationship of Barack and Michelle Obama over a 12-year period between two Democratic National Conventions.",
+  "intended_effect": "To evoke feelings of nostalgia, admiration, and sentimentality for the Obamas, creating a positive association with them and the Democratic party.",
+  "uncertainty_flags": [
+    "The initial spoken audio is very faint and was not captured by the automated transcript, so the transcription is based on listening."
+  ]
+}

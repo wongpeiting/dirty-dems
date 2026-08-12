@@ -1,0 +1,81 @@
+{
+  "video_id": "7244163167926897966",
+  "visual_action": "A slideshow of still photos from a Pride Month celebration on the White House lawn. The photos show: the White House with a rainbow balloon arch and a Pride flag between the columns; Joe Biden smiling at a podium with a 'PRIDE MONTH 2023' backdrop; a large crowd gathered before a stage; Second Gentleman Douglas Emhoff taking a selfie with attendees; a man holding a baby in the crowd; and a final shot looking through the White House columns at the crowd, with a large Progress Pride flag hanging overhead.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown in a photo at a podium, and named in the on-screen text 'the Biden-Harris administration'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named as part of 'the Biden-Harris administration' in the on-screen text."
+    },
+    {
+      "name": "Biden-Harris administration",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'the Biden-Harris administration hosted the largest Pride Month celebration ever held at the White House'."
+    },
+    {
+      "name": "Douglas Emhoff",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in a photograph taking a selfie with a group of attendees."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "This year,",
+      "role": "overlay"
+    },
+    {
+      "text": "the Biden-Harris administration",
+      "role": "overlay"
+    },
+    {
+      "text": "hosted the largest Pride Month celebration ever held at the White House",
+      "role": "overlay"
+    },
+    {
+      "text": "PRIDE MONTH 2023",
+      "role": "other"
+    },
+    {
+      "text": "Happy Pride Month 🏳️‍🌈",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken audio in the video, only instrumental and vocal music.",
+  "emojis_present": [
+    "🏳️‍🌈"
+  ],
+  "audio_music": "The video features an upbeat, celebratory pop song ('Can't Take My Eyes off You' by Morten Harket) throughout, creating a positive and joyful atmosphere.",
+  "editing_pacing": "The video is a simple slideshow of still photographs, with each photo displayed for a few seconds before cutting to the next.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Celebration",
+    "Inclusivity",
+    "Joy"
+  ],
+  "cultural_references": [
+    "Pride Month",
+    "The song 'Can't Take My Eyes off You'"
+  ],
+  "central_claim": "The Biden-Harris administration is a strong supporter of the LGBTQ+ community, demonstrated by hosting the largest-ever Pride Month celebration at the White House.",
+  "intended_effect": "To generate positive sentiment towards the Biden-Harris administration among supporters of LGBTQ+ rights and portray them as allies.",
+  "uncertainty_flags": []
+}

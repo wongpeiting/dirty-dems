@@ -1,0 +1,105 @@
+{
+  "video_id": "7609740037386702093",
+  "visual_action": "The video opens with two young men in USA hockey jerseys giving a post-game press conference interview in front of a Nations Face-Off 2025 branded backdrop listing participating nations (Finlande, Suède, etc.). One wears a #7 USA jersey; both are smiling and laughing while a microphone is held toward them. A black transition screen follows. The video then cuts to on-ice hockey action: a USA player in a navy jersey delivering a physical hit on a Canadian/red-jersied opponent. Next comes a close-up of a USA player in a blue CCM helmet shouting in celebration behind the glass. Then a USA player in a white jersey celebrating joyfully on ice. Two USA players embrace near the boards. A USA player in blue skates toward a red-jersied goaltender in front of a net with \"Milano Cortina 2026\" dasher boards visible. Finally, USA players pile on each other in a group celebration on the ice, helmets thrown off, with \"Milano Cortina 2026\" boards visible and a crowd predominantly in red (Canadian fans) in the stands behind them.",
+  "cast": [
+    {
+      "name": "USA Team Hockey Player (jersey #7)",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible #7 on USA jersey during press conference segment"
+    },
+    {
+      "name": "unnamed USA hockey player (press conference)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Second player at press conference, wearing USA gear with a towel draped over shoulders"
+    },
+    {
+      "name": "Team USA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "USA jerseys worn throughout; spoken audio repeatedly references USA and American hockey"
+    },
+    {
+      "name": "Canada (national hockey team)",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Audio: 'Canada, we own you, Lil Bro' and 'That's a great Canadian team'; red-jersied opponents shown on ice"
+    },
+    {
+      "name": "Nations Face-Off 2025",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Backdrop logo reads 'Nations Face-Off · CAN · FIN · SWE · USA · 2025'"
+    },
+    {
+      "name": "Milano Cortina 2026",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Dasher boards read 'Milano Cortina 2026' in the game footage scenes"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "NATIONS FACE-OFF · CAN · FIN · SWE · USA · 2025",
+      "role": "overlay"
+    },
+    {
+      "text": "FINLANDE",
+      "role": "overlay"
+    },
+    {
+      "text": "SUEDE",
+      "role": "overlay"
+    },
+    {
+      "text": "USA",
+      "role": "overlay"
+    },
+    {
+      "text": "MILANO CORTINA 2026",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a compilation of player/fan quotes layered over the game footage. One speaker opens with a provocative line about Canada booing the US national anthem and says he \"had to come out and teach those maple syrup eating f***s a lesson,\" followed by \"Canada, we own you, Lil Bro.\" Play-by-play commentary then describes a goal: \"Boldy, looking at his push through. And Boldy, to the net, he scores!\" and \"Jeff Hughes reads it! The golden goal for the United States' first time since the 1980 miracle!\" Post-game player/fan reactions follow: \"It's all about our country right now. I love the USA. I'm so proud to be American today. That's American hockey right there. That's a great Canadian team, but we're USA. We're so proud to be Americans. Tonight was all for the country.\"",
+  "emojis_present": [
+    "🥇",
+    "🦅"
+  ],
+  "audio_music": "Original sound composed of player interview audio, broadcast play-by-play commentary calling a golden goal, and post-game celebratory player/fan quotes. No background music; crowd noise and arena ambiance audible throughout. Emotionally charged patriotic tone driven by speech rather than a music score.",
+  "editing_pacing": "Fast cuts between press-conference talking-head footage and on-ice action/celebration B-roll. Brief black transition screen used as a separator. Climactic pacing builds from interview to in-game physicality to goal celebration to team pile-on. Close-up reaction shots emphasize emotion.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride (repeated 'so proud to be American' statements and USA celebration footage)",
+    "triumph/elation (goal call and team pile-on shots)",
+    "competitive taunting (opening line mocking Canada as 'Lil Bro' and referencing booed anthem)",
+    "excitement (screaming player close-up, helmets thrown on ice)"
+  ],
+  "cultural_references": [
+    "1980 Miracle on Ice — explicitly invoked in audio ('first time since the 1980 miracle')",
+    "Nations Face-Off 2025 hockey tournament",
+    "Milano Cortina 2026 (Winter Olympics venue branding on boards)"
+  ],
+  "central_claim": "Team USA won the gold medal at the Nations Face-Off / Milano Cortina 2026 hockey tournament with a decisive golden goal — the first US gold in a major international tournament since the 1980 Miracle on Ice — defeating Canada, and silver is not enough.",
+  "intended_effect": "Inspire pride in American hockey fans, celebrate Team USA's gold medal victory over Canada, and frame the win as a landmark national moment comparable to the 1980 Miracle on Ice.",
+  "uncertainty_flags": [
+    "Specific player identities at press conference are not confirmed by name in audio or on-screen text — #7 is visible but name not confirmed",
+    "It is unclear whether the game footage showing 'Milano Cortina 2026' boards is from the Nations Face-Off tournament or a separate Olympic context; the dasher branding suggests Olympic-era footage possibly mixed in",
+    "The opening vulgar quote's speaker is unidentified — could be a fan or player",
+    "The exact tournament (Nations Face-Off 2025 vs. Milano Cortina 2026 Olympics) depicted in the game footage is ambiguous given the mixed branding",
+    "Audio reference to 'Jeff Hughes' — may be 'Luke Hughes' or another player; name accuracy uncertain from transcript"
+  ]
+}

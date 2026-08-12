@@ -1,0 +1,91 @@
+{
+  "video_id": "7556252822661123342",
+  "visual_action": "Adelita Grijalva stands outdoors in front of a large, classical-style government building, likely the U.S. Capitol Building in Washington D.C., and speaks directly to the camera. The video is a single, static shot.",
+  "cast": [
+    {
+      "name": "Adelita Grijalva",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole speaker in the video, identified by face-ID, on-screen text, and her own speech."
+    },
+    {
+      "name": "Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text at the beginning of the video states, 'Message from Adelita Grijalva as Republicans refuse to swear her in:'"
+    },
+    {
+      "name": "Speaker Johnson",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Grijalva says in the video, 'Speaker Johnson has left the building,' and encourages viewers to 'Reach out to Speaker Johnson.'"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The post's caption states, 'she’d be the final vote to release the Epstein files btw'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Message from Adelita Grijalva as Republicans refuse to swear her in:",
+      "role": "overlay"
+    },
+    {
+      "text": "IT IS DAY 2 HERE IN D.C.",
+      "role": "caption"
+    },
+    {
+      "text": "AM I SWORN IN YET? NO.",
+      "role": "caption"
+    },
+    {
+      "text": "SPEAKER JOHNSON HAS LEFT THE BUILDING",
+      "role": "caption"
+    },
+    {
+      "text": "SOUTHERN ARIZONA DOES NOT HAVE A VOICE HERE",
+      "role": "caption"
+    },
+    {
+      "text": "I NEED TO GET SWORN IN IN ORDER FOR THAT TO HAPPEN",
+      "role": "caption"
+    },
+    {
+      "text": "SOUTHERN ARIZONA LOSES",
+      "role": "caption"
+    },
+    {
+      "text": "REACH OUT TO SPEAKER JOHNSON",
+      "role": "caption"
+    },
+    {
+      "text": "LET HIM KNOW THAT I NEED TO GET SWORN IN",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Adelita Grijalva says it is her second day in Washington D.C. and she has not yet been sworn into her position. She states that Speaker Johnson has \"left the building\" and she doesn't know when the swearing-in will occur. She argues that as long as she remains unsworn, \"Southern Arizona does not have a voice\" and her district lacks services. She urges viewers to contact Speaker Johnson and tell him she needs to be sworn in.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a woman's voice speaking, with some light ambient background noise. There is no music or sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Frustration",
+    "Urgency",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans, led by Speaker Johnson, are deliberately refusing to swear in Adelita Grijalva, which disenfranchises her constituents and may be motivated by a desire to prevent her from casting a deciding vote to release the Epstein files.",
+  "intended_effect": "To generate public pressure on Speaker Johnson to swear in Grijalva, and to frame the Republican party as obstructive and potentially corrupt.",
+  "uncertainty_flags": []
+}

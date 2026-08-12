@@ -1,0 +1,87 @@
+{
+  "video_id": "7632435857957326094",
+  "visual_action": "The video displays a static screenshot of a tweet from an account named 'FactPost'. The tweet text is accompanied by two photos side-by-side: a portrait of a man in a suit identified as Stephen Sayle, and a picture of a full ashtray. After a few seconds, the video cuts to a second static image, which is a low-resolution animated meme of a blonde woman holding a giant cigarette and raising her middle finger.",
+  "cast": [
+    {
+      "name": "Stephen Sayle",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text from a tweet screenshot: \"Former tobacco industry executive Stephen Sayle has been appointed to a senior leadership role at the CDC.\""
+    },
+    {
+      "name": "CDC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text from a tweet screenshot: \"...appointed to a senior leadership role at the CDC.\""
+    },
+    {
+      "name": "Chevron",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text from a tweet screenshot: \"Sayle was a lobbyist for Chevron...\""
+    },
+    {
+      "name": "Big Tobacco",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text from a tweet screenshot: \"...before working for Big Tobacco.\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet screenshot shows the account name 'FactPost' and handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Former tobacco industry executive Stephen Sayle has been appointed to a senior leadership role at the CDC.",
+      "role": "overlay"
+    },
+    {
+      "text": "Sayle was a lobbyist for Chevron before working for Big Tobacco.",
+      "role": "overlay"
+    },
+    {
+      "text": "OH NO NO NO NO",
+      "role": "meme_text"
+    },
+    {
+      "text": "DON'T EVEN THINK ABOUT IT GIRL",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "A man's voice, with a noticeable echo, repeatedly expresses disbelief and anger, saying phrases like \"Oh hell no,\" and \"No the fuck he didn't.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of a man's voice speaking with a heavy echo or reverb effect, consistent with a popular meme audio clip used to express shock or disapproval. There is no music.",
+  "editing_pacing": "The video consists of two static images with one hard cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "disbelief"
+  ],
+  "cultural_references": [
+    "The audio is a widely used meme sound expressing shock and outrage.",
+    "The second image is a reaction meme, featuring a crudely animated character with a giant cigarette and raised middle finger, used to signal strong disapproval."
+  ],
+  "central_claim": "The appointment of Stephen Sayle, a former lobbyist for the tobacco and oil industries, to a leadership role at the CDC is an outrageous and unacceptable conflict of interest.",
+  "intended_effect": "To provoke outrage and disbelief in the viewer regarding the appointment.",
+  "uncertainty_flags": [
+    "The authenticity and accuracy of the 'FactPost' tweet shown in the video are not verifiable from the video itself."
+  ]
+}

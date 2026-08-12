@@ -1,0 +1,97 @@
+{
+  "video_id": "7420552422575197482",
+  "visual_action": "A man, Tim Walz, speaks at a podium. His face is briefly distorted by a visual effect. He challenges an opponent to a debate and then laughs. A montage follows showing Walz and Kamala Harris on the campaign trail: waving from a plane, Walz interacting with a dog, the two deplaning together, and waving to a crowd from a stage with a large American flag. The video ends with a text card on a black background.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking and in a montage. His name appears in the final text card: 'WALZ VS. VANCE'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Shown on stage with Walz and in montage clips. The on-stage banner reads 'HARRIS WALZ'."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referred to as 'the guy' Walz wants to debate. The final text card explicitly names him: 'WALZ VS. VANCE'."
+    },
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The watermark '@THEDEMOCRATS' is visible throughout the video."
+    },
+    {
+      "name": "CBS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The final text card says 'OCT. 1 ON CBS'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "I CAN'T WAIT",
+      "role": "overlay"
+    },
+    {
+      "text": "TO DEBATE THE GUY",
+      "role": "overlay"
+    },
+    {
+      "text": "IF HE'S WILLING TO",
+      "role": "overlay"
+    },
+    {
+      "text": "GET OFF THE COUCH",
+      "role": "overlay"
+    },
+    {
+      "text": "AND SHOW UP",
+      "role": "overlay"
+    },
+    {
+      "text": "@THEDEMOCRATS",
+      "role": "overlay"
+    },
+    {
+      "text": "WALZ VS. VANCE",
+      "role": "overlay"
+    },
+    {
+      "text": "OCT. 1 ON CBS",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Tim Walz, speaking to a crowd, says, \"I can't wait to debate the guy... if he's willing to get off the couch and show up.\" After the crowd cheers, he laughs and adds, \"You see what I did there?\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat, confident hip-hop track ('Fancy' by Iggy Azalea) plays throughout the video, under Walz's speech and over the subsequent montage, creating a hype-video feel.",
+  "editing_pacing": "The video features fast cuts, a montage of B-roll clips, and text overlays that are synchronized with the speaker's words. There is a brief, stylized blur/warp effect on the speaker's face at the very beginning.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "confidence",
+    "mockery",
+    "excitement"
+  ],
+  "cultural_references": [
+    "The background music is the song 'Fancy' by Iggy Azalea."
+  ],
+  "central_claim": "Tim Walz is ready and eager to debate JD Vance, whom he mockingly portrays as unwilling to show up.",
+  "intended_effect": "To portray Tim Walz as a confident and strong candidate while simultaneously mocking his opponent, JD Vance, and to build anticipation for their debate.",
+  "uncertainty_flags": []
+}

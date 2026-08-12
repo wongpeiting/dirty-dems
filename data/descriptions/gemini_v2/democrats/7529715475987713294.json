@@ -1,0 +1,70 @@
+{
+  "video_id": "7529715475987713294",
+  "visual_action": "A static screen recording of a post from the social media platform X (formerly Twitter). The post is from user @BerniceKing and includes a black-and-white photo of Martin Luther King Jr. looking at the camera with a skeptical expression. An overlay caption is present at the top of the screen.",
+  "cast": [
+    {
+      "name": "Bernice King",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The tweet shown is from her account, '@BerniceKing', and the overlay text identifies her as 'MLK's daughter'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text at the top of the screen reads, 'MLK's daughter responds to Trump dropping the MLK files'."
+    },
+    {
+      "name": "Martin Luther King Jr.",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The overlay text mentions 'MLK's daughter' and 'the MLK files', and a photo of him is featured in the tweet."
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The text of the tweet shown is 'Now, do the Epstein files.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MLK's daughter responds to Trump dropping the MLK files",
+      "role": "overlay"
+    },
+    {
+      "text": "Be A King\n@BerniceKing",
+      "role": "overlay"
+    },
+    {
+      "text": "Now, do the Epstein files.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video.",
+  "emojis_present": [],
+  "audio_music": "A short clip of a dramatic, soulful song with male vocals plays throughout the video.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Skepticism",
+    "Defiance",
+    "Challenge"
+  ],
+  "cultural_references": [],
+  "central_claim": "Bernice King is challenging Donald Trump's supposed release of 'MLK files' by demanding he also release the 'Epstein files,' implying his actions are a selective political stunt rather than a genuine move for transparency.",
+  "intended_effect": "To portray Bernice King as delivering a clever rebuke to Donald Trump and to cast suspicion on Trump's motives.",
+  "uncertainty_flags": [
+    "The authenticity of the tweet screenshot is unconfirmed; while not visibly manipulated, the context provided could be fabricated.",
+    "The premise that 'Trump dropping the MLK files' is a real event that occurred cannot be verified from the video alone."
+  ]
+}

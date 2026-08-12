@@ -1,0 +1,53 @@
+{
+  "video_id": "7612801539761130765",
+  "visual_action": "A montage of U.S. military hardware in action, set at night and during the day. The video shows a B-1 Lancer bomber on a tarmac, crew boarding, and the plane taking off with afterburners lit. It includes several clips of a B-2 Spirit stealth bomber flying through clouds. There is also footage of an F-35 fighter jet landing on an aircraft carrier. The montage features a warship launching missiles and firing a large deck gun. Interspersed are several clips of black-and-white thermal imaging or aerial footage showing explosions and targets, some of which are overlaid with the text \"UNCLASSIFIED\". The video concludes with several black-and-white shots of the White House, including one with Marine One landing, with the text \"THE WHITE HOUSE\" overlaid.",
+  "cast": [
+    {
+      "name": "U.S. Military",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is a montage of U.S. Air Force and U.S. Navy assets, including bombers, fighter jets, and warships, which are the entire subject of the video."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with imagery of the White House and the on-screen text 'THE WHITE HOUSE', serving as a brand identifier."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "UNCLASSIFIED",
+      "role": "overlay"
+    },
+    {
+      "text": "12M",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; the audio consists entirely of an instrumental music track. The provided transcript \"Thank you. Thank you.\" does not appear to be present in the audio.",
+  "emojis_present": [],
+  "audio_music": "The video features a single, continuous high-tempo and intense electronic music track with a driving beat throughout. The music creates a dramatic, powerful, and action-oriented mood, similar to a trailer for an action movie.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various clips of military hardware and operations.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "awe",
+    "intimidation"
+  ],
+  "cultural_references": [],
+  "central_claim": "The United States possesses overwhelming and technologically advanced military power.",
+  "intended_effect": "To inspire pride in American military strength and project an image of power and deterrence.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('Thank you. Thank you.') does not match the video's audio, which is purely instrumental music."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "7432349672133463326",
+  "visual_action": "The video displays a news segment from CBS Mornings. It features an interview with a woman with glasses in an outdoor, urban setting. It cuts to B-roll footage of Donald Trump on stage at a rally, with a large crowd holding up their phones, and a closer shot of him speaking at a podium. The entire video is framed with text overlays at the top and bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in B-roll footage at a rally, and the voter in the clip states she is no longer voting for him due to his comments at the Madison Square Garden rally."
+    },
+    {
+      "name": "Jinelly Lugo",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the woman being interviewed, and her decision to not vote for Trump is the central subject of the video. A narrator identifies her by name: \"Jinelly Lugo has lived in Philadelphia for 20 years.\""
+    },
+    {
+      "name": "CBS Mornings",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news segment is identified with the \"OCBS MORNINGS\" logo on the chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🇵🇷 🇵🇷 Puerto Rican PA voter is DONE with Trump after his Madison Square Garden rally 👇👇👇",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICA DECIDES",
+      "role": "chyron"
+    },
+    {
+      "text": "OCBS MORNINGS",
+      "role": "chyron"
+    },
+    {
+      "text": "COURTING THE LATINO VOTE",
+      "role": "chyron"
+    },
+    {
+      "text": "A LOOK AT WHETHER COMMENTS AT NYC TRUMP RALLY COULD SWAY VOTES",
+      "role": "chyron"
+    },
+    {
+      "text": "Voter: I was leaning toward voting for Trump, but not anymore. Puerto Rico means a lot to me. Those comments at Madison Square Garden changed everything. I have to stand on the right side of history.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A woman identified as Jinelly Lugo, a Puerto Rican voter in Philadelphia, explains that Puerto Rico means a lot to her and other Puerto Ricans living on the mainland. A narrator states that Lugo was leaning toward voting for Trump, but his comments at a recent rally changed her mind. Lugo says that the day of the rally \"changed everything\" and she decided she has to be on \"the right side of history.\"",
+  "emojis_present": [
+    "🇵🇷",
+    "👇"
+  ],
+  "audio_music": "The audio consists of dialogue from an interview and a reporter's narration, with subtle, neutral background music typical of a broadcast news segment.",
+  "editing_pacing": "The video uses standard news package editing, cutting between a talking-head interview, B-roll of the interview subject, and B-roll of Donald Trump at a rally.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Disappointment",
+    "Moral conviction"
+  ],
+  "cultural_references": [],
+  "central_claim": "A Puerto Rican voter in Pennsylvania, who was previously considering voting for Donald Trump, has decided against it because of his comments at a Madison Square Garden rally.",
+  "intended_effect": "To highlight that Donald Trump's rhetoric is alienating potential supporters, particularly within the Latino community in a key swing state.",
+  "uncertainty_flags": []
+}

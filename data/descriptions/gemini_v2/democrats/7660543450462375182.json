@@ -1,0 +1,98 @@
+{
+  "video_id": "7660543450462375182",
+  "visual_action": "A man with glasses speaks emotionally at a press conference, at times crying. The video cuts to photos of his family and then to an outdoor scene of what appears to be law enforcement activity around a white van with a person on the ground. Another man speaks forcefully at the same press conference. The video primarily features clips of the son speaking, intercut with the other footage.",
+  "cast": [
+    {
+      "name": "Ronaldo Salgado",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A news report voiceover identifies him by name: '...helped his son Ronaldo Salgado, piece together the timeline.'"
+    },
+    {
+      "name": "Ronaldo Salgado's father",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire video is about him being shot and killed by ICE, as stated in the on-screen text and his son's speech. He is shown in family photos."
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text throughout the video states: 'Son speaks out after his father was shot and killed by ICE'."
+    },
+    {
+      "name": "unnamed speaker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A Black man is shown speaking at the press conference, saying, 'Somebody being killed by law enforcement is a big damn deal.'"
+    },
+    {
+      "name": "Facebook",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Ronaldo Salgado says, 'I saw a video posted on Facebook that he had been shot.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Son speaks out after his father was shot and killed by ICE",
+      "role": "overlay"
+    },
+    {
+      "text": "HE DID NOT DESERVE TO DIE.",
+      "role": "overlay"
+    },
+    {
+      "text": "HE DID NOT DESERVE TO BE REDUCED TO A HEADLINE OF MEXICAN MAN SHOT AND KILLED BY ICE",
+      "role": "overlay"
+    },
+    {
+      "text": "I WANNA BE CLEAR.",
+      "role": "overlay"
+    },
+    {
+      "text": "SOMEBODY BEING KILLED BY LAW ENFORCEMENT IS A BIG DAMN DEAL",
+      "role": "overlay"
+    },
+    {
+      "text": "SOCIAL MEDIA POSTS HELPED HIS SON, RONALDO SALGADO, PIECE TOGETHER THE TIMELINE.",
+      "role": "overlay"
+    },
+    {
+      "text": "I SAW A VIDEO POSTED ON FACEBOOK THAT HE HAD BEEN SHOT.",
+      "role": "overlay"
+    },
+    {
+      "text": "I RECOGNIZED HIM IMMEDIATELY, NOT FROM HIS APPEARANCE, BUT FROM HIS VOICE, CRYING FOR HELP AS HE LAY ON THE STREET BLEEDING",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video compiles clips from a press conference where a son, Ronaldo Salgado, emotionally recounts his father being shot and killed by ICE. He states his father 'did not deserve to die' and describes the horror of learning about the incident from a Facebook video where he recognized his father's voice 'crying for help'. A news voiceover adds that the father had lived a peaceful life for over 35 years. Another speaker at the conference emphatically states, 'Somebody being killed by law enforcement is a big damn deal,' with the expletive bleeped out in the audio.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue from a press conference and a news reporter's voiceover. There is no musical accompaniment. The overall tone is somber and serious, driven by the emotional testimony. A bleep censor is used once to cover an expletive.",
+  "editing_pacing": "The video is a montage with quick cuts between a son's emotional testimony at a press conference, still photos of his family, and shaky footage of the incident's aftermath. Large, bold captions are used to highlight key phrases from the audio.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "grief",
+    "sadness",
+    "outrage",
+    "sympathy"
+  ],
+  "cultural_references": [
+    "Facebook"
+  ],
+  "central_claim": "U.S. Immigration and Customs Enforcement (ICE) unjustly shot and killed a family man and business owner, an act his family learned about through a graphic social media video.",
+  "intended_effect": "To evoke sympathy for the victim's family and generate public outrage against ICE for the killing.",
+  "uncertainty_flags": []
+}

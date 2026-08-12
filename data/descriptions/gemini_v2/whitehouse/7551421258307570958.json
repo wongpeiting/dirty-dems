@@ -1,0 +1,65 @@
+{
+  "video_id": "7551421258307570958",
+  "visual_action": "Donald Trump and Keir Starmer are shown sitting at a table flanked by American and British flags. They sign documents, then hold them up for an audience, who applauds. The video concludes with a black-and-white graphic of the White House logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text reads 'President Trump', and he is identified by face recognition."
+    },
+    {
+      "name": "Keir Starmer",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text identifies him as 'U.K. Prime Minister Starmer'."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is posted by the @whitehouse account and ends with 'THE WHITE HOUSE' logo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump & U.K. Prime Minister Starmer Sign Historic Tech Prosperity Deal",
+      "role": "overlay"
+    },
+    {
+      "text": "TECH PROSPERITY DEAL 🇬🇧 🇺🇸",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video. The only sounds are orchestral music and applause.",
+  "emojis_present": [
+    "😏",
+    "🇬🇧",
+    "🇺🇸"
+  ],
+  "audio_music": "A grand, patriotic orchestral track plays throughout the video. The sound of audience applause is audible after the signing.",
+  "editing_pacing": "The video consists of a single, static shot of the signing event, which then cuts to a closing credit graphic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "achievement",
+    "importance"
+  ],
+  "cultural_references": [
+    "The caption 'Art of the deal 😏' is a self-reference to Donald Trump's 1987 book 'The Art of the Deal'."
+  ],
+  "central_claim": "President Trump and UK Prime Minister Keir Starmer have successfully signed a 'Historic Tech Prosperity Deal'.",
+  "intended_effect": "To portray the Trump administration as effective in securing important international agreements and to evoke a sense of national pride.",
+  "uncertainty_flags": []
+}

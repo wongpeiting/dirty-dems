@@ -1,0 +1,54 @@
+{
+  "video_id": "7413206043947240735",
+  "visual_action": "A static split-screen shot of a presidential debate. On the left, Donald Trump is at a podium, speaking and gesturing. On the right, Kamala Harris is listening with a smile, her chin resting on her hand.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Kamala Harris is shown on screen reacting to Donald Trump. The on-screen text, 'When you're a prosecutor debating a convicted felon,' frames the scene from her perspective."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Donald Trump is shown on screen speaking at the debate and is referred to as a 'convicted felon' in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "When you're a prosecutor debating a convicted felon",
+      "role": "meme_text"
+    },
+    {
+      "text": "PBS NEWS SPECIAL",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE | @NEWS | 2024 PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue from the debate. The audio consists of a very short clip from an upbeat pop song featuring female vocals singing a line that includes the word 'America'.",
+  "emojis_present": [],
+  "audio_music": "A short, upbeat pop music clip plays throughout the video, creating a confident and triumphant tone that complements the on-screen text and Kamala Harris's expression.",
+  "editing_pacing": "A single, static split-screen shot with overlaid text and replacement audio.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "triumph",
+    "contempt"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris, a former prosecutor, holds the moral and legal high ground over her opponent Donald Trump, who is a 'convicted felon'.",
+  "intended_effect": "To frame the debate as a victory for Kamala Harris and to mock Donald Trump by highlighting his felony conviction.",
+  "uncertainty_flags": [
+    "The provided face-ID context indicated 'none detected', but both Donald Trump and Kamala Harris are clearly visible and identifiable.",
+    "The specific song used in the audio could not be identified via fingerprinting."
+  ]
+}

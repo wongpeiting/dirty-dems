@@ -1,0 +1,98 @@
+{
+  "video_id": "7600113052616281375",
+  "visual_action": "The video opens on a pure black screen with the white bold text \"WHAT'S THE WEATHER\" centered on it. It then cuts to a colorful weather forecast map showing a major winter storm system across the eastern United States and Canada, with color-coded zones labeled \"SNOW\" (purple/blue region covering the Midwest/mid-Atlantic) and \"ICE\" (pink/magenta region covering areas including Raleigh, NC). Cities visible include Toronto, Cincinnati (partial), Washington (partial), Raleigh, and Atlanta (partial). The map zooms into the ICE zone. The video then cuts to aerial drone footage of rows of military-style green tactical vehicles/armored trucks covered in snow, parked in a snowy wooded area. Next, footage shows a person riding a dirt bike or ATV through a snow-covered residential alley, filmed from behind. This is followed by close-up footage of a person's hands being handcuffed behind their back in a snowy outdoor setting, with a law enforcement officer in view. Then, a \"POLICE FEDERAL AGENT\" officer in a tactical vest escorts a detainee toward a vehicle in a snowy residential setting. Finally, another \"POLICE FEDERAL AGENT\" officer escorts a handcuffed individual in a black hoodie and Atlanta Braves cap along a brick-walled alley.",
+  "cast": [
+    {
+      "name": "unnamed federal agents",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Officers wearing tactical vests labeled 'POLICE FEDERAL AGENT' visible in multiple frames"
+    },
+    {
+      "name": "unnamed detainees",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Multiple individuals shown handcuffed and being escorted by federal agents in snowy outdoor settings"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Account posting the video is @whitehouse per provided context"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "WHAT'S THE WEATHER",
+      "role": "overlay"
+    },
+    {
+      "text": "TORONTO",
+      "role": "overlay"
+    },
+    {
+      "text": "SNOW",
+      "role": "overlay"
+    },
+    {
+      "text": "CINCINNATI",
+      "role": "overlay"
+    },
+    {
+      "text": "WASH",
+      "role": "overlay"
+    },
+    {
+      "text": "ICE",
+      "role": "overlay"
+    },
+    {
+      "text": "RALEIGH",
+      "role": "overlay"
+    },
+    {
+      "text": "NTA",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE FEDERAL AGENT",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE FEDERAL AGENT",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A voice (mimicking a Siri interaction) says: \"Hey Siri, what's the weather look like?\" followed by the response: \"It looks like you're gonna need an umbrella. It's a little bit icy.\" The audio plays over the weather map and then the law enforcement footage, creating a double meaning — the \"icy\" weather doubles as a reference to ICE (Immigration and Customs Enforcement) arrests.",
+  "emojis_present": [
+    "❄️"
+  ],
+  "audio_music": "Original audio featuring a simulated Siri voice assistant exchange; no music. The voice says \"It's a little bit icy,\" functioning as a wordplay bridge between weather imagery and ICE deportation footage.",
+  "editing_pacing": "Moderate pacing with deliberate sequencing: black title card → weather map zoom → military vehicles → arrest/detention footage. The edit builds a visual metaphor connecting a winter storm forecast to immigration enforcement operations.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "humor/wit — via the Siri weather pun and 'FEELIN ICY' caption",
+    "strength/authority — footage of tactical federal agents conducting arrests",
+    "satisfaction/approval — framing of enforcement operations as ongoing and effective"
+  ],
+  "cultural_references": [
+    "Siri voice assistant interaction (Apple/tech culture)",
+    "Weather forecast map aesthetic (TV meteorology graphics)",
+    "ICE/icy pun — double meaning between winter weather and U.S. Immigration and Customs Enforcement"
+  ],
+  "central_claim": "The White House is signaling, through a weather/ICE pun, that federal immigration enforcement (deportations of \"criminal illegals\") is actively continuing, using real arrest footage set during winter conditions.",
+  "intended_effect": "Produce a sense of approval and satisfaction in supporters of immigration enforcement, using humor (the \"icy\"/ICE pun) to make the arrest footage feel triumphant and entertaining rather than confrontational.",
+  "uncertainty_flags": [
+    "The specific location and date of the arrest/detention footage cannot be confirmed from the video alone.",
+    "The identity of the detainees and the nature of their cases are not established in the video.",
+    "It is unclear whether the military vehicle footage is from the same operation as the arrest footage or sourced separately.",
+    "The partial city label 'NTA' at the bottom-left of the weather map may refer to Atlanta, but is partially cropped."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "7581578034654825742",
+  "visual_action": "A clip from a Fox News broadcast is shown. On the left, a montage of clips featuring Donald Trump plays, showing him walking, speaking at a podium, and taking a selfie with supporters. On the right, there is a split screen with three commentators in separate boxes. A news chyron and ticker run along the bottom of the broadcast footage.",
+  "cast": [
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The on-screen text at the top of the video reads 'Hegseth in 2016 criticizing Trump'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is shown in multiple clips and is the subject of Pete Hegseth's commentary, being named multiple times ('Donald Trump will have their back', 'Donald Trump is oftentimes about Donald Trump')."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on the broadcast graphics."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Hegseth in 2016 criticizing Trump on unlawful military orders 🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING TONIGHT TRUMP BACKTRACKS AFTER SUGGESTING HE'D ORDER MILITARY TO VIOLATE INTL LAW",
+      "role": "chyron"
+    },
+    {
+      "text": "SIMPSON WAS ACQUITTED OF NICOLE BROWN'S MURDER IN OCT 1995, BUT LATER FOUND LIABLE BY A CIVIL COURT ... DOUBLE JEOPARDY LAWS PREVENT HIM FROM BEING CHARGED AGAIN",
+      "role": "chyron"
+    },
+    {
+      "text": "GO AHEAD AND DONE IT. TORTURE. GO FURTHER WHAT HAPPENS FOLLOW THOSE ORDERS OR, FOLLOW THEM, IT'S NOT THAT DONALD BACK. OFTENTIMES ABOUT DONALD AND SO YOU THE LAW AND YOU'RE JUST SAYING IT YOU CREATE AMBIGUITY",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Pete Hegseth criticizes Donald Trump's suggestions about military actions, saying things like \"Go ahead and kill the families. Go ahead and torture.\" He questions whether Trump would support military members who followed such unlawful orders, stating, \"It's not clear that Donald Trump will have their back. Donald Trump is oftentimes about Donald Trump.\" Hegseth concludes that by making these statements without changing the law, Trump creates \"even more ambiguity.\"",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue from a news broadcast clip, with no background music or sound effects.",
+  "editing_pacing": "The video is a single continuous clip from a news segment, which itself uses a montage style with cuts between different B-roll clips of Donald Trump. There are static text overlays added to the video.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Irony",
+    "Hypocrisy"
+  ],
+  "cultural_references": [
+    "O.J. Simpson",
+    "Nicole Brown Simpson"
+  ],
+  "central_claim": "Pete Hegseth, a current Trump supporter, strongly criticized Trump in a 2016 clip for suggesting the U.S. military should carry out unlawful orders.",
+  "intended_effect": "To highlight an apparent contradiction in Pete Hegseth's stance on Donald Trump over time, thereby questioning his credibility and suggesting hypocrisy.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,83 @@
+{
+  "video_id": "7652777251301346574",
+  "visual_action": "A split-screen interview on Fox Business. The host, Maria Bartiromo, is on the left in a studio, and Congressman Ro Khanna is on the right, appearing remotely. They are engaged in a heated debate. A news chyron and stock ticker are at the bottom of the television screen. The entire clip is framed with red borders, a large text overlay at the top, and the Republican party elephant logo at the bottom.",
+  "cast": [
+    {
+      "name": "Ro Khanna",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown speaking, identified by face recognition, and is named in the large on-screen text overlay: 'Ro Khanna gets absolutely RIPPED...'"
+    },
+    {
+      "name": "Maria Bartiromo",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "She is the host speaking and is identified by the show name in the chyron, 'MORNINGS with MARIA'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The chyron reads 'DEMOCRATS TRY TO STOP TRUMP AGENDA'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The chyron reads 'DEMOCRATS TRY TO STOP TRUMP AGENDA'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Republican elephant logo is displayed at the bottom of the video frame."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Ro Khanna gets absolutely RIPPED for opposing the SAVE America Act by trying to suggest it's too difficult for women to prove they are citizens.",
+      "role": "overlay"
+    },
+    {
+      "text": "FOX BUSINESS",
+      "role": "chyron"
+    },
+    {
+      "text": "MORNINGS with MARIA",
+      "role": "chyron"
+    },
+    {
+      "text": "DEMOCRATS TRY TO STOP TRUMP AGENDA",
+      "role": "chyron"
+    },
+    {
+      "text": "DOW FUTURES 52,137.00 ▲193.00 +0.37%",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Ro Khanna argues against the SAVE America Act, suggesting it creates a burden for married women who have changed their names to have to prove their citizenship with a birth certificate. The host, Maria Bartiromo, vehemently disagrees, interrupting him to say, \"What's wrong with getting your birth certificate? ... Yes! Get your birth certificate.\" She asserts that it is not difficult, recounting that she recently got a copy of her own online in a week.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of the spoken dialogue from the television interview. There is no music or sound effects. The tone is argumentative and heated.",
+  "editing_pacing": "The video is a single, static clip from a news broadcast, presented as a split-screen talking-head interview. There are no cuts or camera movements within the clip itself.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Outrage",
+    "Frustration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Ro Khanna's argument that requiring a birth certificate to prove citizenship is too difficult for women is absurd and easily debunked.",
+  "intended_effect": "To portray Ro Khanna's opposition to voter ID laws as ridiculous and to rally support for stricter voting regulations.",
+  "uncertainty_flags": []
+}

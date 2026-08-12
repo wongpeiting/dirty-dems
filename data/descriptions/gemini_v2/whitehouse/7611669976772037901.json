@@ -1,0 +1,75 @@
+{
+  "video_id": "7611669976772037901",
+  "visual_action": "Donald Trump, Greg Abbott (in a wheelchair), Ted Cruz, and other men in suits stand on a dock in front of a large cargo ship named 'CAP CORPUS CHRISTI'. Trump gestures to Abbott, points off-screen towards the ship, and makes a comment that causes the group to laugh. Trump then says goodbye and walks away from the group.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face recognition, he is the main speaker and actor in the video."
+    },
+    {
+      "name": "Greg Abbott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, he is shown in a wheelchair interacting with Donald Trump."
+    },
+    {
+      "name": "Ted Cruz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, he is part of the group standing with Trump."
+    },
+    {
+      "name": "Chris Wright",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition, he is part of the group standing with Trump."
+    },
+    {
+      "name": "Venezuela",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The country is the subject of Trump's punchline, 'Right out of Venezuela. Goodbye,' which is also featured in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“Right out of Venezuela. Goodbye.” 🥲",
+      "role": "caption"
+    },
+    {
+      "text": "CAP CORPUS CHRISTI",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Donald Trump calls someone over, saying \"do you want to see something?\" He then points and says with a laugh, \"Right out of Venezuela. Goodbye everybody.\" The group laughs along with him.",
+  "emojis_present": [
+    "🥲"
+  ],
+  "audio_music": "The audio consists of live dialogue and ambient sounds from the port setting. There is no background music.",
+  "editing_pacing": "The video is a single, continuous shot with no discernible edits, zooms, or other effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Amusement",
+    "Camaraderie",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump makes a joke implying that something, likely the large ship, is being sent away from or is coming from Venezuela.",
+  "intended_effect": "To portray Donald Trump as humorous and in control, while also making a dismissive political statement about Venezuela for an audience that shares his views.",
+  "uncertainty_flags": [
+    "The specific object or situation that prompts Trump's joke 'Right out of Venezuela' is not explicitly shown, though it is heavily implied to be the ship."
+  ]
+}

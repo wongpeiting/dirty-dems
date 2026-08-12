@@ -1,0 +1,63 @@
+{
+  "video_id": "7570097231005568269",
+  "visual_action": "The video is a tight, close-up shot of Donald Trump seated at what appears to be a formal meeting or press event, with a green flag or backdrop visible behind him. He is wearing a black suit jacket, white shirt, an American flag lapel pin, and a red tie with a green tie pin. Throughout the clip he is visibly speaking. The framing is a medium close-up on his face and upper torso, largely static, with mild compression artifacts. In the final frame the video zooms into a very tight extreme close-up of Trump's face, with a digital glitch/distortion effect applied — the image appears to tear and fragment at the edges. At the bottom of the screen is a persistent chyron bar showing partial text: \"TIONS FROM REPOR\" — a news lower-third that is cut off at the frame edges. Below that bar, the clasped hands of another person are briefly visible.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Face confirmed by InsightFace ID; he is the subject of the economic news headlines scrolling in the OCR text and his own audio quote 'I don't want to hear about the affordability' is the focal point of the post."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TIONS FROM REPOR",
+      "role": "chyron"
+    },
+    {
+      "text": "Trump tariffs could add $40 billion to holiday shoppers' and sellers' costs, LendingTree warns PUBLISHED SUN; Nov 2026.9.18 AM EST Lori Ann LaRocco",
+      "role": "chyron"
+    },
+    {
+      "text": "Job cuts in October hit highest level for the month in 22 years, Challenger says PUBLISHED THU; 2025.7.23 AM EST UPDATED THU; Nov 2026.9 17 AM EST",
+      "role": "chyron"
+    },
+    {
+      "text": "Voters express frustration with Trump's handling of economy; NBC News poll",
+      "role": "chyron"
+    },
+    {
+      "text": "Treasury Dept says inflation is running 'above target' as Trump insists there is 'no inflation'",
+      "role": "chyron"
+    },
+    {
+      "text": "Treasury said the mass departure of federal workers; President Trump $ immigration policy and artificial intelligence are all impacting the labor market",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "Trump is heard saying: \"I don't want to hear about the affordability.\" The quote is brief and clipped, presented as a standalone statement.",
+  "emojis_present": [],
+  "audio_music": "The audio features a lively, upbeat Bhojpuri folk/pop track — identified as \"Chhathi Me Goli Mar Debo Saharsa Junction Par\" by Rahul Premi — playing throughout the clip from the very start. The energetic, celebratory tone of the music creates a sharp contrast with the serious economic news headlines and Trump's dismissive quote, functioning as an ironic or mocking soundtrack. No silence period; the track plays continuously.",
+  "editing_pacing": "Mostly static talking-head footage with minimal cuts, holding on Trump's face for the bulk of the clip. Ends with a jarring digital glitch/zoom effect — the image rapidly zooms into an extreme close-up of Trump's face with visual distortion artifacts at the frame edges, creating a punchline-style conclusion.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "disbelief — Trump's quote 'I don't want to hear about the affordability' juxtaposed against multiple economic-hardship headlines",
+    "mockery — upbeat, incongruous Bhojpuri music soundtrack against serious economic context",
+    "frustration — headlines referencing voter frustration, job cuts, and rising costs"
+  ],
+  "cultural_references": [
+    "The use of an upbeat Bhojpuri folk-pop song ('Chhathi Me Goli Mar Debo Saharsa Junction Par' by Rahul Premi) as ironic background music — a TikTok trend of pairing serious or embarrassing political clips with incongruously festive/foreign-language tracks for comedic effect"
+  ],
+  "central_claim": "Trump is dismissing concerns about affordability and economic hardship at a time when multiple news reports indicate tariff costs, job cuts, elevated inflation, and voter frustration with his handling of the economy.",
+  "intended_effect": "To provoke a reaction of disbelief or mockery at the contrast between Trump's dismissive statement about affordability and the accumulating economic bad-news headlines attributed to his policies.",
+  "uncertainty_flags": [
+    "The chyron text referencing 'Nov 2026' in the OCR is consistent with the provided date context (August 11, 2026 → November 2026 is near-future as of that date but plausible given the journalism dataset note); treated as real per instructions.",
+    "The full chyron bar text is cut off at frame edges ('TIONS FROM REPOR' — likely 'REACTIONS FROM REPORTERS' or similar); exact headline source network not fully readable.",
+    "The digital glitch effect in the final frame is an editing stylistic choice, not evidence of deepfake or AI manipulation.",
+    "Caption is simply 'bruh' — no additional context provided beyond the ironic framing.",
+    "The person whose clasped hands appear at the bottom of frame is not identifiable."
+  ]
+}

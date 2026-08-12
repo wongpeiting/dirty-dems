@@ -1,0 +1,43 @@
+{
+  "video_id": "7075318697258257707",
+  "visual_action": "Joe Biden stands at a podium with two microphones, speaking to an audience. He is wearing a dark suit, white shirt, and a striped tie. Behind him is a blue backdrop with the text 'DEMOCRATS' partially visible, and an American flag stands to his right.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen and speaks for the entire duration of the video."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Biden refers to 'Republicans in the House' and 'a couple handfuls in the Senate,' and later says, 'you have a Republican who voted against the infrastructure standing there taking credit.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Biden on Infrastructure",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Joe Biden discusses the infrastructure bill, which he calls the 'biggest investment in physical infrastructure in the history of the United States.' He acknowledges that some Republicans helped pass it. He then jokingly observes that Republicans who voted against the bill are now taking credit for the new bridges and highways it funds, quoting his mother by saying, 'God love 'em,' to audience laughter.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Joe Biden's speech and the ambient sound of the audience, which includes applause and laughter.",
+  "editing_pacing": "The video is a single, static shot of a talking head with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "amusement",
+    "mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republicans are hypocritically taking credit for the benefits of the infrastructure bill that they voted against.",
+  "intended_effect": "To make the audience laugh at the perceived hypocrisy of Republicans while feeling proud of a key Democratic legislative accomplishment.",
+  "uncertainty_flags": []
+}

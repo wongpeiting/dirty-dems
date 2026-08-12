@@ -1,0 +1,68 @@
+{
+  "video_id": "7564160560858713399",
+  "visual_action": "A movie scene is used as a meme format. A man (actor Vince Vaughn) speaks confrontationally to another man (actor Jon Favreau). Text overlays label the first man as 'Chuck Schumer on the Democrat Shutdown' and the second man as 'Americans not wanting to pay for illegal criminals' health care'. The first man points at the second man and is then re-labeled 'Chuck Schumer'. The video ends with a black and white title card showing the White House and the text 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Chuck Schumer",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text identifies a character in a movie clip as 'Chuck Schumer on the Democrat Shutdown' and 'Chuck Schumer'."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text mentions the 'Democrat Shutdown'."
+    },
+    {
+      "name": "Americans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A character in the video is labeled with on-screen text as 'Americans not wanting to pay for illegal criminals' health care'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Chuck Schumer on the Democrat Shutdown",
+      "role": "overlay"
+    },
+    {
+      "text": "Americans not wanting to pay for illegal criminals' health care",
+      "role": "overlay"
+    },
+    {
+      "text": "Chuck Schumer",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "A character, portrayed as Chuck Schumer, says to another character, portrayed as the American people, 'What we need to do now is get focused and stop pointing fingers.' He then points and accuses them, 'You're a problem. You're a real, real problem.'",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "The audio consists entirely of dialogue from a movie scene, with no background music.",
+  "editing_pacing": "The video is a single, continuous movie clip featuring two characters talking, with cuts between them consistent with a standard dialogue scene.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "frustration"
+  ],
+  "cultural_references": [
+    "The video uses a scene from the 2006 movie 'The Break-Up'.",
+    "The scene features actors Vince Vaughn and Jon Favreau.",
+    "The format of relabeling characters in a movie scene to make a political point is a common meme."
+  ],
+  "central_claim": "Chuck Schumer and the Democrats are hypocritically blaming Americans for a government shutdown, when the Americans' only 'fault' is not wanting to pay for healthcare for undocumented immigrants.",
+  "intended_effect": "To portray Chuck Schumer and Democrats as out of touch and unfairly blaming citizens for political problems, thereby generating anger and opposition towards them.",
+  "uncertainty_flags": []
+}

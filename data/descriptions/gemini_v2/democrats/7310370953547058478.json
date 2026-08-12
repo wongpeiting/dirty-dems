@@ -1,0 +1,74 @@
+{
+  "video_id": "7310370953547058478",
+  "visual_action": "A slideshow of still images of Kevin McCarthy is presented. The first is a somber close-up with an overlaid tweet announcing his resignation. The second shows him smiling and pointing to a plaque identifying him as Speaker of the House. The third shows him standing with Donald Trump. The fourth is a close-up of him with his hand over his mouth, looking shocked. The final shot is a serious close-up. The word 'goodbye' and song lyrics are superimposed over the images.",
+  "cast": [
+    {
+      "name": "Kevin McCarthy",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of every photo in the slideshow and is named in the on-screen text from an Axios tweet: 'BREAKING: Kevin McCarthy to resign from House at end of December'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in a still photograph standing next to Kevin McCarthy."
+    },
+    {
+      "name": "Axios",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "An Axios tweet is shown on screen at the beginning of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "goodbye",
+      "role": "overlay"
+    },
+    {
+      "text": "Axios @axios",
+      "role": "overlay"
+    },
+    {
+      "text": "BREAKING: Kevin McCarthy to resign from House at end of December",
+      "role": "overlay"
+    },
+    {
+      "text": "SPEAKER OF THE HOUSE\nKEVIN MCCARTHY",
+      "role": "other"
+    },
+    {
+      "text": "you were bigger than the whole sky",
+      "role": "overlay"
+    },
+    {
+      "text": "you were more than just a short time",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio consists of a sad, slow song with a female vocalist. The lyrics include: \"Goodbye, goodbye, goodbye. You were bigger than the whole sky. You were more than just a short time.\"",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic ballad with a female vocalist plays throughout the video. The tone is somber and mournful, creating a poignant and ironic sense of farewell.",
+  "editing_pacing": "The video is a slow-paced slideshow of still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Irony",
+    "Sadness",
+    "Schadenfreude"
+  ],
+  "cultural_references": [
+    "The audio is from the song 'Bigger Than The Whole Sky' by Taylor Swift."
+  ],
+  "central_claim": "Kevin McCarthy's political career in the House is over, and his departure is being marked with ironic solemnity.",
+  "intended_effect": "To mock Kevin McCarthy's resignation by framing it as a somber loss, thereby eliciting a feeling of satisfaction or schadenfreude from political opponents.",
+  "uncertainty_flags": []
+}

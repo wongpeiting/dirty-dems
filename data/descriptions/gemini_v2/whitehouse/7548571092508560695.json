@@ -1,0 +1,71 @@
+{
+  "video_id": "7548571092508560695",
+  "visual_action": "A static image shows Donald Trump and Charlie Kirk standing in the Oval Office. A large text box, formatted to look like a tweet from Donald J. Trump, is overlaid in the center of the image. The text in the tweet is a eulogy for Charlie Kirk. At the bottom of the image is the logo for The White House.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is pictured in the image and the on-screen text is attributed to his social media account, '@realDonaldTrump'."
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is pictured in the image and is the subject of the eulogy in the on-screen text, which begins 'The Great, and even Legendary, Charlie Kirk, is dead.'"
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text: 'Melania and my Sympathies go out to his beautiful wife Erika, and family.'"
+    },
+    {
+      "name": "Erika Kirk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen text as Charlie Kirk's wife: '...go out to his beautiful wife Erika, and family.'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'The WHITE HOUSE' appears at the bottom of the image, and the post is from the @whitehouse account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump @realDonaldTrump\n\nThe Great, and even Legendary, Charlie Kirk, is dead. No one understood or had the Heart of the Youth in the United States of America better than Charlie. He was loved and admired by ALL, especially me, and now, he is no longer with us. Melania and my Sympathies go out to his beautiful wife Erika, and family. Charlie, we love you!",
+      "role": "overlay"
+    },
+    {
+      "text": "The WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video is silent.",
+  "emojis_present": [],
+  "audio_music": "The video is silent.",
+  "editing_pacing": "Static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The post presents a fabricated social media post from Donald J. Trump announcing the death of Charlie Kirk. This fake 'tweet' is overlaid on a real photograph of the two men, creating a staged document to present a fictional event as real.",
+  "emotions_signaled": [
+    "sadness",
+    "mourning",
+    "respect"
+  ],
+  "cultural_references": [],
+  "central_claim": "Conservative activist Charlie Kirk has died, and former President Donald Trump has issued a heartfelt statement mourning his death.",
+  "intended_effect": "To evoke sadness and a sense of loss among viewers regarding the (fictional) death of Charlie Kirk, and to highlight his close relationship with Donald Trump.",
+  "uncertainty_flags": []
+}

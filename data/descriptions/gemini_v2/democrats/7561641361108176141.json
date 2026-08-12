@@ -1,0 +1,95 @@
+{
+  "video_id": "7561641361108176141",
+  "visual_action": "Bernie Sanders speaks at a podium during a televised CNN Town Hall event. The stage has a blue background with repeated CNN logos. In some shots, Alexandria Ocasio-Cortez is visible, seated nearby and listening. A wide shot shows the two on stage with another woman, in front of a live audience.",
+  "cast": [
+    {
+      "name": "Bernie Sanders",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, shown in close-up, explaining the government shutdown."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video's on-screen text states it is about \"how Republicans shut the government down,\" and Sanders' speech is entirely focused on criticizing their actions."
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "She is shown on stage listening to Sanders and is mentioned by name in his speech: \"What Alexandria was just saying...\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Sanders mentions the number of Democrats in the Senate caucus: \"Democrats, including independents, have 47.\""
+    },
+    {
+      "name": "CNN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CNN logo is visible on the broadcast chyron and on the backdrop of the stage."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Sen. Sanders breaks down how Republicans shut the government down:",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "CNN",
+      "role": "chyron"
+    },
+    {
+      "text": "TOWN HALL SHUTDOWN AMERICA",
+      "role": "chyron"
+    },
+    {
+      "text": "WANNA",
+      "role": "overlay"
+    },
+    {
+      "text": "BACK",
+      "role": "overlay"
+    },
+    {
+      "text": "BIT",
+      "role": "overlay"
+    },
+    {
+      "text": "HOW",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Bernie Sanders explains the legislative process behind a government shutdown. He contrasts the House, where a simple majority passes a budget, with the Senate, which requires a 60-vote supermajority intended to foster bipartisan negotiation. Sanders states that Republicans, despite lacking 60 votes, are refusing to negotiate with Democrats, which he calls a historical first. He characterizes their stance as \"our way or the highway\" and says Democrats are insisting they negotiate and address the nation's healthcare crisis.",
+  "emojis_present": [],
+  "audio_music": "Dialogue only, consisting of Bernie Sanders' speech at a televised town hall event. No music or sound effects are present.",
+  "editing_pacing": "The video consists of relatively static shots of Sanders speaking, intercut with wider views of the stage. The primary editing technique is the use of kinetic typography, where large, yellow, capitalized words from his speech appear on screen in sync with his dialogue to add emphasis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Frustration",
+    "Anger",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Republican Party is responsible for the government shutdown because they are, for the first time in history, refusing to engage in the bipartisan negotiations required by Senate rules.",
+  "intended_effect": "To inform viewers about the procedural cause of a government shutdown and persuade them to blame the Republican Party for what is framed as an unprecedented refusal to cooperate.",
+  "uncertainty_flags": []
+}

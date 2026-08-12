@@ -1,0 +1,71 @@
+{
+  "video_id": "7634667336875642125",
+  "visual_action": "A static, blurry close-up image of Donald Trump serves as the background for a text overlay. The overlay presents a list titled 'Top 5 horror movies:' followed by five numbered points criticizing the Democratic Party.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text repeatedly names 'Democrats' in its list of 'horror movies', making them the central subject of the post's criticism."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A blurry close-up photo of his face is used as the background image for the entire video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Top 5 horror movies:",
+      "role": "overlay"
+    },
+    {
+      "text": "1. Democrats blocking the SAVE America Act",
+      "role": "overlay"
+    },
+    {
+      "text": "2. Democrats shutting down the Government",
+      "role": "overlay"
+    },
+    {
+      "text": "3. Democrats trying to Trans kids",
+      "role": "overlay"
+    },
+    {
+      "text": "4. Democrats putting illegals first",
+      "role": "overlay"
+    },
+    {
+      "text": "5. Democrats 😩",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no speech, only lyrics from a pop song playing in the background. The lyrics are from Katy Perry's 'The One That Got Away'.",
+  "emojis_present": [
+    "😩"
+  ],
+  "audio_music": "A sped-up, high-pitched version of a pop song, identified by its lyrics and the TikTok sound label as 'The One That Got Away' by Katy Perry, plays throughout the video.",
+  "editing_pacing": "Static image with a text overlay.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "fear",
+    "anger",
+    "disapproval"
+  ],
+  "cultural_references": [
+    "The format of a 'Top 5' list, a common internet trend.",
+    "The concept of 'horror movies' as a genre.",
+    "The song 'The One That Got Away' by Katy Perry."
+  ],
+  "central_claim": "The Democratic Party's policies and actions are presented as frightening events, equivalent to horror movies.",
+  "intended_effect": "To generate fear and opposition towards the Democratic Party by framing their platform in a highly negative and alarming way.",
+  "uncertainty_flags": [
+    "The authoritative music fingerprint identifies the song as 'Sad Leaf — Vazquez Sevilla Carlos', which contradicts the TikTok sound label and audible lyrics which are clearly from Katy Perry's 'The One That Got Away'."
+  ]
+}

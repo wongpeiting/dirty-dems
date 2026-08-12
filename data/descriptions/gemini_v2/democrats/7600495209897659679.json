@@ -1,0 +1,87 @@
+{
+  "video_id": "7600495209897659679",
+  "visual_action": "The video displays a still photograph of Donald Trump and the rapper Nicki Minaj posing together, holding hands, in front of a blue backdrop with the text 'TrumpAccounts.gov'. The video then zooms in on their clasped hands. Finally, it cuts to a static screenshot of a post on X (formerly Twitter). The post is from the 'Democrats' account, replying to a post from 'The White House' account that reads 'Barbz babies getting the bag 💵'. The Democrats' reply states, 'Her husband is a registered sex offender btw'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown in a photograph posing with Nicki Minaj."
+    },
+    {
+      "name": "Nicki Minaj",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is shown in a photograph with Donald Trump, and the on-screen tweets reference her fanbase ('Barbz') and her husband."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The video displays a screenshot of a tweet from the verified 'Democrats' account."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The Democrats' tweet is a reply to a tweet from the verified 'The White House' account."
+    },
+    {
+      "name": "Kenneth Petty",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The tweet from the 'Democrats' account states, 'Her husband is a registered sex offender btw', which refers to Nicki Minaj's husband."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TrumpAccounts.gov",
+      "role": "other"
+    },
+    {
+      "text": "TSR",
+      "role": "other"
+    },
+    {
+      "text": "Democrats @TheDemocrats\nHer husband is a registered sex offender btw",
+      "role": "overlay"
+    },
+    {
+      "text": "The White House @WhiteHouse\nBarbz babies getting the bag 💵\nx.com/NICKIMINAJ/sta...",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is the song 'HISS' by Megan Thee Stallion. The lyrics in the clip include lines like, 'These hoes don't be mad at Megan, these hoes mad at Megan's Law' and 'Bitch you a pussy, never could check me.' The reference to 'Megan's Law' is relevant to the on-screen text about a registered sex offender.",
+  "emojis_present": [
+    "💵"
+  ],
+  "audio_music": "The audio consists entirely of the aggressive, confrontational hip-hop track 'HISS' by Megan Thee Stallion. The song's tone is mocking and contemptuous, and its lyrics pointedly reference 'Megan's Law,' which directly corresponds to the video's on-screen accusation about a registered sex offender.",
+  "editing_pacing": "The video is a simple slideshow, showing a static photo, a slow zoom-in on the photo, and then a static screenshot of a tweet.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Scorn",
+    "Mockery",
+    "Contempt"
+  ],
+  "cultural_references": [
+    "Megan Thee Stallion",
+    "HISS (song)",
+    "Barbz (Nicki Minaj's fanbase)",
+    "Megan's Law",
+    "The Shade Room"
+  ],
+  "central_claim": "The post implies hypocrisy and poor character judgment in Donald Trump's administration and his ally Nicki Minaj by highlighting that her husband is a registered sex offender.",
+  "intended_effect": "To discredit Nicki Minaj and her political allies (like Donald Trump and his administration) by association with her husband's criminal history, fostering contempt and mockery toward them.",
+  "uncertainty_flags": []
+}

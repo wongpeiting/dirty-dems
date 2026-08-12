@@ -1,0 +1,57 @@
+{
+  "video_id": "7431356545817922858",
+  "visual_action": "Kamala Harris speaks at a podium outdoors at night. Two American flags are visible behind her. The shot is static and focused on her from the waist up.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown on screen speaking for the entire duration of the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The entire post is framed as sharing 'terrifying truths about Donald Trump', and Harris's speech is entirely about his alleged actions and words during a violent attack."
+    },
+    {
+      "name": "Mike Pence",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Kamala Harris states that the mob wanted to kill Trump's 'own vice president'. During the January 6th attack, which is the implied context, Mike Pence was the Vice President."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kamala Harris shares terrifying truths about Donald Trump ⬇️⬇️⬇️",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICANS DIED AS A RESULT OF THAT ATTACK 140 LAW ENFORCEMENT OFFICERS WERE INJURED BECAUSE OF THAT ATTACK AND WHILE DONALD TRUMP SAT IN THE WHITE HOUSE WATCHING AS THE VIOLENCE UNFOLDED ON TELEVISION HE WAS TOLD BY HIS STAFF THAT THE MOB WANTED TO KILL HIS OWN VICE PRESIDENT AND DONALD TRUMP RESPONDED WITH TWO WORDS SO WHAT",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Kamala Harris claims that during a violent attack (implicitly January 6th), Americans died and 140 law enforcement officers were injured. She states that while Donald Trump watched the events on television from the White House, his staff informed him that the mob wanted to kill his own vice president. According to Harris, Trump responded with two words: 'So what?'",
+  "emojis_present": [
+    "⬇️"
+  ],
+  "audio_music": "The audio consists solely of Kamala Harris's speech, with the persistent sound of a wailing emergency siren in the background throughout the clip, creating a sense of alarm and crisis.",
+  "editing_pacing": "The video is a single, static talking-head shot with text overlays appearing sequentially to match the speech.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Alarm",
+    "Outrage"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump was dangerously indifferent to the violence of the January 6th attack and the threat to his own Vice President's life, allegedly responding 'So what?' when told the mob wanted to kill him.",
+  "intended_effect": "To portray Donald Trump as a callous and dangerous leader who is unfit for office, thereby encouraging viewers to oppose him.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "7622322919049530637",
+  "visual_action": "The video opens on a black frame, then cuts through a series of scenes all featuring Donald Trump: (1) Trump in a dark suit with red tie greeting/meeting people in what appears to be a diner or event hall, with an overlay reading \"STRENGTHENED AND MADE PERMANENT TAX DEDUCTIONS\"; (2) Trump wearing a white cowboy hat alongside another man in a white cowboy hat, photographed inside what appears to be the Oval Office with a portrait on the wall behind them; (3) Trump seated at the Resolute Desk in the Oval Office surrounded by a group of people wearing western/cowboy attire, including a woman with a \"Miss Rodeo\" sash, with the overlay \"SECURED AMERICA FIRST TRADE DEALS\"; (4) A close-up of Trump seated at a desk in a suit with a gold/tan tie and American flag pin, speaking; (5) A close-up of hands signing an official document with a pen, with the overlay \"RIGHT TO REPAIR\"; (6) Trump smiling cheek-to-cheek with a woman who is holding a green \"MAKE AGRICULTURE GREAT AGAIN\" hat signed by Trump, with the overlay \"LOWERED COSTS\"; (7) Trump walking down a grand White House hallway with a red carpet, crystal chandeliers, and military honor guards lining the sides, wearing a dark suit and blue tie.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Trump's face is clearly visible in multiple scenes; audio narration repeatedly says 'Trump saved the farmer'; account is @whitehouse"
+    },
+    {
+      "name": "unnamed woman with Miss Rodeo sash",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Woman wearing a 'Miss Rodeo' sash visible in the Oval Office group photo scene"
+    },
+    {
+      "name": "unnamed woman holding Make Agriculture Great Again hat",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears beside Trump in a photo, holding a green 'MAKE AGRICULTURE GREAT AGAIN' hat signed by Trump"
+    },
+    {
+      "name": "unnamed man in white cowboy hat",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears alongside Trump in the cowboy hat scene inside what appears to be the Oval Office"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "STRENGTHENED AND MADE PERMANENT TAX DEDUCTIONS",
+      "role": "overlay"
+    },
+    {
+      "text": "SECURED AMERICA FIRST TRADE DEALS",
+      "role": "overlay"
+    },
+    {
+      "text": "RIGHT TO REPAIR",
+      "role": "overlay"
+    },
+    {
+      "text": "LOWERED COSTS",
+      "role": "overlay"
+    },
+    {
+      "text": "MAKE AGRICULTURE GREAT AGAIN",
+      "role": "overlay"
+    },
+    {
+      "text": "Miss Rodeo",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A male narrator speaks in a structured, repetitive rhetorical form. Each stanza identifies a problem Trump allegedly \"saw\" and concludes with \"So Trump saved the farmer.\" The five problems cited are: (1) the tax code crushing family farms and eroding rural economies; (2) unfair trade practices putting farmers at a disadvantage globally; (3) burdensome regulations and red tape capping their growth; (4) lack of energy stopping farmers from pursuing the American dream; (5) previous administrations taking farmers for granted, setting them back, and ignoring them. The phrase \"So Trump saved the farmer\" is the repeated refrain and closing line. The transcript ends with what appears to be a garbled fragment: \"Speaker 5형 7.\"",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "Original sound — a male voiceover narration delivered in a structured, anaphoric cadence over what appears to be a swelling, cinematic underscore consistent with patriotic/heroic tone. No identifiable commercial music track.",
+  "editing_pacing": "Slow, deliberate cuts between visually dramatic, darkly graded shots of Trump. Cinematic color grading with high contrast and deep shadows gives the footage a dramatic, almost filmic quality. Pacing is measured to match the cadence of the narration's repeating refrain. Slideshow-style with slow zooms and push-ins on still or near-still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride — triggered by the heroic framing of Trump 'saving' farmers and the grand White House hallway walk",
+    "admiration — triggered by the enumeration of policy achievements (tax deductions, trade deals, right to repair, lowered costs)",
+    "gratitude — triggered by the repeated refrain 'So Trump saved the farmer' directed at a farming audience",
+    "patriotism — triggered by the Oval Office imagery, American flags, military honor guards, and the 'Make Agriculture Great Again' hat"
+  ],
+  "cultural_references": [
+    "'Make Agriculture Great Again' — a riff on Trump's 'Make America Great Again' (MAGA) slogan applied to the agriculture sector",
+    "Right to Repair movement — a known policy/advocacy topic in farming and tech communities",
+    "Anaphoric political speech structure reminiscent of campaign rally rhetoric"
+  ],
+  "central_claim": "Donald Trump has taken decisive action to protect and benefit American farmers through tax relief, favorable trade deals, right-to-repair policy, and cost reduction, saving them from the failures of previous administrations.",
+  "intended_effect": "To make farmers and rural viewers feel seen, grateful, and proud of Trump's presidency, reinforcing his image as their champion and protector.",
+  "uncertainty_flags": [
+    "The identity of the man in the white cowboy hat standing next to Trump in the Oval Office scene cannot be confirmed from the frames provided.",
+    "The garbled transcript ending 'Speaker 5형 7' appears to be a Whisper transcription artifact and has no clear meaning.",
+    "Some images appear to have heavy cinematic post-processing (dark grading, sharpening) that could be AI-enhanced photo/video treatment, but no clear signs of fabricated imagery or deepfake are detectable; flagging for human review.",
+    "It is unclear whether the 'Right to Repair' signing shown is a real executive order signed by Trump or a composite/illustrative shot; the signature on the document is consistent with Trump's known signature style but cannot be fully verified from the frame."
+  ]
+}

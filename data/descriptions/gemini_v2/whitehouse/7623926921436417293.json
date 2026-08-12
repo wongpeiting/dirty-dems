@@ -1,0 +1,47 @@
+{
+  "video_id": "7623926921436417293",
+  "visual_action": "The video shows the launch of a large rocket, identified as part of the Artemis II mission. It begins with the rocket on the launchpad, then shows close-ups of the engines igniting with fire and sparks. The rocket lifts off amidst a massive cloud of smoke and fire and ascends into the blue sky. The video follows the rocket's trajectory from various angles as it climbs higher, with a tracking crosshair graphic briefly appearing on screen.",
+  "cast": [
+    {
+      "name": "NASA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The NASA logo is visible on the side of the rocket."
+    },
+    {
+      "name": "Artemis II crew",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A narrator states, \"The crew of Artemis II now bound for the moon.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GODSPEED ARTEMIS II 🇺🇸",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio features a countdown from ten, followed by a narrator announcing the ignition of the engines and the liftoff of the Artemis II mission. The narrator declares, \"The crew of Artemis II now bound for the moon. Humanity's next great voyage begins.\" This is followed by technical communications from mission control confirming flight status, such as \"Good roll pitch\" and updates from \"Mission Control Houston.\"",
+  "emojis_present": [
+    "🇺🇸",
+    "🚀"
+  ],
+  "audio_music": "The video begins with only spoken audio for the countdown. At approximately 10 seconds, a dramatic, awe-inspiring orchestral track enters as the engines ignite and continues to build through the liftoff sequence. The music changes style slightly but maintains a cinematic, space-themed soundtrack feel throughout, enhancing the sense of a grand and historic event.",
+  "editing_pacing": "The video is a montage with moderately paced cuts between different angles of the rocket launch, including wide shots on the launchpad, close-ups of the engines firing, and various tracking shots of the rocket ascending into the sky.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Pride",
+    "Awe",
+    "Patriotism",
+    "Inspiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "The successful launch of the Artemis II mission is a historic achievement for American space exploration.",
+  "intended_effect": "To inspire awe and national pride in America's space program and its mission to return to the moon.",
+  "uncertainty_flags": []
+}

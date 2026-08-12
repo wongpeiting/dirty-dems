@@ -1,0 +1,52 @@
+{
+  "video_id": "7294452819237637419",
+  "visual_action": "A static, close-up shot of a man with glasses and a suit, identified by on-screen text as Mike Johnson, speaking directly to someone off-camera in what appears to be an interview setting.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown on screen, is identified by on-screen text ('Mike Johnson, calling to ban same-sex marriage...'), and is the sole speaker in the video."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "On-screen text describes Mike Johnson as the 'new MAGA House speaker'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "🚨 this is the new MAGA House speaker 🚨",
+      "role": "overlay"
+    },
+    {
+      "text": "Mike Johnson, calling to ban same-sex marriage: “If you change the definition of marriage, then you open the floodgates for chaos and sexual anarchy”",
+      "role": "overlay"
+    },
+    {
+      "text": "If you change the definition of marriage, then you open the floodgates for chaos and sexual anarchy.",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The speaker, Mike Johnson, states: \"If you change the definition of marriage, then you open the floodgates for chaos and sexual anarchy.\"",
+  "emojis_present": [
+    "🚨"
+  ],
+  "audio_music": "The audio consists solely of dialogue. There is no music or other sound.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "The new 'MAGA House speaker,' Mike Johnson, is an extremist who has called for banning same-sex marriage on the grounds that it would lead to 'chaos and sexual anarchy.'",
+  "intended_effect": "To generate alarm and opposition towards Mike Johnson by portraying his views on same-sex marriage as extreme and dangerous.",
+  "uncertainty_flags": []
+}

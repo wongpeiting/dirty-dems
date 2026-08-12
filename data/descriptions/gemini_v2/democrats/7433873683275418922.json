@@ -1,0 +1,75 @@
+{
+  "video_id": "7433873683275418922",
+  "visual_action": "A montage of clips shows Kamala Harris at various campaign events. She waves to crowds from a stage with a large American flag, claps and laughs alongside Joe Biden, interacts with supporters in crowds, hugs a young girl, and speaks to a studio audience on a set with a \"NOTICIAS Univision\" logo. Supporters are shown cheering and holding up campaign signs, including one that says \"KAMALA\" in large letters.",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Kamala Harris is the central figure in every clip of the montage."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears briefly in one clip, clapping and smiling next to Kamala Harris."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on a campaign sign alongside Harris's, though the clip is brief and blurry."
+    },
+    {
+      "name": "Univision",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo \"NOTICIAS Univision\" is visible on the set in one of the clips."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "It's Election Day !!",
+      "role": "overlay"
+    },
+    {
+      "text": "KAMALA",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS",
+      "role": "other"
+    },
+    {
+      "text": "NOTICIAS Univision",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue. An upbeat pop song with female vocals plays throughout the video.",
+  "emojis_present": [],
+  "audio_music": "An upbeat, energetic pop-rock song with female vocals plays throughout, creating a celebratory and motivational tone. The lyrics include the phrase \"on the edge of glory\" and the music sounds like Lady Gaga's \"The Edge of Glory\".",
+  "editing_pacing": "A fast-paced montage with quick cuts between various clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "excitement",
+    "optimism",
+    "energy"
+  ],
+  "cultural_references": [
+    "Lady Gaga (musician, via the song 'The Edge of Glory')"
+  ],
+  "central_claim": "On Election Day, Kamala Harris is presented as a popular and energetic candidate who is generating excitement among her supporters.",
+  "intended_effect": "To energize supporters and create a sense of celebration and urgency around voting on Election Day.",
+  "uncertainty_flags": [
+    "The presence of Tim Walz's face, as indicated by authoritative face-ID, could not be visually confirmed in the fast-paced montage, though his name appears on a campaign sign."
+  ]
+}

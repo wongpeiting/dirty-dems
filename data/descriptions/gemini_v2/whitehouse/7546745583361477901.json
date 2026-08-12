@@ -1,0 +1,130 @@
+{
+  "video_id": "7546745583361477901",
+  "visual_action": "In what appears to be the Oval Office, Donald Trump is seated at his desk. A man in a suit stands before him, holding up a bar chart and speaking. A woman stands beside the man. The video is a single, static shot of this interaction, followed by a black and white end screen with an image of a helicopter and then the White House.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visibly on screen, seated at the desk, confirmed by face-ID, and is the subject of the praise in the video."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "An unnamed man contrasts Trump's record with his, stating, 'If we compare that to President Biden, he has gotten 20 taken.'"
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man in a suit is shown speaking to Trump and presenting a chart."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman stands next to the man who is speaking to Trump."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is from the @whitehouse account and ends with a credit screen reading 'THE WHITE HOUSE'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump's Focus on Returning American Hostages",
+      "role": "overlay"
+    },
+    {
+      "text": "President, you brought",
+      "role": "caption"
+    },
+    {
+      "text": "back 72 hostages since your term.",
+      "role": "caption"
+    },
+    {
+      "text": "If we compare that to President Biden,",
+      "role": "caption"
+    },
+    {
+      "text": "he has gotten 20 taken.",
+      "role": "caption"
+    },
+    {
+      "text": "So he is negative.",
+      "role": "caption"
+    },
+    {
+      "text": "20 taken? 20 taken.",
+      "role": "caption"
+    },
+    {
+      "text": "They don't take our people so often.",
+      "role": "caption"
+    },
+    {
+      "text": "So, Mr.",
+      "role": "caption"
+    },
+    {
+      "text": "President,",
+      "role": "caption"
+    },
+    {
+      "text": "you said",
+      "role": "caption"
+    },
+    {
+      "text": "that that was a primary focus,",
+      "role": "caption"
+    },
+    {
+      "text": "and, I'll tell you,",
+      "role": "caption"
+    },
+    {
+      "text": "the job is easy because of you.",
+      "role": "caption"
+    },
+    {
+      "text": "And we paid nothing too.",
+      "role": "caption"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "An unnamed man tells Donald Trump that he brought back 72 American hostages during his term. He contrasts this by stating that under President Biden, 20 have been taken, making Biden's record 'negative.' Trump responds, 'They don't take our people so often.' The man continues to praise Trump, saying the 'job is easy because of you.' Trump adds, 'And we paid nothing, too.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of dialogue within the room. There is no music or other sound effects.",
+  "editing_pacing": "The video consists of a single, static shot of a conversation, followed by a simple cut to a black-and-white credit sequence at the end.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "admiration",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump was highly successful at bringing American hostages home, whereas Joe Biden's presidency has resulted in more Americans being taken hostage than returned.",
+  "intended_effect": "To persuade the viewer that Donald Trump is a strong and effective leader on national security, while portraying Joe Biden as weak and unsuccessful.",
+  "uncertainty_flags": [
+    "The identities of the man and woman speaking with Donald Trump are not provided.",
+    "The source and data of the chart being shown are not identified."
+  ]
+}

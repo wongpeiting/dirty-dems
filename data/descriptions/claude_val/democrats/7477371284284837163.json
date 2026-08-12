@@ -1,0 +1,51 @@
+{
+  "video_id": "7477371284284837163",
+  "visual_action": "All eight keyframes are identical: a screenshot of a tweet posted by Doug Emhoff (@DouglasEmhoff), verified account (blue checkmark), with the text \"Oscars watch party prep.\" Below the tweet text is a photo of a smiling woman in a black sweatshirt standing in a modern kitchen with dark wood-grain upper cabinets and a grey tile backsplash. She is pouring orange chips (appear to be Doritos or similar) from a red bag into a large white bowl on the counter. A stainless-steel blender is visible in the background. The post profile picture shows two people posed together with a US flag visible.",
+  "cast": [
+    {
+      "name": "Doug Emhoff",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Twitter/X account header reads 'Doug Emhoff @DouglasEmhoff' with blue verification checkmark"
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The woman in the photo is implied to be Kamala Harris, as the tweet is posted by her husband Doug Emhoff from his personal account, showing a woman in their home preparing snacks; face-ID did not confirm but context strongly implies her identity"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Doug Emhoff @DouglasEmhoff",
+      "role": "overlay"
+    },
+    {
+      "text": "Oscars watch party prep.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "No spoken audio. The TikTok sound is labeled \"original sound\" and the Whisper transcript is blank, indicating the video is a silent slideshow or has no dialogue.",
+  "emojis_present": [],
+  "audio_music": "No music or speech detected throughout the clip. The video appears to be entirely silent, using the account's \"original sound\" designation with no audible content.",
+  "editing_pacing": "Static single-image slideshow; all eight keyframes are identical, suggesting the \"video\" is a still image or very slowly paced static post with no cuts or motion.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "warmth and relatability — pouring chips into a bowl for a casual TV watch party conveys an everyday, down-to-earth domestic moment"
+  ],
+  "cultural_references": [
+    "The Academy Awards (Oscars) — referenced in the tweet text as the event being watched, a major annual pop-culture television event"
+  ],
+  "central_claim": "Doug Emhoff shared a candid, relatable photo of a woman (implied to be Kamala Harris) casually preparing snacks for an Oscars watch party, presenting a warm and humanizing domestic image.",
+  "intended_effect": "Make viewers feel warmth and see the subject as relatable and ordinary, enjoying a popular cultural event (the Oscars) at home like any other American.",
+  "uncertainty_flags": [
+    "The woman in the photo is not confirmed by face-ID as Kamala Harris; she is strongly implied by context (Doug Emhoff's account, domestic setting) but cannot be verified with certainty from the image alone.",
+    "The exact year/edition of the Oscars being referenced is not stated in the post.",
+    "The chip brand is not fully legible — appears to be Doritos or a similar orange chip in a red bag, but cannot be confirmed with certainty."
+  ]
+}

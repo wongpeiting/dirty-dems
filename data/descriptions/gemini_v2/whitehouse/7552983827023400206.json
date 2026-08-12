@@ -1,0 +1,62 @@
+{
+  "video_id": "7552983827023400206",
+  "visual_action": "A montage of slow-motion clips shows Robert F. Kennedy Jr., in a blue suit, walking onto a large stage with a red carpet. He waves to a large crowd as pyrotechnic sparklers go off around him. He then approaches and shakes hands with a person who appears to be Donald Trump at a podium. The background features signs for 'TRUMP VANCE' and 'TURNING POINT USA'.",
+  "cast": [
+    {
+      "name": "Robert F Kennedy Jr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the speaker throughout the video and the main person shown on screen walking to the stage."
+    },
+    {
+      "name": "Charlie Kirk",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'All thanks to Charlie' and the speaker's audio says 'Charlie was probably the primary architect of my unification' and 'that was all Charlie's orchestration.'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The speaker says 'my unification with President Trump' and 'my endorsement of President Trump'. He is also shown shaking hands with RFK Jr. on stage."
+    },
+    {
+      "name": "Turning Point USA",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The speaker mentions endorsing Trump 'at a Turning Point rally in Arizona.' Logos for 'TURNING POINT ACT' and 'TURNING POINT USA' are also visible on screens in the background."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "From the campaign\nTo the memorial:\nAll thanks to Charlie",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Robert F. Kennedy Jr. describes Charlie Kirk as the 'primary architect' of his unification with Donald Trump. He recounts announcing his endorsement of Trump at a Turning Point rally in Arizona, noting that the celebratory fireworks and sparklers on stage were 'all Charlie's orchestration.'",
+  "emojis_present": [],
+  "audio_music": "A slow, somber piano-based musical score plays under the spoken audio, creating a reflective and memorial-like tone.",
+  "editing_pacing": "The video is a slow-motion montage with slow, deliberate cuts between different shots of the event.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Gratitude",
+    "Solemnity",
+    "Remembrance",
+    "Unity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Charlie Kirk was the instrumental figure who orchestrated the political unification of Robert F. Kennedy Jr. and Donald Trump, an event now being remembered.",
+  "intended_effect": "To evoke a sense of solemn respect and gratitude for Charlie Kirk's role in forging a key political alliance, framing the event as historic and monumental.",
+  "uncertainty_flags": [
+    "The on-screen text 'From the campaign To the memorial' strongly implies that Charlie Kirk is deceased at the time of the post, but this is not explicitly stated."
+  ]
+}

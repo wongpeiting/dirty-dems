@@ -1,0 +1,102 @@
+{
+  "video_id": "7397949768363773227",
+  "visual_action": "A slideshow of two images. The first is a photo of President Joe Biden putting the Presidential Medal of Freedom on a smiling Simone Biles. The second is a screenshot of a CBS News article announcing that Simone Biles and Team USA won gold in the women's gymnastics team final at the 2024 Olympics, with a photo of the team celebrating with an American flag.",
+  "cast": [
+    {
+      "name": "Simone Biles",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name and image appear throughout the video, and on-screen text identifies her as 'Simone Biles'."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is shown visually in the first image awarding the Medal of Freedom to Simone Biles."
+    },
+    {
+      "name": "Team USA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Named in on-screen text: 'Simone Biles and Team USA win gold...' and 'Simone Biles leading Team USA to victory...'"
+    },
+    {
+      "name": "CBS News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Credited as the source on the news article screenshot."
+    },
+    {
+      "name": "Christopher Brito",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Named in the byline of the CBS News article screenshot."
+    },
+    {
+      "name": "Emily Mae Czachor",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Named in the byline of the CBS News article screenshot."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Simone Biles becoming the youngest Medal of Freedom recipient in 2022 →",
+      "role": "overlay"
+    },
+    {
+      "text": "U.S.",
+      "role": "other"
+    },
+    {
+      "text": "Simone Biles and Team USA win gold in women's gymnastics team final at 2024 Olympics",
+      "role": "overlay"
+    },
+    {
+      "text": "By Christopher Brito, Emily Mae Czachor",
+      "role": "credit"
+    },
+    {
+      "text": "Updated on: July 30, 2024 / 8:02 PM EDT / CBS News",
+      "role": "other"
+    },
+    {
+      "text": "Simone Biles leading Team USA to victory in 2024 🥇",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video has no spoken words, only music.",
+  "emojis_present": [
+    "→",
+    "🥇"
+  ],
+  "audio_music": "A bass-boosted, high-energy, instrumental version of the 'Star-Spangled Banner' plays throughout the video, creating a patriotic and celebratory mood.",
+  "editing_pacing": "A simple slideshow consisting of two static images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "inspiration",
+    "celebration"
+  ],
+  "cultural_references": [
+    "Simone Biles",
+    "2024 Olympics",
+    "Presidential Medal of Freedom"
+  ],
+  "central_claim": "Simone Biles is a historic American champion, having received the Presidential Medal of Freedom in 2022 and led Team USA to an Olympic gold medal in 2024.",
+  "intended_effect": "To evoke feelings of national pride and admiration for Simone Biles's and Team USA's accomplishments.",
+  "uncertainty_flags": []
+}

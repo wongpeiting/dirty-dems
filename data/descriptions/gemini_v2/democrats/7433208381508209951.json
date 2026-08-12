@@ -1,0 +1,62 @@
+{
+  "video_id": "7433208381508209951",
+  "visual_action": "Kamala Harris speaks at a podium with the Vice Presidential seal at a political rally in a large indoor venue. The video cuts between shots of her speaking and wide shots of a large, cheering crowd holding campaign signs, including some that read \"HARRIS WALZ\" and \"A NEW WAY FORWARD\". A large banner in the crowd reads \"A PRESIDENT FOR ALL\".",
+  "cast": [
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the main speaker in the video, identified by face and the on-screen text \"Kamala Harris fires up her Michigan rally crowd tonight\"."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears on \"HARRIS WALZ\" campaign signs held by people in the crowd."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Kamala Harris fires up her Michigan rally crowd tonight 🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "Kamala: “We have momentum, it is on our side – can you feel it?!”",
+      "role": "overlay"
+    },
+    {
+      "text": "A PRESIDENT FOR ALL",
+      "role": "other"
+    },
+    {
+      "text": "HARRIS WALZ",
+      "role": "other"
+    },
+    {
+      "text": "A NEW WAY FORWARD",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Kamala Harris addresses an energetic rally crowd, stating that with two days to go in a consequential election, their side has momentum. She asks the crowd, \"Can you feel it?\" to loud cheers. She attributes this momentum to their campaign tapping into the \"ambitions, the aspirations, and the dreams of the American people,\" and expresses optimism about what they can accomplish together.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio consists of Kamala Harris's speech at a rally, with prominent, loud cheering and applause from the large crowd, particularly in response to her key lines. There is no background music. The effect is one of live energy and strong voter support.",
+  "editing_pacing": "The video uses simple cuts, alternating between medium shots of Kamala Harris at the podium and wide shots of the large, enthusiastic audience.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Hope",
+    "Optimism",
+    "Unity"
+  ],
+  "cultural_references": [],
+  "central_claim": "Kamala Harris's campaign has strong momentum and enthusiastic crowd support in Michigan just before the election.",
+  "intended_effect": "To energize supporters and project an image of a popular, winning campaign with significant momentum.",
+  "uncertainty_flags": []
+}

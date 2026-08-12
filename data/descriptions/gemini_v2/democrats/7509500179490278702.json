@@ -1,0 +1,138 @@
+{
+  "video_id": "7509500179490278702",
+  "visual_action": "The video shows a clip of an interview between Elon Musk, who is wearing a black t-shirt that says 'OCCUPY MARS', and an unnamed male interviewer. The clip cuts between a two-shot and individual shots of each person as they speak. The setting appears to be an industrial or office space.",
+  "cast": [
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker in the interview clip, identified by face recognition and the on-screen text 'Elon rips into Trump's bill'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen overlay text states, 'Elon rips into Trump's bill'."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "He is shown on screen interviewing Elon Musk."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Elon rips into Trump's bill: 'I'm disappointed' 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "SUNDAY MORNING",
+      "role": "chyron"
+    },
+    {
+      "text": "OCCUPY MARS",
+      "role": "other"
+    },
+    {
+      "text": "I WAS DISAPPOINTED TO SEE THE",
+      "role": "caption"
+    },
+    {
+      "text": "MASSIVE SPENDING BILL, FRANKLY,",
+      "role": "caption"
+    },
+    {
+      "text": "WHICH INCREASES THE",
+      "role": "caption"
+    },
+    {
+      "text": "BUDGET DEFICIT,",
+      "role": "caption"
+    },
+    {
+      "text": "NOT JUST DECREASES IT, AND",
+      "role": "caption"
+    },
+    {
+      "text": "UNDERMINES THE WORK THAT",
+      "role": "caption"
+    },
+    {
+      "text": "THE DOGE TEAM IS DOING.",
+      "role": "caption"
+    },
+    {
+      "text": "I ACTUALLY THOUGHT THAT",
+      "role": "caption"
+    },
+    {
+      "text": "WHEN THIS BIG,",
+      "role": "caption"
+    },
+    {
+      "text": "BEAUTIFUL BILL CAME ALONG,",
+      "role": "caption"
+    },
+    {
+      "text": "EVERYTHING HE'S DONE ON DOGE",
+      "role": "caption"
+    },
+    {
+      "text": "GETS WIPED OUT IN",
+      "role": "caption"
+    },
+    {
+      "text": "THE FIRST YEAR.",
+      "role": "caption"
+    },
+    {
+      "text": "I THINK A BILL CAN BE BIG",
+      "role": "caption"
+    },
+    {
+      "text": "OR IT CAN BE BEAUTIFUL,",
+      "role": "caption"
+    },
+    {
+      "text": "BUT I DON'T KNOW IF",
+      "role": "caption"
+    },
+    {
+      "text": "IT COULD BE BOTH.",
+      "role": "caption"
+    },
+    {
+      "text": "MY PERSONAL OPINION.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "In an interview clip, Elon Musk states he was 'disappointed to see the massive spending bill' because it increases the budget deficit and 'undermines the work that the Doge team is doing.' The interviewer replies that he thought 'everything he's done on Doge gets wiped out in the first year.' Musk concludes that a bill can be 'big' or 'beautiful,' but he doesn't know if it can be both. The reference to 'the Doge team' is incongruous with a discussion about a federal spending bill, suggesting the audio has been altered.",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue from the interview; there is no music or background sound.",
+  "editing_pacing": "The video uses simple cuts between different shots of a static, talking-head style interview.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The audio appears to be manipulated, likely via deepfake or voice cloning, to insert a nonsensical reference to 'the Doge team' into Elon Musk's critique of a federal spending bill. This fabricates a bizarre statement to create a satirical or mocking effect.",
+  "emotions_signaled": [
+    "mockery",
+    "criticism"
+  ],
+  "cultural_references": [
+    "Doge team (referencing Dogecoin)",
+    "Occupy Mars (SpaceX slogan)",
+    "CBS Sunday Morning"
+  ],
+  "central_claim": "The post uses a manipulated video of Elon Musk to criticize and ridicule a spending bill attributed to Donald Trump, portraying it as fiscally irresponsible and absurd.",
+  "intended_effect": "To cause the viewer to disapprove of and mock Donald Trump and his purported legislative actions.",
+  "uncertainty_flags": [
+    "It is clear the reference to 'the Doge team' is a fabrication, but it is uncertain whether this was achieved through deepfake audio, clever editing of real audio, or simply false subtitling over different dialogue. The audio matching the provided transcript suggests the audio itself is the manipulated element."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "video_id": "7545583474384719118",
+  "visual_action": "Donald Trump speaks at a podium in what appears to be the White House Oval Office, with several other men in suits, including JD Vance, standing behind him. The footage is from a C-SPAN broadcast and is framed vertically for a mobile screen, with text overlays at the top and bottom.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking at the podium throughout the video."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is visible standing behind and to the left of Donald Trump."
+    },
+    {
+      "name": "C-SPAN",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The C-SPAN logo is visible in the chyron."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump's new excuse: \"Just blame AI\" 🤔",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP TAKES QUESTIONS FROM REPORTERS",
+      "role": "chyron"
+    },
+    {
+      "text": "THE WHITE HOUSE OVAL OFFICE",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "C-SPAN",
+      "role": "chyron"
+    },
+    {
+      "text": "IF SOMETHING HAPPENS",
+      "role": "caption"
+    },
+    {
+      "text": "REALLY BAD,",
+      "role": "caption"
+    },
+    {
+      "text": "JUST BLAME AI.",
+      "role": "caption"
+    },
+    {
+      "text": "BUT ALSO,",
+      "role": "caption"
+    },
+    {
+      "text": "THEY CREATE THINGS,",
+      "role": "caption"
+    },
+    {
+      "text": "YOU KNOW?",
+      "role": "caption"
+    },
+    {
+      "text": "IT WORKS BOTH WAYS.",
+      "role": "caption"
+    },
+    {
+      "text": "IF SOMETHING HAPPENS",
+      "role": "caption"
+    },
+    {
+      "text": "THAT'S REALLY BAD,",
+      "role": "caption"
+    },
+    {
+      "text": "MAYBE I'LL HAVE TO",
+      "role": "caption"
+    },
+    {
+      "text": "JUST BLAME AI.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump suggests that if something \"really bad\" happens, he can simply blame it on AI. He repeats the phrase \"just blame AI\" and also mentions that AI can \"create things,\" concluding that \"it works both ways.\"",
+  "emojis_present": [
+    "🤔"
+  ],
+  "audio_music": "The audio consists solely of Donald Trump's unaltered speech from the press event. There is no music or other sound design.",
+  "editing_pacing": "The video is a single, static talking-head shot from a press conference. The only editing is the addition of text overlays.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump has a new, absurd excuse for any future problems, which is to simply blame Artificial Intelligence.",
+  "intended_effect": "To portray Donald Trump as unserious and looking for excuses, thereby encouraging viewers to ridicule him.",
+  "uncertainty_flags": []
+}

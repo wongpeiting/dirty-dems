@@ -1,0 +1,96 @@
+{
+  "video_id": "7522839000151805197",
+  "visual_action": "The video opens with a clip of Speaker Mike Johnson speaking, with his quotes subtitled. It then transitions to a series of text slides on a black background. These slides display headlines about the negative consequences of a budget bill, such as Medicaid cuts leading to millions losing insurance. The final slide shows a bar chart from the American Health Care Association (AHCA) illustrating potential negative impacts on nursing homes, such as staff cuts and closures, if Medicaid funding is reduced.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking at the beginning of the video, identified by the on-screen text: 'GOP Speaker Mike Johnson'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The budget bill is referred to as 'Trump's budget bill' and 'Trump plan' in the on-screen text."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Referenced in Mike Johnson's title on screen: 'GOP Speaker Mike Johnson'."
+    },
+    {
+      "name": "American Health Care Association",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'AHCA' and the source attribution for a bar chart appear on screen: 'Source: American Health Care Association Survey...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "GOP Speaker Mike Johnson on Trump's budget bill:",
+      "role": "overlay"
+    },
+    {
+      "text": "We can't make everyone 100% happy.",
+      "role": "caption"
+    },
+    {
+      "text": "All of us have to give up on our personal preferences.",
+      "role": "caption"
+    },
+    {
+      "text": "What the bill will do:",
+      "role": "overlay"
+    },
+    {
+      "text": "Medicaid cuts in Trump's 'big beautiful bill' will leave millions uninsured, threaten rural hospitals",
+      "role": "overlay"
+    },
+    {
+      "text": "At least 17 million Americans would lose insurance under Trump plan",
+      "role": "overlay"
+    },
+    {
+      "text": "AHCA",
+      "role": "credit"
+    },
+    {
+      "text": "More than half of nursing homes would be forced to cut staff, and more than one-quarter would have to close their doors.",
+      "role": "overlay"
+    },
+    {
+      "text": "If the federal government reduces Medicaid funding, what changes would your facility(ies) have to make? (select all that apply)",
+      "role": "other"
+    },
+    {
+      "text": "Source: American Health Care Association Survey of 363 Nursing Home Providers, June 2025",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Speaker Mike Johnson is shown saying, 'We can't make everyone 100% happy. All of us have to give up on our personal preferences.' His words are subtitled on screen.",
+  "emojis_present": [],
+  "audio_music": "An ominous, slow, melancholic violin track plays throughout the video, accompanied by the sound of crows cawing at the beginning. The overall effect is somber and foreboding.",
+  "editing_pacing": "The editing is slow, using a static clip of a speaker followed by a series of static text slides and a chart, resembling a slideshow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Fear",
+    "Worry",
+    "Alarm",
+    "Concern"
+  ],
+  "cultural_references": [],
+  "central_claim": "A Trump-backed budget bill supported by Speaker Mike Johnson will have devastating consequences for Americans' healthcare, including causing millions to lose insurance and forcing nursing homes to close.",
+  "intended_effect": "To create fear and concern about the real-world impact of Republican policies on healthcare and portray GOP leaders as callous.",
+  "uncertainty_flags": []
+}

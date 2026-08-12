@@ -1,0 +1,62 @@
+{
+  "video_id": "7551081939566890253",
+  "visual_action": "The video shows a still photograph of Donald Trump, a man resembling King Charles III, and a woman resembling Queen Camilla in an ornate, green-walled room. The video then zooms in on a fourth person, identified by on-screen text as Melania Trump, who is wearing a dark suit and a very large purple hat that completely obscures her head and face.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'Melania's outfit for Trump's UK visit 😭'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is visually present in the photograph, and the on-screen text mentions 'Trump's UK visit'."
+    },
+    {
+      "name": "King Charles III",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man strongly resembling King Charles III is shown standing next to Donald Trump in the photo, consistent with the setting of a 'UK visit'."
+    },
+    {
+      "name": "Queen Camilla",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman strongly resembling Queen Camilla is shown standing next to King Charles III in the photo, consistent with the setting of a 'UK visit'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Melania's outfit for Trump's UK visit 😭",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A male voice says a fragment of a sentence, \"...in the course of this campaign that you didn't...\" which is abruptly interrupted by a female voice saying, \"Hello?\". The interjection is timed to coincide with the camera zooming in on the person with the large hat.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "The audio begins with a short, serious-sounding clip of a man speaking, which is cut off by a comedic soundbite of a high-pitched voice saying \"Hello?\". The juxtaposition of the serious and comedic audio is used for mocking effect.",
+  "editing_pacing": "The video consists of a slow zoom-in on a static photograph.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "The audio clip \"Hello?\" is a famous line from the 1993 film Mrs. Doubtfire.",
+    "The caption's hashtag, '#hattheory', is a reference to an internet trend of creating humorous conspiracy theories."
+  ],
+  "central_claim": "Melania Trump's outfit, specifically her hat, during a UK visit was comically absurd and oversized.",
+  "intended_effect": "To make the viewer laugh at and ridicule Melania Trump's fashion choice.",
+  "uncertainty_flags": []
+}

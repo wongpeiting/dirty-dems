@@ -1,0 +1,50 @@
+{
+  "video_id": "7484308070659624235",
+  "visual_action": "The video is a handheld, shaky footage compilation shot inside what appears to be a historic civic or church hall with green walls, teal/dark wood columns, arched windows, and ornate architecture. The first frame shows a very large, packed crowd — the on-screen text claims approximately 800 attendees — filling both the main floor and an upper balcony. Subsequent frames sweep around a smaller, more intimate room, also within the same or a similar venue, showing groups of constituents seated in pews/chairs, some holding papers or phones, some raising hands, and some appearing to speak to one another. A podium with a microphone is visible but appears unoccupied by any official. A red-and-gold banner/flag is visible in the background. The camera pans and tilts throughout, giving the footage a spontaneous, citizen-recorded quality. No identifiable political figures appear on screen.",
+  "cast": [
+    {
+      "name": "Republican Party (GOP)",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads 'their GOP reps no-showed', making the Republican representatives the central subject of criticism"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "800 people showed up to this town hall",
+      "role": "overlay"
+    },
+    {
+      "text": "their GOP reps no-showed",
+      "role": "overlay"
+    },
+    {
+      "text": "@jonesfora r",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The Whisper transcript only captures \"U.S.\" — suggesting minimal or ambient spoken audio. The sound label indicates original audio from the account. There is likely crowd noise and ambient room sound from the town hall gathering, with no clear spoken narration or dialogue discernible from the transcript.",
+  "emojis_present": [
+    "📍"
+  ],
+  "audio_music": "The audio is the account's own original sound, with no commercial music matched. The audio likely consists of ambient crowd noise from the town hall — murmuring, shuffling, possibly some applause or chatter — consistent with a large civic gathering. No music track, narration, or meme audio is apparent.",
+  "editing_pacing": "Handheld, shaky, panning footage with a slow sweep across the venue and crowd. The footage has a raw, unedited citizen-journalism quality with motion blur throughout. Multiple short clips are cut together to show different angles of the packed venue. No fast cuts, speed ramps, or stylized editing effects — the pacing is slow and observational.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation — the contrast of 800 citizens showing up vs. GOP reps not attending signals constituent abandonment",
+    "Solidarity — the large crowd visually signals grassroots mobilization and civic engagement"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republican representatives failed to attend a town hall that 800 of their constituents showed up for, framed as evidence that GOP officials are avoiding accountability to the public.",
+  "intended_effect": "To make viewers feel that Republican representatives are unaccountable and avoidant of their constituents, while celebrating the large citizen turnout as a sign of civic resistance.",
+  "uncertainty_flags": [
+    "The specific location of the town hall is not fully visible — the caption mentions 'Little...' (truncated), so the exact city/venue is unclear",
+    "The specific GOP representatives who no-showed are not named in the video or visible on screen",
+    "The date of this town hall event is not shown or determinable from the footage",
+    "The '@jonesfora r' watermark credit is partially cut off — the full handle is unclear (possibly @jonesforar, suggesting a political candidate named Jones running for Arkansas or a similar office)",
+    "Only 'U.S.' was captured by Whisper, making it difficult to confirm whether any spoken audio contains additional claims or context"
+  ]
+}

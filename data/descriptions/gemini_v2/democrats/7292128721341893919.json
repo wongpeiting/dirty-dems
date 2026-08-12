@@ -1,0 +1,47 @@
+{
+  "video_id": "7292128721341893919",
+  "visual_action": "A static image of the U.S. House of Representatives chamber serves as a background. Text is overlaid at the top and middle. In the lower-center, a cutout video clip of Donald Trump speaking is superimposed. He appears to be reacting with surprise or confusion.",
+  "cast": [
+    {
+      "name": "House Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text 'House Republicans:' explicitly names them as the subject of the post."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "His face is shown in a superimposed video clip where he is speaking. He is used as a stand-in to represent the reaction of House Republicans."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "“you need to know how to count votes in order to select a speaker”",
+      "role": "meme_text"
+    },
+    {
+      "text": "House Republicans:",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "Donald Trump is heard speaking, seemingly out of context. After muttering 'Blue jean baby,' he says, 'Wow... I didn't know that. I just... you're telling me now for the first time.' The dialogue is used to portray confusion.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of Donald Trump's spoken words. In the background, a faint, slow, and slightly melancholic piano melody can be heard.",
+  "editing_pacing": "The video is a static image with a video clip superimposed on it. There are no cuts, transitions, or camera movements.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A video clip of Donald Trump has been digitally superimposed onto a background image of the House chamber to serve as a comedic reaction, representing 'House Republicans.'",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "Donald Trump is heard muttering the lyric 'Blue jean baby,' a reference to the Elton John song 'Tiny Dancer'."
+  ],
+  "central_claim": "House Republicans are incompetent and disorganized, unable to perform the basic task of counting votes to elect a Speaker.",
+  "intended_effect": "To mock House Republicans and portray them as inept, causing the viewer to laugh at their perceived dysfunction.",
+  "uncertainty_flags": []
+}

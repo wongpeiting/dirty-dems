@@ -1,0 +1,82 @@
+{
+  "video_id": "7576345548114971917",
+  "visual_action": "A montage of images and short clips comparing an unnamed man with Donald Trump. The first shot shows the man standing next to a seated Donald Trump in what appears to be the Oval Office. The second shot shows the man standing behind a woman speaking at a podium that reads \"A NEW ERA NEW YORK CITY\". The third shot is of Donald Trump standing outdoors looking serious. The fourth shot is a portrait of the unnamed man sitting in a red chair, smiling. The final shot is a selfie of the unnamed man on an airplane.",
+  "cast": [
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is the protagonist of the video, shown in multiple positive or confident settings (smiling in a chair, on a plane, behind a podium) in contrast to Donald Trump."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in the Oval Office and outdoors, and is the implicit subject of the on-screen text \"he wear my drip\"."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown speaking at a podium in one of the montage clips."
+    },
+    {
+      "name": "unnamed woman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown standing next to the woman speaking at the podium."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "prada and gucci, it don't go together",
+      "role": "overlay"
+    },
+    {
+      "text": "louis and dior, i swear it go better",
+      "role": "overlay"
+    },
+    {
+      "text": "A NEW ERA\nNEW YORK CITY\nTRANSITION2025.COM",
+      "role": "other"
+    },
+    {
+      "text": "he wear my drip",
+      "role": "overlay"
+    },
+    {
+      "text": "but i wear it better",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a hip-hop track with lyrics that are also displayed on screen. Key lines include: \"Prada and Gucci, it don't go together,\" \"Louis and Dior, I swear it go better,\" and \"He wear my drip, but I wear it better.\" The lyrics compare luxury brands and boast about superior style.",
+  "emojis_present": [],
+  "audio_music": "A continuous, confident hip-hop track, identified as 'Over The Top' by Smiley (feat. Drake), plays throughout the video. The music's boastful tone serves to create a 'hype' video atmosphere, portraying the main subject as cool and stylish.",
+  "editing_pacing": "A fast-paced montage with quick cuts between different photos and clips, synchronized with the beat of the background music.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "confidence",
+    "admiration",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The song 'Over The Top' by Smiley featuring Drake.",
+    "The lyrics reference high-fashion brands: Prada, Gucci, Louis Vuitton (Louis), and Dior.",
+    "The term 'drip' is slang for style and fashion."
+  ],
+  "central_claim": "An unnamed man associated with the Democratic party is more stylish, modern, and superior to Donald Trump.",
+  "intended_effect": "To generate positive sentiment and a 'cool' image for the unnamed man by contrasting him with Donald Trump, using a popular hip-hop song and fashion references.",
+  "uncertainty_flags": [
+    "The identity of the main protagonist, an unnamed man, is not specified.",
+    "The identities of the two women shown at the podium are unknown."
+  ]
+}

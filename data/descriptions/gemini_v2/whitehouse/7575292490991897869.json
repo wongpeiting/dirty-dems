@@ -1,0 +1,57 @@
+{
+  "video_id": "7575292490991897869",
+  "visual_action": "Donald Trump sits at the Resolute Desk in the Oval Office, speaking directly to the camera. To his left stands another man in a suit, identified as Zohran Mamdani. The background shows the interior of the Oval Office, including American flags.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is visually identified by face-ID and is the only person speaking throughout the video."
+    },
+    {
+      "name": "Zohran Mamdani",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is identified by face-ID and an on-screen text overlay that reads \"President Trump Meets With NYC Mayor-elect Mamdani In the Oval Office.\" He is shown on screen and is the main subject of Trump's speech."
+    },
+    {
+      "name": "Walmart",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump states, \"Walmart said that Thanksgiving this year is exactly 25% less than last year.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Trump Meets With NYC Mayor-elect Mamdani In the Oval Office",
+      "role": "overlay"
+    },
+    {
+      "text": "WE'VE JUST HAD A GREAT MEETING, A REALLY GOOD, VERY PRODUCTIVE MEETING. WE HAVE ONE THING IN COMMON. WE WANT THIS CITY OF OURS THAT WE LOVE TO DO VERY WELL. AND I WANTED TO UH, CONGRATULATE THE MAYOR. HE REALLY RAN AN INCREDIBLE RACE AGAINST, LOT OF SMART PEOPLE, STARTING WITH THE EARLY PRIMARIES AGAINST SOME VERY TOUGH PEOPLE, VERY SMART PEOPLE. AND HE BEAT HIM, AND HE BEAT HIM EASILY. AND I CONGRATULATED HIM. AND WE TALKED ABOUT SOME THINGS IN VERY STRONG COMMON, LIKE HOUSING AND GETTING HOUSING BUILT AND FOOD AND PRICES. AND THE PRICE OF OIL IS COMING WAY DOWN. THAT ANYTHING I DO IS GOING TO BE GOOD FOR NEW YORK. IF I CAN GET PRICES DOWN, THAT'S GOOD FOR NEW YORK. AND WE'VE GOT THEM DOWN, WAY DOWN FROM. FROM LAST YEAR. WE HAVE AS YOU KNOW, I'VE BEEN SAYING TO A LOT OF PEOPLE, WALMART SAID THAT THANKSGIVING THIS YEAR IS EXACTLY 25% LESS THAN LAST YEAR. SO THAT'S GOOD FOR NEW YORK, GOOD FOR EVERYBODY. BUT I JUST WANNA CONGRATULATE. I THINK YOU'RE GOING TO HAVE HOPEFULLY A REALLY GREAT MAYOR. THE BETTER HE DOES, THE HAPPIER I AM I WILL SAY. THERE'S NO DIFFERENCE IN PARTY, THERE'S NO DIFFERENCE IN ANYTHING AND WE'RE GONNA BE HELPING HIM TO MAKE EVERYBODY'S DREAM COME TRUE HAVING A STRONG AND VERY SAFE NEW YORK.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that he has had a \"very productive meeting\" with the NYC Mayor-elect, Zohran Mamdani. He congratulates Mamdani on his electoral victory, stating he ran an \"incredible race.\" Trump says they have common ground on issues like housing and lowering prices for food and oil. He claims his actions are good for New York, citing a Walmart report that Thanksgiving costs are down 25% from the previous year. He concludes by saying there is \"no difference in party\" and that his administration will help the new mayor have a \"strong and very safe New York.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of dialogue from Donald Trump. No music or other sound effects are audible.",
+  "editing_pacing": "The video is a single, static shot in a talking-head style, with no cuts, zooms, or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Bipartisanship",
+    "Reassurance",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump is working in a bipartisan manner with the new Democratic mayor of New York City, Zohran Mamdani, to improve the city and lower costs for its residents.",
+  "intended_effect": "To portray Trump as a unifying and effective leader who can work across the aisle for the good of American citizens.",
+  "uncertainty_flags": [
+    "The authoritative music ID service identified a specific track, but no music is audible in the video, only dialogue."
+  ]
+}

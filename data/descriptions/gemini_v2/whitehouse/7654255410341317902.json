@@ -1,0 +1,62 @@
+{
+  "video_id": "7654255410341317902",
+  "visual_action": "A fast-paced montage of clips. The video starts with a scene from \"High School Musical 2\" featuring Ashley Tisdale, followed by soccer player Christian Pulisic celebrating. The text \"everything changes\" appears on screen. This is followed by a rapid succession of images including fireworks at the Washington Monument, a bald eagle, a silhouette of Donald Trump in front of an American flag, Trump waving at a stadium, a person cliff diving, a character from \"The Office\" screaming, the San Francisco 49ers dancing, Joe Biden shadow boxing with young people, Trump dancing at a rally, Trump walking with UFC President Dana White in the Oval Office, fighter jets in formation, UFC fighter Justin Gaethje with an American flag, UFC fighter Sean O'Malley shaking hands with Trump, the US men's soccer team celebrating, and a final shot of Trump smiling while wearing a red hat that reads \"TRUMP WAS RIGHT ABOUT EVERYTHING!\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears in multiple clips throughout the montage, including dancing at a rally, at sporting events, and wearing a 'TRUMP WAS RIGHT ABOUT EVERYTHING!' hat. A voice clip of him saying 'Stand back' is also used."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in one brief clip shadow boxing with a group of young people."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "everything changes.",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENTIAL FITNESS TEST",
+      "role": "other"
+    },
+    {
+      "text": "TRUMP WAS RIGHT ABOUT EVERYTHING!",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video includes dialogue from 'High School Musical 2' ('But it's summer!', 'Everything changes.'), a clip of Donald Trump saying 'Stand back', and an unidentified female narrator saying, 'Talk about dancing to the beat of a different drum.'",
+  "emojis_present": [],
+  "audio_music": "An upbeat, high-energy pop-rock song ('Play My Music' by the Jonas Brothers) plays throughout the entire video, with short dialogue clips from various sources layered on top.",
+  "editing_pacing": "Very fast-paced montage with rapid cuts between dozens of short clips from movies, sports, and political events.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "patriotism",
+    "pride",
+    "energy",
+    "nostalgia",
+    "excitement"
+  ],
+  "cultural_references": [
+    "High School Musical 2 (featuring Sharpay Evans / Ashley Tisdale)",
+    "Christian Pulisic (US men's national soccer team)",
+    "Michael Scott (from the TV show 'The Office')",
+    "San Francisco 49ers (NFL team)",
+    "Dana White (UFC President)",
+    "Justin Gaethje (UFC fighter)",
+    "Sean O'Malley (UFC fighter)",
+    "Jonas Brothers (band whose song 'Play My Music' is used)"
+  ],
+  "central_claim": "The video portrays Donald Trump as a figure of energy, strength, and cultural relevance, associating him with patriotic imagery and American success to suggest his presidency would be a vibrant and powerful era for the country.",
+  "intended_effect": "To generate excitement and patriotic pride associated with Donald Trump, portraying him as a dynamic leader deeply connected to American culture and strength.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,62 @@
+{
+  "video_id": "7558102763545185591",
+  "visual_action": "Donald Trump, wearing a red 'USA' cap, a suit, and a red tie, speaks at a podium to an out-of-focus audience of people in what appear to be naval uniforms. The setting is outdoors during the day.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, shown in a static shot at a podium."
+    },
+    {
+      "name": "Osama bin Laden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Trump's entire story is about his claim to have warned about Osama bin Laden before the 9/11 attacks. He is mentioned by name multiple times in the audio and on-screen text."
+    },
+    {
+      "name": "Pete Hegseth",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump mentions him in passing, saying, \"But I said one year before to Pete Hegseth...\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: I wrote about Osama bin Laden exactly one year ago, one year before he blew up the World Trade Center",
+      "role": "overlay"
+    },
+    {
+      "text": "REMEMBER,",
+      "role": "caption"
+    },
+    {
+      "text": "OSAMA BIN LADEN EXACTLY ONE YEAR AGO,",
+      "role": "caption"
+    },
+    {
+      "text": "ONE YEAR BEFORE HE BLEW UP THE WORLD TRADE CENTER",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Donald Trump claims that he wrote about Osama bin Laden in a book \"exactly one year ago, one year before he blew up the World Trade Center.\" He says he warned people, including Pete Hegseth, to \"watch Osama bin Laden.\" He forgets the title of his book but insists it contains a page about his premonition. He states that because his warning was ignored, bin Laden attacked the World Trade Center a year later, and concludes that he should \"take a little credit\" for his foresight.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's voice as he gives a speech, with faint ambient noise from the crowd and environment. There is no music.",
+  "editing_pacing": "The video is a single, static shot of a talking head, with text overlays and dynamic captions added.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disbelief"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump predicted the 9/11 attacks by writing about Osama bin Laden in a book one year prior.",
+  "intended_effect": "To portray Donald Trump as incoherent and untruthful by highlighting a confusing and self-aggrandizing claim.",
+  "uncertainty_flags": []
+}

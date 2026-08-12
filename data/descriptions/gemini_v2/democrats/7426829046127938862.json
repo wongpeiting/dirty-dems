@@ -1,0 +1,143 @@
+{
+  "video_id": "7426829046127938862",
+  "visual_action": "The video starts with a clip of Donald Trump speaking to a female interviewer while seated on a stage. The video then transitions to a slideshow of portrait photos of nine different Republican politicians.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Shown speaking at the beginning of the video, where he says 'I'm the father of IVF.'"
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video displays a slideshow of Republican politicians under the on-screen text 'Republicans who voted against protecting IVF 😬'."
+    },
+    {
+      "name": "unnamed interviewer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is shown sitting opposite Donald Trump in the opening clip."
+    },
+    {
+      "name": "Roger Wicker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His portrait appears in the slideshow under the text 'Republicans who voted against protecting IVF 😬'."
+    },
+    {
+      "name": "Tim Scott",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His portrait appears in the slideshow under the text 'Republicans who voted against protecting IVF 😬'."
+    },
+    {
+      "name": "James Risch",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His portrait appears in the slideshow under the text 'Republicans who voted against protecting IVF 😬'."
+    },
+    {
+      "name": "Roger Marshall",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His portrait appears in the slideshow under the text 'Republicans who voted against protecting IVF 😬'."
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her portrait appears in the slideshow under the text 'Republicans who voted against protecting IVF 😬'."
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His portrait appears in the slideshow under the text 'Republicans who voted against protecting IVF 😬'."
+    },
+    {
+      "name": "Mike Crapo",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His portrait appears in the slideshow under the text 'Republicans who voted against protecting IVF 😬'."
+    },
+    {
+      "name": "Ted Budd",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His portrait appears in the slideshow under the text 'Republicans who voted against protecting IVF 😬'."
+    },
+    {
+      "name": "John Barrasso",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His portrait appears in the slideshow under the text 'Republicans who voted against protecting IVF 😬'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump thinks he's the father of IVF 😬",
+      "role": "overlay"
+    },
+    {
+      "text": "I'M",
+      "role": "overlay"
+    },
+    {
+      "text": "IVF",
+      "role": "overlay"
+    },
+    {
+      "text": "QUESTION",
+      "role": "overlay"
+    },
+    {
+      "text": "Republicans who voted against protecting IVF 😬",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump says, \"I'm the father of IVF. So I want to hear this question.\"",
+  "emojis_present": [
+    "😬"
+  ],
+  "audio_music": "The video begins with dialogue. At the 4-second mark, a jaunty, whistling, instrumental track begins playing over the slideshow of politicians. The music has a comical or mocking tone.",
+  "editing_pacing": "The video consists of a static shot of a conversation followed by a relatively fast-paced slideshow of still portrait photos.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval",
+    "irony"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's claim to be the 'father of IVF' is contradicted by the voting records of many Republican politicians who have voted against measures to protect IVF.",
+  "intended_effect": "To portray the Republican Party and Donald Trump as hypocritical and unreliable on the issue of reproductive rights, specifically IVF.",
+  "uncertainty_flags": [
+    "The provided face-ID list from the context contains names of politicians not seen in this clip (e.g., Chuck Grassley, Mitch McConnell), while the clip shows several politicians not on that list (e.g., Roger Wicker, Lindsey Graham). The cast list was populated based on visual evidence from the video itself."
+  ]
+}

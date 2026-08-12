@@ -1,0 +1,68 @@
+{
+  "video_id": "7642443069844950286",
+  "visual_action": "The video displays a series of black-and-white still images. First, a photo of Nicolás Maduro with the word 'ARRESTED' stamped over it in red. Second, a photo of Ali Khamenei with the word 'KILLED' stamped over it in red. The video then cuts to a black-and-white, slow-motion clip of Donald Trump walking confidently down a hallway, smiling.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A slow-motion, black-and-white clip shows Donald Trump walking down a hallway at the end of the video, positioning him as the agent behind the actions depicted."
+    },
+    {
+      "name": "Nicolás Maduro",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still image of him is shown with the text 'MADURO' underneath and 'ARRESTED' stamped across the photo."
+    },
+    {
+      "name": "Ali Khamenei",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A still image of him is shown with the text 'KHAMENEI' underneath and 'KILLED' stamped across the photo."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "ARRESTED",
+      "role": "overlay"
+    },
+    {
+      "text": "MADURO",
+      "role": "overlay"
+    },
+    {
+      "text": "KILLED",
+      "role": "overlay"
+    },
+    {
+      "text": "KHAMENEI",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The only audio is the lyrics from the Queen song 'Another One Bites the Dust,' which repeats.",
+  "emojis_present": [],
+  "audio_music": "The song 'Another One Bites the Dust' by Queen plays throughout the video. The iconic, bass-driven rock track creates a triumphant and assertive mood, reinforcing the visual theme of defeating successive enemies.",
+  "editing_pacing": "The video uses quick, percussive cuts for the images of Maduro and Khamenei, then switches to a dramatic slow-motion shot of Donald Trump walking.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The words 'ARRESTED' and 'KILLED' are superimposed in large, red, stamp-like text over photos of Nicolás Maduro and Ali Khamenei to assert that these actions have taken place.",
+  "emotions_signaled": [
+    "Triumph",
+    "Pride",
+    "Intimidation",
+    "Strength"
+  ],
+  "cultural_references": [
+    "The song 'Another One Bites the Dust' by the band Queen is used to frame the events as a series of victories."
+  ],
+  "central_claim": "Under Donald Trump's leadership, adversaries who threaten the U.S., such as Nicolás Maduro and Ali Khamenei, are being decisively eliminated.",
+  "intended_effect": "To make viewers feel proud of and confident in Donald Trump's strength and his administration's ability to deliver 'justice' to America's enemies.",
+  "uncertainty_flags": [
+    "The provided OCR text lists 'ABU-BILAL AL-MINUKI' and 'CASTRO', but images corresponding to these names were not visible in the clip provided, suggesting the analyzed clip may be a shorter version of the original post."
+  ]
+}

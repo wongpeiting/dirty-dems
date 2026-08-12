@@ -1,0 +1,87 @@
+{
+  "video_id": "7621705963841588493",
+  "visual_action": "The video cycles through four keyframes styled as a retro baseball video game featuring a cartoon caricature of Donald Trump. Frame 1: A character-select/player card screen on a green background showing a stylized illustrated portrait of Trump wearing a red MAGA hat, navy suit, and red tie with arms crossed, set against a baseball diamond backdrop. Below is a stats card with his name, nickname, birthday, a biographical blurb, and baseball skill ratings in Batting, Running, Pitching, and Fielding (each rated with baseball icons). A \"PRESS START\" prompt appears at the bottom. Frame 2: An in-game baseball field view — the Trump cartoon character stands at left in his MAGA hat and suit holding a bat, with a field mini-map in the upper left; a scoreboard at the bottom shows \"Wombats 0\" vs \"Giants 0.\" Frame 3: The Trump cartoon character is shown at home plate in batting stance, wearing the MAGA hat, holding a bat, facing a child pitcher on the mound, with fielders scattered; the bottom HUD reads \"AT BAT:\" and \"BALLS\" with a count, and \"President Dona[ld].\" Frame 4: A dark, nearly black screen showing a Marine One helicopter silhouette taking off, overlaid with the official White House logo and text \"THE WHITE HOUSE.\"",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Player card reads 'PRESIDENT DONALD J. TRUMP'; cartoon caricature is visually identifiable by MAGA hat, blonde hair, and suit"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Final frame shows official White House logo and text 'THE WHITE HOUSE'; account is @whitehouse"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAKE AMERICA\nGREAT AGAIN",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT\nDONALD J. TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "Nickname: POTUS, 45-47\nBirthday: 6/14\nPresident Trump is here to SAVE\nAMERICA.\nOh, and he can crush the ball too.",
+      "role": "overlay"
+    },
+    {
+      "text": "SKILL RATINGS:\nBATTING 🎾🎾🎾🎾\nRUNNING 🎾🎾🎾🎾\nPITCHING 🎾🎾🎾🎾\nFIELDING 🎾🎾🎾🎾",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESS START",
+      "role": "overlay"
+    },
+    {
+      "text": "Wombats 0\nGiants 0",
+      "role": "overlay"
+    },
+    {
+      "text": "AT BAT: BALLS President Dona",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio plays \"Y.M.C.A.\" — specifically the chorus line \"It's fun to stay at the Y.M.C.A.\" — which is a signature song associated with Donald Trump's campaign rallies.",
+  "emojis_present": [
+    "🦅",
+    "🇺🇸",
+    "⚾️"
+  ],
+  "audio_music": "\"Y.M.C.A.\" by Village People (chorus: \"It's fun to stay at the Y.M.C.A.\") — used as Trump's signature rally anthem, energetic and celebratory in tone.",
+  "editing_pacing": "Slideshow-style with slow transitions between four static keyframes; no fast cuts. Mimics a retro video game aesthetic throughout, ending on an official White House branding frame.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video features AI-generated or digitally illustrated cartoon caricatures of Donald Trump inserted into a retro baseball video game interface — Trump is depicted as a playable character complete with a player card, skill ratings, and in-game batting scenes. This is deliberate creative/satirical digital fabrication produced by the White House social media team for promotional effect, not organic game footage.",
+  "emotions_signaled": [
+    "excitement/celebration — 'Opening Day' framing combined with upbeat Y.M.C.A. audio",
+    "pride/patriotism — MAGA hat, American flag emoji in caption, White House branding",
+    "playful nostalgia — retro baseball video game visual style",
+    "confidence/strength — player card describes Trump as saving America and having max skill ratings"
+  ],
+  "cultural_references": [
+    "Y.M.C.A. by the Village People — Trump's signature rally song",
+    "Retro baseball video game aesthetic (evocative of Backyard Baseball or early 90s sports games)",
+    "MLB Opening Day tradition",
+    "MAGA hat as signature political symbol",
+    "POTUS 45-47 — reference to Trump's non-consecutive presidential terms"
+  ],
+  "central_claim": "President Trump is playfully cast as an all-star baseball player in a retro video game, framing MLB Opening Day as a celebration of his presidency.",
+  "intended_effect": "Viewers are meant to feel enthusiasm, patriotism, and fun — associating Trump and the White House with the festive energy of Opening Day baseball.",
+  "uncertainty_flags": [
+    "The exact video game being referenced or spoofed (Backyard Baseball or similar) is not confirmed — it is an apparent original creation styled after retro sports games",
+    "Skill rating icons were difficult to read precisely in OCR — they appear to be baseball icons",
+    "The bottom scoreboard team names ('Wombats' vs 'Giants') may have additional significance not immediately clear",
+    "Small text at the bottom of the White House frame was unreadable in the provided keyframe"
+  ]
+}

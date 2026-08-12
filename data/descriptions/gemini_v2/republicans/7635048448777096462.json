@@ -1,0 +1,76 @@
+{
+  "video_id": "7635048448777096462",
+  "visual_action": "Alexandria Ocasio-Cortez is interviewed outdoors under an umbrella by an off-screen person from TMZ. After she speaks, the video cuts to a rapid montage of photos of Barack Obama. The photos have sparkly visual effects, and one image of Obama has his face distorted with a warp filter.",
+  "cast": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is shown speaking the line, \"we don't know if we've already had a gay president,\" which sets up the video's punchline."
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "A montage of his photos is shown immediately after Alexandria Ocasio-Cortez's comment, implying she is referring to him."
+    },
+    {
+      "name": "TMZ",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The \"TMZ\" logo is prominently displayed on screen during the interview segment."
+    },
+    {
+      "name": "Unnamed interviewer",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks the question, \"Are we gonna have a female president first or a gay president?\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TMZ",
+      "role": "overlay"
+    },
+    {
+      "text": "are we gonna have a female president first or a gay president",
+      "role": "overlay"
+    },
+    {
+      "text": "we don't know if we've already had a gay president",
+      "role": "overlay"
+    },
+    {
+      "text": "@tmz",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "An interviewer asks Alexandria Ocasio-Cortez, \"Are we gonna have a female president first or a gay president?\" She smiles and replies, \"Well, we don't know if we've already had a gay president.\" The audio then cuts to a pop song with the lyric, \"I just wanna be part of your symphony.\"",
+  "emojis_present": [
+    "👀"
+  ],
+  "audio_music": "The first part of the video contains only dialogue. Following Alexandria Ocasio-Cortez's line, the audio abruptly switches to the upbeat, celebratory pop song \"Symphony\" by Clean Bandit and Zara Larsson, which plays over the montage of Barack Obama. The music is used to create a dramatic and mocking effect.",
+  "editing_pacing": "The video starts with a single, static shot of an interview and then cuts to a fast-paced montage of still photos with added visual effects.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "In the montage, one photo of Barack Obama is digitally altered with a warp or liquify filter on his mouth and chin, creating a distorted, comical expression. The montage also has sparkling glitter effects overlaid on the images.",
+  "emotions_signaled": [
+    "mockery",
+    "humor",
+    "insinuation"
+  ],
+  "cultural_references": [
+    "The video is an interview clip from the celebrity news outlet TMZ.",
+    "The song \"Symphony\" by Clean Bandit and Zara Larsson is used as the soundtrack for the montage."
+  ],
+  "central_claim": "The post uses a statement by Alexandria Ocasio-Cortez to imply that former President Barack Obama was gay.",
+  "intended_effect": "To mock both Barack Obama and Alexandria Ocasio-Cortez by using her words to promote a humorous insinuation about his sexuality.",
+  "uncertainty_flags": []
+}

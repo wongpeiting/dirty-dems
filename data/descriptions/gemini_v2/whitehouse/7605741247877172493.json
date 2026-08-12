@@ -1,0 +1,127 @@
+{
+  "video_id": "7605741247877172493",
+  "visual_action": "The video is presented in a split-screen format. The top half displays a screenshot of a tweet from an account named 'FactPost', which claims that Pam Bondi refused to look at Epstein survivors during a hearing. Below the tweet, white text on a black bar reads 'Democrats spreading fake news again...'. The bottom half of the screen shows video footage of Pam Bondi speaking at a hearing from behind a desk with a nameplate that reads 'ATTORNEY GENERAL BONDI'. The video concludes with a black and white montage of the White House and a helicopter, with the words 'THE WHITE HOUSE' displayed on screen.",
+  "cast": [
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the main speaker in the video, identified by face and a nameplate on her desk."
+    },
+    {
+      "name": "Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text says 'Democrats spreading fake news again...'"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Mentioned in the on-screen tweet ('Epstein survivors', 'Epstein files') and referred to in the audio as 'that monster' and by name."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Praised by name in the audio: 'Donald Trump signed that law to release all of those documents. He is the most transparent president in the nation's history.'"
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A tweet from the account 'FactPost' (@factpostnews) is shown on screen, which the video refutes."
+    },
+    {
+      "name": "Epstein survivors",
+      "kind": "unknown",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "Mentioned in the on-screen tweet and acknowledged by Pam Bondi at the start of her speech. They are also shown in the photo within the tweet."
+    },
+    {
+      "name": "Department of Justice",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Pam Bondi says, 'The Department of Justice is committed to holding criminals accountable...'"
+    },
+    {
+      "name": "FBI",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Pam Bondi states, 'In 2025, the FBI arrested over 1700 child predators...'"
+    },
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Referenced via his administration: 'This has been around since the Obama administration.'"
+    },
+    {
+      "name": "unnamed ranking member",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Pam Bondi says, '...despite what the ranking member said...'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews · 2h",
+      "role": "overlay"
+    },
+    {
+      "text": "Pam Bondi refuses to look at Epstein survivors during a hearing on the Epstein files.",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrats spreading fake news again...",
+      "role": "overlay"
+    },
+    {
+      "text": "ATTORNEY GENERAL\nBONDI",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Pam Bondi acknowledges the 'Epstein survivors' present at a hearing. She defends her record as a 'career prosecutor' who has spent her career 'fighting for victims'. She expresses sorrow for what any victim has been through, especially from 'that monster' (Epstein). Bondi then cites 2025 statistics, claiming the FBI arrested over 1700 child predators and shut down 3.8 million 'dark web pedophile accounts'. She contrasts this with the past, stating the Epstein case 'has been around since the Obama administration' and that the current administration released over 3 million documents because 'Donald Trump signed that law'. She concludes by calling Trump 'the most transparent president in the nation's history'.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Pam Bondi's spoken testimony in what sounds like a formal hearing room. There is no music or other sound effects.",
+  "editing_pacing": "The video uses a static split-screen for most of its duration, juxtaposing a screenshot of a tweet with a talking-head video. It concludes with a brief, slow-paced montage of black-and-white clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Sympathy",
+    "Pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "The accusation that Pam Bondi ignored Epstein survivors is 'fake news' spread by Democrats; in reality, she and the Trump administration are aggressively prosecuting child predators and are more transparent than past administrations.",
+  "intended_effect": "To persuade the viewer that Democrats are dishonest, while positioning Pam Bondi and Donald Trump as strong advocates for justice and victims of abuse.",
+  "uncertainty_flags": [
+    "The identity and nature of the 'FactPost' account are not specified.",
+    "The identity of the 'ranking member' mentioned by Pam Bondi is unknown.",
+    "The specific hearing where this testimony took place is not identified."
+  ]
+}

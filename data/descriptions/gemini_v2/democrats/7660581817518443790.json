@@ -1,0 +1,62 @@
+{
+  "video_id": "7660581817518443790",
+  "visual_action": "A montage of clips featuring Donald Trump. It alternates between clips of him dancing with his fists up on an airport tarmac and on a campaign stage, and still, more serious photos of him. Text overlays with statistics appear over the still photos.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Donald Trump is the subject of every clip and photo in the video."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'VANCE' appears on the campaign branding 'TRUMP VANCE 2024' in the background of a clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "don't you wish\nyou changed your past?",
+      "role": "overlay"
+    },
+    {
+      "text": "8 million more Americans\nwithout healthcare",
+      "role": "overlay"
+    },
+    {
+      "text": "2.5 million more children\nwithout food assistance",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP VANCE 2024",
+      "role": "chyron"
+    },
+    {
+      "text": "TEXT TRUMP TO 88022",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A male voice sings the line, \"don't you wish you changed your past?\" repeatedly over a hip-hop beat. There is no other dialogue.",
+  "emojis_present": [],
+  "audio_music": "A continuous hip-hop/trap beat plays throughout. A male voice sings \"Don't you wish you changed your past?\" over the music. The tone is melancholic and is used to cast a sense of regret or judgment over the visuals of Trump and the accompanying negative statistics.",
+  "editing_pacing": "A quick-cut montage alternating between different video clips and still images.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "concern"
+  ],
+  "cultural_references": [
+    "The audio uses a popular TikTok sound format, juxtaposing a song lyric with visuals to make a point. The fingerprinted music is 'Mia Khalifa' by iLOVEFRiDAY, a viral diss track, while the audible lyrics, 'Don't you wish you changed your past?', are from the song 'Past' by the artist ZAYN."
+  ],
+  "central_claim": "Donald Trump's presidency resulted in negative outcomes for millions of Americans regarding healthcare and food security, which are presented as a regrettable past.",
+  "intended_effect": "To persuade viewers that Trump's presidency was harmful and to generate negative feelings towards him, framing his past actions as something he should regret.",
+  "uncertainty_flags": [
+    "The fingerprinted audio track is 'Mia Khalifa' by iLOVEFRiDAY, but the audible sung lyrics are 'Don't you wish you changed your past?', which appear to be from the song 'Past' by ZAYN. This is likely a TikTok sound mashup or meme format."
+  ]
+}

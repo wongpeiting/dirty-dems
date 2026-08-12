@@ -1,0 +1,64 @@
+{
+  "video_id": "7127840279779937582",
+  "visual_action": "A young man with dark, wavy hair, wearing a blue sweater over a green t-shirt, sits at a desk and looks at the camera. He performs a brief skit where he appears to be reacting to news. First, he sits still as text appears over him. Then, he looks up and around thoughtfully before looking back at the camera as new text appears, silently mouthing the words.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states, 'President Biden nominated...'"
+    },
+    {
+      "name": "Ketanji Brown Jackson",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to 'the first Black woman to sit on the Supreme Court' and uses her initials in 'KBJ slays.'"
+    },
+    {
+      "name": "unnamed man",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The man who appears on screen throughout the video and silently mouths the final line."
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text states, '...sit on the Supreme Court.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "President Biden nominated the first Black woman to sit on the Supreme Court.",
+      "role": "overlay"
+    },
+    {
+      "text": "KBJ slays.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no audible spoken dialogue. A man on screen silently mouths the words 'KBJ slays.' as they appear on screen. The video's narrative is conveyed through on-screen text and music.",
+  "emojis_present": [],
+  "audio_music": "A continuous, grand-sounding orchestral track plays throughout the video, creating a sense of importance and gravitas.",
+  "editing_pacing": "The video consists of a single, static shot of a person at a desk.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "admiration"
+  ],
+  "cultural_references": [
+    "The term 'slays' is used, which is a popular slang term expressing strong approval or that someone is doing an exceptional job."
+  ],
+  "central_claim": "President Biden's historic nomination of Ketanji Brown Jackson, the first Black woman on the Supreme Court, is an admirable and praiseworthy achievement.",
+  "intended_effect": "To generate pride and approval for President Biden's judicial nomination and for Justice Ketanji Brown Jackson herself.",
+  "uncertainty_flags": []
+}

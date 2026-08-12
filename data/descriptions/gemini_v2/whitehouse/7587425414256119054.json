@@ -1,0 +1,95 @@
+{
+  "video_id": "7587425414256119054",
+  "visual_action": "A montage of scenes from the 2025 Kennedy Center Honors, presented as being hosted by President Donald Trump. The video shows Trump and Melania Trump on the red carpet, Trump speaking at a podium on a grand stage, and both watching from a presidential box in a theater. The event features various honorees, including individuals resembling Sylvester Stallone, Gloria Gaynor, George Strait, and members of the band KISS, who are shown receiving applause, performing, or being celebrated. The video ends with a title card for \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Shown throughout the video on the red carpet, speaking at a podium, and in the audience. The event is named 'THE TRUMP KENNEDY CENTER HONORS' in the caption."
+    },
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown on the red carpet and in the audience alongside Donald Trump."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible in the audience clapping in several shots."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The post is from the @whitehouse account and ends with a 'THE WHITE HOUSE' title card, framing the event as an official presidential function."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "KENNEDY CENTER HONORS",
+      "role": "overlay"
+    },
+    {
+      "text": "The Kennedy Center HONORS",
+      "role": "other"
+    },
+    {
+      "text": "CBS",
+      "role": "other"
+    },
+    {
+      "text": "KISS",
+      "role": "overlay"
+    },
+    {
+      "text": "2025\nGeorge Strait\nKISS\nMichael Crawford\nGloria Gaynor\nSylvester Stallone",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    },
+    {
+      "text": "Legends - THE TRUMP KENNEDY CENTER HONORS 🔥",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "The audio consists of a song with the lyrics, \"Mmm, yeah... Tonight I wanna give it all to you.\" There is no dialogue or speech from the event itself.",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "An upbeat, high-energy rock anthem with a driving beat, electric guitar, and male vocals plays throughout the video, creating a celebratory and hype-filled atmosphere.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between various scenes, including red carpet arrivals, stage performances, audience reactions, and speakers at a podium.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "celebration",
+    "admiration"
+  ],
+  "cultural_references": [
+    "Kennedy Center Honors",
+    "George Strait",
+    "KISS",
+    "Michael Crawford",
+    "Gloria Gaynor",
+    "Sylvester Stallone",
+    "CBS"
+  ],
+  "central_claim": "The Trump administration hosted the 2025 Kennedy Center Honors, celebrating a new group of legendary American artists.",
+  "intended_effect": "To generate excitement and positive association for the Trump presidency by showcasing its role in celebrating beloved American cultural figures.",
+  "uncertainty_flags": [
+    "Uncertain whether the individuals depicted as the celebrity honorees (Sylvester Stallone, Gloria Gaynor, George Strait, members of KISS) are the actual celebrities or actors, although they bear a strong resemblance."
+  ]
+}

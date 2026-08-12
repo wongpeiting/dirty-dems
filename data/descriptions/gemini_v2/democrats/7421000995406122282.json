@@ -1,0 +1,65 @@
+{
+  "video_id": "7421000995406122282",
+  "visual_action": "A split-screen view shows Tim Walz and JD Vance at what appears to be a debate. The chyron identifies it as the 'VICE PRESIDENTIAL DEBATE' on CBS News. Tim Walz, on the right, is speaking directly to the camera. JD Vance, on the left, is listening. Text is overlaid on the video, including a quote from Walz at the top and large, yellow, animated words at the bottom that synchronize with his speech.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "Identified by face-ID and is the sole speaker in the video. An on-screen text overlay also attributes a quote to 'Tim Walz'."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face-ID, shown on the left side of the split screen listening to Tim Walz speak."
+    },
+    {
+      "name": "CBS NEWS",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The CBS NEWS logo and name appear in the chyron at the bottom of the screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Tim Walz: “We are pro-women. We are pro-freedom to make your own choice.”",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE @CBS NEWS ... VICE PRESIDENTIAL DEBATE",
+      "role": "chyron"
+    },
+    {
+      "text": "For @CBS NEWS CONFIRMED ✅ FACT CHECKS, visit cbsnews.com",
+      "role": "chyron"
+    },
+    {
+      "text": "PRO WE'RE FREEDOM CHOICE THE TO THAT HAVING MISCARRIAGES NOT FEELING BE FOR CARE FAR THAT CHILDREN OPTIONS MINNESOTA'S LOWEST RATES UNDERSTAND WE OPTIONS AVAILABLE TRUE ALSO THREE STATE TO CHILDREN THINGS SAY PRO DON'T OR ABORTION CASE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Tim Walz states, \"We are pro-women. We are pro-freedom to make your own choice.\" He argues that restricting this freedom leads to negative consequences, such as women with miscarriages being denied care and doctors fearing prosecution. He promotes his state, Minnesota, as a model, citing its low teen pregnancy rates and its status as a top state to raise children, attributing these successes to providing comprehensive options. Walz refutes the characterization that being pro-choice is equivalent to being \"pro-abortion.\"",
+  "emojis_present": [
+    "✅"
+  ],
+  "audio_music": "The audio consists entirely of clear, unaltered speech from Tim Walz during a debate. There is no accompanying music or sound effects.",
+  "editing_pacing": "The video uses a static, split-screen shot from a debate. The primary editing technique is the use of text overlays: a quote at the top of the screen, and a sequence of large, yellow, capitalized words appearing at the bottom, timed to Walz's speech to add emphasis.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Earnestness",
+    "Concern",
+    "Confidence"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Democratic pro-choice stance is fundamentally pro-woman, pro-freedom, and beneficial for families and society.",
+  "intended_effect": "To frame the Democratic position on reproductive rights as compassionate, sensible, and beneficial, thereby persuading viewers of its merits.",
+  "uncertainty_flags": []
+}

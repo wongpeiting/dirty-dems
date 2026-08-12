@@ -1,0 +1,81 @@
+{
+  "video_id": "7629529112532569357",
+  "visual_action": "The video is a short slideshow celebrating an election victory. It begins with a graphic styled like a news broadcast, announcing 'KEY RACE CALL' and stating that 'ANALILIA MEJÍA WINS NEW JERSEY 11TH SPECIAL ELECTION'. A photo of Analilia Mejía is shown with the text 'PROJECTED WINNER'. The video then cuts to a screenshot of a tweet from an account named 'FactPost', which reiterates that Democrat Analilia Mejía has won the special election, showing her photo next to one of the U.S. Capitol building.",
+  "cast": [
+    {
+      "name": "Analilia Mejía",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Her name and photograph are featured prominently in both the 'KEY RACE CALL' graphic and the tweet screenshot, identifying her as the winner of the election."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name 'FactPost' and handle '@factpostnews' are displayed on the tweet screenshot shown in the video."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Analilia Mejía is identified with a '(D)' next to her name and is called a 'Democrat' in the on-screen text."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "KEY RACE CALL",
+      "role": "chyron"
+    },
+    {
+      "text": "ANALILIA MEJÍA WINS NEW JERSEY 11TH SPECIAL ELECTION",
+      "role": "overlay"
+    },
+    {
+      "text": "✅ANALILIA MEJÍA (D)",
+      "role": "overlay"
+    },
+    {
+      "text": "PROJECTED WINNER",
+      "role": "chyron"
+    },
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Democrat Analilia Mejía wins the special election for New Jersey's 11th Congressional District.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video, only music.",
+  "emojis_present": [
+    "✅"
+  ],
+  "audio_music": "An upbeat, triumphant pop track ('Colors' by Halsey) plays throughout the video, creating a celebratory mood consistent with an election victory announcement.",
+  "editing_pacing": "The video is a simple slideshow, with a single cut from one static graphic to a second static graphic (a tweet screenshot).",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Triumph",
+    "Celebration",
+    "Pride"
+  ],
+  "cultural_references": [
+    "Halsey"
+  ],
+  "central_claim": "Democrat Analilia Mejía has won the special election for New Jersey's 11th Congressional District.",
+  "intended_effect": "To inform supporters of a Democratic electoral victory and generate feelings of celebration and success.",
+  "uncertainty_flags": [
+    "It is unclear whether 'FactPost' is a real, independent news organization or a brand created by the ad makers to present the information."
+  ]
+}

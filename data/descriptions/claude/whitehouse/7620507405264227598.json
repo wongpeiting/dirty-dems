@@ -1,0 +1,81 @@
+{
+  "video_id": "7620507405264227598",
+  "visual_action": "The video opens with two wide-angle shots of a massively overcrowded airport interior — long queues of travelers packed wall-to-wall, with numbered baggage carousels visible and a \"Park ATL\" sign, suggesting Hartsfield-Jackson Atlanta International Airport. The footage then transitions to a series of still photos of Senator Chuck Schumer in various official/press settings (suit, tie, glasses), each digitally altered so that a large, colorful Mexican sombrero hat has been superimposed on top of his head. Multiple different source photos of Schumer are used — a formal portrait, a press conference waving his hand, a hallway speech with another man visible behind him (possibly Cory Booker), a podium speech — all with the sombrero edit. The final frame is a black screen. Throughout, single words from the audio lyrics flash on screen as animated captions.",
+  "cast": [
+    {
+      "name": "Chuck Schumer",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Caption reads '@Chuck Schumer is the problem'; his recognizable face (red/dark-framed glasses, distinctive features) appears across multiple frames with sombreros superimposed"
+    },
+    {
+      "name": "unnamed senator (possibly Cory Booker)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A bald Black man in a suit is visible standing behind Schumer in one press-conference frame"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DAY",
+      "role": "overlay"
+    },
+    {
+      "text": "SCHEMING",
+      "role": "overlay"
+    },
+    {
+      "text": "ME",
+      "role": "overlay"
+    },
+    {
+      "text": "HI",
+      "role": "overlay"
+    },
+    {
+      "text": "THE",
+      "role": "overlay"
+    },
+    {
+      "text": "ME",
+      "role": "overlay"
+    },
+    {
+      "text": "FIRST CHECKED BAG FLIES",
+      "role": "caption"
+    },
+    {
+      "text": "Park ATL",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio is a pop/indie song. Audible lyrics synchronized with the word overlays include: \"one day I'll watch as you're leaving / 'cause you got tired of my scheming / for the last time / it's me, I, I'm the problem, it's me / at tea time, everybody agrees.\" The word overlays (\"DAY,\" \"SCHEMING,\" \"ME,\" \"HI,\" \"THE,\" \"ME\") are timed to pop on screen matching the lyric words, so \"I'm the problem, it's me\" and \"scheming\" are highlighted visually during the Schumer shots. The caption text \"Hi, @Chuck Schumer is the problem 👋\" reframes the lyric's self-referential \"I'm the problem\" as a statement directed at Schumer.",
+  "emojis_present": [
+    "👋"
+  ],
+  "audio_music": "A mainstream pop song (Taylor Swift's \"Anti-Hero\" — \"It's me, hi, I'm the problem, it's me\") plays as the original audio track. The lyric \"I'm the problem, it's me\" is the emotional and rhetorical centerpiece, applied to Schumer via caption and lyric overlay timing.",
+  "editing_pacing": "Fast-cut slideshow style. The airport footage plays as short B-roll clips. The Schumer sombrero images cut rapidly in sync with the song's beat/lyrics, with individual words flashing on screen matching lyric timing. Ends on a black frame.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Multiple still photographs of Senator Chuck Schumer have been digitally edited to superimpose colorful Mexican sombrero hats onto his head across at least four distinct source photos. The sombreros are not present in any original image of Schumer; they have been added via photo editing to visually associate him with Mexican/Latin American immigration symbolism for mocking effect, in combination with the airport overcrowding footage and the \"I'm the problem\" lyric.",
+  "emotions_signaled": [
+    "mockery — sombrero superimposed on Schumer in multiple photos for comic/derisive effect",
+    "frustration — overcrowded airport footage used to imply a systemic problem",
+    "ridicule — 'I'm the problem, it's me' lyric redirected at Schumer via caption"
+  ],
+  "cultural_references": [
+    "Taylor Swift — 'Anti-Hero' (2022): 'It's me, hi, I'm the problem, it's me' — the viral self-deprecating lyric is redirected as an accusation",
+    "Sombrero as a visual shorthand for immigration/Mexico in American political meme culture"
+  ],
+  "central_claim": "Chuck Schumer is the cause of a problem (implied: airport overcrowding or immigration-related chaos), illustrated by redirecting the self-deprecating pop lyric \"I'm the problem, it's me\" at him while showing him with a digitally added sombrero.",
+  "intended_effect": "Viewers are meant to laugh at and blame Schumer — associating him with immigration (via the sombrero prop) and with the overcrowded airport scenes — while the viral song hook makes the mockery shareable.",
+  "uncertainty_flags": [
+    "The specific event or policy the airport overcrowding footage refers to is not identified in the video — could be a holiday travel crunch, a specific disruption, or general immigration-themed imagery",
+    "The identity of the man standing behind Schumer in one frame is uncertain — face partially visible, consistent with Cory Booker but not confirmed",
+    "The exact date of the airport footage is unknown",
+    "Account is listed as @whitehouse, which would make this an official White House social media post; this is notable but taken as ground truth per instructions"
+  ]
+}

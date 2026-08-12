@@ -1,0 +1,152 @@
+{
+  "video_id": "7642114486664482079",
+  "visual_action": "The video is a montage of clips from a Fox News broadcast. It shows news anchors in a studio setting, footage of political candidate Graham Platner at a rally with Elizabeth Warren, and at a protest with a megaphone. The video also displays a screenshot of a Reddit post attributed to Platner, which contains a lengthy, critical comment about a US soldier.",
+  "cast": [
+    {
+      "name": "Graham Platner",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "His name appears in the on-screen text overlay (\"Dem candidate Graham Platner\") and in Fox News chyrons. He is shown in various video clips."
+    },
+    {
+      "name": "Unnamed Purple Heart recipient",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The post's central conflict revolves around comments made about a \"Purple Heart recipient\" who is described as a \"wounded U.S. soldier\" in the audio."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to Platner as a \"Dem candidate\" and the caption states \"Democrats are still endorsing this POS.\""
+    },
+    {
+      "name": "Elizabeth Warren",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": false,
+      "evidence": "The narrator states that Graham Platner is \"backed by Elizabeth Warren.\" She is also shown on screen hugging Platner at a rally."
+    },
+    {
+      "name": "John Roberts",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A Fox News anchor, shown speaking at the beginning of the broadcast clip. He is addressed as 'John' in the audio."
+    },
+    {
+      "name": "Molly Line",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A Fox News correspondent shown giving a report. Her name, 'MOLLY LINE', appears on a chyron and she is addressed as 'Molly' in the audio."
+    },
+    {
+      "name": "Taliban",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Mentioned in the audio as the opposing force in a \"Taliban firefight\" where the soldier was wounded."
+    },
+    {
+      "name": "The Maine Monitor",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Credited on the Reddit screenshot with the text \"OBTAINED BY THE MAINE MONITOR\" and mentioned by name in the audio."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and branding are visible throughout the video on the chyrons and screen graphics."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Dem candidate Graham Platner say a Purple Heart recipient\"didn't deserve to live.\"",
+      "role": "overlay"
+    },
+    {
+      "text": "LIVE",
+      "role": "chyron"
+    },
+    {
+      "text": "AMERICA REPORTS",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS",
+      "role": "chyron"
+    },
+    {
+      "text": "CUBAN EXILE ON CASTRO INDICTMENT: IT MEANS JUSTICE",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS DEMOCRACY '26",
+      "role": "chyron"
+    },
+    {
+      "text": "RESURFACED POSTS MOCKING SOLDIER SPARK OUTRAGE",
+      "role": "chyron"
+    },
+    {
+      "text": "MAINE DEM ACCUSED OF MOCKING WAR HERO ONLINE",
+      "role": "chyron"
+    },
+    {
+      "text": "r/CombatFootage",
+      "role": "other"
+    },
+    {
+      "text": "Old footage of US soldier taking machine gun fire in Afghanistan 2012",
+      "role": "other"
+    },
+    {
+      "text": "P-HUSTLE'S COMMENT",
+      "role": "other"
+    },
+    {
+      "text": "THIS VIDEO NEVER GETS OLD DUMB MOTHERF***** DIDN'T DESERVE TO LIVE. AT LEAST HIS STUPIDITY AND FAT ASS WHEEZING ARE AVAILABLE FOR ALL FUTURE INFANTRYMEN TO WITNESS AND HOLD IN CONTEMPT. POOR MARKSMANSHIP ON THE TALIBAN'S PART IS THE ONLY REASON THIS MOUTHBREATHER MADE IT HOME. HE MANAGED TO MAKE EVERY POSSIBLE SHIT DECISION POSSIBLE WHEN IT COMES TO SMALL UNIT COMBAT.",
+      "role": "other"
+    },
+    {
+      "text": "OBTAINED BY THE MAINE MONITOR",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "A Fox News report details accusations against Graham Platner, a Democratic candidate for the Maine Senate backed by Elizabeth Warren. He is reportedly under fire for old, deleted Reddit posts in which he mocked a wounded U.S. soldier and Purple Heart recipient. One post allegedly stated, \"the soldier didn't deserve to live.\" The report notes that Platner has acknowledged making remarks under the Reddit username \"P. Hustle.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of a news report with clear dialogue. Underneath the dialogue, there is a low, ominous, and suspenseful musical score playing throughout, creating a serious and dramatic tone.",
+  "editing_pacing": "The video is a montage of clips from a television news broadcast, cutting between news anchors, B-roll footage of the candidate, and a static screenshot of a Reddit comment. The pacing is that of a typical news package.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "outrage",
+    "disgust"
+  ],
+  "cultural_references": [
+    "Reddit"
+  ],
+  "central_claim": "Democratic Maine Senate candidate Graham Platner is unfit for office because he cruelly mocked a wounded Purple Heart recipient online, stating the soldier \"didn't deserve to live.\"",
+  "intended_effect": "To generate disgust and outrage toward Graham Platner and the Democratic party for supporting him.",
+  "uncertainty_flags": []
+}

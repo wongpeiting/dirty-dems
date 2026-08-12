@@ -1,0 +1,56 @@
+{
+  "video_id": "7647611314084351245",
+  "visual_action": "A static screenshot of a tweet from an account named \"FactPost\". The tweet text describes a dangerous flesh-eating maggot in Texas and blames Donald Trump for its spread. Below the text are two images: a photo of Donald Trump next to an American flag, and a close-up, unsettling photo of a pile of maggots.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is pictured on the left, and the on-screen text names him directly: \"Last year, Trump ousted thousands of key staff...\""
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The tweet is attributed to the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "A highly dangerous maggot that eats the living flesh of pets, livestock, and humans has been discovered in Texas.",
+      "role": "overlay"
+    },
+    {
+      "text": "Last year, Trump ousted thousands of key staff from the office dedicated to preventing the spread of dangerous pests.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video; it consists entirely of a static image with musical accompaniment.",
+  "emojis_present": [],
+  "audio_music": "The video features a dramatic, ominous, and tense orchestral score throughout, identified as 'Paul's Dream' by Hans Zimmer. The music aims to create a feeling of dread and seriousness.",
+  "editing_pacing": "The video is a single, static image with no cuts, motion, or editing effects.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video presents a screenshot of a purported tweet. This format could be considered a 'staged document' if the tweet or the 'FactPost' account is fabricated to present the claim. The name 'FactPost' appears satirical, mimicking a fact-checking organization.",
+  "emotions_signaled": [
+    "Fear",
+    "Disgust",
+    "Alarm",
+    "Anger"
+  ],
+  "cultural_references": [
+    "The background music is 'Paul's Dream' by Hans Zimmer, a prominent piece from the soundtrack of the 2021 film 'Dune'."
+  ],
+  "central_claim": "Donald Trump is responsible for the emergence of a dangerous flesh-eating maggot in Texas because he fired key government staff tasked with preventing such threats.",
+  "intended_effect": "To instill fear and disgust about the maggot infestation and to direct blame and anger towards Donald Trump for his alleged role in causing it.",
+  "uncertainty_flags": [
+    "It is not possible to determine from the video alone whether the 'FactPost' tweet is a genuine screenshot or a fabricated image created for the post."
+  ]
+}

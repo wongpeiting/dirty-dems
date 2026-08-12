@@ -1,0 +1,79 @@
+{
+  "video_id": "7619031736239934733",
+  "visual_action": "A static image of a tweet from 'FactPost' is shown. The tweet criticizes Donald Trump for 'bragging' about '$180,000 \"rare Trump sneakers\" on sale in Saudi Arabia'. The tweet contains an embedded image, which appears to be a screenshot of a social media post from Donald J. Trump's account. The video then zooms into this embedded image, which shows a pair of gold-colored high-top sneakers on a display stand at a convention. Text on this image reads 'RARE TRUMP SNEAKERS LISTED FOR $180K AT SNEAKER CON IN RIYADH'. A separate text overlay 'wtf...' appears over this second view.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text names 'Trump' and shows a purported social media post from 'Donald J. Trump @realDonaldTrump'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video displays a tweet from the account 'FactPost @factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost",
+      "role": "overlay"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump was on Truth Social this morning bragging about $180,000 \"rare Trump sneakers\" on sale in Saudi Arabia",
+      "role": "overlay"
+    },
+    {
+      "text": "Donald J. Trump",
+      "role": "overlay"
+    },
+    {
+      "text": "@realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "RARE TRUMP SNEAKERS LISTED FOR $180K AT SNEAKER CON IN RIYADH",
+      "role": "meme_text"
+    },
+    {
+      "text": "@SAUDIARABIAEXPLORE",
+      "role": "overlay"
+    },
+    {
+      "text": "Mar 19, 2026, 9:53 AM",
+      "role": "overlay"
+    },
+    {
+      "text": "wtf...",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no dialogue or speech in the video; only music plays.",
+  "emojis_present": [],
+  "audio_music": "The video is set to the song 'Money' from the musical Cabaret, specifically the version by Alan Cumming and the 1998 cast. The repetitive chanting of 'money, money, money' creates a mocking and critical tone that frames the subject matter as being about greed.",
+  "editing_pacing": "The video consists of a static shot of a screenshot, followed by a slow zoom into a portion of that screenshot. The pacing is very slow.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "criticism",
+    "incredulity"
+  ],
+  "cultural_references": [
+    "The song 'Money' from the musical Cabaret."
+  ],
+  "central_claim": "Donald Trump is being criticized for allegedly promoting a pair of his branded sneakers for sale for $180,000 in Saudi Arabia.",
+  "intended_effect": "To portray Donald Trump as greedy and engaged in questionable financial dealings, thereby inviting criticism and mockery from the viewer.",
+  "uncertainty_flags": [
+    "The authenticity of the social media posts shown in the screenshots cannot be independently verified from the video alone."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "video_id": "7159358803454987562",
+  "visual_action": "A slideshow of screenshots of tweets from the Twitter/X account 'The Democrats'. The tweets are displayed sequentially against a black background. An overlay text is present at the top of the screen throughout the video.",
+  "cast": [
+    {
+      "name": "The Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The screenshots are of tweets from the account '@TheDemocrats'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Multiple on-screen tweets list voting records of 'House Republicans' and 'every single Republican in Congress'."
+    },
+    {
+      "name": "House Democrats",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "One tweet mentions that 'House Democrats voted to codify marriage equality' as a point of contrast."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "See you at the polls on November 8th💅👑",
+      "role": "overlay"
+    },
+    {
+      "text": "The Democrats @TheDemocrats\n205 House Republicans voted against a bill to increase access to mental health care in schools.",
+      "role": "other"
+    },
+    {
+      "text": "The Democrats @TheDemocrats\n195 Republicans voted against a bill to protect birth control access",
+      "role": "other"
+    },
+    {
+      "text": "The Democrats @TheDemocrats\n193 House Republicans voted against capping the cost of insulin at $35/month.",
+      "role": "other"
+    },
+    {
+      "text": "The Democrats @TheDemocrats\n192 House Republicans voted against a bill to provide critical funding to help boost the supply of baby formula.",
+      "role": "other"
+    },
+    {
+      "text": "The Democrats @TheDemocrats\nWhile House Democrats voted to codify marriage equality, 157 House Republicans voted against it.",
+      "role": "other"
+    },
+    {
+      "text": "The Democrats @TheDemocrats\nToday, House Democrats took a major step to fight back against Republican attacks on reproductive freedom and finally codify Roe v. Wade. Not a single Republican voted for the measure.",
+      "role": "other"
+    },
+    {
+      "text": "The Democrats @TheDemocrats\nEvery single Republican in Congress voted against the Inflation Reduction Act to bring down costs, reduce the deficit, and take action on climate. Remember this in November.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only a song with lyrics playing throughout.",
+  "emojis_present": [
+    "💅",
+    "👑"
+  ],
+  "audio_music": "The video features the upbeat pop song 'Karma' by Taylor Swift playing continuously. The lyrics, such as 'Karma is my boyfriend, karma is a god,' are juxtaposed with the list of Republican votes, creating a tone of confident, impending political consequence.",
+  "editing_pacing": "The video is a simple slideshow, with static images of tweets changing every few seconds.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Indignation",
+    "Urgency",
+    "Motivation"
+  ],
+  "cultural_references": [
+    "The song 'Karma' by Taylor Swift is used throughout the video."
+  ],
+  "central_claim": "Republicans have consistently voted against popular policies benefiting Americans, and voters should remember this record at the November 8th elections.",
+  "intended_effect": "To motivate viewers to vote against Republican candidates by presenting a list of their votes on key issues.",
+  "uncertainty_flags": []
+}

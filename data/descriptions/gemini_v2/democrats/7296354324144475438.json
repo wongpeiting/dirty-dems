@@ -1,0 +1,83 @@
+{
+  "video_id": "7296354324144475438",
+  "visual_action": "Mike Johnson is shown speaking at a panel discussion. He is seated at a table with a microphone in front of a blue banner for 'LOUISIANA RIGHT TO LIFE'. The video is a static, medium shot focused on him as he speaks.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, identified by face-ID and on-screen text that reads 'Republican Speaker of the House Mike Johnson'."
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text identifies Mike Johnson as the 'Republican Speaker of the House'."
+    },
+    {
+      "name": "Louisiana Right to Life",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The name of the organization is visible on a large banner behind Mike Johnson."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Republican Speaker of the House Mike Johnson says America's problems today are because \"we didn't maintain 18th century values\"",
+      "role": "overlay"
+    },
+    {
+      "text": "\"Oh you bigot!\"",
+      "role": "caption"
+    },
+    {
+      "text": "\"Can't you be a little more open-minded?\"",
+      "role": "caption"
+    },
+    {
+      "text": "\"Come on that's so like — 18th century, you know?\"",
+      "role": "caption"
+    },
+    {
+      "text": "Well, they told us that if we didn't",
+      "role": "caption"
+    },
+    {
+      "text": "maintain those 18th century values,",
+      "role": "caption"
+    },
+    {
+      "text": "that the republic would not stand",
+      "role": "caption"
+    },
+    {
+      "text": "and so this is the condition we find ourselves in today.",
+      "role": "caption"
+    },
+    {
+      "text": "LOUISIANA RIGHT TO LIFE",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Mike Johnson first imitates a hypothetical critic, saying 'Oh you bigot! Can't you be a little more open-minded? ...that's so like 18th century, you know?' He then argues that he was told that if those '18th century values' were not maintained, 'the republic would not stand,' and concludes, 'this is the condition we find ourselves in today.'",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Mike Johnson's clear speech. There is no music or other sound effects.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts or camera movement.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "alarm",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "The post claims that Republican Speaker Mike Johnson believes America's current problems are caused by the country's failure to maintain 18th-century values.",
+  "intended_effect": "To portray Mike Johnson as an extremist with outdated views, generating disapproval of him and the Republican party.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,140 @@
+{
+  "video_id": "7132505762009550126",
+  "visual_action": "The video starts with a close-up clip of Senator Raphael Warnock looking down solemnly. It then cuts to a rapid slideshow of smiling headshots of various Republican senators, including Ted Cruz, Thom Tillis, Mitt Romney, John Cornyn, and Chuck Grassley.",
+  "cast": [
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads, \"While Democrats vote to lower prescription drug costs like insulin...\""
+    },
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text reads, \"43 Senate Republicans voted against capping the cost of insulin at $35/month\""
+    },
+    {
+      "name": "Raphael Warnock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears in the opening shot of the video."
+    },
+    {
+      "name": "Ted Cruz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His photo appears in the slideshow of Republican senators."
+    },
+    {
+      "name": "Ben Sasse",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being on-screen by authoritative face-ID tool."
+    },
+    {
+      "name": "John Thune",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being on-screen by authoritative face-ID tool."
+    },
+    {
+      "name": "Lindsey Graham",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being on-screen by authoritative face-ID tool."
+    },
+    {
+      "name": "Marsha Blackburn",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being on-screen by authoritative face-ID tool."
+    },
+    {
+      "name": "Michael S Lee",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being on-screen by authoritative face-ID tool."
+    },
+    {
+      "name": "Mitch Mcconnell",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being on-screen by authoritative face-ID tool."
+    },
+    {
+      "name": "Rand Paul",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being on-screen by authoritative face-ID tool."
+    },
+    {
+      "name": "Rob Portman",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being on-screen by authoritative face-ID tool."
+    },
+    {
+      "name": "Tom Cotton",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified as being on-screen by authoritative face-ID tool."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "While Democrats vote to lower prescription drug costs like insulin...",
+      "role": "overlay"
+    },
+    {
+      "text": "43 Senate Republicans voted against capping the cost of insulin at $35/month",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A short audio clip of a female voice says, \"We do not care.\"",
+  "emojis_present": [],
+  "audio_music": "The video opens with a slow, somber instrumental track. At the 5-second mark, a female voice says \"We do not care,\" and the music immediately switches to a high-energy, upbeat hip-hop track for the remainder of the video. The juxtaposition of the soundbite and the upbeat music over smiling Republicans creates a mocking effect.",
+  "editing_pacing": "The video consists of a single clip followed by a quick cut to a rapid slideshow of still photographs.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Sympathy",
+    "Seriousness",
+    "Outrage",
+    "Mockery"
+  ],
+  "cultural_references": [
+    "The audio clip \"We do not care\" is from the 2020 film 'I Care a Lot', spoken by the character Marla Grayson (played by Rosamund Pike)."
+  ],
+  "central_claim": "Democrats are fighting to lower insulin costs for Americans, while 43 Senate Republicans callously voted against this measure.",
+  "intended_effect": "To generate anger towards Republicans and portray them as uncaring about the financial struggles of citizens, while positioning Democrats as the party that helps people.",
+  "uncertainty_flags": [
+    "There is a significant discrepancy between the authoritative face-ID list and the individuals visually identifiable in the video's slideshow. The slideshow appears to show Thom Tillis, Mitt Romney, John Cornyn, and Chuck Grassley, none of whom are in the provided face-ID list. Conversely, many individuals on the face-ID list were not visually confirmed in the slideshow."
+  ]
+}

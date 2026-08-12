@@ -1,0 +1,103 @@
+{
+  "video_id": "7665377520602189070",
+  "visual_action": "Donald Trump stands on an airport tarmac in front of a plane, wearing a dark suit and red tie. He is speaking to someone off-screen. The footage is from an MSNBC news broadcast, with a chyron at the bottom. There is a helicopter in the background. The entire clip is framed with black bars at the top and bottom, where additional text is displayed.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the only person shown clearly on screen and is the subject of both the on-screen text and the spoken dialogue."
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen voice asks Trump a question: \"...Americans are strongly against this war. How do you ask...\""
+    },
+    {
+      "name": "MSNBC",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The news organization's logo, \"MSNOW\", is visible on the chyron at the bottom of the screen."
+    },
+    {
+      "name": "Stephanie Ruhle",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her name appears on the chyron next to her show title, \"Money Power Politics | Stephanie Ruhle\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump: Americans aren't against the Iran War",
+      "role": "overlay"
+    },
+    {
+      "text": "NOW: TRUMP HEADS TO DIGNIFIED TRANSFER OF U.S. SOLDIERS",
+      "role": "chyron"
+    },
+    {
+      "text": "LIVE > 6:55 ET",
+      "role": "chyron"
+    },
+    {
+      "text": "Money Power Politics | Stephanie Ruhle",
+      "role": "chyron"
+    },
+    {
+      "text": "MSNOW",
+      "role": "chyron"
+    },
+    {
+      "text": "BUT AMERICANS",
+      "role": "overlay"
+    },
+    {
+      "text": "AGAINST THIS",
+      "role": "overlay"
+    },
+    {
+      "text": "WAR.",
+      "role": "overlay"
+    },
+    {
+      "text": "WELL,",
+      "role": "overlay"
+    },
+    {
+      "text": "AMERICANS",
+      "role": "overlay"
+    },
+    {
+      "text": "AREN'T AGAINST",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WAR",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "An off-screen reporter asks Donald Trump a question, stating, \"...Americans are strongly against this war.\" Trump responds, \"Well, Americans aren't against the war.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of spoken dialogue over the ambient sounds of an airport tarmac, including the noise of aircraft engines. There is no music.",
+  "editing_pacing": "The video is a single, static clip from a news broadcast. Text overlays have been added at the top and bottom, with the bottom text appearing word-by-word to subtitle the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Concern",
+    "Alarm",
+    "Criticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump claims that the American public is not against a potential war with Iran.",
+  "intended_effect": "To portray Donald Trump as out of touch with public sentiment regarding military conflict and to generate concern about his stance.",
+  "uncertainty_flags": []
+}

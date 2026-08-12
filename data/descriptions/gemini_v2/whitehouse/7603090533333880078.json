@@ -1,0 +1,56 @@
+{
+  "video_id": "7603090533333880078",
+  "visual_action": "A split-screen video. On the left, Donald Trump gives a speech at a podium in front of an audience and an American flag. On the right, an animated video game resembling 'Subway Surfers' is shown. The game's main character is a cartoon caricature of Donald Trump, who runs down subway tracks, dodges oncoming trains, jumps over obstacles, and collects gold coins. The video ends with a black and white shot of the White House with text overlaid.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Appears in live-action footage on the left side of the screen giving a speech, and his voice is the primary audio. An animated caricature of him is the main character in the video game shown on the right."
+    },
+    {
+      "name": "Jd Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Briefly visible sitting in the audience behind Donald Trump around the 0:09 mark."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Score: [number changes]",
+      "role": "overlay"
+    },
+    {
+      "text": "Coins",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump states that during his administration he will put \"America first.\" He says his priority will be to create a nation that is \"proud, prosperous, and free,\" and that America will soon be \"greater, stronger, and far more exceptional.\" He concludes by declaring that \"The golden age of America begins right now.\"",
+  "emojis_present": [
+    "🏆"
+  ],
+  "audio_music": "An upbeat, fast-paced electronic track (identified as 'PAF' by DJ Kremost) plays continuously under Donald Trump's speech, creating a high-energy, hype-video atmosphere that complements the video game visuals.",
+  "editing_pacing": "The video uses a persistent split-screen format. The right side features fast-paced, continuous animation from a video game. The left side has a few cuts between different angles of Trump speaking. The overall feel is dynamic and energetic.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The right half of the video consists of AI-generated or digitally created animation depicting a cartoon caricature of Donald Trump as the protagonist in a video game styled after 'Subway Surfers'. This is a deliberate creative choice to pair his speech with meme-style visuals.",
+  "emotions_signaled": [
+    "Pride",
+    "Patriotism",
+    "Triumph",
+    "Amusement"
+  ],
+  "cultural_references": [
+    "The video game animation is a direct reference to the popular mobile game 'Subway Surfers', mimicking its gameplay, setting, and visual style."
+  ],
+  "central_claim": "Donald Trump's presidency will be a dynamic and successful 'run' that puts America first and makes the nation stronger and more prosperous.",
+  "intended_effect": "To energize supporters and portray Trump's message in a modern, engaging, and triumphant manner using a popular video game format.",
+  "uncertainty_flags": []
+}

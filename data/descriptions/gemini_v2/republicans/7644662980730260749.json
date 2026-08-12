@@ -1,0 +1,150 @@
+{
+  "video_id": "7644662980730260749",
+  "visual_action": "A man in a suit, Joe Gruters, stands in an office with bookshelves behind him and speaks directly to the camera. The video frequently cuts to short clips of another man, James Talarico, speaking in various settings: a remote interview, an outdoor rally, a legislative committee hearing, and an indoor event. A still photograph of a third man, Ken Paxton, waving at a rally is also shown.",
+  "cast": [
+    {
+      "name": "Joe Gruters",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He identifies himself at the start of the video: \"RNC Chairman Joe Gruters here.\""
+    },
+    {
+      "name": "James Talarico",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central subject of the video's criticism, identified by face recognition, the post's caption, and an on-screen chyron that reads \"Rep. James Talarico\"."
+    },
+    {
+      "name": "Republican National Committee",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker, Joe Gruters, identifies himself as the \"RNC Chairman\" and the account is the official Republican account."
+    },
+    {
+      "name": "Ken Paxton",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned by name as a \"MAGA warrior\" who won a victory and who the post encourages viewers to send to the Senate."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "He is mentioned as having endorsed Ken Paxton and as someone Paxton would help in the Senate during his \"final two years.\""
+    },
+    {
+      "name": "Immigration and Customs Enforcement",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Joe Gruters claims James Talarico \"wants to abolish ICE.\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "CHAIRMAN JOE GRUTERS HERE.",
+      "role": "overlay"
+    },
+    {
+      "text": "HUGE NIGHT LAST NIGHT.",
+      "role": "overlay"
+    },
+    {
+      "text": "MAGA WARRIOR KEN PAXTON WITH A VICTORY AFTER PRESIDENT TRUMP ENDORSED HIM.",
+      "role": "overlay"
+    },
+    {
+      "text": "WAY THAT TEXAS IS GONNA SEND A CANDIDATE WHO LOVES TRANS CHILDREN.",
+      "role": "overlay"
+    },
+    {
+      "text": "I LOVE TRANS CHILDREN",
+      "role": "overlay"
+    },
+    {
+      "text": "WHO WANTS A WELCOME MAT ON THE SOUTHERN BORDER",
+      "role": "overlay"
+    },
+    {
+      "text": "ALWAYS SAID THAT OUR SOUTHERN BORDER",
+      "role": "overlay"
+    },
+    {
+      "text": "WHO WANTS TO ABOLISH ICE",
+      "role": "overlay"
+    },
+    {
+      "text": "TO TEAR DOWN THIS SECRET POLICE FORCE",
+      "role": "overlay"
+    },
+    {
+      "text": "AND WHO BELIEVES IN SIX GENDERS",
+      "role": "overlay"
+    },
+    {
+      "text": "TruthUltra",
+      "role": "overlay"
+    },
+    {
+      "text": "Rep. James Talarico",
+      "role": "chyron"
+    },
+    {
+      "text": "COMMITTEE ON PUBLIC ED",
+      "role": "chyron"
+    },
+    {
+      "text": "THERE ARE MANY MORE THAN TWO BIOLOGICAL SEXES. IN FACT, THERE ARE SIX",
+      "role": "overlay"
+    },
+    {
+      "text": "WHO DOESN'T EAT MEAT",
+      "role": "overlay"
+    },
+    {
+      "text": "OUR CAMPAIGN UM, HAS OFFICIALLY BECOME A NON MEAT CAMPAIGN.",
+      "role": "overlay"
+    },
+    {
+      "text": "IT'S NOT GONNA HAPPEN, NOT TODAY, NOT THIS CYCLE.",
+      "role": "overlay"
+    },
+    {
+      "text": "GET INVOLVED. GO TO GOP.COM AND JOIN OUR EFFORTS TO MAKE SURE WE WIN THIS. TO SEND KEN PAXTON TO THE UNITED STATES SENATE TO HELP PRESIDENT TRUMP IN HIS FINAL TWO YEARS.",
+      "role": "overlay"
+    },
+    {
+      "text": "JAMIE KERN LIMA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "RNC Chairman Joe Gruters celebrates Ken Paxton's recent victory, attributing it to Donald Trump's endorsement. He then pivots to attack James Talarico, stating there is \"no way that Texas is going to send a candidate\" with his views. The video then intercuts Gruters' claims with short, decontextualized clips of Talarico. Gruters says Talarico \"loves trans children,\" and a clip plays of Talarico saying, \"I love trans children.\" Gruters claims Talarico wants a \"welcome mat on the southern border,\" wants to \"abolish ICE,\" \"believes in six genders,\" and \"doesn't eat meat,\" each followed by a corresponding clip of Talarico seemingly confirming the statement. Gruters concludes that Talarico's election is \"not gonna happen\" and urges viewers to visit GOP.com to help elect Ken Paxton to the Senate.",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of spoken dialogue from two different speakers. There is no background music or sound effects.",
+  "editing_pacing": "The editing employs fast cuts, creating a call-and-response structure between the main speaker (Joe Gruters) and clips of his political opponent (James Talarico). Gruters makes an assertion, which is immediately followed by a short, supporting clip of Talarico.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval",
+    "alarm"
+  ],
+  "cultural_references": [
+    "Jamie Kern Lima",
+    "TruthUltra"
+  ],
+  "central_claim": "James Talarico is an unelectable, radical candidate for Texas because of his progressive views on gender identity, immigration, law enforcement, and even his personal diet.",
+  "intended_effect": "To portray James Talarico as an extremist who is out of step with Texas voters, thereby mobilizing support for his opponent, Ken Paxton.",
+  "uncertainty_flags": []
+}

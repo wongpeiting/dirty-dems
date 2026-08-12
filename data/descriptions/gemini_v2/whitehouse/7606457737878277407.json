@@ -1,0 +1,60 @@
+{
+  "video_id": "7606457737878277407",
+  "visual_action": "Melania Trump stands at a podium with the Seal of the President of the United States, speaking to an audience. A large American flag serves as the backdrop. The video is a static, medium shot focused on her.",
+  "cast": [
+    {
+      "name": "Melania Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "She is the sole person shown on screen, speaking for the duration of the video."
+    },
+    {
+      "name": "U.S. Armed Forces",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states the message is for the 'U.S. Armed Forces,' and her speech is explicitly addressed to them."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Melania Trump mentions 'The President and I are grateful to be with you.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FLOTUS shares a message of love & country to U.S. Armed Forces ❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "GOOD AFTERNOON. HELLO, AND THANK YOU FOR YOUR WARM WELCOME. THE PRESIDENT AND I ARE GRATEFUL TO BE WITH YOU TO HONOR THE PASSION YOU SHARE THROUGH UNMATCHED BRAVERY, RESILIENCE AND SERVICE TO OUR GREAT NATION. THANK YOU FOR DEFENDING OUR FREEDOM. IT IS WITH IMMENSE PLEASURE FOR ME TO ADDRESS THE FORT BRAGG AND POPE ARMY AIRFIELD COMMUNITY TODAY. TO OUR GREAT ARMED FORCES OF THE UNITED STATES STATIONED ALL OVER THE WORLD. I HAVE A NOSTALGIA-FILLED MESSAGE: HAPPY VALENTINE'S DAY. LOVE LETTERS HAVE SYMBOLISED THE UNION OF PATRIOTISM AND FAMILY DEVOTION AMONG OUR SOLDIERS FOR 250 YEARS. THE HARMONY OF LOVE OF COUNTRY AND LOVE OF FAMILY IS WHAT MAKE US UNIQUELY AMERICAN. IT IS THIS VERY BALANCE, WHICH STRENGTHENS OUR MILITARY AND BUILDS OUR COMMUNITIES.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "Melania Trump addresses members of the U.S. Armed Forces, specifically mentioning the Fort Bragg and Pope Army Airfield community. She thanks them for their bravery, service, and for defending freedom. She wishes them a \"Happy Valentine's Day\" and reflects on how love letters have historically symbolized the union of patriotism and family devotion for soldiers. She states that the balance between love of country and love of family is a uniquely American quality that strengthens the military and communities.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists solely of Melania Trump's speech, with some cheers and applause from the audience after she wishes them a Happy Valentine's Day. There is no background music.",
+  "editing_pacing": "The video is a single, static talking-head shot with no cuts, zooms, or other editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Gratitude",
+    "Affection",
+    "Pride"
+  ],
+  "cultural_references": [
+    "Valentine's Day"
+  ],
+  "central_claim": "Melania Trump expresses her gratitude and love for the U.S. Armed Forces, framing their patriotic service as being intertwined with the American value of love for one's family.",
+  "intended_effect": "To evoke feelings of patriotism, appreciation for the military, and to portray Melania Trump as a caring and supportive First Lady.",
+  "uncertainty_flags": []
+}

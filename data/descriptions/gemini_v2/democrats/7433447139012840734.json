@@ -1,0 +1,76 @@
+{
+  "video_id": "7433447139012840734",
+  "visual_action": "A man with a goatee and glasses is interviewed against a brick wall. The video cuts briefly to show him smiling and standing with politician Tim Walz before returning to the interview shot.",
+  "cast": [
+    {
+      "name": "unnamed Pennsylvania voter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The man is the subject of the interview and is shown speaking for the majority of the video."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text states a former Trump voter is 'now voting for Kamala Harris' and the voter says 'I'm gonna vote for Harris and Walz.'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text identifies the speaker as a 'Former Trump voter'."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown on screen with the voter and the voter states, 'I'm gonna vote for Harris and Walz'."
+    },
+    {
+      "name": "More Perfect Union",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's logo appears in the top right corner of the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Former Trump voter in PA is now voting for Kamala Harris 👇👇👇",
+      "role": "overlay"
+    },
+    {
+      "text": "MORE PERFECT UNION",
+      "role": "credit"
+    },
+    {
+      "text": "Voter: “I’m seeing some things swinging in a positive way [for labor]. We just want to keep it going … I’m gonna vote for Harris and Walz.”",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "An interviewer asks a man identified as a former Trump voter how he will vote. The voter says he sees things \"swinging in a positive way\" for labor and wants to keep that momentum going. He states he will vote for \"Harris and Walz.\"",
+  "emojis_present": [
+    "👇"
+  ],
+  "audio_music": "The audio consists entirely of conversational dialogue between an interviewer and the subject. There is no music or sound effects.",
+  "editing_pacing": "The video is a static talking-head interview with a single cut to a B-roll clip of the subject with Tim Walz.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Hope",
+    "Persuasion"
+  ],
+  "cultural_references": [],
+  "central_claim": "A former Trump voter in Pennsylvania is now supporting the Harris/Walz ticket due to their pro-labor stance.",
+  "intended_effect": "To persuade swing voters, particularly those in the labor movement, that the Democratic ticket is gaining support from former Trump voters and is the better choice for workers.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,76 @@
+{
+  "video_id": "7561259078761057591",
+  "visual_action": "A blonde woman, identified in the caption as Erika Kirk, speaks emotionally at a podium with the presidential seal on it. She is outdoors, in front of a white building with large columns, likely the White House. She cries and wipes her eyes with a tissue. A man in a suit stands in the background. The video ends with black and white still images of the White House exterior and a helicopter, both with text overlay.",
+  "cast": [
+    {
+      "name": "Erika Kirk",
+      "kind": "person",
+      "how_identified": "named_in_caption",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "The post's caption identifies her: \"Erika Kirk at the White House today ❤️\"."
+    },
+    {
+      "name": "Charlie",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The speaker says \"happy birthday my Charlie\" and the on-screen text reads \"Happy Freedom Day Charlie. ❤️\". The caption's reference to a \"heavenly birthday\" implies he is deceased."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video is from the @whitehouse account, the setting is the White House, and the end card explicitly says \"THE WHITE HOUSE\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Happy Freedom Day Charlie. ❤️",
+      "role": "overlay"
+    },
+    {
+      "text": "His story reminds us all that",
+      "role": "overlay"
+    },
+    {
+      "text": "but to die free is the greatest victory",
+      "role": "overlay"
+    },
+    {
+      "text": "happy birthday my Charlie",
+      "role": "overlay"
+    },
+    {
+      "text": "happy freedom day.",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "An emotional woman gives a speech about a person named Charlie. She says his story reminds us that while living free is a great gift, \"to die free is the greatest victory.\" She tearfully wishes Charlie a happy birthday and a \"happy freedom day.\" At the end of her speech, applause is heard.",
+  "emojis_present": [
+    "❤️"
+  ],
+  "audio_music": "The audio consists solely of the woman's speech, with the natural sounds of an outdoor event. There is no music. Applause can be heard at the conclusion of her remarks.",
+  "editing_pacing": "The video uses a single, static shot for the duration of the speech, followed by two black and white still images that serve as an end card. The pacing is slow and somber.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "sadness",
+    "solemnity",
+    "patriotism",
+    "respect"
+  ],
+  "cultural_references": [],
+  "central_claim": "The sacrifice of dying for freedom, as exemplified by a person named Charlie, is the ultimate victory and a legacy to be honored.",
+  "intended_effect": "To evoke sympathy and to honor the memory and sacrifice of the person being eulogized, framing his death as a patriotic victory.",
+  "uncertainty_flags": [
+    "The specific identity of 'Charlie' and the context of 'Freedom Day' are not explained in the video."
+  ]
+}

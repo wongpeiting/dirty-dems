@@ -1,0 +1,73 @@
+{
+  "video_id": "7576322170155011341",
+  "visual_action": "The video alternates between clips of Barack Obama speaking at a podium and a montage of various scenes of American life. The montage includes: a large crowd at a protest holding signs (one reads \"RESISTING KINGS SINCE 1776\"), another large protest march featuring an inflatable \"Trump baby\" balloon, a person carrying a box for the \"CAPITAL AREA FOOD BANK\", a line of people including Anthony Fauci wearing face masks, crowds waving American flags, athlete Twanisha Terry running in a track event, fireworks over the Washington Monument, the Statue of Liberty, a baseball team celebrating, the U.S. Capitol building, a \"VOTE HERE\" sign, a military service member with an American flag, and a rocket launch.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, delivering a speech from a podium. The video's message is framed by his words."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A large, inflatable \"Trump baby\" balloon, a well-known caricature of him, is shown in a protest scene."
+    },
+    {
+      "name": "Anthony Fauci",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is briefly shown standing in a line of people, wearing a face mask."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LOVE ME",
+      "role": "overlay"
+    },
+    {
+      "text": "RESISTING KINGS SINCE 1776",
+      "role": "other"
+    },
+    {
+      "text": "CAPITAL AREA FOOD BANK",
+      "role": "other"
+    },
+    {
+      "text": "USA SONY TERRY",
+      "role": "other"
+    },
+    {
+      "text": "VOTE HERE VOTE AQUÍ",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Barack Obama states that \"being an American is hard\" and requires living up to the nation's expectations even when it is inconvenient, tough, or frightening. He concludes by asking, \"What kind of country do we want to be?\"",
+  "emojis_present": [
+    "🇺🇸"
+  ],
+  "audio_music": "The audio alternates between Barack Obama's spoken words and an uplifting, soulful gospel-style song, identified as \"Love Me\" by JMSN. The song's chorus, featuring a choir singing \"Love me,\" swells during the montage segments, creating an inspirational and emotional atmosphere.",
+  "editing_pacing": "The video features quick cuts, alternating between a static shot of Obama's speech and a fast-paced montage of diverse clips.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Patriotism",
+    "Inspiration",
+    "Hope",
+    "Community"
+  ],
+  "cultural_references": [
+    "\"Trump baby\" balloon",
+    "Twanisha \"Sony\" Terry"
+  ],
+  "central_claim": "America's strength is defined by its citizens' commitment to upholding the nation's ideals, especially through adversity and collective action.",
+  "intended_effect": "To inspire a sense of patriotic pride, hope, and civic responsibility in the viewer.",
+  "uncertainty_flags": []
+}

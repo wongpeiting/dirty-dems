@@ -1,0 +1,137 @@
+{
+  "video_id": "7621951612210138382",
+  "visual_action": "The video shows a clip from the Fox News program \"The Five.\" A female host, Dana Perino, asks a question. The view then switches to a wider shot of the panel of five hosts, with a graphic on the screen showing a picture of Donald Trump, who is participating by phone. The video cuts between a close-up of Perino and the wide shot of the panel as the conversation unfolds.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is identified by his voice on the phone, a still photo, and the on-screen text 'DONALD J. TRUMP PRESIDENT OF THE UNITED STATES'."
+    },
+    {
+      "name": "Dana Perino",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "She is the host shown speaking and being spoken to by Donald Trump. The post's overlay text describes Trump 'hit[ting] on a Fox News host'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo is visible on the chyron throughout the clip."
+    },
+    {
+      "name": "Kayleigh McEnany",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The host says, 'Again, like Kayleigh, I would never ask you to tell us something that is classified.'"
+    },
+    {
+      "name": "unnamed female panelist",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A woman is shown sitting at the panel desk to the left of the central host."
+    },
+    {
+      "name": "unnamed male panelist 1",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is shown sitting at the panel desk in the center."
+    },
+    {
+      "name": "unnamed male panelist 2",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is shown sitting at the far right of the panel desk."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump ignores question on the war in Iran to hit on a Fox News host 😥",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT TRUMP LIVE ON \"THE FIVE\"",
+      "role": "chyron"
+    },
+    {
+      "text": "ON THE PHONE",
+      "role": "overlay"
+    },
+    {
+      "text": "DONALD J. TRUMP",
+      "role": "overlay"
+    },
+    {
+      "text": "PRESIDENT OF THE UNITED STATES",
+      "role": "overlay"
+    },
+    {
+      "text": "I THINK IT IS ALARMING THAT WE HAVE NOT BEEN ABLE TO SEE OR HEAR FROM ANY OF THE IRANIAN PEOPLE,",
+      "role": "caption"
+    },
+    {
+      "text": "DO YOU HAVE ANY INSIGHT AS TO HOW THEY ARE DOING?",
+      "role": "caption"
+    },
+    {
+      "text": "REMEMBER WHEN WE HAD LUNCH YEARS AGO IN THE TRUMP WHEN",
+      "role": "caption"
+    },
+    {
+      "text": "YOU HAVE NOT CHANGED.",
+      "role": "caption"
+    },
+    {
+      "text": "ALLOWED TO IT'S THE END OF MY POLITICAL",
+      "role": "caption"
+    },
+    {
+      "text": "SO I DON'T DOING.",
+      "role": "caption"
+    },
+    {
+      "text": "BUT FOX-HAIR MAKEUP HAS A SAY THAT",
+      "role": "caption"
+    },
+    {
+      "text": "WILL END MY CAREER.",
+      "role": "caption"
+    },
+    {
+      "text": "YOU'RE NOT ALLOWED TO BEAUTIFUL",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "A Fox News host expresses concern for the Iranian people, whose internet has been shut down by their government, and asks for any insight into their well-being. Donald Trump, on the phone, begins to answer by saying \"I do,\" but immediately pivots to a personal anecdote, asking the host, \"do you remember when we had lunch years ago in the base of Trump Tower?\" He then compliments her appearance, saying, \"you haven't changed\" and \"you may be even better looking.\" He jokes that he is not allowed to say a woman is beautiful anymore and that doing so will be \"the end of my political career.\"",
+  "emojis_present": [
+    "😥"
+  ],
+  "audio_music": "The audio consists entirely of spoken dialogue from a television news broadcast. There is no music or other audio effects.",
+  "editing_pacing": "The video is a clip from a news broadcast, cutting between a medium shot of the speaking host and a wide, static shot of the five-person panel. Dynamic, word-by-word captions in yellow text are overlaid to match the dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Mockery",
+    "Awkwardness",
+    "Cringe"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump ignored a serious question about the welfare of the Iranian people to instead make unsolicited, complimentary remarks about a female news host's appearance.",
+  "intended_effect": "To portray Donald Trump as unprofessional, inappropriate, and dismissive of serious policy issues in favor of commenting on a woman's looks.",
+  "uncertainty_flags": []
+}

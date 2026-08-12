@@ -1,0 +1,83 @@
+{
+  "video_id": "7595792060653800718",
+  "visual_action": "The video is a montage of a formal event at the White House. It begins with a close-up of a commemorative golden object. The video then shows the Florida Panthers hockey team arriving and being greeted. Donald Trump walks to a podium to applause, then speaks. He is presented with a red hockey jersey with \"TRUMP\" and \"47\" on the back, which he holds up while smiling. The video then shows Trump walking through a hallway, followed by a man in white gloves carrying the large silver Stanley Cup trophy through the White House. The final scenes show Trump and the team posing for photos with the trophy in the Oval Office, and a close-up of a person's hands wearing multiple championship rings.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure in the video, shown speaking at a podium, receiving a jersey, and posing for photos with the visiting team."
+    },
+    {
+      "name": "Florida Panthers",
+      "kind": "org",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "In the audio, Donald Trump welcomes \"the two-time defending Stanley Cup champions, the Florida Panthers.\""
+    },
+    {
+      "name": "Chris Wright",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition technology as being present in the crowd."
+    },
+    {
+      "name": "Doug Burgum",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition technology as being present in the crowd."
+    },
+    {
+      "name": "Pam Bondi",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by face recognition technology as being present in the crowd."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Champs pulled up to 1600 Penn 🔥",
+      "role": "caption"
+    },
+    {
+      "text": "TRUMP\n47",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE\nPRESIDENT DONALD J. TRUMP",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The audio is a montage of sounds from the event. Donald Trump formally welcomes \"the two-time defending Stanley Cup champions, the Florida Panthers\" to the White House. While being presented with a jersey, he makes a joking comment, \"Good for slashing.\" Other audible clips include background chatter, applause, and a photographer directing the photo session with words like \"Excellent. Beautiful.\"",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The audio consists of dialogue and ambient sounds from the event, including applause and camera shutters. At approximately 24 seconds, a grand, cinematic orchestral score begins and plays through the end of the video, creating a triumphant and presidential tone.",
+  "editing_pacing": "The video is a montage with a stately, cinematic pace. It uses slow-motion shots of Donald Trump walking and cuts between different scenes of the event, such as the formal ceremony, the moving of the trophy, and the photo opportunity in the Oval Office.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "celebration",
+    "patriotism",
+    "honor"
+  ],
+  "cultural_references": [
+    "Florida Panthers",
+    "Stanley Cup"
+  ],
+  "central_claim": "President Donald Trump honored the champion Florida Panthers hockey team at the White House, associating his presidency with their success, as reinforced by the custom 'TRUMP 47' jersey.",
+  "intended_effect": "To portray Donald Trump in a positive and presidential manner, celebrating American athletic achievement and aligning himself with a championship-winning team.",
+  "uncertainty_flags": [
+    "The provided transcript contains phrases like 'thanks, Joe. He knew what he did' which are not clearly audible or visually contextualized within the video clip."
+  ]
+}

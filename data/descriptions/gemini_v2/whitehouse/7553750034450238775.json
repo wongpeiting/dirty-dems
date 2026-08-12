@@ -1,0 +1,99 @@
+{
+  "video_id": "7553750034450238775",
+  "visual_action": "JD Vance is speaking at a podium on a stage in front of an audience. Behind him are Concord Police vehicles, an armored truck, and American flags. He calls on a young boy, Henry, from the audience, who comes up on stage. Vance shakes his hand and they pose together for a selfie which Henry takes on his phone. The footage appears to be from a Fox News broadcast, with a news chyron visible at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker on stage, identified by face-ID and an on-screen chyron that reads 'VP JD VANCE'."
+    },
+    {
+      "name": "Henry",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "A young boy from the audience who is called on by Vance, gives his name as 'Henry', and asks for a picture."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video footage is framed within a Fox News broadcast, with its logo and chyron format visible throughout."
+    },
+    {
+      "name": "Concord Police",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A police vehicle with 'CONCORD POLICE' written on the side is visible on stage behind JD Vance."
+    },
+    {
+      "name": "Rodrigo Duterte",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "His name appears in the scrolling news chyron: 'ICC CHARGES FORMER PHILIPPINE PRESIDENT DUTERTE WITH CRIMES AGAINST HUMANITY'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "America's Vice President!",
+      "role": "overlay"
+    },
+    {
+      "text": "NOW: VP JD VANCE TAKES QUESTIONS IN NORTH CAROLINA",
+      "role": "chyron"
+    },
+    {
+      "text": "ICC CHARGES FORMER PHILIPPINE PRESIDENT DUTERTE WITH CRIMES AGAINST HUMANITY",
+      "role": "chyron"
+    },
+    {
+      "text": "HONOR. VALOR. JUSTICE.",
+      "role": "other"
+    },
+    {
+      "text": "Young man",
+      "role": "caption"
+    },
+    {
+      "text": "I skipped school today",
+      "role": "caption"
+    },
+    {
+      "text": "I was wondering if I could get a picture with you",
+      "role": "caption"
+    },
+    {
+      "text": "Henry said I skipped school",
+      "role": "caption"
+    },
+    {
+      "text": "can I have a picture with you",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "At a speaking event, JD Vance calls on a young boy from the audience. The boy, who introduces himself as Henry, tells Vance, \"I skipped school today, I was wondering if I could get a picture with you.\" The audience laughs and applauds. Vance agrees, joking, \"I guess you gotta have some excuse to skip school,\" and brings Henry on stage for a photo.",
+  "emojis_present": [],
+  "audio_music": "The audio consists of live dialogue from the event, including JD Vance and Henry speaking, as well as ambient crowd noises such as laughter and applause. There is no background music.",
+  "editing_pacing": "The video consists of a continuous clip from a news broadcast, with standard news-style cuts between a medium shot of Vance at the podium and a wider shot of the stage and audience. The pacing is unhurried.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Heartwarming",
+    "Humor",
+    "Admiration"
+  ],
+  "cultural_references": [],
+  "central_claim": "Vice President JD Vance is a relatable and kind leader who is happy to engage in a heartwarming, humorous moment with a young supporter.",
+  "intended_effect": "To humanize JD Vance and portray him in a positive and approachable light, fostering warmth and support among viewers.",
+  "uncertainty_flags": []
+}

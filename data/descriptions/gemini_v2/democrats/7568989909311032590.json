@@ -1,0 +1,102 @@
+{
+  "video_id": "7568989909311032590",
+  "visual_action": "A slideshow of still photos featuring politician Abigail Spanberger. In the first photo, she is casting a ballot into a voting machine. Subsequent photos show her posing with supporters, one of whom holds a \"PANBERGER SHMI JONES\" sign, speaking at a podium to a crowd and media, and posing with another group of supporters holding signs that say \"MEDICAID SAVES LIVES\" and \"MEDICAID CUTS = JOB CUTS\".",
+  "cast": [
+    {
+      "name": "Abigail Spanberger",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "She is the subject of every photo and is identified by the on-screen text \"Abigail Spanberger casting her ballot\"."
+    },
+    {
+      "name": "Shmi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears on a campaign sign that reads \"PANBERGER SHMI ★ JONES\"."
+    },
+    {
+      "name": "Jones",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Their name appears on campaign signs reading \"PANBERGER SHMI ★ JONES\" and \"SPANBERGER HASHMI • JONES\"."
+    },
+    {
+      "name": "Hashmi",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Her name appears on a campaign sign reading \"SPANBERGER HASHMI • JONES\"."
+    },
+    {
+      "name": "May",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Their name appears on a campaign sign held by someone in the crowd."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Abigail Spanberger casting her ballot💙",
+      "role": "overlay"
+    },
+    {
+      "text": "PANBERGER SHMI ★ JONES",
+      "role": "other"
+    },
+    {
+      "text": "SPANBERGER HASHMI • JONES",
+      "role": "other"
+    },
+    {
+      "text": "MAY",
+      "role": "other"
+    },
+    {
+      "text": "MEDICAID CUTS = JOB CUTS",
+      "role": "other"
+    },
+    {
+      "text": "MEDICAID SAVES LIVES\nHands Off Medicaid",
+      "role": "other"
+    },
+    {
+      "text": "PEOPLE OVER PROFITS",
+      "role": "other"
+    },
+    {
+      "text": "PLANNED PARENTHOOD",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only a song plays throughout.",
+  "emojis_present": [
+    "💙"
+  ],
+  "audio_music": "An upbeat, inspirational pop song, identified as \"Make Your Own Kind of Music\" by Mama Cass, plays throughout the entire video.",
+  "editing_pacing": "The video is a simple slideshow of still photographs, with cuts between each image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Inspiration",
+    "Pride",
+    "Community",
+    "Positivity"
+  ],
+  "cultural_references": [
+    "Make Your Own Kind of Music by Mama Cass"
+  ],
+  "central_claim": "Abigail Spanberger is an engaged candidate who participates in democracy and is supported by her community on key issues like protecting Medicaid.",
+  "intended_effect": "To generate positive sentiment and support for Abigail Spanberger's campaign.",
+  "uncertainty_flags": [
+    "The full identities of the people named 'Shmi', 'Jones', 'Hashmi', and 'May' on campaign signs are not specified, though they appear to be political allies."
+  ]
+}

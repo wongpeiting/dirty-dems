@@ -1,0 +1,51 @@
+{
+  "video_id": "7570775034025823502",
+  "visual_action": "The video starts with a medium shot of Chuck Schumer speaking in a formal setting, likely the Senate floor. It then cuts to a clip of a young, blond-haired boy in a blue t-shirt outdoors, looking up with a wide-eyed expression of awe. The video ends with a series of black and white shots, including the White House portico and Marine One, with text appearing that reads 'THE WHITE HOUSE'.",
+  "cast": [
+    {
+      "name": "Charles Schumer",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the subject of the video, shown speaking for the first half, and named in the caption: 'Chuck Schumer living in the world of make believe'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Chuck Schumer says in the audio, 'Trump is the focal point of this health care crisis.'"
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The video ends with a logo card showing the building and the text 'THE WHITE HOUSE'. The account that posted the video is also @whitehouse."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Chuck Schumer accuses an unnamed person of 'eroding democracy, taking away our rights' and then states, 'Trump is the focal point of this health care crisis.' The audio then cuts to a child's voice from a different clip exclaiming, 'Wow! The land of make-believe!'",
+  "emojis_present": [],
+  "audio_music": "The video begins with only Chuck Schumer's speaking voice. When it cuts to the reaction clip of the child, a whimsical, sparkly synthesizer score begins, which plays under the child's dialogue to create a mocking, fantastical tone.",
+  "editing_pacing": "The editing uses a simple, common meme format: a static clip of a person speaking is abruptly cut with a well-known reaction clip to recontextualize and mock the original speaker's words. It ends with a quick branding montage.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery"
+  ],
+  "cultural_references": [
+    "The video uses a popular reaction meme clip of a young boy saying 'Wow! The land of make-believe!' to frame the preceding political speech as fantasy."
+  ],
+  "central_claim": "Chuck Schumer's accusations against Donald Trump regarding democracy and healthcare are childish, baseless fantasies.",
+  "intended_effect": "To mock Chuck Schumer and encourage the audience to dismiss his statements as unbelievable and out of touch with reality.",
+  "uncertainty_flags": []
+}

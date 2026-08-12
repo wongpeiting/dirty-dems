@@ -1,0 +1,130 @@
+{
+  "video_id": "7470995510636170542",
+  "visual_action": "A split-screen video. The top half shows Donald Trump in a suit and red cap speaking at a podium at a rally. The background features a large American flag design and a crowd of people. The bottom half of the screen cycles through four different screenshots of news headlines from The New York Times, The Guardian, NBC News, and Newsweek.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking throughout the video, and his words form the basis of the post's argument."
+    },
+    {
+      "name": "The New York Times",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's logo and a headline are shown on screen."
+    },
+    {
+      "name": "The Guardian",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's logo and a headline are shown on screen."
+    },
+    {
+      "name": "NBC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's logo and a headline are shown on screen."
+    },
+    {
+      "name": "Newsweek",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The organization's logo and a headline are shown on screen."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "2024 CAMPAIGN RALLY",
+      "role": "chyron"
+    },
+    {
+      "text": "STARTING ON DAY ONE OF MY",
+      "role": "overlay"
+    },
+    {
+      "text": "The New York Times",
+      "role": "overlay"
+    },
+    {
+      "text": "With High Prices Persisting, Trump Tempers Tone on Slaying Inflation",
+      "role": "overlay"
+    },
+    {
+      "text": "NEW ADMINISTRATION,",
+      "role": "overlay"
+    },
+    {
+      "text": "WE WILL END INFLATION AND WE",
+      "role": "overlay"
+    },
+    {
+      "text": "The Guardian",
+      "role": "overlay"
+    },
+    {
+      "text": "US economy",
+      "role": "overlay"
+    },
+    {
+      "text": "Inflation picks up speed after Trump promised to 'rapidly' bring down prices",
+      "role": "overlay"
+    },
+    {
+      "text": "WILL MAKE AMERICA AFFORDABLE",
+      "role": "overlay"
+    },
+    {
+      "text": "AGAIN",
+      "role": "overlay"
+    },
+    {
+      "text": "BECAUSE THE PRICES ARE TOO HIGH.",
+      "role": "overlay"
+    },
+    {
+      "text": "NBC NEWS",
+      "role": "overlay"
+    },
+    {
+      "text": "Inflation heats up, adding pressure on Trump over vow to lower prices",
+      "role": "overlay"
+    },
+    {
+      "text": "THE PRICES ARE TOO HIGH.",
+      "role": "overlay"
+    },
+    {
+      "text": "Newsweek",
+      "role": "overlay"
+    },
+    {
+      "text": "Gas Prices Are Soaring Again Under Trump",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "Donald Trump promises that on day one of his new administration, he will end inflation and make America affordable again because prices are too high.",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of Donald Trump's speech. A deep, percussive sound effect punctuates the appearance of each news headline, creating an ominous tone.",
+  "editing_pacing": "The editing juxtaposes a static talking-head shot of Trump with a slideshow of news headlines that cut in sequentially on the bottom half of the screen.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "skepticism"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's promises to control inflation are hypocritical and have been proven false by his track record, as documented by various news outlets.",
+  "intended_effect": "To cause viewers to distrust Donald Trump's economic promises and view him as a failure on the issue of inflation.",
+  "uncertainty_flags": []
+}

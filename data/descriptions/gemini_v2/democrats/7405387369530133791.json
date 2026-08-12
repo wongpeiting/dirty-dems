@@ -1,0 +1,106 @@
+{
+  "video_id": "7405387369530133791",
+  "visual_action": "The musician Lil Jon performs his song \"Turn Down for What\" in the aisles of a large arena filled with an energetic crowd. The setting is the Democratic National Convention, with large screens and banners reading \"DNC 2024\" and \"GEORGIA\". Attendees are dancing, cheering, and holding up cardboard cutouts of the faces of politicians, including Kamala Harris and Tim Walz.",
+  "cast": [
+    {
+      "name": "Lil Jon",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the performer at the center of the video, is named in the on-screen caption, and speaks/sings throughout."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Lil Jon announces, \"We are here tonight to officially nominate Kamala Harris for president.\" Her face also appears on many cardboard cutouts held by the crowd."
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The event is identified as the DNC through on-screen text and Lil Jon shouting \"DNC, turn out for what!\""
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is posted by the official Democratic Party account and features the Democratic National Convention."
+    },
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "His face appears on cardboard cutouts held by people in the crowd, confirmed by face-ID."
+    },
+    {
+      "name": "Raphael Warnock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is confirmed to be on screen via face-ID."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "They got Lil Jon at the DNC 🔥🔥",
+      "role": "overlay"
+    },
+    {
+      "text": "Lil Jon",
+      "role": "chyron"
+    },
+    {
+      "text": "GRAMMY AWARD-WINNING ARTIST & PRODUCER",
+      "role": "chyron"
+    },
+    {
+      "text": "DNC 2024",
+      "role": "other"
+    },
+    {
+      "text": "GEORGIA",
+      "role": "other"
+    },
+    {
+      "text": "GEORGIA DELEGATES 121",
+      "role": "other"
+    },
+    {
+      "text": "ROLL CALL",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "Lil Jon acts as a hype man for the Democratic National Convention. He announces, \"Ladies and gentlemen, we are here tonight to officially nominate Kamala Harris for president!\" He then performs a modified version of his song \"Turn Down for What,\" repeatedly shouting \"Turn out for what!\" to the crowd. He also leads the crowd in a chant of \"We're not going back!\"",
+  "emojis_present": [
+    "🔥"
+  ],
+  "audio_music": "The video features a high-energy electronic hip-hop track, \"Turn Down for What\" by DJ Snake & Lil Jon, played loudly to create a party-like, celebratory atmosphere. Around the 39-second mark, the music shifts to a remix of a chant, \"We're Not Going Back,\" maintaining the energetic and rallying tone.",
+  "editing_pacing": "The video uses fast cuts, switching between wide shots of the arena, medium shots of Lil Jon performing, and shots of the enthusiastic crowd dancing and cheering. The pacing is dynamic and energetic.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Excitement",
+    "Energy",
+    "Celebration",
+    "Pride",
+    "Unity"
+  ],
+  "cultural_references": [
+    "Lil Jon",
+    "The song 'Turn Down for What' by DJ Snake & Lil Jon"
+  ],
+  "central_claim": "The Democratic party is energetic, modern, and united in its nomination of Kamala Harris, with celebrity support from figures like Lil Jon.",
+  "intended_effect": "To generate excitement and a positive, high-energy image for the Democratic party and its convention, and to encourage voter turnout.",
+  "uncertainty_flags": []
+}

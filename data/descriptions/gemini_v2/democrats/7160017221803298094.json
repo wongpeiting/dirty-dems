@@ -1,0 +1,60 @@
+{
+  "video_id": "7160017221803298094",
+  "visual_action": "Former President Barack Obama and Senator Raphael Warnock are on stage at a political rally. They hug, then stand together, raising their hands and waving to a cheering crowd. People in the crowd hold 'Warnock' signs.",
+  "cast": [
+    {
+      "name": "Barack Obama",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visibly on stage with Warnock, and named in the audio: 'He knows Barack. I love Barack.'"
+    },
+    {
+      "name": "Raphael Warnock",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "Visibly on stage with Obama, subject of the on-screen text 'I'm voting for Warnock🎉🗳️' and the spoken line 'I'm voting for Warnock.' His name is also on signs in the crowd."
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official '@democrats' account."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Warnock",
+      "role": "other"
+    },
+    {
+      "text": "I'm voting for Warnock🎉🗳️",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A female voiceover expresses approval for Raphael Warnock based on his association with Barack Obama, saying, \"He knows Barack. I love Barack.\" She uses a dating app metaphor, \"I'm swiping right,\" before explicitly stating, \"I'm voting for Warnock.\"",
+  "emojis_present": [
+    "🎉",
+    "🗳️"
+  ],
+  "audio_music": "The audio consists of a female voiceover speaking enthusiastically over faint crowd noise from the original video clip. There is no music.",
+  "editing_pacing": "The video is a single, continuous clip without any noticeable cuts or special editing effects.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Admiration",
+    "Enthusiasm",
+    "Support"
+  ],
+  "cultural_references": [
+    "The phrase 'swiping right' is a reference to the user interface of dating apps like Tinder, used here to signify approval."
+  ],
+  "central_claim": "Voters should support Raphael Warnock because he is endorsed by and associated with the popular former President Barack Obama.",
+  "intended_effect": "To leverage Barack Obama's popularity to generate enthusiasm and support for Raphael Warnock's candidacy.",
+  "uncertainty_flags": []
+}

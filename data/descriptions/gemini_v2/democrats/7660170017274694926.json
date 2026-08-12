@@ -1,0 +1,128 @@
+{
+  "video_id": "7660170017274694926",
+  "visual_action": "Donald Trump is shown sitting in a chair at a formal meeting or press conference, with an American flag and a NATO-branded backdrop behind him. An unidentified man in a suit sits next to him. Trump is speaking directly to an off-screen questioner.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the sole speaker in the video, and the on-screen text headline is about his statement."
+    },
+    {
+      "name": "Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The headline reads \"TRUMP SAYS CEASEFIRE WITH IRAN IS OVER,\" and Trump spends the entire clip insulting the Iranian leadership, calling them \"scum,\" \"liars,\" and \"cuckoo.\""
+    },
+    {
+      "name": "Jared Kushner",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump names him as one of his negotiators: \"Steve Witkoff, Jared Kushner.\""
+    },
+    {
+      "name": "Steve Witkoff",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Trump names him as one of his negotiators: \"Steve Witkoff, Jared Kushner.\""
+    },
+    {
+      "name": "unnamed reporter",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An off-screen female voice asks at the beginning: \"Is the ceasefire over?\""
+    },
+    {
+      "name": "unnamed man in a suit",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A man is sitting next to Donald Trump throughout the video but does not speak and is not identified."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "BREAKING",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP SAYS CEASEFIRE WITH IRAN IS OVER",
+      "role": "overlay"
+    },
+    {
+      "text": "Is the ceasefire over?",
+      "role": "caption"
+    },
+    {
+      "text": "I think it's over.",
+      "role": "caption"
+    },
+    {
+      "text": "They're scum.",
+      "role": "caption"
+    },
+    {
+      "text": "They're sick people.",
+      "role": "caption"
+    },
+    {
+      "text": "they're vicious, violent people.",
+      "role": "caption"
+    },
+    {
+      "text": "And if they had a nuclear weapon, they'd use it.",
+      "role": "caption"
+    },
+    {
+      "text": "As far as I'm concerned, it's over.",
+      "role": "caption"
+    },
+    {
+      "text": "Steve Witkoff, Jared Kushner.",
+      "role": "caption"
+    },
+    {
+      "text": "As far as I'm concerned, it's just a waste of time dealing with them.",
+      "role": "caption"
+    },
+    {
+      "text": "They're liars.",
+      "role": "caption"
+    },
+    {
+      "text": "\"We never even talked about it.\"",
+      "role": "caption"
+    },
+    {
+      "text": "They're cuckoo.",
+      "role": "caption"
+    }
+  ],
+  "spoken_summary": "In response to a reporter's question, Donald Trump declares that the ceasefire with Iran is \"over.\" He calls the Iranian leadership \"scum,\" \"sick people,\" and \"vicious, violent people\" who are \"liars.\" He claims they would use a nuclear weapon if they had one and that they will agree to a deal in private and then publicly deny the conversation happened. He calls them \"cuckoo\" and says dealing with them is a \"waste of time.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of spoken dialogue from a press event. There is no music or other sound design.",
+  "editing_pacing": "The video is a single, static shot of Donald Trump speaking, with no cuts or edits.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Urgency",
+    "Alarm",
+    "Contempt",
+    "Fear"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump says the ceasefire with Iran is over because he believes the Iranian government is dangerously untrustworthy and dishonest.",
+  "intended_effect": "To highlight Donald Trump's inflammatory language and approach to foreign policy, likely to portray him as unfit for office.",
+  "uncertainty_flags": []
+}

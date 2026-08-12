@@ -1,0 +1,60 @@
+{
+  "video_id": "7540012840577453326",
+  "visual_action": "The video consists of two still images shown sequentially. The first image shows several soldiers in camouflage on an airport tarmac, with three of them on their hands and knees rolling out a red carpet. In the background, several men in suits stand near the stairs to an airplane. The second image is a wider shot of a large passenger plane with 'РОССИЯ' (Russia) written on its side. A red circle is drawn on the image, highlighting a pile of what appears to be the soldiers' uniforms on the tarmac near the base of the plane's stairs.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text at the beginning of the video states: 'Trump had soldiers on their hands and knees...'"
+    },
+    {
+      "name": "Vladimir Putin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text at the beginning of the video states: '...to roll out the red carpet for Putin:'"
+    },
+    {
+      "name": "soldiers",
+      "kind": "unknown",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The visuals show men in military-style uniforms rolling out a red carpet."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Trump had soldiers on their hands and knees to roll out the red carpet for Putin:",
+      "role": "overlay"
+    },
+    {
+      "text": "РОССИЯ",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The video is almost entirely without spoken words, containing only instrumental music. Just before the video ends, a faint male voice sings the lyric, \"Me and the devil.\"",
+  "emojis_present": [],
+  "audio_music": "A slow, somber instrumental track plays throughout the video, creating a serious and critical tone. At the very end, a faint male vocal sings a single line of a song.",
+  "editing_pacing": "The video is a static slideshow, displaying two still images one after the other.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Outrage",
+    "Disrespect",
+    "Suspicion"
+  ],
+  "cultural_references": [
+    "The lyric 'Me and the devil' is sung at the end of the video, a likely reference to the song of the same name, famously by blues musician Robert Johnson."
+  ],
+  "central_claim": "Donald Trump demeaned soldiers by forcing them to get on their hands and knees to roll out a red carpet for Vladimir Putin.",
+  "intended_effect": "To anger viewers by portraying Trump as subservient to Putin and disrespectful to the military.",
+  "uncertainty_flags": [
+    "The video uses images of an event and applies a textual claim about Trump and Putin. While the images themselves do not appear visually manipulated, the event depicted is frequently misattributed online; it may not involve US soldiers or Donald Trump at all. The manipulation lies in the contextual claim, not the pixels of the image.",
+    "The audio of the lyric at the end is very faint and difficult to discern clearly."
+  ]
+}

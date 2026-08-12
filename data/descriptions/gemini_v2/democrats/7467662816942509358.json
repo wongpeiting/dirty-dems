@@ -1,0 +1,74 @@
+{
+  "video_id": "7467662816942509358",
+  "visual_action": "A static screenshot of a tweet from politician Tim Walz is shown against a black background. Above the tweet is overlay text with emojis.",
+  "cast": [
+    {
+      "name": "Tim Walz",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "A screenshot of a tweet from his verified account (@Tim_Walz) is the central focus of the video."
+    },
+    {
+      "name": "Elon Musk",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is the subject of Tim Walz's tweet, which reads 'Elon Musk is a terrible president.'"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "The video was posted by the official Democratic Party TikTok account, @democrats."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "he went there 😭🌽✨",
+      "role": "overlay"
+    },
+    {
+      "text": "Tim Walz",
+      "role": "other"
+    },
+    {
+      "text": "@Tim_Walz",
+      "role": "other"
+    },
+    {
+      "text": "Elon Musk is a terrible president.",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue, only music.",
+  "emojis_present": [
+    "😭",
+    "🌽",
+    "✨"
+  ],
+  "audio_music": "An upbeat hip-hop track ('Sticky' by Tyler, The Creator) plays throughout the short, static clip, lending an air of swagger and confidence to the tweet being shown.",
+  "editing_pacing": "A single, static screenshot is shown for the entire duration of the video.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "amusement",
+    "approval"
+  ],
+  "cultural_references": [
+    "Tyler, The Creator",
+    "Twitter/X (social media platform format)",
+    "Use of a screenshot of a social media post with a reaction caption, a common internet format.",
+    "The corn emoji (🌽), often used to reference the American Midwest."
+  ],
+  "central_claim": "Tim Walz is being promoted as a bold figure for tweeting that Elon Musk is a 'terrible president'.",
+  "intended_effect": "To generate amusement and mockery towards Elon Musk while portraying Tim Walz as refreshingly direct and bold.",
+  "uncertainty_flags": [
+    "The authenticity of the tweet from Tim Walz is not verified by the video itself."
+  ]
+}

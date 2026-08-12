@@ -1,0 +1,98 @@
+{
+  "video_id": "7620859301090839822",
+  "visual_action": "The video shows a static screenshot of a tweet from the account 'Homeland Dems'. The tweet contains text and a photograph of five law enforcement officers in tactical vests standing indoors. All five officers are looking down at their mobile phones. Towards the end of the short clip, the view zooms in slightly on the photograph, and two 'face with raised eyebrow' emojis are superimposed on the lower portion of the image.",
+  "cast": [
+    {
+      "name": "Homeland Dems",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The video is a screenshot of a tweet from the account 'Homeland Dems @HomelandDems'."
+    },
+    {
+      "name": "ICE",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text says, 'While ICE agents get paid to play on their phones...'"
+    },
+    {
+      "name": "TSA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text says, '...TSA agents have gone over a month without their paychecks...'"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text blames the situation on 'President Trump'."
+    },
+    {
+      "name": "Congressional Republicans",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen tweet text blames the situation on 'President Trump and Congressional Republicans'."
+    },
+    {
+      "name": "unnamed law enforcement officers",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Five officers are shown in a photograph, all looking at their phones. Their vests say 'POLICE'. The tweet implies they are ICE agents."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Homeland Dems @HomelandDems",
+      "role": "overlay"
+    },
+    {
+      "text": "While ICE agents get paid to play on their phones, TSA agents have gone over a month without their paychecks because of President Trump and Congressional Republicans.",
+      "role": "overlay"
+    },
+    {
+      "text": "Disgraceful.",
+      "role": "overlay"
+    },
+    {
+      "text": "POLICE",
+      "role": "other"
+    },
+    {
+      "text": "🤨🤨",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio is a popular meme dialogue. A woman says, \"But you're playing on your phone.\" A man with a deep, distorted voice replies, \"No, I'm not playing on my phone. I'm taking care of business. I'm not studying what you're talking about.\" The woman retorts, \"I know you ain't studying,\" and the man says, \"Okay.\"",
+  "emojis_present": [
+    "🤨"
+  ],
+  "audio_music": "The audio is not music, but a viral spoken-word meme audio clip. It features a confrontational dialogue between a woman accusing a man of being on his phone, and the man denying it in a deep, distorted voice. The sound is used to mock the officers in the photo who are all looking at their phones.",
+  "editing_pacing": "The video consists of a static image of a tweet that has a slight zoom-in effect applied to it.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "Two 'face with raised eyebrow' emojis (🤨) are superimposed over the photograph of law enforcement officers to signal skepticism and mock them for being on their phones.",
+  "emotions_signaled": [
+    "mockery",
+    "criticism",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The audio is a well-known TikTok sound/internet meme featuring a dialogue where a man with a deep voice denies being on his phone, saying he's 'taking care of business'. It's often used to humorously call out people who are distracted by their phones."
+  ],
+  "central_claim": "ICE agents are being paid to idly use their phones while TSA agents go unpaid due to the actions of President Trump and Congressional Republicans.",
+  "intended_effect": "To generate anger at President Trump, Congressional Republicans, and ICE, while creating sympathy for TSA agents, by presenting a contrast between perceived laziness and financial hardship.",
+  "uncertainty_flags": [
+    "The officers in the photograph are presented as 'ICE agents' by the context of the tweet, but the text on their vests clearly says 'POLICE'. It's unclear if they are actually ICE agents or other police officers used for illustrative purposes.",
+    "The authoritative music detection identified a song, but the clearly audible sound is a popular meme dialogue, not music."
+  ]
+}

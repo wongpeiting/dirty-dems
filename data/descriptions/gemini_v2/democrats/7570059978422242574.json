@@ -1,0 +1,76 @@
+{
+  "video_id": "7570059978422242574",
+  "visual_action": "A split-screen video compares two clips of Donald Trump. The top clip, labeled \"TRUMP LAST YEAR:\", shows him speaking at a rally with supporters holding signs behind him. The bottom clip, labeled \"TRUMP NOW:\", shows a close-up of him speaking in a more formal setting.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the subject of both video clips, shown speaking in each one."
+    },
+    {
+      "name": "JD Vance",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A sign in the crowd in the top clip reads \"TRUMP VANCE\"."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A sign in the crowd in the top clip reads \"KAMALA YOU'RE FIRED!\""
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TRUMP LAST YEAR:",
+      "role": "overlay"
+    },
+    {
+      "text": "Starting on day one, we will end inflation and Make America Affordable Again.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP NOW:",
+      "role": "overlay"
+    },
+    {
+      "text": "I don't want to hear anything about the affordability.",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP VANCE MAKE AMERICA GREAT AGAIN",
+      "role": "other"
+    },
+    {
+      "text": "KAMALA YOU'RE FIRED!",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HO... EAST R...",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "The video juxtaposes two statements from Donald Trump. In the first, he says, \"Starting on day one, we will end inflation and Make America Affordable Again.\" In the second, he says, \"I don't want to hear anything about the affordability.\"",
+  "emojis_present": [],
+  "audio_music": "An upbeat pop-rock song, identified as Olivia Rodrigo's 'all-american bitch', plays throughout the video, creating an ironic or mocking tone.",
+  "editing_pacing": "The video uses a static split-screen format to present two clips simultaneously for direct comparison.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "irony"
+  ],
+  "cultural_references": [
+    "Olivia Rodrigo"
+  ],
+  "central_claim": "Donald Trump has contradicted his past promises about making America affordable by now dismissing the issue of affordability.",
+  "intended_effect": "To portray Donald Trump as hypocritical, untrustworthy, and out of touch with economic issues affecting voters.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,78 @@
+{
+  "video_id": "7611649197267356941",
+  "visual_action": "The video starts with a very brief, blurry shot of a white substance with red liquid being poured into it, inside a golden-rimmed container. It then cuts to a three-panel split-screen from a Fox News broadcast. On the left, a female anchor in a pink jacket. On the right, a male anchor in a suit. In the center panel, Chris Wright is shown outdoors, tilting his head back with his eyes closed, seemingly basking in the sun while on a live TV hit. A chyron is visible at the bottom of the screen.",
+  "cast": [
+    {
+      "name": "Chris Wright",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in the central panel of the news broadcast and identified by the on-screen text \"trump's energy secretary\" and the audio dialogue \"Secretary of Energy, Chris Wright.\""
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Referenced in the overlay text \"wtf is trump's energy secretary doing?\" and the Fox News chyron \"TRUMP HEADS TO TEXAS TO TALK ABOUT ECONOMY\"."
+    },
+    {
+      "name": "unnamed male news anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "Shown in the right-hand panel of the Fox News broadcast and is heard speaking the introduction."
+    },
+    {
+      "name": "unnamed female news anchor",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Shown in the left-hand panel of the Fox News broadcast."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The Fox News logo and branding are visible on the news broadcast clip."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "wtf is trump's energy secretary doing?",
+      "role": "overlay"
+    },
+    {
+      "text": "WITH A PREVIEW SPEECH, LET'S SECRETARY OF ENERGY, CHRIS WRIGHT, HE JOINS US NOW.",
+      "role": "caption"
+    },
+    {
+      "text": "FOX NEWS ALERT",
+      "role": "chyron"
+    },
+    {
+      "text": "TRUMP HEADS TO TEXAS TO TALK ABOUT ECONOMY",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A male news anchor introduces the next guest, saying, \"With a preview of the president's speech, let's bring in the Secretary of Energy, Chris Wright. He joins us now.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists only of dialogue from the news clip, with no added music or sound effects.",
+  "editing_pacing": "The video begins with a flash-frame cut, then holds on a static three-panel news clip. Text captions appear at the bottom in yellow, timed word-by-word with the speaker's dialogue.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "ridicule"
+  ],
+  "cultural_references": [],
+  "central_claim": "Donald Trump's Energy Secretary, Chris Wright, behaved bizarrely by closing his eyes and tilting his head back during a live television interview.",
+  "intended_effect": "To portray Chris Wright, and by extension the Trump administration, as unprofessional and strange, thereby inviting ridicule from the viewer.",
+  "uncertainty_flags": []
+}

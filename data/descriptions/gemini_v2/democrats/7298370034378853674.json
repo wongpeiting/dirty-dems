@@ -1,0 +1,77 @@
+{
+  "video_id": "7298370034378853674",
+  "visual_action": "The video is a slideshow of two static images. The first is a photo of Mike Johnson looking down, with a text overlay. The second is a screenshot of a news article headline about Mike Johnson, which also features a photo of him being sworn in.",
+  "cast": [
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is shown in two photographs and is the subject of the on-screen text 'MAGA Mike Johnson's Roman Empire...' and the article headline 'Mike Johnson once blamed homosexuality for the fall of the Roman Empire'."
+    },
+    {
+      "name": "MAGA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The on-screen text refers to Johnson as 'MAGA Mike Johnson'."
+    },
+    {
+      "name": "Ali Condon",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Her name appears in the byline of the news article screenshot: 'Written by Ali Condon'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MAGA Mike Johnson's Roman Empire...",
+      "role": "overlay"
+    },
+    {
+      "text": "US",
+      "role": "other"
+    },
+    {
+      "text": "Mike Johnson once blamed homosexuality for the fall of the Roman Empire",
+      "role": "other"
+    },
+    {
+      "text": "Nov 02 • Written by Ali Condon",
+      "role": "other"
+    },
+    {
+      "text": "Share",
+      "role": "other"
+    },
+    {
+      "text": "Save for later",
+      "role": "other"
+    },
+    {
+      "text": "Listen",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech. A female vocalist sings the lyrics 'When you know, you know' repeatedly.",
+  "emojis_present": [],
+  "audio_music": "A slow, melancholic song with a female vocalist plays throughout the video. The music creates a serious and slightly dramatic tone.",
+  "editing_pacing": "A simple slideshow of two static images with a single cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "concern",
+    "disapproval",
+    "alarm"
+  ],
+  "cultural_references": [
+    "'Roman Empire' internet meme"
+  ],
+  "central_claim": "House Speaker Mike Johnson holds extremist anti-LGBTQ+ views, exemplified by his past claim that homosexuality caused the fall of the Roman Empire.",
+  "intended_effect": "To generate disapproval of Mike Johnson by portraying him as having extreme and prejudiced beliefs.",
+  "uncertainty_flags": []
+}

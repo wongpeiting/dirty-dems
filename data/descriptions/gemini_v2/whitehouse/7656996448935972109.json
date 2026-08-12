@@ -1,0 +1,76 @@
+{
+  "video_id": "7656996448935972109",
+  "visual_action": "The video starts with a slow-motion, black-and-white clip of Donald Trump walking with a group of men. It then transitions to a fast-paced color montage of various American scenes: the Statue of Liberty and the New York City skyline, Monument Valley at sunset, a packed Texas A&M football stadium, an aerial view of the Grand Prismatic Spring in Yellowstone, a close-up of a hot dog at a sporting event, Horseshoe Bend, a row of motorcycles parked on Historic Route 66 in front of a rustic building, and a large crowd at a 'Country Jam USA' concert at night.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "He is shown in the opening shot, and the on-screen text \"And they say America has no culture...\" is superimposed over his image, framing the entire video as a rebuttal to a sentiment attributed to him."
+    },
+    {
+      "name": "Texas A&M University",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The words 'TEXAS A&M' are visible on the football field during a shot of a packed stadium."
+    },
+    {
+      "name": "Country Jam USA",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A large sign reading 'COUNTRY JAM USA' is visible above the stage during a concert scene."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "And they say America has no culture...",
+      "role": "overlay"
+    },
+    {
+      "text": "TEXAS A&M",
+      "role": "other"
+    },
+    {
+      "text": "HISTORIC US 66",
+      "role": "other"
+    },
+    {
+      "text": "COOL SPRINGS CABINS TASTY FOODS",
+      "role": "other"
+    },
+    {
+      "text": "COUNTRY JAM USA",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no spoken dialogue in the video. The audio consists of a high-energy hip-hop song with lyrics that include chanting and phrases like \"Sing this shit\" and \"What's up?\"",
+  "emojis_present": [],
+  "audio_music": "A high-energy, hype-inducing hip-hop track (identified as a live band version of 'The Box') plays throughout the video, featuring a strong beat and crowd sounds that create a celebratory and proud atmosphere for the montage.",
+  "editing_pacing": "The video uses fast cuts to create a rapid montage of different clips after the initial slow-motion shot.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "pride",
+    "mockery"
+  ],
+  "cultural_references": [
+    "The Box (song)",
+    "Statue of Liberty",
+    "Monument Valley",
+    "Yellowstone National Park",
+    "Horseshoe Bend",
+    "Texas A&M Football",
+    "Route 66",
+    "Country music festivals",
+    "Hot dogs at baseball games"
+  ],
+  "central_claim": "The video argues that America has a rich and vibrant culture, implicitly framing Donald Trump as someone who wrongly claims it does not.",
+  "intended_effect": "To evoke national pride in American culture and landmarks while simultaneously mocking Donald Trump.",
+  "uncertainty_flags": []
+}

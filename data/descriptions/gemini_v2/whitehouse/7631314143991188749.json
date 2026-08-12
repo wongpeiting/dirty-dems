@@ -1,0 +1,71 @@
+{
+  "video_id": "7631314143991188749",
+  "visual_action": "A static image showing Donald Trump in a suit, walking out of a building with white columns. He is flanked by two saluting U.S. Marines in dress uniform. Overlaid on the image is a screenshot of a social media post from Donald Trump's account.",
+  "cast": [
+    {
+      "name": "Donald J. Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "The on-screen text is a 'STATEMENT OF PRESIDENT DONALD J. TRUMP' from the account '@realDonaldTrump'. A photo of him is also visible in the background."
+    },
+    {
+      "name": "Government of Iran",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The statement says 'Based on the fact that the Government of Iran is seriously fractured' and refers to an 'Attack on the Country of Iran'."
+    },
+    {
+      "name": "Asim Munir",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The statement mentions 'upon the request of Field Marshal Asim Munir'."
+    },
+    {
+      "name": "Shehbaz Sharif",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The statement mentions 'and Prime Minister Shehbaz Sharif, of Pakistan'."
+    },
+    {
+      "name": "US Military",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The statement says 'I have therefore directed our Military to continue the Blockade'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Donald J. Trump\n@realDonaldTrump",
+      "role": "overlay"
+    },
+    {
+      "text": "STATEMENT OF PRESIDENT DONALD J. TRUMP:\nBased on the fact that the Government of Iran is seriously fractured, not unexpectedly so and, upon the request of Field Marshal Asim Munir, and Prime Minister Shehbaz Sharif, of Pakistan, we have been asked to hold our Attack on the Country of Iran until such time as their leaders and representatives can come up with a unified proposal. I have therefore directed our Military to continue the Blockade and, in all other respects, remain ready and able, and will therefore extend the Ceasefire until such time as their proposal is submitted, and discussions are concluded, one way or the other. President DONALD J. TRUMP",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video is silent.",
+  "emojis_present": [],
+  "audio_music": "The video is silent.",
+  "editing_pacing": "Static image.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "seriousness",
+    "gravity",
+    "authority"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Trump has directed the US Military to continue a blockade of Iran and extend a ceasefire at the request of Pakistani leaders, due to fractures within the Iranian government.",
+  "intended_effect": "To inform the public of a major foreign policy action and portray the President as a decisive and powerful leader managing an international crisis.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,52 @@
+{
+  "video_id": "7618644705584237838",
+  "visual_action": "A video of Brendan Carr speaking at a microphone is superimposed as a semi-transparent overlay on top of a background video. The background video shows donuts moving along a conveyor belt in a factory setting while a machine pours a thick, white glaze over them in a continuous sheet.",
+  "cast": [
+    {
+      "name": "Brendan Carr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is shown speaking for the entire video and is identified by face-ID. The caption also refers to him as 'this guy'."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The on-screen text refers to a 'trump admin official glazing their boss', and the audio is praise for an unnamed 'alpha'. The context implies Trump is the boss being praised."
+    },
+    {
+      "name": "Federal Communications Commission (FCC)",
+      "kind": "org",
+      "how_identified": "named_in_caption",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The caption states, 'this guy is in charge of the FCC btw'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "average trump admin official glazing their boss",
+      "role": "meme_text"
+    }
+  ],
+  "spoken_summary": "Brendan Carr is heard praising an unnamed person, saying, \"He is, you know, the alpha in every single realm, in every single place all across the world.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists solely of spoken dialogue from a single male speaker. There is no music or other sound effects.",
+  "editing_pacing": "The video is a single, static shot featuring a superimposed video clip over a background video. There are no cuts, zooms, or other dynamic editing techniques.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A video of Brendan Carr speaking has been superimposed onto an unrelated background video of donuts being glazed. This creates a visual pun based on the slang term 'glazing' (meaning to give excessive praise), which is used in the on-screen text to mock Carr's statement as sycophantic.",
+  "emotions_signaled": [
+    "mockery",
+    "contempt"
+  ],
+  "cultural_references": [
+    "The post's central joke relies on the internet slang term 'glazing,' which means to give excessive, sycophantic praise to someone."
+  ],
+  "central_claim": "Trump administration officials like FCC commissioner Brendan Carr offer excessive and sycophantic praise to Donald Trump.",
+  "intended_effect": "To mock Brendan Carr and portray Trump officials as sycophants, thereby undermining their credibility.",
+  "uncertainty_flags": []
+}

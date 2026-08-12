@@ -1,0 +1,70 @@
+{
+  "video_id": "7473981900823072046",
+  "visual_action": "The video first shows a static screenshot of a tweet from the account 'FactPost'. The tweet discusses Donald Trump and a 'Third Term Project'. The video then cuts to a still photograph of a tall, black, retractable banner standing in what appears to be a hotel or conference center lobby. The banner is for the 'Third Term Project' and features an eagle logo, a greyscale illustration of a man's head in the style of a Roman bust, and text promoting 'Trump 2028 ...And Beyond!'.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Donald Trump is named in the on-screen tweet ('Trump is speaking at a conference...') and on the banner ('For Trump 2028'). The entire post is about his potential third term."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A screenshot of a tweet from the account 'FactPost' (@factpostnews) is displayed at the beginning of the video."
+    },
+    {
+      "name": "Third Term Project",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "The project is named in the tweet shown on screen and is the subject of the banner, which reads 'THIRD TERM PROJECT'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "FactPost @factpostnews",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump is speaking at a conference tomorrow whose attendees are promoting the “Third Term Project,” which calls to override the Constitution to let Trump hold onto power.",
+      "role": "overlay"
+    },
+    {
+      "text": "THIRD TERM PROJECT",
+      "role": "other"
+    },
+    {
+      "text": "For Trump 2028\n...And Beyond!",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "The audio consists entirely of a person screaming in a high-pitched, panicked voice: 'Ah! No, no, no! No! No! No! No! No! No!'",
+  "emojis_present": [],
+  "audio_music": "The entire audio track is a meme sound effect of a person screaming 'No!' repeatedly in a panicked, horrified tone. This sound is used to signal an extreme negative reaction to the visuals.",
+  "editing_pacing": "The video consists of two static shots with a single hard cut between them.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "horror",
+    "outrage"
+  ],
+  "cultural_references": [
+    "The audio is a widely used meme sound effect of someone screaming 'No!' to express exaggerated shock and horror.",
+    "The banner uses imagery of a Roman emperor-style bust, which evokes themes of empire and long-term, undemocratic rule."
+  ],
+  "central_claim": "Donald Trump and his supporters are promoting a 'Third Term Project' with the goal of overriding the U.S. Constitution to keep him in power beyond the established two-term limit.",
+  "intended_effect": "To create alarm and outrage among viewers by presenting evidence of what it portrays as an anti-democratic movement to install Donald Trump as a leader for life.",
+  "uncertainty_flags": [
+    "The authenticity, date, and location of the 'Third Term Project' conference and banner are not verified within the video itself.",
+    "The specific person or character depicted in the Roman-style bust on the banner is not identified.",
+    "The provided music fingerprint in the context data appears to be incorrect, as the only audible sound is a well-known screaming meme audio clip, not a music track."
+  ]
+}

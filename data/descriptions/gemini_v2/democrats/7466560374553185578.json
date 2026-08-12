@@ -1,0 +1,47 @@
+{
+  "video_id": "7466560374553185578",
+  "visual_action": "A man in a dark suit and tie walks into what appears to be a conference or hotel ballroom. He stops, turns to the camera, smiles, and waves.",
+  "cast": [
+    {
+      "name": "Ken Martin",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "On-screen text identifies him by name: \"introducing the next Chair of the DNC: Ken Martin 💪\"."
+    },
+    {
+      "name": "Democratic National Committee",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "On-screen text refers to him as the \"next Chair of the DNC\"."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "introducing the next Chair of the DNC: Ken Martin 💪",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "There is no discernible speech. The audio consists of an upbeat instrumental track.",
+  "emojis_present": [
+    "💪"
+  ],
+  "audio_music": "An upbeat, funky, and celebratory instrumental track with a prominent saxophone melody plays throughout the clip, creating a positive and energetic mood for the introduction.",
+  "editing_pacing": "A single, static shot of a man walking into frame and posing for the camera.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "confidence",
+    "enthusiasm",
+    "pride"
+  ],
+  "cultural_references": [],
+  "central_claim": "Ken Martin is the next Chair of the Democratic National Committee (DNC).",
+  "intended_effect": "To generate positive feelings and confidence in Ken Martin as the new DNC Chair.",
+  "uncertainty_flags": [
+    "The provided Whisper transcript ('We'll be right back.') does not match the audio, which is an upbeat instrumental track with no clear dialogue."
+  ]
+}

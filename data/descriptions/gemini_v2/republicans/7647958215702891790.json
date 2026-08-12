@@ -1,0 +1,63 @@
+{
+  "video_id": "7647958215702891790",
+  "visual_action": "Illinois Governor J.B. Pritzker is shown outdoors at an event with colorful banners, speaking and smiling with people. As he speaks, a screenshot of an ABC News article is superimposed over the video. The headline of the article details a violent weekend in Chicago.",
+  "cast": [
+    {
+      "name": "J.B. Pritzker",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the person speaking on screen, identified by face recognition, and his statement is the central focus of the video's criticism."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "He is named in the overlaid news headline: \"...governor rejects Trump threat to send National Guard\"."
+    },
+    {
+      "name": "ABC News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'abcNEWS' appears at the top of the article screenshot that is overlaid on the video."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Chicago is a place where we look out for one another.",
+      "role": "caption"
+    },
+    {
+      "text": "abcNEWS",
+      "role": "overlay"
+    },
+    {
+      "text": "58 shot over Labor Day weekend in Chicago as governor rejects Trump threat to send National Guard",
+      "role": "overlay"
+    },
+    {
+      "text": "Trump continued to criticize the governor's handling of crime.",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "J.B. Pritzker says, \"Chicago is a place where we look out for one another.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists of J.B. Pritzker's voice speaking, with ambient background noise from the outdoor event. There is no music or added sound effects.",
+  "editing_pacing": "The video consists of a single continuous clip of J.B. Pritzker speaking, with a static screenshot of a news article overlaid on top for contrast after a couple of seconds. The pacing is slow and deliberate.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Irony",
+    "Concern",
+    "Mockery"
+  ],
+  "cultural_references": [],
+  "central_claim": "J.B. Pritzker is out of touch with the reality of violent crime in Chicago, which his policies have failed to address.",
+  "intended_effect": "To make the viewer perceive J.B. Pritzker as an incompetent and disconnected leader regarding public safety.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,82 @@
+{
+  "video_id": "7618216111858912526",
+  "visual_action": "The video opens with a close-up of a man in a dark suit with a name-tag badge (appears to be a hotel/restaurant staff member) looking stoic. Cut to a young blonde woman in a pink cardigan and graphic tee leaning over a counter, smiling and speaking to the suited man. Cut to close-up shots of a New York State driver's license (name: KEVIN COPELAND, ID: 031 000 650, DOB: 01-19-7_, address: 3988 EAST [street], NEW YORK NY 10019) being displayed alongside a credit card (number: 1900 9011 2389, cardholder: KEVIN COPELAND), shown in two separate frames zooming in. The word \"DEMOCRATS\" appears as a white bold overlay at the bottom throughout the ID/credit card frames. Then cuts to a close-up of a different young blonde woman in an outdoor setting wearing a t-shirt reading \"...here's M...uture\" (partial text), reacting with a distressed/frustrated expression, still with \"DEMOCRATS\" overlay. A final frame shows a male police officer in uniform standing inside what appears to be a convenience store, looking skeptical or disapproving. The clips appear to be sourced from early-2000s Hollywood movies/TV.",
+  "cast": [
+    {
+      "name": "unnamed hotel/restaurant staffer",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Visible name badge on dark suit jacket, serves as the 'asking for ID' figure in the scene"
+    },
+    {
+      "name": "unnamed blonde woman (scene 1)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Young blonde woman in pink cardigan leaning over counter, appears to be the person being asked for ID"
+    },
+    {
+      "name": "Kevin Copeland",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Name printed on the New York driver's license and credit card shown on screen: 'KEVIN COPELAND'"
+    },
+    {
+      "name": "unnamed blonde woman (scene 2)",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Different blonde woman outdoors wearing partial-text t-shirt, shown with frustrated/crying expression under 'DEMOCRATS' label"
+    },
+    {
+      "name": "unnamed police officer",
+      "kind": "person",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Man in police uniform with badge visible, standing in convenience store, skeptical expression"
+    },
+    {
+      "name": "Democratic Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Persistent 'DEMOCRATS' overlay appears across multiple frames, labeling reactions/behavior"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "DEMOCRATS",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The audio features a dialogue snippet: a person (the young woman) says \"Yeah, I just, um, I need a credit card, please. And some ID, please.\" A second voice responds \"Credit card? ID?\" The woman then says \"I'm so freaking pissed.\" and \"What's your ID?\" followed by \"Yeah, I think I have it.\" The exchange depicts a routine request for ID and credit card, with the woman reacting with frustration at being asked.",
+  "emojis_present": [],
+  "audio_music": "Original audio from what appears to be a movie/TV scene: dialogue of a character being asked for ID and a credit card and reacting with frustration (\"I'm so freaking pissed\"). No background music detected.",
+  "editing_pacing": "Fast-cut montage style: quick cuts between the staffer, the blonde woman, close-up zoom-ins on the driver's license and credit card, then reaction shots of a second distressed blonde woman and a skeptical police officer. The ID/card frames use a slow zoom-in effect to highlight the documents.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery — 'DEMOCRATS' label applied to the frustrated woman who objects to showing ID",
+    "incredulity — stoic staffer and skeptical police officer reaction shots reinforce the 'it's that simple' framing",
+    "frustration — the blonde woman's distressed/crying reaction shot"
+  ],
+  "cultural_references": [
+    "Early-2000s Hollywood film/TV clips (unidentified titles) used as reaction meme footage",
+    "The 'you need ID for everything, why not voting?' political argument format"
+  ],
+  "central_claim": "Showing ID (like a driver's license) to complete a routine transaction is normal and easy; by extension, requiring ID to vote is simple and reasonable, and Democrats who oppose voter ID requirements are being absurd or dishonest.",
+  "intended_effect": "Prompt viewers to laugh at or dismiss Democratic opposition to voter ID laws by equating it to someone irrationally refusing to show ID for an ordinary purchase.",
+  "uncertainty_flags": [
+    "The specific films/TV shows the clips are sourced from are not definitively identified — the driver's license scene appears to come from a comedy film (possibly early-2000s), and the crying blonde woman and police officer appear to be from separate productions",
+    "The 'Kevin Copeland' ID shown is a fictional prop from a movie, not a real person's ID — but it is presented as part of a movie clip, not fabricated for this post",
+    "The exact caption text beyond the excerpt is not fully visible"
+  ]
+}

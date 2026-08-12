@@ -1,0 +1,59 @@
+{
+  "video_id": "7644626871564422413",
+  "visual_action": "A montage shows a Black man, identified by on-screen text as KSI, in several settings: laughing while playing a video game in a gaming chair, grimacing in a boxing ring wearing red gloves, singing into a microphone in a recording studio, and sitting on a throne made of ice in a dark, snowy environment.",
+  "cast": [
+    {
+      "name": "KSI",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The on-screen text reads 'how did ksi predict this' and his face is shown throughout the video."
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The audio includes a spoken prediction: 'Trump will invade Iran...'"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The audio claims Trump's actions will be 'to distract from the Epstein files'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "how did ksi predict this 😂",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "The video begins with lyrics from a rap song, 'From the screen to the ring, to the pen...' This is abruptly cut off by a different, monotone voice making a political prediction: 'Trump will invade Iran to distract from the Epstein files and gas prices will skyrocket.'",
+  "emojis_present": [
+    "😂",
+    "🔮"
+  ],
+  "audio_music": "The video starts with an upbeat hip-hop track for approximately 3 seconds, which is then abruptly cut and replaced by a monotone, spoken-word voiceover, creating a jarring effect that emphasizes the spoken message.",
+  "editing_pacing": "The video is a fast-paced montage with quick cuts between different scenes.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "alarm",
+    "fear",
+    "suspicion"
+  ],
+  "cultural_references": [
+    "KSI"
+  ],
+  "central_claim": "The post falsely attributes a prediction to internet personality KSI to claim that Donald Trump will start a war with Iran to distract from the Epstein scandal, which will cause gas prices to rise.",
+  "intended_effect": "To generate fear and opposition to Donald Trump by associating him with war, conspiracy, and economic hardship, using a popular cultural figure to amplify the message.",
+  "uncertainty_flags": [
+    "The origin of the dubbed audio making the political prediction is unclear; it may be a text-to-speech voice or a recording from an unknown source.",
+    "The primary manipulation in this post is audio dubbing combined with misleading on-screen text, which does not fall under the schema's definition of *visual* manipulation."
+  ]
+}

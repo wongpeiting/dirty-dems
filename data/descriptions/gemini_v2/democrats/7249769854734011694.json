@@ -1,0 +1,59 @@
+{
+  "video_id": "7249769854734011694",
+  "visual_action": "A static image shows Joe Biden kneeling on one knee and smiling at a political rally. A banner behind him reads 'LABOR FOR BIDEN HARRIS 2024'. Superimposed over Biden's body is a cutout of a young boy with glasses and a bowl haircut, who appears to be speaking with excitement.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "Joe Biden is shown kneeling in the background photograph and is named in the on-screen text 'BIDEN HARRIS'."
+    },
+    {
+      "name": "Kamala Harris",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "Kamala Harris is named in the on-screen text 'BIDEN HARRIS' and in the overlay text 'Biden-Harris rally'."
+    },
+    {
+      "name": "Labor unions",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "A large banner in the background of the rally photo reads 'LABOR FOR BIDEN HARRIS'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "LABOR FOR BIDEN HARRIS 2024",
+      "role": "other"
+    },
+    {
+      "text": "me after going to my first Biden-Harris rally",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "A young boy's voice says excitedly, \"That was crazy. I've never actually experienced that sort of atmosphere at a game before. It's absolutely electric.\"",
+  "emojis_present": [],
+  "audio_music": "The audio consists entirely of a popular meme sound clip of a young boy speaking excitedly. There is no other music.",
+  "editing_pacing": "The video is a static image with a superimposed cutout of a person.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "A cutout of a young boy from a different video is superimposed over a photo of Joe Biden at a rally to create a meme. The boy appears to be kneeling in front of Biden, but this is a digital composite.",
+  "emotions_signaled": [
+    "excitement",
+    "humor",
+    "positivity"
+  ],
+  "cultural_references": [
+    "The video uses a popular internet meme featuring a young boy (often identified online as 'Corey') excitedly reviewing a soccer match, known for the line 'it's absolutely electric'. Both the audio and the visual cutout of the boy are taken from this meme."
+  ],
+  "central_claim": "Attending a Biden-Harris rally is an overwhelmingly exciting and 'electric' experience.",
+  "intended_effect": "To generate humor and positive association with the Biden-Harris campaign by framing its rallies as highly energetic events, using a popular meme to appeal to younger audiences.",
+  "uncertainty_flags": [
+    "The provided music fingerprint 'Creature — PLATYPUSS' does not seem to match the audible content, which consists solely of a spoken-word meme audio clip."
+  ]
+}

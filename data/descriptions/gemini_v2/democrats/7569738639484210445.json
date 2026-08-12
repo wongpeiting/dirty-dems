@@ -1,0 +1,62 @@
+{
+  "video_id": "7569738639484210445",
+  "visual_action": "A static image of a screenshot of a tweet is shown. The tweet, from an account called 'FactPost', claims that the video game 'Grand Theft Auto VI' has been delayed due to 'Trump's economy'. The tweet includes a side-by-side image of the game's cover art and a photo of Donald Trump sitting at a desk with American flags behind him.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "A photo of him is shown next to the on-screen text that reads 'delayed as Trump's economy continues to crater'."
+    },
+    {
+      "name": "FactPost",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The screenshot shows a tweet from the account 'FactPost' with the handle '@factpostnews'."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "we are never getting gta 6 bro 😭😭😭",
+      "role": "overlay"
+    },
+    {
+      "text": "FactPost",
+      "role": "other"
+    },
+    {
+      "text": "@factpostnews",
+      "role": "other"
+    },
+    {
+      "text": "Grand Theft Auto VI has been further delayed as Trump's economy continues to crater.",
+      "role": "other"
+    },
+    {
+      "text": "grand theft auto VI",
+      "role": "other"
+    }
+  ],
+  "spoken_summary": "There is no speech in the video; only a music track plays.",
+  "emojis_present": [
+    "😭"
+  ],
+  "audio_music": "An upbeat, funky instrumental track plays throughout the video.",
+  "editing_pacing": "The video consists of a single static image.",
+  "is_manipulated": true,
+  "manipulation_or_satire": "The video displays a fabricated tweet from a fake news account called 'FactPost'. The tweet satirically claims that the release of the video game 'Grand Theft Auto VI' has been delayed due to 'Trump's economy'.",
+  "emotions_signaled": [
+    "mockery",
+    "satire"
+  ],
+  "cultural_references": [
+    "Grand Theft Auto VI"
+  ],
+  "central_claim": "A satirical post claims that Donald Trump's economic performance is responsible for delaying the release of the video game 'Grand Theft Auto VI'.",
+  "intended_effect": "To mock Donald Trump by satirically blaming his economic policies for an unrelated, fictional event.",
+  "uncertainty_flags": []
+}

@@ -1,0 +1,146 @@
+{
+  "video_id": "7603794228082167054",
+  "visual_action": "The video is a montage of clips from what appears to be a White House event. Donald Trump speaks from a presidential podium with a backdrop that reads \"TrumpRx\" and later \"TrumpRx.gov\". Other speakers, including two men in suits and a woman, also present or give testimonials. One of the men uses a large screen to show examples of drug price savings and a list of participating pharmacies. The woman later speaks from the presidential podium, and Trump pats her on the shoulder at the end of her speech. The video ends with a black-and-white credit screen showing the White House and the text \"THE WHITE HOUSE\".",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": true,
+      "evidence": "He is the main speaker, shown repeatedly at a podium announcing the 'TrumpRx.gov' initiative."
+    },
+    {
+      "name": "unnamed military spouse",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman gives a testimonial at the podium, identifying herself in the audio as a 'military spouse' who has benefited from the initiative for IVF treatment."
+    },
+    {
+      "name": "Robert F Kennedy Jr",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "He is briefly visible standing in the background as the military spouse walks toward the stage."
+    },
+    {
+      "name": "unnamed male presenter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A younger man in a blue suit and red tie is shown on a stage, speaking and pointing to a presentation about the drug program."
+    },
+    {
+      "name": "unnamed male presenter",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "An older man with grey hair in a suit is shown speaking on stage during the event."
+    },
+    {
+      "name": "The White House",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "The video is from the @whitehouse account and concludes with a branded credit screen that reads 'THE WHITE HOUSE'."
+    },
+    {
+      "name": "CVS Caremark",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears on a presentation slide listing participating pharmacies."
+    },
+    {
+      "name": "Alto Pharmacy",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears on a presentation slide listing participating pharmacies."
+    },
+    {
+      "name": "Mandell's Pharmacy",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears on a presentation slide listing participating pharmacies."
+    },
+    {
+      "name": "Prima Pharmacy",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Appears on a presentation slide listing participating pharmacies."
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "TrumpRx",
+      "role": "overlay"
+    },
+    {
+      "text": "TrumpRx.gov",
+      "role": "overlay"
+    },
+    {
+      "text": "ON AIR",
+      "role": "other"
+    },
+    {
+      "text": "Wegovy® 78-89% off",
+      "role": "overlay"
+    },
+    {
+      "text": "CVS Caremark",
+      "role": "overlay"
+    },
+    {
+      "text": "Alto Pharmacy",
+      "role": "overlay"
+    },
+    {
+      "text": "Mandell's Pharmacy",
+      "role": "overlay"
+    },
+    {
+      "text": "Prima Pharmacy",
+      "role": "overlay"
+    },
+    {
+      "text": "Cetrotide® $22.50",
+      "role": "overlay"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "Donald Trump announces that his administration is launching a 'transformative' new website, TrumpRx.gov, to provide prescription drugs at 'dramatic discounts' for all consumers, addressing the issue of Americans paying the highest drug prices in the world. An unnamed military spouse gives a testimonial, explaining how the president's efforts to reduce medication costs have a 'real and immediate impact,' specifically helping to ensure IVF treatment remains affordable for families like hers.",
+  "emojis_present": [],
+  "audio_music": "The video features a continuous, serious, and inspirational instrumental score with strings throughout, playing underneath all the dialogue. Music identified as 'Nadie me comprende.' by Joanma Carmona.",
+  "editing_pacing": "The video is edited like a professional political ad, with a montage of clips from a single event. It uses a moderate pace with cuts between different speakers (Trump, presenters, a citizen giving a testimonial) and various camera angles, including medium shots and close-ups.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Hope",
+    "Relief",
+    "Gratitude",
+    "Seriousness"
+  ],
+  "cultural_references": [],
+  "central_claim": "The Trump administration has launched a new website, TrumpRx.gov, to drastically lower prescription drug costs for Americans, including for essential treatments like IVF.",
+  "intended_effect": "To persuade viewers that Donald Trump is effectively tackling high healthcare costs and providing tangible financial relief to American families.",
+  "uncertainty_flags": [
+    "The names of the presenters and the woman giving the testimonial are not identified."
+  ]
+}

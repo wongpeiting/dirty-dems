@@ -1,0 +1,59 @@
+{
+  "video_id": "7277971166848142638",
+  "visual_action": "The entire video consists of a single continuous shot (or near-static clip) of a man identified as Joe Biden walking outdoors, wearing a dark navy suit, striped tie, white dress shirt, aviator sunglasses, and an American flag lapel pin. He is filmed from a slightly low angle against a soft dusk/dawn sky, with trees and a railing visible in the background. He appears to be walking toward the camera in a composed, deliberate manner, holding what appears to be a face mask at his side. A white news-headline overlay box is persistently displayed in the lower-center of the frame throughout the clip, showing a Politico headline. The framing and lighting give Biden a presidential, imposing appearance.",
+  "cast": [
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": true,
+      "evidence": "InsightFace face-ID confirmed; man in navy suit with aviator sunglasses walking toward camera throughout entire clip"
+    },
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Named in on-screen Politico headline: 'Biden blocks oil drilling on 10M acres in Alaska, including leases Trump sold'"
+    },
+    {
+      "name": "Politico",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "Source attribution 'POLITICO' displayed in red text beneath the headline overlay"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "Biden blocks oil drilling on 10M acres in Alaska, including leases Trump sold",
+      "role": "overlay"
+    },
+    {
+      "text": "POLITICO",
+      "role": "overlay"
+    }
+  ],
+  "spoken_summary": "No spoken dialogue or narration is audible in the clip. The Whisper transcript returned no transcribed speech. Communication is entirely visual, via the on-screen headline overlay.",
+  "emojis_present": [],
+  "audio_music": "Background instrumental music is present throughout the clip — identified by ACRCloud as \"Scott Street\" by Phoebe Bridgers. The track is quiet, melancholic, and indie/folk in character, featuring gentle guitar and a soft, introspective tone. It begins from the clip's start and plays continuously without change, lending a somber, earnest mood to the visuals.",
+  "editing_pacing": "Slow, near-static presentation — essentially a single continuous walking shot held for the duration of the clip. No cuts, no rapid edits. The pacing is deliberate and unhurried, with subtle natural camera movement tracking Biden's walk. The persistent headline overlay anchors the viewer's attention throughout.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "gravitas — the low-angle shot of Biden walking purposefully toward camera projects authority and resolve",
+    "quiet confidence — the calm music and composed subject reinforce a sense of deliberate action",
+    "significance — the persistent Politico headline overlay frames the action as a consequential policy moment"
+  ],
+  "cultural_references": [],
+  "central_claim": "President Biden has taken executive action to block oil drilling on 10 million acres in Alaska, including reversing oil leases that were sold under the Trump administration.",
+  "intended_effect": "Convey that Biden is taking bold, consequential environmental/energy policy action by blocking Trump-era oil drilling leases in Alaska, presenting this as a decisive presidential act backed by credible news sourcing.",
+  "uncertainty_flags": [
+    "The OCR reads '1OM acres' (with the letter O) but contextually this clearly means '10M acres' — confirmed by real-world Politico reporting on this policy; no manipulation implied",
+    "No caption text was provided for this post, so the framing/intent is inferred from the account (@democrats), the headline overlay, and the visual choices alone",
+    "The exact date of this policy action is not visible in the clip; it is consistent with known Biden administration energy/environmental actions"
+  ]
+}

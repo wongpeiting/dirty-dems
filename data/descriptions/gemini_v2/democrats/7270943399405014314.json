@@ -1,0 +1,94 @@
+{
+  "video_id": "7270943399405014314",
+  "visual_action": "A clip from a Fox News Republican presidential debate. Several candidates stand at podiums on a stage with a large 'FOX NEWS DEMOCRACY 24' backdrop. Two moderators sit at a desk in front of them. A female moderator asks a question, and a male candidate responds.",
+  "cast": [
+    {
+      "name": "Republican Party",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "spoken_about",
+      "is_main": true,
+      "evidence": "The top overlay text reads '2024 GOP Candidates on climate change 😳'."
+    },
+    {
+      "name": "Fox News",
+      "kind": "org",
+      "how_identified": "on_screen_text",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The logo 'FOX NEWS DEMOCRACY 24' is displayed prominently on the debate stage backdrop."
+    },
+    {
+      "name": "unnamed female moderator",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman shown on screen asks the candidates, 'Do you believe human behavior is causing climate change?'"
+    },
+    {
+      "name": "unnamed male candidate",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A man at a podium responds to the moderator's question by saying, 'Look we're not school children.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "2024 GOP Candidates on climate change 😳",
+      "role": "overlay"
+    },
+    {
+      "text": "So we want to start on this",
+      "role": "caption"
+    },
+    {
+      "text": "with a show of hands.",
+      "role": "caption"
+    },
+    {
+      "text": "Do you believe in—",
+      "role": "caption"
+    },
+    {
+      "text": "human behavior is causing climate change?",
+      "role": "caption"
+    },
+    {
+      "text": "Raise your hand if you do.",
+      "role": "caption"
+    },
+    {
+      "text": "Look we're not school children.",
+      "role": "caption"
+    },
+    {
+      "text": "FOX NEWS DEMOCRACY 24",
+      "role": "chyron"
+    },
+    {
+      "text": "FOX NEWS REPUBLICAN DEBATE",
+      "role": "chyron"
+    }
+  ],
+  "spoken_summary": "A female moderator at a Republican debate asks the candidates to raise their hands if they believe 'human behavior is causing climate change.' Before anyone can respond, a male candidate interjects dismissively, 'Look we're not school children.'",
+  "emojis_present": [
+    "😳"
+  ],
+  "audio_music": "The audio consists solely of dialogue from the debate clip. There is no music or other sound effects.",
+  "editing_pacing": "The video consists of a single, static shot from a broadcast. The only editing is the addition of text overlays and captions.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "mockery",
+    "disapproval"
+  ],
+  "cultural_references": [],
+  "central_claim": "Republican presidential candidates are dismissive and unwilling to give a straight answer when asked about their belief in human-caused climate change.",
+  "intended_effect": "To portray the GOP candidates as unserious and evasive on the topic of climate change, thereby generating disapproval among viewers.",
+  "uncertainty_flags": [
+    "Could not identify the specific male candidate or female moderator shown speaking."
+  ]
+}

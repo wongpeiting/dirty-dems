@@ -1,0 +1,122 @@
+{
+  "video_id": "7573823106440039694",
+  "visual_action": "The video is a montage styled like a movie trailer. It begins with abstract colorful liquids and a blurry shot of a McDonald's. It then shows Donald Trump putting on a black and yellow apron and serving from a drive-thru window. This is intercut with close-ups of sizzling burgers and french fries. The video transitions to shots of large, cheering crowds at a Trump rally, waving flags and signs. Then, the montage shifts to more presidential imagery: Trump in a suit, walking through the White House, on an airport tarmac with planes and helicopters, saluting military personnel, and signing documents. Ivanka Trump briefly appears beside him at a podium. The video includes shots of fighter jets flying overhead and Trump addressing rallies. It concludes with a black screen showing the White House logo.",
+  "cast": [
+    {
+      "name": "Donald Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "both",
+      "is_main": true,
+      "evidence": "He is the central figure shown throughout the video, both speaking and being spoken about."
+    },
+    {
+      "name": "McDonald's",
+      "kind": "org",
+      "how_identified": "implied",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "The \"Golden Arches\" logo and imagery of its food (fries, burgers) are used as a central visual metaphor at the beginning of the video."
+    },
+    {
+      "name": "Joe Biden",
+      "kind": "person",
+      "how_identified": "named_in_audio",
+      "role_in_post": "spoken_about",
+      "is_main": false,
+      "evidence": "A commentator says Trump's 'sharpies working harder than Biden ever did.'"
+    },
+    {
+      "name": "Ivanka Trump",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "She is briefly shown smiling next to Donald Trump at a podium with the presidential seal."
+    },
+    {
+      "name": "Mike Johnson",
+      "kind": "person",
+      "how_identified": "face",
+      "role_in_post": "shown_only",
+      "is_main": false,
+      "evidence": "Identified by authoritative face-ID, visible in the background during a montage sequence."
+    },
+    {
+      "name": "unnamed female speaker",
+      "kind": "person",
+      "how_identified": "voice",
+      "role_in_post": "speaking",
+      "is_main": false,
+      "evidence": "A woman's voice is heard introducing Trump: 'It is my honor to introduce to you the 45th and the 47th president of the United States, Donald J. Trump.'"
+    }
+  ],
+  "on_screen_text": [
+    {
+      "text": "MEANT FOR MORE...",
+      "role": "overlay"
+    },
+    {
+      "text": "HE SAW GREATNESS",
+      "role": "overlay"
+    },
+    {
+      "text": "A FRESH START FOR AMERICA",
+      "role": "overlay"
+    },
+    {
+      "text": "NOTHING IS IMPOSSIBLE",
+      "role": "overlay"
+    },
+    {
+      "text": "TRUMP VANCE",
+      "role": "other"
+    },
+    {
+      "text": "Never Surrender",
+      "role": "other"
+    },
+    {
+      "text": "FROM THE GOLDEN ARCHES",
+      "role": "overlay"
+    },
+    {
+      "text": "TO THE GOLDEN AGE",
+      "role": "overlay"
+    },
+    {
+      "text": "45-47 US",
+      "role": "other"
+    },
+    {
+      "text": "MAKE AMERICA GREAT AGAIN 45-47",
+      "role": "other"
+    },
+    {
+      "text": "THE WHITE HOUSE",
+      "role": "credit"
+    }
+  ],
+  "spoken_summary": "The video features a deep-voiced narrator who tells a story in a movie-trailer style, framing Donald Trump's life as a journey from humble beginnings to greatness. The narrator says, \"One man had a dream... his life was meant for more than serving fries... From the golden arches to the golden age.\" Donald Trump is heard saying to a crowd, \"They're happy because they want hope. They need hope,\" and later promises, \"This will be America's new golden age.\" Other audio clips include a woman introducing him as \"the 45th and the 47th president,\" and various commentators praising his accomplishments, with lines like \"promises made, promises kept\" and \"his sharpies working harder than Biden ever did.\"",
+  "emojis_present": [],
+  "audio_music": "A continuous, dramatic, and inspiring orchestral score, similar to a movie trailer soundtrack, plays throughout the entire video to create a heroic and epic tone. The identified track is 'Schisma — The Quiet Man'.",
+  "editing_pacing": "The video is a slickly produced montage with a mix of slow-motion shots and fast cuts. The pacing accelerates in the second half, rapidly cutting between various scenes of Trump as president, including rallies, official duties, and military events, to convey a sense of action and accomplishment.",
+  "is_manipulated": false,
+  "manipulation_or_satire": "",
+  "emotions_signaled": [
+    "Inspiration",
+    "Hope",
+    "Pride",
+    "Patriotism",
+    "Admiration"
+  ],
+  "cultural_references": [
+    "McDonald's",
+    "The American Dream"
+  ],
+  "central_claim": "Donald Trump's political career is presented as the ultimate American dream story, suggesting his return to the presidency will move America from the 'Golden Arches' to a new 'Golden Age'.",
+  "intended_effect": "To inspire viewers with a heroic and patriotic narrative of Trump's journey and future plans, making them feel hopeful and supportive of his leadership.",
+  "uncertainty_flags": [
+    "While authoritative face-ID confirmed Mike Johnson's presence, he was not clearly identifiable to a human reviewer in the rapid montage footage."
+  ]
+}
