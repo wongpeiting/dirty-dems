@@ -1,34 +1,16 @@
 # *Dirty Dems* — code, data & methodology
 
-This is the data and code behind a data journalism thesis on how the Democratic Party's official
-TikTok account, **@democrats**, changed its voice after the 2024 election — turning from policy and
-get-out-the-vote messaging toward insults, crudeness and spectacle — measured against the two flagship
-Republican accounts, the RNC's **@republicans** and the Trump administration's **@whitehouse**.
+This is the data and code behind a data journalism thesis on how the Democratic Party's official TikTok account, **@democrats**, changed its voice after the 2024 election — turning from policy and get-out-the-vote messaging toward insults, crudeness and spectacle — measured against the two flagship Republican accounts, the RNC's **@republicans** and the Trump administration's **@whitehouse**.
 
-This analysis included every post those three accounts published from their inception through
-July 31, 2026. In full, **4,014** posts were analyzed: **2,881** by @democrats, **908** by @whitehouse
-and **225** by @republicans.
+This analysis included every post those three accounts published from their inception through July 31, 2026. In full, **4,014** posts were analyzed: **2,881** by @democrats, **908** by @whitehouse and **225** by @republicans.
 
-Generally, TikTok posts resist analysis at scale because their meaning is distributed across channels:
-spoken dialogue, captions, text burned into the video, music, editing, meme formats, faces and visual
-context. A transcript alone misses most of what a viewer sees, and a caption alone is often
-deliberately meaningless without the clip beneath it.
+Generally, TikTok posts resist analysis at scale because their meaning is distributed across channels: spoken dialogue, captions, text burned into the video, music, editing, meme formats, faces and visual context. A transcript alone misses most of what a viewer sees, and a caption alone is often deliberately meaningless without the clip beneath it.
 
-Still, TikTok provides a unique window into how these accounts are changing the way they talk, because
-it is where they appear least guarded among major social media platforms — the most meme-driven of the
-feeds, and the one whose algorithm most rewards spectacle.
+The innovation here is a solution where each of those videos was first bundled with machine-extracted signals, including a speech transcript, on-screen text, face identifications and the soundtrack's identity. Then, a multimodal large language model (Google's Gemini 2.5 Pro) turned those signals into a structured description: what happens, who appears, what is said and shown, and what is claimed. A second, text-only pass by the model then classified those descriptions into the measures used throughout: each post's primary purpose; how each political figure is portrayed, from glorification to attack; the crudeness of the account's manner; and techniques such as rage-bait framing and the put-downs the internet calls "dunks."
 
-Each of those videos was first bundled with machine-extracted signals, including a speech transcript,
-on-screen text, face identifications and the soundtrack's identity. Then, a multimodal large language
-model (Google's Gemini 2.5 Pro) turned those signals into a structured description: what happens, who
-appears, what is said and shown, and what is claimed. A second, text-only pass by the model then
-classified those descriptions into the measures used throughout: each post's primary purpose; how each
-political figure is portrayed, from glorification to attack; the crudeness of the account's manner;
-and techniques such as rage-bait framing and the put-downs the internet calls "dunks."
+<img width="1288" height="801" alt="Image" src="https://github.com/user-attachments/assets/c7ea9155-430d-4fd8-acf4-de09714c68ed" />
 
-This folder contains that pipeline, the data it derived, and the auditable notebooks behind every
-cited number. The methodology narrative — the **postscript** — is reproduced in full below, after the
-folder map.
+This folder contains that pipeline, the data it derived, and the auditable notebooks behind every cited number. 
 
 ---
 
@@ -71,57 +53,34 @@ dirty-dems/
     └── walls_print.md                        hand-locked "according to Dems" insult walls (a notebook input)
 ```
 
-Raw `.mp4` files are **not redistributed** (TikTok's terms, plus size); everything the pipeline
-*derived* from them is here, so the analysis is reproducible from the descriptions down without
-re-fetching a single video.
-
-**To reproduce a notebook:** the `.ipynb` files are the final, executed products (code + output + annotation
-inline). Re-run any of them against the bundled data with:
-
-```bash
-cd notebooks
-jupyter nbconvert --to notebook --execute --inplace corpus_eda.ipynb   # exits 0
-```
-
-To rebuild the *data* from scratch, see **[Running the pipeline](#running-the-pipeline)** below.
+To rebuild the data from scratch, see **[Running the pipeline](#running-the-pipeline)** below.
 
 ---
 
-# Postscript
+#### Postscript
 
 ## Teaching a bot that "thank you, mr. president!" isn't always a thank you
 
-Stripped all the way back, this project taught a machine something any person already knows: in
-politics, words often don't mean what they say. It came out of a slog. Last spring I spent two weeks
-hand-classifying 600 @whitehouse TikToks for another story — watching every single one and tagging it
-by subject, how the meme was packaged, and how it was cut.
 
-Two things were clear by the end. The judgments were rarely hard for a human: the sarcasm, the
-references, the difference between a tribute and a taunt are legible within seconds of watching. But every
-judgment needed the whole post — a caption meant nothing without the video under it, and the music
-routinely reversed what the text seemed to say. And watching does not scale: 600 posts took a fortnight,
-and this story needed 4,014.
+Stripped all the way back, this project taught a machine something any person already knows: in politics, words often don't mean what they say. It came out of a slog. Last spring I spent two weeks hand-classifying 600 @whitehouse TikToks for another story — watching every single one and tagging it by subject, how the meme was packaged, and how it was cut.
 
-The pipeline described below, which I call signals2text, is my answer to that: build a machine that can
-watch first and judge second.
+<img width="1800" height="1110" alt="Image" src="https://github.com/user-attachments/assets/981beb24-b3a5-428d-b1f0-f94f78b49f38" />
 
-The 600 hand-coded posts served as the pipeline's source of truth. For 50 of these posts, I tested
-competing LLMs, which were scored against my hand-coding. In each turn, I looked to see whether the
-machine named the right people, read the on-screen text, caught what was faked, and stayed faithful to my
-overall interpretation. I kept refining the instructions until the descriptions closely matched my reading
-of those 50. Google's Gemini 2.5 Pro described them most faithfully. On the remaining 550 hand-coded
-posts — the ones I could check against my own labels — it identified the right people in roughly 96
-percent, the foundation the rest of the analysis rests on. I then ran it across the full corpus of 4,014
-posts.
+Two things were clear by the end. The judgments were rarely hard for a human: the sarcasm, the references, the difference between a tribute and a taunt are legible within seconds of watching. But every judgment needed the whole post — a caption meant nothing without the video under it, and the music routinely reversed what the text seemed to say. And watching does not scale: 600 posts took a fortnight, and this story needed 4,014.
+
+The pipeline described below, which I call signals2text, is my answer to that: build a machine that can watch first and judge second.
+
+<img width="1136" height="839" alt="Image" src="https://github.com/user-attachments/assets/27453ec7-8093-46b9-8876-41129deb0fb4" />
+
+The 600 hand-coded posts served as the pipeline's source of truth. For 50 of these posts, I tested competing LLMs, which were scored against my hand-coding. In each turn, I looked to see whether the machine named the right people, read the on-screen text, caught what was faked, and stayed faithful to my overall interpretation. I kept refining the instructions until the descriptions closely matched my reading of those 50. Google's Gemini 2.5 Pro described them most faithfully. On the remaining 550 hand-coded posts — the ones I could check against my own labels — it identified the right people in roughly 96 percent, the foundation the rest of the analysis rests on. I then ran it across the full corpus of 4,014 posts.
+
+<img width="1305" height="810" alt="Image" src="https://github.com/user-attachments/assets/fc41c1ce-615d-46a6-83ad-d1f96f650840" />
 
 ## Peculiarities of political sarcasm
 
-Insults are easy to miscount, especially when sarcasm inverts a line's surface meaning. Read literally,
-"thank you, mr. president!" is gratitude. On the TikTok feed, it captions the @democrats' "fat chud rules"
-post. In other examples, "Bro is definitely not mad" asserts calm about a man melting down and "look how
-cute 🤗" decorates mockery. A keyword scan will read all three as neutral or warm as the insult lives not
-in the words but in the mismatch between the words and the video underneath them — which is why
-classification had to work from every single signal baked into one post.
+Insults are easy to miscount, especially when sarcasm inverts a line's surface meaning. Read literally, "thank you, mr. president!" is gratitude. On the TikTok feed, it captions the @democrats' "fat chud rules" post. In other examples, "Bro is definitely not mad" asserts calm about a man melting down and "look how cute 🤗" decorates mockery. A keyword scan will read all three as neutral or warm as the insult lives not in the words but in the mismatch between the words and the video underneath them — which is why classification had to work from every single signal baked into one post.
+
+<img width="1800" height="1120" alt="Image" src="https://github.com/user-attachments/assets/1b2219eb-7fa6-4a5e-8982-7c7be6c0c44d" />
 
 These signals were first extracted in separate passes before the model sees the video, using the
 following tools:
@@ -155,16 +114,7 @@ Splitting watching from judging means every verdict is anchored to a written des
 checked against the video, and disputed line by line. Wherever a post was borderline, the classifier was
 instructed to take the milder reading, so the attack and crudeness figures are floors, not ceilings.
 
-The classifier's labels were also checked against a fully independent second model — Anthropic's Claude
-Sonnet 4.6 — which, on a sample deliberately weighted toward the posts the model itself was least sure
-about, agreed on 87 percent of attack calls (whether a post is an attack) and 91 percent at the
-crude-or-crass line (a crudeness of 2 or higher). Human checks were targeted rather than sampled: every insult and profanity line shown in the piece's
-visualizations was checked against its source
-video — about 400 posts in all — and roughly 88 percent of the lines the machine had pulled were
-confirmed; the rest were wrong or borrowed and were cut by hand. Dozens of the machine's descriptions
-were spot-checked field by field, with no errors in the core classifications (function, tone, target);
-the minor issues that did surface were confined to peripheral details, such as a misidentified song or
-an over-eager identification of cultural references.
+The classifier's labels were also checked against a fully independent second model — Anthropic's Claude Sonnet 4.6 — which, on a sample deliberately weighted toward the posts the model itself was least sure about, agreed on 87 percent of attack calls (whether a post is an attack) and 91 percent at the crude-or-crass line (a crudeness of 2 or higher). Human checks were targeted rather than sampled: every insult and profanity line shown in the piece's visualizations was checked against its source video — about 400 posts in all — and roughly 88 percent of the lines the machine had pulled were confirmed; the rest were wrong or borrowed and were cut by hand. Dozens of the machine's descriptions were spot-checked field by field, with no errors in the core classifications (function, tone, target); the minor issues that did surface were confined to peripheral details, such as a misidentified song or an over-eager identification of cultural references.
 
 ## How the LLM figured insults
 
@@ -184,6 +134,8 @@ insult wall visualizations possible. Each line is saved with who said it and who
 words can be counted, traced (to Trump's own tweets, among other places), and checked against the video.
 Only the account's own words count toward its tally; a song it played or a line it quoted does not —
 unless the post stamps that line on screen and builds the joke around it.
+
+<img width="1800" height="2669" alt="Image" src="https://github.com/user-attachments/assets/a2ec861a-ae95-4d30-a120-1e36aedc40ef" />
 
 The corpus includes every post published by the three accounts through July 31, 2026, which amounts to
 2,881 by @democrats, 908 by @whitehouse and 225 by @republicans.
