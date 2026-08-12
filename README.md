@@ -62,7 +62,7 @@ To rebuild the data from scratch, see **[Running the pipeline](#running-the-pipe
 ## Teaching a bot that "thank you, mr. president!" isn't always a thank you
 
 
-Stripped all the way back, this project taught a machine something any person already knows: in politics, words often don't mean what they say. It came out of a slog. Last spring I spent two weeks hand-classifying 600 @whitehouse TikToks for another story — watching every single one and tagging it by subject, how the meme was packaged, and how it was cut.
+Stripped all the way back, this project taught a machine something any person already knows: in politics, words often don't mean what they say. It came out of a slog. Last spring I [spent two weeks]([url](https://wongpeiting.github.io/peak-meme)) hand-classifying 600 @whitehouse TikToks for another story — watching every single one and tagging it by subject, how the meme was packaged, and how it was cut.
 
 <img width="1800" height="1110" alt="Image" src="https://github.com/user-attachments/assets/981beb24-b3a5-428d-b1f0-f94f78b49f38" />
 
@@ -137,9 +137,6 @@ unless the post stamps that line on screen and builds the joke around it.
 
 <img width="1800" height="2669" alt="Image" src="https://github.com/user-attachments/assets/a2ec861a-ae95-4d30-a120-1e36aedc40ef" />
 
-The corpus includes every post published by the three accounts through July 31, 2026, which amounts to
-2,881 by @democrats, 908 by @whitehouse and 225 by @republicans.
-
 ## Why these accounts, and why TikTok
 
 With the Democrats out of power, the party has no government feed to answer @whitehouse. Its senators and
@@ -176,39 +173,4 @@ re-collect the posts from the ID lists in `data/posts/*.csv`, then run the stage
 | 4 | Profanity / dunks | `profanity_scan.py`, `extract_multidunk.py` | descriptions + signals | `classification/profanity_*`, dunk lines |
 | 5 | Independent check | `classify_val_claude.py`, `eval_descriptions.py` | descriptions | second-model validation |
 
-Stage 2 reads only the Stage-1 descriptions — never the video — which is why the descriptions ship here and
-Stage 2 can be re-run offline. `mechanism_sweep.py` is an exploratory keyword screen kept for provenance;
-it is **not** the classifier. The `faceid/` scripts are the core of a separate project (**pol-face**),
-which builds the reference roster and detects faces across the corpus — enough to show how the face signal
-is produced, not the whole project.
-
-**Keys.** Credentials are read from a `.env` file (copy `signals2text/.env.example`, never commit real
-keys): `GEMINI_API_KEY` (describe + classify), `ANTHROPIC_API_KEY` (the Claude validation pass), and
-`ACRCLOUD_HOST` / `ACRCLOUD_ACCESS_KEY` / `ACRCLOUD_ACCESS_SECRET` (music). Install with
-`pip install -r signals2text/requirements.txt`.
-
-**A note on paths.** These scripts were authored to run from the project's original working directory:
-`description_config.py` resolves its data paths relative to the script and expects the `pol-face` project
-as a sibling, and several call `load_dotenv("../.env")`. They are included faithfully, as they ran — not
-rewritten for this layout — so the method is inspectable exactly as executed; adjust the paths to your
-setup before running.
-
----
-
-## Data provenance
-
-- `data/descriptions/`, `data/classification/`, `data/analysis/` — derived by the signals2text pipeline
-  from the videos. Not raw video.
-- `data/posts/*.csv` — post IDs + metadata; the ID lists let you re-collect the video to rebuild from
-  scratch.
-- `data/x/trump_archive/*.csv` — public MarkHershey/CompleteTrumpTweetsArchive mirror of Trump's tweets
-  (the insult-lineage comparison set).
-- `data/walls_print.md` — the hand-vetted insult inventory the notebooks read; it is the analytical
-  source-of-record. The published wall graphics received minor later editorial edits, so they can differ
-  from this file in small details.
-
-## Requirements
-
-`requirements.txt` covers the analysis notebooks (written in `pandas`, plus `jupyter` / `nbconvert`
-to execute). The pipeline's own, heavier dependencies (the LLM, OCR, face and music libraries) are
-listed separately in `signals2text/requirements.txt`.
+Stage 2 reads only the Stage-1 descriptions, which is why it Stage 2 can be re-run offline. `mechanism_sweep.py` is an exploratory keyword screen kept for provenance, and is not the classifier. The `faceid/` scripts are the core of a separate project (**pol-face**), which builds the reference roster and detects faces across the corpus.
