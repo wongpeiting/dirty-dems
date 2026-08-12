@@ -9,10 +9,14 @@ This analysis included every post those three accounts published from their ince
 July 31, 2026. In full, **4,014** posts were analyzed: **2,881** by @democrats, **908** by @whitehouse
 and **225** by @republicans.
 
-TikTok posts resist analysis at scale because their meaning is distributed across channels: spoken
-dialogue, captions, text burned into the video, music, editing, meme formats, faces and visual
+Generally, TikTok posts resist analysis at scale because their meaning is distributed across channels:
+spoken dialogue, captions, text burned into the video, music, editing, meme formats, faces and visual
 context. A transcript alone misses most of what a viewer sees, and a caption alone is often
 deliberately meaningless without the clip beneath it.
+
+Still, TikTok provides a unique window into how these accounts are changing the way they talk, because
+it is where they appear least guarded among major social media platforms — the most meme-driven of the
+feeds, and the one whose algorithm most rewards spectacle.
 
 Each of those videos was first bundled with machine-extracted signals, including a speech transcript,
 on-screen text, face identifications and the soundtrack's identity. Then, a multimodal large language
@@ -151,12 +155,16 @@ Splitting watching from judging means every verdict is anchored to a written des
 checked against the video, and disputed line by line. Wherever a post was borderline, the classifier was
 instructed to take the milder reading, so the attack and crudeness figures are floors, not ceilings.
 
-Classifications were checked against a fully independent second model — Anthropic's Claude Sonnet 4.6 —
-which, on a sample deliberately weighted toward the posts the model itself was least sure about, reached
-the same answer on 87 percent of attack calls and 91 percent at the crude-or-crass line. Human checks were
-targeted rather than sampled: every line on the insult and profanity walls was vetted against its video —
-more than 200 posts in all — ambiguous matches were ruled on individually, and at least 75 of the
-machine's descriptions were spot-checked field by field.
+The classifier's labels were also checked against a fully independent second model — Anthropic's Claude
+Sonnet 4.6 — which, on a sample deliberately weighted toward the posts the model itself was least sure
+about, agreed on 87 percent of attack calls (whether a post is an attack) and 91 percent at the
+crude-or-crass line (a crudeness of 2 or higher). Human checks were targeted rather than sampled: every insult and profanity line shown in the piece's
+visualizations was checked against its source
+video — about 400 posts in all — and roughly 88 percent of the lines the machine had pulled were
+confirmed; the rest were wrong or borrowed and were cut by hand. Dozens of the machine's descriptions
+were spot-checked field by field, with no errors in the core classifications (function, tone, target);
+the minor issues that did surface were confined to peripheral details, such as a misidentified song or
+an over-eager identification of cultural references.
 
 ## How the LLM figured insults
 
@@ -182,19 +190,16 @@ The corpus includes every post published by the three accounts through July 31, 
 
 ## Why these accounts, and why TikTok
 
-Out of power in Washington, the Democrats have no central government megaphone equivalent to the
-@WhiteHouse account. Outside of individual party leaders' accounts, which are more likely to have regional
-followings, the closest thing the party has to a megaphone is the Democratic National Committee's official
-platforms.
-
-The study therefore centers on its flagship TikTok account, @democrats, set against the two flagship
-accounts on the Republican side: @whitehouse, run by the Trump administration, and @republicans, the
-Republican National Committee's account. All three are staffed, strategically managed feeds — institutional
-voices, where the stakes of the story live.
+With the Democrats out of power, the party has no government feed to answer @whitehouse. Its senators and
+governors run their own, largely regional, accounts, so the nearest thing to a national megaphone is the
+Democratic National Committee's. I built the comparison around the DNC's flagship, @democrats, and set it
+against the two biggest official accounts on the Republican side — @whitehouse, run by the Trump
+administration, and @republicans, the RNC's. All three are staffed, tightly managed feeds — each its
+side's official institutional voice.
 
 I focused on TikTok because it is where I observed parties to be the least guarded. My earlier analysis of
 the White House's first 600 TikTok posts found that, while it often cross-posts its TikTok content on
-Instagram, it kept 24 of its 35 posts that carry profanity off the platform. That reinforced my
+Instagram, it kept 24 of its 35 posts that carry profanity off Instagram. That reinforced my
 expectation that if official politics were loosening its collar, TikTok is where it would happen first, and
 most visibly. It is also the most meme-driven of the major feeds, where political operatives could fold
 serious messaging into a joke.
